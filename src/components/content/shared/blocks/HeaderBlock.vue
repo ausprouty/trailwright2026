@@ -30,7 +30,9 @@ const tagName = computed(() => {
 </script>
 
 <template>
-  <component :is="tagName" class="header-block" v-html="data.text || ''" />
+  <component :is="tagName" class="header-block">
+    <span v-html="data.text || ''" />
+  </component>
 </template>
 
 <style scoped>

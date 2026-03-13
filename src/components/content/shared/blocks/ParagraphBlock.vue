@@ -7,7 +7,9 @@ defineProps<{
 </script>
 
 <template>
-  <p class="paragraph-block" v-html="data.text || ''" />
+  <p class="paragraph-block">
+    <span v-html="data.text || ''" />
+  </p>
 </template>
 
 <style scoped>

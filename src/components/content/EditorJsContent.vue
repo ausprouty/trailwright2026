@@ -1,15 +1,8 @@
 <script setup lang="ts">
-type EditorJsBlock = {
-  type: string;
-  data: unknown;
-};
-
-type EditorJsContentData = {
-  blocks?: EditorJsBlock[];
-};
+import type { EditorJsContent } from 'src/types/editorBlocks';
 
 defineProps<{
-  content: EditorJsContentData;
+  content: EditorJsContent;
   resolveBlockComponent: (type: string) => unknown;
 }>();
 </script>

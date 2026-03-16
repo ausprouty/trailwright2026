@@ -1,16 +1,10 @@
 <script setup lang="ts">
 import EditorJsContent from '../../EditorJsContent.vue';
+import type { EditorJsContent as EditorJsContentType } from 'src/types/EditorBlocks';
 import { resolveSharedBlockComponent } from '../../shared/resolveSharedBlockComponent';
 
-type EditorJsContentData = {
-  blocks?: Array<{
-    type: string;
-    data: unknown;
-  }>;
-};
-
 defineProps<{
-  content: EditorJsContentData;
+  content: EditorJsContentType;
 }>();
 
 function resolveMyFriendsBlockComponent(type: string) {

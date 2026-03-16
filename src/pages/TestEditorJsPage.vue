@@ -1,25 +1,20 @@
 <script setup lang="ts">
 import MyFriendsEditorJsContent from 'src/components/content/sites/myfriends/MyFriendsEditorJsContent.vue';
+import type { EditorJsContent } from 'src/types/EditorBlocks';
 
-const sampleContent = {
+const sampleContent: EditorJsContent = {
   blocks: [
     {
       type: 'header',
       data: {
-        text: 'Welcome to Trailwright',
+        text: 'Welcome',
         level: 2,
       },
     },
     {
       type: 'paragraph',
       data: {
-        text: 'This is the first rendered paragraph from EditorJS content.',
-      },
-    },
-    {
-      type: 'paragraph',
-      data: {
-        text: 'Now we know the site renderer is working.',
+        text: 'This is a test paragraph.',
       },
     },
   ],

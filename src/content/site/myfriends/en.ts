@@ -1,4 +1,4 @@
-import type { SiteContentMap } from 'src/types/siteContent';
+import type { SiteContentMap } from 'src/types/SiteContent';
 
 const sharedEn: SiteContentMap = {
   review: {

@@ -3,5 +3,5 @@ export function getStudyProgress(study: string): Promise<{ lastCompletedLesson?:
     study,
   });
 
-  return null;
+  return Promise.resolve(null);
 }

@@ -1,11 +1,8 @@
-import "../shared/blockHeader.css";
-import "./BiblePassageTool.css";
+import '../shared/blockHeader.css';
+import './BiblePassageTool.css';
 
-import {
-  fetchBiblePassage,
-  type BibleToolConfig,
-} from "../shared/bibleApi";
-import { escapeHtml } from "../shared/html";
+import { fetchBiblePassage, type BibleToolConfig } from '../shared/bibleApi';
+import { escapeHtml } from '../shared/html';
 
 type BiblePassageToolData = {
   reference: string;
@@ -23,7 +20,7 @@ type EditorJSToolConstructorArgs = {
 export default class BiblePassageTool {
   public static get toolbox() {
     return {
-      title: "Bible Passage",
+      title: 'Bible Passage',
       icon: `
         <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
           <path d="M6 3h9a3 3 0 0 1 3 3v13a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2V5a2 2 0 0 1 2-2zm0 2v12h10V6a1 1 0 0 0-1-1H6zm2 3h6v2H8V8zm0 4h6v2H8v-2z"/>
@@ -71,74 +68,68 @@ export default class BiblePassageTool {
     this.readOnly = Boolean(args.readOnly);
     this.config = args.config || {};
     this.data = {
-      reference: args.data?.reference ? String(args.data.reference) : "",
-      passage: args.data?.passage ? String(args.data.passage) : "",
-      isOpen: typeof args.data?.isOpen === "boolean"
-        ? args.data.isOpen
-        : true,
+      reference: args.data?.reference ? String(args.data.reference) : '',
+      passage: args.data?.passage ? String(args.data.passage) : '',
+      isOpen: typeof args.data?.isOpen === 'boolean' ? args.data.isOpen : true,
     };
 
     this.isEditing = !this.data.passage;
   }
 
   public render(): HTMLElement {
-    this.wrapper = document.createElement("div");
-    this.wrapper.className = "bible-passage-tool";
+    this.wrapper = document.createElement('div');
+    this.wrapper.className = 'bible-passage-tool';
 
-    this.controlsEl = document.createElement("div");
-    this.controlsEl.className = "bible-passage-tool__controls";
+    this.controlsEl = document.createElement('div');
+    this.controlsEl.className = 'bible-passage-tool__controls';
 
-    this.referenceInput = document.createElement("input");
-    this.referenceInput.type = "text";
-    this.referenceInput.placeholder =
-      "Enter Bible reference, e.g. John 3:16-17";
+    this.referenceInput = document.createElement('input');
+    this.referenceInput.type = 'text';
+    this.referenceInput.placeholder = 'Enter Bible reference, e.g. John 3:16-17';
     this.referenceInput.value = this.data.reference;
-    this.referenceInput.className = "bible-passage-tool__input";
+    this.referenceInput.className = 'bible-passage-tool__input';
     this.referenceInput.disabled = this.readOnly;
 
-    this.fetchButton = document.createElement("button");
-    this.fetchButton.type = "button";
-    this.fetchButton.textContent = "Fetch passage";
-    this.fetchButton.className = "bible-passage-tool__button";
+    this.fetchButton = document.createElement('button');
+    this.fetchButton.type = 'button';
+    this.fetchButton.textContent = 'Fetch passage';
+    this.fetchButton.className = 'bible-passage-tool__button';
     this.fetchButton.disabled = this.readOnly;
 
-    this.statusEl = document.createElement("div");
-    this.statusEl.className = "bible-passage-tool__status";
+    this.statusEl = document.createElement('div');
+    this.statusEl.className = 'bible-passage-tool__status';
 
-    this.headerEl = document.createElement("button");
-    this.headerEl.type = "button";
-    this.headerEl.className = "bible-passage-tool__header tool-header";
-    this.headerEl.style.display = "none";
+    this.headerEl = document.createElement('button');
+    this.headerEl.type = 'button';
+    this.headerEl.className = 'bible-passage-tool__header tool-header';
+    this.headerEl.style.display = 'none';
 
-    this.passageEl = document.createElement("div");
-    this.passageEl.className = "bible-passage-tool__passage";
+    this.passageEl = document.createElement('div');
+    this.passageEl.className = 'bible-passage-tool__passage';
 
     if (this.data.passage) {
       this.updateDisplay();
     }
 
     if (!this.readOnly) {
-      this.fetchButton.addEventListener("click", () => {
+      this.fetchButton.addEventListener('click', () => {
         void this.fetchPassage();
       });
 
-      this.referenceInput.addEventListener(
-        "keydown",
-        (event: KeyboardEvent) => {
-          if (event.key === "Enter") {
-            event.preventDefault();
-            void this.fetchPassage();
-          }
-        },
-      );
+      this.referenceInput.addEventListener('keydown', (event: KeyboardEvent) => {
+        if (event.key === 'Enter') {
+          event.preventDefault();
+          void this.fetchPassage();
+        }
+      });
 
-      this.headerEl.addEventListener("click", (event: MouseEvent) => {
+      this.headerEl.addEventListener('click', (event: MouseEvent) => {
         const target = event.target as HTMLElement | null;
         if (!target) {
           return;
         }
 
-        if (target.closest(".bible-passage-tool__header-edit")) {
+        if (target.closest('.bible-passage-tool__header-edit')) {
           event.preventDefault();
           event.stopPropagation();
           this.showControlsForEditing();
@@ -169,18 +160,18 @@ export default class BiblePassageTool {
       : this.data.reference.trim();
 
     if (!reference) {
-      this.setStatus("Please enter a Bible reference.", "error");
+      this.setStatus('Please enter a Bible reference.', 'error');
       return;
     }
 
     this.setLoading(true);
-    this.setStatus("Loading passage...", "info");
+    this.setStatus('Loading passage...', 'info');
 
     try {
       const passageText = await fetchBiblePassage(reference, this.config);
 
       if (!passageText) {
-        throw new Error("No passage text returned from API");
+        throw new Error('No passage text returned from API');
       }
 
       this.data.reference = reference;
@@ -189,13 +180,10 @@ export default class BiblePassageTool {
       this.isEditing = false;
 
       this.updateDisplay();
-      this.setStatus("Passage loaded.", "success");
+      this.setStatus('Passage loaded.', 'success');
     } catch (err) {
-      console.error("Bible passage fetch failed:", err);
-      this.setStatus(
-        "Could not load passage. Check the reference and API response.",
-        "error",
-      );
+      console.error('Bible passage fetch failed:', err);
+      this.setStatus('Could not load passage. Check the reference and API response.', 'error');
     } finally {
       this.setLoading(false);
     }
@@ -206,7 +194,7 @@ export default class BiblePassageTool {
     this.syncOpenState();
 
     if (this.statusEl) {
-      this.statusEl.style.display = "none";
+      this.statusEl.style.display = 'none';
     }
 
     if (this.referenceInput) {
@@ -217,7 +205,7 @@ export default class BiblePassageTool {
 
     if (this.fetchButton) {
       this.fetchButton.disabled = false;
-      this.fetchButton.textContent = "Fetch passage";
+      this.fetchButton.textContent = 'Fetch passage';
     }
   }
 
@@ -235,11 +223,11 @@ export default class BiblePassageTool {
             Edit
           </span>
           <span class="tool-header__toggle bible-passage-tool__header-toggle">
-            ${this.data.isOpen ? "−" : "+"}
+            ${this.data.isOpen ? '−' : '+'}
           </span>
         </span>
       `;
-      this.headerEl.style.display = "flex";
+      this.headerEl.style.display = 'flex';
     }
 
     if (this.passageEl) {
@@ -255,20 +243,18 @@ export default class BiblePassageTool {
     }
 
     if (this.isEditing) {
-      this.controlsEl.style.display = "flex";
-      this.passageEl.style.display = this.data.isOpen ? "block" : "none";
+      this.controlsEl.style.display = 'flex';
+      this.passageEl.style.display = this.data.isOpen ? 'block' : 'none';
     } else {
-      this.controlsEl.style.display = "none";
-      this.passageEl.style.display = this.data.isOpen ? "block" : "none";
+      this.controlsEl.style.display = 'none';
+      this.passageEl.style.display = this.data.isOpen ? 'block' : 'none';
     }
 
-    this.headerEl.dataset.open = this.data.isOpen ? "true" : "false";
+    this.headerEl.dataset.open = this.data.isOpen ? 'true' : 'false';
 
-    const toggle = this.headerEl.querySelector(
-      ".bible-passage-tool__header-toggle",
-    );
+    const toggle = this.headerEl.querySelector('.bible-passage-tool__header-toggle');
     if (toggle) {
-      toggle.textContent = this.data.isOpen ? "−" : "+";
+      toggle.textContent = this.data.isOpen ? '−' : '+';
     }
   }
 
@@ -277,14 +263,12 @@ export default class BiblePassageTool {
   }
 
   public save(): BiblePassageToolData {
-    const ref = this.referenceInput
-      ? this.referenceInput.value.trim()
-      : this.data.reference;
+    const ref = this.referenceInput ? this.referenceInput.value.trim() : this.data.reference;
 
     return {
       reference: ref,
-      passage: this.data.passage || "",
-      isOpen: this.data.isOpen,
+      passage: this.data.passage || '',
+      isOpen: this.data.isOpen ?? false,
     };
   }
 
@@ -295,9 +279,7 @@ export default class BiblePassageTool {
   private setLoading(isLoading: boolean): void {
     if (this.fetchButton) {
       this.fetchButton.disabled = isLoading || this.readOnly;
-      this.fetchButton.textContent = isLoading
-        ? "Loading..."
-        : "Fetch passage";
+      this.fetchButton.textContent = isLoading ? 'Loading...' : 'Fetch passage';
     }
 
     if (this.referenceInput) {
@@ -312,6 +294,6 @@ export default class BiblePassageTool {
 
     this.statusEl.textContent = message;
     this.statusEl.dataset.state = type;
-    this.statusEl.style.display = message ? "block" : "none";
+    this.statusEl.style.display = message ? 'block' : 'none';
   }
 }

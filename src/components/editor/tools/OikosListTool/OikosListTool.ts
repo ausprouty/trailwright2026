@@ -1,9 +1,31 @@
-import "./OikosListTool.css";
+import './OikosListTool.css';
+
+type OikosListItem = {
+  name: string;
+  relationship: string;
+  notes: string;
+};
+
+type OikosListToolData = {
+  title: string;
+  items: OikosListItem[];
+};
+
+type OikosListToolConstructorArgs = {
+  data?: Partial<OikosListToolData>;
+  readOnly?: boolean;
+};
 
 export default class OikosListTool {
+  private readOnly: boolean;
+  private data: OikosListToolData;
+  private wrapper: HTMLDivElement | null;
+  private titleInput: HTMLInputElement | null;
+  private itemsWrap: HTMLDivElement | null;
+
   static get toolbox() {
     return {
-      title: "Oikos List",
+      title: 'Oikos List',
       icon: `
         <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
           <path
@@ -19,25 +41,16 @@ export default class OikosListTool {
     return true;
   }
 
-  constructor({ data, readOnly = false }) {
+  constructor({ data, readOnly = false }: OikosListToolConstructorArgs) {
     this.readOnly = readOnly;
 
     this.data = {
-      title: data && typeof data.title === "string"
-        ? data.title
-        : "",
-      items: Array.isArray(data && data.items)
+      title: typeof data?.title === 'string' ? data.title : '',
+      items: Array.isArray(data?.items)
         ? data.items.map((item) => ({
-            name: item && typeof item.name === "string"
-              ? item.name
-              : "",
-            relationship:
-              item && typeof item.relationship === "string"
-                ? item.relationship
-                : "",
-            notes: item && typeof item.notes === "string"
-              ? item.notes
-              : "",
+            name: typeof item?.name === 'string' ? item.name : '',
+            relationship: typeof item?.relationship === 'string' ? item.relationship : '',
+            notes: typeof item?.notes === 'string' ? item.notes : '',
           }))
         : [],
     };
@@ -47,9 +60,9 @@ export default class OikosListTool {
     this.itemsWrap = null;
   }
 
-  render() {
-    this.wrapper = document.createElement("div");
-    this.wrapper.className = "oikos-list-tool";
+  render(): HTMLDivElement {
+    this.wrapper = document.createElement('div');
+    this.wrapper.className = 'oikos-list-tool';
 
     if (this.readOnly) {
       this.renderReadOnly();
@@ -60,32 +73,38 @@ export default class OikosListTool {
     return this.wrapper;
   }
 
-  renderEditable() {
-    const titleLabel = document.createElement("div");
-    titleLabel.className = "oikos-list-tool__label";
-    titleLabel.textContent = "Title";
+  renderEditable(): void {
+    if (!this.wrapper) {
+      return;
+    }
 
-    this.titleInput = document.createElement("input");
-    this.titleInput.type = "text";
-    this.titleInput.className = "oikos-list-tool__title";
+    const titleLabel = document.createElement('div');
+    titleLabel.className = 'oikos-list-tool__label';
+    titleLabel.textContent = 'Title';
+
+    this.titleInput = document.createElement('input');
+    this.titleInput.type = 'text';
+    this.titleInput.className = 'oikos-list-tool__title';
     this.titleInput.value = this.data.title;
-    this.titleInput.placeholder = "Enter list title";
-    this.titleInput.addEventListener("input", () => {
-      this.data.title = this.titleInput.value;
+    this.titleInput.placeholder = 'Enter list title';
+    this.titleInput.addEventListener('input', () => {
+      if (this.titleInput) {
+        this.data.title = this.titleInput.value;
+      }
     });
 
-    this.itemsWrap = document.createElement("div");
-    this.itemsWrap.className = "oikos-list-tool__items";
+    this.itemsWrap = document.createElement('div');
+    this.itemsWrap.className = 'oikos-list-tool__items';
 
-    const addButton = document.createElement("button");
-    addButton.type = "button";
-    addButton.className = "oikos-list-tool__add-button";
-    addButton.textContent = "Add person";
-    addButton.addEventListener("click", () => {
+    const addButton = document.createElement('button');
+    addButton.type = 'button';
+    addButton.className = 'oikos-list-tool__add-button';
+    addButton.textContent = 'Add person';
+    addButton.addEventListener('click', () => {
       this.data.items.push({
-        name: "",
-        relationship: "",
-        notes: "",
+        name: '',
+        relationship: '',
+        notes: '',
       });
       this.renderItemEditors();
     });
@@ -97,62 +116,82 @@ export default class OikosListTool {
 
     if (!this.data.items.length) {
       this.data.items.push({
-        name: "",
-        relationship: "",
-        notes: "",
+        name: '',
+        relationship: '',
+        notes: '',
       });
     }
 
     this.renderItemEditors();
   }
 
-  renderItemEditors() {
-    this.itemsWrap.innerHTML = "";
+  renderItemEditors(): void {
+    if (!this.itemsWrap) {
+      return;
+    }
+
+    this.itemsWrap.innerHTML = '';
 
     this.data.items.forEach((item, index) => {
-      const card = document.createElement("div");
-      card.className = "oikos-list-tool__item";
+      const card = document.createElement('div');
+      card.className = 'oikos-list-tool__item';
 
-      const nameInput = document.createElement("input");
-      nameInput.type = "text";
-      nameInput.className = "oikos-list-tool__input";
-      nameInput.placeholder = "Name";
+      const nameInput = document.createElement('input');
+      nameInput.type = 'text';
+      nameInput.className = 'oikos-list-tool__input';
+      nameInput.placeholder = 'Name';
       nameInput.value = item.name;
-      nameInput.addEventListener("input", () => {
-        this.data.items[index].name = nameInput.value;
+      nameInput.addEventListener('input', () => {
+        const currentItem = this.data.items[index];
+
+        if (!currentItem) {
+          return;
+        }
+
+        currentItem.name = nameInput.value;
       });
 
-      const relationshipInput = document.createElement("input");
-      relationshipInput.type = "text";
-      relationshipInput.className = "oikos-list-tool__input";
-      relationshipInput.placeholder = "Relationship";
+      const relationshipInput = document.createElement('input');
+      relationshipInput.type = 'text';
+      relationshipInput.className = 'oikos-list-tool__input';
+      relationshipInput.placeholder = 'Relationship';
       relationshipInput.value = item.relationship;
-      relationshipInput.addEventListener("input", () => {
-        this.data.items[index].relationship =
-          relationshipInput.value;
+      relationshipInput.addEventListener('input', () => {
+        const currentItem = this.data.items[index];
+
+        if (!currentItem) {
+          return;
+        }
+
+        currentItem.relationship = relationshipInput.value;
       });
 
-      const notesInput = document.createElement("textarea");
-      notesInput.className = "oikos-list-tool__textarea";
-      notesInput.placeholder = "Notes";
+      const notesInput = document.createElement('textarea');
+      notesInput.className = 'oikos-list-tool__textarea';
+      notesInput.placeholder = 'Notes';
       notesInput.value = item.notes;
-      notesInput.addEventListener("input", () => {
-        this.data.items[index].notes = notesInput.value;
+      notesInput.addEventListener('input', () => {
+        const currentItem = this.data.items[index];
+
+        if (!currentItem) {
+          return;
+        }
+
+        currentItem.notes = notesInput.value;
       });
 
-      const removeButton = document.createElement("button");
-      removeButton.type = "button";
-      removeButton.className =
-        "oikos-list-tool__remove-button";
-      removeButton.textContent = "Remove";
-      removeButton.addEventListener("click", () => {
+      const removeButton = document.createElement('button');
+      removeButton.type = 'button';
+      removeButton.className = 'oikos-list-tool__remove-button';
+      removeButton.textContent = 'Remove';
+      removeButton.addEventListener('click', () => {
         this.data.items.splice(index, 1);
 
         if (!this.data.items.length) {
           this.data.items.push({
-            name: "",
-            relationship: "",
-            notes: "",
+            name: '',
+            relationship: '',
+            notes: '',
           });
         }
 
@@ -164,41 +203,44 @@ export default class OikosListTool {
       card.appendChild(notesInput);
       card.appendChild(removeButton);
 
-      this.itemsWrap.appendChild(card);
+      this.itemsWrap?.appendChild(card);
     });
   }
 
-  renderReadOnly() {
+  renderReadOnly(): void {
+    if (!this.wrapper) {
+      return;
+    }
+
     if (this.data.title) {
-      const heading = document.createElement("h3");
-      heading.className = "oikos-list-tool__heading";
+      const heading = document.createElement('h3');
+      heading.className = 'oikos-list-tool__heading';
       heading.textContent = this.data.title;
       this.wrapper.appendChild(heading);
     }
 
-    const list = document.createElement("div");
-    list.className = "oikos-list-tool__read-only-list";
+    const list = document.createElement('div');
+    list.className = 'oikos-list-tool__read-only-list';
 
     this.data.items.forEach((item) => {
       if (!item.name && !item.relationship && !item.notes) {
         return;
       }
 
-      const card = document.createElement("div");
-      card.className = "oikos-list-tool__read-only-item";
+      const card = document.createElement('div');
+      card.className = 'oikos-list-tool__read-only-item';
 
-      const name = document.createElement("div");
-      name.className = "oikos-list-tool__read-only-name";
-      name.textContent = item.name || "";
+      const name = document.createElement('div');
+      name.className = 'oikos-list-tool__read-only-name';
+      name.textContent = item.name || '';
 
-      const relationship = document.createElement("div");
-      relationship.className =
-        "oikos-list-tool__read-only-relationship";
-      relationship.textContent = item.relationship || "";
+      const relationship = document.createElement('div');
+      relationship.className = 'oikos-list-tool__read-only-relationship';
+      relationship.textContent = item.relationship || '';
 
-      const notes = document.createElement("div");
-      notes.className = "oikos-list-tool__read-only-notes";
-      notes.textContent = item.notes || "";
+      const notes = document.createElement('div');
+      notes.className = 'oikos-list-tool__read-only-notes';
+      notes.textContent = item.notes || '';
 
       if (item.name) {
         card.appendChild(name);
@@ -218,7 +260,7 @@ export default class OikosListTool {
     this.wrapper.appendChild(list);
   }
 
-  save() {
+  save(): OikosListToolData {
     return {
       title: this.data.title.trim(),
       items: this.data.items
@@ -228,12 +270,12 @@ export default class OikosListTool {
           notes: item.notes.trim(),
         }))
         .filter((item) => {
-          return item.name || item.relationship || item.notes;
+          return Boolean(item.name || item.relationship || item.notes);
         }),
     };
   }
 
-  validate(savedData) {
+  validate(savedData: OikosListToolData): boolean {
     return Array.isArray(savedData.items);
   }
 }

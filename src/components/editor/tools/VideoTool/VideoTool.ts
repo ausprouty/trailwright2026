@@ -1,7 +1,7 @@
-import "../shared/blockHeader.css";
-import "./VideoTool.css";
+import '../shared/blockHeader.css';
+import './VideoTool.css';
 
-type VideoSource = "arclight" | "youtube" | "vimeo" | "";
+type VideoSource = 'arclight' | 'youtube' | 'vimeo' | '';
 
 type VideoToolData = {
   title: string;
@@ -38,7 +38,7 @@ type EditorJSToolConstructorArgs = {
 };
 
 export default class VideoTool {
-  private config?: VideoToolConfig;
+  private config: VideoToolConfig;
 
   private data: VideoToolData;
 
@@ -76,7 +76,7 @@ export default class VideoTool {
 
   public static get toolbox() {
     return {
-      title: "Video",
+      title: 'Video',
       icon: `
         <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
           <path
@@ -88,21 +88,17 @@ export default class VideoTool {
     };
   }
 
-  constructor({
-    data,
-    config,
-    readOnly,
-  }: EditorJSToolConstructorArgs) {
+  constructor({ data, config, readOnly }: EditorJSToolConstructorArgs) {
     this.readOnly = Boolean(readOnly);
-    this.config = config;
+    this.config = config ?? {};
 
     this.data = {
-      title: data.title || "",
-      url: data.url || "",
-      source: data.source || "",
-      refId: data.refId || "",
-      startTime: data.startTime || "",
-      endTime: data.endTime || "",
+      title: data.title || '',
+      url: data.url || '',
+      source: data.source || '',
+      refId: data.refId || '',
+      startTime: data.startTime || '',
+      endTime: data.endTime || '',
       isOpen: data.isOpen ?? true,
       isEditing: data.isEditing ?? true,
     };
@@ -113,8 +109,8 @@ export default class VideoTool {
   }
 
   public render(): HTMLElement {
-    this.wrapper = document.createElement("div");
-    this.wrapper.className = "video-tool";
+    this.wrapper = document.createElement('div');
+    this.wrapper.className = 'video-tool';
 
     this.renderHeader();
     this.renderBody();
@@ -149,50 +145,46 @@ export default class VideoTool {
 
   private buildEmbedUrl(): string {
     if (!this.data.source || !this.data.refId) {
-      return "";
+      return '';
     }
 
-    if (this.data.source === "arclight") {
-      const url = new URL("https://api.arclight.org/videoPlayerUrl");
-      url.searchParams.set("refId", this.data.refId);
+    if (this.data.source === 'arclight') {
+      const url = new URL('https://api.arclight.org/videoPlayerUrl');
+      url.searchParams.set('refId', this.data.refId);
 
       const start = this.parseTimeToSeconds(this.data.startTime);
       const end = this.parseTimeToSeconds(this.data.endTime);
 
       if (start !== null) {
-        url.searchParams.set("start", String(start));
+        url.searchParams.set('start', String(start));
       }
 
       if (end !== null) {
-        url.searchParams.set("end", String(end));
+        url.searchParams.set('end', String(end));
       }
 
       return url.toString();
     }
 
-    if (this.data.source === "youtube") {
-      const url = new URL(
-        `https://www.youtube.com/embed/${encodeURIComponent(this.data.refId)}`
-      );
+    if (this.data.source === 'youtube') {
+      const url = new URL(`https://www.youtube.com/embed/${encodeURIComponent(this.data.refId)}`);
 
       const start = this.parseTimeToSeconds(this.data.startTime);
       const end = this.parseTimeToSeconds(this.data.endTime);
 
       if (start !== null) {
-        url.searchParams.set("start", String(start));
+        url.searchParams.set('start', String(start));
       }
 
       if (end !== null) {
-        url.searchParams.set("end", String(end));
+        url.searchParams.set('end', String(end));
       }
 
       return url.toString();
     }
 
-    if (this.data.source === "vimeo") {
-      const baseUrl =
-        `https://player.vimeo.com/video/` +
-        `${encodeURIComponent(this.data.refId)}`;
+    if (this.data.source === 'vimeo') {
+      const baseUrl = `https://player.vimeo.com/video/` + `${encodeURIComponent(this.data.refId)}`;
 
       const start = this.parseTimeToSeconds(this.data.startTime);
 
@@ -203,7 +195,7 @@ export default class VideoTool {
       return baseUrl;
     }
 
-    return "";
+    return '';
   }
 
   private createInput({
@@ -219,27 +211,25 @@ export default class VideoTool {
     readOnly: boolean;
     onInput: () => void;
   }): HTMLInputElement {
-    const input = document.createElement("input");
-    input.type = "text";
-    input.className = "video-tool__input";
+    const input = document.createElement('input');
+    input.type = 'text';
+    input.className = 'video-tool__input';
     input.value = value;
     input.placeholder = placeholder;
     input.readOnly = readOnly;
-    input.setAttribute("aria-label", label);
-    input.addEventListener("input", onInput);
+    input.setAttribute('aria-label', label);
+    input.addEventListener('input', onInput);
 
     return input;
   }
 
-  private detectSourceFromUrl(
-    rawUrl: string
-  ): { source: VideoSource; refId: string } {
+  private detectSourceFromUrl(rawUrl: string): { source: VideoSource; refId: string } {
     const trimmed = rawUrl.trim();
 
     if (!trimmed) {
       return {
-        source: "",
-        refId: "",
+        source: '',
+        refId: '',
       };
     }
 
@@ -247,76 +237,61 @@ export default class VideoTool {
       const url = new URL(trimmed);
       const hostname = url.hostname.toLowerCase();
 
-      if (
-        hostname.includes("api.arclight.org") ||
-        hostname.includes("arclight.org")
-      ) {
-        const refId = url.searchParams.get("refId") || "";
+      if (hostname.includes('api.arclight.org') || hostname.includes('arclight.org')) {
+        const refId = url.searchParams.get('refId') || '';
         return {
-          source: refId ? "arclight" : "",
+          source: refId ? 'arclight' : '',
           refId,
         };
       }
 
-      if (hostname.includes("youtube.com")) {
-        const videoId = url.searchParams.get("v") || "";
+      if (hostname.includes('youtube.com')) {
+        const videoId = url.searchParams.get('v') || '';
         return {
-          source: videoId ? "youtube" : "",
+          source: videoId ? 'youtube' : '',
           refId: videoId,
         };
       }
 
-      if (hostname.includes("youtu.be")) {
-        const parts = url.pathname.split("/").filter(Boolean);
-        const videoId = parts[0] || "";
+      if (hostname.includes('youtu.be')) {
+        const parts = url.pathname.split('/').filter(Boolean);
+        const videoId = parts[0] || '';
         return {
-          source: videoId ? "youtube" : "",
+          source: videoId ? 'youtube' : '',
           refId: videoId,
         };
       }
 
-      if (hostname.includes("vimeo.com")) {
-        const parts = url.pathname.split("/").filter(Boolean);
-        const videoId = parts[parts.length - 1] || "";
+      if (hostname.includes('vimeo.com')) {
+        const parts = url.pathname.split('/').filter(Boolean);
+        const videoId = parts[parts.length - 1] || '';
         return {
-          source: videoId ? "vimeo" : "",
+          source: videoId ? 'vimeo' : '',
           refId: videoId,
         };
       }
-    } catch (_error) {
+    } catch {
       return {
-        source: "",
-        refId: "",
+        source: '',
+        refId: '',
       };
     }
 
     return {
-      source: "",
-      refId: "",
+      source: '',
+      refId: '',
     };
   }
 
-  private interpolate(
-    template: string,
-    values: Record<string, string>
-  ): string {
-    return template.replace(
-      /\{(\w+)\}/g,
-      (match: string, key: string): string => {
-        return Object.prototype.hasOwnProperty.call(values, key)
-          ? values[key]
-          : match;
-      }
-    );
+  private interpolate(template: string, values: Record<string, string>): string {
+    return template.replace(/\{(\w+)\}/g, (match: string, key: string): string => {
+      const value = values[key];
+      return typeof value === 'string' ? value : match;
+    });
   }
 
-  private label(
-    key: keyof VideoToolLabels,
-    fallback: string
-  ): string {
-    const labels = this.config && this.config.labels
-      ? this.config.labels
-      : undefined;
+  private label(key: keyof VideoToolLabels, fallback: string): string {
+    const labels = this.config.labels;
 
     if (!labels) {
       return fallback;
@@ -369,7 +344,7 @@ export default class VideoTool {
       return null;
     }
 
-    if (raw === "start") {
+    if (raw === 'start') {
       return 0;
     }
 
@@ -377,7 +352,7 @@ export default class VideoTool {
       return Number(raw);
     }
 
-    const parts = raw.split(":").map((part) => part.trim());
+    const parts = raw.split(':').map((part) => part.trim());
 
     if (!parts.every((part) => /^\d+$/.test(part))) {
       return null;
@@ -406,23 +381,23 @@ export default class VideoTool {
 
   private refreshBody(): void {
     if (!this.data.isOpen) {
-      this.wrapper.classList.remove("video-tool--open");
-      this.body.style.display = "none";
+      this.wrapper.classList.remove('video-tool--open');
+      this.body.style.display = 'none';
       return;
     }
 
-    this.wrapper.classList.add("video-tool--open");
-    this.body.style.display = "block";
+    this.wrapper.classList.add('video-tool--open');
+    this.body.style.display = 'block';
 
     if (this.data.isEditing) {
-      this.formArea.style.display = "block";
-      this.previewArea.style.display = "none";
+      this.formArea.style.display = 'block';
+      this.previewArea.style.display = 'none';
       this.refreshStatusLine();
       return;
     }
 
-    this.formArea.style.display = "none";
-    this.previewArea.style.display = "block";
+    this.formArea.style.display = 'none';
+    this.previewArea.style.display = 'block';
     this.refreshPreview();
   }
 
@@ -433,35 +408,29 @@ export default class VideoTool {
 
   private refreshHeaderButtons(): void {
     if (this.readOnly) {
-      this.editButton.style.display = "none";
+      this.editButton.style.display = 'none';
       return;
     }
-     if (this.toggleSymbol) {
-     this.toggleSymbol.textContent = this.data.isOpen ? "−" : "+";
+    if (this.toggleSymbol) {
+      this.toggleSymbol.textContent = this.data.isOpen ? '−' : '+';
     }
 
-    this.editButton.style.display = "inline-block";
+    this.editButton.style.display = 'inline-block';
     this.editButton.textContent = this.data.isEditing
-      ? this.label("doneLabel", "Done")
-      : this.label("editLabel", "Edit");
+      ? this.label('doneLabel', 'Done')
+      : this.label('editLabel', 'Edit');
   }
 
   private refreshHeaderText(): void {
-    const displayTitle = this.data.title || this.label(
-      "untitledVideo",
-      "Untitled video"
-    );
+    const displayTitle = this.data.title || this.label('untitledVideo', 'Untitled video');
 
-    let template = this.label(
-      "watchOnlineTemplate",
-      "Watch {title} online"
-    );
+    let template = this.label('watchOnlineTemplate', 'Watch {title} online');
 
-    if (!template || template === "watchOnlineTemplate") {
-      template = "Watch {title} online";
+    if (!template || template === 'watchOnlineTemplate') {
+      template = 'Watch {title} online';
     }
 
-    if (!template.includes("{title}")) {
+    if (!template.includes('{title}')) {
       template = `${template} ${displayTitle}`;
       this.summaryText.textContent = template.trim();
       return;
@@ -473,7 +442,7 @@ export default class VideoTool {
   }
 
   private refreshPreview(): void {
-    this.previewArea.innerHTML = "";
+    this.previewArea.innerHTML = '';
 
     if (this.data.isEditing) {
       return;
@@ -482,47 +451,41 @@ export default class VideoTool {
     const iframeUrl = this.buildEmbedUrl();
 
     if (!iframeUrl) {
-      const note = document.createElement("div");
-      note.className = "video-tool__preview-unavailable";
+      const note = document.createElement('div');
+      note.className = 'video-tool__preview-unavailable';
       note.textContent = this.label(
-        "previewUnavailable",
-        "Preview unavailable until the video URL is recognised."
+        'previewUnavailable',
+        'Preview unavailable until the video URL is recognised.',
       );
       this.previewArea.appendChild(note);
       return;
     }
 
-    if (this.data.source === "arclight") {
-      const arcCont = document.createElement("div");
-      arcCont.className = "arc-cont";
+    if (this.data.source === 'arclight') {
+      const arcCont = document.createElement('div');
+      arcCont.className = 'arc-cont';
 
-      const iframe = document.createElement("iframe");
+      const iframe = document.createElement('iframe');
       iframe.src = iframeUrl;
       iframe.allowFullscreen = true;
-      iframe.setAttribute("webkitallowfullscreen", "true");
-      iframe.setAttribute("mozallowfullscreen", "true");
-      iframe.setAttribute("loading", "lazy");
-      iframe.setAttribute(
-        "referrerpolicy",
-        "strict-origin-when-cross-origin"
-      );
+      iframe.setAttribute('webkitallowfullscreen', 'true');
+      iframe.setAttribute('mozallowfullscreen', 'true');
+      iframe.setAttribute('loading', 'lazy');
+      iframe.setAttribute('referrerpolicy', 'strict-origin-when-cross-origin');
 
       arcCont.appendChild(iframe);
       this.previewArea.appendChild(arcCont);
       return;
     }
 
-    const genericWrap = document.createElement("div");
-    genericWrap.className = "video-tool__iframe-wrap";
+    const genericWrap = document.createElement('div');
+    genericWrap.className = 'video-tool__iframe-wrap';
 
-    const iframe = document.createElement("iframe");
+    const iframe = document.createElement('iframe');
     iframe.src = iframeUrl;
     iframe.allowFullscreen = true;
-    iframe.setAttribute("loading", "lazy");
-    iframe.setAttribute(
-      "referrerpolicy",
-      "strict-origin-when-cross-origin"
-    );
+    iframe.setAttribute('loading', 'lazy');
+    iframe.setAttribute('referrerpolicy', 'strict-origin-when-cross-origin');
 
     genericWrap.appendChild(iframe);
     this.previewArea.appendChild(genericWrap);
@@ -546,26 +509,26 @@ export default class VideoTool {
       metaBits.push(`refId: ${this.data.refId}`);
     }
 
-    this.statusLine.textContent = metaBits.join("   ");
+    this.statusLine.textContent = metaBits.join('   ');
   }
 
   private renderBody(): void {
-    this.body = document.createElement("div");
-    this.body.className = "video-tool__body";
+    this.body = document.createElement('div');
+    this.body.className = 'video-tool__body';
 
-    this.formArea = document.createElement("div");
-    this.formArea.className = "video-tool__form-area";
+    this.formArea = document.createElement('div');
+    this.formArea.className = 'video-tool__form-area';
 
-    this.statusLine = document.createElement("div");
-    this.statusLine.className = "video-tool__status";
+    this.statusLine = document.createElement('div');
+    this.statusLine.className = 'video-tool__status';
 
-    const fields = document.createElement("div");
-    fields.className = "video-tool__fields";
+    const fields = document.createElement('div');
+    fields.className = 'video-tool__fields';
 
     this.titleInput = this.createInput({
-      label: this.label("titleLabel", "Title"),
+      label: this.label('titleLabel', 'Title'),
       value: this.data.title,
-      placeholder: this.label("untitledVideo", "Untitled video"),
+      placeholder: this.label('untitledVideo', 'Untitled video'),
       readOnly: this.readOnly,
       onInput: () => {
         this.data.title = this.titleInput.value.trim();
@@ -574,9 +537,9 @@ export default class VideoTool {
     });
 
     this.urlInput = this.createInput({
-      label: this.label("urlLabel", "Video URL"),
+      label: this.label('urlLabel', 'Video URL'),
       value: this.data.url,
-      placeholder: "https://api.arclight.org/videoPlayerUrl?refId=...",
+      placeholder: 'https://api.arclight.org/videoPlayerUrl?refId=...',
       readOnly: this.readOnly,
       onInput: () => {
         this.data.url = this.urlInput.value.trim();
@@ -588,9 +551,9 @@ export default class VideoTool {
     });
 
     this.startInput = this.createInput({
-      label: this.label("startLabel", "Start time"),
+      label: this.label('startLabel', 'Start time'),
       value: this.data.startTime,
-      placeholder: "start or 4:41",
+      placeholder: 'start or 4:41',
       readOnly: this.readOnly,
       onInput: () => {
         this.data.startTime = this.startInput.value.trim();
@@ -600,9 +563,9 @@ export default class VideoTool {
     });
 
     this.endInput = this.createInput({
-      label: this.label("endLabel", "End time"),
+      label: this.label('endLabel', 'End time'),
       value: this.data.endTime,
-      placeholder: "5:10",
+      placeholder: '5:10',
       readOnly: this.readOnly,
       onInput: () => {
         this.data.endTime = this.endInput.value.trim();
@@ -619,24 +582,24 @@ export default class VideoTool {
     this.formArea.appendChild(this.statusLine);
     this.formArea.appendChild(fields);
 
-    this.previewArea = document.createElement("div");
-    this.previewArea.className = "video-tool__preview";
+    this.previewArea = document.createElement('div');
+    this.previewArea.className = 'video-tool__preview';
 
     this.body.appendChild(this.formArea);
     this.body.appendChild(this.previewArea);
   }
 
   private renderHeader(): void {
-    this.header = document.createElement("div");
-    this.header.className = "video-tool__header tool-header";
-    this.header.addEventListener("click", this.onHeaderClick);
+    this.header = document.createElement('div');
+    this.header.className = 'video-tool__header tool-header';
+    this.header.addEventListener('click', this.onHeaderClick);
 
-    const left = document.createElement("div");
-    left.className = "video-tool__header-left tool-header__left";
+    const left = document.createElement('div');
+    left.className = 'video-tool__header-left tool-header__left';
 
-    const icon = document.createElement("span");
-    icon.className = "video-tool__header-icon tool-header__icon";
-    icon.setAttribute("aria-hidden", "true");
+    const icon = document.createElement('span');
+    icon.className = 'video-tool__header-icon tool-header__icon';
+    icon.setAttribute('aria-hidden', 'true');
     icon.innerHTML = `
       <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
         <path
@@ -646,25 +609,24 @@ export default class VideoTool {
       </svg>
     `;
 
-    this.summaryText = document.createElement("span");
-    this.summaryText.className =
-      "video-tool__header-text tool-header__text";
+    this.summaryText = document.createElement('span');
+    this.summaryText.className = 'video-tool__header-text tool-header__text';
 
     left.appendChild(icon);
     left.appendChild(this.summaryText);
 
-    const right = document.createElement("div");
-    right.className = "video-tool__header-right tool-header__right";
+    const right = document.createElement('div');
+    right.className = 'video-tool__header-right tool-header__right';
 
-    this.editButton = document.createElement("button");
-    this.editButton.type = "button";
-    this.editButton.className = "video-tool__edit tool-header__action";
-    this.editButton.addEventListener("click", this.onEditClick);
+    this.editButton = document.createElement('button');
+    this.editButton.type = 'button';
+    this.editButton.className = 'video-tool__edit tool-header__action';
+    this.editButton.addEventListener('click', this.onEditClick);
 
-    this.toggleSymbol = document.createElement("span");
-    this.toggleSymbol.className = "video-tool__plus tool-header__toggle";
-    this.toggleSymbol.setAttribute("aria-hidden", "true");
-    this.toggleSymbol.textContent = this.data.isOpen ? "−" : "+";
+    this.toggleSymbol = document.createElement('span');
+    this.toggleSymbol.className = 'video-tool__plus tool-header__toggle';
+    this.toggleSymbol.setAttribute('aria-hidden', 'true');
+    this.toggleSymbol.textContent = this.data.isOpen ? '−' : '+';
 
     right.appendChild(this.editButton);
     right.appendChild(this.toggleSymbol);
@@ -698,12 +660,12 @@ export default class VideoTool {
   }
 
   private wrapField(input: HTMLInputElement): HTMLLabelElement {
-    const field = document.createElement("label");
-    field.className = "video-tool__field";
+    const field = document.createElement('label');
+    field.className = 'video-tool__field';
 
-    const label = document.createElement("span");
-    label.className = "video-tool__field-label";
-    label.textContent = input.getAttribute("aria-label") || "";
+    const label = document.createElement('span');
+    label.className = 'video-tool__field-label';
+    label.textContent = input.getAttribute('aria-label') || '';
 
     field.appendChild(label);
     field.appendChild(input);

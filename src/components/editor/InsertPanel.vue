@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { insertToolPalette } from "../../editor/toolPalette";
+import { insertToolPalette } from '../editor/toolPalette';
 
 const emit = defineEmits<{
   insert: [type: string, initialData?: Record<string, unknown>];
@@ -20,10 +20,7 @@ const emit = defineEmits<{
         class="insert-panel__item"
         @click="emit('insert', item.type, item.initialData)"
       >
-        <span
-          class="insert-panel__icon"
-          v-html="item.icon"
-        />
+        <span class="insert-panel__icon" v-html="item.icon" />
         <span class="insert-panel__label">
           {{ item.label }}
         </span>

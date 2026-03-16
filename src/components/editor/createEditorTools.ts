@@ -19,9 +19,9 @@ import SectionMarkerTool from './tools/SectionMarker/SectionMarkerTool';
 import TitleTool from './tools/TitleTool/TitleTool';
 import VideoTool from './tools/VideoTool/VideoTool';
 
-type EditorTools = Record<string, ToolConstructable | ToolSettings>;
+type EditorTools = Record<string, ToolSettings>;
 
-function createNestedEditorTools(lang: LanguageCode): EditorTools {
+function createNestedEditorTools(): EditorTools {
   return {
     bibleReference: {
       class: BibleReferenceTool,
@@ -81,7 +81,7 @@ export function createEditorTools(lang: LanguageCode): EditorTools {
       class: CollapsibleGroupTool as unknown as ToolConstructable,
       config: {
         placeholder: 'Group heading',
-        tools: createNestedEditorTools(lang),
+        tools: createNestedEditorTools(),
       },
     },
 
@@ -111,7 +111,7 @@ export function createEditorTools(lang: LanguageCode): EditorTools {
       },
     },
     lastTime: {
-      class: LastTimeTool as any,
+      class: LastTimeTool as unknown as ToolConstructable,
       config: {
         lang,
       },
@@ -143,7 +143,7 @@ export function createEditorTools(lang: LanguageCode): EditorTools {
       class: SectionMarkerTool as unknown as ToolConstructable,
     },
     videoEmbed: {
-      class: VideoTool as any,
+      class: VideoTool as unknown as ToolConstructable,
       config: {
         labels: {
           endLabel: t(lang, 'videoTool.endTime'),
@@ -157,7 +157,7 @@ export function createEditorTools(lang: LanguageCode): EditorTools {
       },
     },
     titleTool: {
-      class: TitleTool as any,
+      class: TitleTool as unknown as ToolConstructable,
       config: {
         languages: [
           { value: 'english', label: 'English' },

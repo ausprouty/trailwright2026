@@ -1,5 +1,5 @@
-import EditorJS, { type OutputData } from "@editorjs/editorjs";
-import "./CollapsibleGroupTool.css";
+import EditorJS, { type OutputData } from '@editorjs/editorjs';
+import './CollapsibleGroupTool.css';
 
 type ToolConstructorArgs = {
   data?: Partial<CollapsibleGroupData>;
@@ -13,13 +13,19 @@ type CollapsibleGroupData = {
   content: OutputData;
 };
 
+type EditorToolConfig = Record<string, object>;
+
 type CollapsibleGroupConfig = {
-  tools: Record<string, unknown>;
+  tools: EditorToolConfig;
   placeholder?: string;
 };
 
 export default class CollapsibleGroupTool {
-  private api: EditorJS | null = null;
+  private api: {
+    isReady: Promise<void>;
+    save: () => Promise<OutputData>;
+    destroy?: () => void;
+  } | null = null;
   private data: CollapsibleGroupData;
   private readOnly: boolean;
   private config: CollapsibleGroupConfig;
@@ -33,7 +39,7 @@ export default class CollapsibleGroupTool {
 
   public static get toolbox() {
     return {
-      title: "Collapsible Group",
+      title: 'Collapsible Group',
       icon: `
         <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
           <path
@@ -49,56 +55,51 @@ export default class CollapsibleGroupTool {
     return true;
   }
 
-  constructor({
-    data,
-    config,
-    readOnly,
-  }: ToolConstructorArgs) {
+  constructor({ data, config, readOnly }: ToolConstructorArgs) {
     this.readOnly = readOnly ?? false;
     this.config = config ?? { tools: {} };
 
     this.data = {
-  title: data?.title ?? "",
-  isOpen: data?.isOpen ?? true,
-  content: data?.content ?? {
-    time: Date.now(),
-    blocks: [
-      {
-        type: "paragraph",
-        data: {
-          text: "",
-        },
+      title: data?.title ?? '',
+      isOpen: data?.isOpen ?? true,
+      content: data?.content ?? {
+        time: Date.now(),
+        blocks: [
+          {
+            type: 'paragraph',
+            data: {
+              text: '',
+            },
+          },
+        ],
       },
-    ],
-  },
-};
+    };
   }
 
   public render(): HTMLElement {
-    this.wrapper = document.createElement("div");
-    this.wrapper.className = "cg-tool";
+    this.wrapper = document.createElement('div');
+    this.wrapper.className = 'cg-tool';
 
-    this.header = document.createElement("button");
-    this.header.type = "button";
-    this.header.className = "cg-tool__header";
+    this.header = document.createElement('button');
+    this.header.type = 'button';
+    this.header.className = 'cg-tool__header';
 
-    this.arrow = document.createElement("span");
-    this.arrow.className = "cg-tool__arrow";
-    this.arrow.innerHTML = "&#9656;";
+    this.arrow = document.createElement('span');
+    this.arrow.className = 'cg-tool__arrow';
+    this.arrow.innerHTML = '&#9656;';
 
-    this.titleInput = document.createElement("input");
-    this.titleInput.type = "text";
-    this.titleInput.className = "cg-tool__title";
-    this.titleInput.placeholder =
-      this.config.placeholder ?? "Toggle heading";
+    this.titleInput = document.createElement('input');
+    this.titleInput.type = 'text';
+    this.titleInput.className = 'cg-tool__title';
+    this.titleInput.placeholder = this.config.placeholder ?? 'Toggle heading';
     this.titleInput.value = this.data.title;
     this.titleInput.readOnly = this.readOnly;
 
-    this.body = document.createElement("div");
-    this.body.className = "cg-tool__body";
+    this.body = document.createElement('div');
+    this.body.className = 'cg-tool__body';
 
-    this.editorHolder = document.createElement("div");
-    this.editorHolder.className = "cg-tool__editor-holder";
+    this.editorHolder = document.createElement('div');
+    this.editorHolder.className = 'cg-tool__editor-holder';
 
     this.body.appendChild(this.editorHolder);
     this.header.appendChild(this.arrow);
@@ -107,7 +108,7 @@ export default class CollapsibleGroupTool {
     this.wrapper.appendChild(this.body);
 
     if (!this.readOnly) {
-      this.header.addEventListener("click", (event) => {
+      this.header.addEventListener('click', (event) => {
         const target = event.target as HTMLElement;
 
         if (target === this.titleInput) {
@@ -131,13 +132,13 @@ export default class CollapsibleGroupTool {
 
   private applyOpenState(): void {
     if (this.data.isOpen) {
-      this.wrapper.classList.add("cg-tool--open");
-      this.body.style.display = "block";
-      this.arrow.style.transform = "rotate(90deg)";
+      this.wrapper.classList.add('cg-tool--open');
+      this.body.style.display = 'block';
+      this.arrow.style.transform = 'rotate(90deg)';
     } else {
-      this.wrapper.classList.remove("cg-tool--open");
-      this.body.style.display = "none";
-      this.arrow.style.transform = "rotate(0deg)";
+      this.wrapper.classList.remove('cg-tool--open');
+      this.body.style.display = 'none';
+      this.arrow.style.transform = 'rotate(0deg)';
     }
   }
 
@@ -170,8 +171,8 @@ export default class CollapsibleGroupTool {
     };
   }
 
-  public async destroy(): Promise<void> {
-    if (this.api && typeof this.api.destroy === "function") {
+  public destroy(): void {
+    if (this.api && typeof this.api.destroy === 'function') {
       this.api.destroy();
       this.api = null;
     }

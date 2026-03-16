@@ -1,13 +1,13 @@
-import BiblePassageTool from "./tools/BiblePassageTool/BiblePassageTool";
-import BibleReferenceTool  from "./tools/BibleReferenceTool/BibleReferenceTool";
-import CollapsibleGroupTool from "./tools/CollapsibleGroupTool/CollapsibleGroupTool";
-import CollapsibleTextTool from "./tools/CollapsibleTextTool/CollapsibleTextTool";
-import ImageTool from "@editorjs/image";
-import LastTimeTool from "./tools/LastTimeTool/LastTimeTool";
-import NotesAreaTool from "./tools/NotesAreaTool/NotesAreaTool";
-import SectionMarkerTool from "./tools/SectionMarker/SectionMarkerTool";
-import TitleTool from "./tools/TitleTool/TitleTool";
-import VideoTool from "./tools/VideoTool/VideoTool";
+import BiblePassageTool from './tools/BiblePassageTool/BiblePassageTool';
+import BibleReferenceTool from './tools/BibleReferenceTool/BibleReferenceTool';
+import CollapsibleGroupTool from './tools/CollapsibleGroupTool/CollapsibleGroupTool';
+import CollapsibleTextTool from './tools/CollapsibleTextTool/CollapsibleTextTool';
+import ImageTool from '@editorjs/image';
+import LastTimeTool from './tools/LastTimeTool/LastTimeTool';
+import NotesAreaTool from './tools/NotesAreaTool/NotesAreaTool';
+import SectionMarkerTool from './tools/SectionMarker/SectionMarkerTool';
+import TitleTool from './tools/TitleTool/TitleTool';
+import VideoTool from './tools/VideoTool/VideoTool';
 
 export type InsertToolItem = {
   type: string;
@@ -16,129 +16,124 @@ export type InsertToolItem = {
   initialData?: Record<string, unknown>;
 };
 
-function getToolboxMeta(toolClass: any, fallbackTitle: string) {
-  const toolbox = toolClass.toolbox || {};
+type ToolboxMeta = {
+  title?: string;
+  icon?: string;
+};
+
+function getToolboxMeta(toolClass: unknown, fallbackTitle: string) {
+  const candidate = toolClass as {
+    toolbox?: ToolboxMeta;
+  };
+
+  const toolbox = candidate.toolbox ?? {};
+
   return {
     label: toolbox.title || fallbackTitle,
-    icon: toolbox.icon || "",
+    icon: toolbox.icon || '',
   };
 }
 
-const biblePassageMeta = getToolboxMeta(
-  BiblePassageTool,
-  "Bible Passage"
-);
+const biblePassageMeta = getToolboxMeta(BiblePassageTool, 'Bible Passage');
 
-const bibleReferenceMeta = getToolboxMeta(
-  BibleReferenceTool,
-  "Bible Reference"
-);
-const collapsibleGroupMeta = getToolboxMeta(
-  CollapsibleGroupTool,
-  "Collapsible Group"
-);
-const collapsibleTextMeta = getToolboxMeta(
-  CollapsibleTextTool,
-  "Collapsible Text"
-);
-const imageMeta = getToolboxMeta(ImageTool, "Image");
-const lastTimeMeta = getToolboxMeta(LastTimeTool, "Last Time");
-const notesAreaMeta = getToolboxMeta(NotesAreaTool, "Notes Area");
-const sectionMarkerMeta = getToolboxMeta(
-  SectionMarkerTool,
-  "Section Marker"
-);
-const titleMeta = getToolboxMeta(TitleTool, "Title");
-const videoMeta = getToolboxMeta(VideoTool, "Video");
+const bibleReferenceMeta = getToolboxMeta(BibleReferenceTool, 'Bible Reference');
+const collapsibleGroupMeta = getToolboxMeta(CollapsibleGroupTool, 'Collapsible Group');
+const collapsibleTextMeta = getToolboxMeta(CollapsibleTextTool, 'Collapsible Text');
+const imageMeta = getToolboxMeta(ImageTool, 'Image');
+const lastTimeMeta = getToolboxMeta(LastTimeTool, 'Last Time');
+const notesAreaMeta = getToolboxMeta(NotesAreaTool, 'Notes Area');
+const sectionMarkerMeta = getToolboxMeta(SectionMarkerTool, 'Section Marker');
+const titleMeta = getToolboxMeta(TitleTool, 'Title');
+const videoMeta = getToolboxMeta(VideoTool, 'Video');
 
 export const insertToolPalette: InsertToolItem[] = [
   {
-    type: "titleTool",
+    type: 'titleTool',
     label: titleMeta.label,
     icon: titleMeta.icon,
     initialData: {
-      seriesNumber: "",
-      title: "",
-      language: "english",
-      series: "multiply1",
+      seriesNumber: '',
+      title: '',
+      language: 'english',
+      series: 'multiply1',
       isOpen: true,
     },
   },
   {
-    type: "biblePassage",
+    type: 'biblePassage',
     label: biblePassageMeta.label,
     icon: biblePassageMeta.icon,
     initialData: {
-      reference: "",
-      passage: "",
+      reference: '',
+      passage: '',
       isOpen: true,
     },
   },
   {
-    type: "bibleReference",
+    type: 'bibleReference',
     label: bibleReferenceMeta.label,
     icon: bibleReferenceMeta.icon,
     initialData: {
-      text: "",
+      text: '',
       references: [],
     },
   },
   {
-    type: "collapsibleGroup",
+    type: 'collapsibleGroup',
     label: collapsibleGroupMeta.label,
     icon: collapsibleGroupMeta.icon,
     initialData: {
-      heading: "",
-      body: "",
+      heading: '',
+      body: '',
       isOpen: true,
     },
   },
   {
-    type: "collapsibleText",
+    type: 'collapsibleText',
     label: collapsibleTextMeta.label,
     icon: collapsibleTextMeta.icon,
     initialData: {
-      heading: "",
-      body: "",
+      heading: '',
+      body: '',
       isOpen: true,
     },
   },
   {
-    type: "image",
+    type: 'image',
     label: imageMeta.label,
     icon: imageMeta.icon,
   },
   {
-    type: "lastTime",
+    type: 'lastTime',
     label: lastTimeMeta.label,
     icon: lastTimeMeta.icon,
     initialData: {},
   },
   {
-    type: "notesArea",
+    type: 'notesArea',
     label: notesAreaMeta.label,
     icon: notesAreaMeta.icon,
     initialData: {
-      noteId: "",
+      noteId: '',
     },
   },
   {
-    type: "sectionMarker",
+    type: 'sectionMarker',
     label: sectionMarkerMeta.label,
     icon: sectionMarkerMeta.icon,
     initialData: {},
   },
   {
-    type: "videoEmbed",
+    type: 'videoEmbed',
     label: videoMeta.label,
     icon: videoMeta.icon,
     initialData: {
-      title: "",
-      url: "",
-      source: "",
-      refId: "",
-      startTime: "",
-      endTime: "",
+      title: '',
+      url: '',
+      source: '',
+      refId: '',
+      startTime: '',
+      endTime: '',
       isOpen: true,
     },
   },

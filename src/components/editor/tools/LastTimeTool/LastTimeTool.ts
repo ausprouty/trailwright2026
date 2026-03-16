@@ -2,7 +2,7 @@ import './LastTimeTool.css';
 import { t } from 'src/i18n';
 import type { LanguageCode } from 'src/i18n';
 
-type LastTimeToolData = {};
+type LastTimeToolData = Record<string, never>;
 
 type LastTimeToolConfig = {
   lang: LanguageCode;

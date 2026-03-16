@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import type { OutputData } from '@editorjs/editorjs';
 import { computed, ref, useTemplateRef, watch } from 'vue';
 
 import DeveloperPanel from '../components/editor/DeveloperPanel.vue';
@@ -8,6 +7,18 @@ import InsertPanel from '../components/editor/InsertPanel.vue';
 import { languageOptions, type LanguageCode } from 'src/i18n';
 import { getCurrentLanguage, setCurrentLanguage } from 'src/i18n/languageState';
 import { getTemplatesByLanguage, loadTemplateFile } from '../templates';
+
+type EditorBlockData = {
+  id?: string;
+  type: string;
+  data: Record<string, unknown>;
+};
+
+type OutputData = {
+  blocks: EditorBlockData[];
+  time?: number;
+  version?: string;
+};
 
 type EditorHostExposed = {
   clear: () => Promise<void>;
@@ -20,7 +31,7 @@ const showDeveloperPanel = ref(false);
 const STORAGE_KEY = 'editorjs-demo-content';
 
 const currentLang = ref<LanguageCode>(getCurrentLanguage());
-const output = ref<OutputData | undefined>(loadInitialData());
+const output = ref<OutputData>(loadInitialData() ?? getEmptyOutput());
 const editorHost = useTemplateRef<EditorHostExposed>('editorHost');
 
 function getEmptyOutput(): OutputData {
@@ -64,7 +75,11 @@ watch(
     });
 
     if (!exists) {
-      selectedTemplateKey.value = items[0].key;
+      const firstItem = items[0];
+
+      if (firstItem) {
+        selectedTemplateKey.value = firstItem.key;
+      }
     }
   },
   { immediate: true },

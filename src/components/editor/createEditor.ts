@@ -12,7 +12,7 @@ type CreateEditorOptions = {
 export function createEditor({ holder, data, lang }: CreateEditorOptions) {
   return new EditorJS({
     holder,
-    data,
     tools: createEditorTools(lang),
+    ...(data ? { data } : {}),
   });
 }

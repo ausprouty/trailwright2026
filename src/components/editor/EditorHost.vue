@@ -3,10 +3,11 @@ import type EditorJS from '@editorjs/editorjs';
 import type { OutputData } from '@editorjs/editorjs';
 import { nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue';
 
-import { createEditor } from '../../editor/createEditor';
+import { createEditor } from '../editor/createEditor';
 import type { LanguageCode } from 'src/i18n';
 
 type InsertBlockData = Record<string, unknown>;
+type EditorHostSaver = () => void;
 
 const props = defineProps<{
   lang: LanguageCode;
@@ -55,8 +56,8 @@ async function createEditorInstance(): Promise<void> {
 
   const editor = createEditor({
     holder: holderId,
-    data: props.modelValue,
     lang: props.lang,
+    ...(props.modelValue !== undefined ? { data: props.modelValue } : {}),
   });
 
   editorInstance.value = editor;
@@ -69,7 +70,7 @@ async function createEditorInstance(): Promise<void> {
   emit('ready');
 }
 
-async function destroyEditorInstance(): Promise<void> {
+function destroyEditorInstance(): void {
   const editor = editorInstance.value;
 
   if (!editor) {
@@ -81,7 +82,7 @@ async function destroyEditorInstance(): Promise<void> {
 }
 
 async function rebuildEditor(): Promise<void> {
-  await destroyEditorInstance();
+  destroyEditorInstance();
   await createEditorInstance();
 }
 
@@ -110,8 +111,8 @@ function bindEditorListeners(): void {
     return;
   }
 
-  const saver = async () => {
-    await emitSavedOutput();
+  const saver: EditorHostSaver = () => {
+    void emitSavedOutput();
   };
 
   rootElement.addEventListener('input', saver);
@@ -119,7 +120,7 @@ function bindEditorListeners(): void {
 
   (
     rootElement as HTMLElement & {
-      __editorHostSaver__?: () => Promise<void>;
+      __editorHostSaver__?: EditorHostSaver;
     }
   ).__editorHostSaver__ = saver;
 }
@@ -130,7 +131,7 @@ function unbindEditorListeners(): void {
   }
 
   const typedRoot = rootElement as HTMLElement & {
-    __editorHostSaver__?: () => Promise<void>;
+    __editorHostSaver__?: EditorHostSaver;
   };
 
   if (typedRoot.__editorHostSaver__) {
@@ -147,9 +148,9 @@ onMounted(async () => {
   bindEditorListeners();
 });
 
-onBeforeUnmount(async () => {
+onBeforeUnmount(() => {
   unbindEditorListeners();
-  await destroyEditorInstance();
+  destroyEditorInstance();
 });
 
 watch(
@@ -192,7 +193,7 @@ watch(
 
 defineExpose({
   async save(): Promise<OutputData | null> {
-    return await syncFromEditor();
+    return syncFromEditor();
   },
 
   async clear(): Promise<void> {
@@ -202,7 +203,7 @@ defineExpose({
       return;
     }
 
-    await editor.clear();
+    editor.clear();
     await syncFromEditor();
   },
 
@@ -230,19 +231,9 @@ defineExpose({
       return;
     }
 
-    await editor.blocks.insert(type, data || {}, undefined, undefined, true);
+    editor.blocks.insert(type, data || {}, undefined, undefined, true);
 
     await syncFromEditor();
   },
 });
 </script>
-
-<template>
-  <div :id="holderId" class="editor-host"></div>
-</template>
-
-<style scoped>
-.editor-host {
-  min-height: 500px;
-}
-</style>

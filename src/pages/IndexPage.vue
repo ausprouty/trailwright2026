@@ -1,6 +1,4 @@
-<script setup lang="ts">
-import heroImage from 'src/assets/TrailWright.webp';
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <div class="hero"></div>

@@ -1,45 +1,33 @@
 <script setup lang="ts">
-import type { OutputData } from "@editorjs/editorjs";
-import { computed, ref, useTemplateRef, watch } from "vue";
+import type { OutputData } from '@editorjs/editorjs';
+import { computed, ref, useTemplateRef, watch } from 'vue';
 
-import DeveloperPanel from "../components/editor/DeveloperPanel.vue";
-import EditorHost from "../components/editor/EditorHost.vue";
-import InsertPanel from "../components/editor/InsertPanel.vue";
-import {
-  languageOptions,
-  type LanguageCode,
-} from "../i18n";
-import {
-  getCurrentLanguage,
-  setCurrentLanguage,
-} from "../i18n/languageState";
-import {
-  getTemplatesByLanguage,
-  loadTemplateFile,
-} from "../templates";
+import DeveloperPanel from '../components/editor/DeveloperPanel.vue';
+import EditorHost from '../components/editor/EditorHost.vue';
+import InsertPanel from '../components/editor/InsertPanel.vue';
+import { languageOptions, type LanguageCode } from 'src/i18n';
+import { getCurrentLanguage, setCurrentLanguage } from 'src/i18n/languageState';
+import { getTemplatesByLanguage, loadTemplateFile } from '../templates';
 
 type EditorHostExposed = {
   clear: () => Promise<void>;
-  insertBlock: (
-    type: string,
-    data?: Record<string, unknown>
-  ) => Promise<void>;
+  insertBlock: (type: string, data?: Record<string, unknown>) => Promise<void>;
   render: (output: OutputData) => Promise<void>;
   save: () => Promise<OutputData | null>;
 };
 
 const showDeveloperPanel = ref(false);
-const STORAGE_KEY = "editorjs-demo-content";
+const STORAGE_KEY = 'editorjs-demo-content';
 
 const currentLang = ref<LanguageCode>(getCurrentLanguage());
 const output = ref<OutputData | undefined>(loadInitialData());
-const editorHost = useTemplateRef<EditorHostExposed>("editorHost");
+const editorHost = useTemplateRef<EditorHostExposed>('editorHost');
 
 function getEmptyOutput(): OutputData {
   return {
     blocks: [],
     time: Date.now(),
-    version: "2.31.4",
+    version: '2.31.4',
   };
 }
 
@@ -61,13 +49,13 @@ const templates = computed(() => {
   return getTemplatesByLanguage(currentLang.value);
 });
 
-const selectedTemplateKey = ref("");
+const selectedTemplateKey = ref('');
 
 watch(
   templates,
   (items) => {
     if (!items.length) {
-      selectedTemplateKey.value = "";
+      selectedTemplateKey.value = '';
       return;
     }
 
@@ -79,17 +67,14 @@ watch(
       selectedTemplateKey.value = items[0].key;
     }
   },
-  { immediate: true }
+  { immediate: true },
 );
 
 watch(currentLang, (value) => {
   setCurrentLanguage(value);
 });
 
-async function onInsertBlock(
-  type: string,
-  initialData?: Record<string, unknown>
-): Promise<void> {
+async function onInsertBlock(type: string, initialData?: Record<string, unknown>): Promise<void> {
   if (!editorHost.value) {
     return;
   }
@@ -102,10 +87,7 @@ async function onLoadTemplate(): Promise<void> {
     return;
   }
 
-  const templateFile = await loadTemplateFile(
-    selectedTemplateKey.value,
-    currentLang.value
-  );
+  const templateFile = await loadTemplateFile(selectedTemplateKey.value, currentLang.value);
 
   if (!templateFile) {
     return;
@@ -113,7 +95,7 @@ async function onLoadTemplate(): Promise<void> {
 
   const nextOutput: OutputData = {
     time: Date.now(),
-    version: "2.31.4",
+    version: '2.31.4',
     blocks: templateFile.blocks,
   };
 
@@ -162,11 +144,7 @@ async function onClear(): Promise<void> {
         <label class="field-group">
           <span>Language</span>
           <select v-model="currentLang">
-            <option
-              v-for="option in languageOptions"
-              :key="option.code"
-              :value="option.code"
-            >
+            <option v-for="option in languageOptions" :key="option.code" :value="option.code">
               {{ option.label }}
             </option>
           </select>
@@ -175,39 +153,27 @@ async function onClear(): Promise<void> {
         <label class="field-group">
           <span>Template</span>
           <select v-model="selectedTemplateKey">
-            <option
-              v-for="template in templates"
-              :key="template.key"
-              :value="template.key"
-            >
+            <option v-for="template in templates" :key="template.key" :value="template.key">
               {{ template.label }}
             </option>
           </select>
         </label>
 
         <div class="actions">
-          <button
-            id="btn-load-template"
-            type="button"
-            @click="onLoadTemplate"
-          >
+          <button id="btn-load-template" type="button" @click="onLoadTemplate">
             Load Template
           </button>
 
-          <button id="btn-save" type="button" @click="onSave">
-            Save
-          </button>
+          <button id="btn-save" type="button" @click="onSave">Save</button>
 
-          <button id="btn-clear" type="button" @click="onClear">
-            Clear
-          </button>
+          <button id="btn-clear" type="button" @click="onClear">Clear</button>
 
           <button
             id="btn-toggle-json"
             type="button"
             @click="showDeveloperPanel = !showDeveloperPanel"
           >
-            {{ showDeveloperPanel ? "Hide JSON" : "Show JSON" }}
+            {{ showDeveloperPanel ? 'Hide JSON' : 'Show JSON' }}
           </button>
         </div>
       </div>
@@ -222,23 +188,14 @@ async function onClear(): Promise<void> {
       <section class="panel panel--editor">
         <h2>Editor</h2>
 
-        <EditorHost
-          ref="editorHost"
-          v-model="output"
-          :lang="currentLang"
-        />
+        <EditorHost ref="editorHost" v-model="output" :lang="currentLang" />
 
-        <p class="hint">
-          Tip: add a block from the panel on the right.
-        </p>
+        <p class="hint">Tip: add a block from the panel on the right.</p>
       </section>
 
       <InsertPanel @insert="onInsertBlock" />
 
-      <DeveloperPanel
-        v-if="showDeveloperPanel"
-        :output="output"
-      />
+      <DeveloperPanel v-if="showDeveloperPanel" :output="output" />
     </main>
   </div>
 </template>

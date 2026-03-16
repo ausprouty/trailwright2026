@@ -1,9 +1,9 @@
-import type { BlockTool, ToolConfig } from "@editorjs/editorjs";
-import { getCurrentLanguage } from "../../../i18n/languageState";
-import { t } from "../../../i18n";
-import "./SectionMarkerTool.css";
+import type { BlockTool, ToolConfig } from '@editorjs/editorjs';
+import { getCurrentLanguage } from 'src/i18n/languageState';
+import { t } from 'src/i18n';
+import './SectionMarkerTool.css';
 
-type SectionTheme = "back" | "up" | "forward";
+type SectionTheme = 'back' | 'up' | 'forward';
 
 interface SectionMarkerData {
   theme: SectionTheme;
@@ -15,9 +15,9 @@ interface SectionOption {
 }
 
 const SECTION_OPTIONS: SectionOption[] = [
-  { value: "back", labelKey: "sectionMarker.lookBack" },
-  { value: "up", labelKey: "sectionMarker.lookUp" },
-  { value: "forward", labelKey: "sectionMarker.lookForward" },
+  { value: 'back', labelKey: 'sectionMarker.lookBack' },
+  { value: 'up', labelKey: 'sectionMarker.lookUp' },
+  { value: 'forward', labelKey: 'sectionMarker.lookForward' },
 ];
 
 export default class SectionMarkerTool implements BlockTool {
@@ -35,7 +35,7 @@ export default class SectionMarkerTool implements BlockTool {
 
   public static get toolbox(): ToolConfig {
     return {
-      title: "Section Marker",
+      title: 'Section Marker',
       icon: `
         <svg width="18" height="18" viewBox="0 0 24 24"
           xmlns="http://www.w3.org/2000/svg" fill="none"
@@ -48,13 +48,9 @@ export default class SectionMarkerTool implements BlockTool {
     };
   }
 
-  public constructor({
-    data,
-  }: {
-    data?: Partial<SectionMarkerData>;
-  }) {
+  public constructor({ data }: { data?: Partial<SectionMarkerData> }) {
     this.data = {
-      theme: data?.theme ?? "back",
+      theme: data?.theme ?? 'back',
     };
 
     this.wrapper = null;
@@ -72,29 +68,29 @@ export default class SectionMarkerTool implements BlockTool {
   public render(): HTMLElement {
     const lang = getCurrentLanguage();
 
-    this.wrapper = document.createElement("div");
-    this.wrapper.className = "section-marker-tool";
+    this.wrapper = document.createElement('div');
+    this.wrapper.className = 'section-marker-tool';
 
-    this.cardEl = document.createElement("div");
-    this.cardEl.className = "section-marker-tool__card";
-    this.cardEl.setAttribute("role", "button");
+    this.cardEl = document.createElement('div');
+    this.cardEl.className = 'section-marker-tool__card';
+    this.cardEl.setAttribute('role', 'button');
     this.cardEl.tabIndex = 0;
 
-    this.iconEl = document.createElement("span");
-    this.iconEl.className = "section-marker-tool__icon";
-    this.iconEl.setAttribute("aria-hidden", "true");
+    this.iconEl = document.createElement('span');
+    this.iconEl.className = 'section-marker-tool__icon';
+    this.iconEl.setAttribute('aria-hidden', 'true');
 
-    this.labelEl = document.createElement("span");
-    this.labelEl.className = "section-marker-tool__label";
+    this.labelEl = document.createElement('span');
+    this.labelEl.className = 'section-marker-tool__label';
 
-    this.actionsEl = document.createElement("div");
-    this.actionsEl.className = "section-marker-tool__actions";
+    this.actionsEl = document.createElement('div');
+    this.actionsEl.className = 'section-marker-tool__actions';
 
-    this.editButtonEl = document.createElement("button");
-    this.editButtonEl.type = "button";
-    this.editButtonEl.className = "section-marker-tool__edit-btn";
-    this.editButtonEl.textContent = t(lang, "common.edit") || "Edit";
-    this.editButtonEl.addEventListener("click", (event) => {
+    this.editButtonEl = document.createElement('button');
+    this.editButtonEl.type = 'button';
+    this.editButtonEl.className = 'section-marker-tool__edit-btn';
+    this.editButtonEl.textContent = t(lang, 'common.edit') || 'Edit';
+    this.editButtonEl.addEventListener('click', (event) => {
       event.preventDefault();
       event.stopPropagation();
       this.setEditing(true);
@@ -105,21 +101,21 @@ export default class SectionMarkerTool implements BlockTool {
     this.cardEl.appendChild(this.labelEl);
     this.cardEl.appendChild(this.actionsEl);
 
-    this.cardEl.addEventListener("keydown", (event: KeyboardEvent) => {
-      if (event.key === "Enter" || event.key === " ") {
+    this.cardEl.addEventListener('keydown', (event: KeyboardEvent) => {
+      if (event.key === 'Enter' || event.key === ' ') {
         event.preventDefault();
         this.setEditing(true);
       }
     });
 
-    this.editorEl = document.createElement("div");
-    this.editorEl.className = "section-marker-tool__editor";
+    this.editorEl = document.createElement('div');
+    this.editorEl.className = 'section-marker-tool__editor';
 
-    this.selectEl = document.createElement("select");
-    this.selectEl.className = "section-marker-tool__select";
+    this.selectEl = document.createElement('select');
+    this.selectEl.className = 'section-marker-tool__select';
 
     SECTION_OPTIONS.forEach((option) => {
-      const optionEl = document.createElement("option");
+      const optionEl = document.createElement('option');
       optionEl.value = option.value;
       optionEl.textContent = t(lang, option.labelKey);
 
@@ -130,16 +126,16 @@ export default class SectionMarkerTool implements BlockTool {
       this.selectEl?.appendChild(optionEl);
     });
 
-    this.selectEl.addEventListener("change", () => {
-      this.data.theme = (this.selectEl?.value as SectionTheme) || "back";
+    this.selectEl.addEventListener('change', () => {
+      this.data.theme = (this.selectEl?.value as SectionTheme) || 'back';
       this.updateCard();
     });
 
-    this.doneButtonEl = document.createElement("button");
-    this.doneButtonEl.type = "button";
-    this.doneButtonEl.className = "section-marker-tool__done-btn";
-    this.doneButtonEl.textContent = t(lang, "common.done") || "Done";
-    this.doneButtonEl.addEventListener("click", (event) => {
+    this.doneButtonEl = document.createElement('button');
+    this.doneButtonEl.type = 'button';
+    this.doneButtonEl.className = 'section-marker-tool__done-btn';
+    this.doneButtonEl.textContent = t(lang, 'common.done') || 'Done';
+    this.doneButtonEl.addEventListener('click', (event) => {
       event.preventDefault();
       this.setEditing(false);
     });
@@ -164,7 +160,7 @@ export default class SectionMarkerTool implements BlockTool {
     }
 
     if (isEditing) {
-      this.wrapper.classList.add("section-marker-tool--editing");
+      this.wrapper.classList.add('section-marker-tool--editing');
       this.cardEl.hidden = true;
       this.editorEl.hidden = false;
 
@@ -175,7 +171,7 @@ export default class SectionMarkerTool implements BlockTool {
       return;
     }
 
-    this.wrapper.classList.remove("section-marker-tool--editing");
+    this.wrapper.classList.remove('section-marker-tool--editing');
     this.editorEl.hidden = true;
     this.cardEl.hidden = false;
     this.updateCard();
@@ -184,19 +180,19 @@ export default class SectionMarkerTool implements BlockTool {
   private getLabel(): string {
     const lang = getCurrentLanguage();
 
-    if (this.data.theme === "back") {
-      return t(lang, "sectionMarker.lookBack");
+    if (this.data.theme === 'back') {
+      return t(lang, 'sectionMarker.lookBack');
     }
 
-    if (this.data.theme === "up") {
-      return t(lang, "sectionMarker.lookUp");
+    if (this.data.theme === 'up') {
+      return t(lang, 'sectionMarker.lookUp');
     }
 
-    return t(lang, "sectionMarker.lookForward");
+    return t(lang, 'sectionMarker.lookForward');
   }
 
   private getArrowSvg(): string {
-    if (this.data.theme === "back") {
+    if (this.data.theme === 'back') {
       return `
         <svg viewBox="0 0 24 24" class="section-marker-tool__arrow-svg"
           xmlns="http://www.w3.org/2000/svg" fill="none"
@@ -208,7 +204,7 @@ export default class SectionMarkerTool implements BlockTool {
       `;
     }
 
-    if (this.data.theme === "up") {
+    if (this.data.theme === 'up') {
       return `
         <svg viewBox="0 0 24 24" class="section-marker-tool__arrow-svg"
           xmlns="http://www.w3.org/2000/svg" fill="none"
@@ -236,7 +232,7 @@ export default class SectionMarkerTool implements BlockTool {
       return;
     }
 
-    this.cardEl.setAttribute("data-theme", this.data.theme);
+    this.cardEl.setAttribute('data-theme', this.data.theme);
     this.iconEl.innerHTML = this.getArrowSvg();
     this.labelEl.textContent = this.getLabel().toUpperCase();
 

@@ -14,14 +14,14 @@ const menuLinks = [
     to: '/',
   },
   {
-    title: 'Test EditorJS',
+    title: 'Editor',
     icon: 'edit_document',
-    to: '//',
+    to: '/editor',
   },
   {
-    title: 'MyFriends',
+    title: 'Viewer',
     icon: 'menu_book',
-    to: '/myfriends',
+    to: '/viewer',
   },
 ];
 </script>

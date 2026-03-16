@@ -7,7 +7,15 @@ const routes: RouteRecordRaw[] = [
     children: [
       {
         path: '',
-        component: () => import('pages/TestEditorJsPage.vue'),
+        component: () => import('pages/IndexPage.vue'),
+      },
+      {
+        path: 'viewer',
+        component: () => import('pages/PageViewer.vue'),
+      },
+      {
+        path: 'editor',
+        component: () => import('pages/EditorWorkbench.vue'),
       },
     ],
   },

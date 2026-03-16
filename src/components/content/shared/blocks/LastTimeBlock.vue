@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { computed, onMounted, ref, watch } from 'vue';
 import { useSettingsStore } from 'src/stores/SettingsStore';
-import { getNote } from 'src/services/NoteService';
-import { getStudyProgress } from 'src/services/IndexedDBService';
+import { getNote } from 'src/services/noteService';
+import { getStudyProgress } from 'src/services/indexedDBService';
 import { useSiteContent } from 'src/composables/useSiteContent';
 
 defineProps<{

@@ -1,13 +1,30 @@
 <script setup lang="ts">
-import type EditorJS from '@editorjs/editorjs';
-import type { OutputData } from '@editorjs/editorjs';
 import { nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue';
+import { createEditor, type EditorInstance } from '../editor/createEditor';
 
-import { createEditor } from '../editor/createEditor';
 import type { LanguageCode } from 'src/i18n';
 
 type InsertBlockData = Record<string, unknown>;
 type EditorHostSaver = () => void;
+
+type EditorBlockData = {
+  id?: string;
+  type: string;
+  data: Record<string, unknown>;
+};
+
+type OutputData = {
+  blocks: EditorBlockData[];
+  time?: number;
+  version?: string;
+};
+
+type EditorHostExposed = {
+  save: () => Promise<OutputData | null>;
+  clear: () => Promise<void>;
+  render: (output: OutputData) => Promise<void>;
+  insertBlock: (type: string, data?: InsertBlockData) => Promise<void>;
+};
 
 const props = defineProps<{
   lang: LanguageCode;
@@ -20,11 +37,10 @@ const emit = defineEmits<{
 }>();
 
 const holderId = 'editorjs-host';
-const editorInstance = ref<EditorJS | null>(null);
+const editorInstance = ref<EditorInstance | null>(null);
 const isApplyingExternalData = ref(false);
 const lastSavedJson = ref('');
 let rootElement: HTMLElement | null = null;
-
 function stableStringify(value: unknown): string {
   return JSON.stringify(value ?? null);
 }
@@ -190,13 +206,12 @@ watch(
   },
   { deep: true },
 );
-
-defineExpose({
-  async save(): Promise<OutputData | null> {
+const exposed: EditorHostExposed = {
+  save: async () => {
     return syncFromEditor();
   },
 
-  async clear(): Promise<void> {
+  clear: async () => {
     const editor = editorInstance.value;
 
     if (!editor) {
@@ -207,7 +222,7 @@ defineExpose({
     await syncFromEditor();
   },
 
-  async render(output: OutputData): Promise<void> {
+  render: async (output: OutputData) => {
     const editor = editorInstance.value;
 
     if (!editor) {
@@ -224,7 +239,7 @@ defineExpose({
     }
   },
 
-  async insertBlock(type: string, data?: InsertBlockData): Promise<void> {
+  insertBlock: async (type: string, data?: InsertBlockData) => {
     const editor = editorInstance.value;
 
     if (!editor) {
@@ -235,5 +250,10 @@ defineExpose({
 
     await syncFromEditor();
   },
-});
+};
+
+defineExpose(exposed);
 </script>
+<template>
+  <div :id="holderId"></div>
+</template>

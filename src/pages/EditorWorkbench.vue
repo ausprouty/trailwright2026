@@ -121,6 +121,65 @@ async function onLoadTemplate(): Promise<void> {
   }
 }
 
+function buildDefaultFileName(): string {
+  const templatePart = selectedTemplateKey.value || 'document';
+  const langPart = currentLang.value || 'en';
+  return `${templatePart}-${langPart}.json`;
+}
+
+function downloadJsonFile(saved: OutputData, fileName: string): void {
+  const json = JSON.stringify(saved, null, 2);
+  const blob = new Blob([json], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+
+  const link = document.createElement('a');
+  link.href = url;
+  link.download = fileName;
+  link.click();
+
+  URL.revokeObjectURL(url);
+}
+
+async function saveWithPicker(saved: OutputData): Promise<void> {
+  const picker = (
+    window as Window & {
+      showSaveFilePicker?: (options?: {
+        suggestedName?: string;
+        types?: Array<{
+          description?: string;
+          accept: Record<string, string[]>;
+        }>;
+      }) => Promise<{
+        createWritable: () => Promise<{
+          write: (data: string) => Promise<void>;
+          close: () => Promise<void>;
+        }>;
+      }>;
+    }
+  ).showSaveFilePicker;
+
+  if (!picker) {
+    downloadJsonFile(saved, buildDefaultFileName());
+    return;
+  }
+
+  const handle = await picker({
+    suggestedName: buildDefaultFileName(),
+    types: [
+      {
+        description: 'JSON Files',
+        accept: {
+          'application/json': ['.json'],
+        },
+      },
+    ],
+  });
+
+  const writable = await handle.createWritable();
+  await writable.write(JSON.stringify(saved, null, 2));
+  await writable.close();
+}
+
 async function onSave(): Promise<void> {
   if (!editorHost.value) {
     return;
@@ -134,6 +193,8 @@ async function onSave(): Promise<void> {
 
   output.value = saved;
   localStorage.setItem(STORAGE_KEY, JSON.stringify(saved));
+
+  await saveWithPicker(saved);
 }
 
 async function onClear(): Promise<void> {
@@ -152,7 +213,7 @@ async function onClear(): Promise<void> {
   <div class="app-shell">
     <header class="topbar">
       <div class="topbar__left">
-        <h1>Editor.js Editor</h1>
+        <h6>Editor.js Editor</h6>
       </div>
 
       <div class="topbar__right">
@@ -201,8 +262,6 @@ async function onClear(): Promise<void> {
       }"
     >
       <section class="panel panel--editor">
-        <h2>Editor</h2>
-
         <EditorHost ref="editorHost" v-model="output" :lang="currentLang" />
 
         <p class="hint">Tip: add a block from the panel on the right.</p>

@@ -1,0 +1,9 @@
+.last-time-box {
+  background: #c9a781;
+  color: #5a4636;
+  padding: 18px 22px;
+  border-radius: 12px;
+  font-size: 16px;
+  font-weight: 500;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}

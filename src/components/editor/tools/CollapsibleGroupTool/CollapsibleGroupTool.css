@@ -1,0 +1,63 @@
+.cg-tool {
+  border: 1px solid #d8dee4;
+  border-radius: 10px;
+  background: #ffffff;
+  margin: 12px 0;
+  overflow: hidden;
+}
+
+.cg-tool__header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border: 0;
+  background: #f7f8fa;
+  padding: 12px 14px;
+  cursor: pointer;
+  text-align: left;
+}
+
+.cg-tool__header:hover {
+  background: #eef2f6;
+}
+
+.cg-tool__arrow {
+  display: inline-flex;
+  width: 18px;
+  justify-content: center;
+  align-items: center;
+  transition: transform 0.18s ease;
+  color: #44546a;
+  font-size: 14px;
+  flex: 0 0 18px;
+}
+
+.cg-tool__title {
+  flex: 1;
+  border: 0;
+  background: transparent;
+  font-size: 16px;
+  font-weight: 600;
+  color: #1f2a37;
+  outline: none;
+}
+
+.cg-tool__title::placeholder {
+  color: #7b8794;
+}
+
+.cg-tool__body {
+  padding: 14px;
+  border-top: 1px solid #e6ebf1;
+  min-height: 90px;
+}
+
+.cg-tool__editor-holder {
+  min-height: 80px;
+}
+
+.cg-tool .ce-block__content,
+.cg-tool .ce-toolbar__content {
+  max-width: 100%;
+}

@@ -1,0 +1,142 @@
+.arc-cont {
+  position: relative;
+  display: block;
+  width: 100%;
+  margin: 10px auto;
+}
+
+.arc-cont::after {
+  display: block;
+  padding-top: 59%;
+  content: "";
+}
+
+.arc-cont > iframe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 98%;
+  height: 98%;
+  border: 0;
+  border-radius: 8px;
+}
+
+.video-tool {
+  padding: 12px;
+  border: 1px solid #d9d9d9;
+  border-radius: 14px;
+  background: #f3f3f3;
+  overflow: hidden;
+  margin: 12px 0;
+}
+
+.video-tool__body {
+  padding: 16px 4px 4px;
+}
+
+.video-tool__field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.video-tool__field-label {
+  font-size: 13px;
+  font-weight: 600;
+  color: #425466;
+}
+
+.video-tool__fields {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+}
+
+.video-tool__header {
+  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+ .video-tool__header-left {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-width: 0;
+  flex: 1 1 auto;
+ }
+ 
+ .video-tool__header-right {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-left: auto;
+  flex: 0 0 auto;
+ }
+ 
+ .video-tool__header-text {
+  display: block;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+ }
+
+
+.video-tool__iframe-wrap {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+}
+
+.video-tool__iframe-wrap::after {
+  display: block;
+  padding-top: 56.25%;
+  content: "";
+}
+
+.video-tool__iframe-wrap > iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: 8px;
+}
+
+.video-tool__input {
+  width: 100%;
+  min-height: 42px;
+  padding: 10px 12px;
+  border: 1px solid #c8d2dc;
+  border-radius: 8px;
+  background: #fff;
+  box-sizing: border-box;
+  color: #1f2d3d;
+  font: inherit;
+}
+
+.video-tool__input:focus {
+  outline: none;
+  border-color: #7aa7d8;
+  box-shadow: 0 0 0 2px rgba(122, 167, 216, 0.15);
+}
+
+.video-tool__preview-unavailable {
+  padding: 14px;
+  border: 1px dashed #c8d2dc;
+  border-radius: 8px;
+  background: #fafcfe;
+  color: #5f6b76;
+}
+
+.video-tool__status {
+  margin-bottom: 14px;
+  color: #5f6b76;
+  font-size: 13px;
+  line-height: 1.4;
+  word-break: break-word;
+}

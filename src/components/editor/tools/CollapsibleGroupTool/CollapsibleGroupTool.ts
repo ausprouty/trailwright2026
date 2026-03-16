@@ -1,0 +1,183 @@
+import EditorJS, { type OutputData } from "@editorjs/editorjs";
+import "./CollapsibleGroupTool.css";
+
+type ToolConstructorArgs = {
+  data?: Partial<CollapsibleGroupData>;
+  config?: CollapsibleGroupConfig;
+  readOnly?: boolean;
+};
+
+type CollapsibleGroupData = {
+  title: string;
+  isOpen: boolean;
+  content: OutputData;
+};
+
+type CollapsibleGroupConfig = {
+  tools: Record<string, unknown>;
+  placeholder?: string;
+};
+
+export default class CollapsibleGroupTool {
+  private api: EditorJS | null = null;
+  private data: CollapsibleGroupData;
+  private readOnly: boolean;
+  private config: CollapsibleGroupConfig;
+
+  private wrapper!: HTMLDivElement;
+  private header!: HTMLButtonElement;
+  private arrow!: HTMLSpanElement;
+  private titleInput!: HTMLInputElement;
+  private body!: HTMLDivElement;
+  private editorHolder!: HTMLDivElement;
+
+  public static get toolbox() {
+    return {
+      title: "Collapsible Group",
+      icon: `
+        <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
+          <path
+            d="M8 5l8 7-8 7V5z"
+            fill="currentColor"
+          />
+        </svg>
+      `,
+    };
+  }
+
+  public static get isReadOnlySupported(): boolean {
+    return true;
+  }
+
+  constructor({
+    data,
+    config,
+    readOnly,
+  }: ToolConstructorArgs) {
+    this.readOnly = readOnly ?? false;
+    this.config = config ?? { tools: {} };
+
+    this.data = {
+  title: data?.title ?? "",
+  isOpen: data?.isOpen ?? true,
+  content: data?.content ?? {
+    time: Date.now(),
+    blocks: [
+      {
+        type: "paragraph",
+        data: {
+          text: "",
+        },
+      },
+    ],
+  },
+};
+  }
+
+  public render(): HTMLElement {
+    this.wrapper = document.createElement("div");
+    this.wrapper.className = "cg-tool";
+
+    this.header = document.createElement("button");
+    this.header.type = "button";
+    this.header.className = "cg-tool__header";
+
+    this.arrow = document.createElement("span");
+    this.arrow.className = "cg-tool__arrow";
+    this.arrow.innerHTML = "&#9656;";
+
+    this.titleInput = document.createElement("input");
+    this.titleInput.type = "text";
+    this.titleInput.className = "cg-tool__title";
+    this.titleInput.placeholder =
+      this.config.placeholder ?? "Toggle heading";
+    this.titleInput.value = this.data.title;
+    this.titleInput.readOnly = this.readOnly;
+
+    this.body = document.createElement("div");
+    this.body.className = "cg-tool__body";
+
+    this.editorHolder = document.createElement("div");
+    this.editorHolder.className = "cg-tool__editor-holder";
+
+    this.body.appendChild(this.editorHolder);
+    this.header.appendChild(this.arrow);
+    this.header.appendChild(this.titleInput);
+    this.wrapper.appendChild(this.header);
+    this.wrapper.appendChild(this.body);
+
+    if (!this.readOnly) {
+      this.header.addEventListener("click", (event) => {
+        const target = event.target as HTMLElement;
+
+        if (target === this.titleInput) {
+          return;
+        }
+
+        this.toggleOpen();
+      });
+    }
+
+    this.applyOpenState();
+    void this.createNestedEditor();
+
+    return this.wrapper;
+  }
+
+  private toggleOpen(): void {
+    this.data.isOpen = !this.data.isOpen;
+    this.applyOpenState();
+  }
+
+  private applyOpenState(): void {
+    if (this.data.isOpen) {
+      this.wrapper.classList.add("cg-tool--open");
+      this.body.style.display = "block";
+      this.arrow.style.transform = "rotate(90deg)";
+    } else {
+      this.wrapper.classList.remove("cg-tool--open");
+      this.body.style.display = "none";
+      this.arrow.style.transform = "rotate(0deg)";
+    }
+  }
+
+  private async createNestedEditor(): Promise<void> {
+    this.api = new EditorJS({
+      holder: this.editorHolder,
+      readOnly: this.readOnly,
+      tools: this.config.tools,
+      data: this.data.content,
+      minHeight: 40,
+    });
+
+    await this.api.isReady;
+  }
+
+  public async save(): Promise<CollapsibleGroupData> {
+    let content: OutputData = {
+      time: Date.now(),
+      blocks: [],
+    };
+
+    if (this.api) {
+      content = await this.api.save();
+    }
+
+    return {
+      title: this.titleInput.value.trim(),
+      isOpen: this.data.isOpen,
+      content,
+    };
+  }
+
+  public async destroy(): Promise<void> {
+    if (this.api && typeof this.api.destroy === "function") {
+      this.api.destroy();
+      this.api = null;
+    }
+  }
+
+  public validate(savedData: CollapsibleGroupData): boolean {
+    return savedData.title.trim().length > 0;
+  }
+}

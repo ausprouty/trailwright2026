@@ -1,0 +1,173 @@
+.section-marker-tool {
+  width: 100%;
+  margin: 8px 0;
+}
+
+.section-marker-tool__card {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-height: 64px;
+  padding: 12px 16px;
+  border: 1px solid #d5d9df;
+  border-radius: 0;
+  background: #f8f8f8;
+  color: #111111;
+  transition:
+    background-color 0.18s ease,
+    border-color 0.18s ease,
+    box-shadow 0.18s ease;
+}
+
+.section-marker-tool__card:hover,
+.section-marker-tool__card:focus {
+  background: #fbfbfb;
+  border-color: #bfc7d2;
+  outline: none;
+}
+
+.section-marker-tool__card[data-theme="back"] {
+  border-left: 4px solid #d0d7de;
+}
+
+.section-marker-tool__card[data-theme="up"] {
+  border-left: 4px solid #d0d7de;
+}
+
+.section-marker-tool__card[data-theme="forward"] {
+  border-left: 4px solid #d0d7de;
+}
+
+.section-marker-tool__icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  flex: 0 0 34px;
+  border-radius: 999px;
+  background: #000000;
+  color: #ffffff;
+}
+
+.section-marker-tool__arrow-svg {
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+
+.section-marker-tool__label {
+  flex: 1 1 auto;
+  font-size: 17px;
+  font-weight: 500;
+  letter-spacing: 0;
+  color: #000000;
+}
+
+.section-marker-tool__actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.18s ease;
+}
+
+.section-marker-tool__card:hover .section-marker-tool__actions,
+.section-marker-tool__card:focus .section-marker-tool__actions,
+.ce-block--selected .section-marker-tool__actions {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.section-marker-tool__edit-btn,
+.section-marker-tool__done-btn {
+  appearance: none;
+  border: 1px solid #c9ced6;
+  background: #ffffff;
+  color: #111111;
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1;
+  cursor: pointer;
+  transition:
+    background-color 0.18s ease,
+    border-color 0.18s ease,
+    box-shadow 0.18s ease,
+    color 0.18s ease;
+}
+
+.section-marker-tool__edit-btn:hover,
+.section-marker-tool__done-btn:hover {
+  background: #f1f3f5;
+  border-color: #b7bec8;
+  color: #111111;
+}
+
+.section-marker-tool__edit-btn:focus,
+.section-marker-tool__done-btn:focus,
+.section-marker-tool__select:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(60, 110, 137, 0.16);
+}
+
+.section-marker-tool__editor {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 16px;
+  border: 1px solid #d5d9df;
+  background: #ffffff;
+}
+
+.section-marker-tool__select {
+  flex: 1 1 auto;
+  min-height: 40px;
+  padding: 0 12px;
+  border: 1px solid #c9ced6;
+  border-radius: 6px;
+  background: #ffffff;
+  color: #111111;
+  font-size: 15px;
+}
+
+.section-marker-tool__editor[hidden],
+.section-marker-tool__card[hidden] {
+  display: none;
+}
+
+.ce-block--selected .section-marker-tool__card {
+  border-color: #aeb8c4;
+  box-shadow: 0 0 0 1px #aeb8c4;
+  background: #f6f7f9;
+}
+
+@media (max-width: 640px) {
+  .section-marker-tool__card {
+    gap: 10px;
+    padding: 10px 12px;
+  }
+
+  .section-marker-tool__label {
+    font-size: 16px;
+  }
+
+  .section-marker-tool__icon {
+    width: 30px;
+    height: 30px;
+    flex-basis: 30px;
+  }
+
+  .section-marker-tool__arrow-svg {
+    width: 18px;
+    height: 18px;
+  }
+
+  .section-marker-tool__editor {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

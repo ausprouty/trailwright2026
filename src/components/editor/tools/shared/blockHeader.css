@@ -1,0 +1,85 @@
+.tool-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  gap: 16px;
+  padding: 16px 18px;
+  border: 0;
+  border-radius: 10px;
+  background: #e31b23;
+  color: #ffffff;
+  text-align: left;
+  cursor: pointer;
+  box-sizing: border-box;
+  font: inherit;
+}
+
+.tool-header:hover {
+  background: #cf1820;
+}
+
+.tool-header__left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+  flex: 1 1 auto;
+}
+
+.tool-header__icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+}
+
+.tool-header__icon svg {
+  width: 20px;
+  height: 20px;
+  display: block;
+  fill: currentColor;
+}
+
+.tool-header__icon--text {
+  font-size: 18px;
+  line-height: 1;
+}
+
+.tool-header__text {
+  flex: 1 1 auto;
+  min-width: 0;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #ffffff;
+}
+
+.tool-header__right {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex: 0 0 auto;
+}
+
+.tool-header__action {
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: underline;
+  color: #ffffff;
+  opacity: 0.95;
+}
+
+button.tool-header__action {
+  border: 0;
+  background: transparent;
+  padding: 0;
+  cursor: pointer;
+  font: inherit;
+}
+
+.tool-header__toggle {
+  font-size: 22px;
+  line-height: 1;
+  color: #ffffff;
+}

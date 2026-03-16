@@ -1,0 +1,86 @@
+.bible-passage-tool {
+  padding: 12px;
+  border: 1px solid #d0d5dd;
+  border-radius: 12px;
+  background: #f8fafc;
+  transition:
+    background-color 0.15s ease,
+    border-color 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.bible-passage-tool:hover {
+  border-color: #98a2b3;
+  background: #f8fafc;
+}
+
+.bible-passage-tool:focus-within {
+  border-color: #b42318;
+  box-shadow: 0 0 0 3px rgba(180, 35, 24, 0.12);
+  background: #fffaf9;
+}
+
+.bible-passage-tool__button {
+  padding: 10px 14px;
+  border: 1px solid #d1d5db;
+  border-radius: 10px;
+  background: #ffffff;
+  cursor: pointer;
+}
+
+.bible-passage-tool__controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.bible-passage-tool__header {
+  display: none;
+}
+
+.bible-passage-tool__header-edit {
+  display: inline-flex;
+  align-items: center;
+}
+
+.bible-passage-tool__header-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bible-passage-tool__input {
+  flex: 1 1 auto;
+  min-width: 0;
+  padding: 10px 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+.bible-passage-tool__passage {
+  margin-top: 10px;
+  padding: 14px 16px;
+  border: 1px solid #e4e7ec;
+  border-radius: 8px;
+  background: #ffffff;
+  line-height: 1.7;
+}
+
+.bible-passage-tool__status {
+  margin-bottom: 8px;
+  font-size: 12px;
+}
+
+.bible-passage-tool__status[data-state="error"] {
+  color: #b42318;
+}
+
+.bible-passage-tool__status[data-state="info"] {
+  color: #175cd3;
+}
+
+.bible-passage-tool__status[data-state="success"] {
+  color: #067647;
+}

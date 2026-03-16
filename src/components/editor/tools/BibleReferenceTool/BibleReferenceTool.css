@@ -1,0 +1,197 @@
+.bible-reference-tool {
+  background: #fff;
+  border: 1px solid #d7dce3;
+  border-radius: 12px;
+  padding: 16px;
+}
+
+.bible-reference-tool__button {
+  background: #fff;
+  border: 1px solid #c8d0da;
+  border-radius: 8px;
+  cursor: pointer;
+  font: inherit;
+  padding: 8px 12px;
+}
+
+.bible-reference-tool__button-row {
+  margin-bottom: 8px;
+}
+
+.bible-reference-tool__empty {
+  color: #6b7280;
+  font-size: 14px;
+}
+
+.bible-reference-tool__inline-ref {
+  background: none;
+  border: 0;
+  color: #245ea8;
+  cursor: pointer;
+  display: inline;
+  font: inherit;
+  margin: 0;
+  padding: 0;
+  text-decoration: underline;
+}
+
+.bible-reference-tool__input {
+  margin-bottom: 8px;
+}
+
+.bible-reference-tool__label {
+  color: #5b6470;
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+
+.bible-reference-tool__passage-preview {
+  background: #fff;
+  border: 1px solid #c8d0da;
+  border-radius: 8px;
+  line-height: 1.6;
+  min-height: 70px;
+  padding: 10px 12px;
+}
+
+.bible-reference-tool__passage-preview[data-empty="true"] {
+  color: #6b7280;
+  font-style: italic;
+}
+
+.bible-reference-tool__passage-preview .versenum {
+  font-size: 0.8em;
+  vertical-align: super;
+}
+
+.bible-reference-tool__passage-preview p {
+  margin: 0;
+}
+
+.bible-reference-tool__popup-card {
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: 0 14px 40px rgba(0, 0, 0, 0.2);
+  max-height: 80vh;
+  overflow: auto;
+  padding: 18px 18px 16px;
+  position: relative;
+  width: min(640px, 100%);
+}
+
+.bible-reference-tool__popup-close {
+  background: none;
+  border: 0;
+  cursor: pointer;
+  font-size: 28px;
+  line-height: 1;
+  position: absolute;
+  right: 10px;
+  top: 8px;
+}
+
+.bible-reference-tool__popup-overlay {
+  align-items: center;
+  background: rgba(0, 0, 0, 0.45);
+  display: flex;
+  inset: 0;
+  justify-content: center;
+  padding: 20px;
+  position: fixed;
+  z-index: 9999;
+}
+
+.bible-reference-tool__popup-overlay[hidden] {
+  display: none;
+}
+
+.bible-reference-tool__popup-text {
+  line-height: 1.7;
+  white-space: normal;
+}
+
+.bible-reference-tool__popup-text .versenum {
+  font-size: 0.8em;
+  vertical-align: super;
+}
+
+.bible-reference-tool__popup-text p {
+  margin: 0 0 0.5em;
+}
+
+.bible-reference-tool__popup-title {
+  font-weight: 700;
+  margin-bottom: 12px;
+  padding-right: 28px;
+}
+
+.bible-reference-tool__preview {
+  border-top: 1px solid #e3e8ee;
+  padding-top: 14px;
+}
+
+.bible-reference-tool__preview-label {
+  color: #5b6470;
+  font-size: 13px;
+  margin-bottom: 8px;
+}
+
+.bible-reference-tool__refs {
+  display: grid;
+  gap: 12px;
+  margin-bottom: 18px;
+}
+
+.bible-reference-tool__ref-heading {
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.bible-reference-tool__ref-row {
+  background: #fafbfc;
+  border: 1px solid #d7dce3;
+  border-radius: 10px;
+  padding: 12px;
+}
+
+.bible-reference-tool__rendered {
+  line-height: 1.7;
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.bible-reference-tool__search-ref,
+.bible-reference-tool__status {
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.bible-reference-tool__status[data-state="error"] {
+  color: #b3261e;
+}
+
+.bible-reference-tool__status[data-state="info"] {
+  color: #5b6470;
+}
+
+.bible-reference-tool__status[data-state="success"] {
+  color: #2f7d32;
+}
+
+.bible-reference-tool__textarea,
+.bible-reference-tool__input {
+  background: #fff;
+  border: 1px solid #c8d0da;
+  border-radius: 8px;
+  box-sizing: border-box;
+  font: inherit;
+  padding: 10px 12px;
+  width: 100%;
+}
+
+.bible-reference-tool__textarea {
+  line-height: 1.5;
+  margin-bottom: 16px;
+  min-height: 140px;
+  resize: vertical;
+}

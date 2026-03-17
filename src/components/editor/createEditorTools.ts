@@ -21,6 +21,16 @@ import VideoTool from './tools/VideoTool/VideoTool';
 
 type EditorTools = Record<string, ToolSettings>;
 
+type SelectOption = {
+  value: string;
+  label: string;
+};
+
+type CreateEditorToolsOptions = {
+  titleToolLanguages?: SelectOption[];
+  titleToolSeriesOptions?: SelectOption[];
+};
+
 function createNestedEditorTools(): EditorTools {
   return {
     bibleReference: {
@@ -65,7 +75,22 @@ function createNestedEditorTools(): EditorTools {
   };
 }
 
-export function createEditorTools(lang: LanguageCode): EditorTools {
+export function createEditorTools(
+  lang: LanguageCode,
+  options: CreateEditorToolsOptions = {},
+): EditorTools {
+  const titleToolLanguages = options.titleToolLanguages ?? [
+    { value: 'english', label: 'English' },
+    { value: 'spanish', label: 'Spanish' },
+    { value: 'french', label: 'French' },
+  ];
+
+  const titleToolSeriesOptions = options.titleToolSeriesOptions ?? [
+    { value: 'multiply1', label: 'Multiply 1' },
+    { value: 'multiply2', label: 'Multiply 2' },
+    { value: 'multiply3', label: 'Multiply 3' },
+  ];
+
   return {
     biblePassage: {
       class: BiblePassageTool as unknown as ToolConstructable,
@@ -74,9 +99,11 @@ export function createEditorTools(lang: LanguageCode): EditorTools {
         languageCodeIso: lang,
       },
     },
+
     bibleReference: {
       class: BibleReferenceTool,
     },
+
     collapsibleGroup: {
       class: CollapsibleGroupTool as unknown as ToolConstructable,
       config: {
@@ -110,6 +137,7 @@ export function createEditorTools(lang: LanguageCode): EditorTools {
         },
       },
     },
+
     lastTime: {
       class: LastTimeTool as unknown as ToolConstructable,
       config: {
@@ -125,6 +153,7 @@ export function createEditorTools(lang: LanguageCode): EditorTools {
     notesArea: {
       class: NotesAreaTool as unknown as ToolConstructable,
     },
+
     oikosList: {
       class: OikosListTool,
     },
@@ -142,6 +171,7 @@ export function createEditorTools(lang: LanguageCode): EditorTools {
     sectionMarker: {
       class: SectionMarkerTool as unknown as ToolConstructable,
     },
+
     videoEmbed: {
       class: VideoTool as unknown as ToolConstructable,
       config: {
@@ -151,24 +181,17 @@ export function createEditorTools(lang: LanguageCode): EditorTools {
           startLabel: t(lang, 'videoTool.startTime'),
           titleLabel: t(lang, 'videoTool.titleLabel'),
           untitledVideo: t(lang, 'videoTool.untitledVideo'),
-          urlLabel: t(lang, 'videoTool.urlLabel '),
+          urlLabel: t(lang, 'videoTool.urlLabel'),
           watchOnlineTemplate: t(lang, 'videoTool.watchOnlineTemplate'),
         },
       },
     },
+
     titleTool: {
       class: TitleTool as unknown as ToolConstructable,
       config: {
-        languages: [
-          { value: 'english', label: 'English' },
-          { value: 'spanish', label: 'Spanish' },
-          { value: 'french', label: 'French' },
-        ],
-        seriesOptions: [
-          { value: 'multiply1', label: 'Multiply 1' },
-          { value: 'multiply2', label: 'Multiply 2' },
-          { value: 'multiply3', label: 'Multiply 3' },
-        ],
+        languages: titleToolLanguages,
+        seriesOptions: titleToolSeriesOptions,
       },
     },
   };

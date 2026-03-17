@@ -1,4 +1,4 @@
-import { http } from './http';
+import { http } from 'src/lib/http';
 
 type OutputData = {
   blocks: Array<{

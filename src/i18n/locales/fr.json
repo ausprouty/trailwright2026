@@ -1,25 +1,33 @@
-
 {
-  "sectionMarker": {
-    "lookBack": "Regarder en arrière",
-    "lookUp": "Regarder vers le haut",
-    "lookForward": "Regarder en avant"
-  },
   "common": {
-    "downloadForOfflineUse": "Télécharger pour une utilisation hors ligne",
-    "readyForOfflineUse": "Prêt pour une utilisation hors ligne",
-    "readMore": "Lire davantage",
-    "readMoreOnline": "Lire davantage en ligne",
-    "read": "Lire {title}",
-    "watchOnline": "Regarder {title} en ligne",
-    "watch": "Regarder",
-    "listenOnline": "Écouter {title} en ligne",
-    "listen": "Écouter {title}",
-    "notesClickOutsideToSave": "Notes : (cliquez à l’extérieur de la zone pour enregistrer)",
-    "spiritLedInsights": "Réflexions conduites par l’Esprit :",
-    "sendNotesAndActionPoints": "Envoyer les notes et les points d’action",
     "bible": "Bible",
-    "edit": "Modifier",
-  "done": "Terminé"
+    "done": "Terminé",
+    "downloadForOfflineUse": "Télécharger pour une utilisation hors ligne",
+    "edit": "Editer",
+    "lastTimeReminder": "Avant de commencer, prenons un moment pour passer en revue les engagements que vous avez pris la dernière fois. Cela nous aide à nous encourager mutuellement et à voir comment Dieu est à l'œuvre. La dernière fois que nous nous sommes rencontrés, vous avez écrit :",
+    "listen": "Écouter {titre}",
+    "listenOnline": "Écouter {titre} en ligne",
+    "notesClickOutsideToSave": "Notes : (cliquer à l'extérieur de la boîte pour sauvegarder)",
+    "read": "Lire {titre}",
+    "readMore": "Lire la suite",
+    "readMoreOnline": "Lire plus en ligne",
+    "readyForOfflineUse": "Prêt pour une utilisation hors ligne",
+    "sendNotesAndActionPoints": "Envoyer les notes et les points d'action",
+    "spiritLedInsights": "Des idées guidées par l'esprit :",
+    "watch": "Regarder"
+  },
+  "sectionMarker": {
+    "lookBack": "Retour en arrière",
+    "lookForward": "Regarder vers l'avant",
+    "lookUp": "Lever les yeux"
+  },
+  "videoTool": {
+    "endTime": "Heure de fin",
+    "previewUnavailable": "La prévisualisation n'est pas disponible tant que l'URL de la vidéo n'est pas reconnue.",
+    "startTime": "Heure de début",
+    "titleLabel": "Titre",
+    "untitledVideo": "Vidéo sans titre",
+    "urlLabel": "URL de la vidéo",
+    "watchOnlineTemplate": "Regarder {titre} en ligne"
   }
 }

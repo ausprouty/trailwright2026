@@ -1,30 +1,29 @@
 {
   // ========== CACHE & EXPORT SETTINGS ==========
-  "csvExportPath": "translator.csv",      // Path to export translation cache to CSV
-  "autoExport": true,                     // Automatically export cache after translations
-  "autoImport": true,                     // Automatically import from CSV on startup
+  "csvExportPath": "translator.csv", // Path to export translation cache to CSV
+  "autoExport": true, // Automatically export cache after translations
+  "autoImport": true, // Automatically import from CSV on startup
 
   // ========== SOURCE & TARGET CONFIGURATION ==========
-  "sourcePaths": ["i18n/en"],             // Paths to scan for source language files
-  "sourceLocale": "en",                   // Source language code
-  "targetLocales": ["es", "fr", "de", "ja", "zh-CN"], // Languages to translate to
-  "enableBackTranslation": false,         // Enable back-translation for quality checks
+  "sourcePaths": ["src/i18n/locales/en.json"], // Paths to scan for source language files
+  "sourceLocale": "en", // Source language code
+  "targetLocales": ["es", "fr", "de", "pt-BR", "zh-Hans"], // Languages to translate to
+  "enableBackTranslation": true, // Enable back-translation for quality checks
 
   // ========== DEFAULT TRANSLATION ENGINES ==========
-  "defaultMarkdownEngine": "azure",       // Engine for .md and .mdx files
-  "defaultJsonEngine": "google",          // Engine for .json and .yaml files
+  "defaultMarkdownEngine": "azure", // Engine for .md and .mdx files
+  "defaultJsonEngine": "google", // Engine for .json and .yaml files
 
   // ========== ENGINE OVERRIDES BY LANGUAGE ==========
   // Override the default engine for specific target languages
-  "engineOverrides": {
-    "deepl": ["fr", "de"],                // Use DeepL for French and German translation (back & forward)
-    "azure": ["es:en", "ja:en"]           // Use Azure for Spanish and Japanese back translations
-  },
+   "engineOverrides": {
+     "deepl": ["es","fr", "de"] // Use DeepL for French and German translation (back & forward)
+   },
 
   // ========== KEY EXCLUSION RULES ==========
-  "excludeKeys": [],                      // Key names to exclude (matches at any depth)
-  "excludeKeyPaths": [],                  // Exact dotted paths to exclude (e.g., "meta.version")
-  "copyOnlyFiles": [],                    // Files to copy verbatim without translation
+  "excludeKeys": [], // Key names to exclude (matches at any depth)
+  "excludeKeyPaths": [], // Exact dotted paths to exclude (e.g., "meta.version")
+  "copyOnlyFiles": [], // Files to copy verbatim without translation
 
   // ========== TRANSLATION ENGINE CONFIGURATIONS ==========
   "translator": {
@@ -33,8 +32,8 @@
 
     // Google Cloud Translation API
     "google": {
-      "apiKey": "${GOOGLE_TRANSLATION_KEY}",           // Service account JSON or file path
-      "endpoint": "${GOOGLE_TRANSLATION_URL}",         // API endpoint
+      "apiKey": "${GOOGLE_TRANSLATION_KEY}", // Service account JSON or file path
+      "endpoint": "${GOOGLE_TRANSLATION_URL}", // API endpoint
       "googleProjectId": "${GOOGLE_TRANSLATION_PROJECT_ID}",
       "googleLocation": "${GOOGLE_TRANSLATION_LOCATION}",
 

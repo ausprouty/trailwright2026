@@ -1,0 +1,33 @@
+{
+  "common": {
+    "bible": "Bíblia",
+    "done": "Feito",
+    "downloadForOfflineUse": "Baixe para usar offline.",
+    "edit": "Editar",
+    "lastTimeReminder": "Antes de começarmos, vamos dedicar um momento para revisar o que você se comprometeu a fazer da última vez. Isso nos ajuda a nos encorajar mutuamente e a ver como Deus está agindo. Da última vez que nos encontramos, você escreveu:",
+    "listen": "Ouça {title}",
+    "listenOnline": "Ouça {title} online",
+    "notesClickOutsideToSave": "Observações: (clique fora da caixa para salvar)",
+    "read": "Leia {title}",
+    "readMore": "Leia mais",
+    "readMoreOnline": "Leia mais online",
+    "readyForOfflineUse": "Pronto para uso offline",
+    "sendNotesAndActionPoints": "Enviar notas e pontos de ação",
+    "spiritLedInsights": "Revelações guiadas pelo Espírito:",
+    "watch": "Assistir"
+  },
+  "sectionMarker": {
+    "lookBack": "Olhe para trás",
+    "lookForward": "Esperar ansiosamente",
+    "lookUp": "Olhe para cima"
+  },
+  "videoTool": {
+    "endTime": "Hora final",
+    "previewUnavailable": "A pré-visualização não está disponível até que o URL do vídeo seja reconhecido.",
+    "startTime": "Hora de início",
+    "titleLabel": "Título",
+    "untitledVideo": "Vídeo sem título",
+    "urlLabel": "URL do vídeo",
+    "watchOnlineTemplate": "Assista {title} online"
+  }
+}

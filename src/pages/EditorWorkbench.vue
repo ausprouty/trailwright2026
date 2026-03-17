@@ -1,12 +1,16 @@
 <script setup lang="ts">
-import { computed, ref, useTemplateRef, watch } from 'vue';
+import { ref, useTemplateRef, watch } from 'vue';
 
 import DeveloperPanel from '../components/editor/DeveloperPanel.vue';
 import EditorHost from '../components/editor/EditorHost.vue';
 import InsertPanel from '../components/editor/InsertPanel.vue';
 import { languageOptions, type LanguageCode } from 'src/i18n';
 import { getCurrentLanguage, setCurrentLanguage } from 'src/i18n/languageState';
-import { getTemplatesByLanguage, loadTemplateFile } from '../templates';
+import {
+  fetchTemplateList,
+  fetchTemplateContent,
+  type TemplateListItem,
+} from 'src/services/templateService';
 
 type EditorBlockData = {
   id?: string;
@@ -22,7 +26,10 @@ type OutputData = {
 
 type EditorHostExposed = {
   clear: () => Promise<void>;
-  insertBlock: (type: string, data?: Record<string, unknown>) => Promise<void>;
+  insertBlock: (
+    type: string,
+    data?: Record<string, unknown>,
+  ) => Promise<void>;
   render: (output: OutputData) => Promise<void>;
   save: () => Promise<OutputData | null>;
 };
@@ -33,6 +40,8 @@ const STORAGE_KEY = 'editorjs-demo-content';
 const currentLang = ref<LanguageCode>(getCurrentLanguage());
 const output = ref<OutputData>(loadInitialData() ?? getEmptyOutput());
 const editorHost = useTemplateRef<EditorHostExposed>('editorHost');
+const templates = ref<TemplateListItem[]>([]);
+const selectedTemplateKey = ref('');
 
 function getEmptyOutput(): OutputData {
   return {
@@ -56,40 +65,43 @@ function loadInitialData(): OutputData | undefined {
   }
 }
 
-const templates = computed(() => {
-  return getTemplatesByLanguage(currentLang.value);
-});
+async function refreshTemplates(
+  lang: LanguageCode,
+): Promise<void> {
+  try {
+    const fetchedTemplates = await fetchTemplateList(lang);
+    templates.value = fetchedTemplates;
 
-const selectedTemplateKey = ref('');
+    const hasSelectedTemplate = fetchedTemplates.some(
+      (template) => template.key === selectedTemplateKey.value,
+    );
+
+    if (!hasSelectedTemplate) {
+      const firstTemplate = fetchedTemplates[0];
+      selectedTemplateKey.value = firstTemplate
+        ? firstTemplate.key
+        : '';
+    }
+  } catch (error) {
+    console.error('Failed to load template list', error);
+    templates.value = [];
+    selectedTemplateKey.value = '';
+  }
+}
 
 watch(
-  templates,
-  (items) => {
-    if (!items.length) {
-      selectedTemplateKey.value = '';
-      return;
-    }
-
-    const exists = items.some((item) => {
-      return item.key === selectedTemplateKey.value;
-    });
-
-    if (!exists) {
-      const firstItem = items[0];
-
-      if (firstItem) {
-        selectedTemplateKey.value = firstItem.key;
-      }
-    }
+  currentLang,
+  async (lang) => {
+    setCurrentLanguage(lang);
+    await refreshTemplates(lang);
   },
   { immediate: true },
 );
 
-watch(currentLang, (value) => {
-  setCurrentLanguage(value);
-});
-
-async function onInsertBlock(type: string, initialData?: Record<string, unknown>): Promise<void> {
+async function onInsertBlock(
+  type: string,
+  initialData?: Record<string, unknown>,
+): Promise<void> {
   if (!editorHost.value) {
     return;
   }
@@ -102,23 +114,25 @@ async function onLoadTemplate(): Promise<void> {
     return;
   }
 
-  const templateFile = await loadTemplateFile(selectedTemplateKey.value, currentLang.value);
+  const templateFile = await fetchTemplateContent(
+    currentLang.value,
+    selectedTemplateKey.value,
+
+);
 
   if (!templateFile) {
     return;
   }
 
-  const nextOutput: OutputData = {
-    time: Date.now(),
-    version: '2.31.4',
-    blocks: templateFile.blocks,
-  };
+  const nextOutput: OutputData = JSON.parse(
+    JSON.stringify({
+      time: Date.now(),
+      version: '2.31.4',
+      blocks: templateFile.blocks,
+    }),
+  ) as OutputData;
 
   output.value = nextOutput;
-
-  if (editorHost.value) {
-    await editorHost.value.render(nextOutput);
-  }
 }
 
 function buildDefaultFileName(): string {
@@ -127,9 +141,14 @@ function buildDefaultFileName(): string {
   return `${templatePart}-${langPart}.json`;
 }
 
-function downloadJsonFile(saved: OutputData, fileName: string): void {
+function downloadJsonFile(
+  saved: OutputData,
+  fileName: string,
+): void {
   const json = JSON.stringify(saved, null, 2);
-  const blob = new Blob([json], { type: 'application/json' });
+  const blob = new Blob([json], {
+    type: 'application/json',
+  });
   const url = URL.createObjectURL(blob);
 
   const link = document.createElement('a');
@@ -197,15 +216,9 @@ async function onSave(): Promise<void> {
   await saveWithPicker(saved);
 }
 
-async function onClear(): Promise<void> {
+function onClear(): void {
   localStorage.removeItem(STORAGE_KEY);
-
-  const cleared = getEmptyOutput();
-  output.value = cleared;
-
-  if (editorHost.value) {
-    await editorHost.value.clear();
-  }
+  output.value = getEmptyOutput();
 }
 </script>
 
@@ -220,7 +233,11 @@ async function onClear(): Promise<void> {
         <label class="field-group">
           <span>Language</span>
           <select v-model="currentLang">
-            <option v-for="option in languageOptions" :key="option.code" :value="option.code">
+            <option
+              v-for="option in languageOptions"
+              :key="option.code"
+              :value="option.code"
+            >
               {{ option.label }}
             </option>
           </select>
@@ -229,20 +246,32 @@ async function onClear(): Promise<void> {
         <label class="field-group">
           <span>Template</span>
           <select v-model="selectedTemplateKey">
-            <option v-for="template in templates" :key="template.key" :value="template.key">
+            <option
+              v-for="template in templates"
+              :key="template.key"
+              :value="template.key"
+            >
               {{ template.label }}
             </option>
           </select>
         </label>
 
         <div class="actions">
-          <button id="btn-load-template" type="button" @click="onLoadTemplate">
+          <button
+            id="btn-load-template"
+            type="button"
+            @click="onLoadTemplate"
+          >
             Load Template
           </button>
 
-          <button id="btn-save" type="button" @click="onSave">Save</button>
+          <button id="btn-save" type="button" @click="onSave">
+            Save
+          </button>
 
-          <button id="btn-clear" type="button" @click="onClear">Clear</button>
+          <button id="btn-clear" type="button" @click="onClear">
+            Clear
+          </button>
 
           <button
             id="btn-toggle-json"
@@ -262,14 +291,21 @@ async function onClear(): Promise<void> {
       }"
     >
       <section class="panel panel--editor">
-        <EditorHost ref="editorHost" v-model="output" :lang="currentLang" />
+        <EditorHost
+          ref="editorHost"
+          v-model="output"
+          :lang="currentLang"
+        />
 
         <p class="hint">Tip: add a block from the panel on the right.</p>
       </section>
 
       <InsertPanel @insert="onInsertBlock" />
 
-      <DeveloperPanel v-if="showDeveloperPanel" :output="output" />
+      <DeveloperPanel
+        v-if="showDeveloperPanel"
+        :output="output"
+      />
     </main>
   </div>
 </template>

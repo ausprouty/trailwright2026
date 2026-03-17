@@ -1,25 +1,33 @@
-
 {
+  "common": {
+    "bible": "Biblia",
+    "done": "Hecho",
+    "downloadForOfflineUse": "Descargar para usar sin conexión",
+    "edit": "Editar",
+    "lastTimeReminder": "Antes de empezar, dediquemos un momento a repasar a qué te comprometiste la última vez. Esto nos ayuda a animarnos mutuamente y ver cómo Dios está obrando. La última vez que nos vimos escribiste:",
+    "listen": "Escuchar {title}",
+    "listenOnline": "Escuchar {título} en línea",
+    "notesClickOutsideToSave": "Notas: (haga clic fuera del cuadro para guardar)",
+    "read": "Leer {título}",
+    "readMore": "Seguir leyendo",
+    "readMoreOnline": "Leer más en línea",
+    "readyForOfflineUse": "Listo para su uso sin conexión",
+    "sendNotesAndActionPoints": "Enviar notas y puntos de acción",
+    "spiritLedInsights": "Perspectivas guiadas por el Espíritu:",
+    "watch": "Ver"
+  },
   "sectionMarker": {
     "lookBack": "Mirar atrás",
-    "lookUp": "Mirar hacia arriba",
-    "lookForward": "Mirar hacia adelante"
+    "lookForward": "Mirar hacia delante",
+    "lookUp": "Mirar hacia arriba"
   },
-  "common": {
-    "downloadForOfflineUse": "Descargar para uso sin conexión",
-    "readyForOfflineUse": "Listo para uso sin conexión",
-    "readMore": "Leer más",
-    "readMoreOnline": "Leer más en línea",
-    "read": "Leer {title}",
-    "watchOnline": "Ver {title} en línea",
-    "watch": "Ver",
-    "listenOnline": "Escuchar {title} en línea",
-    "listen": "Escuchar {title}",
-    "notesClickOutsideToSave": "Notas: (haga clic fuera del cuadro para guardar)",
-    "spiritLedInsights": "Reflexiones guiadas por el Espíritu:",
-    "sendNotesAndActionPoints": "Enviar notas y puntos de acción",
-    "bible": "Biblia",
-      "edit": "Editar",
-  "done": "Listo"
+  "videoTool": {
+    "endTime": "Hora de finalización",
+    "previewUnavailable": "Vista previa no disponible hasta que se reconozca la URL del vídeo.",
+    "startTime": "Hora de inicio",
+    "titleLabel": "Título",
+    "untitledVideo": "Vídeo sin título",
+    "urlLabel": "URL del vídeo",
+    "watchOnlineTemplate": "Ver {título} en línea"
   }
 }

@@ -1,0 +1,33 @@
+{
+  "common": {
+    "bible": "Bible",
+    "done": "Fact",
+    "downloadForOfflineUse": "Download for offline use",
+    "edit": "Edit",
+    "lastTimeReminder": "Before we begin, let's take a moment to review what you committed to last time. This helps us to encourage each other and see how God is at work. The last time we met you wrote:",
+    "listen": "Listen {title}",
+    "listenOnline": "Listen to {title} online",
+    "notesClickOutsideToSave": "Notes: (click outside the box to save)",
+    "read": "Read {title}",
+    "readMore": "Continue reading",
+    "readMoreOnline": "Read more online",
+    "readyForOfflineUse": "Ready for offline use",
+    "sendNotesAndActionPoints": "Send notes and action items",
+    "spiritLedInsights": "Spirit-led perspectives:",
+    "watch": "See"
+  },
+  "sectionMarker": {
+    "lookBack": "Looking back",
+    "lookForward": "Looking ahead",
+    "lookUp": "Looking up"
+  },
+  "videoTool": {
+    "endTime": "End time",
+    "previewUnavailable": "Preview not available until the video URL is recognized.",
+    "startTime": "Start time",
+    "titleLabel": "Title",
+    "untitledVideo": "Untitled video",
+    "urlLabel": "Video URL",
+    "watchOnlineTemplate": "View {title} online"
+  }
+}

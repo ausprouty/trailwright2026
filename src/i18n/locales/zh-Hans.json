@@ -1,0 +1,33 @@
+{
+  "common": {
+    "bible": "圣经",
+    "done": "完毕",
+    "downloadForOfflineUse": "下载以供离线使用",
+    "edit": "编辑",
+    "lastTimeReminder": "在我们开始之前，让我们花点时间回顾一下你上次的承诺。这有助于我们彼此鼓励，也能看到上帝是如何动工的。上次见面时，你写道：",
+    "listen": "收听 {title}",
+    "listenOnline": "在线收听 {title}",
+    "notesClickOutsideToSave": "注：（点击方框外保存）",
+    "read": "阅读{title}",
+    "readMore": "阅读更多",
+    "readMoreOnline": "在线阅读更多内容",
+    "readyForOfflineUse": "可离线使用",
+    "sendNotesAndActionPoints": "发送备注和行动要点",
+    "spiritLedInsights": "灵性指引下的洞见：",
+    "watch": "手表"
+  },
+  "sectionMarker": {
+    "lookBack": "回顾",
+    "lookForward": "期待",
+    "lookUp": "抬头"
+  },
+  "videoTool": {
+    "endTime": "结束时间",
+    "previewUnavailable": "视频URL尚未识别，因此无法预览。",
+    "startTime": "开始时间",
+    "titleLabel": "标题",
+    "untitledVideo": "无标题视频",
+    "urlLabel": "视频网址",
+    "watchOnlineTemplate": "在线观看 {title}"
+  }
+}

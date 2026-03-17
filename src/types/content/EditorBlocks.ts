@@ -24,3 +24,21 @@ export type EditorBlockDataMap = {
   biblePassage: BiblePassageBlockData;
   lastTime: LastTimeBlockData;
 };
+
+export type EditorJsBlock<TType extends EditorBlockType = EditorBlockType> = {
+  id?: string;
+  type: TType;
+  data: EditorBlockDataMap[TType];
+};
+
+export type AnyEditorJsBlock = {
+  [K in EditorBlockType]: EditorJsBlock<K>;
+}[EditorBlockType];
+
+export type EditorJsContent = {
+  time?: number;
+  version?: string;
+  blocks: AnyEditorJsBlock[];
+};
+
+export type EditorJsContentData = EditorJsContent;

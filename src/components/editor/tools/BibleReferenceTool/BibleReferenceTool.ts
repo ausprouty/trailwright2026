@@ -1,15 +1,9 @@
 import './BibleReferenceTool.css';
 import type { SanitizerConfig } from '@editorjs/editorjs';
 
-import { fetchBiblePassage, type BibleToolConfig } from '../shared/bibleApi';
-import type { BibleReferenceItem, BibleReferenceToolData } from './types';
-
-type EditorJSToolConstructorArgs = {
-  data?: Partial<BibleReferenceToolData>;
-  api: unknown;
-  config?: BibleToolConfig;
-  readOnly?: boolean;
-};
+import { fetchBiblePassage, type BibleToolConfig } from '../shared/fetchBiblePassage';
+import type { BibleReferenceItem } from 'src/types/shared/BibleReferenceItem';
+import type { BibleReferenceToolData, EditorJSToolConstructorArgs } from './types';
 
 export default class BibleReferenceTool {
   private data: BibleReferenceToolData;

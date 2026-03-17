@@ -1,24 +1,10 @@
-import EditorJS, { type OutputData } from '@editorjs/editorjs';
 import './CollapsibleGroupTool.css';
-
-type ToolConstructorArgs = {
-  data?: Partial<CollapsibleGroupData>;
-  config?: CollapsibleGroupConfig;
-  readOnly?: boolean;
-};
-
-type CollapsibleGroupData = {
-  title: string;
-  isOpen: boolean;
-  content: OutputData;
-};
-
-type EditorToolConfig = Record<string, object>;
-
-type CollapsibleGroupConfig = {
-  tools: EditorToolConfig;
-  placeholder?: string;
-};
+import EditorJS, { type OutputData } from '@editorjs/editorjs';
+import type {
+  CollapsibleGroupConfig,
+  CollapsibleGroupData,
+  CollapsibleGroupToolConstructorArgs,
+} from './types';
 
 export default class CollapsibleGroupTool {
   private api: {
@@ -55,7 +41,7 @@ export default class CollapsibleGroupTool {
     return true;
   }
 
-  constructor({ data, config, readOnly }: ToolConstructorArgs) {
+  constructor({ data, config, readOnly }: CollapsibleGroupToolConstructorArgs) {
     this.readOnly = readOnly ?? false;
     this.config = config ?? { tools: {} };
 

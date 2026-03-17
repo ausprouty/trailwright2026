@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { EditorJsContent } from 'src/types/content/xEditorBlocks';
+import type { EditorJsContent } from 'src/types/content/EditorBlocks';
 
 defineProps<{
   content: EditorJsContent;

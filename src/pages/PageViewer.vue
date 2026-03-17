@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import MyFriendsEditorJsContent from 'src/components/content/sites/myfriends/MyFriendsEditorJsContent.vue';
-import type { EditorJsContent } from 'src/types/content/xEditorBlocks';
+import type { EditorJsContent } from 'src/types/content/EditorBlocks';
 
 const sampleContent: EditorJsContent = {
   blocks: [

@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import EditorJsContent from '../../EditorJsContent.vue';
-import type { EditorJsContent as EditorJsContentType } from 'src/types/content/xEditorBlocks';
+import type { EditorJsContent as EditorJsContentType } from 'src/types/content/EditorBlocks';
 import { resolveSharedBlockComponent } from '../../shared/resolveSharedBlockComponent';
 
 defineProps<{

@@ -1,7 +1,7 @@
 import '../shared/blockHeader.css';
 import './BiblePassageTool.css';
 
-import { fetchBiblePassage, type BibleToolConfig } from '../shared/bibleApi';
+import { fetchBiblePassage, type BibleToolConfig } from '../shared/fetchBiblePassage';
 import { escapeHtml } from '../shared/html';
 
 type BiblePassageToolData = {

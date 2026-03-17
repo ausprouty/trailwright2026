@@ -1,13 +1,11 @@
-export type BibleReferenceItem = {
-  id: string;
-  marker: string;
-  label: string;
-  passage: string;
-};
+import type { BibleToolConfig } from '../shared/fetchBiblePassage';
+import type { BibleReferenceBlockData } from 'src/types/content/BibleReferenceBlock';
 
-export type BibleReferenceToolData = {
-  text: string;
-  references: BibleReferenceItem[];
-  isOpen?: boolean;
-};
+export type BibleReferenceToolData = BibleReferenceBlockData;
 
+export type EditorJSToolConstructorArgs = {
+  data?: Partial<BibleReferenceToolData>;
+  api: unknown;
+  config?: BibleToolConfig;
+  readOnly?: boolean;
+};

@@ -5,6 +5,7 @@ import CollapsibleTextTool from './tools/CollapsibleTextTool/CollapsibleTextTool
 import ImageTool from '@editorjs/image';
 import LastTimeTool from './tools/LastTimeTool/LastTimeTool';
 import NotesAreaTool from './tools/NotesAreaTool/NotesAreaTool';
+import OikosListTool from './tools/OikosListTool/OikosListTool';
 import SectionMarkerTool from './tools/SectionMarker/SectionMarkerTool';
 import TitleTool from './tools/TitleTool/TitleTool';
 import VideoTool from './tools/VideoTool/VideoTool';
@@ -35,18 +36,18 @@ function getToolboxMeta(toolClass: unknown, fallbackTitle: string) {
 }
 
 const biblePassageMeta = getToolboxMeta(BiblePassageTool, 'Bible Passage');
-
 const bibleReferenceMeta = getToolboxMeta(BibleReferenceTool, 'Bible Reference');
 const collapsibleGroupMeta = getToolboxMeta(CollapsibleGroupTool, 'Collapsible Group');
 const collapsibleTextMeta = getToolboxMeta(CollapsibleTextTool, 'Collapsible Text');
 const imageMeta = getToolboxMeta(ImageTool, 'Image');
 const lastTimeMeta = getToolboxMeta(LastTimeTool, 'Last Time');
 const notesAreaMeta = getToolboxMeta(NotesAreaTool, 'Notes Area');
+const oikosListMeta = getToolboxMeta(OikosListTool, 'Oikos List');
 const sectionMarkerMeta = getToolboxMeta(SectionMarkerTool, 'Section Marker');
 const titleMeta = getToolboxMeta(TitleTool, 'Title');
 const videoMeta = getToolboxMeta(VideoTool, 'Video');
 
-export const insertToolPalette: InsertToolItem[] = [
+const rawInsertToolPalette: InsertToolItem[] = [
   {
     type: 'titleTool',
     label: titleMeta.label,
@@ -118,6 +119,15 @@ export const insertToolPalette: InsertToolItem[] = [
     },
   },
   {
+    type: 'oikosList',
+    label: oikosListMeta.label,
+    icon: oikosListMeta.icon,
+    initialData: {
+      title: '',
+      items: [],
+    },
+  },
+  {
     type: 'sectionMarker',
     label: sectionMarkerMeta.label,
     icon: sectionMarkerMeta.icon,
@@ -138,3 +148,7 @@ export const insertToolPalette: InsertToolItem[] = [
     },
   },
 ];
+
+export const insertToolPalette: InsertToolItem[] = [...rawInsertToolPalette].sort((a, b) =>
+  a.label.localeCompare(b.label),
+);

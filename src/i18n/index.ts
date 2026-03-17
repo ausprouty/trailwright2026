@@ -1,11 +1,10 @@
 import en from './locales/en.json';
 import es from './locales/es.json';
 import fr from './locales/fr.json';
-import pt from './locales/pt.json';
-import zhCN from './locales/zh-CN.json';
-import zhTW from './locales/zh-TW.json';
+import pt from './locales/pt-BR.json';
+import zhCN from './locales/zh-Hans.json';
 
-export const SUPPORTED_LANGUAGES = ['en', 'es', 'fr', 'pt', 'zh-CN', 'zh-TW'] as const;
+export const SUPPORTED_LANGUAGES = ['en', 'es', 'fr', 'pt', 'zh-CN'] as const;
 
 export type LanguageCode = (typeof SUPPORTED_LANGUAGES)[number];
 
@@ -20,7 +19,6 @@ export const messages: Record<LanguageCode, unknown> = {
   fr,
   pt,
   'zh-CN': zhCN,
-  'zh-TW': zhTW,
 };
 
 export const languageOptions: LanguageOption[] = [
@@ -29,7 +27,6 @@ export const languageOptions: LanguageOption[] = [
   { code: 'fr', label: 'Français' },
   { code: 'pt', label: 'Português' },
   { code: 'zh-CN', label: '简体中文' },
-  { code: 'zh-TW', label: '繁體中文' },
 ];
 
 export function getMessages(lang: LanguageCode): unknown {

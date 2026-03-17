@@ -1,0 +1,35 @@
+{
+  "time": 1773719352142,
+  "blocks": [
+    {
+      "id": "Pmw3JNekTy",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "meta": {},
+        "items": [
+          {
+            "content": "",
+            "meta": {},
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "Q6RIwIEfp4",
+      "type": "oikosList",
+      "data": {
+        "title": "Okos List",
+        "items": [
+          {
+            "name": "Bob",
+            "relationship": "Friend",
+            "notes": "Let's see what happens"
+          }
+        ]
+      }
+    }
+  ],
+  "version": "2.31.5"
+}

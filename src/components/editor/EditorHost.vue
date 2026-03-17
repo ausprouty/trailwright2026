@@ -257,3 +257,33 @@ defineExpose(exposed);
 <template>
   <div :id="holderId"></div>
 </template>
+<style scoped>
+:deep(.ce-block__content),
+:deep(.ce-toolbar__content) {
+  max-width: none;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+:deep(.ce-toolbar) {
+  right: 16px;
+  left: auto !important;
+}
+
+:deep(.ce-toolbar__plus) {
+  left: auto !important;
+  right: 0;
+}
+
+:deep(.ce-toolbar__settings-btn) {
+  right: 0;
+}
+
+:deep(.codex-editor) {
+  width: 100%;
+}
+
+:deep(.codex-editor__redactor) {
+  padding-bottom: 120px !important;
+}
+</style>

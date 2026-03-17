@@ -1,1 +1,75 @@
-// app global css in SCSS form
+:root {
+  --tw-bg-page: #f4efe7;
+  --tw-bg-surface: #fffdf9;
+  --tw-bg-panel: #f8efe2;
+  --tw-border-soft: #dcc8ae;
+  --tw-border-panel: #e7b98c;
+
+  --tw-text-main: #2f241c;
+  --tw-text-muted: #6f5a47;
+  --tw-text-accent: #8a4b14;
+
+  --tw-accent: #a05a2c;
+  --tw-accent-soft: #fff1de;
+
+  --tw-radius-lg: 18px;
+  --tw-radius-xl: 22px;
+
+  --tw-shadow-soft: 0 10px 24px rgba(77, 52, 30, 0.08);
+  --tw-shadow-hover: 0 4px 12px rgba(160, 90, 44, 0.14);
+}
+
+.tw-page-shell {
+  min-height: 100vh;
+  background: var(--tw-bg-page);
+}
+
+.tw-hero {
+  height: 220px;
+  border-radius: 0 0 24px 24px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: end;
+  padding: 32px 40px;
+}
+
+.tw-hero--trailwright {
+  background-image:
+    linear-gradient(rgba(35, 25, 18, 0.45), rgba(35, 25, 18, 0.55)),
+    url('/src/assets/TrailWright.webp');
+}
+
+.tw-hero__title {
+  color: #fff8ef;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.tw-workspace {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 340px;
+  gap: 24px;
+  padding: 24px 32px 40px;
+  margin-top: -36px;
+}
+
+.tw-surface-card {
+  background: var(--tw-bg-surface);
+  border: 1px solid var(--tw-border-soft);
+  border-radius: var(--tw-radius-xl);
+  box-shadow: var(--tw-shadow-soft);
+}
+
+.tw-editor-card {
+  padding: 28px;
+}
+
+.tw-panel-card {
+  background: var(--tw-bg-panel);
+  border: 1px solid var(--tw-border-panel);
+  border-radius: var(--tw-radius-lg);
+  box-shadow: var(--tw-shadow-soft);
+}

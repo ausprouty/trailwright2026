@@ -34,58 +34,92 @@ const emit = defineEmits<{
   position: sticky;
   top: 24px;
   align-self: start;
+  width: 340px;
   max-height: calc(100vh - 48px);
   overflow-y: auto;
-  background: #ffffff;
-  border: 1px solid #dddddd;
-  border-radius: 12px;
-  padding: 16px;
+  overflow-x: hidden;
+  background: #fff7ed;
+  border: 1px solid #f0cfae;
+  border-radius: 18px;
+  padding: 20px;
+  box-shadow: 0 10px 24px rgba(120, 70, 20, 0.08);
+}
+
+.insert-panel__header {
+  margin-bottom: 18px;
 }
 
 .insert-panel__header h3 {
-  margin: 0 0 12px;
-  font-size: 1rem;
+  margin: 0;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1;
+  color: #8a4b14;
 }
 
 .insert-panel__grid {
   display: grid;
-  gap: 10px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
 }
 
 .insert-panel__item {
   display: flex;
+  flex-direction: column;
   align-items: center;
-  gap: 12px;
+  justify-content: flex-start;
+  gap: 10px;
   width: 100%;
-  border: 1px solid #e2e2e2;
-  border-radius: 10px;
+  min-height: 60px;
+  border: 1px solid #e7b98c;
+  border-radius: 16px;
   background: #ffffff;
-  padding: 12px;
-  text-align: left;
+  padding: 16px 12px;
+  text-align: center;
   cursor: pointer;
+  box-sizing: border-box;
+  transition:
+    background 0.18s ease,
+    border-color 0.18s ease,
+    box-shadow 0.18s ease,
+    transform 0.18s ease;
 }
 
 .insert-panel__item:hover {
-  background: #f8f8f8;
+  background: #fff1de;
+  border-color: #d88a42;
+  box-shadow: 0 4px 12px rgba(160, 90, 44, 0.14);
+  transform: translateY(-1px);
+}
+
+.insert-panel__item:active {
+  transform: translateY(0);
 }
 
 .insert-panel__icon {
-  width: 24px;
-  height: 24px;
+  width: 32px;
+  height: 32px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  flex: 0 0 24px;
+  flex: 0 0 32px;
+  color: #a05a2c;
 }
 
 .insert-panel__icon :deep(svg) {
-  width: 20px;
-  height: 20px;
+  width: 22px;
+  height: 22px;
   display: block;
 }
 
 .insert-panel__label {
+  width: 100%;
   font-size: 0.95rem;
-  font-weight: 600;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #2f241c;
+  text-align: center;
+  word-break: normal;
+  overflow-wrap: break-word;
 }
 </style>

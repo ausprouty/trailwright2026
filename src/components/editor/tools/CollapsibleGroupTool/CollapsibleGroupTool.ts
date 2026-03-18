@@ -5,6 +5,7 @@ import type {
   CollapsibleGroupData,
   CollapsibleGroupToolConstructorArgs,
 } from './types';
+import { icons } from 'src/components/editor/icons';
 
 export default class CollapsibleGroupTool {
   private api: {
@@ -23,19 +24,14 @@ export default class CollapsibleGroupTool {
   private body!: HTMLDivElement;
   private editorHolder!: HTMLDivElement;
 
+  export default class CollapsibleGroupTool {
   public static get toolbox() {
     return {
       title: 'Collapsible Group',
-      icon: `
-        <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
-          <path
-            d="M8 5l8 7-8 7V5z"
-            fill="currentColor"
-          />
-        </svg>
-      `,
+      icon: icons.collapsibleGroup,
     };
   }
+
 
   public static get isReadOnlySupported(): boolean {
     return true;

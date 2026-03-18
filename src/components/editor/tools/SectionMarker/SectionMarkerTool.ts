@@ -2,6 +2,7 @@ import type { BlockTool, ToolConfig } from '@editorjs/editorjs';
 import { getCurrentLanguage } from 'src/i18n/languageState';
 import { t } from 'src/i18n';
 import './SectionMarkerTool.css';
+import { icons } from 'src/components/editor/icons';
 
 import {
   DEFAULT_SECTION_MARKER_BLOCK_DATA,
@@ -30,18 +31,10 @@ export default class SectionMarkerTool implements BlockTool {
   private doneButtonEl: HTMLButtonElement | null;
   private isEditing: boolean;
 
-  public static get toolbox(): ToolConfig {
+  public static get toolbox() {
     return {
       title: 'Section Marker',
-      icon: `
-        <svg width="18" height="18" viewBox="0 0 24 24"
-          xmlns="http://www.w3.org/2000/svg" fill="none"
-          stroke="currentColor" stroke-width="2"
-          stroke-linecap="round" stroke-linejoin="round">
-          <path d="M4 6h16"></path>
-          <path d="M4 12h10"></path>
-          <path d="M4 18h16"></path>
-        </svg>`,
+      icon: icons.sectionMarker,
     };
   }
 

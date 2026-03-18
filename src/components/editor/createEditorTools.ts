@@ -1,4 +1,3 @@
-import { t, type LanguageCode } from 'src/i18n';
 import type { ToolConstructable, ToolSettings } from '@editorjs/editorjs';
 import Delimiter from '@editorjs/delimiter';
 import Header from '@editorjs/header';
@@ -7,14 +6,18 @@ import List from '@editorjs/list';
 import Paragraph from '@editorjs/paragraph';
 import Quote from '@editorjs/quote';
 
+import { t, type LanguageCode } from 'src/i18n';
+
 import { DEFAULT_BIBLE_ENDPOINT_PATH, IMAGE_UPLOAD_URL } from './editorConfig';
+
 import BiblePassageTool from './tools/BiblePassageTool/BiblePassageTool';
 import BibleReferenceTool from './tools/BibleReferenceTool/BibleReferenceTool';
 import CollapsibleGroupTool from './tools/CollapsibleGroupTool/CollapsibleGroupTool';
 import CollapsibleTextTool from './tools/CollapsibleTextTool/CollapsibleTextTool';
+import IWillTool from './tools/IWillTool/IWillTool';
 import LastTimeTool from './tools/LastTimeTool/LastTimeTool';
-import OikosListTool from './tools/OikosListTool/OikosListTool';
 import NotesAreaTool from './tools/NotesAreaTool/NotesAreaTool';
+import OikosListTool from './tools/OikosListTool/OikosListTool';
 import SectionMarkerTool from './tools/SectionMarker/SectionMarkerTool';
 import TitleTool from './tools/TitleTool/TitleTool';
 import VideoTool from './tools/VideoTool/VideoTool';
@@ -30,50 +33,6 @@ type CreateEditorToolsOptions = {
   titleToolLanguages?: SelectOption[];
   titleToolSeriesOptions?: SelectOption[];
 };
-
-function createNestedEditorTools(): EditorTools {
-  return {
-    bibleReference: {
-      class: BibleReferenceTool,
-    },
-
-    delimiter: {
-      class: Delimiter as unknown as ToolConstructable,
-    },
-
-    header: {
-      class: Header as unknown as ToolConstructable,
-      config: {
-        defaultLevel: 2,
-        levels: [2, 3, 4],
-      },
-      inlineToolbar: ['link', 'bold', 'italic'],
-    },
-
-    list: {
-      class: List as unknown as ToolConstructable,
-      inlineToolbar: true,
-    },
-
-    notesArea: {
-      class: NotesAreaTool as unknown as ToolConstructable,
-    },
-
-    paragraph: {
-      class: Paragraph as unknown as ToolConstructable,
-      inlineToolbar: ['link', 'bold', 'italic'],
-    },
-
-    quote: {
-      class: Quote as unknown as ToolConstructable,
-      inlineToolbar: true,
-    },
-
-    sectionMarker: {
-      class: SectionMarkerTool as unknown as ToolConstructable,
-    },
-  };
-}
 
 export function createEditorTools(
   lang: LanguageCode,
@@ -101,7 +60,7 @@ export function createEditorTools(
     },
 
     bibleReference: {
-      class: BibleReferenceTool,
+      class: BibleReferenceTool as unknown as ToolConstructable,
     },
 
     collapsibleGroup: {
@@ -138,6 +97,10 @@ export function createEditorTools(
       },
     },
 
+    iWill: {
+      class: IWillTool as unknown as ToolConstructable,
+    },
+
     lastTime: {
       class: LastTimeTool as unknown as ToolConstructable,
       config: {
@@ -155,7 +118,7 @@ export function createEditorTools(
     },
 
     oikosList: {
-      class: OikosListTool,
+      class: OikosListTool as unknown as ToolConstructable,
     },
 
     paragraph: {
@@ -172,7 +135,15 @@ export function createEditorTools(
       class: SectionMarkerTool as unknown as ToolConstructable,
     },
 
-    videoEmbed: {
+    title: {
+      class: TitleTool as unknown as ToolConstructable,
+      config: {
+        languages: titleToolLanguages,
+        seriesOptions: titleToolSeriesOptions,
+      },
+    },
+
+    video: {
       class: VideoTool as unknown as ToolConstructable,
       config: {
         labels: {
@@ -186,13 +157,49 @@ export function createEditorTools(
         },
       },
     },
+  };
+}
 
-    titleTool: {
-      class: TitleTool as unknown as ToolConstructable,
+function createNestedEditorTools(): EditorTools {
+  return {
+    bibleReference: {
+      class: BibleReferenceTool as unknown as ToolConstructable,
+    },
+
+    delimiter: {
+      class: Delimiter as unknown as ToolConstructable,
+    },
+
+    header: {
+      class: Header as unknown as ToolConstructable,
       config: {
-        languages: titleToolLanguages,
-        seriesOptions: titleToolSeriesOptions,
+        defaultLevel: 2,
+        levels: [2, 3, 4],
       },
+      inlineToolbar: ['link', 'bold', 'italic'],
+    },
+
+    list: {
+      class: List as unknown as ToolConstructable,
+      inlineToolbar: true,
+    },
+
+    notesArea: {
+      class: NotesAreaTool as unknown as ToolConstructable,
+    },
+
+    paragraph: {
+      class: Paragraph as unknown as ToolConstructable,
+      inlineToolbar: ['link', 'bold', 'italic'],
+    },
+
+    quote: {
+      class: Quote as unknown as ToolConstructable,
+      inlineToolbar: true,
+    },
+
+    sectionMarker: {
+      class: SectionMarkerTool as unknown as ToolConstructable,
     },
   };
 }

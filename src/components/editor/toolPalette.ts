@@ -1,14 +1,18 @@
+import ImageTool from '@editorjs/image';
+
 import BiblePassageTool from './tools/BiblePassageTool/BiblePassageTool';
 import BibleReferenceTool from './tools/BibleReferenceTool/BibleReferenceTool';
 import CollapsibleGroupTool from './tools/CollapsibleGroupTool/CollapsibleGroupTool';
 import CollapsibleTextTool from './tools/CollapsibleTextTool/CollapsibleTextTool';
-import ImageTool from '@editorjs/image';
+import IWillTool from './tools/IWillTool/IWillTool';
 import LastTimeTool from './tools/LastTimeTool/LastTimeTool';
 import NotesAreaTool from './tools/NotesAreaTool/NotesAreaTool';
 import OikosListTool from './tools/OikosListTool/OikosListTool';
 import SectionMarkerTool from './tools/SectionMarker/SectionMarkerTool';
 import TitleTool from './tools/TitleTool/TitleTool';
 import VideoTool from './tools/VideoTool/VideoTool';
+
+import 'src/components/editor/icons.css';
 
 export type InsertToolItem = {
   type: string;
@@ -22,7 +26,13 @@ type ToolboxMeta = {
   icon?: string;
 };
 
-function getToolboxMeta(toolClass: unknown, fallbackTitle: string) {
+function getToolboxMeta(
+  toolClass: unknown,
+  fallbackTitle: string,
+): {
+  label: string;
+  icon: string;
+} {
   const candidate = toolClass as {
     toolbox?: ToolboxMeta;
   };
@@ -40,33 +50,22 @@ const bibleReferenceMeta = getToolboxMeta(BibleReferenceTool, 'Bible Reference')
 const collapsibleGroupMeta = getToolboxMeta(CollapsibleGroupTool, 'Collapsible Group');
 const collapsibleTextMeta = getToolboxMeta(CollapsibleTextTool, 'Collapsible Text');
 const imageMeta = getToolboxMeta(ImageTool, 'Image');
+const iWillMeta = getToolboxMeta(IWillTool, 'I Will');
 const lastTimeMeta = getToolboxMeta(LastTimeTool, 'Last Time');
 const notesAreaMeta = getToolboxMeta(NotesAreaTool, 'Notes Area');
-const oikosListMeta = getToolboxMeta(OikosListTool, 'Oikos List');
+const oikosListMeta = getToolboxMeta(OikosListTool, 'Oikos List Area');
 const sectionMarkerMeta = getToolboxMeta(SectionMarkerTool, 'Section Marker');
 const titleMeta = getToolboxMeta(TitleTool, 'Title');
 const videoMeta = getToolboxMeta(VideoTool, 'Video');
 
 const rawInsertToolPalette: InsertToolItem[] = [
   {
-    type: 'titleTool',
-    label: titleMeta.label,
-    icon: titleMeta.icon,
-    initialData: {
-      seriesNumber: '',
-      title: '',
-      language: 'english',
-      series: 'multiply1',
-      isOpen: true,
-    },
-  },
-  {
     type: 'biblePassage',
     label: biblePassageMeta.label,
     icon: biblePassageMeta.icon,
     initialData: {
       reference: '',
-      passage: '',
+      html: '',
       isOpen: true,
     },
   },
@@ -77,6 +76,7 @@ const rawInsertToolPalette: InsertToolItem[] = [
     initialData: {
       text: '',
       references: [],
+      isOpen: true,
     },
   },
   {
@@ -84,9 +84,8 @@ const rawInsertToolPalette: InsertToolItem[] = [
     label: collapsibleGroupMeta.label,
     icon: collapsibleGroupMeta.icon,
     initialData: {
-      heading: '',
-      body: '',
-      isOpen: true,
+      title: '',
+      items: [],
     },
   },
   {
@@ -97,6 +96,14 @@ const rawInsertToolPalette: InsertToolItem[] = [
       heading: '',
       body: '',
       isOpen: true,
+    },
+  },
+  {
+    type: 'iWill',
+    label: iWillMeta.label,
+    icon: iWillMeta.icon,
+    initialData: {
+      storageKey: '',
     },
   },
   {
@@ -115,26 +122,37 @@ const rawInsertToolPalette: InsertToolItem[] = [
     label: notesAreaMeta.label,
     icon: notesAreaMeta.icon,
     initialData: {
-      noteId: '',
+      storageKey: '',
     },
   },
   {
     type: 'oikosList',
     label: oikosListMeta.label,
     icon: oikosListMeta.icon,
-    initialData: {
-      title: '',
-      items: [],
-    },
+    initialData: {},
   },
   {
     type: 'sectionMarker',
     label: sectionMarkerMeta.label,
     icon: sectionMarkerMeta.icon,
-    initialData: {},
+    initialData: {
+      theme: 'back',
+    },
   },
   {
-    type: 'videoEmbed',
+    type: 'title',
+    label: titleMeta.label,
+    icon: titleMeta.icon,
+    initialData: {
+      seriesNumber: '',
+      title: '',
+      language: 'english',
+      series: 'multiply1',
+      isOpen: true,
+    },
+  },
+  {
+    type: 'video',
     label: videoMeta.label,
     icon: videoMeta.icon,
     initialData: {
@@ -145,6 +163,7 @@ const rawInsertToolPalette: InsertToolItem[] = [
       startTime: '',
       endTime: '',
       isOpen: true,
+      isEditing: true,
     },
   },
 ];

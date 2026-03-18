@@ -1,5 +1,6 @@
 import '../shared/blockHeader.css';
 import './CollapsibleTextTool.css';
+import { icons } from 'src/components/editor/icons';
 
 import type { API } from '@editorjs/editorjs';
 
@@ -20,14 +21,10 @@ export default class CollapsibleTextTool {
   private headingInput: HTMLInputElement | null = null;
   private toggleButton: HTMLButtonElement | null = null;
 
-  static get toolbox() {
+  public static get toolbox() {
     return {
       title: 'Collapsible Text',
-      icon: `
-        <svg width="18" height="18" viewBox="0 0 24 24">
-          <path d="M6 9l6 6 6-6"/>
-        </svg>
-      `,
+      icon: icons.collapsibleText,
     };
   }
 

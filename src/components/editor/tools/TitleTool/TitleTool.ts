@@ -5,7 +5,7 @@ import type { API } from '@editorjs/editorjs';
 import { DEFAULT_TITLE_BLOCK_DATA, type TitleBlockData } from 'src/types/content/TitleBlock';
 
 import type { TitleToolConfig, TitleToolConstructorArgs, TitleToolOption } from './types';
-
+import { icons } from 'src/components/editor/icons';
 export default class TitleTool {
   private api: API;
   private config: TitleToolConfig;
@@ -30,14 +30,7 @@ export default class TitleTool {
   public static get toolbox() {
     return {
       title: 'Title',
-      icon: `
-        <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
-          <path
-            d="M4 6h16v2H13v10h-2V8H4V6zm0 14h16v-2H4v2z"
-            fill="currentColor"
-          />
-        </svg>
-      `,
+      icon: icons.title,
     };
   }
 

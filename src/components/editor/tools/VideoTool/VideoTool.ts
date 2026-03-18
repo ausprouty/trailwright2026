@@ -1,7 +1,6 @@
 import '../shared/blockHeader.css';
 import './VideoTool.css';
-
-import type { API } from '@editorjs/editorjs';
+import { icons } from 'src/components/editor/icons';
 
 import {
   DEFAULT_VIDEO_BLOCK_DATA,
@@ -50,14 +49,7 @@ export default class VideoTool {
   public static get toolbox() {
     return {
       title: 'Video',
-      icon: `
-        <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
-          <path
-            d="M8 6h8a2 2 0 0 1 2 2v1.5l3-2v9l-3-2V16a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2Z"
-            fill="currentColor"
-          />
-        </svg>
-      `,
+      icon: icons.video,
     };
   }
 
@@ -92,7 +84,7 @@ export default class VideoTool {
     return this.wrapper;
   }
 
-  public save(): VideoToolBlockData {
+  public save(): VideoBlockData {
     this.syncDataFromInputs();
     this.updateDetectedVideoInfo();
 
@@ -108,7 +100,7 @@ export default class VideoTool {
     };
   }
 
-  public validate(savedData: VideoToolBlockData): boolean {
+  public validate(savedData: VideoBlockData): boolean {
     return Boolean(savedData.url || savedData.refId);
   }
 

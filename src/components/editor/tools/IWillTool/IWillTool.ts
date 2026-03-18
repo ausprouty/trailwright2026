@@ -3,6 +3,7 @@ import './IWillTool.css';
 import { DEFAULT_I_WILL_BLOCK_DATA, type IWillBlockData } from 'src/types/content/IWillBlock';
 
 import type { IWillToolConstructorArgs } from './types';
+import { icons } from 'src/components/editor/icons';
 
 export default class IWillTool {
   private data: IWillBlockData;
@@ -12,6 +13,7 @@ export default class IWillTool {
 
   private instructionText: string;
   private labelText: string;
+  private response: string;
 
   public constructor({ config, data, readOnly }: IWillToolConstructorArgs) {
     this.data = {
@@ -19,22 +21,20 @@ export default class IWillTool {
       ...data,
     };
 
-    this.readOnly = !!readOnly;
+    this.readOnly = Boolean(readOnly);
+    this.response = '';
+
     this.instructionText =
       config?.instructionText ??
       'Write your "I will_____ by_______ when" next step goals into this notetaking area.';
+
     this.labelText = config?.labelText ?? 'Notes:';
   }
 
   public static get toolbox() {
     return {
       title: 'I Will',
-      icon: `
-        <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
-          <path d="M9 11.5 11 13.5 15 9.5"/>
-          <path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2Z"/>
-        </svg>
-      `,
+      icon: icons.iWill,
     };
   }
 
@@ -52,7 +52,7 @@ export default class IWillTool {
 
     this.textarea = document.createElement('textarea');
     this.textarea.className = 'i-will-tool__textarea';
-    this.textarea.value = this.data.response;
+    this.textarea.value = this.response;
     this.textarea.rows = 5;
     this.textarea.placeholder = '';
 
@@ -60,7 +60,7 @@ export default class IWillTool {
       this.textarea.disabled = true;
     } else {
       this.textarea.addEventListener('input', () => {
-        this.data.response = this.textarea.value;
+        this.response = this.textarea.value;
       });
     }
 
@@ -74,7 +74,6 @@ export default class IWillTool {
   public save(): IWillBlockData {
     return {
       ...this.data,
-      response: this.textarea ? this.textarea.value : this.data.response,
     };
   }
 }

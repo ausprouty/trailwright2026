@@ -4,7 +4,7 @@ import type { SanitizerConfig } from '@editorjs/editorjs';
 import { fetchBiblePassage, type BibleToolConfig } from '../shared/fetchBiblePassage';
 import type { BibleReferenceItem } from 'src/types/shared/BibleReferenceItem';
 import type { BibleReferenceToolData, EditorJSToolConstructorArgs } from './types';
-
+import { icons } from 'src/components/editor/icons';
 export default class BibleReferenceTool {
   private data: BibleReferenceToolData;
   private readonly readOnly: boolean;
@@ -41,25 +41,7 @@ export default class BibleReferenceTool {
   public static get toolbox() {
     return {
       title: 'Bible Ref',
-      icon: `
-        <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
-          <path
-            d="M6 4h11a2 2 0 0 1 2 2v12a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2V6a2 2 0 0 1 2-2zm0 0v14"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="1.7"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-          />
-          <path
-            d="M8 8h7M8 11h7M8 14h5"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="1.7"
-            stroke-linecap="round"
-          />
-        </svg>
-      `,
+      icon: icons.bibleReference,
     };
   }
 
@@ -443,9 +425,10 @@ export default class BibleReferenceTool {
       references: this.data.references.map((ref) => ({
         id: ref.id,
         marker: ref.marker,
-        label: ref.marker,
-        passage: ref.passage.trim(),
+        label: ref.label,
+        passage: ref.passage,
       })),
+      isOpen: this.data.isOpen,
     };
   }
 

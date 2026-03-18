@@ -1,5 +1,6 @@
 import '../shared/blockHeader.css';
 import './BiblePassageTool.css';
+import { icons } from 'src/components/editor/icons';
 
 import { fetchBiblePassage, type BibleToolConfig } from '../shared/fetchBiblePassage';
 import { escapeHtml } from '../shared/html';
@@ -17,15 +18,11 @@ type EditorJSToolConstructorArgs = {
   readOnly?: boolean;
 };
 
-export default class BiblePassageTool {
+export default class BibleReferenceTool {
   public static get toolbox() {
     return {
-      title: 'Bible Passage',
-      icon: `
-        <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
-          <path d="M6 3h9a3 3 0 0 1 3 3v13a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2V5a2 2 0 0 1 2-2zm0 2v12h10V6a1 1 0 0 0-1-1H6zm2 3h6v2H8V8zm0 4h6v2H8v-2z"/>
-        </svg>
-      `,
+      title: 'Bible Ref',
+      icon: icons.bibleReference,
     };
   }
 

@@ -230,6 +230,9 @@ export function openDatabase(): Promise<IDBDatabase | null> {
       if (!db.objectStoreNames.contains('i_will_items')) {
         db.createObjectStore('i_will_items');
       }
+      if (!db.objectStoreNames.contains('study_progress')) {
+        db.createObjectStore('study_progress');
+      }
     };
   });
 
@@ -693,6 +696,43 @@ export async function clearTable(tableName: string): Promise<boolean> {
       };
     });
   });
+}
+export async function getStudyProgress(
+  study: string,
+): Promise<{ completedLessons: number[]; lastCompletedLesson: number | null }> {
+  const key = ContentKeys.buildStudyProgressKey(study);
+
+  const data = await getItem<{
+    completedLessons: number[];
+    lastCompletedLesson: number | null;
+  }>('study_progress', key);
+
+  return (
+    data || {
+      completedLessons: [],
+      lastCompletedLesson: null,
+    }
+  );
+}
+
+export async function saveStudyProgress(
+  study: string,
+  progress: {
+    completedLessons: number[];
+    lastCompletedLesson: number | null;
+  },
+): Promise<boolean> {
+  const safeProgress = {
+    completedLessons: Array.isArray(progress.completedLessons)
+      ? [...progress.completedLessons]
+      : [],
+    lastCompletedLesson:
+      typeof progress.lastCompletedLesson === 'number' ? progress.lastCompletedLesson : null,
+  };
+
+  const key = ContentKeys.buildStudyProgressKey(study);
+
+  return saveItem('study_progress', key, safeProgress);
 }
 
 export function clearDatabase(): Promise<boolean> {

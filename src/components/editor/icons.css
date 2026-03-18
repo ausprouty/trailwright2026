@@ -1,0 +1,21 @@
+.editor-icon {
+  width: 1.125rem;
+  height: 1.125rem;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.editor-icon path {
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.editor-icon__fill {
+  fill: currentColor;
+}
+
+.editor-icon__stroke {
+  stroke: currentColor;
+  fill: none;
+}

@@ -3,16 +3,13 @@ import { getCurrentLanguage } from 'src/i18n/languageState';
 import { t } from 'src/i18n';
 import './SectionMarkerTool.css';
 
-type SectionTheme = 'back' | 'up' | 'forward';
+import {
+  DEFAULT_SECTION_MARKER_BLOCK_DATA,
+  type SectionMarkerBlockData,
+  type SectionTheme,
+} from 'src/types/content/SectionMarkerBlock';
 
-interface SectionMarkerData {
-  theme: SectionTheme;
-}
-
-interface SectionOption {
-  value: SectionTheme;
-  labelKey: string;
-}
+import type { SectionOption, SectionMarkerToolConstructorArgs } from './types';
 
 const SECTION_OPTIONS: SectionOption[] = [
   { value: 'back', labelKey: 'sectionMarker.lookBack' },
@@ -21,7 +18,7 @@ const SECTION_OPTIONS: SectionOption[] = [
 ];
 
 export default class SectionMarkerTool implements BlockTool {
-  private data: SectionMarkerData;
+  private data: SectionMarkerBlockData;
   private wrapper: HTMLDivElement | null;
   private cardEl: HTMLDivElement | null;
   private iconEl: HTMLSpanElement | null;
@@ -48,9 +45,10 @@ export default class SectionMarkerTool implements BlockTool {
     };
   }
 
-  public constructor({ data }: { data?: Partial<SectionMarkerData> }) {
+  public constructor({ data }: SectionMarkerToolConstructorArgs) {
     this.data = {
-      theme: data?.theme ?? 'back',
+      ...DEFAULT_SECTION_MARKER_BLOCK_DATA,
+      ...data,
     };
 
     this.wrapper = null;
@@ -241,7 +239,7 @@ export default class SectionMarkerTool implements BlockTool {
     }
   }
 
-  public save(): SectionMarkerData {
+  public save(): SectionMarkerBlockData {
     return {
       theme: (this.selectEl?.value as SectionTheme) || this.data.theme,
     };

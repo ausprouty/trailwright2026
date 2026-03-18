@@ -1,10 +1,3 @@
-export type OikosListItem = {
-  name?: string;
-  relationship?: string;
-  notes?: string;
-};
+export type OikosListBlockData = Record<string, never>;
 
-export type OikosListBlockData = {
-  title?: string;
-  items?: OikosListItem[];
-};
+export const DEFAULT_OIKOS_LIST_BLOCK_DATA: OikosListBlockData = {};

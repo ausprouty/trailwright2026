@@ -5,25 +5,9 @@ function nId(value: string): string | null {
   return normalized ? normalized : null;
 }
 
-function nInt(value: number | string | undefined): string | null {
+function nInt(value: number | string): string | null {
   const normalized = normIntish(value);
   return normalized ? normalized : null;
-}
-
-export function buildIWillKey(
-  study: string,
-  lesson: number,
-  position: number | string | undefined,
-): string | null {
-  const s = nId(study);
-  const l = nInt(lesson);
-  const p = nInt(position);
-
-  if (!s || !l) {
-    return null;
-  }
-
-  return 'iwill-' + s + '-lesson-' + l + '-' + (p || '0');
 }
 
 export function buildLessonContentKey(
@@ -44,22 +28,28 @@ export function buildLessonContentKey(
   return 'lessonContent-' + s + '-' + hl + '-' + jf + '-lesson-' + l;
 }
 
-export function buildNotesKey(
-  study: string,
-  lesson: number,
-  position: number | string | undefined,
-): string | null {
+export function buildNotesKey(study: string, lesson: number, position: string): string | null {
   const s = nId(study);
   const l = nInt(lesson);
+  const p = nId(position);
 
-  if (!s || !l) {
+  if (!s || !l || !p) {
     return null;
   }
 
-  const p = nInt(position);
-  const pos = p || '0';
+  return 'notes-' + s + '-' + l + '-' + p;
+}
 
-  return 'notes-' + s + '-' + l + '-' + pos;
+export function buildIWillKey(study: string, lesson: number, sequence = 1): string | null {
+  const s = nId(study);
+  const l = nInt(lesson);
+  const seq = nInt(sequence);
+
+  if (!s || !l || !seq) {
+    return null;
+  }
+
+  return 'iwill-' + s + '-lesson-' + l + '-seq-' + seq;
 }
 
 export function buildStudyProgressKey(study: string): string | null {

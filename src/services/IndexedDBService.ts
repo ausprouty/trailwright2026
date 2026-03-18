@@ -1,4 +1,6 @@
 import * as ContentKeys from 'src/utils/ContentKeyBuilder';
+import type { OutputData } from '@editorjs/editorjs';
+import type { IWillItem } from 'src/types/content/IWillItem';
 
 type PlainObject = Record<string, unknown>;
 
@@ -9,21 +11,6 @@ type SaveItemOptions = {
 
 type GetItemOptions = {
   deleteIfEmpty?: boolean;
-};
-
-type IWillStatus = 'active' | 'completed' | 'abandoned';
-
-type IWillItemRecord = {
-  id: string;
-  study: unknown;
-  lesson: number;
-  position: number;
-  statement: string;
-  createdAt: string;
-  updatedAt: string;
-  status: IWillStatus;
-  completedAt: string | null;
-  abandonedAt: string | null;
 };
 
 const DB_NAME = 'MyBibleApp';
@@ -59,13 +46,24 @@ function primitiveText(value: unknown): string {
 
   return '';
 }
+function keyText(key: IDBValidKey | null): string {
+  if (key == null) {
+    return '';
+  }
 
-function errorName(value: unknown): string {
-  return value instanceof Error ? value.name : '';
-}
+  if (typeof key === 'string' || typeof key === 'number') {
+    return String(key);
+  }
 
-function errorMessage(value: unknown): string {
-  return value instanceof Error ? value.message : '';
+  if (key instanceof Date) {
+    return key.toISOString();
+  }
+
+  if (Array.isArray(key)) {
+    return key.map((part) => keyText(part)).join('|');
+  }
+
+  return '[non-primitive-key]';
 }
 
 function isPlainObject(value: unknown): value is PlainObject {
@@ -143,6 +141,14 @@ function previewVal(value: unknown): string {
   return primitiveText(value);
 }
 
+function isClosingError(err: unknown): boolean {
+  return (
+    err instanceof Error &&
+    err.name === 'InvalidStateError' &&
+    err.message.toLowerCase().indexOf('connection is closing') !== -1
+  );
+}
+
 export function openDatabase(): Promise<IDBDatabase | null> {
   if (typeof indexedDB === 'undefined') {
     console.warn('IndexedDB not available — skipping IndexedDB caching');
@@ -168,9 +174,8 @@ export function openDatabase(): Promise<IDBDatabase | null> {
     const request = indexedDB.open(DB_NAME, DB_VERSION);
 
     request.onerror = () => {
-      const err = request.error;
       dbPromise = null;
-      reject(err);
+      reject(request.error ?? new Error('IndexedDB open failed'));
     };
 
     request.onblocked = () => {
@@ -229,13 +234,6 @@ export function openDatabase(): Promise<IDBDatabase | null> {
   });
 
   return dbPromise;
-}
-
-function isClosingError(err: unknown): boolean {
-  const name = errorName(err);
-  const msg = errorMessage(err).toLowerCase();
-
-  return name === 'InvalidStateError' && msg.indexOf('connection is closing') !== -1;
 }
 
 async function withTx<T>(
@@ -297,14 +295,16 @@ async function saveItem<T>(
     const hasRealError = (typeof errVal === 'string' && errText.length > 0) || Boolean(errVal);
 
     if (hasRealError) {
-      console.warn(`Skipping save for key "${String(key)}" due to error: ` + primitiveText(errVal));
+      console.warn(
+        `Skipping save for key "${keyText(key)}" due to error: ` + primitiveText(errVal),
+      );
       return false;
     }
   }
 
   if (!allowEmpty && !isMeaningful(value)) {
     if (IS_DEV) {
-      console.debug(`Empty/meaningless value for "${String(key)}" — not saving.`);
+      console.debug(`Empty/meaningless value for "${keyText(key)}" — not saving.`);
       console.debug(value);
     }
 
@@ -322,7 +322,9 @@ async function saveItem<T>(
           };
 
           req.onerror = () => {
-            reject(req.error);
+            reject(
+              req.error ?? new Error(`IndexedDB request saveItem failed in store "${storeName}"`),
+            );
           };
         });
       });
@@ -344,7 +346,7 @@ async function saveItem<T>(
       };
 
       req.onerror = () => {
-        reject(req.error);
+        reject(req.error ?? new Error(`IndexedDB request withTX failed in store "${storeName}"`));
       };
     });
   });
@@ -379,10 +381,10 @@ async function getItem<T>(
         }
 
         if (!isMeaningful(value)) {
-          console.warn('[IDB] meaningless value at', String(key), '→', value);
+          console.warn('[IDB] meaningless value at', keyText(key), '→', value);
 
           if (IS_DEV) {
-            console.groupCollapsed(`Purge candidate ${String(key)}`);
+            console.groupCollapsed(`Purge candidate ${keyText(key)}`);
             console.log('preview:', previewVal(value));
             console.dir(value);
             console.groupEnd();
@@ -404,7 +406,7 @@ async function getItem<T>(
       };
 
       req.onerror = () => {
-        reject(req.error);
+        reject(req.error ?? new Error(`IndexedDB request getItem failed in store "${storeName}"`));
       };
     });
   });
@@ -424,7 +426,9 @@ async function getAllItems<T>(storeName: string): Promise<T[]> {
       };
 
       req.onerror = () => {
-        reject(req.error);
+        reject(
+          req.error ?? new Error(`IndexedDB getAllItems request failed in store "${storeName}"`),
+        );
       };
     });
   });
@@ -449,79 +453,81 @@ async function deleteItem(storeName: string, key: IDBValidKey | null): Promise<b
       };
 
       req.onerror = () => {
-        reject(req.error);
+        reject(
+          req.error ?? new Error(`IndexedDB deleteItem request failed in store "${storeName}"`),
+        );
       };
     });
   });
 }
 
 export async function getLessonContentFromDB(
-  study: unknown,
-  languageCodeHL: unknown,
-  languageCodeJF: unknown,
-  lesson: unknown,
-): Promise<unknown | null> {
+  study: string,
+  languageCodeHL: string,
+  languageCodeJF: string,
+  lesson: number,
+): Promise<OutputData | null> {
   const key = ContentKeys.buildLessonContentKey(study, languageCodeHL, languageCodeJF, lesson);
 
-  return getItem<unknown>('lessonContent', key);
+  return getItem<OutputData>('lessonContent', key);
 }
 
 export async function saveLessonContentToDB(
-  study: unknown,
-  languageCodeHL: unknown,
-  languageCodeJF: unknown,
-  lesson: unknown,
-  content: unknown,
+  study: string,
+  languageCodeHL: string,
+  languageCodeJF: string,
+  lesson: number,
+  content: OutputData,
 ): Promise<boolean> {
   const key = ContentKeys.buildLessonContentKey(study, languageCodeHL, languageCodeJF, lesson);
 
-  return saveItem('lessonContent', key, content);
+  return saveItem<OutputData>('lessonContent', key, content);
 }
 
 export async function getNoteFromDB(
-  study: unknown,
-  lesson: unknown,
-  position: unknown,
-): Promise<unknown | null> {
+  study: string,
+  lesson: number,
+  position: string,
+): Promise<string | null> {
   const key = ContentKeys.buildNotesKey(study, lesson, position);
-  return getItem<unknown>('notes', key);
+  return getItem<string>('notes', key);
 }
 
 export async function saveNoteToDB(
-  study: unknown,
-  lesson: unknown,
-  position: unknown,
-  content: unknown,
+  study: string,
+  lesson: number,
+  position: string,
+  content: string,
 ): Promise<boolean> {
   const key = ContentKeys.buildNotesKey(study, lesson, position);
-  return saveItem('notes', key, content);
+  return saveItem<string>('notes', key, content);
 }
 
 export async function deleteNoteFromDB(
-  study: unknown,
-  lesson: unknown,
-  position: unknown,
+  study: string,
+  lesson: number,
+  position: string,
 ): Promise<boolean> {
   const key = ContentKeys.buildNotesKey(study, lesson, position);
   return deleteItem('notes', key);
 }
 
 export async function getIWillItemFromDB(
-  study: unknown,
-  lesson: unknown,
-  position: unknown,
-): Promise<IWillItemRecord | null> {
+  study: string,
+  lesson: number,
+  position: number,
+): Promise<IWillItem | null> {
   const key = ContentKeys.buildIWillKey(study, lesson, position);
 
-  return getItem<IWillItemRecord>('i_will_items', key, {
+  return getItem<IWillItem>('i_will_items', key, {
     deleteIfEmpty: false,
   });
 }
 
 export async function saveIWillItemToDB(
-  study: unknown,
-  lesson: unknown,
-  position: unknown,
+  study: string,
+  lesson: number,
+  position: number,
   statement: string,
 ): Promise<boolean> {
   const key = ContentKeys.buildIWillKey(study, lesson, position);
@@ -530,17 +536,17 @@ export async function saveIWillItemToDB(
     return false;
   }
 
-  const existing = await getItem<IWillItemRecord>('i_will_items', key, { deleteIfEmpty: false });
+  const existing = await getItem<IWillItem>('i_will_items', key, {
+    deleteIfEmpty: false,
+  });
 
   const now = new Date().toISOString();
-  const safeLesson = Number(lesson) || 0;
-  const safePosition = Number(position) || 0;
 
-  const record: IWillItemRecord = {
+  const record: IWillItem = {
     id: key,
     study,
-    lesson: safeLesson,
-    position: safePosition,
+    lesson,
+    position,
     statement,
     createdAt: existing?.createdAt || now,
     updatedAt: now,
@@ -549,14 +555,14 @@ export async function saveIWillItemToDB(
     abandonedAt: existing?.abandonedAt || null,
   };
 
-  return saveItem<IWillItemRecord>('i_will_items', key, record, {
+  return saveItem<IWillItem>('i_will_items', key, record, {
     allowEmpty: false,
     deleteOnEmpty: false,
   });
 }
 
-export async function getAllIWillItemsFromDB(): Promise<IWillItemRecord[]> {
-  const items = await getAllItems<IWillItemRecord>('i_will_items');
+export async function getAllIWillItemsFromDB(): Promise<IWillItem[]> {
+  const items = await getAllItems<IWillItem>('i_will_items');
 
   return items.sort((a, b) => {
     const aTime = a.createdAt ? new Date(a.createdAt).getTime() : 0;
@@ -567,9 +573,9 @@ export async function getAllIWillItemsFromDB(): Promise<IWillItemRecord[]> {
 }
 
 export async function completeIWillItemInDB(
-  study: unknown,
-  lesson: unknown,
-  position: unknown,
+  study: string,
+  lesson: number,
+  position: number,
 ): Promise<boolean> {
   const key = ContentKeys.buildIWillKey(study, lesson, position);
 
@@ -577,7 +583,9 @@ export async function completeIWillItemInDB(
     return false;
   }
 
-  const existing = await getItem<IWillItemRecord>('i_will_items', key, { deleteIfEmpty: false });
+  const existing = await getItem<IWillItem>('i_will_items', key, {
+    deleteIfEmpty: false,
+  });
 
   if (!existing) {
     return false;
@@ -585,7 +593,7 @@ export async function completeIWillItemInDB(
 
   const now = new Date().toISOString();
 
-  return saveItem<IWillItemRecord>('i_will_items', key, {
+  return saveItem<IWillItem>('i_will_items', key, {
     ...existing,
     status: 'completed',
     updatedAt: now,
@@ -595,9 +603,9 @@ export async function completeIWillItemInDB(
 }
 
 export async function abandonIWillItemInDB(
-  study: unknown,
-  lesson: unknown,
-  position: unknown,
+  study: string,
+  lesson: number,
+  position: number,
 ): Promise<boolean> {
   const key = ContentKeys.buildIWillKey(study, lesson, position);
 
@@ -605,7 +613,9 @@ export async function abandonIWillItemInDB(
     return false;
   }
 
-  const existing = await getItem<IWillItemRecord>('i_will_items', key, { deleteIfEmpty: false });
+  const existing = await getItem<IWillItem>('i_will_items', key, {
+    deleteIfEmpty: false,
+  });
 
   if (!existing) {
     return false;
@@ -613,7 +623,7 @@ export async function abandonIWillItemInDB(
 
   const now = new Date().toISOString();
 
-  return saveItem<IWillItemRecord>('i_will_items', key, {
+  return saveItem<IWillItem>('i_will_items', key, {
     ...existing,
     status: 'abandoned',
     updatedAt: now,
@@ -623,9 +633,9 @@ export async function abandonIWillItemInDB(
 }
 
 export async function reopenIWillItemInDB(
-  study: unknown,
-  lesson: unknown,
-  position: unknown,
+  study: string,
+  lesson: number,
+  position: number,
 ): Promise<boolean> {
   const key = ContentKeys.buildIWillKey(study, lesson, position);
 
@@ -633,7 +643,9 @@ export async function reopenIWillItemInDB(
     return false;
   }
 
-  const existing = await getItem<IWillItemRecord>('i_will_items', key, { deleteIfEmpty: false });
+  const existing = await getItem<IWillItem>('i_will_items', key, {
+    deleteIfEmpty: false,
+  });
 
   if (!existing) {
     return false;
@@ -641,7 +653,7 @@ export async function reopenIWillItemInDB(
 
   const now = new Date().toISOString();
 
-  return saveItem<IWillItemRecord>('i_will_items', key, {
+  return saveItem<IWillItem>('i_will_items', key, {
     ...existing,
     status: 'active',
     updatedAt: now,
@@ -651,9 +663,9 @@ export async function reopenIWillItemInDB(
 }
 
 export async function deleteIWillItemFromDB(
-  study: unknown,
-  lesson: unknown,
-  position: unknown,
+  study: string,
+  lesson: number,
+  position: number,
 ): Promise<boolean> {
   const key = ContentKeys.buildIWillKey(study, lesson, position);
   return deleteItem('i_will_items', key);
@@ -677,7 +689,7 @@ export async function clearTable(tableName: string): Promise<boolean> {
       };
 
       req.onerror = () => {
-        reject(req.error);
+        reject(req.error ?? new Error('IndexedDB ClearTable request failed'));
       };
     });
   });
@@ -711,8 +723,7 @@ export function clearDatabase(): Promise<boolean> {
     };
 
     req.onerror = () => {
-      deletingDb = false;
-      reject(req.error);
+      reject(req.error ?? new Error('IndexedDB ClearDatabase request failed'));
     };
 
     req.onblocked = () => {

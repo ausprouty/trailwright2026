@@ -1,36 +1,15 @@
-import "./TitleTool.css";
+import './TitleTool.css';
 
-type TitleToolData = {
-  seriesNumber: string;
-  title: string;
-  language: string;
-  series: string;
-  isOpen?: boolean;
-};
+import type { API } from '@editorjs/editorjs';
 
-type TitleToolOption = {
-  value: string;
-  label: string;
-};
+import { DEFAULT_TITLE_BLOCK_DATA, type TitleBlockData } from 'src/types/content/TitleBlock';
 
-type TitleToolConfig = {
-  languages?: TitleToolOption[];
-  seriesOptions?: TitleToolOption[];
-};
-
-type EditorJSToolConstructorArgs = {
-  data: Partial<TitleToolData>;
-  api: unknown;
-  config?: TitleToolConfig;
-  readOnly?: boolean;
-};
+import type { TitleToolConfig, TitleToolConstructorArgs, TitleToolOption } from './types';
 
 export default class TitleTool {
-  private api: unknown;
-
+  private api: API;
   private config: TitleToolConfig;
-
-  private data: TitleToolData;
+  private data: TitleBlockData;
 
   private readOnly: boolean;
 
@@ -50,7 +29,7 @@ export default class TitleTool {
 
   public static get toolbox() {
     return {
-      title: "Title",
+      title: 'Title',
       icon: `
         <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
           <path
@@ -66,32 +45,25 @@ export default class TitleTool {
     return true;
   }
 
-  constructor({
-    data,
-    api,
-    config,
-    readOnly,
-  }: EditorJSToolConstructorArgs) {
+  constructor({ data, api, config, readOnly }: TitleToolConstructorArgs) {
     this.api = api;
     this.config = config || {};
     this.readOnly = Boolean(readOnly);
 
     this.data = {
-      seriesNumber: data.seriesNumber || "",
-      title: data.title || "",
-      language: data.language || "english",
-      series: data.series || "multiply1",
-      isOpen: data.isOpen !== undefined ? Boolean(data.isOpen) : true,
+      ...DEFAULT_TITLE_BLOCK_DATA,
+      ...data,
+      isOpen: data?.isOpen !== undefined ? Boolean(data.isOpen) : DEFAULT_TITLE_BLOCK_DATA.isOpen,
     };
   }
 
   public render() {
-    this.wrapper = document.createElement("div");
-    this.wrapper.className = "title-tool";
+    this.wrapper = document.createElement('div');
+    this.wrapper.className = 'title-tool';
 
-    this.summaryRow = document.createElement("div");
-    this.summaryRow.className = "title-tool__summary";
-    this.summaryRow.addEventListener("click", () => {
+    this.summaryRow = document.createElement('div');
+    this.summaryRow.className = 'title-tool__summary';
+    this.summaryRow.addEventListener('click', () => {
       if (this.readOnly) {
         return;
       }
@@ -100,60 +72,52 @@ export default class TitleTool {
       this.syncView();
     });
 
-    this.body = document.createElement("div");
-    this.body.className = "title-tool__body";
+    this.body = document.createElement('div');
+    this.body.className = 'title-tool__body';
 
-    this.numberInput = document.createElement("input");
-    this.numberInput.type = "text";
-    this.numberInput.className = "title-tool__input title-tool__input--number";
-    this.numberInput.placeholder = "Series number";
+    this.numberInput = document.createElement('input');
+    this.numberInput.type = 'text';
+    this.numberInput.className = 'title-tool__input title-tool__input--number';
+    this.numberInput.placeholder = 'Series number';
     this.numberInput.value = this.data.seriesNumber;
-    this.numberInput.addEventListener("input", () => {
+    this.numberInput.addEventListener('input', () => {
       this.data.seriesNumber = this.numberInput.value;
       this.updateSummary();
     });
 
-    this.titleInput = document.createElement("input");
-    this.titleInput.type = "text";
-    this.titleInput.className = "title-tool__input title-tool__input--title";
-    this.titleInput.placeholder = "Enter title";
+    this.titleInput = document.createElement('input');
+    this.titleInput.type = 'text';
+    this.titleInput.className = 'title-tool__input title-tool__input--title';
+    this.titleInput.placeholder = 'Enter title';
     this.titleInput.value = this.data.title;
-    this.titleInput.addEventListener("input", () => {
+    this.titleInput.addEventListener('input', () => {
       this.data.title = this.titleInput.value;
       this.updateSummary();
     });
 
-    this.languageSelect = document.createElement("select");
-    this.languageSelect.className = "title-tool__select";
-    this.populateSelect(
-      this.languageSelect,
-      this.getLanguageOptions(),
-      this.data.language
-    );
-    this.languageSelect.addEventListener("change", () => {
+    this.languageSelect = document.createElement('select');
+    this.languageSelect.className = 'title-tool__select';
+    this.populateSelect(this.languageSelect, this.getLanguageOptions(), this.data.language);
+    this.languageSelect.addEventListener('change', () => {
       this.data.language = this.languageSelect.value;
     });
 
-    this.seriesSelect = document.createElement("select");
-    this.seriesSelect.className = "title-tool__select";
-    this.populateSelect(
-      this.seriesSelect,
-      this.getSeriesOptions(),
-      this.data.series
-    );
-    this.seriesSelect.addEventListener("change", () => {
+    this.seriesSelect = document.createElement('select');
+    this.seriesSelect.className = 'title-tool__select';
+    this.populateSelect(this.seriesSelect, this.getSeriesOptions(), this.data.series);
+    this.seriesSelect.addEventListener('change', () => {
       this.data.series = this.seriesSelect.value;
     });
 
-    const topRow = document.createElement("div");
-    topRow.className = "title-tool__row";
+    const topRow = document.createElement('div');
+    topRow.className = 'title-tool__row';
     topRow.appendChild(this.numberInput);
     topRow.appendChild(this.titleInput);
 
-    const secondRow = document.createElement("div");
-    secondRow.className = "title-tool__row";
-    secondRow.appendChild(this.createField("Language", this.languageSelect));
-    secondRow.appendChild(this.createField("Series", this.seriesSelect));
+    const secondRow = document.createElement('div');
+    secondRow.className = 'title-tool__row';
+    secondRow.appendChild(this.createField('Language', this.languageSelect));
+    secondRow.appendChild(this.createField('Series', this.seriesSelect));
 
     this.body.appendChild(topRow);
     this.body.appendChild(secondRow);
@@ -167,7 +131,7 @@ export default class TitleTool {
     return this.wrapper;
   }
 
-  public save() {
+  public save(): TitleBlockData {
     return {
       seriesNumber: this.numberInput.value.trim(),
       title: this.titleInput.value.trim(),
@@ -177,16 +141,16 @@ export default class TitleTool {
     };
   }
 
-  public validate(savedData: TitleToolData) {
+  public validate(savedData: TitleBlockData): boolean {
     return Boolean(savedData.title && savedData.title.trim());
   }
 
   private createField(labelText: string, element: HTMLElement) {
-    const field = document.createElement("label");
-    field.className = "title-tool__field";
+    const field = document.createElement('label');
+    field.className = 'title-tool__field';
 
-    const label = document.createElement("span");
-    label.className = "title-tool__label";
+    const label = document.createElement('span');
+    label.className = 'title-tool__label';
     label.textContent = labelText;
 
     field.appendChild(label);
@@ -196,48 +160,52 @@ export default class TitleTool {
   }
 
   private getLanguageOptions(): TitleToolOption[] {
-    return this.config.languages || [
-      {
-        value: "english",
-        label: "English",
-      },
-      {
-        value: "spanish",
-        label: "Spanish",
-      },
-      {
-        value: "french",
-        label: "French",
-      },
-    ];
+    return (
+      this.config.languages || [
+        {
+          value: 'english',
+          label: 'English',
+        },
+        {
+          value: 'spanish',
+          label: 'Spanish',
+        },
+        {
+          value: 'french',
+          label: 'French',
+        },
+      ]
+    );
   }
 
   private getSeriesOptions(): TitleToolOption[] {
-    return this.config.seriesOptions || [
-      {
-        value: "multiply1",
-        label: "Multiply 1",
-      },
-      {
-        value: "multiply2",
-        label: "Multiply 2",
-      },
-      {
-        value: "multiply3",
-        label: "Multiply 3",
-      },
-    ];
+    return (
+      this.config.seriesOptions || [
+        {
+          value: 'multiply1',
+          label: 'Multiply 1',
+        },
+        {
+          value: 'multiply2',
+          label: 'Multiply 2',
+        },
+        {
+          value: 'multiply3',
+          label: 'Multiply 3',
+        },
+      ]
+    );
   }
 
   private populateSelect(
     select: HTMLSelectElement,
     options: TitleToolOption[],
-    selectedValue: string
+    selectedValue: string,
   ) {
-    select.innerHTML = "";
+    select.innerHTML = '';
 
     options.forEach((optionData) => {
-      const option = document.createElement("option");
+      const option = document.createElement('option');
       option.value = optionData.value;
       option.textContent = optionData.label;
       option.selected = optionData.value === selectedValue;
@@ -247,37 +215,37 @@ export default class TitleTool {
 
   private updateSummary() {
     const number = this.data.seriesNumber.trim();
-    const title = this.data.title.trim() || "Untitled title";
+    const title = this.data.title.trim() || 'Untitled title';
 
-    this.summaryRow.innerHTML = "";
+    this.summaryRow.innerHTML = '';
 
-    const text = document.createElement("div");
-    text.className = "title-tool__summary-text";
+    const text = document.createElement('div');
+    text.className = 'title-tool__summary-text';
 
     if (number) {
-      const numberSpan = document.createElement("span");
-      numberSpan.className = "title-tool__summary-number";
+      const numberSpan = document.createElement('span');
+      numberSpan.className = 'title-tool__summary-number';
       numberSpan.textContent = `${number}.`;
       text.appendChild(numberSpan);
     }
 
-    const titleSpan = document.createElement("span");
-    titleSpan.className = "title-tool__summary-title";
+    const titleSpan = document.createElement('span');
+    titleSpan.className = 'title-tool__summary-title';
     titleSpan.textContent = title;
     text.appendChild(titleSpan);
 
     this.summaryRow.appendChild(text);
 
     if (!this.readOnly) {
-      const toggle = document.createElement("button");
-      toggle.type = "button";
-      toggle.className = "title-tool__toggle";
+      const toggle = document.createElement('button');
+      toggle.type = 'button';
+      toggle.className = 'title-tool__toggle';
       toggle.setAttribute(
-        "aria-label",
-        this.data.isOpen ? "Collapse title tool" : "Expand title tool"
+        'aria-label',
+        this.data.isOpen ? 'Collapse title tool' : 'Expand title tool',
       );
-      toggle.textContent = this.data.isOpen ? "−" : "+";
-      toggle.addEventListener("click", (event) => {
+      toggle.textContent = this.data.isOpen ? '−' : '+';
+      toggle.addEventListener('click', (event) => {
         event.stopPropagation();
         this.data.isOpen = !this.data.isOpen;
         this.syncView();
@@ -288,11 +256,11 @@ export default class TitleTool {
 
   private syncView() {
     if (this.data.isOpen) {
-      this.wrapper.classList.add("title-tool--open");
-      this.body.style.display = "";
+      this.wrapper.classList.add('title-tool--open');
+      this.body.style.display = '';
     } else {
-      this.wrapper.classList.remove("title-tool--open");
-      this.body.style.display = "none";
+      this.wrapper.classList.remove('title-tool--open');
+      this.body.style.display = 'none';
     }
 
     this.updateSummary();

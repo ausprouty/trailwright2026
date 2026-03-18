@@ -1,46 +1,19 @@
 import '../shared/blockHeader.css';
 import './VideoTool.css';
 
-type VideoSource = 'arclight' | 'youtube' | 'vimeo' | '';
+import type { API } from '@editorjs/editorjs';
 
-type VideoToolData = {
-  title: string;
-  url: string;
-  source: VideoSource;
-  refId: string;
-  startTime: string;
-  endTime: string;
-  isOpen?: boolean;
-  isEditing?: boolean;
-};
+import {
+  DEFAULT_VIDEO_BLOCK_DATA,
+  type VideoBlockData,
+  type VideoSource,
+} from 'src/types/content/VideoBlock';
 
-type VideoToolLabels = {
-  doneLabel?: string;
-  editLabel?: string;
-  endLabel?: string;
-  previewUnavailable?: string;
-  startLabel?: string;
-  titleLabel?: string;
-  untitledVideo?: string;
-  urlLabel?: string;
-  watchOnlineTemplate?: string;
-};
-
-type VideoToolConfig = {
-  labels?: VideoToolLabels;
-};
-
-type EditorJSToolConstructorArgs = {
-  api: unknown;
-  config?: VideoToolConfig;
-  data: Partial<VideoToolData>;
-  readOnly?: boolean;
-};
+import type { VideoToolConfig, VideoToolConstructorArgs, VideoToolLabels } from './types';
 
 export default class VideoTool {
   private config: VideoToolConfig;
-
-  private data: VideoToolData;
+  private data: VideoBlockData;
 
   private readOnly: boolean;
 
@@ -88,19 +61,15 @@ export default class VideoTool {
     };
   }
 
-  constructor({ data, config, readOnly }: EditorJSToolConstructorArgs) {
+  constructor({ data, config, readOnly }: VideoToolConstructorArgs) {
     this.readOnly = Boolean(readOnly);
     this.config = config ?? {};
 
     this.data = {
-      title: data.title || '',
-      url: data.url || '',
-      source: data.source || '',
-      refId: data.refId || '',
-      startTime: data.startTime || '',
-      endTime: data.endTime || '',
-      isOpen: data.isOpen ?? true,
-      isEditing: data.isEditing ?? true,
+      ...DEFAULT_VIDEO_BLOCK_DATA,
+      ...data,
+      isOpen: data?.isOpen ?? DEFAULT_VIDEO_BLOCK_DATA.isOpen,
+      isEditing: data?.isEditing ?? DEFAULT_VIDEO_BLOCK_DATA.isEditing,
     };
 
     if (this.data.url && !this.data.source) {
@@ -123,7 +92,7 @@ export default class VideoTool {
     return this.wrapper;
   }
 
-  public save(): VideoToolData {
+  public save(): VideoToolBlockData {
     this.syncDataFromInputs();
     this.updateDetectedVideoInfo();
 
@@ -139,7 +108,7 @@ export default class VideoTool {
     };
   }
 
-  public validate(savedData: VideoToolData): boolean {
+  public validate(savedData: VideoToolBlockData): boolean {
     return Boolean(savedData.url || savedData.refId);
   }
 

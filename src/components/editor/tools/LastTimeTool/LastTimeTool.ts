@@ -1,25 +1,17 @@
 import './LastTimeTool.css';
+
 import { t } from 'src/i18n';
+
 import type { LanguageCode } from 'src/i18n';
+import type { LastTimeBlockData } from 'src/types/content/LastTimeBlock';
 
-type LastTimeToolData = Record<string, never>;
-
-type LastTimeToolConfig = {
-  lang: LanguageCode;
-};
-
-type EditorJSToolConstructorArgs = {
-  data: Partial<LastTimeToolData>;
-  api: unknown;
-  config?: LastTimeToolConfig;
-  readOnly?: boolean;
-};
+import type { LastTimeToolConstructorArgs } from './types';
 
 export default class LastTimeTool {
   private wrapper!: HTMLDivElement;
   private lang: LanguageCode;
 
-  public constructor({ config }: EditorJSToolConstructorArgs) {
+  public constructor({ config }: LastTimeToolConstructorArgs) {
     this.lang = config?.lang ?? 'en';
   }
 
@@ -41,7 +33,7 @@ export default class LastTimeTool {
     return this.wrapper;
   }
 
-  public save(): LastTimeToolData {
+  public save(): LastTimeBlockData {
     return {};
   }
 }

@@ -1,0 +1,24 @@
+.i-will-tool {
+  margin: 1rem 0;
+}
+
+.i-will-tool__instruction {
+  margin: 0 0 1rem 0;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.i-will-tool__label {
+  display: block;
+  margin-bottom: 0.75rem;
+  font-size: 1rem;
+}
+
+.i-will-tool__textarea {
+  width: 100%;
+  min-height: 7rem;
+  padding: 0.75rem;
+  font: inherit;
+  resize: vertical;
+  box-sizing: border-box;
+}

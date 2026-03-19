@@ -16,6 +16,8 @@ export async function fetchBiblePassage(
     entry: reference,
     languageCodeIso,
   };
+  console.log('fetchBiblePassage endpointPath', endpointPath);
+  console.log('fetchBiblePassage payload', payload);
 
   const res = await http.post(endpointPath, payload);
   const data: unknown = res && res.data ? res.data : res;

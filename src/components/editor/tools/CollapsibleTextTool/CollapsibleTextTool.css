@@ -54,3 +54,21 @@
   align-items: center;
   justify-content: center;
 }
+
+.text-area-tool h3.ce-header,
+.text-area-tool h3.cdx-header,
+.cg-tool h3.ce-header,
+.cg-tool h3.cdx-header {
+  font-size: 1.5rem;
+  line-height: 1.2;
+  margin: 0.4em 0;
+}
+
+.text-area-tool h4.ce-header,
+.text-area-tool h4.cdx-header,
+.cg-tool h4.ce-header,
+.cg-tool h4.cdx-header {
+  font-size: 1.2rem;
+  line-height: 1.2;
+  margin: 0.35em 0;
+}

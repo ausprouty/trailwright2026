@@ -45,7 +45,7 @@ function getToolboxMeta(
 }
 
 const biblePassageMeta = getToolboxMeta(BiblePassageTool, 'Bible Passage');
-const bibleReferenceMeta = getToolboxMeta(BibleReferenceTool, 'Bible Reference');
+const bibleReferenceMeta = getToolboxMeta(BibleReferenceTool, '{Bible Reference}');
 const collapsibleGroupMeta = getToolboxMeta(CollapsibleGroupTool, 'Collapsible Group');
 const imageMeta = getToolboxMeta(ImageTool, 'Image');
 const iWillMeta = getToolboxMeta(IWillTool, 'I Will');
@@ -134,7 +134,17 @@ const rawInsertToolPalette: InsertToolItem[] = [
     label: textAreaMeta.label,
     icon: textAreaMeta.icon,
     initialData: {
-      text: '',
+      content: {
+        time: Date.now(),
+        blocks: [
+          {
+            type: 'paragraph',
+            data: {
+              text: '',
+            },
+          },
+        ],
+      },
     },
   },
   {

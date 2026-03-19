@@ -20,6 +20,7 @@ import LastTimeTool from './tools/LastTimeTool/LastTimeTool';
 import NotesAreaTool from './tools/NotesAreaTool/NotesAreaTool';
 import OikosListTool from './tools/OikosListTool/OikosListTool';
 import SectionMarkerTool from './tools/SectionMarker/SectionMarkerTool';
+import TextAreaTool from './tools/TextAreaTool/TextAreaTool';
 import TitleTool from './tools/TitleTool/TitleTool';
 import VideoTool from './tools/VideoTool/VideoTool';
 
@@ -62,6 +63,10 @@ export function createEditorTools(
 
     bibleReference: {
       class: BibleReferenceTool as unknown as ToolConstructable,
+      config: {
+        endpointPath: DEFAULT_BIBLE_ENDPOINT_PATH,
+        languageCodeIso: lang,
+      },
     },
 
     collapsibleGroup: {
@@ -135,6 +140,12 @@ export function createEditorTools(
     sectionMarker: {
       class: SectionMarkerTool as unknown as ToolConstructable,
     },
+    textArea: {
+      class: TextAreaTool as unknown as ToolConstructable,
+      config: {
+        tools: createNestedEditorTools(),
+      },
+    },
 
     title: {
       class: TitleTool as unknown as ToolConstructable,
@@ -174,8 +185,8 @@ function createNestedEditorTools(): EditorTools {
     header: {
       class: Header as unknown as ToolConstructable,
       config: {
-        defaultLevel: 2,
-        levels: [2, 3, 4],
+        defaultLevel: 3,
+        levels: [3, 4],
       },
       inlineToolbar: ['link', 'bold', 'italic'],
     },

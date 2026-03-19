@@ -81,6 +81,18 @@ export default class CollapsibleGroupTool {
     this.editorHolder = document.createElement('div');
     this.editorHolder.className = 'cg-tool__editor-holder';
 
+    this.editorHolder.addEventListener('keydown', (event) => {
+      event.stopPropagation();
+    });
+
+    this.editorHolder.addEventListener('keyup', (event) => {
+      event.stopPropagation();
+    });
+
+    this.editorHolder.addEventListener('keypress', (event) => {
+      event.stopPropagation();
+    });
+
     this.body.appendChild(this.editorHolder);
     this.header.appendChild(this.arrow);
     this.header.appendChild(this.titleInput);

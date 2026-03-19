@@ -1,23 +1,36 @@
 .text-area-tool {
   border: 1px solid #d9d9d9;
   border-radius: 12px;
-  padding: 12px;
+  padding: 10px 12px;
   background: #fff;
+  transition:
+    border-color 0.18s ease,
+    box-shadow 0.18s ease;
 }
 
-.text-area-tool__input {
-  width: 100%;
-  min-height: 140px;
-  border: none;
-  outline: none;
-  resize: vertical;
-  font: inherit;
-  line-height: 1.5;
-  background: transparent;
-  box-sizing: border-box;
+.text-area-tool__editor-holder {
+  min-height: 36px;
 }
 
-.text-area-tool__read {
-  white-space: pre-wrap;
-  line-height: 1.5;
+.text-area-tool:focus-within {
+  border-color: #bf6b30;
+  box-shadow: 0 0 0 2px rgb(191 107 48 / 0.12);
+}
+
+.text-area-tool h3.ce-header,
+.text-area-tool h3.cdx-header,
+.cg-tool h3.ce-header,
+.cg-tool h3.cdx-header {
+  font-size: 1.5rem;
+  line-height: 1.2;
+  margin: 0.4em 0;
+}
+
+.text-area-tool h4.ce-header,
+.text-area-tool h4.cdx-header,
+.cg-tool h4.ce-header,
+.cg-tool h4.cdx-header {
+  font-size: 1.2rem;
+  line-height: 1.2;
+  margin: 0.35em 0;
 }

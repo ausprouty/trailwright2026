@@ -1,20 +1,28 @@
 import './TextAreaTool.css';
-import { icons } from 'src/components/editor/icons';
+
+import EditorJS, { type OutputData } from '@editorjs/editorjs';
 
 import {
   DEFAULT_TEXT_AREA_BLOCK_DATA,
   type TextAreaBlockData,
 } from 'src/types/content/TextAreaBlock';
+import { icons } from 'src/components/editor/icons';
 
-type TextAreaToolConstructorArgs = {
-  data?: Partial<TextAreaBlockData>;
-  readOnly?: boolean;
-};
+import type { TextAreaToolConfig, TextAreaToolConstructorArgs } from './types';
 
 export default class TextAreaTool {
+  private api: {
+    isReady: Promise<void>;
+    save: () => Promise<OutputData>;
+    destroy?: () => void;
+  } | null = null;
+
   private data: TextAreaBlockData;
   private readOnly: boolean;
-  private wrapper: HTMLDivElement | null;
+  private config: TextAreaToolConfig;
+
+  private wrapper!: HTMLDivElement;
+  private editorHolder!: HTMLDivElement;
 
   public static get toolbox() {
     return {
@@ -23,45 +31,80 @@ export default class TextAreaTool {
     };
   }
 
-  constructor({ data, readOnly }: TextAreaToolConstructorArgs = {}) {
-    this.data = {
-      ...DEFAULT_TEXT_AREA_BLOCK_DATA,
-      ...(data ?? {}),
-    };
-    this.readOnly = !!readOnly;
-    this.wrapper = null;
+  public static get isReadOnlySupported(): boolean {
+    return true;
   }
 
-  public render(): HTMLDivElement {
-    const wrapper = document.createElement('div');
-    wrapper.className = 'text-area-tool';
+  constructor({ data, config, readOnly }: TextAreaToolConstructorArgs = {}) {
+    this.readOnly = readOnly ?? false;
+    this.config = config ?? { tools: {} };
 
-    if (this.readOnly) {
-      const content = document.createElement('div');
-      content.className = 'text-area-tool__read';
-      content.textContent = this.data.text;
-      wrapper.appendChild(content);
-    } else {
-      const textarea = document.createElement('textarea');
-      textarea.className = 'text-area-tool__input';
-      textarea.value = this.data.text;
-      textarea.placeholder = 'Type here...';
-      textarea.rows = 6;
+    this.data = {
+      content: data?.content ?? DEFAULT_TEXT_AREA_BLOCK_DATA.content,
+    };
+  }
 
-      textarea.addEventListener('input', () => {
-        this.data.text = textarea.value;
-      });
+  public render(): HTMLElement {
+    this.wrapper = document.createElement('div');
+    this.wrapper.className = 'text-area-tool';
 
-      wrapper.appendChild(textarea);
+    this.editorHolder = document.createElement('div');
+    this.editorHolder.className = 'text-area-tool__editor-holder';
+
+    this.editorHolder.addEventListener('keydown', (event) => {
+      event.stopPropagation();
+    });
+
+    this.editorHolder.addEventListener('keyup', (event) => {
+      event.stopPropagation();
+    });
+
+    this.editorHolder.addEventListener('keypress', (event) => {
+      event.stopPropagation();
+    });
+
+    this.wrapper.appendChild(this.editorHolder);
+
+    void this.createNestedEditor();
+
+    return this.wrapper;
+  }
+
+  private async createNestedEditor(): Promise<void> {
+    this.api = new EditorJS({
+      holder: this.editorHolder,
+      readOnly: this.readOnly,
+      tools: this.config.tools,
+      data: this.data.content,
+      minHeight: 80,
+    });
+
+    await this.api.isReady;
+  }
+
+  public async save(): Promise<TextAreaBlockData> {
+    let content: OutputData = {
+      time: Date.now(),
+      blocks: [],
+    };
+
+    if (this.api) {
+      content = await this.api.save();
     }
 
-    this.wrapper = wrapper;
-    return wrapper;
+    return {
+      content,
+    };
   }
 
-  public save(): TextAreaBlockData {
-    return {
-      text: this.data.text,
-    };
+  public destroy(): void {
+    if (this.api && typeof this.api.destroy === 'function') {
+      this.api.destroy();
+      this.api = null;
+    }
+  }
+
+  public validate(savedData: TextAreaBlockData): boolean {
+    return Array.isArray(savedData.content.blocks);
   }
 }

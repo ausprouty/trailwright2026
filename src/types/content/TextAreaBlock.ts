@@ -1,7 +1,19 @@
+import type { OutputData } from '@editorjs/editorjs';
+
 export type TextAreaBlockData = {
-  text: string;
+  content: OutputData;
 };
 
 export const DEFAULT_TEXT_AREA_BLOCK_DATA: TextAreaBlockData = {
-  text: '',
+  content: {
+    time: Date.now(),
+    blocks: [
+      {
+        type: 'paragraph',
+        data: {
+          text: '',
+        },
+      },
+    ],
+  },
 };

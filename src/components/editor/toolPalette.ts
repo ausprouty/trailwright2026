@@ -1,9 +1,8 @@
-import ImageTool from '@editorjs/image';
-
 import BiblePassageTool from './tools/BiblePassageTool/BiblePassageTool';
 import BibleReferenceTool from './tools/BibleReferenceTool/BibleReferenceTool';
 import CollapsibleGroupTool from './tools/CollapsibleGroupTool/CollapsibleGroupTool';
 import CollapsibleTextTool from './tools/CollapsibleTextTool/CollapsibleTextTool';
+import ImageTool from './tools/ImageTool/ImageTool';
 import IWillTool from './tools/IWillTool/IWillTool';
 import LastTimeTool from './tools/LastTimeTool/LastTimeTool';
 import NotesAreaTool from './tools/NotesAreaTool/NotesAreaTool';

@@ -1,8 +1,13 @@
 .editor-icon {
-  width: 1.125rem;
-  height: 1.125rem;
+  width: 45px !important;
+  height: 45px !important;
   display: inline-block;
   vertical-align: middle;
+}
+
+.insert-panel__icon {
+  width: 45px !important;
+  height: 45px !important;
 }
 
 .editor-icon path {
@@ -11,11 +16,21 @@
   stroke-linejoin: round;
 }
 
+.editor-icon__stroke {
+  stroke: currentColor;
+  fill: none;
+}
+
 .editor-icon__fill {
   fill: currentColor;
 }
 
-.editor-icon__stroke {
-  stroke: currentColor;
-  fill: none;
+.ce-toolbox__button {
+  width: 45px !important;
+  height: 45px !important;
+}
+
+.ce-toolbox__button svg {
+  width: 45px !important;
+  height: 45px !important;
 }

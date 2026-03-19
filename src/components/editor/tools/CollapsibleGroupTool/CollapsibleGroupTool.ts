@@ -24,14 +24,12 @@ export default class CollapsibleGroupTool {
   private body!: HTMLDivElement;
   private editorHolder!: HTMLDivElement;
 
-  export default class CollapsibleGroupTool {
   public static get toolbox() {
     return {
       title: 'Collapsible Group',
       icon: icons.collapsibleGroup,
     };
   }
-
 
   public static get isReadOnlySupported(): boolean {
     return true;

@@ -1,4 +1,4 @@
-import type { BlockTool, ToolConfig } from '@editorjs/editorjs';
+import type { BlockTool } from '@editorjs/editorjs';
 import { getCurrentLanguage } from 'src/i18n/languageState';
 import { t } from 'src/i18n';
 import './SectionMarkerTool.css';

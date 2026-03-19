@@ -21,8 +21,8 @@ type EditorJSToolConstructorArgs = {
 export default class BibleReferenceTool {
   public static get toolbox() {
     return {
-      title: 'Bible Ref',
-      icon: icons.bibleReference,
+      title: 'Bible Passage',
+      icon: icons.biblePassage,
     };
   }
 

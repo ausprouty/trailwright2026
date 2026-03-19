@@ -131,6 +131,14 @@ export const icons = {
   <path class="editor-icon__stroke" d="M12 12L4.2 16.5" />
 </svg>
 `,
+  textArea: `
+<svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
+  <rect class="editor-icon__stroke" x="4" y="5" width="16" height="14" rx="2" />
+  <path class="editor-icon__stroke" d="M8 10H16" />
+  <path class="editor-icon__stroke" d="M8 13H16" />
+  <path class="editor-icon__stroke" d="M8 16H13" />
+</svg>
+`,
   title: `
 <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
   <path class="editor-icon__stroke" d="M5 6H19" />

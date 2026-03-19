@@ -1,13 +1,13 @@
 import BiblePassageTool from './tools/BiblePassageTool/BiblePassageTool';
 import BibleReferenceTool from './tools/BibleReferenceTool/BibleReferenceTool';
 import CollapsibleGroupTool from './tools/CollapsibleGroupTool/CollapsibleGroupTool';
-import CollapsibleTextTool from './tools/CollapsibleTextTool/CollapsibleTextTool';
 import ImageTool from './tools/ImageTool/ImageTool';
 import IWillTool from './tools/IWillTool/IWillTool';
 import LastTimeTool from './tools/LastTimeTool/LastTimeTool';
 import NotesAreaTool from './tools/NotesAreaTool/NotesAreaTool';
 import OikosListTool from './tools/OikosListTool/OikosListTool';
 import SectionMarkerTool from './tools/SectionMarker/SectionMarkerTool';
+import TextAreaTool from './tools/TextAreaTool/TextAreaTool';
 import TitleTool from './tools/TitleTool/TitleTool';
 import VideoTool from './tools/VideoTool/VideoTool';
 
@@ -47,13 +47,13 @@ function getToolboxMeta(
 const biblePassageMeta = getToolboxMeta(BiblePassageTool, 'Bible Passage');
 const bibleReferenceMeta = getToolboxMeta(BibleReferenceTool, 'Bible Reference');
 const collapsibleGroupMeta = getToolboxMeta(CollapsibleGroupTool, 'Collapsible Group');
-const collapsibleTextMeta = getToolboxMeta(CollapsibleTextTool, 'Collapsible Text');
 const imageMeta = getToolboxMeta(ImageTool, 'Image');
 const iWillMeta = getToolboxMeta(IWillTool, 'I Will');
 const lastTimeMeta = getToolboxMeta(LastTimeTool, 'Last Time');
 const notesAreaMeta = getToolboxMeta(NotesAreaTool, 'Notes Area');
 const oikosListMeta = getToolboxMeta(OikosListTool, 'Oikos List Area');
 const sectionMarkerMeta = getToolboxMeta(SectionMarkerTool, 'Section Marker');
+const textAreaMeta = getToolboxMeta(TextAreaTool, 'Text');
 const titleMeta = getToolboxMeta(TitleTool, 'Title');
 const videoMeta = getToolboxMeta(VideoTool, 'Video');
 
@@ -87,16 +87,7 @@ const rawInsertToolPalette: InsertToolItem[] = [
       items: [],
     },
   },
-  {
-    type: 'collapsibleText',
-    label: collapsibleTextMeta.label,
-    icon: collapsibleTextMeta.icon,
-    initialData: {
-      heading: '',
-      body: '',
-      isOpen: true,
-    },
-  },
+
   {
     type: 'iWill',
     label: iWillMeta.label,
@@ -136,6 +127,14 @@ const rawInsertToolPalette: InsertToolItem[] = [
     icon: sectionMarkerMeta.icon,
     initialData: {
       theme: 'back',
+    },
+  },
+  {
+    type: 'textArea',
+    label: textAreaMeta.label,
+    icon: textAreaMeta.icon,
+    initialData: {
+      text: '',
     },
   },
   {

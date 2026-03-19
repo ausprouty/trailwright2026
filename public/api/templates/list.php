@@ -3,10 +3,11 @@
 declare(strict_types=1);
 
 header('Access-Control-Allow-Origin: http://localhost:9000');
-header('Access-Control-Allow-Methods: GET, POST, OPTIONS');
+header('Access-Control-Allow-Methods: GET, OPTIONS');
 header(
     'Access-Control-Allow-Headers: ' .
-    'Content-Type, Authorization, X-API-Key, X-User-Token, X-Second-Token'
+    'Content-Type, Authorization, X-API-Key, ' .
+    'X-User-Token, X-Second-Token, X-Request-Id'
 );
 header('Content-Type: application/json; charset=utf-8');
 

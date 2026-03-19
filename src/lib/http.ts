@@ -53,7 +53,15 @@ http.interceptors.request.use((cfg: InternalAxiosRequestConfig) => {
     (cfg.headers as unknown as Record<string, string>)[k] = v;
   };
 
-  setHeader('X-Request-Id', makeRid());
+  const isLocalPhpApi = String(process.env.API_BASE_URL || '').includes(
+    'localhost/trailwright/public/api',
+  );
+
+  const isGet = method === 'GET';
+
+  if (!(isLocalPhpApi && isGet)) {
+    setHeader('X-Request-Id', makeRid());
+  }
 
   const apiKey = String(import.meta.env.VITE_API_KEY || '').trim();
   if (apiKey) setHeader('X-API-Key', apiKey);

@@ -80,7 +80,7 @@ async function saveContent(lang: string, fileName: string, content: OutputData):
   const safeFileName = assertFileName(fileName);
   const safeContent = normalizeOutputData(content);
 
-  const response = await http.post<ContentSaveResponse>('/content/save.php', {
+  const response = await http.post<ContentSaveResponse>('content/save.php', {
     lang: safeLang,
     fileName: safeFileName,
     content: safeContent,
@@ -96,7 +96,7 @@ async function saveContent(lang: string, fileName: string, content: OutputData):
 async function listContent(lang: string): Promise<ContentListItem[]> {
   const safeLang = assertLang(lang);
 
-  const response = await http.get<ContentListResponse>('/content/list.php', {
+  const response = await http.get<ContentListResponse>('content/list.php', {
     params: { lang: safeLang },
   });
 
@@ -121,7 +121,7 @@ async function getContent(lang: string, fileName: string): Promise<OutputData | 
   const safeFileName = assertFileName(fileName);
 
   try {
-    const response = await http.get<ContentGetResponse>('/content/get.php', {
+    const response = await http.get<ContentGetResponse>('content/get.php', {
       params: {
         lang: safeLang,
         fileName: safeFileName,

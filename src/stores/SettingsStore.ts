@@ -1,14 +1,14 @@
 import { defineStore } from 'pinia';
 
 type LanguageTextObjectSelected = {
-  languageCodeIso?: string;
+  languageCodeGoogle?: string;
 };
 
 export const useSettingsStore = defineStore('settings', {
   state: () => ({
     currentStudySelected: '' as string,
     textLanguageObjectSelected: {
-      languageCodeIso: 'en',
+      languageCodeGoogle: 'en',
     } as LanguageTextObjectSelected,
   }),
 });

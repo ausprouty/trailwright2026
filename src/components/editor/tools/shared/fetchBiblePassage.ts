@@ -2,7 +2,7 @@ import { http } from 'src/lib/http';
 
 export type BibleToolConfig = {
   endpointPath?: string;
-  languageCodeIso?: string;
+  languageCodeGoogle?: string;
 };
 
 export async function fetchBiblePassage(
@@ -10,12 +10,13 @@ export async function fetchBiblePassage(
   config: BibleToolConfig,
 ): Promise<string> {
   const endpointPath = config.endpointPath ?? '/v2/bible/passage';
-  const languageCodeIso = config.languageCodeIso ?? 'eng00';
+  const languageCodeGoogle = config.languageCodeGoogle ?? 'en';
 
   const payload = {
     entry: reference,
-    languageCodeIso,
+    languageCodeGoogle,
   };
+  console.log('fetchBiblePassage baseURL', http.defaults.baseURL);
   console.log('fetchBiblePassage endpointPath', endpointPath);
   console.log('fetchBiblePassage payload', payload);
 

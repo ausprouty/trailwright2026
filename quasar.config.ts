@@ -13,6 +13,15 @@ export default defineConfig(() => {
     extras: ['roboto-font', 'material-icons'],
 
     build: {
+      env: {
+        API_BASE_URL: process.env.VITE_API_BASE_URL || 'http://localhost/trailwright/public/api',
+
+        BIBLE_ENDPOINT_URL: process.env.VITE_BIBLE_ENDPOINT_URL || 'bible/passage.php',
+
+        IMAGE_UPLOAD_URL:
+          process.env.VITE_IMAGE_UPLOAD_URL ||
+          'http://localhost/trailwright/public/api/upload-image.php',
+      },
       target: {
         browser: ['es2022', 'firefox115', 'chrome115', 'safari14'],
         node: 'node20',

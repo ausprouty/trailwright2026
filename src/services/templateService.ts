@@ -79,7 +79,7 @@ export async function fetchTemplateList(lang: string): Promise<TemplateListItem[
   const safeLang = assertLang(lang);
 
   try {
-    const response = await http.get<TemplateListResponse>('/templates/list.php', {
+    const response = await http.get<TemplateListResponse>('templates/list.php', {
       params: { lang: safeLang },
     });
 
@@ -123,7 +123,7 @@ export async function fetchTemplateContent(
   const safeTemplate = assertTemplateKey(template);
 
   try {
-    const response = await http.get<TemplateContentResponse>('/templates/get.php', {
+    const response = await http.get<TemplateContentResponse>('templates/get.php', {
       params: {
         lang: safeLang,
         template: safeTemplate,

@@ -15,16 +15,16 @@ const cleanedNote = ref('');
 const noteLines = ref<string[]>([]);
 const hasNote = ref(false);
 
-const languageCodeIso = computed(() => {
+const languageCodeGoogle = computed(() => {
   const obj = settingsStore.textLanguageObjectSelected || null;
-  let code = obj && obj.languageCodeIso ? String(obj.languageCodeIso) : '';
+  let code = obj && obj.languageCodeGoogle ? String(obj.languageCodeGoogle) : '';
 
   code = code.trim().toLowerCase();
 
   return code || 'en';
 });
 
-const { getSection } = useSiteContent(languageCodeIso);
+const { getSection } = useSiteContent(languageCodeGoogle);
 
 const review = computed(() => {
   return getSection('review');
@@ -89,7 +89,7 @@ watch(
 );
 
 watch(
-  () => languageCodeIso.value,
+  () => languageCodeGoogle.value,
   () => {
     void loadPreviousNote();
   },

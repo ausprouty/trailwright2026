@@ -7,7 +7,12 @@ header('Content-Type: application/json; charset=utf-8');
 
 if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
     header('Access-Control-Allow-Methods: POST, OPTIONS');
-    header('Access-Control-Allow-Headers: Content-Type, Authorization, X-API-Key, X-User-Token, X-Second-Token');
+    
+    header(
+        'Access-Control-Allow-Headers: ' .
+        'Content-Type, Authorization, X-API-Key, ' .
+        'X-User-Token, X-Second-Token, X-Request-Id'
+    );
     exit;
 }
 
@@ -40,8 +45,8 @@ if (!is_array($payload)) {
 }
 
 $entry = isset($payload['entry']) ? trim((string) $payload['entry']) : '';
-$languageCodeIso = isset($payload['languageCodeIso'])
-    ? trim((string) $payload['languageCodeIso'])
+$languageCodeGoogle = isset($payload['languageCodeGoogle'])
+    ? trim((string) $payload['languageCodeGoogle'])
     : '';
 
 if ($entry === '') {
@@ -52,8 +57,8 @@ if ($entry === '') {
     exit;
 }
 
-if ($languageCodeIso === '') {
-    $languageCodeIso = 'eng00';
+if ($languageCodeGoogle === '') {
+    $languageCodeGoogle = 'eng00';
 }
 
 $remoteUrl = 'https://api2.mylanguage.net.au/api/v2/bible/passage';
@@ -68,9 +73,12 @@ if ($ch === false) {
     exit;
 }
 
+error_log('Bible proxy hit: method=' . $_SERVER['REQUEST_METHOD']);
+error_log('Bible proxy raw body: ' . (string) $raw);
+
 $requestBody = json_encode([
     'entry' => $entry,
-    'languageCodeIso' => $languageCodeIso,
+    'languageCodeGoogle' => $languageCodeGoogle,
 ], JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
 
 curl_setopt_array($ch, [
@@ -89,6 +97,10 @@ $httpCode = (int) curl_getinfo($ch, CURLINFO_HTTP_CODE);
 $curlError = curl_error($ch);
 
 curl_close($ch);
+
+error_log('Bible proxy httpCode: ' . (string) $httpCode);
+error_log('Bible proxy curlError: ' . (string) $curlError);
+error_log('Bible proxy response: ' . (string) $response);
 
 if ($response === false) {
     http_response_code(502);

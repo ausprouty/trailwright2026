@@ -57,7 +57,7 @@ export function createEditorTools(
       class: BiblePassageTool as unknown as ToolConstructable,
       config: {
         endpointPath: DEFAULT_BIBLE_ENDPOINT_PATH,
-        languageCodeIso: lang,
+        languageCodeGoogle: lang,
       },
     },
 
@@ -65,7 +65,7 @@ export function createEditorTools(
       class: BibleReferenceTool as unknown as ToolConstructable,
       config: {
         endpointPath: DEFAULT_BIBLE_ENDPOINT_PATH,
-        languageCodeIso: lang,
+        languageCodeGoogle: lang,
       },
     },
 

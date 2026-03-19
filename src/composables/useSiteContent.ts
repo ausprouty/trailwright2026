@@ -5,11 +5,11 @@ type SiteSection = {
   empty?: string;
 };
 
-export function useSiteContent(languageCodeIso: ComputedRef<string>) {
+export function useSiteContent(languageCodeGoogle: ComputedRef<string>) {
   function getSection(sectionName: string): SiteSection {
     console.log('[useSiteContent] getSection', {
       sectionName,
-      languageCodeIso: languageCodeIso.value,
+      languageCodeGoogle: languageCodeGoogle.value,
     });
 
     if (sectionName === 'review') {

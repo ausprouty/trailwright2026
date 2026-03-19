@@ -9,7 +9,7 @@ export type BiblePassageBlockData = {
 
 export type BiblePassageToolConfig = {
   endpointPath?: string;
-  languageCodeIso?: string;
+  languageCodeGoogle?: string;
   lang?: LanguageCode;
 };
 

@@ -1,3 +1,5 @@
+import axios from 'axios';
+
 import { http } from 'src/lib/http';
 
 export type BibleToolConfig = {
@@ -16,14 +18,31 @@ export async function fetchBiblePassage(
     entry: reference,
     languageCodeGoogle,
   };
-  console.log('fetchBiblePassage baseURL', http.defaults.baseURL);
-  console.log('fetchBiblePassage endpointPath', endpointPath);
-  console.log('fetchBiblePassage payload', payload);
 
-  const res = await http.post(endpointPath, payload);
-  const data: unknown = res && res.data ? res.data : res;
+  try {
+    const res = await http.post(endpointPath, payload);
+    const data: unknown = res && res.data ? res.data : res;
 
-  return extractPassageFromJson(data).trim();
+    return extractPassageFromJson(data).trim();
+  } catch (error: unknown) {
+    if (!navigator.onLine) {
+      throw new Error('You appear to be offline.');
+    }
+
+    if (axios.isAxiosError(error)) {
+      const status = error.response?.status;
+
+      if (status && status >= 500) {
+        throw new Error('The Bible service is temporarily unavailable.');
+      }
+
+      if (status && status >= 400) {
+        throw new Error('Could not load passage. Check the reference and try again.');
+      }
+    }
+
+    throw new Error('Could not contact the Bible service.');
+  }
 }
 
 export function extractPassageFromJson(json: unknown): string {

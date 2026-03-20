@@ -213,15 +213,37 @@ export default class BibleReferenceTool {
     });
   }
 
+  private validateMarker(marker: string): string | null {
+    const trimmed = marker.trim();
+
+    if (!trimmed) {
+      return 'No reference to load';
+    }
+
+    if (trimmed.includes(',')) {
+      return (
+        'Multiple non-contiguous verses are not supported yet. ' +
+        'Please enter a single verse or a continuous range, ' +
+        'for example John 3:16 or John 3:16-18.'
+      );
+    }
+
+    return null;
+  }
+
   private async loadReference(
     ref: BibleReferenceItem,
     statusEl: HTMLDivElement,
     loadButton: HTMLButtonElement,
     passagePreview: HTMLDivElement,
   ): Promise<void> {
-    if (!ref.marker.trim()) {
+    const validationError = this.validateMarker(ref.marker);
+
+    if (validationError) {
       statusEl.dataset.state = 'error';
-      statusEl.textContent = 'Status: No reference to load';
+      statusEl.textContent = `Status: ${validationError}`;
+      passagePreview.textContent = 'No Bible text loaded yet.';
+      passagePreview.dataset.empty = 'true';
       return;
     }
 

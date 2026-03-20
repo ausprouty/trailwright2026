@@ -54,7 +54,7 @@
   padding: 10px 12px;
 }
 
-.bible-reference-tool__passage-preview[data-empty="true"] {
+.bible-reference-tool__passage-preview[data-empty='true'] {
   color: #6b7280;
   font-style: italic;
 }
@@ -166,15 +166,17 @@
   margin-bottom: 8px;
 }
 
-.bible-reference-tool__status[data-state="error"] {
-  color: #b3261e;
+.bible-reference-tool__status[data-state='error'] {
+  color: #7a1111;
+  background: #fde7e7;
+  border: 1px solid #d98c8c;
 }
 
-.bible-reference-tool__status[data-state="info"] {
+.bible-reference-tool__status[data-state='info'] {
   color: #5b6470;
 }
 
-.bible-reference-tool__status[data-state="success"] {
+.bible-reference-tool__status[data-state='success'] {
   color: #2f7d32;
 }
 

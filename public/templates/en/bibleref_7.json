@@ -1,0 +1,22 @@
+{
+    "time": 1774042278198,
+    "blocks": [
+        {
+            "id": "-adWHpNxYK",
+            "type": "bibleReference",
+            "data": {
+                "text": "I want to have text like {John 3: 1, 14}",
+                "references": [
+                    {
+                        "id": "ref_97y8bq6z",
+                        "marker": "John 3: 1, 14",
+                        "label": "John 3: 1, 14",
+                        "passage": "3&nbsp;Now there was a Pharisee, a man named Nicodemus who was a member of the Jewish ruling council. "
+                    }
+                ],
+                "isOpen": true
+            }
+        }
+    ],
+    "version": "2.31.5"
+}

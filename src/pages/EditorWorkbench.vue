@@ -97,17 +97,22 @@ function askTemplateFileName(): string | null {
 
   const response = window.prompt('Save template as:', suggested);
 
-  if (!response) {
+  if (response === null) {
     return null;
   }
 
-  const trimmed = response.trim();
+  const safeName = response
+    .trim()
+    .toLowerCase()
+    .replace(/\s+/g, '_')
+    .replace(/[^a-z0-9_-]/g, '');
 
-  if (!trimmed) {
+  if (!safeName) {
+    window.alert('Please enter a valid file name.');
     return null;
   }
 
-  return trimmed.replace(/\.json$/i, '');
+  return safeName;
 }
 
 watch(
@@ -174,31 +179,32 @@ async function onSaveDraft(): Promise<void> {
 }
 
 async function onSave(): Promise<void> {
-  if (!editorHost.value) {
+  const templateName = askTemplateFileName();
+
+  if (!templateName) {
     return;
   }
 
-  const saved = await editorHost.value.save();
+  const saved = await editorHost.value?.save();
 
   if (!saved) {
     return;
   }
 
-  const fileName = askTemplateFileName();
+  await saveTemplateContent(currentLang.value, templateName, saved);
+  await refreshTemplates(currentLang.value);
+  selectedTemplateKey.value = templateName;
+}
 
-  if (!fileName) {
+async function onClear(): Promise<void> {
+  localStorage.removeItem(STORAGE_KEY);
+
+  if (!editorHost.value) {
+    output.value = getEmptyOutput();
     return;
   }
 
-  await saveTemplateContent(currentLang.value, fileName, saved);
-  output.value = saved;
-  await refreshTemplates(currentLang.value);
-  selectedTemplateKey.value = fileName;
-}
-
-function onClear(): void {
-  localStorage.removeItem(STORAGE_KEY);
-  output.value = getEmptyOutput();
+  await editorHost.value.clear();
 }
 </script>
 

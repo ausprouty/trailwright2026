@@ -1,5 +1,6 @@
 import axios from 'axios';
 import { http } from 'src/lib/http';
+import type { LanguageCode } from 'src/i18n';
 
 export type TemplateListItem = {
   key: string;
@@ -10,6 +11,11 @@ type EditorBlockData = {
   id?: string;
   type: string;
   data: Record<string, unknown>;
+};
+type OutputData = {
+  blocks: EditorBlockData[];
+  time?: number;
+  version?: string;
 };
 
 export type TemplateContent = {
@@ -31,6 +37,17 @@ type TemplateContentResponse = {
   error?: string;
 };
 
+export async function saveTemplateContent(
+  lang: LanguageCode,
+  template: string,
+  content: OutputData,
+): Promise<void> {
+  await http.post('templates/save.php', {
+    lang,
+    template,
+    content,
+  });
+}
 function assertLang(lang: string): string {
   const value = lang.trim();
 

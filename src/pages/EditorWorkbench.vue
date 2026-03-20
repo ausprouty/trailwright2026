@@ -10,6 +10,7 @@ import { getCurrentLanguage, setCurrentLanguage } from 'src/i18n/languageState';
 import {
   fetchTemplateList,
   fetchTemplateContent,
+  saveTemplateContent,
   type TemplateListItem,
 } from 'src/services/templateService';
 
@@ -90,6 +91,25 @@ async function refreshTemplates(lang: LanguageCode): Promise<void> {
   }
 }
 
+function askTemplateFileName(): string | null {
+  const templatePart = selectedTemplateKey.value || 'document';
+  const suggested = templatePart.replace(/\.json$/i, '');
+
+  const response = window.prompt('Save template as:', suggested);
+
+  if (!response) {
+    return null;
+  }
+
+  const trimmed = response.trim();
+
+  if (!trimmed) {
+    return null;
+  }
+
+  return trimmed.replace(/\.json$/i, '');
+}
+
 watch(
   currentLang,
   async (lang) => {
@@ -129,65 +149,28 @@ async function onLoadTemplate(): Promise<void> {
   output.value = nextOutput;
 }
 
-function buildDefaultFileName(): string {
-  const templatePart = selectedTemplateKey.value || 'document';
-  const langPart = currentLang.value || 'en';
-  return `${templatePart}-${langPart}.json`;
-}
+function onRetrieveDraft(): void {
+  const raw = localStorage.getItem(STORAGE_KEY);
 
-function downloadJsonFile(saved: OutputData, fileName: string): void {
-  const json = JSON.stringify(saved, null, 2);
-  const blob = new Blob([json], {
-    type: 'application/json',
-  });
-  const url = URL.createObjectURL(blob);
-
-  const link = document.createElement('a');
-  link.href = url;
-  link.download = fileName;
-  link.click();
-
-  URL.revokeObjectURL(url);
-}
-
-async function saveWithPicker(saved: OutputData): Promise<void> {
-  const picker = (
-    window as Window & {
-      showSaveFilePicker?: (options?: {
-        suggestedName?: string;
-        types?: Array<{
-          description?: string;
-          accept: Record<string, string[]>;
-        }>;
-      }) => Promise<{
-        createWritable: () => Promise<{
-          write: (data: string) => Promise<void>;
-          close: () => Promise<void>;
-        }>;
-      }>;
-    }
-  ).showSaveFilePicker;
-
-  if (!picker) {
-    downloadJsonFile(saved, buildDefaultFileName());
+  if (!raw) {
     return;
   }
 
-  const handle = await picker({
-    suggestedName: buildDefaultFileName(),
-    types: [
-      {
-        description: 'JSON Files',
-        accept: {
-          'application/json': ['.json'],
-        },
-      },
-    ],
-  });
+  output.value = JSON.parse(raw) as OutputData;
+}
+async function onSaveDraft(): Promise<void> {
+  if (!editorHost.value) {
+    return;
+  }
 
-  const writable = await handle.createWritable();
-  await writable.write(JSON.stringify(saved, null, 2));
-  await writable.close();
+  const saved = await editorHost.value.save();
+
+  if (!saved) {
+    return;
+  }
+
+  output.value = saved;
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(saved));
 }
 
 async function onSave(): Promise<void> {
@@ -201,10 +184,16 @@ async function onSave(): Promise<void> {
     return;
   }
 
-  output.value = saved;
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(saved));
+  const fileName = askTemplateFileName();
 
-  await saveWithPicker(saved);
+  if (!fileName) {
+    return;
+  }
+
+  await saveTemplateContent(currentLang.value, fileName, saved);
+  output.value = saved;
+  await refreshTemplates(currentLang.value);
+  selectedTemplateKey.value = fileName;
 }
 
 function onClear(): void {
@@ -265,8 +254,26 @@ function onClear(): void {
               Save
             </button>
 
+            <button
+              id="btn-save-draft"
+              type="button"
+              class="button button--secondary"
+              @click="onSaveDraft"
+            >
+              Save Draft
+            </button>
+
+            <button
+              id="btn-retrieve-draft"
+              type="button"
+              class="button button--ghost"
+              @click="onRetrieveDraft"
+            >
+              Retrieve Draft
+            </button>
+
             <button id="btn-clear" type="button" class="button button--ghost" @click="onClear">
-              Clear
+              Clear Draft
             </button>
 
             <button

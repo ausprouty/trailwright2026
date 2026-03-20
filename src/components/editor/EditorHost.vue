@@ -41,15 +41,20 @@ const editorInstance = ref<EditorInstance | null>(null);
 const isApplyingExternalData = ref(false);
 const lastSavedJson = ref('');
 let rootElement: HTMLElement | null = null;
+
 function stableStringify(value: unknown): string {
   return JSON.stringify(value ?? null);
+}
+
+function toPlainOutput(value?: OutputData): OutputData {
+  return JSON.parse(JSON.stringify(value || getEmptyOutput())) as OutputData;
 }
 
 function getEmptyOutput(): OutputData {
   return {
     blocks: [],
     time: Date.now(),
-    version: '2.31.4',
+    version: '2.31.5',
   };
 }
 
@@ -196,7 +201,8 @@ watch(
     isApplyingExternalData.value = true;
 
     try {
-      await editor.render(newValue || getEmptyOutput());
+      const plainOutput = toPlainOutput(newValue);
+      await editor.render(plainOutput);
 
       const saved = await editor.save();
       lastSavedJson.value = stableStringify(saved);
@@ -232,7 +238,8 @@ const exposed: EditorHostExposed = {
     isApplyingExternalData.value = true;
 
     try {
-      await editor.render(output);
+      const plainOutput = toPlainOutput(output);
+      await editor.render(plainOutput);
       await syncFromEditor();
     } finally {
       isApplyingExternalData.value = false;

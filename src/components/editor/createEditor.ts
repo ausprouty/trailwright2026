@@ -35,13 +35,38 @@ export type EditorInstance = {
       index?: number,
       needToFocus?: boolean,
     ) => void;
+    render: (data: OutputData) => Promise<void>;
   };
 };
 
+function toPlainOutput(data?: OutputData): OutputData | undefined {
+  if (!data) {
+    return undefined;
+  }
+
+  return JSON.parse(JSON.stringify(data)) as OutputData;
+}
+
 export function createEditor({ holder, data, lang }: CreateEditorOptions): EditorInstance {
-  return new EditorJS({
-    holder,
-    tools: createEditorTools(lang),
-    ...(data ? { data } : {}),
-  }) as EditorInstance;
+  const plainData = toPlainOutput(data);
+
+  const config = plainData
+    ? {
+        holder,
+        tools: createEditorTools(lang),
+        data: plainData,
+      }
+    : {
+        holder,
+        tools: createEditorTools(lang),
+      };
+
+  const editor = new EditorJS(config) as EditorInstance;
+
+  editor.render = async (nextData: OutputData): Promise<void> => {
+    await editor.isReady;
+    await editor.blocks.render(toPlainOutput(nextData) as OutputData);
+  };
+
+  return editor;
 }

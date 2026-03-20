@@ -1,0 +1,25 @@
+{
+  "time": 1774000000000,
+  "version": "2.31.5",
+  "blocks": [
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "meta": {},
+        "items": [
+          {
+            "content": "first item",
+            "meta": {},
+            "items": []
+          },
+          {
+            "content": "second item",
+            "meta": {},
+            "items": []
+          }
+        ]
+      }
+    }
+  ]
+}

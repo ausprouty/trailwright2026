@@ -58,26 +58,40 @@ http.interceptors.request.use((cfg: InternalAxiosRequestConfig) => {
   );
 
   const isGet = method === 'GET';
+  const isBiblePost = isBiblePassagePost(method, urlPath);
 
-  if (!(isLocalPhpApi && isGet)) {
+  if (!(isLocalPhpApi && (isGet || isBiblePost))) {
     setHeader('X-Request-Id', makeRid());
   }
 
   const apiKey = String(import.meta.env.VITE_API_KEY || '').trim();
-  if (apiKey) setHeader('X-API-Key', apiKey);
+  if (apiKey && !isBiblePost) {
+    setHeader('X-API-Key', apiKey);
+  }
 
   const bearer = safeGetStorage('auth_token');
   const second = safeGetStorage('second_token');
   const postCode = String(import.meta.env.VITE_POST_AUTH_CODE || '').trim();
 
-  if (isBiblePassagePost(method, urlPath)) {
-    if (postCode) setHeader('Authorization', `Bearer ${postCode}`);
-    if (bearer) setHeader('X-User-Token', bearer);
+  if (isBiblePost) {
+    if (!(isLocalPhpApi && urlPath.match(/\/v2\/bible\/passage\/?$/i))) {
+      if (postCode) setHeader('Authorization', `Bearer ${postCode}`);
+      if (bearer) setHeader('X-User-Token', bearer);
+    }
   } else {
     if (bearer) setHeader('Authorization', `Bearer ${bearer}`);
   }
 
-  if (second) setHeader('X-Second-Token', second);
-
+  if (second && !isBiblePost) {
+    setHeader('X-Second-Token', second);
+  }
+  console.log('HTTP request', {
+    method,
+    urlPath,
+    baseURL: cfg.baseURL,
+    finalUrl: `${cfg.baseURL || ''}${urlPath}`,
+    isBiblePost,
+    headers: cfg.headers,
+  });
   return cfg;
 });

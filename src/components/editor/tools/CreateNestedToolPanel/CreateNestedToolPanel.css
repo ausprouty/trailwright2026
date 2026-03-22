@@ -1,0 +1,65 @@
+.nested-tool-panel {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 8px;
+  margin: 14px 0 0;
+  padding: 10px;
+  border: 1px solid #ccb39a;
+  border-radius: 10px;
+  background: #f8f4ef;
+}
+
+.nested-tool-panel__title {
+  grid-column: 1 / -1;
+  margin: 0 0 2px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #6b4f3a;
+}
+
+.nested-tool-panel__button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  width: 100%;
+  min-height: 60px;
+  padding: 8px 6px;
+  border: 1px solid #cdb8a3;
+  border-radius: 8px;
+  background: #fffdfa;
+  color: #5e4a3a;
+  cursor: pointer;
+  font: inherit;
+  text-align: center;
+}
+
+.nested-tool-panel__button:hover {
+  background: #f3ebe2;
+}
+
+.nested-tool-panel__button:focus-visible {
+  outline: 2px solid #a8794f;
+  outline-offset: 2px;
+}
+
+.nested-tool-panel__icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  color: #8a5a36;
+}
+
+.nested-tool-panel__icon .editor-icon {
+  width: 24px !important;
+  height: 24px !important;
+}
+
+.nested-tool-panel__label {
+  min-width: 0;
+  line-height: 1.1;
+  text-align: center;
+  font-size: 0.8rem;
+}

@@ -35,3 +35,7 @@ yarn-error.log*
 translator.env
 
 .translator/
+
+#public
+/public/content
+/public/templates

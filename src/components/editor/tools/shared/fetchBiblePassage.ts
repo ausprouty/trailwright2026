@@ -20,6 +20,12 @@ export async function fetchBiblePassage(
   };
 
   try {
+    console.log('fetchBiblePassage reference', reference);
+    console.log('fetchBiblePassage config', config);
+    console.log('fetchBiblePassage endpointPath', endpointPath);
+    console.log('fetchBiblePassage languageCodeGoogle', languageCodeGoogle);
+    console.log('fetchBiblePassage payload', payload);
+    console.log('fetchBiblePassage using http baseURL', http.defaults.baseURL);
     const res = await http.post(endpointPath, payload);
     const data: unknown = res && res.data ? res.data : res;
 

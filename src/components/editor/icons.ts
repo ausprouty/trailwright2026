@@ -25,26 +25,19 @@ export const icons = {
 `,
   bibleReference: `
 <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
-  <!-- Left page -->
   <path class="editor-icon__stroke"
     d="M4 6
        C6 5, 8.5 5, 11 6
        V18
        C8.5 17, 6 17, 4 18
        Z" />
-
-  <!-- Right page -->
   <path class="editor-icon__stroke"
     d="M20 6
        C18 5, 15.5 5, 13 6
        V18
        C15.5 17, 18 17, 20 18
        Z" />
-
-  <!-- Center fold -->
   <path class="editor-icon__stroke" d="M12 6V18" />
-
-  <!-- Verse lines (key difference) -->
   <path class="editor-icon__stroke" d="M6.5 10H9" />
   <path class="editor-icon__stroke" d="M6.5 13H9" />
   <path class="editor-icon__stroke" d="M15 10H17.5" />
@@ -67,7 +60,7 @@ export const icons = {
 </svg>
 `,
   image: `
-  <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
+<svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
   <rect
     class="editor-icon__stroke"
     x="4"
@@ -86,7 +79,8 @@ export const icons = {
     class="editor-icon__stroke"
     d="M6.5 16L11 12L13.5 14.5L16 12.5L17.5 14L19 16"
   />
-</svg>`,
+</svg>
+`,
   iWill: `
 <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
   <path class="editor-icon__stroke" d="M9 11.5 11 13.5 15 9.5"/>
@@ -95,11 +89,8 @@ export const icons = {
 `,
   lastTime: `
 <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
-  <!-- Clock -->
   <circle class="editor-icon__stroke" cx="12" cy="12" r="7" />
   <path class="editor-icon__stroke" d="M12 8V12L15 14" />
-
-  <!-- Back arrow -->
   <path class="editor-icon__stroke" d="M7 5L4 8L7 11" />
 </svg>
 `,
@@ -113,14 +104,21 @@ export const icons = {
 `,
   oikosList: `
 <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
-  <!-- Head -->
   <circle class="editor-icon__stroke" cx="12" cy="8" r="3" />
-
-  <!-- Shoulders -->
   <path class="editor-icon__stroke"
     d="M5 18
        C5 14.5, 8.5 13, 12 13
        C15.5 13, 19 14.5, 19 18" />
+</svg>
+`,
+  orderedList: `
+<svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
+  <path class="editor-icon__stroke" d="M10 7H19" />
+  <path class="editor-icon__stroke" d="M10 12H19" />
+  <path class="editor-icon__stroke" d="M10 17H19" />
+  <path class="editor-icon__stroke" d="M5.5 7H6.5" />
+  <path class="editor-icon__stroke" d="M5 11.5C5.4 11 5.9 10.75 6.4 10.75C7.1 10.75 7.5 11.15 7.5 11.7C7.5 12.15 7.15 12.5 6.7 12.8L5 14H7.5" />
+  <path class="editor-icon__stroke" d="M5 16.2C5.35 15.9 5.8 15.75 6.2 15.75C7 15.75 7.5 16.15 7.5 16.8C7.5 17.45 7 17.9 6.2 17.9C5.75 17.9 5.3 17.75 5 17.45" />
 </svg>
 `,
   sectionMarker: `
@@ -143,6 +141,16 @@ export const icons = {
 <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
   <path class="editor-icon__stroke" d="M5 6H19" />
   <path class="editor-icon__stroke" d="M12 6V18" />
+</svg>
+`,
+  unorderedList: `
+<svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
+  <circle class="editor-icon__fill" cx="6" cy="7" r="1.4" />
+  <circle class="editor-icon__fill" cx="6" cy="12" r="1.4" />
+  <circle class="editor-icon__fill" cx="6" cy="17" r="1.4" />
+  <path class="editor-icon__stroke" d="M10 7H19" />
+  <path class="editor-icon__stroke" d="M10 12H19" />
+  <path class="editor-icon__stroke" d="M10 17H19" />
 </svg>
 `,
   video: `

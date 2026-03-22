@@ -2,7 +2,7 @@
   border: 1px solid #d8dee4;
   border-radius: 10px;
   background: #ffffff;
-  margin: 12px 0;
+  margin: 12px 8px 12px 0;
   overflow: hidden;
 }
 
@@ -10,31 +10,31 @@
   width: 100%;
   display: flex;
   align-items: center;
-  gap: 10px;
-  border: 0;
+  justify-content: space-between;
+  gap: 12px;
   background: #f7f8fa;
   padding: 12px 14px;
-  cursor: pointer;
   text-align: left;
 }
 
-.cg-tool__header:hover {
-  background: #eef2f6;
+.cg-tool__header-main {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
-.cg-tool__arrow {
-  display: inline-flex;
-  width: 18px;
-  justify-content: center;
+.cg-tool__actions {
+  display: flex;
   align-items: center;
-  transition: transform 0.18s ease;
-  color: #44546a;
-  font-size: 14px;
-  flex: 0 0 18px;
+  gap: 6px;
+  flex: 0 0 auto;
 }
 
 .cg-tool__title {
-  flex: 1;
+  flex: 1 1 auto;
+  min-width: 0;
   border: 0;
   background: transparent;
   font-size: 16px;
@@ -47,14 +47,70 @@
   color: #7b8794;
 }
 
+.cg-tool__action-btn {
+  border: 0;
+  background: transparent;
+  color: #44546a;
+  font-size: 24px;
+  font-weight: 700;
+  width: 36px;
+  height: 36px;
+  min-width: 36px;
+  min-height: 36px;
+  padding: 0;
+  cursor: pointer;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cg-tool__action-btn:hover {
+  text-decoration: underline;
+}
+
+.cg-tool__edit-btn {
+  border: 0;
+  background: transparent;
+  color: #44546a;
+  font-size: 18px;
+  font-weight: 600;
+  height: 36px;
+  padding: 0 8px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .cg-tool__body {
-  padding: 14px;
+  padding: 16px;
   border-top: 1px solid #e6ebf1;
-  min-height: 90px;
+  background: #ffffff;
+}
+
+.cg-tool__editor-frame {
+  border: 1px solid #d8dee4;
+  border-radius: 10px;
+  background: #fcfdff;
+  padding: 14px;
+  min-height: 140px;
 }
 
 .cg-tool__editor-holder {
-  min-height: 80px;
+  min-height: 110px;
+}
+
+.cg-tool--collapsed .cg-tool__body {
+  display: none;
+}
+
+.cg-tool--editing {
+  border: 2px solid #8b5e3c;
+  box-shadow: 0 0 0 2px rgba(139, 94, 60, 0.18);
+}
+.cg-tool--editing .cg-tool__header {
+  background: #f6efe8;
 }
 
 .cg-tool .ce-block__content,

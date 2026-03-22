@@ -5,11 +5,13 @@ import { fetchBiblePassage, type BibleToolConfig } from '../shared/fetchBiblePas
 import type { BibleReferenceItem } from 'src/types/shared/BibleReferenceItem';
 import type { BibleReferenceToolData, EditorJSToolConstructorArgs } from './types';
 import { icons } from 'src/components/editor/icons';
+
 export default class BibleReferenceTool {
   private data: BibleReferenceToolData;
   private readonly readOnly: boolean;
   private readonly config: BibleToolConfig;
   private isEditing = true;
+  private expandedRefs = new Set<string>();
   private headerEl!: HTMLButtonElement;
   private bodyEl!: HTMLDivElement;
   private wrapper!: HTMLDivElement;
@@ -36,6 +38,12 @@ export default class BibleReferenceTool {
       isOpen: typeof data?.isOpen === 'boolean' ? data.isOpen : true,
     };
     this.isEditing = !this.readOnly;
+
+    this.data.references.forEach((ref) => {
+      if (!ref.passage) {
+        this.expandedRefs.add(ref.id);
+      }
+    });
   }
 
   public static get toolbox() {
@@ -70,45 +78,69 @@ export default class BibleReferenceTool {
   }
 
   private renderEditable(): void {
-    const label = document.createElement('div');
-    label.className = 'bible-reference-tool__label';
-    label.textContent = 'Type text with references in braces, e.g. {Luke 1:3}';
+    this.syncReferencesFromText();
+    this.renderEditableView();
+  }
 
-    this.headerEl = document.createElement('button');
-    this.headerEl.type = 'button';
-    this.headerEl.className = 'bible-reference-tool__header';
+  private renderEditableView(): void {
+    this.wrapper.innerHTML = '';
 
-    this.bodyEl = document.createElement('div');
-    this.bodyEl.className = 'bible-reference-tool__body';
+    const topBar = document.createElement('div');
+    topBar.className = 'bible-reference-tool__topbar';
 
-    this.textArea = document.createElement('textarea');
-    this.textArea.className = 'bible-reference-tool__textarea';
-    this.textArea.value = this.data.text;
-    this.textArea.placeholder = 'Type paragraph text here and add references like {Luke 1:3}';
-    this.textArea.addEventListener('input', () => {
-      this.data.text = this.textArea.value;
-      this.syncReferencesFromText();
-      this.renderReferenceEditors();
-      this.renderPreview();
-    });
+    const toggleButton = document.createElement('button');
+    toggleButton.type = 'button';
+    toggleButton.className = 'bible-reference-tool__toggle';
 
-    this.refsWrap = document.createElement('div');
-    this.refsWrap.className = 'bible-reference-tool__refs';
+    if (this.data.isOpen) {
+      toggleButton.classList.add('bible-reference-tool__toggle--button');
+      toggleButton.textContent = 'Collapse';
+      toggleButton.addEventListener('click', () => {
+        this.collapseEditor();
+      });
+    } else {
+      toggleButton.classList.add('bible-reference-tool__toggle--link');
+      toggleButton.textContent = 'Edit';
+      toggleButton.addEventListener('click', () => {
+        this.openEditor();
+      });
+    }
+
+    topBar.appendChild(toggleButton);
+    this.wrapper.appendChild(topBar);
 
     this.previewWrap = document.createElement('div');
     this.previewWrap.className = 'bible-reference-tool__preview';
+    this.wrapper.appendChild(this.previewWrap);
+    this.renderPreview();
+
+    if (this.data.isOpen) {
+      this.textArea = document.createElement('textarea');
+      this.textArea.className = 'bible-reference-tool__textarea';
+      this.textArea.value = this.data.text;
+      this.textArea.placeholder = 'Type paragraph text here and add references like {Luke 1:3}';
+      this.textArea.addEventListener('input', () => {
+        this.data.text = this.textArea.value;
+        this.syncReferencesFromText();
+        this.renderPreview();
+        this.renderReferenceEditors();
+      });
+
+      this.refsWrap = document.createElement('div');
+      this.refsWrap.className = 'bible-reference-tool__refs';
+      this.wrapper.appendChild(this.textArea);
+      const label = document.createElement('div');
+      label.className = 'bible-reference-tool__label';
+      label.textContent = 'Use braces for references, for example {Luke 1:3}.';
+      this.wrapper.appendChild(label);
+
+      this.wrapper.appendChild(this.refsWrap);
+
+      this.renderReferenceEditors();
+    }
 
     this.popupOverlay = this.createPopup();
-
-    this.wrapper.appendChild(label);
-    this.wrapper.appendChild(this.textArea);
-    this.wrapper.appendChild(this.refsWrap);
-    this.wrapper.appendChild(this.previewWrap);
     this.wrapper.appendChild(this.popupOverlay);
-
-    this.syncReferencesFromText();
-    this.renderReferenceEditors();
-    this.renderPreview();
   }
 
   private renderReadOnly(): void {
@@ -122,6 +154,16 @@ export default class BibleReferenceTool {
     this.wrapper.appendChild(this.popupOverlay);
 
     this.renderPreview();
+  }
+
+  private openEditor(): void {
+    this.data.isOpen = true;
+    this.renderEditableView();
+  }
+
+  private collapseEditor(): void {
+    this.data.isOpen = false;
+    this.renderEditableView();
   }
 
   private syncReferencesFromText(): void {
@@ -140,14 +182,39 @@ export default class BibleReferenceTool {
         return existing;
       }
 
-      return {
+      const ref = {
         id: this.makeId(),
         marker,
         label: marker,
         passage: '',
       };
+
+      this.expandedRefs.add(ref.id);
+      return ref;
+    });
+
+    const validIds = new Set(this.data.references.map((ref) => ref.id));
+    this.expandedRefs.forEach((id) => {
+      if (!validIds.has(id)) {
+        this.expandedRefs.delete(id);
+      }
     });
   }
+
+  private isReferenceExpanded(ref: BibleReferenceItem): boolean {
+    return this.expandedRefs.has(ref.id);
+  }
+
+  private expandReference(ref: BibleReferenceItem): void {
+    this.expandedRefs.add(ref.id);
+    this.renderReferenceEditors();
+  }
+
+  private collapseReference(ref: BibleReferenceItem): void {
+    this.expandedRefs.delete(ref.id);
+    this.renderReferenceEditors();
+  }
+
   private renderReferenceEditors(): void {
     this.refsWrap.innerHTML = '';
 
@@ -160,54 +227,82 @@ export default class BibleReferenceTool {
     }
 
     this.data.references.forEach((ref) => {
+      const expanded = this.isReferenceExpanded(ref);
+
       const row = document.createElement('div');
       row.className = 'bible-reference-tool__ref-row';
+
+      const summary = document.createElement('div');
+      summary.className = 'bible-reference-tool__ref-summary';
 
       const markerEl = document.createElement('div');
       markerEl.className = 'bible-reference-tool__ref-heading';
       markerEl.textContent = `Marker found: {${ref.marker}}`;
 
-      const searchEl = document.createElement('div');
-      searchEl.className = 'bible-reference-tool__search-ref';
-      searchEl.textContent = `Search reference: ${ref.marker}`;
+      const detailsButton = document.createElement('button');
+      detailsButton.type = 'button';
+      detailsButton.className = 'bible-reference-tool__details-button';
+      detailsButton.textContent = expanded ? 'Hide' : 'Details';
+      detailsButton.addEventListener('click', () => {
+        if (expanded) {
+          this.collapseReference(ref);
+          return;
+        }
 
-      const statusEl = document.createElement('div');
-      statusEl.className = 'bible-reference-tool__status';
-      statusEl.dataset.state = ref.passage ? 'success' : 'info';
-      statusEl.textContent = ref.passage ? 'Status: Loaded' : 'Status: Not loaded';
-
-      const buttonRow = document.createElement('div');
-      buttonRow.className = 'bible-reference-tool__button-row';
-
-      const loadButton = document.createElement('button');
-      loadButton.type = 'button';
-      loadButton.className = 'bible-reference-tool__button';
-      loadButton.textContent = ref.passage ? 'Reload Bible Ref' : 'Load Bible Ref';
-      buttonRow.appendChild(loadButton);
-
-      const previewLabel = document.createElement('div');
-      previewLabel.className = 'bible-reference-tool__preview-label';
-      previewLabel.textContent = 'Preview';
-
-      const passagePreview = document.createElement('div');
-      passagePreview.className = 'bible-reference-tool__passage-preview';
-      passagePreview.innerHTML = ref.passage || '';
-
-      if (!ref.passage) {
-        passagePreview.textContent = 'No Bible text loaded yet.';
-        passagePreview.dataset.empty = 'true';
-      }
-
-      loadButton.addEventListener('click', () => {
-        void this.loadReference(ref, statusEl, loadButton, passagePreview);
+        this.expandReference(ref);
       });
 
-      row.appendChild(markerEl);
-      row.appendChild(searchEl);
-      row.appendChild(statusEl);
-      row.appendChild(buttonRow);
-      row.appendChild(previewLabel);
-      row.appendChild(passagePreview);
+      summary.appendChild(markerEl);
+      summary.appendChild(detailsButton);
+      row.appendChild(summary);
+
+      if (expanded) {
+        const statusEl = document.createElement('div');
+        statusEl.className = 'bible-reference-tool__status';
+        statusEl.dataset.state = ref.passage ? 'success' : 'info';
+        statusEl.textContent = ref.passage ? 'Status: Loaded' : 'Status: Not loaded';
+
+        const buttonRow = document.createElement('div');
+        buttonRow.className = 'bible-reference-tool__button-row';
+
+        const loadButton = document.createElement('button');
+        loadButton.type = 'button';
+        loadButton.className = 'bible-reference-tool__button';
+
+        if (ref.passage) {
+          loadButton.classList.add('bible-reference-tool__button--secondary');
+          loadButton.textContent = 'Reload Bible Ref';
+        } else {
+          loadButton.classList.add('bible-reference-tool__button--primary');
+          loadButton.textContent = 'Load Bible Ref';
+        }
+
+        buttonRow.appendChild(loadButton);
+
+        const previewLabel = document.createElement('div');
+        previewLabel.className = 'bible-reference-tool__preview-label';
+        previewLabel.textContent = 'Preview';
+
+        const passagePreview = document.createElement('div');
+        passagePreview.className = 'bible-reference-tool__passage-preview';
+        passagePreview.innerHTML = ref.passage || '';
+
+        if (!ref.passage) {
+          passagePreview.textContent = 'No Bible text loaded yet.';
+          passagePreview.dataset.empty = 'true';
+        } else {
+          delete passagePreview.dataset.empty;
+        }
+
+        loadButton.addEventListener('click', () => {
+          void this.loadReference(ref, statusEl, loadButton, passagePreview);
+        });
+
+        row.appendChild(statusEl);
+        row.appendChild(buttonRow);
+        row.appendChild(previewLabel);
+        row.appendChild(passagePreview);
+      }
 
       this.refsWrap.appendChild(row);
     });
@@ -240,6 +335,7 @@ export default class BibleReferenceTool {
     const validationError = this.validateMarker(ref.marker);
 
     if (validationError) {
+      this.expandedRefs.add(ref.id);
       statusEl.dataset.state = 'error';
       statusEl.textContent = `Status: ${validationError}`;
       passagePreview.textContent = 'No Bible text loaded yet.';
@@ -260,6 +356,7 @@ export default class BibleReferenceTool {
       }
 
       ref.passage = passage;
+
       if (!ref.label.trim()) {
         ref.label = ref.marker;
       }
@@ -267,15 +364,21 @@ export default class BibleReferenceTool {
       passagePreview.innerHTML = ref.passage;
       delete passagePreview.dataset.empty;
 
-      loadButton.textContent = 'Reload Bible Ref';
       statusEl.dataset.state = 'success';
       statusEl.textContent = 'Status: Loaded';
+
+      loadButton.className =
+        'bible-reference-tool__button ' + 'bible-reference-tool__button--secondary';
+      loadButton.textContent = 'Reload Bible Ref';
 
       this.renderPreview();
     } catch (err) {
       console.error('Bible reference fetch failed:', err);
+      this.expandedRefs.add(ref.id);
       statusEl.dataset.state = 'error';
       statusEl.textContent = 'Status: Could not load reference';
+      loadButton.className =
+        'bible-reference-tool__button ' + 'bible-reference-tool__button--primary';
       loadButton.textContent = 'Load Bible Ref';
     } finally {
       loadButton.disabled = false;

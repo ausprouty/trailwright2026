@@ -73,7 +73,7 @@ export function createEditorTools(
       class: CollapsibleGroupTool as unknown as ToolConstructable,
       config: {
         placeholder: 'Group heading',
-        tools: createNestedEditorTools(),
+        tools: createNestedEditorTools(lang),
       },
     },
 
@@ -143,7 +143,7 @@ export function createEditorTools(
     textArea: {
       class: TextAreaTool as unknown as ToolConstructable,
       config: {
-        tools: createNestedEditorTools(),
+        tools: createNestedEditorTools(lang),
       },
     },
 
@@ -172,10 +172,14 @@ export function createEditorTools(
   };
 }
 
-function createNestedEditorTools(): EditorTools {
+function createNestedEditorTools(lang: string): EditorTools {
   return {
     bibleReference: {
       class: BibleReferenceTool as unknown as ToolConstructable,
+      config: {
+        endpointPath: DEFAULT_BIBLE_ENDPOINT_PATH,
+        languageCodeGoogle: lang,
+      },
     },
 
     delimiter: {
@@ -186,9 +190,17 @@ function createNestedEditorTools(): EditorTools {
       class: Header as unknown as ToolConstructable,
       config: {
         defaultLevel: 3,
-        levels: [3, 4],
+        levels: [2, 3, 4],
       },
       inlineToolbar: ['link', 'bold', 'italic'],
+    },
+    image: {
+      class: ImageTool as unknown as ToolConstructable,
+      config: {
+        endpoints: {
+          byFile: IMAGE_UPLOAD_URL,
+        },
+      },
     },
 
     list: {

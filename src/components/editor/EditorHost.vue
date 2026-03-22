@@ -265,6 +265,15 @@ defineExpose(exposed);
   <div :id="holderId"></div>
 </template>
 <style scoped>
+:deep(.codex-editor) {
+  width: 100%;
+}
+
+:deep(.codex-editor__redactor) {
+  padding-bottom: 120px !important;
+}
+
+/* Let block content use the full editor width */
 :deep(.ce-block__content),
 :deep(.ce-toolbar__content) {
   max-width: none;
@@ -272,9 +281,34 @@ defineExpose(exposed);
   margin-right: 0;
 }
 
+/* Reserve a protected strip on the right for block actions */
+:deep(.ce-block) {
+  padding-right: 88px;
+  box-sizing: border-box;
+}
+
+/* Keep inner block content inside its box */
+:deep(.ce-block__content) {
+  width: 100%;
+  box-sizing: border-box;
+  overflow: visible;
+}
+
+/* Media must not spill into the action area */
+:deep(.ce-block img),
+:deep(.ce-block video),
+:deep(.ce-block iframe),
+:deep(.ce-block canvas) {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  box-sizing: border-box;
+}
+
+/* Keep the toolbar on the right */
 :deep(.ce-toolbar) {
-  right: 16px;
   left: auto !important;
+  right: 16px;
 }
 
 :deep(.ce-toolbar__plus) {
@@ -286,11 +320,17 @@ defineExpose(exposed);
   right: 0;
 }
 
-:deep(.codex-editor) {
-  width: 100%;
+/* Make sure the settings menu stays above block content */
+:deep(.ce-settings) {
+  z-index: 30;
 }
 
-:deep(.codex-editor__redactor) {
-  padding-bottom: 120px !important;
+:deep(.ce-popover__items) {
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+:deep(.ce-toolbox) {
+  z-index: 9999;
 }
 </style>

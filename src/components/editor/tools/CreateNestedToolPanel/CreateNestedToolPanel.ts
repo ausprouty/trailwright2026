@@ -18,11 +18,15 @@ type NestedToolPanelOptions = {
 };
 
 function makeButtonContent(item: NestedToolPanelItem): string {
+  const panelIcon = item.icon.replace(
+    /class="editor-icon"/g,
+    'class="editor-icon nested-tool-icon"',
+  );
+
   return `
     <span class="nested-tool-panel__icon" aria-hidden="true">
-      ${item.icon}
+      ${panelIcon}
     </span>
-    <span class="nested-tool-panel__label">${item.label}</span>
   `;
 }
 
@@ -69,7 +73,7 @@ export const DEFAULT_NESTED_TOOL_PANEL_ITEMS: NestedToolPanelItem[] = [
   {
     type: 'header',
     label: 'H2',
-    icon: icons.title,
+    icon: icons.h2,
     data: {
       text: '',
       level: 2,
@@ -78,7 +82,7 @@ export const DEFAULT_NESTED_TOOL_PANEL_ITEMS: NestedToolPanelItem[] = [
   {
     type: 'header',
     label: 'H3',
-    icon: icons.title,
+    icon: icons.h3,
     data: {
       text: '',
       level: 3,
@@ -87,7 +91,7 @@ export const DEFAULT_NESTED_TOOL_PANEL_ITEMS: NestedToolPanelItem[] = [
   {
     type: 'header',
     label: 'H4',
-    icon: icons.title,
+    icon: icons.h4,
     data: {
       text: '',
       level: 4,
@@ -119,7 +123,7 @@ export const DEFAULT_NESTED_TOOL_PANEL_ITEMS: NestedToolPanelItem[] = [
   {
     type: 'list',
     label: 'Number List',
-    icon: icons.orderedList,
+    icon: icons.numberedList,
     data: {
       style: 'ordered',
       meta: {},
@@ -146,5 +150,23 @@ export const DEFAULT_NESTED_TOOL_PANEL_ITEMS: NestedToolPanelItem[] = [
     type: 'notesArea',
     label: 'Notes',
     icon: icons.notesArea,
+  },
+];
+
+const inlineItems = [
+  {
+    action: 'bold',
+    label: 'Bold',
+    icon: icons.bold,
+  },
+  {
+    action: 'italic',
+    label: 'Italic',
+    icon: icons.italics,
+  },
+  {
+    action: 'underline',
+    label: 'Underline',
+    icon: icons.underline,
   },
 ];

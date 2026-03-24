@@ -283,7 +283,7 @@ defineExpose(exposed);
 
 /* Reserve a protected strip on the right for block actions */
 :deep(.ce-block) {
-  padding-right: 88px;
+  padding-inline-end: 88px;
   box-sizing: border-box;
 }
 

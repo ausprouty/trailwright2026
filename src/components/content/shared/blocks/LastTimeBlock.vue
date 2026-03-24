@@ -117,7 +117,7 @@ watch(
 <style scoped>
 .last-time-block {
   background-color: var(--color-minor1, #f2e3cf);
-  border-left: 6px solid var(--color-highlight-scripture, #d59744);
+  border-inline-start: 6px solid var(--color-highlight-scripture, #d59744);
   padding: 16px 20px;
   margin-bottom: 24px;
   border-radius: 8px;

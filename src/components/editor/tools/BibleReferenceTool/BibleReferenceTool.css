@@ -248,7 +248,7 @@
 .bible-reference-tool__popup-title {
   font-weight: 700;
   margin-bottom: 12px;
-  padding-right: 28px;
+  padding-inline-end: 28px;
   color: #3f2d20;
 }
 

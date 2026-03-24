@@ -27,16 +27,16 @@
   outline: none;
 }
 
-.section-marker-tool__card[data-theme="back"] {
-  border-left: 4px solid #d0d7de;
+.section-marker-tool__card[data-theme='back'] {
+  border-inline-start: 4px solid #d0d7de;
 }
 
-.section-marker-tool__card[data-theme="up"] {
-  border-left: 4px solid #d0d7de;
+.section-marker-tool__card[data-theme='up'] {
+  border-inline-start: 4px solid #d0d7de;
 }
 
-.section-marker-tool__card[data-theme="forward"] {
-  border-left: 4px solid #d0d7de;
+.section-marker-tool__card[data-theme='forward'] {
+  border-inline-start: 4px solid #d0d7de;
 }
 
 .section-marker-tool__icon {

@@ -81,7 +81,7 @@ function hasChildren(item: EditorJsListItem): boolean {
 <style scoped>
 .list-block {
   margin: 0 0 1rem;
-  padding-left: 1.5rem;
+  padding-inline-start: 1.5rem;
   line-height: 1.6;
 }
 

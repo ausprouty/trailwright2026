@@ -48,6 +48,13 @@ const heroStyle = computed(() => ({
       rgba(43, 29, 18, 0.62)
     ), url(${trailWrightImage})`,
 }));
+const RTL_LANGS = ['ar', 'fa', 'he', 'ur'];
+
+function getDirectionFromLang(lang: string): 'ltr' | 'rtl' {
+  return RTL_LANGS.includes(lang) ? 'rtl' : 'ltr';
+}
+
+const pageDir = computed(() => getDirectionFromLang(currentLang.value));
 
 function getEmptyOutput(): OutputData {
   return {
@@ -209,105 +216,107 @@ async function onClear(): Promise<void> {
 </script>
 
 <template>
-  <div class="workbench">
-    <section class="hero" :style="heroStyle">
-      <div class="hero__content">
-        <p class="hero__eyebrow">TrailWright</p>
-        <h1 class="hero__title">Editor Workspace</h1>
-        <p class="hero__subtitle">
-          Build, shape, and save lesson content with a calmer writing space.
-        </p>
-      </div>
-    </section>
-
-    <div class="workbench__inner">
-      <header class="control-bar">
-        <div class="control-bar__title">
-          <h2>Editor.js Editor</h2>
-          <p>Choose a language, load a template, and begin editing.</p>
+  <div :dir="pageDir" :lang="currentLang">
+    <div class="workbench">
+      <section class="hero" :style="heroStyle">
+        <div class="hero__content">
+          <p class="hero__eyebrow">TrailWright</p>
+          <h1 class="hero__title">Editor Workspace</h1>
+          <p class="hero__subtitle">
+            Build, shape, and save lesson content with a calmer writing space.
+          </p>
         </div>
+      </section>
 
-        <div class="control-bar__controls">
-          <label class="field-group">
-            <span>Language</span>
-            <select v-model="currentLang" class="select-control">
-              <option v-for="option in languageOptions" :key="option.code" :value="option.code">
-                {{ option.label }}
-              </option>
-            </select>
-          </label>
-
-          <label class="field-group">
-            <span>Template</span>
-            <select v-model="selectedTemplateKey" class="select-control">
-              <option v-for="template in templates" :key="template.key" :value="template.key">
-                {{ template.label }}
-              </option>
-            </select>
-          </label>
-
-          <div class="actions">
-            <button
-              id="btn-load-template"
-              type="button"
-              class="button button--primary"
-              @click="onLoadTemplate"
-            >
-              Load Template
-            </button>
-
-            <button id="btn-save" type="button" class="button button--secondary" @click="onSave">
-              Save
-            </button>
-
-            <button
-              id="btn-save-draft"
-              type="button"
-              class="button button--secondary"
-              @click="onSaveDraft"
-            >
-              Save Draft
-            </button>
-
-            <button
-              id="btn-retrieve-draft"
-              type="button"
-              class="button button--ghost"
-              @click="onRetrieveDraft"
-            >
-              Retrieve Draft
-            </button>
-
-            <button id="btn-clear" type="button" class="button button--ghost" @click="onClear">
-              Clear Draft
-            </button>
-
-            <button
-              id="btn-toggle-json"
-              type="button"
-              class="button button--ghost"
-              @click="showDeveloperPanel = !showDeveloperPanel"
-            >
-              {{ showDeveloperPanel ? 'Hide JSON' : 'Show JSON' }}
-            </button>
+      <div class="workbench__inner">
+        <header class="control-bar">
+          <div class="control-bar__title">
+            <h2>Editor.js Editor</h2>
+            <p>Choose a language, load a template, and begin editing.</p>
           </div>
-        </div>
-      </header>
 
-      <main
-        class="layout"
-        :class="{
-          'layout--with-json': showDeveloperPanel,
-        }"
-      >
-        <section class="panel panel--editor">
-          <EditorHost ref="editorHost" v-model="output" :lang="currentLang" />
-        </section>
+          <div class="control-bar__controls">
+            <label class="field-group">
+              <span>Language</span>
+              <select v-model="currentLang" class="select-control">
+                <option v-for="option in languageOptions" :key="option.code" :value="option.code">
+                  {{ option.label }}
+                </option>
+              </select>
+            </label>
 
-        <InsertPanel @insert="onInsertBlock" />
+            <label class="field-group">
+              <span>Template</span>
+              <select v-model="selectedTemplateKey" class="select-control">
+                <option v-for="template in templates" :key="template.key" :value="template.key">
+                  {{ template.label }}
+                </option>
+              </select>
+            </label>
 
-        <DeveloperPanel v-if="showDeveloperPanel" :output="output" />
-      </main>
+            <div class="actions">
+              <button
+                id="btn-load-template"
+                type="button"
+                class="button button--primary"
+                @click="onLoadTemplate"
+              >
+                Load Template
+              </button>
+
+              <button id="btn-save" type="button" class="button button--secondary" @click="onSave">
+                Save
+              </button>
+
+              <button
+                id="btn-save-draft"
+                type="button"
+                class="button button--secondary"
+                @click="onSaveDraft"
+              >
+                Save Draft
+              </button>
+
+              <button
+                id="btn-retrieve-draft"
+                type="button"
+                class="button button--ghost"
+                @click="onRetrieveDraft"
+              >
+                Retrieve Draft
+              </button>
+
+              <button id="btn-clear" type="button" class="button button--ghost" @click="onClear">
+                Clear Draft
+              </button>
+
+              <button
+                id="btn-toggle-json"
+                type="button"
+                class="button button--ghost"
+                @click="showDeveloperPanel = !showDeveloperPanel"
+              >
+                {{ showDeveloperPanel ? 'Hide JSON' : 'Show JSON' }}
+              </button>
+            </div>
+          </div>
+        </header>
+
+        <main
+          class="layout"
+          :class="{
+            'layout--with-json': showDeveloperPanel,
+          }"
+        >
+          <section class="panel panel--editor">
+            <EditorHost ref="editorHost" v-model="output" :lang="currentLang" />
+          </section>
+
+          <InsertPanel @insert="onInsertBlock" />
+
+          <DeveloperPanel v-if="showDeveloperPanel" :output="output" />
+        </main>
+      </div>
     </div>
   </div>
 </template>

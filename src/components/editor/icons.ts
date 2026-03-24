@@ -44,6 +44,18 @@ export const icons = {
   <path class="editor-icon__stroke" d="M15 13H17.5" />
 </svg>
 `,
+  bold: `
+  <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
+    <text
+      class="editor-icon__text editor-icon__text--bold"
+      x="12"
+      y="16"
+      text-anchor="middle"
+    >
+      B
+    </text>
+  </svg>
+`,
   collapsibleGroup: `
 <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
   <path class="editor-icon__stroke" d="M8 7L12 11L16 7" />
@@ -81,6 +93,18 @@ export const icons = {
   />
 </svg>
 `,
+  italics: `
+  <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
+    <text
+      class="editor-icon__text editor-icon__text--italic"
+      x="12"
+      y="16"
+      text-anchor="middle"
+    >
+      I
+    </text>
+  </svg>
+`,
   iWill: `
 <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
   <path class="editor-icon__stroke" d="M9 11.5 11 13.5 15 9.5"/>
@@ -95,12 +119,29 @@ export const icons = {
 </svg>
 `,
   notesArea: `
-<svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
-  <rect class="editor-icon__stroke" x="5" y="4" width="14" height="16" rx="2" />
-  <path class="editor-icon__stroke" d="M8 8H16" />
-  <path class="editor-icon__stroke" d="M8 11H16" />
-  <path class="editor-icon__stroke" d="M8 14H13" />
-</svg>
+  <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
+    <rect
+      class="editor-icon__dotted"
+      x="4"
+      y="6"
+      width="16"
+      height="12"
+      rx="2.5"
+      ry="2.5"
+    />
+  </svg>
+`,
+  numberedList: `
+  <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
+    <path
+      class="editor-icon__stroke"
+      d="M6 6v5
+         M5 11h2
+         M5 14h3l-3 4h3
+         M11 8.5h8
+         M11 16.5h8"
+    />
+  </svg>
 `,
   oikosList: `
 <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
@@ -111,16 +152,6 @@ export const icons = {
        C15.5 13, 19 14.5, 19 18" />
 </svg>
 `,
-  orderedList: `
-<svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
-  <path class="editor-icon__stroke" d="M10 7H19" />
-  <path class="editor-icon__stroke" d="M10 12H19" />
-  <path class="editor-icon__stroke" d="M10 17H19" />
-  <path class="editor-icon__stroke" d="M5.5 7H6.5" />
-  <path class="editor-icon__stroke" d="M5 11.5C5.4 11 5.9 10.75 6.4 10.75C7.1 10.75 7.5 11.15 7.5 11.7C7.5 12.15 7.15 12.5 6.7 12.8L5 14H7.5" />
-  <path class="editor-icon__stroke" d="M5 16.2C5.35 15.9 5.8 15.75 6.2 15.75C7 15.75 7.5 16.15 7.5 16.8C7.5 17.45 7 17.9 6.2 17.9C5.75 17.9 5.3 17.75 5 17.45" />
-</svg>
-`,
   sectionMarker: `
 <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
   <circle class="editor-icon__stroke" cx="12" cy="12" r="9" />
@@ -128,6 +159,23 @@ export const icons = {
   <path class="editor-icon__stroke" d="M12 12L19.8 16.5" />
   <path class="editor-icon__stroke" d="M12 12L4.2 16.5" />
 </svg>
+`,
+  h2: `
+  <svg class="editor-icon editor-icon--h2" viewBox="0 0 24 24" aria-hidden="true">
+    <path class="editor-icon__stroke" d="M5 6h14M12 6v12" />
+  </svg>
+`,
+
+  h3: `
+  <svg class="editor-icon editor-icon--h3" viewBox="0 0 24 24" aria-hidden="true">
+    <path class="editor-icon__stroke" d="M5 6h14M12 6v12" />
+  </svg>
+`,
+
+  h4: `
+  <svg class="editor-icon editor-icon--h4" viewBox="0 0 24 24" aria-hidden="true">
+    <path class="editor-icon__stroke" d="M5 6h14M12 6v12" />
+  </svg>
 `,
   textArea: `
 <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
@@ -142,6 +190,19 @@ export const icons = {
   <path class="editor-icon__stroke" d="M5 6H19" />
   <path class="editor-icon__stroke" d="M12 6V18" />
 </svg>
+`,
+  underline: `
+  <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
+    <text
+      class="editor-icon__text"
+      x="12"
+      y="15"
+      text-anchor="middle"
+    >
+      U
+    </text>
+    <path class="editor-icon__stroke" d="M7 18h10" />
+  </svg>
 `,
   unorderedList: `
 <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">

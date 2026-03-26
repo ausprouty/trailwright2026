@@ -333,4 +333,49 @@ defineExpose(exposed);
 :deep(.ce-toolbox) {
   z-index: 9999;
 }
+
+:deep(.tc-table) {
+  --color-border: #b98555;
+  --color-border-focus: #8f4f1d;
+}
+
+:deep(.tc-wrap),
+:deep(.tc-table),
+:deep(.tc-row),
+:deep(.tc-cell) {
+  border-color: #b98555 !important;
+}
+
+:deep(.tc-cell) {
+  border-right: 1px solid #b98555 !important;
+  border-bottom: 1px solid #b98555 !important;
+}
+
+:deep(.tc-row:first-child .tc-cell) {
+  border-top: 1px solid #b98555 !important;
+}
+
+:deep(.tc-cell:first-child) {
+  border-left: 1px solid #b98555 !important;
+}
+:deep(.tc-add-column),
+:deep(.tc-add-row) {
+  color: #8f4f1d !important;
+}
+
+:deep(.tc-add-column:hover),
+:deep(.tc-add-row:hover) {
+  color: #6f3c14 !important;
+}
+:deep(.tc-add-column),
+:deep(.tc-add-row) {
+  color: #8f4f1d !important;
+  border-radius: 4px;
+}
+
+:deep(.tc-add-column:hover),
+:deep(.tc-add-row:hover) {
+  color: #6f3c14 !important;
+  background: rgba(143, 79, 29, 0.08) !important;
+}
 </style>

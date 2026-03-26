@@ -1,3 +1,4 @@
+import Table from '@editorjs/table';
 import BiblePassageTool from './tools/BiblePassageTool/BiblePassageTool';
 import BibleReferenceTool from './tools/BibleReferenceTool/BibleReferenceTool';
 import CollapsibleGroupTool from './tools/CollapsibleGroupTool/CollapsibleGroupTool';
@@ -54,6 +55,7 @@ const notesAreaMeta = getToolboxMeta(NotesAreaTool, 'Notes Area');
 const oikosListMeta = getToolboxMeta(OikosListTool, 'Oikos List Area');
 const sectionMarkerMeta = getToolboxMeta(SectionMarkerTool, 'Section Marker');
 const textAreaMeta = getToolboxMeta(TextAreaTool, 'Text');
+const tableMeta = getToolboxMeta(Table, 'Table');
 const titleMeta = getToolboxMeta(TitleTool, 'Title');
 const videoMeta = getToolboxMeta(VideoTool, 'Video');
 
@@ -120,6 +122,11 @@ const rawInsertToolPalette: InsertToolItem[] = [
     label: oikosListMeta.label,
     icon: oikosListMeta.icon,
     initialData: {},
+  },
+  {
+    type: 'table',
+    label: 'Table',
+    icon: tableMeta.icon,
   },
   {
     type: 'sectionMarker',

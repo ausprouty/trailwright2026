@@ -4,6 +4,7 @@ import Header from '@editorjs/header';
 
 import List from '@editorjs/list';
 import Paragraph from '@editorjs/paragraph';
+import Table from '@editorjs/table';
 import Quote from '@editorjs/quote';
 
 import { t, type LanguageCode } from 'src/i18n';
@@ -146,6 +147,13 @@ export function createEditorTools(
         tools: createNestedEditorTools(lang),
       },
     },
+    table: {
+      class: Table as unknown as ToolConstructable,
+      config: {
+        rows: 2,
+        cols: 2,
+      },
+    },
 
     title: {
       class: TitleTool as unknown as ToolConstructable,
@@ -222,8 +230,12 @@ function createNestedEditorTools(lang: string): EditorTools {
       inlineToolbar: true,
     },
 
-    sectionMarker: {
-      class: SectionMarkerTool as unknown as ToolConstructable,
+    table: {
+      class: Table as unknown as ToolConstructable,
+      config: {
+        rows: 2,
+        cols: 2,
+      },
     },
   };
 }

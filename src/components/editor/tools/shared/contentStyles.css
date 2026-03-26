@@ -1,0 +1,120 @@
+[contenteditable='true'][data-text-style='block-quote'] {
+  border-top: 4px solid #de1e25;
+  border-bottom: 4px solid #de1e25;
+  color: var(--color-blue-mc2);
+  font-style: italic;
+  font-weight: 900;
+  padding: 20px;
+}
+
+[contenteditable='true'][data-text-style='dbs-instruction'] {
+  .dbs-instruction {
+    color: blueviolet;
+    font-style: italic;
+  }
+}
+
+[contenteditable='true'][data-text-style='enrichment'] {
+  background-color: #e6ecf2;
+  padding: 10px;
+  line-height: 2em;
+}
+
+[contenteditable='true'][data-text-style='gospel-prayer'] {
+  background-image: url('contentStyleImages/quote-left.png');
+  background-position: 10px top;
+  background-repeat: no-repeat;
+  background-size: 25px;
+  color: #085276;
+  font-style: italic;
+  font-weight: bold;
+  padding-left: 35px;
+}
+[contenteditable='true'][data-text-style='gospel-text'] {
+  font-weight: 600;
+  font-size: 12pt;
+}
+[contenteditable='true'][data-block-style='h2'] {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+[contenteditable='true'][data-block-style='h3'] {
+  font-size: 1.35rem;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+[contenteditable='true'][data-block-style='h4'] {
+  font-size: 1.15rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+[contenteditable='true'][data-text-style='indent'] {
+  margin-left: 20px;
+}
+[contenteditable='true'][data-text-style='inden2'] {
+  margin-left: 40px;
+}
+[contenteditable='true'][data-text-style='indent3'] {
+  margin-left: 60px;
+}
+
+[contenteditable='true'][data-text-style='quote-left'] {
+  background-image: url(contentStyleImages/quote-left.png);
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-size: 30px;
+  background-color: #de1e25;
+  color: white;
+  padding: 20px;
+  padding-left: 40px;
+}
+
+[contenteditable='true'][data-text-style='quote-right'] {
+  background-image: url('contentStyleImages/quote-right.png');
+  background-position: right center;
+  background-repeat: no-repeat;
+  background-size: 30px;
+  background-color: #de1e25;
+  color: white;
+  padding: 20px;
+  padding-right: 40px;
+}
+
+[contenteditable='true'][data-text-style='trainer'] {
+  color: black;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  cursor: pointer;
+  padding: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  background: orange url(contentStyleImages/trainer.png);
+  background-position: 8px 2px;
+  background-repeat: no-repeat;
+}
+
+[contenteditable='true'][data-text-style='version'] {
+  text-align: center;
+  color: blue;
+  font-size: 10pt;
+}
+
+[contenteditable='true'][data-text-style='vertical-text'] {
+  writing-mode: vertical-lr;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+[contenteditable='true'][data-text-style='year'] {
+  text-align: center;
+  color: green;
+  font-weight: bold;
+}

@@ -1,4 +1,30 @@
 export const icons = {
+  alignLeft: `
+  <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
+    <path class="editor-icon__stroke" d="M5 7h12" />
+    <path class="editor-icon__stroke" d="M5 11h9" />
+    <path class="editor-icon__stroke" d="M5 15h12" />
+    <path class="editor-icon__stroke" d="M5 19h8" />
+  </svg>
+`,
+
+  alignCenter: `
+  <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
+    <path class="editor-icon__stroke" d="M6 7h12" />
+    <path class="editor-icon__stroke" d="M8 11h8" />
+    <path class="editor-icon__stroke" d="M6 15h12" />
+    <path class="editor-icon__stroke" d="M9 19h6" />
+  </svg>
+`,
+
+  alignRight: `
+  <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
+    <path class="editor-icon__stroke" d="M7 7h12" />
+    <path class="editor-icon__stroke" d="M10 11h9" />
+    <path class="editor-icon__stroke" d="M7 15h12" />
+    <path class="editor-icon__stroke" d="M11 19h8" />
+  </svg>
+`,
   biblePassage: `
 <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
   <path
@@ -152,6 +178,18 @@ export const icons = {
        C15.5 13, 19 14.5, 19 18" />
 </svg>
 `,
+  p: `
+  <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
+    <text
+      class="editor-icon__text"
+      x="12"
+      y="16"
+      text-anchor="middle"
+    >
+      P
+    </text>
+  </svg>
+`,
   sectionMarker: `
 <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
   <circle class="editor-icon__stroke" cx="12" cy="12" r="9" />
@@ -177,6 +215,41 @@ export const icons = {
     <path class="editor-icon__stroke" d="M5 6h14M12 6v12" />
   </svg>
 `,
+  link: `
+  <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
+    <path
+      class="editor-icon__stroke"
+      d="M10 8H8a4 4 0 0 0 0 8h2"
+    />
+    <path
+      class="editor-icon__stroke"
+      d="M14 8h2a4 4 0 0 1 0 8h-2"
+    />
+    <path
+      class="editor-icon__stroke"
+      d="M9 12h6"
+    />
+  </svg>
+`,
+  ltr: `
+  <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
+    <path class="editor-icon__stroke" d="M5 7h10" />
+    <path class="editor-icon__stroke" d="M5 12h8" />
+    <path class="editor-icon__stroke" d="M5 17h10" />
+    <path class="editor-icon__stroke" d="M15 12h4" />
+    <path class="editor-icon__stroke" d="M17 10l2 2-2 2" />
+  </svg>
+`,
+  rtl: `
+  <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
+    <path class="editor-icon__stroke" d="M9 7h10" />
+    <path class="editor-icon__stroke" d="M11 12h8" />
+    <path class="editor-icon__stroke" d="M9 17h10" />
+    <path class="editor-icon__stroke" d="M9 12H5" />
+    <path class="editor-icon__stroke" d="M7 10l-2 2 2 2" />
+  </svg>
+`,
+
   textArea: `
 <svg class="editor-icon" viewBox="0 0 24 24" aria-hidden="true">
   <rect class="editor-icon__stroke" x="4" y="5" width="16" height="14" rx="2" />

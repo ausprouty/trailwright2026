@@ -18,6 +18,17 @@
   color: #6b4f3a;
 }
 
+.nested-tool-panel__group {
+  display: contents;
+}
+
+.nested-tool-panel__divider {
+  grid-column: 1 / -1;
+  height: 1px;
+  margin: 4px 0;
+  background: #d9c4b1;
+}
+
 .nested-tool-panel__button {
   display: flex;
   align-items: center;
@@ -42,6 +53,14 @@
   outline-offset: 2px;
 }
 
+.nested-tool-panel__button--inline {
+  background: #fcf7f1;
+}
+
+.nested-tool-panel__button--inline:hover {
+  background: #f1e7dc;
+}
+
 .nested-tool-panel__icon {
   display: inline-flex;
   align-items: center;
@@ -60,4 +79,50 @@
   line-height: 1.1;
   text-align: center;
   font-size: 0.8rem;
+}
+
+.dbs-instruction {
+  color: red;
+}
+.enrichment {
+  color: yellow;
+}
+.gospel-prayer {
+  color: yellowgreen;
+}
+.gospel-text {
+  color: green;
+}
+.quote-left {
+  color: orange;
+}
+.quote-right {
+  color: orchid;
+}
+.version {
+  color: pink;
+}
+.vertical-text {
+  color: blue;
+}
+.year {
+  color: peru;
+}
+
+.nested-tool-panel__select {
+  grid-column: span 3;
+  width: 100%;
+  min-width: 100px;
+  height: 32px;
+  padding: 4px 8px;
+  border: 1px solid #cdb8a3;
+  border-radius: 6px;
+  background: #fffdfa;
+  color: #5e4a3a;
+  font: inherit;
+}
+
+.nested-tool-panel__select:focus-visible {
+  outline: 2px solid #a8794f;
+  outline-offset: 2px;
 }

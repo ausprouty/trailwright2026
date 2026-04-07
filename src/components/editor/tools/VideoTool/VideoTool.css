@@ -1,24 +1,44 @@
 .arc-cont {
-  position: relative;
-  display: block;
-  width: 100%;
-  margin: 10px auto;
+  position: relative !important;
+  display: block !important;
+  width: 100% !important;
+  height: 520px !important;
+  min-height: 520px !important;
+  margin: 10px auto !important;
 }
 
 .arc-cont::after {
-  display: block;
-  padding-top: 59%;
-  content: "";
+  display: none !important;
+  content: none !important;
 }
 
-.arc-cont > iframe {
+.arc-cont iframe {
+  position: absolute !important;
+  inset: 0 !important;
+  display: block !important;
+  width: 100% !important;
+  height: 100% !important;
+  min-height: 520px !important;
+  border: 0 !important;
+  border-radius: 8px !important;
+}
+.video-tool__iframe-wrap {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  aspect-ratio: 16 / 9;
+  min-height: 520px;
+}
+
+.video-tool__iframe-wrap::after {
+  content: none;
+}
+
+.video-tool__iframe-wrap > iframe {
   position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  width: 98%;
-  height: 98%;
+  inset: 0;
+  width: 100%;
+  height: 100%;
   border: 0;
   border-radius: 8px;
 }
@@ -61,50 +81,28 @@
   justify-content: space-between;
   width: 100%;
 }
- .video-tool__header-left {
+.video-tool__header-left {
   display: flex;
   align-items: center;
   gap: 0.5rem;
   min-width: 0;
   flex: 1 1 auto;
- }
- 
- .video-tool__header-right {
+}
+
+.video-tool__header-right {
   display: flex;
   align-items: center;
   gap: 0.75rem;
   margin-left: auto;
   flex: 0 0 auto;
- }
- 
- .video-tool__header-text {
+}
+
+.video-tool__header-text {
   display: block;
   min-width: 0;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
- }
-
-
-.video-tool__iframe-wrap {
-  position: relative;
-  width: 100%;
-  max-width: 100%;
-}
-
-.video-tool__iframe-wrap::after {
-  display: block;
-  padding-top: 56.25%;
-  content: "";
-}
-
-.video-tool__iframe-wrap > iframe {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  border: 0;
-  border-radius: 8px;
 }
 
 .video-tool__input {

@@ -79,17 +79,22 @@ function cleanBibleHtml(rawHtml: string): string {
 function extractBibleReference($container: cheerio.Cheerio<AnyNode>): string {
   return $container.find('p.reference').first().text().trim();
 }
+function normalizeVideoLabel(label: string): string {
+  return label.replace(/\s+/g, ' ').replace(/\s+:/g, ':').trim().toLowerCase();
+}
 
 function extractVideoField($container: cheerio.Cheerio<AnyNode>, labelPattern: RegExp): string {
   let value = '';
 
   $container.find('tr').each((_, row) => {
-    const $cells = cheerio.load(row)('td');
+    const $row = $container.find(row);
+    const $cells = $row.children('td');
+
     if ($cells.length < 2) {
       return;
     }
 
-    const label = $cells.eq(0).text().replace(/\s+/g, ' ').trim();
+    const label = normalizeVideoLabel($cells.eq(0).text());
     const cellValue = $cells.eq(1).text().replace(/\s+/g, ' ').trim();
 
     if (labelPattern.test(label)) {
@@ -99,7 +104,6 @@ function extractVideoField($container: cheerio.Cheerio<AnyNode>, labelPattern: R
 
   return value;
 }
-
 function buildSectionMarkerBlock(theme: SectionTheme): AnyEditorJsBlock {
   return {
     type: 'sectionMarker',
@@ -119,12 +123,13 @@ function buildListBlock(items: string[]): AnyEditorJsBlock {
   };
 }
 
-function buildBiblePassageBlock(reference: string, html: string): AnyEditorJsBlock {
+function buildBiblePassageBlock(reference: string, html: string, url: string): AnyEditorJsBlock {
   return {
     type: 'biblePassage',
     data: {
       reference,
       html,
+      url,
       isOpen: true,
     },
   };
@@ -167,6 +172,11 @@ function isFilmReveal($el: cheerio.Cheerio<AnyNode>): boolean {
   return $el.is('div.reveal.film');
 }
 
+function extractBibleUrl($container: cheerio.Cheerio<AnyNode>): string {
+  const href = $container.find('a.readmore').first().attr('href');
+  return typeof href === 'string' ? href.trim() : '';
+}
+
 export function migrateOldLessonHtmlToEditorJs(
   html: string,
   options: MigrateOptions = {},
@@ -187,8 +197,8 @@ export function migrateOldLessonHtmlToEditorJs(
         blocks.push(buildSectionMarkerBlock(theme));
         return;
       }
-
       if (isOrderedListWrapper($el)) {
+        // 1. Extract the list
         const items = $el
           .find('ol > li')
           .map((__, li) => $(li).html()?.trim() || '')
@@ -199,15 +209,39 @@ export function migrateOldLessonHtmlToEditorJs(
           blocks.push(buildListBlock(items));
         }
 
+        // 2. Process nested reveals INSIDE the .ol
+        $el.children().each((__, child) => {
+          const $child = $(child);
+
+          if (isBibleReveal($child)) {
+            const reference = extractBibleReference($child);
+            const url = extractBibleUrl($child);
+            const rawInnerHtml = $child.html() || '';
+            const cleanedHtml = cleanBibleHtml(rawInnerHtml);
+
+            blocks.push(buildBiblePassageBlock(reference, cleanedHtml, url));
+          }
+
+          if (isFilmReveal($child)) {
+            const title = extractVideoField($child, /^title:?$/i);
+            const url = extractVideoField($child, /^url:?$/i);
+            const startTime = extractVideoField($child, /^start time/i);
+            const endTime = extractVideoField($child, /^end time/i);
+
+            blocks.push(buildVideoBlock(title, url, startTime, endTime));
+          }
+        });
+
         return;
       }
 
       if (isBibleReveal($el)) {
         const reference = extractBibleReference($el);
+        const url = extractBibleUrl($el);
         const rawInnerHtml = $el.html() || '';
         const cleanedHtml = cleanBibleHtml(rawInnerHtml);
 
-        blocks.push(buildBiblePassageBlock(reference, cleanedHtml));
+        blocks.push(buildBiblePassageBlock(reference, cleanedHtml, url));
         return;
       }
 

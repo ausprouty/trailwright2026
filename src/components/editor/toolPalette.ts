@@ -67,6 +67,7 @@ const rawInsertToolPalette: InsertToolItem[] = [
     initialData: {
       reference: '',
       html: '',
+      url: '',
       isOpen: true,
     },
   },

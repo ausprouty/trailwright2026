@@ -7,10 +7,16 @@ export type BibleToolConfig = {
   languageCodeGoogle?: string;
 };
 
+export type BiblePassageResult = {
+  reference: string;
+  html: string;
+  url: string;
+};
+
 export async function fetchBiblePassage(
   reference: string,
   config: BibleToolConfig,
-): Promise<string> {
+): Promise<BiblePassageResult> {
   const endpointPath = config.endpointPath ?? '/v2/bible/passage';
   const languageCodeGoogle = config.languageCodeGoogle ?? 'en';
 
@@ -26,10 +32,11 @@ export async function fetchBiblePassage(
     console.log('fetchBiblePassage languageCodeGoogle', languageCodeGoogle);
     console.log('fetchBiblePassage payload', payload);
     console.log('fetchBiblePassage using http baseURL', http.defaults.baseURL);
+
     const res = await http.post(endpointPath, payload);
     const data: unknown = res && res.data ? res.data : res;
 
-    return extractPassageFromJson(data).trim();
+    return extractPassageFromJson(data, reference);
   } catch (error: unknown) {
     if (!navigator.onLine) {
       throw new Error('You appear to be offline.');
@@ -51,67 +58,35 @@ export async function fetchBiblePassage(
   }
 }
 
-export function extractPassageFromJson(json: unknown): string {
-  if (!json) {
-    return '';
+export function extractPassageFromJson(json: unknown, fallbackReference = ''): BiblePassageResult {
+  const empty: BiblePassageResult = {
+    reference: fallbackReference,
+    html: '',
+    url: '',
+  };
+
+  if (!json || typeof json !== 'object') {
+    return empty;
   }
 
-  if (typeof json === 'string') {
-    return json;
-  }
+  const obj = json as Record<string, unknown>;
 
-  if (typeof json === 'object' && json !== null) {
-    const obj = json as Record<string, unknown>;
+  const result: BiblePassageResult = {
+    reference: typeof obj.reference === 'string' ? obj.reference : fallbackReference,
 
-    const passage = obj['passage'];
-    if (typeof passage === 'string') {
-      return passage;
-    }
+    html:
+      typeof obj.html === 'string'
+        ? obj.html
+        : typeof obj.passage === 'string'
+          ? obj.passage
+          : typeof obj.text === 'string'
+            ? obj.text
+            : typeof obj.content === 'string'
+              ? obj.content
+              : '',
 
-    const text = obj['text'];
-    if (typeof text === 'string') {
-      return text;
-    }
+    url: typeof obj.url === 'string' ? obj.url : typeof obj.link === 'string' ? obj.link : '',
+  };
 
-    const content = obj['content'];
-    if (typeof content === 'string') {
-      return content;
-    }
-
-    const verses = obj['verses'];
-    if (Array.isArray(verses)) {
-      const lines: string[] = [];
-
-      for (const v of verses) {
-        if (typeof v === 'string') {
-          lines.push(v);
-          continue;
-        }
-
-        if (typeof v === 'object' && v !== null) {
-          const verseObj = v as Record<string, unknown>;
-          const vt = verseObj['text'];
-          const vn = verseObj['verse'];
-
-          if (typeof vt === 'string') {
-            if (typeof vn === 'string' || typeof vn === 'number') {
-              lines.push(`${vn}. ${vt}`);
-            } else {
-              lines.push(vt);
-            }
-          }
-        }
-      }
-
-      return lines.filter(Boolean).join('\n');
-    }
-
-    try {
-      return JSON.stringify(obj, null, 2);
-    } catch {
-      return '';
-    }
-  }
-
-  return '';
+  return result;
 }

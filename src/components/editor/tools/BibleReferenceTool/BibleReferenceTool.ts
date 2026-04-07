@@ -349,13 +349,13 @@ export default class BibleReferenceTool {
     statusEl.textContent = `Status: Loading ${ref.marker}`;
 
     try {
-      const passage = await fetchBiblePassage(ref.marker, this.config);
+      const result = await fetchBiblePassage(ref.marker, this.config);
 
-      if (!passage) {
+      if (!result || !result.html) {
         throw new Error('No passage text returned from API');
       }
 
-      ref.passage = passage;
+      ref.passage = result.html;
 
       if (!ref.label.trim()) {
         ref.label = ref.marker;

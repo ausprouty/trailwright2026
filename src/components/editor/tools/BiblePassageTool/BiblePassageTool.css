@@ -115,3 +115,21 @@
 .bible-passage-tool__status[data-state='success'] {
   color: #067647;
 }
+.bible-passage-tool__read-more-wrap {
+  margin-top: 14px;
+}
+
+.bible-passage-tool__read-more {
+  display: inline-block;
+  padding: 8px 14px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  border: 1px solid #8b6b4a;
+  background: #f6efe7;
+  color: #5c3b1e;
+}
+
+.bible-passage-tool__read-more:hover {
+  background: #eadbc9;
+}

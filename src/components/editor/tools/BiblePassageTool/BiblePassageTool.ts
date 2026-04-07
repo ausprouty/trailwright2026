@@ -1,24 +1,21 @@
 import '../shared/blockHeader.css';
 import './BiblePassageTool.css';
 import { icons } from 'src/components/editor/icons';
+import type {
+  BiblePassageBlockData,
+  BiblePassageToolConfig,
+} from 'src/types/content/BiblePassageBlock';
 
 import { fetchBiblePassage, type BibleToolConfig } from '../shared/fetchBiblePassage';
 import { escapeHtml } from '../shared/html';
 
-type BiblePassageToolData = {
-  reference: string;
-  passage: string;
-  isOpen?: boolean;
-};
-
 type EditorJSToolConstructorArgs = {
-  data: Partial<BiblePassageToolData>;
+  data: Partial<BiblePassageBlockData>;
   api: unknown;
-  config?: BibleToolConfig;
+  config?: BiblePassageToolConfig;
   readOnly?: boolean;
 };
-
-export default class BibleReferenceTool {
+export default class BiblePassageTool {
   public static get toolbox() {
     return {
       title: 'Bible Passage',
@@ -33,7 +30,7 @@ export default class BibleReferenceTool {
   public static get sanitize() {
     return {
       reference: {},
-      passage: {
+      html: {
         br: true,
         p: true,
         div: {
@@ -42,6 +39,7 @@ export default class BibleReferenceTool {
         sup: {
           class: true,
         },
+        url: {},
       },
       isOpen: {},
     };
@@ -51,7 +49,7 @@ export default class BibleReferenceTool {
   private isEditing = false;
   private readonly config: BibleToolConfig;
 
-  private data: BiblePassageToolData;
+  private data: BiblePassageBlockData;
 
   private wrapper: HTMLDivElement | null = null;
   private controlsEl: HTMLDivElement | null = null;
@@ -66,11 +64,12 @@ export default class BibleReferenceTool {
     this.config = args.config || {};
     this.data = {
       reference: args.data?.reference ? String(args.data.reference) : '',
-      passage: args.data?.passage ? String(args.data.passage) : '',
+      html: args.data?.html ? String(args.data.html) : '',
+      url: args.data?.url ? String(args.data.url) : '',
       isOpen: typeof args.data?.isOpen === 'boolean' ? args.data.isOpen : true,
     };
 
-    this.isEditing = !this.data.passage;
+    this.isEditing = !this.data.html;
   }
 
   public render(): HTMLElement {
@@ -104,7 +103,7 @@ export default class BibleReferenceTool {
     this.passageEl = document.createElement('div');
     this.passageEl.className = 'bible-passage-tool__passage';
 
-    if (this.data.passage) {
+    if (this.data.html) {
       this.updateDisplay();
     }
 
@@ -158,7 +157,7 @@ export default class BibleReferenceTool {
 
     if (!reference) {
       this.data.reference = '';
-      this.data.passage = '';
+      this.data.html = '';
       this.data.isOpen = false;
       this.isEditing = true;
       this.updateDisplay();
@@ -167,7 +166,7 @@ export default class BibleReferenceTool {
     }
     if (!this.isValidReference(reference)) {
       this.data.reference = reference;
-      this.data.passage = '';
+      this.data.html = '';
       this.data.isOpen = false;
       this.isEditing = true;
       this.updateDisplay();
@@ -182,11 +181,12 @@ export default class BibleReferenceTool {
     this.setStatus('Loading passage...', 'info');
 
     try {
-      const passageText = await fetchBiblePassage(reference, this.config);
+      const result = await fetchBiblePassage(reference, this.config);
 
-      if (!passageText) {
+      if (!result || !result.html) {
         this.data.reference = reference;
-        this.data.passage = '';
+        this.data.html = '';
+        this.data.url = '';
         this.data.isOpen = false;
         this.isEditing = true;
         this.updateDisplay();
@@ -195,14 +195,15 @@ export default class BibleReferenceTool {
       }
 
       this.data.reference = reference;
-      this.data.passage = passageText;
+      this.data.html = result.html;
+      this.data.url = result.url || '';
       this.data.isOpen = true;
       this.isEditing = false;
       this.updateDisplay();
       this.setStatus('', '');
     } catch (err) {
       this.data.reference = reference;
-      this.data.passage = '';
+      this.data.html = '';
       this.data.isOpen = false;
       this.isEditing = true;
       this.updateDisplay();
@@ -239,7 +240,7 @@ export default class BibleReferenceTool {
   }
 
   private updateDisplay(): void {
-    const hasPassage = Boolean(this.data.passage && this.data.passage.trim());
+    const hasPassage = Boolean(this.data.html && this.data.html.trim());
 
     if (this.headerEl) {
       if (hasPassage) {
@@ -267,7 +268,7 @@ export default class BibleReferenceTool {
     }
 
     if (this.passageEl) {
-      this.passageEl.innerHTML = hasPassage ? this.formatPassage(this.data.passage) : '';
+      this.passageEl.innerHTML = hasPassage ? this.formatPassage(this.data.html) : '';
     }
 
     this.syncOpenState();
@@ -278,7 +279,7 @@ export default class BibleReferenceTool {
       return;
     }
 
-    const hasPassage = Boolean(this.data.passage && this.data.passage.trim());
+    const hasPassage = Boolean(this.data.html && this.data.html.trim());
 
     this.controlsEl.style.display = this.isEditing ? 'flex' : 'none';
     this.headerEl.style.display = !this.isEditing && hasPassage ? 'flex' : 'none';
@@ -292,8 +293,23 @@ export default class BibleReferenceTool {
       toggle.textContent = this.data.isOpen ? '−' : '+';
     }
   }
-  private formatPassage(text: string): string {
-    return text;
+  private formatPassage(html: string): string {
+    const readMore = this.data.url
+      ? `
+      <div class="bible-passage-tool__read-more-wrap">
+        <a
+          class="bible-passage-tool__read-more"
+          href="${escapeHtml(this.data.url)}"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Read More
+        </a>
+      </div>
+    `
+      : '';
+
+    return `${html}${readMore}`;
   }
 
   private isValidReference(reference: string): boolean {
@@ -302,21 +318,22 @@ export default class BibleReferenceTool {
     return /^[1-3]?\s*[A-Za-z]+(?:\s+[A-Za-z]+)*\s+\d+:\d+(?:-\d+)?$/i.test(normalized);
   }
 
-  public save(): BiblePassageToolData {
+  public save(): BiblePassageBlockData {
     const ref = this.referenceInput ? this.referenceInput.value.trim() : this.data.reference;
 
     return {
       reference: ref,
-      passage: this.data.passage || '',
+      html: this.data.html || '',
+      url: this.data.url || '',
       isOpen: this.data.isOpen ?? false,
     };
   }
 
-  public validate(savedData: BiblePassageToolData): boolean {
+  public validate(savedData: BiblePassageBlockData): boolean {
     const hasReference = Boolean(savedData.reference && savedData.reference.trim());
-    const hasPassage = Boolean(savedData.passage && savedData.passage.trim());
+    const hasHtml = Boolean(savedData.html && savedData.html.trim());
 
-    return hasReference || hasPassage || this.isEditing;
+    return hasReference || hasHtml || this.isEditing;
   }
 
   private setLoading(isLoading: boolean): void {

@@ -60,7 +60,7 @@ function getEmptyOutput(): OutputData {
   return {
     blocks: [],
     time: Date.now(),
-    version: '2.31.4',
+    version: '2.31.5',
   };
 }
 
@@ -153,7 +153,7 @@ async function onLoadTemplate(): Promise<void> {
   const nextOutput: OutputData = JSON.parse(
     JSON.stringify({
       time: Date.now(),
-      version: '2.31.4',
+      version: '2.31.5',
       blocks: templateFile.blocks,
     }),
   ) as OutputData;

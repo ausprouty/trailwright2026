@@ -40,3 +40,10 @@ translator.env
 /public/content
 /public/templates
 /public/images
+
+
+# Transitonal files
+/scripts/export
+/data
+
+

@@ -14,22 +14,6 @@ type MigrateOptions = {
   includeVersion?: boolean;
 };
 
-function mapSectionThemeFromClass(className: string): SectionTheme | null {
-  if (className === 'back') {
-    return 'back';
-  }
-
-  if (className === 'up') {
-    return 'up';
-  }
-
-  if (className === 'forward') {
-    return 'forward';
-  }
-
-  return null;
-}
-
 function parseArclightRefId(url: string): string {
   try {
     const parsed = new URL(url);
@@ -63,7 +47,7 @@ function cleanBibleHtml(rawHtml: string): string {
   const $root = $('#root');
 
   $root.find('hr').remove();
-  $root.find('a.readmore').remove();
+  $root.find('a.bible-readmore, a.readmore').remove();
   $root.find('p.reference').remove();
   const $firstParagraph = $root.children('p').first();
   const firstParagraphText = $firstParagraph.text().trim();
@@ -129,7 +113,7 @@ function extractVideoField($container: cheerio.Cheerio<AnyNode>, labelPattern: R
 }
 
 function extractBibleUrl($container: cheerio.Cheerio<AnyNode>): string {
-  const href = $container.find('a.readmore').first().attr('href');
+  const href = $container.find('a.bible-readmore, a.readmore').first().attr('href');
   return typeof href === 'string' ? href.trim() : '';
 }
 
@@ -419,6 +403,7 @@ export function migrateOldLessonHtmlToEditorJs(
 ): EditorJsContent {
   const $ = cheerio.load(html);
   const blocks: AnyEditorJsBlock[] = [];
+  let sectionIndex = 0;
 
   function processNode($el: cheerio.Cheerio<AnyNode>): void {
     if (isPlainReveal($el)) {
@@ -430,22 +415,25 @@ export function migrateOldLessonHtmlToEditorJs(
         return;
       }
     }
-
     if (isLessonDiv($el)) {
-      const $markerSpan = $el.find('.lesson-subtitle span').first();
+      const $subtitle = $el.children('.lesson-subtitle').first();
 
-      const className = $markerSpan.attr('class')?.trim() || '';
-      const theme = mapSectionThemeFromClass(className);
+      if ($subtitle.length > 0) {
+        const sectionThemes: SectionTheme[] = ['back', 'up', 'forward'];
+        const theme = sectionThemes[sectionIndex] || null;
 
-      if (theme) {
-        blocks.push(buildSectionMarkerBlock(theme));
-        return;
+        if (theme) {
+          blocks.push(buildSectionMarkerBlock(theme));
+          sectionIndex += 1;
+          return;
+        }
       }
 
       $el.contents().each((_, child) => {
         if (!isTag(child)) {
           return;
         }
+
         processNode($(child));
       });
 

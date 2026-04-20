@@ -7,6 +7,7 @@ import OikosListBlock from './blocks/OikosListBlock.vue';
 import VideoBlock from './blocks/VideoBlock.vue';
 import BiblePassageBlock from './blocks/BiblePassageBlock.vue';
 import LastTimeBlock from './blocks/LastTimeBlock.vue';
+import SectionMarkerBlock from './blocks/SectionMarkerBlock.vue';
 
 export function resolveSharedBlockComponent(type: string): Component | null {
   if (type === 'paragraph') {
@@ -25,7 +26,7 @@ export function resolveSharedBlockComponent(type: string): Component | null {
     return OikosListBlock;
   }
 
-  if (type === 'videoEmbed') {
+  if (type === 'video' || type === 'videoEmbed') {
     return VideoBlock;
   }
 
@@ -35,6 +36,10 @@ export function resolveSharedBlockComponent(type: string): Component | null {
 
   if (type === 'lastTime') {
     return LastTimeBlock;
+  }
+
+  if (type === 'sectionMarker') {
+    return SectionMarkerBlock;
   }
 
   return null;

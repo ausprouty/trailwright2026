@@ -5,32 +5,34 @@ import { migrateOldLessonHtmlToEditorJs } from './migrateOldLessonHtml';
 
 const PROJECT_ROOT = process.cwd();
 
-const SOURCE_HTML = path.join(
-  PROJECT_ROOT,
-  'data',
-  'raw',
-  'myfriends',
-  'AU',
-  'eng',
-  'life',
-  'life202.html',
-);
+const COUNTRY = 'AU';
+const LANGUAGE = 'eng';
+const SERIES = 'life';
 
-const PROCESSED_JSON = path.join(
+const SOURCE_DIR = path.join(PROJECT_ROOT, 'data', 'raw', 'myfriends', COUNTRY, LANGUAGE, SERIES);
+
+const PROCESSED_DIR = path.join(
   PROJECT_ROOT,
   'data',
   'processed',
   'myfriends',
-  'AU',
-  'eng',
-  'life',
-  'life202.json',
+  COUNTRY,
+  LANGUAGE,
+  SERIES,
 );
 
-const PREVIEW_JSON = path.join(PROJECT_ROOT, 'public', 'migration-preview', 'life202.json');
+const PREVIEW_DIR = path.join(
+  PROJECT_ROOT,
+  'public',
+  'migration-preview',
+  'myfriends',
+  COUNTRY,
+  LANGUAGE,
+  SERIES,
+);
 
-async function ensureDir(filePath: string): Promise<void> {
-  await fs.mkdir(path.dirname(filePath), { recursive: true });
+async function ensureDir(dirPath: string): Promise<void> {
+  await fs.mkdir(dirPath, { recursive: true });
 }
 
 function openBrowser(url: string): void {
@@ -44,33 +46,64 @@ function openBrowser(url: string): void {
   exec(command);
 }
 
+function isSeriesHtmlFile(fileName: string): boolean {
+  return /^life\d+\.html$/i.test(fileName);
+}
+
+function toJsonFileName(fileName: string): string {
+  return fileName.replace(/\.html$/i, '.json');
+}
+
 async function run(): Promise<void> {
-  const html = await fs.readFile(SOURCE_HTML, 'utf8');
+  const entries = await fs.readdir(SOURCE_DIR, { withFileTypes: true });
 
-  const json = migrateOldLessonHtmlToEditorJs(html, {
-    includeTime: true,
-    includeVersion: true,
-  });
-  // 👇 ADD THIS
-  console.log('\nBLOCK TYPES:\n');
-  console.log(json.blocks.map((b) => b.type));
-  console.log('\n');
+  const htmlFiles = entries
+    .filter((entry) => entry.isFile() && isSeriesHtmlFile(entry.name))
+    .map((entry) => entry.name)
+    .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
 
-  const jsonText = JSON.stringify(json, null, 2);
+  if (htmlFiles.length === 0) {
+    throw new Error(`No matching HTML files found in ${SOURCE_DIR}`);
+  }
 
-  await ensureDir(PROCESSED_JSON);
-  await fs.writeFile(PROCESSED_JSON, jsonText, 'utf8');
+  console.log(`Found ${htmlFiles.length} files to migrate.`);
 
-  await ensureDir(PREVIEW_JSON);
-  await fs.writeFile(PREVIEW_JSON, jsonText, 'utf8');
+  await ensureDir(PROCESSED_DIR);
+  await ensureDir(PREVIEW_DIR);
 
-  console.log(`Saved processed JSON:
-${PROCESSED_JSON}`);
+  for (const fileName of htmlFiles) {
+    const sourcePath = path.join(SOURCE_DIR, fileName);
+    const jsonFileName = toJsonFileName(fileName);
 
-  console.log(`Saved preview JSON:
-${PREVIEW_JSON}`);
+    const processedPath = path.join(PROCESSED_DIR, jsonFileName);
+    const previewPath = path.join(PREVIEW_DIR, jsonFileName);
 
-  openBrowser('http://localhost:9000/migration-preview');
+    const html = await fs.readFile(sourcePath, 'utf8');
+
+    const json = migrateOldLessonHtmlToEditorJs(html, {
+      includeTime: true,
+      includeVersion: true,
+    });
+
+    const jsonText = JSON.stringify(json, null, 2);
+
+    await fs.writeFile(processedPath, jsonText, 'utf8');
+    await fs.writeFile(previewPath, jsonText, 'utf8');
+
+    console.log(`Migrated ${fileName}`);
+    console.log(`  processed: ${processedPath}`);
+    console.log(`  preview:   ${previewPath}`);
+  }
+  if (htmlFiles.length === 0) {
+    throw new Error(`No matching HTML files found in ${SOURCE_DIR}`);
+  }
+  const firstFile = htmlFiles[0];
+  if (!firstFile) {
+    throw new Error('Unexpected: no first file after length check');
+  }
+  const firstLesson = firstFile.replace(/\.html$/i, '');
+
+  openBrowser(`http://localhost:9000/migration-preview/${SERIES}/${firstLesson}`);
 }
 
 run().catch((error) => {

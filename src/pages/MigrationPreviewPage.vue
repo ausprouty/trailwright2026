@@ -11,7 +11,7 @@ const router = useRouter();
 const series = computed(() => String(route.params.series || 'life'));
 const lesson = computed(() => String(route.params.lesson || 'life201'));
 const previewJsonUrl = computed(() => {
-  return `/migration-preview/AU/eng/${series.value}/${lesson.value}.json`;
+  return `/migration-preview/myfriends/AU/eng/${series.value}/${lesson.value}.json`;
 });
 const liveLessonUrl = computed(() => {
   return `https://myfriends.network/content/AU/eng/${series.value}/${lesson.value}.html`;
@@ -25,6 +25,7 @@ async function loadPreview(): Promise<void> {
   errorMessage.value = '';
 
   try {
+    console.log('Fetching preview JSON from:', previewJsonUrl.value);
     const response = await fetch(previewJsonUrl.value, {
       cache: 'no-store',
     });

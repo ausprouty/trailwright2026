@@ -8,7 +8,7 @@ const PROJECT_ROOT = process.cwd();
 
 const COUNTRY = 'AU';
 const LANGUAGE = 'eng';
-const SERIES = 'life';
+const SERIES = 'basics';
 
 const SOURCE_DIR = path.join(PROJECT_ROOT, 'data', 'raw', 'myfriends', COUNTRY, LANGUAGE, SERIES);
 

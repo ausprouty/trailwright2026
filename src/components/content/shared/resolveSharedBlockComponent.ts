@@ -8,6 +8,8 @@ import VideoBlock from './blocks/VideoBlock.vue';
 import BiblePassageBlock from './blocks/BiblePassageBlock.vue';
 import LastTimeBlock from './blocks/LastTimeBlock.vue';
 import SectionMarkerBlock from './blocks/SectionMarkerBlock.vue';
+import NotesAreaBlock from './blocks/NotesAreaBlock.vue';
+import IWillBlock from './blocks/IWillBlock.vue';
 
 export function resolveSharedBlockComponent(type: string): Component | null {
   if (type === 'paragraph') {
@@ -40,6 +42,13 @@ export function resolveSharedBlockComponent(type: string): Component | null {
 
   if (type === 'sectionMarker') {
     return SectionMarkerBlock;
+  }
+  if (type === 'notesArea') {
+    return NotesAreaBlock;
+  }
+
+  if (type === 'iWill') {
+    return IWillBlock;
   }
 
   return null;

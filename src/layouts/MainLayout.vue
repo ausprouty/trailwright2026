@@ -11,9 +11,9 @@ const menuLinks = [
     to: '/editor',
   },
   {
-    title: 'Viewer',
+    title: 'Migration Preview',
     icon: 'menu_book',
-    to: '/viewer',
+    to: '/migration-preview/',
   },
 ];
 </script>

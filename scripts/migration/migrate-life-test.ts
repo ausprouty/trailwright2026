@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { exec } from 'node:child_process';
 import { migrateOldLessonHtmlToEditorJs } from './migrateOldLessonHtml';
+import { normalizeLessonBlocks } from './normalizeLessonBlocks';
 
 const PROJECT_ROOT = process.cwd();
 
@@ -85,6 +86,13 @@ async function run(): Promise<void> {
       includeVersion: true,
     });
 
+    const lessonCode = fileName.replace(/\.html$/i, '').replace(/^life/i, '');
+    const keyPrefix = `${SERIES}-${lessonCode}`;
+
+    json.blocks = normalizeLessonBlocks(json.blocks, {
+      keyPrefix,
+    });
+
     const jsonText = JSON.stringify(json, null, 2);
 
     await fs.writeFile(processedPath, jsonText, 'utf8');
@@ -94,9 +102,7 @@ async function run(): Promise<void> {
     console.log(`  processed: ${processedPath}`);
     console.log(`  preview:   ${previewPath}`);
   }
-  if (htmlFiles.length === 0) {
-    throw new Error(`No matching HTML files found in ${SOURCE_DIR}`);
-  }
+
   const firstFile = htmlFiles[0];
   if (!firstFile) {
     throw new Error('Unexpected: no first file after length check');

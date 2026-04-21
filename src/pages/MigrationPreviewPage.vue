@@ -199,6 +199,7 @@ onMounted(() => {
 .migration-preview-page__iframe {
   width: 100%;
   min-height: 75vh;
+  height: 1200px;
   border: 0;
   background: #fff;
 }

@@ -1,8 +1,9 @@
+// npx tsx scripts/migration/basics/migrate-basics-test.ts
+
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { exec } from 'node:child_process';
-import { migrateOldLessonHtmlToEditorJs } from './migrateOldLessonHtml';
-import { normalizeLessonBlocks } from './normalizeLessonBlocks';
+import { transformBasics } from './transformBasics';
 
 const PROJECT_ROOT = process.cwd();
 
@@ -48,11 +49,15 @@ function openBrowser(url: string): void {
 }
 
 function isSeriesHtmlFile(fileName: string): boolean {
-  return /^life\d+\.html$/i.test(fileName);
+  return /\.html$/i.test(fileName);
 }
 
 function toJsonFileName(fileName: string): string {
   return fileName.replace(/\.html$/i, '.json');
+}
+
+function toLessonName(fileName: string): string {
+  return fileName.replace(/\.html$/i, '');
 }
 
 async function run(): Promise<void> {
@@ -72,25 +77,23 @@ async function run(): Promise<void> {
   await ensureDir(PROCESSED_DIR);
   await ensureDir(PREVIEW_DIR);
 
+  const lessons: string[] = [];
+
   for (const fileName of htmlFiles) {
     const sourcePath = path.join(SOURCE_DIR, fileName);
     const jsonFileName = toJsonFileName(fileName);
+    const lessonName = toLessonName(fileName);
 
     const processedPath = path.join(PROCESSED_DIR, jsonFileName);
     const previewPath = path.join(PREVIEW_DIR, jsonFileName);
 
     const html = await fs.readFile(sourcePath, 'utf8');
 
-    const json = migrateOldLessonHtmlToEditorJs(html, {
-      includeTime: true,
-      includeVersion: true,
-    });
-
-    const lessonCode = fileName.replace(/\.html$/i, '').replace(/^life/i, '');
-    const keyPrefix = `${SERIES}-${lessonCode}`;
-
-    json.blocks = normalizeLessonBlocks(json.blocks, {
-      keyPrefix,
+    const json = transformBasics(html, {
+      country: COUNTRY,
+      language: LANGUAGE,
+      series: SERIES,
+      sourceFile: fileName,
     });
 
     const jsonText = JSON.stringify(json, null, 2);
@@ -98,18 +101,28 @@ async function run(): Promise<void> {
     await fs.writeFile(processedPath, jsonText, 'utf8');
     await fs.writeFile(previewPath, jsonText, 'utf8');
 
+    lessons.push(lessonName);
+
     console.log(`Migrated ${fileName}`);
     console.log(`  processed: ${processedPath}`);
     console.log(`  preview:   ${previewPath}`);
   }
 
-  const firstFile = htmlFiles[0];
-  if (!firstFile) {
-    throw new Error('Unexpected: no first file after length check');
-  }
-  const firstLesson = firstFile.replace(/\.html$/i, '');
+  const indexPath = path.join(PREVIEW_DIR, 'index.json');
+  const indexText = JSON.stringify(lessons, null, 2);
 
-  openBrowser(`http://localhost:9000/migration-preview/${SERIES}/${firstLesson}`);
+  await fs.writeFile(indexPath, indexText, 'utf8');
+
+  console.log(`Wrote preview index: ${indexPath}`);
+
+  const firstLesson = lessons[0];
+  if (!firstLesson) {
+    throw new Error('Unexpected: no first lesson after migration');
+  }
+
+  openBrowser(
+    `http://localhost:9000/migration-preview/${COUNTRY}/${LANGUAGE}/${SERIES}/${firstLesson}`,
+  );
 }
 
 run().catch((error) => {

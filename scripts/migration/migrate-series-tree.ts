@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// npx tsx scripts/migration/migrate-series-tree.ts life AU (for series "life", country "AU", all languages)
 
 import fs from 'node:fs/promises';
 import path from 'node:path';

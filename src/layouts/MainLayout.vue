@@ -13,7 +13,7 @@ const menuLinks = [
   {
     title: 'Migration Preview',
     icon: 'menu_book',
-    to: '/migration-preview/',
+    to: '/migration-preview/AU/eng/basics/basics00',
   },
 ];
 </script>

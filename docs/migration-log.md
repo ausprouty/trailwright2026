@@ -17,3 +17,7 @@ ensure notes areas exist in the right places
 fill prompts when blank
 ensure final iWill block exists
 remain idempotent
+
+## Day 3
+
+In the basics, we do NOT add an I will to the end of the lesson. Instead we replace the first notes in Look Forward with an I will statement

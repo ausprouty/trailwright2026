@@ -407,11 +407,27 @@ export function migrateOldLessonHtmlToEditorJs(
 
   function processNode($el: cheerio.Cheerio<AnyNode>): void {
     if (isPlainReveal($el)) {
-      const title = normalizeTextForEditor($el.children('h2').first().text());
-      const nestedBlocks = extractRevealContentBlocks($, $el);
+      const $clone = $el.clone();
+      const $heading = $clone.children('h1, h2, h3, h4, h5, h6').first();
+      const title = normalizeTextForEditor($heading.text());
 
-      if (title && nestedBlocks.length > 0) {
-        blocks.push(buildCollapsibleGroupBlock(title, nestedBlocks));
+      if ($heading.length > 0) {
+        $heading.remove();
+      }
+
+      const nestedBlocks = extractRevealContentBlocks($, $clone);
+
+      if (title) {
+        if (nestedBlocks.length > 0) {
+          blocks.push(buildCollapsibleGroupBlock(title, nestedBlocks));
+        } else {
+          const fallbackHtml = normalizeInlineHtml($clone.html() || '');
+
+          if (!isIgnorableHtml(fallbackHtml)) {
+            blocks.push(buildCollapsibleGroupBlock(title, [buildParagraphBlock(fallbackHtml)]));
+          }
+        }
+
         return;
       }
     }

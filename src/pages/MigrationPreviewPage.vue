@@ -8,24 +8,64 @@ import { useRoute, useRouter } from 'vue-router';
 const route = useRoute();
 const router = useRouter();
 
+const country = computed(() => String(route.params.country || 'AU'));
+const language = computed(() => String(route.params.language || 'eng'));
 const series = computed(() => String(route.params.series || 'life'));
 const lesson = computed(() => String(route.params.lesson || 'life201'));
+
 const previewJsonUrl = computed(() => {
-  return `/migration-preview/myfriends/AU/eng/${series.value}/${lesson.value}.json`;
+  return `/migration-preview/myfriends/${country.value}/${language.value}/${series.value}/${lesson.value}.json`;
 });
+
+const previewIndexUrl = computed(() => {
+  return `/migration-preview/myfriends/${country.value}/${language.value}/${series.value}/index.json`;
+});
+
 const liveLessonUrl = computed(() => {
-  return `https://myfriends.network/content/AU/eng/${series.value}/${lesson.value}.html`;
+  return `https://myfriends.network/content/${country.value}/${language.value}/${series.value}/${lesson.value}.html`;
 });
+const rawLessonUrl = computed(() => {
+  return `/migration-raw/myfriends/${country.value}/${language.value}/${series.value}/${lesson.value}.html`;
+});
+
 const content = ref<EditorJsContentData | null>(null);
 const loading = ref(true);
 const errorMessage = ref('');
+const lessonList = ref<string[]>([]);
+
+async function loadLessonList(): Promise<void> {
+  try {
+    const response = await fetch(previewIndexUrl.value, {
+      cache: 'no-store',
+    });
+
+    if (!response.ok) {
+      lessonList.value = [];
+      return;
+    }
+
+    const data = (await response.json()) as unknown;
+
+    if (Array.isArray(data)) {
+      lessonList.value = data.filter((item): item is string => typeof item === 'string');
+      return;
+    }
+
+    lessonList.value = [];
+  } catch {
+    lessonList.value = [];
+  }
+}
 
 async function loadPreview(): Promise<void> {
   loading.value = true;
   errorMessage.value = '';
 
   try {
+    await loadLessonList();
+
     console.log('Fetching preview JSON from:', previewJsonUrl.value);
+
     const response = await fetch(previewJsonUrl.value, {
       cache: 'no-store',
     });
@@ -36,6 +76,7 @@ async function loadPreview(): Promise<void> {
 
     content.value = (await response.json()) as EditorJsContentData;
   } catch (error) {
+    content.value = null;
     errorMessage.value = error instanceof Error ? error.message : 'Unknown error';
   } finally {
     loading.value = false;
@@ -45,51 +86,51 @@ async function loadPreview(): Promise<void> {
 const prettyJson = computed((): string => {
   return content.value ? JSON.stringify(content.value, null, 2) : '';
 });
-function parseLessonNumber(code: string): number | null {
-  const match = code.match(/^([a-z]+)(\d+)$/i);
 
-  if (!match) {
-    return null;
-  }
+const currentLessonIndex = computed((): number => {
+  return lessonList.value.indexOf(lesson.value);
+});
 
-  return Number(match[2]);
-}
+const hasPrevious = computed((): boolean => {
+  return currentLessonIndex.value > 0;
+});
 
-function parseLessonPrefix(code: string): string {
-  const match = code.match(/^([a-z]+)(\d+)$/i);
+const hasNext = computed((): boolean => {
+  return currentLessonIndex.value !== -1 && currentLessonIndex.value < lessonList.value.length - 1;
+});
 
-  if (!match || !match[1]) {
-    return 'life';
-  }
-
-  return match[1];
-}
-
-function goToLesson(number: number): void {
-  const prefix = parseLessonPrefix(lesson.value);
-
+function goToLesson(targetLesson: string): void {
   void router.push({
-    path: `/migration-preview/${series.value}/${prefix}${number}`,
+    path: `/migration-preview/${country.value}/${language.value}/${series.value}/${targetLesson}`,
   });
 }
 
 function goPrevious(): void {
-  const number = parseLessonNumber(lesson.value);
+  if (!hasPrevious.value) {
+    return;
+  }
 
-  if (number && number > 1) {
-    goToLesson(number - 1);
+  const targetLesson = lessonList.value[currentLessonIndex.value - 1];
+
+  if (targetLesson) {
+    goToLesson(targetLesson);
   }
 }
 
 function goNext(): void {
-  const number = parseLessonNumber(lesson.value);
+  if (!hasNext.value) {
+    return;
+  }
 
-  if (number) {
-    goToLesson(number + 1);
+  const targetLesson = lessonList.value[currentLessonIndex.value + 1];
+
+  if (targetLesson) {
+    goToLesson(targetLesson);
   }
 }
+
 watch(
-  () => [series.value, lesson.value],
+  () => [country.value, language.value, series.value, lesson.value],
   () => {
     void loadPreview();
   },
@@ -104,11 +145,14 @@ onMounted(() => {
   <q-page class="migration-preview-page">
     <div class="migration-preview-page__inner">
       <div class="migration-preview-page__header">
-        <div class="migration-preview-page__title">Migration Preview: {{ lesson }}</div>
+        <div class="migration-preview-page__title">
+          Migration Preview:
+          {{ country }}/{{ language }}/{{ series }}/{{ lesson }}
+        </div>
 
         <div class="migration-preview-page__actions">
-          <q-btn dense label="Prev" @click="goPrevious" />
-          <q-btn dense label="Next" @click="goNext" />
+          <q-btn dense label="Prev" :disable="!hasPrevious" @click="goPrevious" />
+          <q-btn dense label="Next" :disable="!hasNext" @click="goNext" />
           <q-btn dense color="primary" label="Reload" @click="loadPreview" />
         </div>
       </div>
@@ -122,6 +166,14 @@ onMounted(() => {
       <div v-else class="migration-preview-page__grid">
         <section class="migration-preview-page__panel">
           <h4>Generated JSON</h4>
+          <a
+            :href="rawLessonUrl"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="migration-preview-page__link"
+          >
+            See Source
+          </a>
           <pre>{{ prettyJson }}</pre>
         </section>
 
@@ -136,7 +188,17 @@ onMounted(() => {
         </section>
 
         <section class="migration-preview-page__panel">
-          <h4>Live Website</h4>
+          <h4>
+            Live Website —
+            <a
+              :href="liveLessonUrl"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="migration-preview-page__link"
+            >
+              Open in new tab
+            </a>
+          </h4>
 
           <iframe :src="liveLessonUrl" class="migration-preview-page__iframe" />
         </section>
@@ -187,7 +249,13 @@ onMounted(() => {
   overflow: auto;
   min-height: 80vh;
 }
-
+.migration-preview-page__link {
+  font-size: 1rem;
+  margin-left: 8px;
+  color: #3c6e89;
+  text-decoration: underline;
+  cursor: pointer;
+}
 .migration-preview-page__panel pre {
   white-space: pre-wrap;
   word-break: break-word;

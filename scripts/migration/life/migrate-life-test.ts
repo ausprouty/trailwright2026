@@ -1,13 +1,18 @@
+// DEV TEST CONFIG
+// You can override COUNTRY and LANGUAGE via command line:
+//   node migrate-life-test.ts AT cmn
+// Defaults to AU/eng if no arguments are provided.
+
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { exec } from 'node:child_process';
-import { migrateOldLessonHtmlToEditorJs } from './transformLife';
+import { transformLife } from './transformLife';
 import { normalizeLessonBlocks } from './normalizeLessonBlocks';
 
 const PROJECT_ROOT = process.cwd();
 
-const COUNTRY = 'AU';
-const LANGUAGE = 'eng';
+const COUNTRY = process.argv[2] || 'AU';
+const LANGUAGE = process.argv[3] || 'eng';
 const SERIES = 'life';
 
 const SOURCE_DIR = path.join(PROJECT_ROOT, 'data', 'raw', 'myfriends', COUNTRY, LANGUAGE, SERIES);
@@ -81,9 +86,11 @@ async function run(): Promise<void> {
 
     const html = await fs.readFile(sourcePath, 'utf8');
 
-    const json = migrateOldLessonHtmlToEditorJs(html, {
-      includeTime: true,
-      includeVersion: true,
+    const json = transformLife(html, {
+      country: COUNTRY,
+      language: LANGUAGE,
+      series: SERIES,
+      sourceFile: fileName,
     });
 
     const lessonCode = fileName.replace(/\.html$/i, '').replace(/^life/i, '');

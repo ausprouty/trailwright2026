@@ -24,7 +24,7 @@ export function normalizeLessonBlocks(
     result.push(block);
   }
 
-  ensureFinalIWillBlock(result, options.keyPrefix);
+  replaceFirstLookForwardNotesWithIWill(result, options.keyPrefix);
 
   return result;
 }
@@ -43,16 +43,40 @@ function ensureNotesAreaBeforeSection(
   blocks.push(buildNotesAreaBlock(target, keyPrefix));
 }
 
-function ensureFinalIWillBlock(blocks: AnyEditorJsBlock[], keyPrefix: string): void {
-  const trailingBlocks = getTrailingMeaningfulBlocks(blocks, 3);
-  const hasIWill = trailingBlocks.some((block) => block.type === 'iWill');
 
-  if (hasIWill) {
-    return;
+function replaceFirstLookForwardNotesWithIWill(
+  blocks: AnyEditorJsBlock[],
+  keyPrefix: string,
+): void {
+  let inLookForward = false;
+
+  for (let i = 0; i < blocks.length; i += 1) {
+    const block = blocks[i];
+    if (!block) {
+      continue;
+    }
+
+    if (isSectionMarker(block, 'forward')) {
+      inLookForward = true;
+      continue;
+    }
+
+    if (!inLookForward) {
+      continue;
+    }
+
+    if (block.type === 'sectionMarker') {
+      return;
+    }
+
+    if (block.type === 'notesArea') {
+      blocks[i] = buildIWillBlock(`${keyPrefix}-i-will`);
+      return;
+    }
   }
-
-  blocks.push(buildIWillBlock(`${keyPrefix}-i-will`));
 }
+
+
 
 function isSectionMarker(block: AnyEditorJsBlock, theme: SectionTheme): boolean {
   if (block.type !== 'sectionMarker') {

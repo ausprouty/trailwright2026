@@ -40,4 +40,25 @@ const tagName = computed(() => {
   margin: 1.25rem 0 0.75rem;
   line-height: 1.3;
 }
+
+/* ✅ Add these */
+h1.header-block {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+h2.header-block {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+h3.header-block {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+h4.header-block {
+  font-size: 1.05rem;
+  font-weight: 600;
+}
 </style>

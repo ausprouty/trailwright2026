@@ -21,3 +21,7 @@ remain idempotent
 ## Day 3
 
 In the basics, we do NOT add an I will to the end of the lesson. Instead we replace the first notes in Look Forward with an I will statement
+
+## Day 4
+
+WE need to fix: AU/eng/basics/community

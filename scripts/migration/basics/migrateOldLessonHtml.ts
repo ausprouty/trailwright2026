@@ -1,3 +1,5 @@
+// basics/migrateOldLessonHtml
+
 import * as cheerio from 'cheerio';
 import type { AnyNode } from 'domhandler';
 import { isTag } from 'domhandler';
@@ -9,148 +11,71 @@ import type {
   VideoSource,
 } from 'src/types/content/MigrationTypes';
 
+import {
+  extractInlineBibleRefs,
+  type BibleRef,
+} from '../shared/extractInlineBibleRefs';
+
 type MigrateOptions = {
   includeTime?: boolean;
   includeVersion?: boolean;
 };
 
-function parseArclightRefId(url: string): string {
-  try {
-    const parsed = new URL(url);
-    return parsed.searchParams.get('refId') || '';
-  } catch {
-    return '';
-  }
-}
-
-function detectVideoSource(url: string): VideoSource {
-  if (/arclight\.org/i.test(url)) {
-    return 'arclight';
-  }
-
-  if (/youtube\.com|youtu\.be/i.test(url)) {
-    return 'youtube';
-  }
-
-  if (/vimeo\.com/i.test(url)) {
-    return 'vimeo';
-  }
-
-  return '';
-}
-function looksLikeBibleReference(text: string): boolean {
-  return /^[1-3]?\s?[A-Za-z]+(?:\s+[A-Za-z]+)*\s+\d+:\d+(?:-\d+)?$/.test(text.trim());
-}
-
-function cleanBibleHtml(rawHtml: string): string {
-  const $ = cheerio.load(`<div id="root">${rawHtml}</div>`);
-  const $root = $('#root');
-
-  $root.find('hr').remove();
-  $root.find('a.bible-readmore, a.readmore').remove();
-  $root.find('p.reference').remove();
-  const $firstParagraph = $root.children('p').first();
-  const firstParagraphText = $firstParagraph.text().trim();
-
-  if (looksLikeBibleReference(firstParagraphText)) {
-    $firstParagraph.remove();
-  }
-
-  $root.find('br').each((_, el) => {
-    const $el = $(el);
-    const next = $el.next();
-
-    if (!next.length) {
-      $el.remove();
-    }
-  });
-  const cleanedHtml = normalizeInlineHtml($root.html() || '');
-
-  return cleanedHtml;
-}
-
-function extractBibleReference($container: cheerio.Cheerio<AnyNode>): string {
-  const explicitReference = $container.find('p.reference').first().text().trim();
-
-  if (explicitReference) {
-    return explicitReference;
-  }
-
-  const $firstParagraph = $container.children('p').first();
-  const firstParagraphText = $firstParagraph.text().trim();
-
-  if (looksLikeBibleReference(firstParagraphText)) {
-    return firstParagraphText;
-  }
-
-  return '';
-}
-
-function normalizeVideoLabel(label: string): string {
-  return label.replace(/\s+/g, ' ').replace(/\s+:/g, ':').trim().toLowerCase();
-}
-
-function extractVideoField($container: cheerio.Cheerio<AnyNode>, labelPattern: RegExp): string {
-  let value = '';
-
-  $container.find('tr').each((_, row) => {
-    const $row = $container.find(row);
-    const $cells = $row.children('td');
-
-    if ($cells.length < 2) {
-      return;
-    }
-
-    const label = normalizeVideoLabel($cells.eq(0).text());
-    const cellValue = $cells.eq(1).text().replace(/\s+/g, ' ').trim();
-
-    if (labelPattern.test(label)) {
-      value = cellValue;
-    }
-  });
-
-  return value;
-}
-
-function extractBibleUrl($container: cheerio.Cheerio<AnyNode>): string {
-  const href = $container.find('a.bible-readmore, a.readmore').first().attr('href');
-  return typeof href === 'string' ? href.trim() : '';
-}
-
-function buildSectionMarkerBlock(theme: SectionTheme): AnyEditorJsBlock {
+function buildBiblePassageBlock(
+  reference: string,
+  html: string,
+  url: string,
+): AnyEditorJsBlock {
   return {
-    type: 'sectionMarker',
+    type: 'biblePassage',
     data: {
-      theme,
+      reference,
+      html,
+      url,
+      isOpen: true,
     },
   };
 }
 
-function buildListBlock(style: 'ordered' | 'unordered', items: string[]): AnyEditorJsBlock {
+function buildCollapsibleGroupBlock(
+  title: string,
+  contentBlocks: AnyEditorJsBlock[],
+): AnyEditorJsBlock {
   return {
-    type: 'list',
+    type: 'collapsibleGroup',
     data: {
-      style,
-      items,
+      title,
+      isOpen: true,
+      content: {
+        blocks: contentBlocks,
+        version: '2.31.5',
+      },
     },
   };
 }
 
-function buildParagraphBlock(html: string): AnyEditorJsBlock {
-  return {
-    type: 'paragraph',
-    data: {
-      text: html,
-    },
-  };
-}
-
-function buildHeaderBlock(text: string, level: 1 | 2 | 3 | 4 | 5 | 6 = 3): AnyEditorJsBlock {
+function buildHeaderBlock(
+  text: string,
+  level: 1 | 2 | 3 | 4 | 5 | 6 = 3,
+): AnyEditorJsBlock {
   return {
     type: 'header',
     data: {
       text,
       level,
+    },
+  };
+}
+
+function buildListBlock(
+  style: 'ordered' | 'unordered',
+  items: string[],
+): AnyEditorJsBlock {
+  return {
+    type: 'list',
+    data: {
+      style,
+      items,
     },
   };
 }
@@ -165,30 +90,24 @@ function buildNotesAreaBlock(storageKey: string): AnyEditorJsBlock {
   };
 }
 
-function buildBiblePassageBlock(reference: string, html: string, url: string): AnyEditorJsBlock {
+function buildParagraphBlock(
+  html: string,
+  bibleRefs: BibleRef[] = [],
+): AnyEditorJsBlock {
   return {
-    type: 'biblePassage',
+    type: 'paragraph',
     data: {
-      reference,
-      html,
-      url,
-      isOpen: true,
+      text: html,
+      ...(bibleRefs.length > 0 ? { bibleRefs } : {}),
     },
   };
 }
-function buildCollapsibleGroupBlock(
-  title: string,
-  contentBlocks: AnyEditorJsBlock[],
-): AnyEditorJsBlock {
+
+function buildSectionMarkerBlock(theme: SectionTheme): AnyEditorJsBlock {
   return {
-    type: 'collapsibleGroup',
+    type: 'sectionMarker',
     data: {
-      title,
-      isOpen: true,
-      content: {
-        blocks: contentBlocks,
-        version: '2.31.5',
-      },
+      theme,
     },
   };
 }
@@ -214,104 +133,31 @@ function buildVideoBlock(
   };
 }
 
-function isLessonDiv($el: cheerio.Cheerio<AnyNode>): boolean {
-  return $el.is('div.lesson');
-}
+function cleanBibleHtml(rawHtml: string): string {
+  const $ = cheerio.load(`<div id="root">${rawHtml}</div>`);
+  const $root = $('#root');
 
-function isNoteArea($el: cheerio.Cheerio<AnyNode>): boolean {
-  return $el.is('div.note-area');
-}
+  $root.find('hr').remove();
+  $root.find('a.bible-readmore, a.readmore').remove();
+  $root.find('p.reference, p.myfriends-reference').remove();
 
-function isOrderedListWrapper($el: cheerio.Cheerio<AnyNode>): boolean {
-  return $el.is('div.ol');
-}
+  const $firstParagraph = $root.children('p').first();
+  const firstParagraphText = $firstParagraph.text().trim();
 
-function isParagraph($el: cheerio.Cheerio<AnyNode>): boolean {
-  return $el.is('p');
-}
+  if (looksLikeBibleReference(firstParagraphText)) {
+    $firstParagraph.remove();
+  }
 
-function isHeadingTwo($el: cheerio.Cheerio<AnyNode>): boolean {
-  return $el.is('h2');
-}
+  $root.find('br').each((_, el) => {
+    const $el = $(el);
+    const next = $el.next();
 
-function isHeadingThree($el: cheerio.Cheerio<AnyNode>): boolean {
-  return $el.is('h3');
-}
-
-function isOrderedList($el: cheerio.Cheerio<AnyNode>): boolean {
-  return $el.is('ol');
-}
-function isPlainReveal($el: cheerio.Cheerio<AnyNode>): boolean {
-  return $el.is('div.reveal') && !isBibleReveal($el) && !isFilmReveal($el);
-}
-
-function isUnorderedList($el: cheerio.Cheerio<AnyNode>): boolean {
-  return $el.is('ul');
-}
-
-function isBibleReveal($el: cheerio.Cheerio<AnyNode>): boolean {
-  return $el.is('div.reveal.bible');
-}
-
-function isFilmReveal($el: cheerio.Cheerio<AnyNode>): boolean {
-  return $el.is('div.reveal.film');
-}
-
-function extractListItems($: cheerio.CheerioAPI, $list: cheerio.Cheerio<AnyNode>): string[] {
-  return $list
-    .children('li')
-    .map((_, li) => normalizeTextForEditor(normalizeInlineHtml($(li).html() || '')))
-    .get()
-    .filter(Boolean);
-}
-function extractRevealContentBlocks(
-  $: cheerio.CheerioAPI,
-  $container: cheerio.Cheerio<AnyNode>,
-): AnyEditorJsBlock[] {
-  const nestedBlocks: AnyEditorJsBlock[] = [];
-
-  $container.contents().each((_, child) => {
-    if (!isTag(child)) {
-      return;
-    }
-
-    const $child = $(child);
-
-    if ($child.is('h1, h2, h3, hr')) {
-      return;
-    }
-
-    if ($child.hasClass('background-text')) {
-      const text = normalizeInlineHtml($child.html() || '');
-
-      if (!isIgnorableHtml(text)) {
-        nestedBlocks.push(buildParagraphBlock(text));
-      }
-
-      return;
-    }
-
-    const html = normalizeInlineHtml($child.html() || $child.text() || '');
-
-    if (!isIgnorableHtml(html)) {
-      nestedBlocks.push(buildParagraphBlock(html));
+    if (!next.length) {
+      $el.remove();
     }
   });
 
-  return nestedBlocks;
-}
-
-function isIgnorableHtml(html: string): boolean {
-  const textOnly = html
-    .replace(/&nbsp;/gi, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
-
-  return textOnly === '';
-}
-
-function trimNbspEdges(text: string): string {
-  return text.replace(/^(?:\s|&nbsp;|\u00A0)+/gi, '').replace(/(?:\s|&nbsp;|\u00A0)+$/gi, '');
+  return normalizeInlineHtml($root.html() || '');
 }
 
 function collapsePlainTextWhitespace(text: string): string {
@@ -327,32 +173,296 @@ function decodeHtmlEntities(text: string): string {
   return $('#decode-root').text();
 }
 
-function unwrapRedundantSpans($: cheerio.CheerioAPI, $root: cheerio.Cheerio<AnyNode>): void {
-  let changed = true;
+function detectVideoSource(url: string): VideoSource {
+  if (/arclight\.org/i.test(url)) {
+    return 'arclight';
+  }
 
-  while (changed) {
-    changed = false;
+  if (/youtube\.com|youtu\.be/i.test(url)) {
+    return 'youtube';
+  }
 
-    $root.find('span').each((_, el) => {
-      const $el = $(el);
-      const attrs = el.attribs || {};
-      const attrNames = Object.keys(attrs);
+  if (/vimeo\.com/i.test(url)) {
+    return 'vimeo';
+  }
 
-      const hasOnlyColorBlack =
-        attrNames.length === 1 &&
-        attrNames[0] === 'style' &&
-        /^\s*color\s*:\s*black\s*;?\s*$/i.test(attrs.style || '');
+  return '';
+}
 
-      const hasNoUsefulAttrs = attrNames.length === 0 || hasOnlyColorBlack;
+function extractBibleReference($container: cheerio.Cheerio<AnyNode>): string {
+  const explicitReference = $container
+    .find('p.reference, p.myfriends-reference')
+    .first()
+    .text()
+    .trim();
 
-      if (!hasNoUsefulAttrs) {
-        return;
+  if (explicitReference) {
+    return explicitReference;
+  }
+
+  const $firstParagraph = $container.children('p').first();
+  const firstParagraphText = $firstParagraph.text().trim();
+
+  if (looksLikeBibleReference(firstParagraphText)) {
+    return firstParagraphText;
+  }
+
+  return '';
+}
+
+function extractBibleUrl($container: cheerio.Cheerio<AnyNode>): string {
+  const href = $container
+    .find('a.bible-readmore, a.readmore')
+    .first()
+    .attr('href');
+
+  return typeof href === 'string' ? href.trim() : '';
+}
+
+function extractListItems(
+  $: cheerio.CheerioAPI,
+  $list: cheerio.Cheerio<AnyNode>,
+): string[] {
+  return $list
+    .children('li')
+    .map((_, li) => normalizeInlineHtml($(li).html() || ''))
+    .get()
+    .filter(Boolean);
+}
+
+function extractRevealContentBlocks(
+  $: cheerio.CheerioAPI,
+  $container: cheerio.Cheerio<AnyNode>,
+): AnyEditorJsBlock[] {
+  const nestedBlocks: AnyEditorJsBlock[] = [];
+
+  function pushElement($element: cheerio.Cheerio<AnyNode>): void {
+    if ($element.is('hr')) {
+      return;
+    }
+
+    if ($element.is('h2')) {
+      const text = normalizeTextForEditor($element.text());
+
+      if (text) {
+        nestedBlocks.push(buildHeaderBlock(text, 2));
       }
 
-      $el.replaceWith($el.html() || '');
-      changed = true;
+      return;
+    }
+
+    if ($element.is('h3')) {
+      const text = normalizeTextForEditor($element.text());
+
+      if (text) {
+        nestedBlocks.push(buildHeaderBlock(text, 3));
+      }
+
+      return;
+    }
+
+    if (isOrderedList($element)) {
+      const items = extractListItems($, $element);
+
+      if (items.length > 0) {
+        nestedBlocks.push(buildListBlock('ordered', items));
+      }
+
+      return;
+    }
+
+    if (isUnorderedList($element)) {
+      const items = extractListItems($, $element);
+
+      if (items.length > 0) {
+        nestedBlocks.push(buildListBlock('unordered', items));
+      }
+
+      return;
+    }
+
+    if ($element.is('div.lesson, div.background-text')) {
+      const rawText = normalizeTextForEditor($element.clone().children().remove().end().text());
+
+      if (rawText) {
+        nestedBlocks.push(buildParagraphBlock(rawText));
+      }
+
+      $element.contents().each((_, inner) => {
+        if (!isTag(inner)) {
+          return;
+        }
+
+        pushElement($(inner));
+      });
+
+      return;
+    }
+
+    const result = extractInlineBibleRefs($, $element, {
+      normalizeInlineHtml,
+      normalizeTextForEditor,
     });
+
+    if (!isIgnorableHtml(result.html)) {
+      nestedBlocks.push(buildParagraphBlock(result.html, result.bibleRefs));
+    }
   }
+
+  $container.contents().each((_, child) => {
+    if (!isTag(child)) {
+      return;
+    }
+
+    pushElement($(child));
+  });
+
+  return nestedBlocks;
+}
+
+
+
+function extractVideoField(
+  $container: cheerio.Cheerio<AnyNode>,
+  labelPattern: RegExp,
+): string {
+  let value = '';
+
+  $container.find('tr').each((_, row) => {
+    const $row = $container.find(row);
+    const $cells = $row.children('td');
+
+    if ($cells.length < 2) {
+      return;
+    }
+
+    const label = normalizeVideoLabel($cells.eq(0).text());
+    const cellValue = $cells.eq(1).text().replace(/\s+/g, ' ').trim();
+
+    if (labelPattern.test(label)) {
+      value = cellValue;
+    }
+  });
+
+  return value;
+}
+
+
+
+function getNextCollapsedDiv(
+  $: cheerio.CheerioAPI,
+  $el: cheerio.Cheerio<AnyNode>,
+): cheerio.Cheerio<AnyNode> {
+  const id = $el.attr('id') || '';
+  const match = id.match(/^Summary(.+)$/);
+
+  if (match) {
+    const byId = $(`#Text${match[1]}`);
+
+    if (byId.length > 0) {
+      return byId.first();
+    }
+  }
+
+  return $el.nextAll('div.collapsed').first();
+}
+
+function getSectionTheme($el: cheerio.Cheerio<AnyNode>): SectionTheme {
+  if ($el.find('.lesson-subtitle .back').length > 0) {
+    return 'back';
+  }
+
+  if ($el.find('.lesson-subtitle .up').length > 0) {
+    return 'up';
+  }
+
+  if ($el.find('.lesson-subtitle .forward').length > 0) {
+    return 'forward';
+  }
+
+  return 'up';
+}
+
+function isBibleReveal($el: cheerio.Cheerio<AnyNode>): boolean {
+  return $el.is('div.reveal.bible');
+}
+
+function isCollapsedDiv($el: cheerio.Cheerio<AnyNode>): boolean {
+  return $el.is('div.collapsed');
+}
+
+function isCollapsibleBibleButton($el: cheerio.Cheerio<AnyNode>): boolean {
+  return $el.is('button.collapsible.bible');
+}
+
+function isCollapsibleSummary($el: cheerio.Cheerio<AnyNode>): boolean {
+  return $el.is('div.summary');
+}
+
+function isEmptyLessonDiv($el: cheerio.Cheerio<AnyNode>): boolean {
+  const text = normalizeTextForEditor($el.text());
+
+  return $el.is('div.lesson') && text === '';
+}
+
+function isFilmReveal($el: cheerio.Cheerio<AnyNode>): boolean {
+  return $el.is('div.reveal.film');
+}
+
+function isHeadingThree($el: cheerio.Cheerio<AnyNode>): boolean {
+  return $el.is('h3');
+}
+
+function isHeadingTwo($el: cheerio.Cheerio<AnyNode>): boolean {
+  return $el.is('h2');
+}
+
+function isIgnorableHtml(html: string): boolean {
+  const textOnly = html
+    .replace(/&nbsp;/gi, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  return textOnly === '';
+}
+
+function isLessonDiv($el: cheerio.Cheerio<AnyNode>): boolean {
+  return $el.is('div.lesson');
+}
+
+function isNoteArea($el: cheerio.Cheerio<AnyNode>): boolean {
+  return $el.is('div.note-area, div.note-div');
+}
+
+function isOrderedList($el: cheerio.Cheerio<AnyNode>): boolean {
+  return $el.is('ol');
+}
+
+function isOrderedListWrapper($el: cheerio.Cheerio<AnyNode>): boolean {
+  return $el.is('div.ol');
+}
+
+function isParagraph($el: cheerio.Cheerio<AnyNode>): boolean {
+  return $el.is('p');
+}
+
+function isPlainReveal($el: cheerio.Cheerio<AnyNode>): boolean {
+  return $el.is('div.reveal') && !isBibleReveal($el) && !isFilmReveal($el);
+}
+
+function isSectionMarkerLesson($el: cheerio.Cheerio<AnyNode>): boolean {
+  return $el.find('.lesson-subtitle .back, .lesson-subtitle .up, .lesson-subtitle .forward')
+    .length > 0;
+}
+
+function isUnorderedList($el: cheerio.Cheerio<AnyNode>): boolean {
+  return $el.is('ul');
+}
+
+function looksLikeBibleReference(text: string): boolean {
+  return /^[1-3]?\s?[A-Za-z]+(?:\s+[A-Za-z]+)*\s+\d+(?::\d+(?:-\d+)?)?$/.test(
+    text.trim(),
+  );
 }
 
 function normalizeInlineHtml(html: string): string {
@@ -384,9 +494,7 @@ function normalizeInlineHtml(html: string): string {
     .replace(/\s{2,}/g, ' ')
     .replace(/>\s+</g, '><');
 
-  cleaned = trimNbspEdges(cleaned);
-
-  return cleaned.trim();
+  return trimNbspEdges(cleaned).trim();
 }
 
 function normalizeTextForEditor(text: string): string {
@@ -395,6 +503,58 @@ function normalizeTextForEditor(text: string): string {
   }
 
   return collapsePlainTextWhitespace(decodeHtmlEntities(trimNbspEdges(text)));
+}
+
+function normalizeVideoLabel(label: string): string {
+  return label.replace(/\s+/g, ' ').replace(/\s+:/g, ':').trim().toLowerCase();
+}
+
+function parseArclightRefId(url: string): string {
+  try {
+    const parsed = new URL(url);
+    return parsed.searchParams.get('refId') || '';
+  } catch {
+    return '';
+  }
+}
+
+
+
+function trimNbspEdges(text: string): string {
+  return text
+    .replace(/^(?:\s|&nbsp;|\u00A0)+/gi, '')
+    .replace(/(?:\s|&nbsp;|\u00A0)+$/gi, '');
+}
+
+function unwrapRedundantSpans(
+  $: cheerio.CheerioAPI,
+  $root: cheerio.Cheerio<AnyNode>,
+): void {
+  let changed = true;
+
+  while (changed) {
+    changed = false;
+
+    $root.find('span').each((_, el) => {
+      const $el = $(el);
+      const attrs = el.attribs || {};
+      const attrNames = Object.keys(attrs);
+
+      const hasOnlyColorBlack =
+        attrNames.length === 1 &&
+        attrNames[0] === 'style' &&
+        /^\s*color\s*:\s*black\s*;?\s*$/i.test(attrs.style || '');
+
+      const hasNoUsefulAttrs = attrNames.length === 0 || hasOnlyColorBlack;
+
+      if (!hasNoUsefulAttrs) {
+        return;
+      }
+
+      $el.replaceWith($el.html() || '');
+      changed = true;
+    });
+  }
 }
 
 export function migrateOldLessonHtmlToEditorJs(
@@ -406,6 +566,27 @@ export function migrateOldLessonHtmlToEditorJs(
   let sectionIndex = 0;
 
   function processNode($el: cheerio.Cheerio<AnyNode>): void {
+
+    // ✅ HANDLE .lesson FIRST
+    if ($el.hasClass && $el.hasClass('lesson')) {
+      if (isSectionMarkerLesson($el)) {
+        const theme = getSectionTheme($el);
+        blocks.push(buildSectionMarkerBlock(theme));
+        return;
+      }
+
+      $el.contents().each((_, child) => {
+        if (!isTag(child)) {
+          return;
+        }
+
+        processNode($(child));
+      });
+
+      return;
+    }
+
+  // 👇 existing logic continues below
     if (isPlainReveal($el)) {
       const $clone = $el.clone();
       const $heading = $clone.children('h1, h2, h3, h4, h5, h6').first();
@@ -424,13 +605,22 @@ export function migrateOldLessonHtmlToEditorJs(
           const fallbackHtml = normalizeInlineHtml($clone.html() || '');
 
           if (!isIgnorableHtml(fallbackHtml)) {
-            blocks.push(buildCollapsibleGroupBlock(title, [buildParagraphBlock(fallbackHtml)]));
+            blocks.push(
+              buildCollapsibleGroupBlock(title, [
+                buildParagraphBlock(fallbackHtml),
+              ]),
+            );
           }
         }
 
         return;
       }
     }
+
+    if (isEmptyLessonDiv($el)) {
+      return;
+    }
+
     if (isLessonDiv($el)) {
       const $subtitle = $el.children('.lesson-subtitle').first();
 
@@ -458,7 +648,9 @@ export function migrateOldLessonHtmlToEditorJs(
 
     if (isNoteArea($el)) {
       const rawKey =
-        $el.attr('id')?.trim() || $el.find('form').first().attr('id')?.trim() || 'note';
+        $el.attr('id')?.trim() ||
+        $el.find('form').first().attr('id')?.trim() ||
+        'note';
 
       const storageKey = rawKey === 'note#' ? `note-${blocks.length + 1}` : rawKey;
 
@@ -466,18 +658,64 @@ export function migrateOldLessonHtmlToEditorJs(
       return;
     }
 
-    if (isParagraph($el)) {
-      const paragraphHtml = normalizeInlineHtml($el.html() || '');
+    if (isCollapsibleSummary($el)) {
+      const title = normalizeTextForEditor($el.text()).replace(/^\+\s*/, '');
+      const $collapsed = getNextCollapsedDiv($, $el);
 
-      if (!isIgnorableHtml(paragraphHtml)) {
-        blocks.push(buildParagraphBlock(paragraphHtml));
+      if ($collapsed.length > 0) {
+        const nestedBlocks = extractRevealContentBlocks($, $collapsed);
+
+        if (nestedBlocks.length > 0) {
+          blocks.push(buildCollapsibleGroupBlock(title, nestedBlocks));
+        } else {
+          const fallbackHtml = normalizeInlineHtml($collapsed.html() || '');
+
+          if (!isIgnorableHtml(fallbackHtml)) {
+            blocks.push(
+              buildCollapsibleGroupBlock(title, [
+                buildParagraphBlock(fallbackHtml),
+              ]),
+            );
+          }
+        }
+      }
+
+      return;
+    }
+
+    if (isCollapsedDiv($el)) {
+      return;
+    }
+
+    if (isCollapsibleBibleButton($el)) {
+      const reference = normalizeTextForEditor($el.text()).replace(/^Read\s+/i, '');
+      const $collapsed = getNextCollapsedDiv($, $el);
+
+      if ($collapsed.length > 0) {
+        const url = extractBibleUrl($collapsed);
+        const cleanedHtml = cleanBibleHtml($collapsed.html() || '');
+
+        blocks.push(buildBiblePassageBlock(reference, cleanedHtml, url));
+      }
+
+      return;
+    }
+
+    if (isParagraph($el)) {
+      const result = extractInlineBibleRefs($, $el, {
+        normalizeInlineHtml,
+        normalizeTextForEditor,
+      });
+
+      if (!isIgnorableHtml(result.html)) {
+        blocks.push(buildParagraphBlock(result.html, result.bibleRefs));
       }
 
       return;
     }
 
     if (isHeadingTwo($el)) {
-      const headingText = $el.text().trim();
+      const headingText = normalizeTextForEditor($el.text());
 
       if (headingText) {
         blocks.push(buildHeaderBlock(headingText, 2));
@@ -487,7 +725,7 @@ export function migrateOldLessonHtmlToEditorJs(
     }
 
     if (isHeadingThree($el)) {
-      const headingText = $el.text().trim();
+      const headingText = normalizeTextForEditor($el.text());
 
       if (headingText) {
         blocks.push(buildHeaderBlock(headingText, 3));

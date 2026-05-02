@@ -92,4 +92,13 @@ function hasChildren(item: EditorJsListItem): boolean {
 .list-block--nested {
   margin-top: 0.35rem;
 }
+
+.list-block :deep(a) {
+  color: #d32f2f;
+  text-decoration: underline;
+}
+
+.list-block :deep(a:hover) {
+  text-decoration-thickness: 2px;
+}
 </style>

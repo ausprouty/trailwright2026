@@ -2,7 +2,7 @@
 
 import * as cheerio from 'cheerio';
 import type { AnyNode } from 'domhandler';
-import { isTag } from 'domhandler';
+import { isTag, isText } from 'domhandler';
 
 import type {
   EditorJsContent,
@@ -11,21 +11,14 @@ import type {
   VideoSource,
 } from 'src/types/content/MigrationTypes';
 
-import {
-  extractInlineBibleRefs,
-  type BibleRef,
-} from '../shared/extractInlineBibleRefs';
+import { extractInlineBibleRefs, type BibleRef } from '../shared/extractInlineBibleRefs';
 
 type MigrateOptions = {
   includeTime?: boolean;
   includeVersion?: boolean;
 };
 
-function buildBiblePassageBlock(
-  reference: string,
-  html: string,
-  url: string,
-): AnyEditorJsBlock {
+function buildBiblePassageBlock(reference: string, html: string, url: string): AnyEditorJsBlock {
   return {
     type: 'biblePassage',
     data: {
@@ -57,20 +50,19 @@ function buildCollapsibleGroupBlock(
 function buildHeaderBlock(
   text: string,
   level: 1 | 2 | 3 | 4 | 5 | 6 = 3,
+  image?: string,
 ): AnyEditorJsBlock {
   return {
     type: 'header',
     data: {
       text,
       level,
+      ...(image ? { image } : {}),
     },
   };
 }
 
-function buildListBlock(
-  style: 'ordered' | 'unordered',
-  items: string[],
-): AnyEditorJsBlock {
+function buildListBlock(style: 'ordered' | 'unordered', items: string[]): AnyEditorJsBlock {
   return {
     type: 'list',
     data: {
@@ -90,10 +82,7 @@ function buildNotesAreaBlock(storageKey: string): AnyEditorJsBlock {
   };
 }
 
-function buildParagraphBlock(
-  html: string,
-  bibleRefs: BibleRef[] = [],
-): AnyEditorJsBlock {
+function buildParagraphBlock(html: string, bibleRefs: BibleRef[] = []): AnyEditorJsBlock {
   return {
     type: 'paragraph',
     data: {
@@ -211,18 +200,12 @@ function extractBibleReference($container: cheerio.Cheerio<AnyNode>): string {
 }
 
 function extractBibleUrl($container: cheerio.Cheerio<AnyNode>): string {
-  const href = $container
-    .find('a.bible-readmore, a.readmore')
-    .first()
-    .attr('href');
+  const href = $container.find('a.bible-readmore, a.readmore').first().attr('href');
 
   return typeof href === 'string' ? href.trim() : '';
 }
 
-function extractListItems(
-  $: cheerio.CheerioAPI,
-  $list: cheerio.Cheerio<AnyNode>,
-): string[] {
+function extractListItems($: cheerio.CheerioAPI, $list: cheerio.Cheerio<AnyNode>): string[] {
   return $list
     .children('li')
     .map((_, li) => normalizeInlineHtml($(li).html() || ''))
@@ -320,12 +303,7 @@ function extractRevealContentBlocks(
   return nestedBlocks;
 }
 
-
-
-function extractVideoField(
-  $container: cheerio.Cheerio<AnyNode>,
-  labelPattern: RegExp,
-): string {
+function extractVideoField($container: cheerio.Cheerio<AnyNode>, labelPattern: RegExp): string {
   let value = '';
 
   $container.find('tr').each((_, row) => {
@@ -347,8 +325,6 @@ function extractVideoField(
   return value;
 }
 
-
-
 function getNextCollapsedDiv(
   $: cheerio.CheerioAPI,
   $el: cheerio.Cheerio<AnyNode>,
@@ -368,15 +344,17 @@ function getNextCollapsedDiv(
 }
 
 function getSectionTheme($el: cheerio.Cheerio<AnyNode>): SectionTheme {
-  if ($el.find('.lesson-subtitle .back').length > 0) {
+  const imageSrc = ($el.find('img.lesson-icon').first().attr('src') || '').toLowerCase();
+
+  if (imageSrc.includes('arrowleft') || $el.find('.lesson-subtitle .back').length > 0) {
     return 'back';
   }
 
-  if ($el.find('.lesson-subtitle .up').length > 0) {
+  if (imageSrc.includes('arrowup') || $el.find('.lesson-subtitle .up').length > 0) {
     return 'up';
   }
 
-  if ($el.find('.lesson-subtitle .forward').length > 0) {
+  if (imageSrc.includes('arrowright') || $el.find('.lesson-subtitle .forward').length > 0) {
     return 'forward';
   }
 
@@ -407,6 +385,12 @@ function isEmptyLessonDiv($el: cheerio.Cheerio<AnyNode>): boolean {
 
 function isFilmReveal($el: cheerio.Cheerio<AnyNode>): boolean {
   return $el.is('div.reveal.film');
+}
+
+function isGospelPointLesson($el: cheerio.Cheerio<AnyNode>): boolean {
+  const imageSrc = ($el.find('img.lesson-icon').first().attr('src') || '').toLowerCase();
+
+  return imageSrc.includes('/images/gospel/');
 }
 
 function isHeadingThree($el: cheerio.Cheerio<AnyNode>): boolean {
@@ -451,8 +435,16 @@ function isPlainReveal($el: cheerio.Cheerio<AnyNode>): boolean {
 }
 
 function isSectionMarkerLesson($el: cheerio.Cheerio<AnyNode>): boolean {
-  return $el.find('.lesson-subtitle .back, .lesson-subtitle .up, .lesson-subtitle .forward')
-    .length > 0;
+  const imageSrc = ($el.find('img.lesson-icon').first().attr('src') || '').toLowerCase();
+
+  return (
+    imageSrc.includes('arrowleft') ||
+    imageSrc.includes('arrowup') ||
+    imageSrc.includes('arrowright') ||
+    $el.find('.lesson-subtitle .back').length > 0 ||
+    $el.find('.lesson-subtitle .up').length > 0 ||
+    $el.find('.lesson-subtitle .forward').length > 0
+  );
 }
 
 function isUnorderedList($el: cheerio.Cheerio<AnyNode>): boolean {
@@ -460,9 +452,7 @@ function isUnorderedList($el: cheerio.Cheerio<AnyNode>): boolean {
 }
 
 function looksLikeBibleReference(text: string): boolean {
-  return /^[1-3]?\s?[A-Za-z]+(?:\s+[A-Za-z]+)*\s+\d+(?::\d+(?:-\d+)?)?$/.test(
-    text.trim(),
-  );
+  return /^[1-3]?\s?[A-Za-z]+(?:\s+[A-Za-z]+)*\s+\d+(?::\d+(?:-\d+)?)?$/.test(text.trim());
 }
 
 function normalizeInlineHtml(html: string): string {
@@ -518,18 +508,11 @@ function parseArclightRefId(url: string): string {
   }
 }
 
-
-
 function trimNbspEdges(text: string): string {
-  return text
-    .replace(/^(?:\s|&nbsp;|\u00A0)+/gi, '')
-    .replace(/(?:\s|&nbsp;|\u00A0)+$/gi, '');
+  return text.replace(/^(?:\s|&nbsp;|\u00A0)+/gi, '').replace(/(?:\s|&nbsp;|\u00A0)+$/gi, '');
 }
 
-function unwrapRedundantSpans(
-  $: cheerio.CheerioAPI,
-  $root: cheerio.Cheerio<AnyNode>,
-): void {
+function unwrapRedundantSpans($: cheerio.CheerioAPI, $root: cheerio.Cheerio<AnyNode>): void {
   let changed = true;
 
   while (changed) {
@@ -566,7 +549,17 @@ export function migrateOldLessonHtmlToEditorJs(
   let sectionIndex = 0;
 
   function processNode($el: cheerio.Cheerio<AnyNode>): void {
+    if (isGospelPointLesson($el)) {
+      const title = normalizeTextForEditor($el.find('.lesson-subtitle').first().text());
 
+      const image = $el.find('img.lesson-icon').first().attr('src') || '';
+
+      if (title) {
+        blocks.push(buildHeaderBlock(title, 2, image));
+      }
+
+      return;
+    }
     // ✅ HANDLE .lesson FIRST
     if ($el.hasClass && $el.hasClass('lesson')) {
       if (isSectionMarkerLesson($el)) {
@@ -585,8 +578,27 @@ export function migrateOldLessonHtmlToEditorJs(
 
       return;
     }
+    if ($el.hasClass && $el.hasClass('myfriends-share')) {
+      $el.contents().each((_, child) => {
+        if (!isTag(child)) {
+          if (isText(child)) {
+            const text = normalizeTextForEditor(child.data || '');
 
-  // 👇 existing logic continues below
+            if (text) {
+              blocks.push(buildParagraphBlock(text));
+            }
+
+            return;
+          }
+          return;
+        }
+
+        processNode($(child));
+      });
+
+      return;
+    }
+    // 👇 existing logic continues below
     if (isPlainReveal($el)) {
       const $clone = $el.clone();
       const $heading = $clone.children('h1, h2, h3, h4, h5, h6').first();
@@ -605,11 +617,7 @@ export function migrateOldLessonHtmlToEditorJs(
           const fallbackHtml = normalizeInlineHtml($clone.html() || '');
 
           if (!isIgnorableHtml(fallbackHtml)) {
-            blocks.push(
-              buildCollapsibleGroupBlock(title, [
-                buildParagraphBlock(fallbackHtml),
-              ]),
-            );
+            blocks.push(buildCollapsibleGroupBlock(title, [buildParagraphBlock(fallbackHtml)]));
           }
         }
 
@@ -648,9 +656,7 @@ export function migrateOldLessonHtmlToEditorJs(
 
     if (isNoteArea($el)) {
       const rawKey =
-        $el.attr('id')?.trim() ||
-        $el.find('form').first().attr('id')?.trim() ||
-        'note';
+        $el.attr('id')?.trim() || $el.find('form').first().attr('id')?.trim() || 'note';
 
       const storageKey = rawKey === 'note#' ? `note-${blocks.length + 1}` : rawKey;
 
@@ -671,11 +677,7 @@ export function migrateOldLessonHtmlToEditorJs(
           const fallbackHtml = normalizeInlineHtml($collapsed.html() || '');
 
           if (!isIgnorableHtml(fallbackHtml)) {
-            blocks.push(
-              buildCollapsibleGroupBlock(title, [
-                buildParagraphBlock(fallbackHtml),
-              ]),
-            );
+            blocks.push(buildCollapsibleGroupBlock(title, [buildParagraphBlock(fallbackHtml)]));
           }
         }
       }
@@ -833,6 +835,16 @@ export function migrateOldLessonHtmlToEditorJs(
     }
 
     if ($el.is('img, br')) {
+      return;
+    }
+
+    if ($el.is('a')) {
+      const html = normalizeInlineHtml($.html($el));
+
+      if (!isIgnorableHtml(html)) {
+        blocks.push(buildParagraphBlock(html));
+      }
+
       return;
     }
 

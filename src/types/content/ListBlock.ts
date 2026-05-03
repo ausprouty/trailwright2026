@@ -1,4 +1,12 @@
+export type ListItem =
+  | string
+  | {
+      text: string;
+      icon?: string;
+    };
+
 export type ListBlockData = {
   style?: 'ordered' | 'unordered';
-  items?: string[];
+  variant?: string;
+  items?: ListItem[];
 };

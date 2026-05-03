@@ -5,11 +5,14 @@ type EditorJsListItem =
   | string
   | {
       content?: string;
+      text?: string;
+      icon?: string;
       items?: EditorJsListItem[];
     };
 
 type ListBlockData = {
   style?: 'ordered' | 'unordered';
+  variant?: string;
   items?: EditorJsListItem[];
 };
 
@@ -30,8 +33,20 @@ function itemContent(item: EditorJsListItem): string {
     return item;
   }
 
+  if (item && typeof item.text === 'string') {
+    return item.text;
+  }
+
   if (item && typeof item.content === 'string') {
     return item.content;
+  }
+
+  return '';
+}
+
+function itemIcon(item: EditorJsListItem): string {
+  if (item && typeof item === 'object' && typeof item.icon === 'string') {
+    return item.icon;
   }
 
   return '';
@@ -51,8 +66,15 @@ function hasChildren(item: EditorJsListItem): boolean {
 </script>
 
 <template>
-  <component :is="tagName" v-if="items.length" class="list-block">
+  <component
+    :is="tagName"
+    v-if="items.length"
+    class="list-block"
+    :class="{ 'list-block--lesson': data.variant === 'lesson-list' }"
+  >
     <li v-for="(item, index) in items" :key="index" class="list-block__item">
+      <img v-if="itemIcon(item)" :src="itemIcon(item)" class="list-block__icon" alt="" />
+
       <span v-html="itemContent(item)" />
 
       <component :is="tagName" v-if="hasChildren(item)" class="list-block list-block--nested">
@@ -61,6 +83,8 @@ function hasChildren(item: EditorJsListItem): boolean {
           :key="childIndex"
           class="list-block__item"
         >
+          <img v-if="itemIcon(child)" :src="itemIcon(child)" class="list-block__icon" alt="" />
+
           <span v-html="itemContent(child)" />
 
           <component :is="tagName" v-if="hasChildren(child)" class="list-block list-block--nested">
@@ -69,6 +93,13 @@ function hasChildren(item: EditorJsListItem): boolean {
               :key="grandChildIndex"
               class="list-block__item"
             >
+              <img
+                v-if="itemIcon(grandChild)"
+                :src="itemIcon(grandChild)"
+                class="list-block__icon"
+                alt=""
+              />
+
               <span v-html="itemContent(grandChild)" />
             </li>
           </component>
@@ -87,6 +118,25 @@ function hasChildren(item: EditorJsListItem): boolean {
 
 .list-block__item {
   margin: 0.35rem 0;
+}
+
+.list-block--lesson {
+  list-style: none;
+  padding-inline-start: 0;
+}
+
+.list-block--lesson .list-block__item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+
+.list-block__icon {
+  width: 1.35rem;
+  height: 1.35rem;
+  object-fit: contain;
+  flex: 0 0 auto;
+  margin-top: 0.15rem;
 }
 
 .list-block--nested {

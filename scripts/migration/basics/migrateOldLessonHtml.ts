@@ -204,6 +204,33 @@ function extractBibleUrl($container: cheerio.Cheerio<AnyNode>): string {
 
   return typeof href === 'string' ? href.trim() : '';
 }
+function extractLessonListItems(
+  $: cheerio.CheerioAPI,
+  $list: cheerio.Cheerio<AnyNode>,
+): { text: string; icon?: string }[] {
+  const items: { text: string; icon?: string }[] = [];
+
+  $list.children('li').each((_, li) => {
+    const $li = $(li);
+
+    const rawIcon = $li.find('img.bullet-icon').first().attr('src') || '';
+    const icon = lessonIconKeyFromSrc(rawIcon);
+
+    // remove icon so it does not pollute text
+    $li.find('img.bullet-icon').remove();
+
+    const text = normalizeInlineHtml($li.html() || $li.text() || '');
+
+    if (!isIgnorableHtml(text)) {
+      items.push({
+        text,
+        ...(icon ? { icon } : {}),
+      });
+    }
+  });
+
+  return items;
+}
 
 function extractListItems($: cheerio.CheerioAPI, $list: cheerio.Cheerio<AnyNode>): string[] {
   return $list
@@ -449,6 +476,11 @@ function isSectionMarkerLesson($el: cheerio.Cheerio<AnyNode>): boolean {
 
 function isUnorderedList($el: cheerio.Cheerio<AnyNode>): boolean {
   return $el.is('ul');
+}
+function lessonIconKeyFromSrc(src: string): string {
+  const fileName = src.split('/').pop() || '';
+
+  return fileName.replace(/\.png$/i, '');
 }
 
 function looksLikeBibleReference(text: string): boolean {
@@ -741,6 +773,22 @@ export function migrateOldLessonHtmlToEditorJs(
 
       if (items.length > 0) {
         blocks.push(buildListBlock('ordered', items));
+      }
+
+      return;
+    }
+    if ($el.is('ul.lesson-list')) {
+      const items = extractLessonListItems($, $el);
+
+      if (items.length > 0) {
+        blocks.push({
+          type: 'list',
+          data: {
+            style: 'unordered',
+            variant: 'lesson-list',
+            items,
+          },
+        });
       }
 
       return;

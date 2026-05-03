@@ -2,6 +2,7 @@ import Table from '@editorjs/table';
 import BiblePassageTool from './tools/BiblePassageTool/BiblePassageTool';
 import BibleReferenceTool from './tools/BibleReferenceTool/BibleReferenceTool';
 import CollapsibleGroupTool from './tools/CollapsibleGroupTool/CollapsibleGroupTool';
+import IconListTool from './tools/IconListTool/IconListTool';
 import ImageTool from './tools/ImageTool/ImageTool';
 import IWillTool from './tools/IWillTool/IWillTool';
 import LastTimeTool from './tools/LastTimeTool/LastTimeTool';
@@ -48,6 +49,7 @@ function getToolboxMeta(
 const biblePassageMeta = getToolboxMeta(BiblePassageTool, 'Bible Passage');
 const bibleReferenceMeta = getToolboxMeta(BibleReferenceTool, '{Bible Reference}');
 const collapsibleGroupMeta = getToolboxMeta(CollapsibleGroupTool, 'Collapsible Group');
+const iconListMeta = getToolboxMeta(IconListTool, 'Icon List');
 const imageMeta = getToolboxMeta(ImageTool, 'Image');
 const iWillMeta = getToolboxMeta(IWillTool, 'I Will');
 const lastTimeMeta = getToolboxMeta(LastTimeTool, 'Last Time');
@@ -90,6 +92,21 @@ const rawInsertToolPalette: InsertToolItem[] = [
       items: [],
     },
   },
+  {
+    type: 'iconList',
+    label: iconListMeta.label,
+    icon: iconListMeta.icon,
+    initialData: {
+      icon: '',
+      title: '',
+      items: [],
+    },
+  },
+  {
+    type: 'image',
+    label: imageMeta.label,
+    icon: imageMeta.icon,
+  },
 
   {
     type: 'iWill',
@@ -99,11 +116,7 @@ const rawInsertToolPalette: InsertToolItem[] = [
       storageKey: '',
     },
   },
-  {
-    type: 'image',
-    label: imageMeta.label,
-    icon: imageMeta.icon,
-  },
+
   {
     type: 'lastTime',
     label: lastTimeMeta.label,

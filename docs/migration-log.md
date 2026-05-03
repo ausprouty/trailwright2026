@@ -25,3 +25,7 @@ In the basics, we do NOT add an I will to the end of the lesson. Instead we repl
 ## Day 4
 
 WE need to fix: AU/eng/basics/community
+
+## Day 5
+
+English is fixed; now working on German

@@ -105,3 +105,18 @@
   stroke-linecap: round;
   stroke-linejoin: round;
 }
+
+:deep(.icon-list-icon) {
+  width: 1.4rem;
+  height: 1.4rem;
+}
+
+:deep(.icon-list-icon__circle) {
+  fill: #000;
+  stroke: #fff;
+  stroke-width: 4;
+}
+
+:deep(.icon-list-icon__fill) {
+  fill: #fff;
+}

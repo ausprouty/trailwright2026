@@ -15,6 +15,7 @@ import BiblePassageTool from './tools/BiblePassageTool/BiblePassageTool';
 import BibleReferenceTool from './tools/BibleReferenceTool/BibleReferenceTool';
 import CollapsibleGroupTool from './tools/CollapsibleGroupTool/CollapsibleGroupTool';
 import CollapsibleTextTool from './tools/CollapsibleTextTool/CollapsibleTextTool';
+import IconListTool from './tools/IconListTool/IconListTool';
 import ImageTool from './tools/ImageTool/ImageTool';
 import IWillTool from './tools/IWillTool/IWillTool';
 import LastTimeTool from './tools/LastTimeTool/LastTimeTool';
@@ -93,6 +94,9 @@ export function createEditorTools(
         levels: [2, 3, 4],
       },
       inlineToolbar: ['link', 'bold', 'italic'],
+    },
+    iconList: {
+      class: IconListTool as unknown as ToolConstructable,
     },
 
     image: {

@@ -3,6 +3,7 @@ import type { Component } from 'vue';
 import BiblePassageBlock from './blocks/BiblePassageBlock.vue';
 import CollapsibleGroupBlock from './blocks/CollapsibleGroupBlock.vue';
 import HeaderBlock from './blocks/HeaderBlock.vue';
+import IconListBlock from './blocks/IconListBlock.vue';
 import IWillBlock from './blocks/IWillBlock.vue';
 import LastTimeBlock from './blocks/LastTimeBlock.vue';
 import ListBlock from './blocks/ListBlock.vue';
@@ -23,6 +24,10 @@ export function resolveSharedBlockComponent(type: string): Component | null {
 
   if (type === 'header') {
     return HeaderBlock;
+  }
+
+  if (type === 'iconList') {
+    return IconListBlock;
   }
 
   if (type === 'iWill') {

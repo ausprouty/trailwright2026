@@ -1,0 +1,77 @@
+.icon-list-tool {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 100%;
+}
+
+.icon-list-tool__items {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.icon-list-tool__item {
+  display: grid;
+  grid-template-columns: 180px minmax(0, 1fr) auto;
+  gap: 12px;
+  align-items: start;
+  width: 100%;
+}
+
+.icon-list-tool__select,
+.icon-list-tool__text {
+  min-height: 44px;
+  border: 1px solid #d8b48d;
+  border-radius: 10px;
+  background: #fffdf9;
+  color: #2f241c;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.icon-list-tool__select {
+  padding: 0 10px;
+}
+
+.icon-list-tool__text {
+  width: 100%;
+  padding: 10px 12px;
+  resize: vertical;
+  box-sizing: border-box;
+}
+
+.icon-list-tool__remove {
+  min-height: 44px;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  background: transparent;
+  color: #8a5a35;
+  padding: 0 12px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.icon-list-tool__remove:hover {
+  background: #fff1de;
+  border-color: #e7b98c;
+  color: #7a3514;
+}
+
+.icon-list-tool__add {
+  align-self: flex-start;
+  border: 1px solid #d8b48d;
+  border-radius: 10px;
+  background: #fffaf3;
+  color: #6e4320;
+  padding: 9px 14px;
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.icon-list-tool__add:hover {
+  background: #fff1de;
+  border-color: #c88345;
+}

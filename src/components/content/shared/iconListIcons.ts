@@ -1,6 +1,7 @@
 export const iconListIcons = {
   application: {
     label: 'Application',
+    preview: '🔎',
     svg: `
     <svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
       <!-- outer circle -->
@@ -45,6 +46,7 @@ export const iconListIcons = {
   },
   background: {
     label: 'Background',
+    preview: '▣',
     svg: `
       <svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
         <circle
@@ -121,9 +123,24 @@ export const iconListIcons = {
     </svg>
   `,
   },
+  bullet: {
+    label: 'Bullet',
+    preview: '•',
+    svg: `
+    <svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
+      <circle
+        cx="50"
+        cy="50"
+        r="12"
+        class="icon-list-icon__circle"
+      />
+    </svg>
+  `,
+  },
 
   challenges: {
     label: 'Challenges',
+    preview: '👣',
     svg: `
     <svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
       <!-- outer circle -->
@@ -174,6 +191,7 @@ export const iconListIcons = {
   },
   film: {
     label: 'Film',
+    preview: '▶',
     svg: `
     <svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
       <!-- outer circle -->
@@ -214,6 +232,7 @@ export const iconListIcons = {
   },
   information: {
     label: 'Information',
+    preview: 'ℹ',
     svg: `
     <svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
       <!-- outer circle -->
@@ -254,6 +273,7 @@ export const iconListIcons = {
   },
   review: {
     label: 'Review',
+    preview: '↩',
     svg: `
     <svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
       <!-- outer circle -->
@@ -282,6 +302,7 @@ export const iconListIcons = {
 
   'sharing-life': {
     label: 'Sharing Life',
+    preview: '💬',
     svg: `
     <svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
       <!-- outer circle -->

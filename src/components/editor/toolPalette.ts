@@ -97,8 +97,6 @@ const rawInsertToolPalette: InsertToolItem[] = [
     label: iconListMeta.label,
     icon: iconListMeta.icon,
     initialData: {
-      icon: '',
-      title: '',
       items: [],
     },
   },

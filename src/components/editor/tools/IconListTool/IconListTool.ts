@@ -1,8 +1,8 @@
 import { iconListIcons } from 'src/components/content/shared/iconListIcons';
+import './IconListTool.css';
 
 type IconListItem = {
   icon: string;
-  title?: string;
   text: string;
 };
 
@@ -12,6 +12,7 @@ type IconListData = {
 
 type IconListIconMeta = {
   label: string;
+  preview?: string;
   svg: string;
 };
 
@@ -56,11 +57,10 @@ export default class IconListTool {
     return {
       items: this.data.items
         .map((item) => ({
-          icon: item.icon || '',
-          title: item.title || '',
+          icon: item.icon || 'bullet',
           text: item.text || '',
         }))
-        .filter((item) => item.icon || item.title || item.text),
+        .filter((item) => item.text.trim() !== ''),
     };
   }
 
@@ -85,8 +85,7 @@ export default class IconListTool {
 
     addButton.addEventListener('click', () => {
       this.data.items.push({
-        icon: this.getFirstIconKey(),
-        title: '',
+        icon: 'bullet',
         text: '',
       });
 
@@ -109,7 +108,7 @@ export default class IconListTool {
 
       const option = document.createElement('option');
       option.value = key;
-      option.textContent = typedMeta.label || key;
+      option.textContent = `${typedMeta.preview || '•'} ${typedMeta.label || key}`;
 
       if (item.icon === key) {
         option.selected = true;
@@ -126,18 +125,6 @@ export default class IconListTool {
       }
     });
 
-    const titleInput = document.createElement('input');
-    titleInput.className = 'icon-list-tool__title';
-    titleInput.placeholder = 'Optional title';
-    titleInput.value = item.title || '';
-
-    titleInput.addEventListener('input', () => {
-      const currentItem = this.getItem(index);
-
-      if (currentItem) {
-        currentItem.title = titleInput.value;
-      }
-    });
     const textInput = document.createElement('textarea');
     textInput.className = 'icon-list-tool__text';
     textInput.placeholder = 'Text';
@@ -163,7 +150,6 @@ export default class IconListTool {
     });
 
     row.appendChild(iconSelect);
-    row.appendChild(titleInput);
     row.appendChild(textInput);
     row.appendChild(removeButton);
 

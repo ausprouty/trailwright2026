@@ -4,6 +4,7 @@ import type { CollapsibleGroupBlockData } from './CollapsibleGroupBlock';
 import type { CollapsibleTextBlockData } from './CollapsibleTextBlock';
 import type { DelimiterBlockData } from './DelimiterBlock';
 import type { HeaderBlockData } from './HeaderBlock';
+import type { IconListBlockData } from './IconListBlock';
 import type { ImageBlockData } from './ImageBlock';
 import type { IWillBlockData } from './IWillBlock';
 import type { LastTimeBlockData } from './LastTimeBlock';
@@ -23,6 +24,7 @@ export type EditorBlockType =
   | 'collapsibleText'
   | 'delimiter'
   | 'header'
+  | 'iconList'
   | 'iWill'
   | 'image'
   | 'lastTime'
@@ -43,6 +45,7 @@ export type EditorBlockDataMap = {
   delimiter: DelimiterBlockData;
   header: HeaderBlockData;
   iWill: IWillBlockData;
+  iconList: IconListBlockData;
   image: ImageBlockData;
   lastTime: LastTimeBlockData;
   list: ListBlockData;

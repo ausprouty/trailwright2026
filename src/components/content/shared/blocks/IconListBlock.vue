@@ -84,7 +84,7 @@ function getIconLabel(iconKey: string): string {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  margin-top: 1px;
+  margin-top: 3px;
   color: #111111;
 }
 
@@ -100,8 +100,11 @@ function getIconLabel(iconKey: string): string {
 .icon-list-block__icon :deep(line),
 .icon-list-block__icon :deep(polyline),
 .icon-list-block__icon :deep(polygon) {
-  fill: currentColor;
+  fill: none;
   stroke: currentColor;
+  stroke-width: 4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 
 .icon-list-block__content {

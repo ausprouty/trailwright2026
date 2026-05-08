@@ -1,6 +1,13 @@
 import type { AnyEditorJsBlock, SectionTheme } from 'src/types/content/MigrationTypes';
+import type { IconListItem } from 'src/types/content/IconListBlock';
 
-type NotesTarget = 'look-up' | 'look-forward';
+type NotesTarget =
+  | 'look-up'
+  | 'look-forward'
+  | 'review'
+  | 'bible-study'
+  | 'questions-practice'
+  | 'bible-commentary';
 
 type NormalizeLessonBlocksOptions = {
   keyPrefix: string;
@@ -21,12 +28,47 @@ export function normalizeLessonBlocks(
       ensureNotesAreaBeforeSection(result, 'look-forward', options.keyPrefix);
     }
 
-    result.push(block);
+    if (isSectionMarker(block, 'review')) {
+      ensureNotesAreaBeforeSection(result, 'review', options.keyPrefix);
+    }
+
+    if (isSectionMarker(block, 'bible-study')) {
+      ensureNotesAreaBeforeSection(result, 'bible-study', options.keyPrefix);
+    }
+
+    if (isSectionMarker(block, 'questions-practice')) {
+      ensureNotesAreaBeforeSection(result, 'questions-practice', options.keyPrefix);
+    }
+
+    if (isSectionMarker(block, 'bible-commentary')) {
+      ensureNotesAreaBeforeSection(result, 'bible-commentary', options.keyPrefix);
+    }
+
+    result.push(normalizeBlock(block));
   }
 
   replaceFirstLookForwardNotesWithIWill(result, options.keyPrefix);
 
   return result;
+}
+
+function buildIWillBlock(storageKey: string): AnyEditorJsBlock {
+  return {
+    type: 'iWill',
+    data: {
+      storageKey,
+    },
+  };
+}
+
+function buildNotesAreaBlock(target: NotesTarget, keyPrefix: string): AnyEditorJsBlock {
+  return {
+    type: 'notesArea',
+    data: {
+      notes: '',
+      storageKey: `${keyPrefix}-${target}`,
+    },
+  };
 }
 
 function ensureNotesAreaBeforeSection(
@@ -41,50 +83,6 @@ function ensureNotesAreaBeforeSection(
   }
 
   blocks.push(buildNotesAreaBlock(target, keyPrefix));
-}
-
-
-function replaceFirstLookForwardNotesWithIWill(
-  blocks: AnyEditorJsBlock[],
-  keyPrefix: string,
-): void {
-  let inLookForward = false;
-
-  for (let i = 0; i < blocks.length; i += 1) {
-    const block = blocks[i];
-    if (!block) {
-      continue;
-    }
-
-    if (isSectionMarker(block, 'forward')) {
-      inLookForward = true;
-      continue;
-    }
-
-    if (!inLookForward) {
-      continue;
-    }
-
-    if (block.type === 'sectionMarker') {
-      return;
-    }
-
-    if (block.type === 'notesArea') {
-      blocks[i] = buildIWillBlock(`${keyPrefix}-i-will`);
-      return;
-    }
-  }
-}
-
-
-
-function isSectionMarker(block: AnyEditorJsBlock, theme: SectionTheme): boolean {
-  if (block.type !== 'sectionMarker') {
-    return false;
-  }
-
-  const data = block.data as { theme?: SectionTheme };
-  return data.theme === theme;
 }
 
 function findNearbyNotesArea(
@@ -108,43 +106,97 @@ function findNearbyNotesArea(
   return null;
 }
 
-function getTrailingMeaningfulBlocks(
-  blocks: AnyEditorJsBlock[],
-  distance: number,
-): AnyEditorJsBlock[] {
-  return blocks.filter((block) => !isIgnorableBlock(block)).slice(-distance);
+function getLessonListItems(block: AnyEditorJsBlock): IconListItem[] {
+  const data = block.data as { items?: unknown[] };
+
+  if (!Array.isArray(data.items)) {
+    return [];
+  }
+
+  return data.items.map((item): IconListItem => {
+    if (typeof item === 'string') {
+      return {
+        icon: 'application',
+        text: item,
+      };
+    }
+
+    if (item && typeof item === 'object') {
+      const value = item as { icon?: unknown; text?: unknown };
+
+      return {
+        icon: typeof value.icon === 'string' ? value.icon : 'application',
+        text: typeof value.text === 'string' ? value.text : '',
+      };
+    }
+
+    return {
+      icon: 'application',
+      text: '',
+    };
+  });
 }
 
-function isIgnorableBlock(block: AnyEditorJsBlock): boolean {
-  if (block.type !== 'paragraph') {
+function isLessonListBlock(block: AnyEditorJsBlock): boolean {
+  if (block.type !== 'list') {
     return false;
   }
 
-  const data = block.data as { text?: string };
-  const text = typeof data.text === 'string' ? stripHtml(data.text).trim() : '';
-
-  return text === '';
+  const data = block.data as { variant?: string };
+  return data.variant === 'lesson-list';
 }
 
-function stripHtml(text: string): string {
-  return text.replace(/<[^>]*>/g, ' ');
+function isSectionMarker(block: AnyEditorJsBlock, theme: SectionTheme): boolean {
+  if (block.type !== 'sectionMarker') {
+    return false;
+  }
+
+  const data = block.data as { theme?: SectionTheme };
+  return data.theme === theme;
 }
 
-function buildNotesAreaBlock(target: NotesTarget, keyPrefix: string): AnyEditorJsBlock {
-  return {
-    type: 'notesArea',
-    data: {
-      notes: '',
-      storageKey: `${keyPrefix}-${target}`,
-    },
-  };
+function normalizeBlock(block: AnyEditorJsBlock): AnyEditorJsBlock {
+  if (isLessonListBlock(block)) {
+    return {
+      type: 'iconList',
+      data: {
+        items: getLessonListItems(block),
+      },
+    };
+  }
+
+  return block;
 }
 
-function buildIWillBlock(storageKey: string): AnyEditorJsBlock {
-  return {
-    type: 'iWill',
-    data: {
-      storageKey,
-    },
-  };
+function replaceFirstLookForwardNotesWithIWill(
+  blocks: AnyEditorJsBlock[],
+  keyPrefix: string,
+): void {
+  let inLookForward = false;
+
+  for (let i = 0; i < blocks.length; i += 1) {
+    const block = blocks[i];
+
+    if (!block) {
+      continue;
+    }
+
+    if (isSectionMarker(block, 'forward')) {
+      inLookForward = true;
+      continue;
+    }
+
+    if (!inLookForward) {
+      continue;
+    }
+
+    if (block.type === 'sectionMarker') {
+      return;
+    }
+
+    if (block.type === 'notesArea') {
+      blocks[i] = buildIWillBlock(`${keyPrefix}-i-will`);
+      return;
+    }
+  }
 }

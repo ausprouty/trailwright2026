@@ -3,6 +3,7 @@
 import * as cheerio from 'cheerio';
 import type { AnyNode } from 'domhandler';
 import { isTag, isText } from 'domhandler';
+import type { SectionMarkerBlockData } from 'src/types/content/MigrationTypes';
 
 import type {
   EditorJsContent,
@@ -92,12 +93,23 @@ function buildParagraphBlock(html: string, bibleRefs: BibleRef[] = []): AnyEdito
   };
 }
 
-function buildSectionMarkerBlock(theme: SectionTheme): AnyEditorJsBlock {
+function buildSectionMarkerBlock(
+  theme: SectionTheme,
+  title?: string,
+  icon?: string,
+): Extract<AnyEditorJsBlock, { type: 'sectionMarker' }> {
+  const data: SectionMarkerBlockData = {
+    theme,
+  };
+  if (title) {
+    data.title = title;
+  }
+  if (icon) {
+    data.icon = icon;
+  }
   return {
     type: 'sectionMarker',
-    data: {
-      theme,
-    },
+    data,
   };
 }
 
@@ -369,23 +381,95 @@ function getNextCollapsedDiv(
 
   return $el.nextAll('div.collapsed').first();
 }
+function getSectionIconKey($el: cheerio.Cheerio<AnyNode>): string | undefined {
+  const imageSrc = ($el.find('img.lesson-icon').first().attr('src') || '').toLowerCase();
+
+  if (imageSrc.includes('challenges')) {
+    return 'challenges';
+  }
+
+  if (imageSrc.includes('arrowleft')) {
+    return 'arrow-left';
+  }
+
+  if (imageSrc.includes('arrowup')) {
+    return 'arrow-up';
+  }
+
+  if (imageSrc.includes('arrowright')) {
+    return 'arrow-right';
+  }
+
+  if (imageSrc.includes('bible-study')) {
+    return 'bible-study';
+  }
+
+  return undefined;
+}
 
 function getSectionTheme($el: cheerio.Cheerio<AnyNode>): SectionTheme {
   const imageSrc = ($el.find('img.lesson-icon').first().attr('src') || '').toLowerCase();
 
-  if (imageSrc.includes('arrowleft') || $el.find('.lesson-subtitle .back').length > 0) {
+  const subtitleText = normalizeTextForEditor($el.find('.lesson-subtitle').text())
+    .trim()
+    .toUpperCase();
+  console.warn('getSectionTheme:', {
+    imageSrc,
+    subtitleText,
+  });
+
+  if (imageSrc.includes('challenges')) {
+    return 'challenge';
+  }
+
+  if (imageSrc.includes('bible-study')) {
+    return 'bible-study';
+  }
+  if (
+    imageSrc.includes('arrowleft') ||
+    $el.find('.lesson-subtitle .back').length > 0 ||
+    subtitleText === 'ZUSAMMENKOMMEN'
+  ) {
     return 'back';
   }
 
-  if (imageSrc.includes('arrowup') || $el.find('.lesson-subtitle .up').length > 0) {
+  if (
+    imageSrc.includes('arrowup') ||
+    $el.find('.lesson-subtitle .up').length > 0 ||
+    subtitleText === 'ENTDECKEN' ||
+    subtitleText === 'BIBELSTUDIUM' ||
+    subtitleText === 'KOMMENTAR ZUM BIBELTEXT'
+  ) {
     return 'up';
   }
 
-  if (imageSrc.includes('arrowright') || $el.find('.lesson-subtitle .forward').length > 0) {
+  if (
+    imageSrc.includes('arrowright') ||
+    $el.find('.lesson-subtitle .forward').length > 0 ||
+    subtitleText === 'WEITERGEBEN' ||
+    subtitleText === 'SPEZIFISCHE FRAGEN UND PRAXIS'
+  ) {
     return 'forward';
   }
 
+  if (subtitleText === 'WIEDERHOLEN') {
+    return 'review';
+  }
+
+  console.warn('Unknown lesson section theme:', {
+    imageSrc,
+    subtitleText,
+  });
   return 'up';
+}
+function getSectionTitle($el: cheerio.Cheerio<AnyNode>): string {
+  const titles = $el
+    .find('.lesson-subtitle')
+    .map((_, el) => normalizeTextForEditor(cheerio.load(el).text()))
+    .get()
+    .filter((text) => text !== '');
+
+  return titles[0] || '';
 }
 
 function isBibleReveal($el: cheerio.Cheerio<AnyNode>): boolean {
@@ -464,13 +548,25 @@ function isPlainReveal($el: cheerio.Cheerio<AnyNode>): boolean {
 function isSectionMarkerLesson($el: cheerio.Cheerio<AnyNode>): boolean {
   const imageSrc = ($el.find('img.lesson-icon').first().attr('src') || '').toLowerCase();
 
+  const subtitleText = normalizeTextForEditor($el.find('.lesson-subtitle').text())
+    .trim()
+    .toUpperCase();
+
   return (
+    imageSrc.includes('challenges') ||
     imageSrc.includes('arrowleft') ||
     imageSrc.includes('arrowup') ||
     imageSrc.includes('arrowright') ||
     $el.find('.lesson-subtitle .back').length > 0 ||
     $el.find('.lesson-subtitle .up').length > 0 ||
-    $el.find('.lesson-subtitle .forward').length > 0
+    $el.find('.lesson-subtitle .forward').length > 0 ||
+    subtitleText === 'ZUSAMMENKOMMEN' ||
+    subtitleText === 'ENTDECKEN' ||
+    subtitleText === 'WEITERGEBEN' ||
+    subtitleText === 'WIEDERHOLEN' ||
+    subtitleText === 'BIBELSTUDIUM' ||
+    subtitleText === 'SPEZIFISCHE FRAGEN UND PRAXIS' ||
+    subtitleText === 'KOMMENTAR ZUM BIBELTEXT'
   );
 }
 
@@ -594,19 +690,52 @@ export function migrateOldLessonHtmlToEditorJs(
     }
     // ✅ HANDLE .lesson FIRST
     if ($el.hasClass && $el.hasClass('lesson')) {
-      if (isSectionMarkerLesson($el)) {
-        const theme = getSectionTheme($el);
-        blocks.push(buildSectionMarkerBlock(theme));
-        return;
-      }
+      const hasSectionMarker = isSectionMarkerLesson($el);
 
       $el.contents().each((_, child) => {
         if (!isTag(child)) {
           return;
         }
 
-        processNode($(child));
+        const $child = $(child);
+
+        if ($child.is('.lesson-subtitle')) {
+          return;
+        }
+
+        if (isPlainReveal($child)) {
+          const $clone = $child.clone();
+
+          const $heading = $clone
+            .children('h1, h2, h3, h4, h5, h6, p')
+            .filter((_, el) => !isIgnorableHtml($(el).html() || $(el).text()))
+            .first();
+
+          const title = normalizeTextForEditor($heading.text());
+
+          if ($heading.length > 0) {
+            $heading.remove();
+          }
+
+          const nestedBlocks = extractRevealContentBlocks($, $clone);
+
+          if (title) {
+            blocks.push(buildCollapsibleGroupBlock(title, nestedBlocks));
+
+            return;
+          }
+        }
+
+        processNode($child);
       });
+
+      if (hasSectionMarker) {
+        const theme = getSectionTheme($el);
+        const title = getSectionTitle($el);
+        const icon = getSectionIconKey($el);
+
+        blocks.push(buildSectionMarkerBlock(theme, title, icon));
+      }
 
       return;
     }
@@ -633,7 +762,10 @@ export function migrateOldLessonHtmlToEditorJs(
     // 👇 existing logic continues below
     if (isPlainReveal($el)) {
       const $clone = $el.clone();
-      const $heading = $clone.children('h1, h2, h3, h4, h5, h6').first();
+      const $heading = $clone
+        .children('h1, h2, h3, h4, h5, h6, p')
+        .filter((_, el) => !isIgnorableHtml($(el).html() || $(el).text()))
+        .first();
       const title = normalizeTextForEditor($heading.text());
 
       if ($heading.length > 0) {

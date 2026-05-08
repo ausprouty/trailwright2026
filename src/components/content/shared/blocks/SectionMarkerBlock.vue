@@ -1,66 +1,93 @@
 <script setup lang="ts">
 import { computed } from 'vue';
 
-type SectionTheme = 'back' | 'up' | 'forward';
+type SectionTheme =
+  | 'back'
+  | 'up'
+  | 'forward'
+  | 'review'
+  | 'bible-study'
+  | 'questions-practice'
+  | 'bible-commentary';
 
 const props = defineProps<{
   data: {
     theme: SectionTheme;
+    title?: string;
+    icon?: string;
   };
 }>();
 
 const label = computed(() => {
-  if (props.data.theme === 'back') {
-    return 'LOOK BACK';
+  if (props.data.title) {
+    return props.data.title;
   }
 
-  if (props.data.theme === 'up') {
-    return 'LOOK UP';
-  }
+  switch (props.data.theme) {
+    case 'back':
+      return 'LOOK BACK';
 
-  return 'LOOK FORWARD';
+    case 'up':
+      return 'LOOK UP';
+
+    case 'forward':
+      return 'LOOK FORWARD';
+
+    case 'review':
+      return 'REVIEWING';
+
+    case 'bible-study':
+      return 'BIBLE STUDY';
+
+    case 'questions-practice':
+      return 'SPECIFIC QUESTIONS AND PRACTICE';
+
+    case 'bible-commentary':
+      return 'COMMENTARY ON THE BIBLE TEXT';
+
+    default:
+      return '';
+  }
 });
 
 const symbol = computed(() => {
-  if (props.data.theme === 'back') {
-    return '⬅';
+  if (props.data.icon) {
+    return props.data.icon;
   }
+  switch (props.data.theme) {
+    case 'back':
+      return '⬅';
 
-  if (props.data.theme === 'up') {
-    return '⬆';
+    case 'up':
+      return '⬆';
+
+    case 'forward':
+      return '➡';
+
+    case 'review':
+      return '↺';
+
+    case 'bible-study':
+      return '📖';
+
+    case 'questions-practice':
+      return '❖';
+
+    case 'bible-commentary':
+      return '📝';
+    default:
+      return '';
   }
-
-  return '➡';
 });
 </script>
-
 <template>
   <div class="section-marker-block">
     <span class="section-marker-block__icon">
       {{ symbol }}
     </span>
+
     <span class="section-marker-block__label">
       {{ label }}
     </span>
   </div>
 </template>
-
-<style scoped>
-.section-marker-block {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  margin: 28px 0 16px;
-}
-
-.section-marker-block__icon {
-  font-size: 2rem;
-  line-height: 1;
-}
-
-.section-marker-block__label {
-  font-size: 2rem;
-  font-weight: 500;
-  line-height: 1.1;
-}
-</style>

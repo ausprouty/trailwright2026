@@ -31,6 +31,16 @@ const items = computed(() => {
   return Array.isArray(props.data.items) ? props.data.items : [];
 });
 
+const hasIcons = computed(() => {
+  return items.value.some((item) => {
+    return item && typeof item === 'object' && typeof item.icon === 'string';
+  });
+});
+
+const isLessonList = computed(() => {
+  return props.data.variant === 'lesson-list' || hasIcons.value;
+});
+
 function itemContent(item: EditorJsListItem): string {
   if (typeof item === 'string') {
     return item;
@@ -75,12 +85,16 @@ function hasChildren(item: EditorJsListItem): boolean {
     :is="tagName"
     v-if="items.length"
     class="list-block"
-    :class="{ 'list-block--lesson': data.variant === 'lesson-list' }"
+    :class="{
+      'list-block--ordered': data.style === 'ordered',
+      'list-block--unordered': data.style !== 'ordered',
+      'list-block--lesson': isLessonList,
+    }"
   >
     <li v-for="(item, index) in items" :key="index" class="list-block__item">
       <span v-if="itemIconSvg(item)" class="list-block__icon" v-html="itemIconSvg(item)" />
 
-      <span v-html="itemContent(item)" />
+      <span class="list-block__content" v-html="itemContent(item)" />
 
       <component :is="tagName" v-if="hasChildren(item)" class="list-block list-block--nested">
         <li
@@ -90,7 +104,7 @@ function hasChildren(item: EditorJsListItem): boolean {
         >
           <span v-if="itemIconSvg(child)" class="list-block__icon" v-html="itemIconSvg(child)" />
 
-          <span v-html="itemContent(child)" />
+          <span class="list-block__content" v-html="itemContent(child)" />
 
           <component :is="tagName" v-if="hasChildren(child)" class="list-block list-block--nested">
             <li
@@ -104,7 +118,7 @@ function hasChildren(item: EditorJsListItem): boolean {
                 v-html="itemIconSvg(grandChild)"
               />
 
-              <span v-html="itemContent(grandChild)" />
+              <span class="list-block__content" v-html="itemContent(grandChild)" />
             </li>
           </component>
         </li>
@@ -114,17 +128,46 @@ function hasChildren(item: EditorJsListItem): boolean {
 </template>
 
 <style scoped>
-.section-marker-block {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
+.list-block {
   margin: 1rem 0;
+  padding-left: 1.5rem;
   font-family: Arial, sans-serif;
-  font-weight: bold;
-  text-transform: uppercase;
 }
 
-.section-marker-block__icon,
+.list-block--unordered {
+  list-style-type: disc;
+}
+
+.list-block--ordered {
+  list-style-type: decimal;
+}
+
+.list-block__item {
+  margin-bottom: 0.6rem;
+  line-height: 1.4;
+}
+
+.list-block__content {
+  line-height: 1.4;
+}
+
+.list-block--nested {
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
+
+.list-block--lesson {
+  padding-left: 0;
+  list-style: none;
+}
+
+.list-block--lesson > .list-block__item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
 .list-block__icon {
   display: inline-flex;
   width: 32px;
@@ -132,28 +175,9 @@ function hasChildren(item: EditorJsListItem): boolean {
   flex: 0 0 32px;
 }
 
-.section-marker-block__icon :deep(svg),
 .list-block__icon :deep(svg) {
   display: block;
   width: 100%;
   height: 100%;
-}
-
-.list-block {
-  margin: 1rem 0;
-  padding-left: 0;
-  list-style: none;
-  font-family: Arial, sans-serif;
-}
-
-.list-block__item {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.75rem;
-  margin-bottom: 0.75rem;
-}
-
-.list-block__content {
-  line-height: 1.4;
 }
 </style>

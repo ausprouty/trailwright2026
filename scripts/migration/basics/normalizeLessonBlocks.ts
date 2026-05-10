@@ -13,43 +13,32 @@ type NormalizeLessonBlocksOptions = {
   keyPrefix: string;
 };
 
-export function normalizeLessonBlocks(
-  blocks: AnyEditorJsBlock[],
-  options: NormalizeLessonBlocksOptions,
-): AnyEditorJsBlock[] {
-  const result: AnyEditorJsBlock[] = [];
-
-  for (const block of blocks) {
-    if (isSectionMarker(block, 'up')) {
-      ensureNotesAreaBeforeSection(result, 'look-up', options.keyPrefix);
-    }
-
-    if (isSectionMarker(block, 'forward')) {
-      ensureNotesAreaBeforeSection(result, 'look-forward', options.keyPrefix);
-    }
-
-    if (isSectionMarker(block, 'review')) {
-      ensureNotesAreaBeforeSection(result, 'review', options.keyPrefix);
-    }
-
-    if (isSectionMarker(block, 'bible-study')) {
-      ensureNotesAreaBeforeSection(result, 'bible-study', options.keyPrefix);
-    }
-
-    if (isSectionMarker(block, 'questions-practice')) {
-      ensureNotesAreaBeforeSection(result, 'questions-practice', options.keyPrefix);
-    }
-
-    if (isSectionMarker(block, 'bible-commentary')) {
-      ensureNotesAreaBeforeSection(result, 'bible-commentary', options.keyPrefix);
-    }
-
-    result.push(normalizeBlock(block));
+function addIWillAfterFinalChallengeList(blocks: AnyEditorJsBlock[], keyPrefix: string): void {
+  if (blocks.length < 2) {
+    return;
   }
 
-  replaceFirstLookForwardNotesWithIWill(result, options.keyPrefix);
+  const lastBlock = blocks[blocks.length - 1];
 
-  return result;
+  if (!lastBlock) {
+    return;
+  }
+
+  if (lastBlock.type === 'iWill') {
+    return;
+  }
+
+  if (lastBlock.type !== 'list') {
+    return;
+  }
+
+  const previousBlock = blocks[blocks.length - 2];
+
+  if (!previousBlock || !isChallengeSectionMarker(previousBlock)) {
+    return;
+  }
+
+  blocks.push(buildIWillBlock(`${keyPrefix}-i-will`));
 }
 
 function buildIWillBlock(storageKey: string): AnyEditorJsBlock {
@@ -136,7 +125,31 @@ function getLessonListItems(block: AnyEditorJsBlock): IconListItem[] {
     };
   });
 }
+function isChallengeSectionMarker(block: AnyEditorJsBlock): boolean {
+  if (block.type !== 'sectionMarker') {
+    return false;
+  }
 
+  const data = block.data as {
+    theme?: unknown;
+    title?: unknown;
+    icon?: unknown;
+  };
+
+  const theme = typeof data.theme === 'string' ? data.theme.toLowerCase() : '';
+
+  const title = typeof data.title === 'string' ? data.title.toLowerCase() : '';
+
+  const icon = typeof data.icon === 'string' ? data.icon.toLowerCase() : '';
+
+  return (
+    theme === 'challenge' ||
+    theme === 'challenges' ||
+    title === 'challenge' ||
+    title === 'challenges' ||
+    icon === 'challenges'
+  );
+}
 function isLessonListBlock(block: AnyEditorJsBlock): boolean {
   if (block.type !== 'list') {
     return false;
@@ -168,11 +181,49 @@ function normalizeBlock(block: AnyEditorJsBlock): AnyEditorJsBlock {
   return block;
 }
 
-function replaceFirstLookForwardNotesWithIWill(
+export function normalizeLessonBlocks(
   blocks: AnyEditorJsBlock[],
-  keyPrefix: string,
-): void {
-  let inLookForward = false;
+  options: NormalizeLessonBlocksOptions,
+): AnyEditorJsBlock[] {
+  const result: AnyEditorJsBlock[] = [];
+
+  for (const block of blocks) {
+    if (isSectionMarker(block, 'up')) {
+      ensureNotesAreaBeforeSection(result, 'look-up', options.keyPrefix);
+    }
+
+    if (isSectionMarker(block, 'forward')) {
+      ensureNotesAreaBeforeSection(result, 'look-forward', options.keyPrefix);
+    }
+
+    if (isSectionMarker(block, 'review')) {
+      ensureNotesAreaBeforeSection(result, 'review', options.keyPrefix);
+    }
+
+    if (isSectionMarker(block, 'bible-study')) {
+      ensureNotesAreaBeforeSection(result, 'bible-study', options.keyPrefix);
+    }
+
+    if (isSectionMarker(block, 'questions-practice')) {
+      ensureNotesAreaBeforeSection(result, 'questions-practice', options.keyPrefix);
+    }
+
+    if (isSectionMarker(block, 'bible-commentary')) {
+      ensureNotesAreaBeforeSection(result, 'bible-commentary', options.keyPrefix);
+    }
+
+    result.push(normalizeBlock(block));
+  }
+
+  replaceFinalForwardNotesWithIWill(result, options.keyPrefix);
+  replaceFinalNotesAreaWithIWill(result, options.keyPrefix);
+  addIWillAfterFinalChallengeList(result, options.keyPrefix);
+  return result;
+}
+
+function replaceFinalForwardNotesWithIWill(blocks: AnyEditorJsBlock[], keyPrefix: string): void {
+  let lastForwardIndex = -1;
+  let lastNotesAreaIndex = -1;
 
   for (let i = 0; i < blocks.length; i += 1) {
     const block = blocks[i];
@@ -182,21 +233,47 @@ function replaceFirstLookForwardNotesWithIWill(
     }
 
     if (isSectionMarker(block, 'forward')) {
-      inLookForward = true;
+      lastForwardIndex = i;
+      lastNotesAreaIndex = -1;
       continue;
     }
 
-    if (!inLookForward) {
+    if (lastForwardIndex === -1) {
       continue;
-    }
-
-    if (block.type === 'sectionMarker') {
-      return;
     }
 
     if (block.type === 'notesArea') {
-      blocks[i] = buildIWillBlock(`${keyPrefix}-i-will`);
-      return;
+      lastNotesAreaIndex = i;
     }
   }
+
+  if (lastForwardIndex === -1 || lastNotesAreaIndex === -1) {
+    return;
+  }
+
+  blocks[lastNotesAreaIndex] = buildIWillBlock(`${keyPrefix}-i-will`);
+}
+
+function replaceFinalNotesAreaWithIWill(blocks: AnyEditorJsBlock[], keyPrefix: string): void {
+  if (blocks.length < 2) {
+    return;
+  }
+
+  const lastIndex = blocks.length - 1;
+  const lastBlock = blocks[lastIndex];
+  const previousBlock = blocks[lastIndex - 1];
+
+  if (!lastBlock || !previousBlock) {
+    return;
+  }
+
+  if (lastBlock.type !== 'notesArea') {
+    return;
+  }
+
+  if (previousBlock.type !== 'list') {
+    return;
+  }
+
+  blocks[lastIndex] = buildIWillBlock(`${keyPrefix}-i-will`);
 }

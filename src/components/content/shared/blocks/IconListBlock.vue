@@ -78,33 +78,19 @@ function getIconLabel(iconKey: string): string {
 }
 
 .icon-list-block__icon {
-  width: 24px;
-  height: 24px;
-  flex: 0 0 24px;
+  width: 32px;
+  height: 32px;
+  flex: 0 0 32px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  margin-top: 3px;
-  color: #111111;
+  margin-top: 2px;
 }
 
 .icon-list-block__icon :deep(svg) {
-  width: 22px;
-  height: 22px;
+  width: 100%;
+  height: 100%;
   display: block;
-}
-
-.icon-list-block__icon :deep(path),
-.icon-list-block__icon :deep(circle),
-.icon-list-block__icon :deep(rect),
-.icon-list-block__icon :deep(line),
-.icon-list-block__icon :deep(polyline),
-.icon-list-block__icon :deep(polygon) {
-  fill: none;
-  stroke: currentColor;
-  stroke-width: 4;
-  stroke-linecap: round;
-  stroke-linejoin: round;
 }
 
 .icon-list-block__content {

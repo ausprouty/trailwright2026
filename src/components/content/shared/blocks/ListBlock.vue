@@ -1,5 +1,8 @@
 <script setup lang="ts">
 import { computed } from 'vue';
+import { iconListIcons } from '../iconListIcons';
+
+type IconListIconKey = keyof typeof iconListIcons;
 
 type EditorJsListItem =
   | string
@@ -44,12 +47,14 @@ function itemContent(item: EditorJsListItem): string {
   return '';
 }
 
-function itemIcon(item: EditorJsListItem): string {
-  if (item && typeof item === 'object' && typeof item.icon === 'string') {
-    return item.icon;
+function itemIconSvg(item: EditorJsListItem): string {
+  if (!item || typeof item !== 'object' || typeof item.icon !== 'string') {
+    return '';
   }
 
-  return '';
+  const iconKey = item.icon as IconListIconKey;
+
+  return iconListIcons[iconKey]?.svg || '';
 }
 
 function itemChildren(item: EditorJsListItem): EditorJsListItem[] {
@@ -73,7 +78,7 @@ function hasChildren(item: EditorJsListItem): boolean {
     :class="{ 'list-block--lesson': data.variant === 'lesson-list' }"
   >
     <li v-for="(item, index) in items" :key="index" class="list-block__item">
-      <img v-if="itemIcon(item)" :src="itemIcon(item)" class="list-block__icon" alt="" />
+      <span v-if="itemIconSvg(item)" class="list-block__icon" v-html="itemIconSvg(item)" />
 
       <span v-html="itemContent(item)" />
 
@@ -83,7 +88,7 @@ function hasChildren(item: EditorJsListItem): boolean {
           :key="childIndex"
           class="list-block__item"
         >
-          <img v-if="itemIcon(child)" :src="itemIcon(child)" class="list-block__icon" alt="" />
+          <span v-if="itemIconSvg(child)" class="list-block__icon" v-html="itemIconSvg(child)" />
 
           <span v-html="itemContent(child)" />
 
@@ -93,11 +98,10 @@ function hasChildren(item: EditorJsListItem): boolean {
               :key="grandChildIndex"
               class="list-block__item"
             >
-              <img
-                v-if="itemIcon(grandChild)"
-                :src="itemIcon(grandChild)"
+              <span
+                v-if="itemIconSvg(grandChild)"
                 class="list-block__icon"
-                alt=""
+                v-html="itemIconSvg(grandChild)"
               />
 
               <span v-html="itemContent(grandChild)" />
@@ -110,45 +114,46 @@ function hasChildren(item: EditorJsListItem): boolean {
 </template>
 
 <style scoped>
+.section-marker-block {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 1rem 0;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.section-marker-block__icon,
+.list-block__icon {
+  display: inline-flex;
+  width: 32px;
+  height: 32px;
+  flex: 0 0 32px;
+}
+
+.section-marker-block__icon :deep(svg),
+.list-block__icon :deep(svg) {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
 .list-block {
-  margin: 0 0 1rem;
-  padding-inline-start: 1.5rem;
-  line-height: 1.6;
+  margin: 1rem 0;
+  padding-left: 0;
+  list-style: none;
+  font-family: Arial, sans-serif;
 }
 
 .list-block__item {
-  margin: 0.35rem 0;
-}
-
-.list-block--lesson {
-  list-style: none;
-  padding-inline-start: 0;
-}
-
-.list-block--lesson .list-block__item {
   display: flex;
   align-items: flex-start;
-  gap: 0.5rem;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
 }
 
-.list-block__icon {
-  width: 1.35rem;
-  height: 1.35rem;
-  object-fit: contain;
-  flex: 0 0 auto;
-  margin-top: 0.15rem;
-}
-
-.list-block--nested {
-  margin-top: 0.35rem;
-}
-
-.list-block :deep(a) {
-  color: #d32f2f;
-  text-decoration: underline;
-}
-
-.list-block :deep(a:hover) {
-  text-decoration-thickness: 2px;
+.list-block__content {
+  line-height: 1.4;
 }
 </style>

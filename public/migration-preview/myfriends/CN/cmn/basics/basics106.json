@@ -1,0 +1,193 @@
+{
+  "blocks": [
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics106-review"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "分享生活",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "你这周如何经历到神？",
+          "你的生活中有什么需要神的帮助？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 一起祷告：为你和神的经历感谢祂，祈求神的帮助."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics106-review"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "复习",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "上次我们讨论了什么？",
+          "彼此尽可能诚实地分享，之前在哪些方面你必须在神和蛇之间做出选 择，哪些你需要神的饶恕"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics106-bible-study"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "圣经学习",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "安静读这段经文",
+          "大声读这段经文",
+          "复述经文（合上圣经，凭记忆复述）",
+          "小组贡献，完成复述"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Bible",
+        "html": "約 翰 福 音 1:29-34",
+        "url": "",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "一般性问题:",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "这段经文有什么让你觉得印象深刻的吗？ <ul><li>有什么你喜欢的部分？</li><li>有什么让你觉得很困扰的部分？</li></ul>",
+          "这段经文如何提到神的？",
+          "这段经文关于人是怎么说的"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "具体问题：",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "经文中提到的人是谁？",
+          "他为我们做了什么？（赛53：4-5）",
+          "为什么他要这样做（赛53：11）？"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "应用经文",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "如果我们读到的是真实的，那这将如何改变： <ul><li>我对神的看法？</li><li>我对人，动物和自然的行为？</li><li>我的生活方式？</li></ul>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics106-challenge"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "挑战",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "花些时间想想，有人为你的错承担责任，接受惩罚。这让你有什么感 觉？写下你的想法？",
+          "你有认识什么人，他们正面对困难，但其实是他们自己的错。这个人是 谁？你如何/能够帮助这个人？",
+          "在接下来一周在哪里我有机会和别人分享我和神的经历，并邀请他们开 始和神建立友谊?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics106-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "经文注释",
+        "isOpen": true,
+        "content": {
+          "blocks": [],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ],
+  "time": 1780285521145,
+  "version": "2.31.5"
+}

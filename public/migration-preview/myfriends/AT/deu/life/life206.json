@@ -1,0 +1,142 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt?",
+          "Was hat sich bei dir seit dem letzten Treffen verändert?",
+          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsames Gebet: Danke für Erlebnisse, bitte um Gottes Hilfe und dass du heute neue Aspekte von Gott kennenlernen darfst."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-206-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Markus 6, 34-44",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>34</sup>Als Jesus aus dem Boot stieg, erwartete ihn eine riesige Menschenmenge. Er hatte Mitleid mit ihnen, denn sie waren wie Schafe ohne Hirten. Deshalb nahm er sich Zeit, sie vieles zu lehren. <sup>35</sup>Spät am Nachmittag traten seine Jünger zu ihm und sagten: »Dies ist eine einsame Gegend und es wird langsam spät. <sup>36</sup>Schick die Leute fort, damit sie auf die umliegenden Gehöfte und in die Dörfer gehen können und sich etwas zu essen kaufen.« <sup>37</sup>Doch Jesus meinte: »Gebt ihr ihnen zu essen.« Sie erwiderten: »Wie denn? Es würde ein kleines Vermögen kosten, für so viele Menschen Essen zu kaufen!« <sup>38</sup>Er fragte: »Wie viele Brote habt ihr? Geht und stellt es fest.« Sie kamen zurück und berichteten: »Wir haben fünf Brote und zwei Fische.« <sup>39</sup>Da forderte Jesus die Menge auf, sich in Gruppen ins grüne Gras zu setzen. <sup>40</sup>Sie setzten sich zu je fünfzig oder hundert zusammen. <sup>41</sup>Jesus nahm die fünf Brote und zwei Fische, blickte zum Himmel auf und bat um Gottes Segen für das Essen. Dann brach er das Brot in Stücke und reichte den Jüngern Brot und Fisch, damit diese alles an die Leute verteilten. <sup>42</sup>Alle aßen, so viel sie wollten. <sup>43</sup>Danach sammelten sie ein, was von den Broten und Fischen übrig geblieben war: es waren noch zwölf Körbe voll. <sup>44</sup>Fünftausend Männer waren von diesen fünf Broten satt geworden!<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Markus%206,%2034-44",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Allgemeine Fragen:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas besonders aufgefallen? Was magst du, was stört dich?",
+          "Was kannst du in diesem Text über Gott und Jesus lernen?",
+          "Was kannst du über die Menschen lernen?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Text anwenden:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Wie beeinflusst dieser Text die Art, wie du lebst?",
+          "Wie beeinflusst dieser Text deine Sicht über Gott und Jesus?",
+          "Wie beeinflusst dieser Text deinen Umgang mit anderen Menschen?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-206-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was wirst du die nächsten zwei, drei Tage ausprobieren / verbessern / tun?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Mache ein Statement mit den Worten: «Ich werde die nächsten zwei, drei Tage…»."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsames Gebet: Sage Gott, was du ausprobieren / verbessern / tun wirst und bitte ihn um seine Hilfe und sein Wirken."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-206-i-will"
+      }
+    }
+  ],
+  "time": 1776770695890,
+  "version": "2.31.5"
+}

@@ -1,0 +1,111 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What are you thankful for and what has been challenging for you since we last met?",
+          "Have you experienced God at work in your life lately?",
+          "Have you had the opportunity to care for your friends or neighbours this week?",
+          "How did you go with your application from the last time we met?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-215-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage aloud and then watch the video clip.",
+          "Have one person retell the passage in their own words with the group’s help.",
+          "Was there anything missed or added?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luke 17:11-19",
+        "html": "<!-- begin bible --><div><!-- begin bible --><p><sup class=\"versenum\">11 </sup>Now on his way to Jerusalem, Jesus traveled along the border between Samaria and Galilee. <sup class=\"versenum\">12 </sup>As he was going into a village, ten men who had leprosy met him. They stood at a distance <sup class=\"versenum\">13 </sup>and called out in a loud voice, “Jesus, Master, have pity on us!”</p><p><sup class=\"versenum\">14 </sup>When he saw them, he said, “Go, show yourselves to the priests.” And as they went, they were cleansed.</p><p><sup class=\"versenum\">15 </sup>One of them, when he saw he was healed, came back, praising God in a loud voice. <sup class=\"versenum\">16 </sup>He threw himself at Jesus’ feet and thanked him—and he was a Samaritan.</p><p><sup class=\"versenum\">17 </sup>Jesus asked, “Were not all ten cleansed? Where are the other nine? <sup class=\"versenum\">18 </sup>Has no one returned to give praise to God except this foreigner?” <sup class=\"versenum\">19 </sup>Then he said to him, “Rise and go; your faith has made you well.”</p><!--end of footnotes--><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%2017:11-19&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luke 17:11-19",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2617",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2617",
+        "startTime": "1:52",
+        "endTime": "3:03",
+        "isOpen": true,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What stands out for you in this passage?",
+          "What does this passage tell you about Jesus, God, people and you?",
+          "What does this passage say about thankfulness?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-215-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "If this passage is from God, what difference would it make in your life?",
+          "How are you going to apply this passage this week?",
+          "Who will you share this passage with?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-215-i-will"
+      }
+    }
+  ],
+  "time": 1776770696416,
+  "version": "2.31.5"
+}

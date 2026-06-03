@@ -1,0 +1,111 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What are you thankful for and what has been challenging for you since we last met?",
+          "Have you experienced God at work in your life lately?",
+          "Have you had the opportunity to care for your friends or neighbours this week?",
+          "How did you go with your application from the last time we met?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-223-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage aloud and then watch the video clip.",
+          "Have one person retell the passage in their own words with the group’s help.",
+          "Was there anything missed or added?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthew 22:34-40",
+        "html": "<!-- begin bible --><div><p><sup class=\"versenum\">34 </sup>Hearing that Jesus had silenced the Sadducees, the Pharisees got together.<sup class=\"versenum\">35 </sup>One of them, an expert in the law, tested him with this question:<sup class=\"versenum\">36 </sup>“Teacher, which is the greatest commandment in the Law?”</p><p><sup class=\"versenum\">37 </sup>Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’<sup class=\"versenum\">38 </sup>This is the first and greatest commandment.<sup class=\"versenum\">39 </sup>And the second is like it: ‘Love your neighbor as yourself.’<sup class=\"versenum\">40 </sup>All the Law and the Prophets hang on these two commandments.”</p></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%2022:34-40&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Matthew 22:34-40",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMatt2517",
+        "source": "arclight",
+        "refId": "6_529-GOMatt2517",
+        "startTime": "4:46",
+        "endTime": "5:26",
+        "isOpen": true,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What stands out for you in this passage?",
+          "What does this passage tell you about Jesus, God, people and you?",
+          "What does this passage say about why I am here?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-223-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "If this passage is from God, what difference would it make in your life?",
+          "How are you going to apply this passage this week?",
+          "Who will you share this passage with?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-223-i-will"
+      }
+    }
+  ],
+  "time": 1776770696503,
+  "version": "2.31.5"
+}

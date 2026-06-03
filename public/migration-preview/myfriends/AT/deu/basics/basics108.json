@@ -1,0 +1,205 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ZUSAMMENKOMMEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Wo brauchst du Gottes Hilfe? Wie können wir dir praktisch helfen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Betet füreinander."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- ENTDECKEN -->"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics108-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ENTDECKEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Lest den Text leise für euch und danach laut vor."
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibeln). Wurde etwas weggelassen oder ergänzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthäus 6, 9-15",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>9</sup>So sollt ihr beten: ›Unser Vater im Himmel, dein Name werde geehrt. <sup>10</sup>Dein Reich komme bald. Dein Wille erfülle sich hier auf der Erde genauso wie im Himmel. <sup>11</sup>Schenk uns heute unser tägliches Brot <sup>12</sup>und vergib uns unsere Schuld, wie auch wir denen vergeben haben, die an uns schuldig geworden sind. <sup>13</sup>Lass nicht zu, dass wir der Versuchung nachgeben, sondern erlöse uns von dem Bösen .‹ <sup>14</sup>Wenn ihr denen vergebt, die euch Böses angetan haben, wird euer himmlischer Vater euch auch vergeben. <sup>15</sup>Wenn ihr euch aber weigert, anderen zu vergeben, wird euer Vater euch auch nicht vergeben. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Matthäus%206,%209-15",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Was kannst du in diesem Text über Gott und die Menschen lernen?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Kommentar zum Bibeltext",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Obwohl mit dem Leiden, Sterben und Auferstehen Jesu alles vollbracht ist, damit alle Sünde aller Menschen aller Zeiten vergeben werden können, bedeutet das nicht, dass seit diesem Zeitpunkt immer automatisch alle Sünden vergeben sind. Vielmehr ist es so, dass Jesus eine Möglichkeit geschaffen hat, welche wir nun nutzen müssen."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Damit uns unsere Schuld vergeben wird, müssen wir zwei Dinge tun:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Gott um Vergebung bitten",
+                  "den Mitmenschen vergeben"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Da in diesem Text ein Schwerpunkt auf Vergebung liegt, lohnt es sich, dieses vielschichtige, alte Wort \"Vergebung\" etwas zu erklären."
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Wenn Gott uns Menschen vergibt bedeutet das, dass uns Gott unsere Schuld nicht mehr anrechnet. Das wurde möglich, weil Jesus für uns gelitten hat und gestorben ist. Er hat die Konsequenzen unserer Schuld, die eigentlich wir hätten tragen müssen, auf sich genommen, damit wir frei werden können. Auf dieser Grundlage spricht Gott uns trotz unserer Schuld nicht mehr schuldig, sondern begnadigt uns. Obwohl wir eigentlich schuldig sind, werden wir so von Gott gerecht gesprochen. Und das ist die Grundlage dafür, dass wir mit Gott versöhnt leben dürfen. Was für ein Privileg!",
+                  "Wenn wir Menschen, welche an uns schuldig geworden sind, vergeben, bedeutet das nicht, dass wir vergessen, verleugnen oder beschönigen, was geschehen ist. In diesem Zusammenhang bedeutet «vergeben» weggeben, übergeben und abgeben. Wir können diese Sache Gott übergeben, damit er sich darum kümmern kann. Auch Gott wird diese Schuld nicht einfach vergessen, sondern er wird sich auf seine Art und Weise darum kümmern. So müssen wir uns nicht mehr selber rächen, sondern können das getrost Gott anvertrauen.",
+                  "Wenn wir jemandem vergeben und somit die Sache Gott anvertrauen, werden wir persönlich und unsere Beziehung zu diesem Menschen von der Last dieser Schuld befreit. Mir müssen nicht mehr nachtragend sein. Wir können wieder ganz unbeschwert leben und dieser Person begegnen, weil die Schuld nicht mehr zwischen uns steht."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics108-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "WEITERGEBEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "In welche Bereiche deines Lebens spricht Gott durch diesen Text? Was wirst du in den nächsten Tagen umsetzen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "icon": "challenges",
+            "text": "Wem wirst du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem wirst du beten?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics108-i-will"
+      }
+    }
+  ],
+  "time": 1778401521620,
+  "version": "2.31.5"
+}

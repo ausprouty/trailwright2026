@@ -1,0 +1,189 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ZUSAMMENKOMMEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Wo brauchst du Gottes Hilfe? Wie können wir dir praktisch helfen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Betet füreinander."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- ENTDECKEN -->"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics105-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ENTDECKEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Lest den Text leise für euch und danach laut vor."
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibeln). Wurde etwas weggelassen oder ergänzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Jeremia 31, 31-34",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>31</sup>Es wird der Tag kommen«, spricht der HERR, »an dem ich einen neuen Bund mit dem Volk Israel und mit dem Volk Juda schließen werde. <sup>32</sup>Dieser Bund wird nicht so sein wie der, den ich mit ihren Vorfahren schloss, als ich sie an der Hand nahm und aus Ägypten herausführte. Sie sind meinem Bund nicht treu geblieben, deshalb habe ich mich von ihnen abgewandt«, spricht der HERR . <sup>33</sup>»Doch dies ist der neue Bund, den ich an jenem Tage mit dem Volk Israel schließen werde«, spricht der HERR. »Ich werde ihr Denken mit meinem Gesetz füllen, und ich werde es in ihr Herz schreiben. Und ich werde ihr Gott sein und sie werden mein Volk sein . <sup>34</sup>Niemand muss dann noch seine Freunde belehren und keiner seinen Bruder ermahnen: ›Lerne den HERRN kennen!‹ Denn alle werden mich kennen, alle, vom Kleinsten bis hin zum Größten«, spricht der HERR. »Und ich will ihnen ihre Sünden vergeben und nicht mehr an ihre bösen Taten denken.« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Jeremia%2031,%2031-34",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Was kannst du in diesem Text über Gott und die Menschen lernen?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Kommentar zum Bibeltext",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Seien wir mal ehrlich: Kannst du die 10 Gebote halten oder ist dir klar, dass du diese immer wieder übertrittst? Durch diese Regeln kann das Böse zwar bekämpft, nicht aber ausgerottet werden. Es bleibt eine Tatsache, dass wir Menschen vom Bösen geprägt sind und dass wir das nicht aus eigener Kraft ändern können."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Deshalb redet Gott von einer Zeit, in welcher wir auf eine neue Art leben werden. Doch dazu müssen sich ein paar Dinge ändern."
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Als wir Menschen uns für die Schlange und gegen Gott entschieden hatten, mussten wir den Garten und damit die nahe Gemeinschaft mit Gott verlassen. Wir haben gegen Gott gesündigt und können das nicht rückgängig machen. Doch weil Gott uns Menschen so sehr liebt, kündigt er an, dass er uns unsere Sünden vergeben wird. Das ist die wichtigste Voraussetzung, damit wir, ähnlich wie die ersten Menschen, Gemeinschaft mit Gott haben können.",
+                  "Gott muss unser menschliches Herz so verwandeln, dass es nicht mehr vom Bösen geprägt ist und wir damit wieder frei zwischen Gott und der Schlange (dem Bösen) wählen können. Wenn wir uns für Gott und damit für das Gute entscheiden, werden Gottes Regeln wieder für uns gelten. Wenn wir uns für die Schlange entscheiden, werden wir wieder vom Bösen geprägt werden. Doch damit wir diese Entscheidung überhaupt treffen können, müssen wir zuerst Gott erkennen (kennen lernen). So redet Gott von einer Zeit, in welcher alle ihn persönlich erkennen werden können. Und wenn wir so mit Gott Gemeinschaft haben, müssen wir nicht mehr irgendwelchen Regeln eines Buches folgen, sondern Gott wird seine Regeln direkt in unser Herz schreiben, so dass sie ein fester Teil von uns werden.",
+                  "Dann werden wir zu seinem Volk gehören und er wird unser Gott sein. Dann wird vieles wieder so sein, wie Gott es ursprünglich für uns gedacht hat."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics105-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "WEITERGEBEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "In welche Bereiche deines Lebens spricht Gott durch diesen Text? Was wirst du in den nächsten Tagen umsetzen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "icon": "challenges",
+            "text": "Wem wirst du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem wirst du beten?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics105-i-will"
+      }
+    }
+  ],
+  "time": 1778401521538,
+  "version": "2.31.5"
+}

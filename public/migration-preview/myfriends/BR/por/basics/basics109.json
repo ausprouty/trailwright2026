@@ -1,0 +1,161 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "COMPARTILHAR",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Como você experimentou Deus esta semana?",
+          "O que você está agradecido?",
+          "Para o que você precisa da ajuda de Deus?",
+          "Como podemos ajudá-lo com suas necessidades?",
+          "Rezem um pelo outro"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics109-review"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "REVEJA",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "O que você colocou em prática desde o nosso último encontro?",
+          "Como estão as pessoas pelas quais você está cuidando? O que os ajudaria mais?",
+          "Você foi capaz de compartilhar uma experiência de Deus com alguém? Você orou com eles?",
+          "Ore por essas pessoas"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics109-bible-study"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LER",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Leia a passagem em voz alta duas vezes.",
+          "Peça para uma pessoa recontar a passagem em suas próprias palavras com a ajuda do grupo.",
+          "Havia alguma coisa perdida ou adicionada?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Mateus 7:24-29",
+        "html": "<div class=\"bible\"><p><sup>24</sup>“Portanto, quem ouve estas minhas palavras e as pratica é como um homem prudente que construiu a sua casa sobre a rocha.<sup>25</sup>Caiu a chuva, transbordaram os rios, sopraram os ventos e deram contra aquela casa, e ela não caiu, porque tinha seus alicerces na rocha.<sup>26</sup>Mas quem ouve estas minhas palavras e não as pratica é como um insensato que construiu a sua casa sobre a areia.<sup>27</sup>Caiu a chuva, transbordaram os rios, sopraram os ventos e deram contra aquela casa, e ela caiu. E foi grande a sua queda”.</p><p><sup>28</sup>Quando Jesus acabou de dizer essas coisas, as multidões estavam maravilhadas com o seu ensino,<sup>29</sup>porque ele as ensinava como quem tem autoridade, e não como os mestres da lei.</p><p><br></p><p><sup>22</sup><strong>Sejam praticantes da palavra, e não apenas ouvintes, enganando-se a si mesmos.</strong></p><p><br></p></div>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%207:24-29&version=NVI-PT",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "DESCOBRIR",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "O que se destaca para você nesta passagem?",
+          "O que você gosta e o que incomoda nessa passagem?",
+          "O que esta passagem lhe fala sobre Deus e as pessoas?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics109-challenge"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "APLIQUE",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Pergunte a Deus o que Ele quer que você faça em resposta à passagem. Existe:",
+          "Um comportamento para mudar?",
+          "Uma promessa para reivindicar?",
+          "Um exemplo a seguir?",
+          "Um comando para obedecer?",
+          "Compartilhe isso com o grupo"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics109-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Notas",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Em Mateus 7:24, Jesus descreve um dos princípios mais importantes sobre a forma como devemos ler a Bíblia: ao usar uma parábola. Tiago resume o mesmo tópico em apenas uma frase: “E sede cumpridores da palavra, e não somente ouvintes, enganando-vos a vós mesmos.”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ],
+  "time": 1778492568804,
+  "version": "2.31.5"
+}

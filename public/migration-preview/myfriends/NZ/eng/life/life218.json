@@ -1,0 +1,117 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What are you thankful for and what has been challenging for you since we last met?",
+          "Have you experienced God at work in your life lately?",
+          "Have you had the opportunity to care for your friends or neighbours this week?",
+          "How did you go with your application from the last time we met?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-218-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage aloud and then watch the video clip.",
+          "Have one person retell the passage in their own words with the group’s help.",
+          "Was there anything missed or added?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luke 19:1-10",
+        "html": "<!-- begin bible --><div><!-- begin bible --><p class=\"chapter-2\"><sup class=\"versenum\">1 </sup>Jesus entered Jericho and was passing through. <sup class=\"versenum\">2 </sup>A man was there by the name of Zacchaeus; he was a chief tax collector and was wealthy. <sup class=\"versenum\">3 </sup>He wanted to see who Jesus was, but because he was short he could not see over the crowd. <sup class=\"versenum\">4 </sup>So he ran ahead and climbed a sycamore-fig tree to see him, since Jesus was coming that way.</p><p><sup class=\"versenum\">5 </sup>When Jesus reached the spot, he looked up and said to him, “Zacchaeus, come down immediately. I must stay at your house today.” <sup class=\"versenum\">6 </sup>So he came down at once and welcomed him gladly.</p><p><sup class=\"versenum\">7 </sup>All the people saw this and began to mutter, “He has gone to be the guest of a sinner.”</p><p><sup class=\"versenum\">8 </sup>But Zacchaeus stood up and said to the Lord, “Look, Lord! Here and now I give half of my possessions to the poor, and if I have cheated anybody out of anything, I will pay back four times the amount.”</p><p><sup class=\"versenum\">9 </sup>Jesus said to him, “Today salvation has come to this house, because this man, too, is a son of Abraham. <sup class=\"versenum\">10 </sup>For the Son of Man came to seek and to save the lost.”</p><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%2019:1-10&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luke 19:1-10",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2619",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2619",
+        "startTime": "start",
+        "endTime": "1:18",
+        "isOpen": true,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What stands out for you in this passage?",
+          "What does this passage tell you about Jesus, God, people and you?",
+          "What does this passage say about acceptance?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-218-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "If this passage is from God, what difference would it make in your life?",
+          "How are you going to apply this passage this week?",
+          "Who will you share this passage with?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-218-i-will"
+      }
+    }
+  ],
+  "time": 1776770698102,
+  "version": "2.31.5"
+}

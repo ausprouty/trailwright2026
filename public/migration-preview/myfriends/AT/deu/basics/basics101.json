@@ -1,0 +1,178 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ZUSAMMENKOMMEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Wo brauchst du Gottes Hilfe? Wie können wir dir praktisch helfen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Betet füreinander."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- ENTDECKEN -->"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics101-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ENTDECKEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Lest den Text leise für euch und danach laut vor."
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibeln). Wurde etwas weggelassen oder ergänzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1 Mose 2, 4-25",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>4</sup>Dies ist der Bericht von der Schöpfung des Himmels und der Erde. Als Gott, der HERR, den Himmel und die Erde erschaffen hatte, <sup>5</sup>wuchsen noch keine Pflanzen und Sträucher auf der Erde, denn Gott der HERR hatte es noch nicht regnen lassen. Und es gab noch keine Menschen, um den Boden zu bebauen. <sup>6</sup>Doch Nebel stieg aus dem Erdboden auf und bewässerte das Land. <sup>7</sup>Da formte Gott, der HERR, aus der Erde den Menschen und blies ihm den Atem des Lebens in die Nase. So wurde der Mensch lebendig. <sup>8</sup>Dann pflanzte Gott, der HERR, einen Garten in Eden, im Osten gelegen. Dort hinein brachte er den Menschen, den er erschaffen hatte. <sup>9</sup>Und Gott, der HERR, ließ alle Arten von Bäumen in dem Garten wachsen – schöne Bäume, die köstliche Früchte trugen. In der Mitte des Gartens wuchsen der Baum des Lebens und der Baum der Erkenntnis von Gut und Böse. <sup>10</sup>Ein Fluss entsprang in Eden, der den Garten bewässerte und sich dann in vier Arme teilte. <sup>11</sup>Einer dieser Arme heißt Pischon, der um das Land Hawila fließt, wo Gold zu finden ist. <sup>12</sup>Das Gold jenes Landes ist außergewöhnlich rein; dort findet man auch Bedolachharz und den Edelstein Schoham. <sup>13</sup>Der zweite Arm heißt Gihon, der um das Land Kusch fließt. <sup>14</sup>Der dritte Arm ist der Tigris, der östlich von Assyrien fließt. Der vierte Arm heißt Euphrat. <sup>15</sup>Gott, der HERR, brachte den Menschen in den Garten Eden. Er sollte ihn bebauen und bewahren. <sup>16</sup>Er befahl dem Menschen jedoch: »Du darfst jede beliebige Frucht im Garten essen, <sup>17</sup>abgesehen von den Früchten vom Baum der Erkenntnis des Guten und Bösen. Wenn du die Früchte von diesem Baum isst, musst du auf jeden Fall sterben.« <sup>18</sup>Dann sprach Gott, der HERR: »Es ist nicht gut für den Menschen allein zu sein. Ich will ihm ein Wesen schaffen, das zu ihm passt.« <sup>19</sup>Und Gott, der HERR, formte aus Erde alle Arten von Tieren und Vögeln. Er brachte sie zu Adam , um zu sehen, welche Namen er ihnen geben würde. Und Adam wählte für jedes Tier einen Namen. <sup>20</sup>Er gab allem Vieh, den Vögeln und den wilden Tieren Namen. Doch er fand niemanden unter ihnen, der zu ihm passte. <sup>21</sup>Da ließ Gott, der HERR, Adam in einen tiefen Schlaf versinken. Er entnahm ihm eine seiner Rippen und schloss die Stelle wieder mit Fleisch. <sup>22</sup>Dann formte Gott, der HERR, eine Frau aus der Rippe, die er Adam entnommen hatte, und brachte sie zu ihm. <sup>23</sup>»Endlich!«, rief Adam aus. »Sie ist ein Teil von meinem Fleisch und Blut! Sie soll ›Männin‹ heißen, denn sie wurde vom Mann genommen.« <sup>24</sup>Das erklärt, warum ein Mann seinen Vater und seine Mutter verlässt und sich an seine Frau bindet und die beiden zu einer Einheit werden. <sup>25</sup>Adam und seine Frau waren beide nackt, aber sie schämten sich nicht. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/1%20Mose%202,%204-25",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Was kannst du in diesem Text über Gott und die Menschen lernen?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Kommentar zum Bibeltext",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Der Himmel, die Erde, die Menschen, Tiere und Pflanzen sind nicht per Zufall entstanden, sondern von Gott geschaffen worden. Dabei spielt der Mensch von Anfang an eine zentrale Rolle. Die Tiere wurden geschaffen, damit der Mensch nicht alleine ist und die Geschlechter (Mann und Frau) wurden geschaffen, damit eine sehr nahe Form von Gemeinschaft möglich wurde. Das Vertrauen zwischen Mann und Frau war so groß, dass sie sich wegen ihrer Nacktheit in keiner Form schämten und sich nicht hinter Kleider verbergen und schützen mussten."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Auffallend ist, dass die Menschen auch die Möglichkeit hatten, Gott ungehorsam zu sein, indem sie von dem Baum der Erkenntnis von Gut und Böse aßen. Aber Gott warnte auch, dass die Strafe dafür der Tod wäre. Die Existenz dieses Baumes zeigt sehr klar, dass der Mensch nicht einfach Gott ausgeliefert ist. Im Gegenteil, der Mensch hatte die Möglichkeit sich zu entscheiden. Ihm wurde die Möglichkeit gegeben, die Liebe Gottes aus freiem Willen anzunehmen oder sie abzulehnen."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics101-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "WEITERGEBEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "In welche Bereiche deines Lebens spricht Gott durch diesen Text? Was wirst du in den nächsten Tagen umsetzen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "icon": "challenges",
+            "text": "Wem wirst du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem wirst du beten?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics101-i-will"
+      }
+    }
+  ],
+  "time": 1778401521412,
+  "version": "2.31.5"
+}

@@ -1,0 +1,119 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "自我们上次见面以来，你有什么感恩的事，有什么挑战？",
+          "你最近有没有经历到神在你生命中的工作？",
+          "这个星期，你是否有机会去关心你的朋友或邻居？",
+          "自我们上次见面以来，你的生活应用进行得如何？"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-222-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "大声朗读这段经文两遍。",
+          "在小组的帮助下，让一个人用自己的话复述这段经文。",
+          "漏掉了什么或加添了什么？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "读两遍 马可福音 4:26-34"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<sup class=\"versenum\">26 </sup>又说：“神的国如同人把种撒在地上，<sup class=\"versenum\">27 </sup>黑夜睡觉，白日起来，这种就发芽渐长，那人却不晓得如何这样。<sup class=\"versenum\">28 </sup>地生五谷是出于自然的，先发苗，后长穗，再后穗上结成饱满的子粒。<sup class=\"versenum\">29 </sup>谷既熟了，就用镰刀去割，因为收成的时候到了。”"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<sup class=\"versenum\">30 </sup>又说：“神的国，我们可用什么比较呢？可用什么比喻表明呢？<sup class=\"versenum\">31 </sup>好像一粒芥菜种，种在地里的时候，虽比地上的百种都小，<sup class=\"versenum\">32 </sup>但种上以后，就长起来，比各样的菜都大，又长出大枝来，甚至天上的飞鸟可以宿在它的荫下。”"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<sup class=\"versenum\">33 </sup>耶稣用许多这样的比喻，照他们所能听的，对他们讲道。<sup class=\"versenum\">34 </sup>若不用比喻，就不对他们讲；没有人的时候，就把一切的道讲给门徒听。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a class=\"readmore\" target=\"_blank\" href=\"https://biblegateway.com/passage/?search=Mark%204:26-34&amp;version=CUVMPS\">阅读更多</a>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这段经文中给你印象最深刻的是什么？",
+          "关于耶稣、神、人和你自己，这段经文向你显明了什么？",
+          "关于信心，这段经文说了什么？"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-222-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "如果这段经文是从神而来的，那会对你的生活带来什么改变？",
+          "在这个星期，你打算如何应用这段经文？",
+          "你想和谁分享这段经文？"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-222-i-will"
+      }
+    }
+  ],
+  "time": 1776770697873,
+  "version": "2.31.5"
+}

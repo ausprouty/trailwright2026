@@ -1,0 +1,111 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What are you thankful for and what has been challenging for you since we last met?",
+          "Have you experienced God at work in your life lately?",
+          "Have you had the opportunity to care for your friends or neighbours this week?",
+          "How did you go with your application from the last time we met?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-217-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage aloud and then watch the video clip.",
+          "Have one person retell the passage in their own words with the group’s help.",
+          "Was there anything missed or added?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthew 6:25-34",
+        "html": "<p><sup>25</sup>“Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes?<sup>26</sup>Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?<sup>27</sup>Can any one of you by worrying add a single hour to your life?</p><p><sup>28</sup>“And why do you worry about clothes? See how the flowers of the field grow. They do not labor or spin.<sup>29</sup>Yet I tell you that not even Solomon in all his splendor was dressed like one of these.<sup>30</sup>If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will he not much more clothe you—you of little faith?<sup>31</sup>So do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’<sup>32</sup>For the pagans run after all these things, and your heavenly Father knows that you need them.<sup>33</sup>But seek first his kingdom and his righteousness, and all these things will be given to you as well.<sup>34</sup>Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.</p>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%206:25-34&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Matthew 6:25-34",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMatt2504",
+        "source": "arclight",
+        "refId": "6_529-GOMatt2504",
+        "startTime": "4:10",
+        "endTime": "6:07",
+        "isOpen": true,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What stands out for you in this passage?",
+          "What does this passage tell you about Jesus, God, people and you?",
+          "What does this passage say about stress?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-217-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "If this passage is from God, what difference would it make in your life?",
+          "How are you going to apply this passage this week?",
+          "Who will you share this passage with?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-217-i-will"
+      }
+    }
+  ],
+  "time": 1776770696438,
+  "version": "2.31.5"
+}

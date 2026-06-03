@@ -1,0 +1,111 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What are you thankful for and what has been challenging for you since we last met?",
+          "Have you experienced God at work in your life lately?",
+          "Have you had the opportunity to care for your friends or neighbours this week?",
+          "How did you go with your application from the last time we met?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-214-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage aloud and then watch the video clip.",
+          "Have one person retell the passage in their own words with the group’s help.",
+          "Was there anything missed or added?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthew 15:1-20",
+        "html": "<p><sup>1</sup>Then some Pharisees and teachers of the law came to Jesus from Jerusalem and asked,<sup>2</sup>“Why do your disciples break the tradition of the elders? They don’t wash their hands before they eat!”</p><p><sup>3</sup>Jesus replied, “And why do you break the command of God for the sake of your tradition?<sup>4</sup>For God said, ‘Honor your father and mother’ and ‘Anyone who curses their father or mother is to be put to death.’<sup>5</sup>But you say that if anyone declares that what might have been used to help their father or mother is ‘devoted to God,’<sup>6</sup>they are not to ‘honor their father or mother’ with it. Thus you nullify the word of God for the sake of your tradition.<sup>7</sup>You hypocrites! Isaiah was right when he prophesied about you:</p><div class=\"myfriends-poetry top-05\"><p><sup>8</sup>“‘These people honor me with their lips,<br> but their hearts are far from me.<br><sup>9</sup>They worship me in vain; their teachings are merely human rules.’”</p></div><p><sup>10</sup>Jesus called the crowd to him and said, “Listen and understand.<sup>11</sup>What goes into someone’s mouth does not defile them, but what comes out of their mouth, that is what defiles them.”</p><p><sup>12</sup>Then the disciples came to him and asked, “Do you know that the Pharisees were offended when they heard this?”</p><p><sup>13</sup>He replied, “Every plant that my heavenly Father has not planted will be pulled up by the roots.<sup>14</sup>Leave them; they are blind guides. If the blind lead the blind, both will fall into a pit.”</p><p><sup>15</sup>Peter said, “Explain the parable to us.”</p><p><sup>16</sup>“Are you still so dull?” Jesus asked them.<sup>17</sup>“Don’t you see that whatever enters the mouth goes into the stomach and then out of the body?<sup>18</sup>But the things that come out of a person’s mouth come from the heart, and these defile them.<sup>19</sup>For out of the heart come evil thoughts—murder, adultery, sexual immorality, theft, false testimony, slander.<sup>20</sup>These are what defile a person; but eating with unwashed hands does not defile them.”</p>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%2015:1-20&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Matthew 15:1-20",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMatt2511",
+        "source": "arclight",
+        "refId": "6_529-GOMatt2511",
+        "startTime": "4:01",
+        "endTime": "6:45",
+        "isOpen": true,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What stands out for you in this passage?",
+          "What does this passage tell you about Jesus, God, people and you?",
+          "What does this passage say about spoken words?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-214-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "If this passage is from God, what difference would it make in your life?",
+          "How are you going to apply this passage this week?",
+          "Who will you share this passage with?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-214-i-will"
+      }
+    }
+  ],
+  "time": 1776770696406,
+  "version": "2.31.5"
+}

@@ -1,0 +1,117 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What are you thankful for and what has been challenging for you since we last met?",
+          "Have you experienced God at work in your life lately?",
+          "Have you had the opportunity to care for your friends or neighbours this week?",
+          "How did you go with your application from the last time we met?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-222-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage aloud and then watch the video clip.",
+          "Have one person retell the passage in their own words with the group’s help.",
+          "Was there anything missed or added?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luke 7:1-10",
+        "html": "<!-- begin bible --><div><!-- begin bible --><p class=\"chapter-1\"><sup class=\"versenum\">1 </sup>When Jesus had finished saying all this to the people who were listening, he entered Capernaum. <sup class=\"versenum\">2 </sup>There a centurion’s servant, whom his master valued highly, was sick and about to die. <sup class=\"versenum\">3 </sup>The centurion heard of Jesus and sent some elders of the Jews to him, asking him to come and heal his servant. <sup class=\"versenum\">4 </sup>When they came to Jesus, they pleaded earnestly with him, “This man deserves to have you do this, <sup class=\"versenum\">5 </sup>because he loves our nation and has built our synagogue.” <sup class=\"versenum\">6 </sup>So Jesus went with them.</p><p>He was not far from the house when the centurion sent friends to say to him: “Lord, don’t trouble yourself, for I do not deserve to have you come under my roof. <sup class=\"versenum\">7 </sup>That is why I did not even consider myself worthy to come to you. But say the word, and my servant will be healed. <sup class=\"versenum\">8 </sup>For I myself am a man under authority, with soldiers under me. I tell this one, ‘Go,’ and he goes; and that one, ‘Come,’ and he comes. I say to my servant, ‘Do this,’ and he does it.”</p><p><sup class=\"versenum\">9 </sup>When Jesus heard this, he was amazed at him, and turning to the crowd following him, he said, “I tell you, I have not found such great faith even in Israel.” <sup class=\"versenum\">10 </sup>Then the men who had been sent returned to the house and found the servant well.</p><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%207:1-10&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luke 7:1-10",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2607",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2607",
+        "startTime": "start",
+        "endTime": "1:54",
+        "isOpen": true,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What stands out for you in this passage?",
+          "What does this passage tell you about Jesus, God, people and you?",
+          "What does this passage say about faith?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-222-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "If this passage is from God, what difference would it make in your life?",
+          "How are you going to apply this passage this week?",
+          "Who will you share this passage with?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-222-i-will"
+      }
+    }
+  ],
+  "time": 1776770696492,
+  "version": "2.31.5"
+}

@@ -1,0 +1,111 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What are you thankful for and what has been challenging for you since we last met?",
+          "Have you experienced God at work in your life lately?",
+          "Have you had the opportunity to care for your friends or neighbours this week?",
+          "How did you go with your application from the last time we met?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-208-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage aloud and then watch the video clip.",
+          "Have one person retell the passage in their own words with the group’s help.",
+          "Was there anything missed or added?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthew 5:21-26",
+        "html": "<p><sup>21</sup>“You have heard that it was said to the people long ago, ‘You shall not murder, and anyone who murders will be subject to judgment.’<sup>22</sup>But I tell you that anyone who is angry with a brother or sister will be subject to judgment. Again, anyone who says to a brother or sister, ‘Raca,’ is answerable to the court. And anyone who says, ‘You fool!’ will be in danger of the fire of hell.</p><p><sup>23</sup>“Therefore, if you are offering your gift at the altar and there remember that your brother or sister has something against you,<sup> 24 </sup>leave your gift there in front of the altar. First go and be reconciled to them; then come and offer your gift.</p><p><sup>25</sup>“Settle matters quickly with your adversary who is taking you to court. Do it while you are still together on the way, or your adversary may hand you over to the judge, and the judge may hand you over to the officer, and you may be thrown into prison.<sup>26</sup>Truly I tell you, you will not get out until you have paid the last penny.</p>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%205:21-26&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Matthew 5:21-26",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMatt2503",
+        "source": "arclight",
+        "refId": "6_529-GOMatt2503",
+        "startTime": "3:32",
+        "endTime": "4:50",
+        "isOpen": true,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What stands out for you in this passage?",
+          "What does this passage tell you about Jesus, God, people and you?",
+          "What does this passage say about conflict?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-208-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "If this passage is from God, what difference would it make in your life?",
+          "How are you going to apply this passage this week?",
+          "Who will you share this passage with?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-208-i-will"
+      }
+    }
+  ],
+  "time": 1776770697982,
+  "version": "2.31.5"
+}

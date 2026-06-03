@@ -1,0 +1,111 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What are you thankful for and what has been challenging for you since we last met?",
+          "Have you experienced God at work in your life lately?",
+          "Have you had the opportunity to care for your friends or neighbours this week?",
+          "How did you go with your application from the last time we met?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-204-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage aloud and then watch the video clip.",
+          "Have one person retell the passage in their own words with the group’s help.",
+          "Was there anything missed or added?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luke 10:29-37",
+        "html": "<p><sup>29</sup>But he wanted to justify himself, so he asked Jesus, “And who is my neighbor?”</p><p><sup>30</sup>In reply Jesus said: “A man was going down from Jerusalem to Jericho, when he was attacked by robbers. They stripped him of his clothes, beat him and went away, leaving him half dead.<sup>31</sup>A priest happened to be going down the same road, and when he saw the man, he passed by on the other side.<sup> 32 </sup>So too, a Levite, when he came to the place and saw him, passed by on the other side.<sup>33</sup>But a Samaritan, as he traveled, came where the man was; and when he saw him, he took pity on him.<sup>34</sup>He went to him and bandaged his wounds, pouring on oil and wine. Then he put the man on his own donkey, brought him to an inn and took care of him.<sup>35</sup>The next day he took out two denarii and gave them to the innkeeper. ‘Look after him,’ he said, ‘and when I return, I will reimburse you for any extra expense you may have.’</p><p><sup>36</sup>“Which of these three do you think was a neighbor to the man who fell into the hands of robbers?”</p><p><sup>37</sup>The expert in the law replied, “The one who had mercy on him.”</p><p>Jesus told him, “Go and do likewise.”</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%2010:29-37&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luke 10:29-37",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2611",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2611",
+        "startTime": "4:49",
+        "endTime": "6:49",
+        "isOpen": true,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What stands out for you in this passage?",
+          "What does this passage tell you about Jesus, God, people and you?",
+          "What does this passage say about relationships?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-204-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "If this passage is from God, what difference would it make in your life?",
+          "How are you going to apply this passage this week?",
+          "Who will you share this passage with?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-204-i-will"
+      }
+    }
+  ],
+  "time": 1776770696286,
+  "version": "2.31.5"
+}

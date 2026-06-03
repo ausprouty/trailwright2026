@@ -1,0 +1,66 @@
+{
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Spend approximately one-third of your time on each section. Move on to the next section at the designated time even if you have not answered all the questions. You can focus on the questions you missed the next time you meet.</em>"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "How have you experienced God this week?",
+          "What are you thankful for?",
+          "Is there anything which has been bothering you since we last met?",
+          "What have you put into practice since our last Discovery Bible reading?",
+          "Were you able to share the Discovery Bible passage or a God experience with anyone?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong>Pray together: </strong>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Thank God for the experiences, ask for God‘s help.",
+          "Pray that you may get to know new aspects of God and that your friendship with God would be strengthened and become deeper"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-6"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    }
+  ],
+  "time": 1777763013233,
+  "version": "2.31.5"
+}

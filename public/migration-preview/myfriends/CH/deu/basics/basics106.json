@@ -1,0 +1,193 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "AUSTAUSCHEN",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt?",
+          "Wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?",
+          "Betet für einander"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics106-review"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "RÜCKBLICK",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was hast du seit dem letzten Treffen vom Gelernten umgesetzt?",
+          "Wie geht es den Menschen, welche dir besonders am Herzen liegen? Was würde ihnen am meisten helfen?",
+          "Wem konntest du von einem Gotteserlebnis erzählen? Mit wem konntest du beten?",
+          "Betet für diese Leute"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics106-bible-study"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LESEN",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Der Text wird zweimal laut vorgelesen",
+          "Jemand erzählt in eigenen Worten den Text nach, mit Unterstützung der Gruppe.",
+          "Würde etwas weggelassen oder ergänzt?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Bible",
+        "html": "Jesaja 52, 13 - 53, 13; Johannes 1, 29-34",
+        "url": "",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "ENTDECKEN",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen?",
+          "Was gefällt dir und was stört dich an diesem Text?",
+          "Was kannst du in diesem Text über Gott und über die Menschen lernen?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics106-challenge"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "ANWENDEN",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung des Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem es zu gehorchen gilt?</li></ul>",
+          "Teile deine Erkenntnis mit der Gruppe"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics106-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Notizen",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "In der letzten Lektion haben wir über Gottes Ankündigung der neuen Zeit gelesen. Heute geht es um den konkreten Plan, wie dies geschehen soll. Gott wird «seinen Knecht» senden. Das heisst ein Mann, der exakt so leben wird, wie Gott es will. Dieser wird in seinem Leben kein Unrecht tun und keine Sünde begehen, aber trotzdem wie ein Verbrecher sterben. Denn die Aufgabe dieses Gottesknechtes wird sein, die Krankheit, die Schmerzen und die Sünde der gesamten Menschheit auf sich zu nehmen. Und das wird kein schöner Anblick sein - im Gegenteil."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Die Menschen um ihn herum werden ihn verachten und sich von ihm abwen¬den. Sie werden denken, dass dieser Mensch ein Verbrecher ist, der von Gott für seine furchtbaren Taten bestraft wird. Tatsächlich wird er aber nicht für das bestraft, was er selbst getan hat, sondern für das, was all die vom Bösen geprägten Menschen getan haben. Dieser Knecht Gottes übernimmt die Verantwortung für unser Fehlverhalten. Er wird stellvertretend für uns sündige Menschen hingerichtet, damit wir wieder Frieden haben können; Frieden mit Gott und Frieden mit den Mitmenschen."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<br>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Kommentar zu: Johannes 1:29-34",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<br>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Johannes (der Täufer) war ein Prophet, der von Gott gesandt wurde, um Israel auf das Kommen des Gottesknechtes (siehe Jes. Kapitel 52 und 53) vor¬zubereiten. In diesem Abschnitt identifiziert er Jesus als das Lamm Gottes, welches die Sünde der ganzen Welt auf sich nimmt. Mit anderen Worten sagt Johannes, dass Jesus der langersehnte Erlöser ist, welcher die Menschen aus der Macht des Bösen befreit. Dafür nimmt er die Schuld der Menschen auf sich und erhält die Bestrafung, welche wir verdient hätten."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ],
+  "time": 1778537805512,
+  "version": "2.31.5"
+}

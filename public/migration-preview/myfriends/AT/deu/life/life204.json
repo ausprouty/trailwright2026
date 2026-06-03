@@ -1,0 +1,142 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt?",
+          "Was hat sich bei dir seit dem letzten Treffen verändert?",
+          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsames Gebet: Danke für Erlebnisse, bitte um Gottes Hilfe und dass du heute neue Aspekte von Gott kennenlernen darfst."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-204-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Johannes 7, 37-39",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>37</sup>Am letzten Tag, dem Höhepunkt des Festes, stellte Jesus sich hin und rief der Menge zu: »Wenn jemand Durst hat, soll er zu mir kommen und trinken! <sup>38</sup>Wer an mich glaubt, aus dessen Innerem werden Ströme lebendigen Wassers fließen, wie es in der Schrift heißt.« <sup>39</sup>Mit dem »lebendigen Wasser« meinte er den Geist, der jedem zuteilwerden sollte, der an ihn glaubte. Aber der Geist war noch nicht gekommen, weil Jesus noch nicht verherrlicht worden war.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Johannes%207,%2037-39",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Allgemeine Fragen:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir in diesem Text etwas besonders aufgefallen? Was magst du, was stört dich?",
+          "Was kannst du in diesem Text über Gott und Jesus lernen?",
+          "Was kannst du über die Menschen lernen?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Text anwenden:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Wie beeinflusst dieser Text die Art, wie du lebst?",
+          "Wie beeinflusst dieser Text deine Sicht über Gott und Jesus?",
+          "Wie beeinflusst dieser Text deinen Umgang mit anderen Menschen?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-204-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was wirst du die nächsten zwei, drei Tage ausprobieren / verbessern / tun?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Mache ein Statement mit den Worten: «Ich werde die nächsten zwei, drei Tage…»."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsames Gebet: Sage Gott, was du ausprobieren / verbessern / tun wirst und bitte ihn um seine Hilfe und sein Wirken."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-204-i-will"
+      }
+    }
+  ],
+  "time": 1776770695854,
+  "version": "2.31.5"
+}

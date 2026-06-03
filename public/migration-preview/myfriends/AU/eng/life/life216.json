@@ -1,0 +1,111 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What are you thankful for and what has been challenging for you since we last met?",
+          "Have you experienced God at work in your life lately?",
+          "Have you had the opportunity to care for your friends or neighbours this week?",
+          "How did you go with your application from the last time we met?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-216-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage aloud and then watch the video clip.",
+          "Have one person retell the passage in their own words with the group’s help.",
+          "Was there anything missed or added?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luke 16:1-15",
+        "html": "<p><sup>1</sup>Jesus told his disciples: “There was a rich man whose manager was accused of wasting his possessions.<sup>2</sup>So he called him in and asked him, ‘What is this I hear about you? Give an account of your management, because you cannot be manager any longer.’</p><p><sup>3</sup>“The manager said to himself, ‘What shall I do now? My master is taking away my job. I’m not strong enough to dig, and I’m ashamed to beg—<sup>4</sup>I know what I’ll do so that, when I lose my job here, people will welcome me into their houses.’</p><p><sup>5</sup>“So he called in each one of his master’s debtors. He asked the first, ‘How much do you owe my master?’</p><p><sup>6</sup>“‘Nine hundred gallons of olive oil,’ he replied.</p><p>“The manager told him, ‘Take your bill, sit down quickly, and make it four hundred and fifty.’</p><p><sup>7</sup>“Then he asked the second, ‘And how much do you owe?’</p><p>“‘A thousand bushels of wheat,’ he replied.</p><p>“He told him, ‘Take your bill and make it eight hundred.’</p><p><sup>8</sup>“The master commended the dishonest manager because he had acted shrewdly. For the people of this world are more shrewd in dealing with their own kind than are the people of the light.<sup>9</sup>I tell you, use worldly wealth to gain friends for yourselves, so that when it is gone, you will be welcomed into eternal dwellings.</p><p><sup>10</sup>“Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.<sup>11</sup>So if you have not been trustworthy in handling worldly wealth, who will trust you with true riches?<sup>12</sup>And if you have not been trustworthy with someone else’s property, who will give you property of your own?</p><p><sup>13</sup>“No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.”</p><p><sup>14</sup>The Pharisees, who loved money, heard all this and were sneering at Jesus.<sup>15</sup>He said to them, “You are the ones who justify yourselves in the eyes of others, but God knows your hearts. What people value highly is detestable in God’s sight.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%2016:1-15&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luke 16:1-15",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2616",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2616",
+        "startTime": "3:49",
+        "endTime": "6:44",
+        "isOpen": true,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What stands out for you in this passage?",
+          "What does this passage tell you about Jesus, God, people and you?",
+          "What does this passage say about control?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-216-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "If this passage is from God, what difference would it make in your life?",
+          "How are you going to apply this passage this week?",
+          "Who will you share this passage with?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-216-i-will"
+      }
+    }
+  ],
+  "time": 1776770696428,
+  "version": "2.31.5"
+}

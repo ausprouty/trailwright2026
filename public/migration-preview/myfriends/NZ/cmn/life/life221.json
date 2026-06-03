@@ -1,0 +1,107 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "自我们上次见面以来，你有什么感恩的事，有什么挑战？",
+          "你最近有没有经历到神在你生命中的工作？",
+          "这个星期，你是否有机会去关心你的朋友或邻居？",
+          "自我们上次见面以来，你的生活应用进行得如何？"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-221-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "大声朗读这段经文两遍。",
+          "在小组的帮助下，让一个人用自己的话复述这段经文。",
+          "漏掉了什么或加添了什么？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "读两遍 马太福音 13:1-9"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<sup class=\"versenum\">1 </sup>当那一天，耶稣从房子里出来，坐在海边。<sup class=\"versenum\">2 </sup>有许多人到他那里聚集，他只得上船坐下，众人都站在岸上。<sup class=\"versenum\">3 </sup>他用比喻对他们讲许多道理，说：“有一个撒种的出去撒种。<sup class=\"versenum\">4 </sup>撒的时候，有落在路旁的，飞鸟来吃尽了。<sup class=\"versenum\">5 </sup>有落在土浅石头地上的，土既不深，发苗最快，<sup class=\"versenum\">6 </sup>日头出来一晒，因为没有根，就枯干了。<sup class=\"versenum\">7 </sup>有落在荆棘里的，荆棘长起来，把它挤住了。<sup class=\"versenum\">8 </sup>又有落在好土里的，就结实，有一百倍的，有六十倍的，有三十倍的。<sup class=\"versenum\">9 </sup>有耳可听的，就应当听！”"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a class=\"readmore\" target=\"_blank\" href=\"https://biblegateway.com/passage/?search=Matthew%2013:1-9&amp;version=CUVMPS\">阅读更多</a>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这段经文中给你印象最深刻的是什么？",
+          "关于耶稣、神、人和你自己，这段经文向你显明了什么？",
+          "关于回应神，这段经文说了什么？"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-221-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "如果这段经文是从神而来的，那会对你的生活带来什么改变？",
+          "在这个星期，你打算如何应用这段经文？",
+          "你想和谁分享这段经文？"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-221-i-will"
+      }
+    }
+  ],
+  "time": 1776770697862,
+  "version": "2.31.5"
+}

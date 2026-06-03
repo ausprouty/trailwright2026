@@ -1,0 +1,117 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What are you thankful for and what has been challenging for you since we last met?",
+          "Have you experienced God at work in your life lately?",
+          "Have you had the opportunity to care for your friends or neighbours this week?",
+          "How did you go with your application from the last time we met?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-203-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage aloud and then watch the video clip.",
+          "Have one person retell the passage in their own words with the group’s help.",
+          "Was there anything missed or added?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luke 15:11-32",
+        "html": "<p><sup class=\"versenum\">11 </sup>Jesus continued: “There was a man who had two sons. <sup class=\"versenum\">12 </sup>The younger one said to his father, ‘Father, give me my share of the estate.’ So he divided his property between them.</p><p><sup class=\"versenum\">13 </sup>“Not long after that, the younger son got together all he had, set off for a distant country and there squandered his wealth in wild living. <sup class=\"versenum\">14 </sup>After he had spent everything, there was a severe famine in that whole country, and he began to be in need. <sup class=\"versenum\">15 </sup>So he went and hired himself out to a citizen of that country, who sent him to his fields to feed pigs. <sup class=\"versenum\">16 </sup>He longed to fill his stomach with the pods that the pigs were eating, but no one gave him anything.</p><p><sup class=\"versenum\">17 </sup>“When he came to his senses, he said, ‘How many of my father’s hired servants have food to spare, and here I am starving to death! <sup class=\"versenum\">18 </sup>I will set out and go back to my father and say to him: Father, I have sinned against heaven and against you. <sup class=\"versenum\">19 </sup>I am no longer worthy to be called your son; make me like one of your hired servants.’ <sup class=\"versenum\">20 </sup>So he got up and went to his father.</p><p>“But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.</p><p><sup class=\"versenum\">21 </sup>“The son said to him, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’</p><p><sup class=\"versenum\">22 </sup>“But the father said to his servants, ‘Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet. <sup class=\"versenum\">23 </sup>Bring the fattened calf and kill it. Let’s have a feast and celebrate. <sup class=\"versenum\">24 </sup>For this son of mine was dead and is alive again; he was lost and is found.’ So they began to celebrate.</p><p><sup class=\"versenum\">25 </sup>“Meanwhile, the older son was in the field. When he came near the house, he heard music and dancing. <sup class=\"versenum\">26 </sup>So he called one of the servants and asked him what was going on. <sup class=\"versenum\">27 </sup>‘Your brother has come,’ he replied, ‘and your father has killed the fattened calf because he has him back safe and sound.’</p><p><sup class=\"versenum\">28 </sup>“The older brother became angry and refused to go in. So his father went out and pleaded with him. <sup class=\"versenum\">29 </sup>But he answered his father, ‘Look! All these years I’ve been slaving for you and never disobeyed your orders. Yet you never gave me even a young goat so I could celebrate with my friends. <sup class=\"versenum\">30 </sup>But when this son of yours who has squandered your property with prostitutes comes home, you kill the fattened calf for him!’</p><p><sup class=\"versenum\">31 </sup>“‘My son,’ the father said, ‘you are always with me, and everything I have is yours. <sup class=\"versenum\">32 </sup>But we had to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”</p><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%2015:11-32&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luke 15:11-32",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2616",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2616",
+        "startTime": "start",
+        "endTime": "3:58",
+        "isOpen": true,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What stands out for you in this passage?",
+          "What does this passage tell you about Jesus, God, people and you?",
+          "What does this passage say about reconciliation?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-203-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "If this passage is from God, what difference would it make in your life?",
+          "How are you going to apply this passage this week?",
+          "Who will you share this passage with?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-203-i-will"
+      }
+    }
+  ],
+  "time": 1776770697924,
+  "version": "2.31.5"
+}

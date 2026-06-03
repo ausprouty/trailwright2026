@@ -1,0 +1,126 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "这周你对神有怎样的经历？",
+          "从上次见面到现在你有操练什么？哪些方面容易？哪些方面比较困难？",
+          "你需要神帮助你什么吗？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 为你的经历感谢神，祈求神的帮助（在需要的方面），求祂帮助你从更 多方面认识祂。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-202-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "大声读经文，注意哪些让你特别印象深刻的字词。",
+          "用你自己的话复述经文。"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "一般性的问题："
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "I你特别有注意到什么？哪些是你喜欢的，哪些是你不容易接受的？",
+          "从这段经文中你学习到什么关于神和耶稣的方面？",
+          "你学到关于人的哪些方面？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "应用经文"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "这段经文如何影响你怎么生活？",
+          "这段经文如何影响你怎么看神和耶稣？",
+          "这段经文怎么影响你对他人的行为？"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-202-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "下周你想要操练什么？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 陈述出来，开始这样写：《下周，我(做这个)…》"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 一起祷告：告诉神你想要操练什么，求祂帮助你。"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-202-i-will"
+      }
+    }
+  ],
+  "time": 1776770696863,
+  "version": "2.31.5"
+}

@@ -1,0 +1,107 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "自我们上次见面以来，你有什么感恩的事，有什么挑战？",
+          "你最近有没有经历到神在你生命中的工作？",
+          "这个星期，你是否有机会去关心你的朋友或邻居？",
+          "自我们上次见面以来，你的生活应用进行得如何？"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-204-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "大声朗读这段经文两遍。",
+          "在小组的帮助下，让一个人用自己的话复述这段经文。",
+          "漏掉了什么或加添了什么？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "读两遍 路加福音 10:29-37"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<sup class=\"versenum\">29 </sup>那人要显明自己有理，就对耶稣说：“谁是我的邻舍呢？”<sup class=\"versenum\">30 </sup>耶稣回答说：“有一个人从耶路撒冷下耶利哥去，落在强盗手中。他们剥去他的衣裳，把他打个半死，就丢下他走了。<sup class=\"versenum\">31 </sup>偶然有一个祭司从这条路下来，看见他，就从那边过去了。<sup class=\"versenum\">32 </sup>又有一个利未人来到这地方，看见他，也照样从那边过去了。<sup class=\"versenum\">33 </sup>唯有一个撒马利亚人行路来到那里，看见他，就动了慈心，<sup class=\"versenum\">34 </sup>上前用油和酒倒在他的伤处，包裹好了，扶他骑上自己的牲口，带到店里去照应他。<sup class=\"versenum\">35 </sup>第二天拿出二钱银子来，交给店主说：‘你且照应他，此外所费用的，我回来必还你。’<sup class=\"versenum\">36 </sup>你想，这三个人哪一个是落在强盗手中的邻舍呢？”<sup class=\"versenum\">37 </sup>他说：“是怜悯他的。”耶稣说：“你去照样行吧。”"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a class=\"readmore\" target=\"_blank\" href=\"https://biblegateway.com/passage/?search=Luke%2010:29-37&amp;version=CUVMPS\">阅读更多</a>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这段经文中给你印象最深刻的是什么？",
+          "关于耶稣、神、人和你自己，这段经文向你显明了什么？",
+          "关于金钱，这段经文说了什么？"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-204-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "如果这段经文是从神而来的，那会对你的生活带来什么改变？",
+          "在这个星期，你打算如何应用这段经文？",
+          "你想和谁分享这段经文？"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-204-i-will"
+      }
+    }
+  ],
+  "time": 1776770695955,
+  "version": "2.31.5"
+}

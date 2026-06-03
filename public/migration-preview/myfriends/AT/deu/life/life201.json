@@ -1,0 +1,142 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt?",
+          "Was hat sich bei dir seit dem letzten Treffen verändert?",
+          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsames Gebet: Danke für Erlebnisse, bitte um Gottes Hilfe und dass du heute neue Aspekte von Gott kennenlernen darfst."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-201-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthäus 7, 7-11",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>7</sup>Bittet, und ihr werdet erhalten. Sucht, und ihr werdet finden. Klopft an, und die Tür wird euch geöffnet werden. <sup>8</sup>Denn wer bittet, wird erhalten. Wer sucht, wird finden. Und die Tür wird jedem geöffnet, der anklopft. <sup>9</sup>Ihr Eltern – wenn euch eure Kinder um ein Stück Brot bitten, gebt ihr ihnen dann stattdessen einen Stein? <sup>10</sup>Oder wenn sie euch um einen Fisch bitten, gebt ihr ihnen eine Schlange? Natürlich nicht! <sup>11</sup>Wenn ihr, die ihr Sünder seid, wisst, wie man seinen Kindern Gutes tut, wie viel mehr wird euer Vater im Himmel denen, die ihn darum bitten, Gutes tun. <h4 class=\"bible\"></h4><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Matthäus%207,%207-11",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Allgemeine Fragen:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas besonders aufgefallen? Was magst du, was stört dich?",
+          "Was kannst du in diesem Text über Gott und Jesus lernen?",
+          "Was kannst du über die Menschen lernen?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Text anwenden:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Wie beeinflusst dieser Text die Art, wie du lebst?",
+          "Wie beeinflusst dieser Text deine Sicht über Gott und Jesus?",
+          "Wie beeinflusst dieser Text deinen Umgang mit anderen Menschen?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-201-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was wirst du die nächsten zwei, drei Tage ausprobieren / verbessern / tun?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Mache ein Statement mit den Worten: «Ich werde die nächsten zwei, drei Tage…»."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsames Gebet: Sage Gott, was du ausprobieren / verbessern / tun wirst und bitte ihn um seine Hilfe und sein Wirken."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-201-i-will"
+      }
+    }
+  ],
+  "time": 1776770695796,
+  "version": "2.31.5"
+}

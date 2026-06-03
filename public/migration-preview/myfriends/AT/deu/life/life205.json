@@ -1,0 +1,142 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt?",
+          "Was hat sich bei dir seit dem letzten Treffen verändert?",
+          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsames Gebet: Danke für Erlebnisse, bitte um Gottes Hilfe und dass du heute neue Aspekte von Gott kennenlernen darfst."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-205-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthäus 6, 24-33",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>24</sup>Niemand kann zwei Herren dienen. Immer wird er den einen hassen und den anderen lieben oder dem einen treu ergeben sein und den anderen verabscheuen. Ihr könnt nicht gleichzeitig Gott und dem Geld dienen. <sup>25</sup>Darum sage ich euch: Sorgt euch nicht um euer tägliches Leben – darum, ob ihr genug zu essen, zu trinken und anzuziehen habt. Besteht das Leben nicht aus mehr als nur aus Essen und Kleidung? <sup>26</sup>Schaut die Vögel an. Sie müssen weder säen noch ernten noch Vorräte ansammeln, denn euer himmlischer Vater sorgt für sie. Und ihr seid ihm doch viel wichtiger als sie. <sup>27</sup>Können all eure Sorgen euer Leben auch nur um einen einzigen Augenblick verlängern? Nein. <sup>28</sup>Und warum sorgt ihr euch um eure Kleider? Schaut die Lilien an und wie sie wachsen. Sie arbeiten nicht und nähen sich keine Kleider. <sup>29</sup>Trotzdem war selbst König Salomo in seiner ganzen Pracht nicht so herrlich gekleidet wie sie. <sup>30</sup>Wenn sich Gott so wunderbar um die Blumen kümmert, die heute aufblühen und schon morgen wieder verwelkt sind, wie viel mehr kümmert er sich dann um euch? Euer Glaube ist so klein! <sup>31</sup>Hört auf, euch Sorgen zu machen um euer Essen und Trinken oder um eure Kleidung. <sup>32</sup>Warum wollt ihr leben wie die Menschen, die Gott nicht kennen und diese Dinge so wichtig nehmen? Euer himmlischer Vater kennt eure Bedürfnisse. <sup>33</sup>Macht das Reich Gottes zu eurem wichtigsten Anliegen, lebt in Gottes Gerechtigkeit, und er wird euch all das geben, was ihr braucht. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Matthäus%206,%2024-33",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Allgemeine Fragen:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas besonders aufgefallen? Was magst du, was stört dich?",
+          "Was kannst du in diesem Text über Gott und Jesus lernen?",
+          "Was kannst du über die Menschen lernen?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Text anwenden:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Wie beeinflusst dieser Text die Art, wie du lebst?",
+          "Wie beeinflusst dieser Text deine Sicht über Gott und Jesus?",
+          "Wie beeinflusst dieser Text deinen Umgang mit anderen Menschen?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-205-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was wirst du die nächsten zwei, drei Tage ausprobieren / verbessern / tun?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Mache ein Statement mit den Worten: «Ich werde die nächsten zwei, drei Tage…»."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsames Gebet: Sage Gott, was du ausprobieren / verbessern / tun wirst und bitte ihn um seine Hilfe und sein Wirken."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-205-i-will"
+      }
+    }
+  ],
+  "time": 1776770695873,
+  "version": "2.31.5"
+}

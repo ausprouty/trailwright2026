@@ -1,0 +1,107 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "自我们上次见面以来，你有什么感恩的事，有什么挑战？",
+          "你最近有没有经历到神在你生命中的工作？",
+          "这个星期，你是否有机会去关心你的朋友或邻居？",
+          "自我们上次见面以来，你的生活应用进行得如何？"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-211-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "大声朗读这段经文两遍。",
+          "在小组的帮助下，让一个人用自己的话复述这段经文。",
+          "漏掉了什么或加添了什么？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "读两遍 路加福音 18:9-14"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<sup class=\"versenum\">9 </sup>耶稣向那些仗着自己是义人藐视别人的，设一个比喻，<sup class=\"versenum\">10 </sup>说：“有两个人上殿里去祷告，一个是法利赛人，一个是税吏。<sup class=\"versenum\">11 </sup>法利赛人站着，自言自语地祷告说：‘神啊，我感谢你，我不像别人勒索、不义、奸淫，也不像这个税吏。<sup class=\"versenum\">12 </sup>我一个礼拜禁食两次，凡我所得的都捐上十分之一。’<sup class=\"versenum\">13 </sup>那税吏远远地站着，连举目望天也不敢，只捶着胸说：‘神啊，开恩可怜我这个罪人！’<sup class=\"versenum\">14 </sup>我告诉你们，这人回家去比那人倒算为义了。因为凡自高的，必降为卑；自卑的，必升为高。”"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a class=\"readmore\" target=\"_blank\" href=\"https://biblegateway.com/passage/?search=Luke%2018:9-14&amp;version=CUVMPS\">阅读更多</a>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这段经文中给你印象最深刻的是什么？",
+          "关于耶稣、神、人和你自己，这段经文向你显明了什么？",
+          "关于足够好，这段经文说了什么？"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-211-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "如果这段经文是从神而来的，那会对你的生活带来什么改变？",
+          "在这个星期，你打算如何应用这段经文？",
+          "你想和谁分享这段经文？"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-211-i-will"
+      }
+    }
+  ],
+  "time": 1776770696055,
+  "version": "2.31.5"
+}

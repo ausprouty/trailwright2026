@@ -1,0 +1,144 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Miten olet kokenut Jumalan elämässäsi tällä viikolla?",
+          "Mistä haluat kiittää Jumalaa?",
+          "Tarvitsetko sinä tai läheisesi johonkin apua Jumalalta?",
+          "Miten voimme auttaa sinua?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "â–¶ Rukoillaan: kiitetään Jumalaa ja pyydetään Jumalalta apua."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-112-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mitä olet laittanut käytäntöön viime kerran jälkeen?",
+          "Oletko saanut kertoa jollekin kokemuksistasi Jumalan kanssa tai rukoillut jonkun puolesta?",
+          "Kenen puolesta voimme rukoilla, että hekin oppisivat tuntemaan Jumalan?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "â–¶ Rukoillaan jokaisen mainitun puolesta erikseen."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-112-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Lue teksti hiljaa mielessäsi.",
+          "Lue teksti ääneen.",
+          "Kerro tekstin sisältö omin sanoin (ilman Raamattua)..",
+          "Muu ryhmä täydentää/korjaa."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Matteus 7:13-14"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong><sup>13.</sup></strong>»Menkää sisään ahtaasta portista. Monet menevät avarasta portista ja laveaa tietä, mutta se vie kadotukseen.<sup></sup>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<sup><strong>14. </strong></sup> Miten ahdas onkaan se portti ja kapea se tie, joka vie elämään, ja vain harvat löytävät sen!"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Lue lisää"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mikä kiinnitti huomiosi?",
+          "Jäikö jokin vaivaamaan?",
+          "Mitä teksti kertoo Jumalasta ja ihmisestä?",
+          "Mitä teksti kertoo aiheesta, jonka valitsit?"
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mitä opit raamatunkohdasta?",
+          "Puhuiko Jumala sinulle jotain liittyen: omaan elämäntapaasimiten suhtaudut Jumalaan ja muihin ihmisiinkenelle voit jakaa oppimastasi ja kokemuksistasi sekä kutsua tutustumaan Jumalaan?",
+          "tämän kerran käytännön tekona aion"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "â–¶ Rukoillaan: kerro Jumalalle omin sanoin edellä mainituista asioista."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-112-i-will"
+      }
+    }
+  ],
+  "time": 1776770697418,
+  "version": "2.31.5"
+}

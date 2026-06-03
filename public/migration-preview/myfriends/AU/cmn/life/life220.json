@@ -1,0 +1,107 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "自我们上次见面以来，你有什么感恩的事，有什么挑战？",
+          "你最近有没有经历到神在你生命中的工作？",
+          "这个星期，你是否有机会去关心你的朋友或邻居？",
+          "自我们上次见面以来，你的生活应用进行得如何？"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-220-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "大声朗读这段经文两遍。",
+          "在小组的帮助下，让一个人用自己的话复述这段经文。",
+          "漏掉了什么或加添了什么？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "读两遍 马太福音 7:24-27"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<sup class=\"versenum\">24 </sup>“所以，凡听见我这话就去行的，好比一个聪明人，把房子盖在磐石上。<sup class=\"versenum\">25 </sup>雨淋，水冲，风吹，撞着那房子，房子总不倒塌，因为根基立在磐石上。<sup class=\"versenum\">26 </sup>凡听见我这话不去行的，好比一个无知的人，把房子盖在沙土上。<sup class=\"versenum\">27 </sup>雨淋，水冲，风吹，撞着那房子，房子就倒塌了，并且倒塌得很大。”"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a class=\"readmore\" target=\"_blank\" href=\"https://biblegateway.com/passage/?search=Matthew%207:24-27&amp;version=CUVMPS\">阅读更多</a>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这段经文中给你印象最深刻的是什么？",
+          "关于耶稣、神、人和你自己，这段经文向你显明了什么？",
+          "关于智慧，这段经文说了什么？"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-220-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "如果这段经文是从神而来的，那会对你的生活带来什么改变？",
+          "在这个星期，你打算如何应用这段经文？",
+          "你想和谁分享这段经文？"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-220-i-will"
+      }
+    }
+  ],
+  "time": 1776770696174,
+  "version": "2.31.5"
+}

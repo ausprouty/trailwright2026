@@ -1,0 +1,184 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ZUSAMMENKOMMEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Wo brauchst du Gottes Hilfe? Wie können wir dir praktisch helfen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Betet füreinander."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- ENTDECKEN -->"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics103-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ENTDECKEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Lest den Text leise für euch und danach laut vor."
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibeln). Wurde etwas weggelassen oder ergänzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1 Mose 6, 5-22",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>5</sup>Doch der HERR sah, dass die Bosheit der Menschen groß war und dass alle ihre Gedanken durch und durch böse waren. <sup>6</sup>Da bereute der HERR, dass er sie geschaffen hatte, ja es bekümmerte ihn sehr. <sup>7</sup>Und der HERR sprach: »Ich werde diese Menschen, die ich geschaffen habe, von der Erde ausrotten; sowohl die Menschen als auch das Vieh, die Kriechtiere und die Vögel. Ich bereue, dass ich sie überhaupt geschaffen habe.« <sup>8</sup>Noah aber fand Gnade vor dem Herrn. <sup>9</sup>Dies ist die Geschichte von Noah und seiner Familie. Noah war ein Gerechter, der einzige fehlerlose Mensch, der damals auf der Erde lebte. Er lebte in enger Gemeinschaft mit Gott. <sup>10</sup>Noah hatte drei Söhne: Sem, Ham und Jafet. <sup>11</sup>Die Menschen waren böse und gewalttätig. <sup>12</sup>Gott sah auf die Erde, und sie war voller Verbrechen, denn die Menschen handelten böse. <sup>13</sup>Deshalb sprach Gott zu Noah: »Ich habe beschlossen, alle Lebewesen auszulöschen, denn die Erde ist ihretwegen voller Gewalt. Ich will sie zusammen mit der Erde vernichten! <sup>14</sup>Bau ein Schiff aus harzhaltigem Holz und dichte es innen und außen mit Teer ab. Bau anschließend Decks und Räume ein. <sup>15</sup>Das Schiff soll 300 Ellen lang, 50 Ellen breit und 30 Ellen hoch sein. <sup>16</sup>Lass unter dem Dach eine Öffnung – eine Elle breit – frei, die rund um das Schiff geht. Leg dann drei Decks im Schiff an – unten, in der Mitte und oben –, und setz an der Seite eine Tür ein. <sup>17</sup>Sieh! Ich werde die Erde mit einer Flut überschwemmen, um alles Lebendige auf ihr zu vernichten. Alles, was auf der Erde lebt, soll sterben! <sup>18</sup>Doch mit dir schließe ich einen Bund und du sollst, zusammen mit deiner Frau, deinen Söhnen und deren Frauen, in das Schiff gehen. <sup>19</sup>Bring ein Paar von jeder Tierart – ein Männchen und ein Weibchen – in das Schiff, damit sie mit dir die Flut überleben. <sup>20</sup>Ein Paar von jeder Vogelart und jeder Tierart, ob groß oder klein, soll zu dir in das Schiff kommen, um zu überleben. <sup>21</sup>Und nimm genügend Nahrung für deine Familie und all die Tiere mit an Bord.« <sup>22</sup>Noah führte alles genauso aus, wie Gott es ihm befohlen hatte. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/1%20Mose%206,%205-22",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Was kannst du in diesem Text über Gott und die Menschen lernen?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Kommentar zum Bibeltext",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Die extremen Auswirkungen der Ereignisse im Garten Eden wurden erst langsam sichtbar. Im Verlauf der Generationen nahm das Böse immer mehr zu, sodass die Menschen in der zehnten Generationen nur noch Böses im Sinn hatten."
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "In der zweiten Generation der Menschen war Individualismus und damit auch Egoismus und Eifersucht - kurz \"die Sünde“ - schon so weit fortgeschritten, dass Kain seinen jüngeren Bruder ermordete. Als Strafe dafür wurde er aus seiner Familie ausgestoßen.",
+                  "Kain hatte keine Familie und damit praktisch keinen Schutz mehr. Man beschloss, dass er siebenfach gerächt werden sollte, was bedeutet, dass, wenn jemand Kain ermorden würde, sieben weitere Menschen ermordet werden sollten (1.Mose 4:8-15).",
+                  "In der 7. Generation ermordete Lamech Menschen wegen einer Beule und verlange, dass er nicht wie Kain \"nur\" 7-fach gerächt werden müsse, sondern 77-fach (1.Mose 4:23-24)",
+                  "Über die 10. Generation, “die Generation von Noah“, musste man sagen, dass jetzt die Bosheit der Menschen GROSS war. So groß, dass sie nur noch Böses im Sinn hatten (1. Mose 6:11-12). Deshalb hat Gott beschlossen, auf sehr dramatische Weise in die Weltgeschichte einzugreifen um die Bosheit einzudämmen, indem er durch die Flut nur das Gute überleben ließ und so ein Neuanfang geschah (1. Mose 6-7)."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics103-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "WEITERGEBEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "In welche Bereiche deines Lebens spricht Gott durch diesen Text? Was wirst du in den nächsten Tagen umsetzen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "icon": "challenges",
+            "text": "Wem wirst du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem wirst du beten?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics103-i-will"
+      }
+    }
+  ],
+  "time": 1778401521476,
+  "version": "2.31.5"
+}

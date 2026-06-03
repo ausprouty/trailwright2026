@@ -1,0 +1,142 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt?",
+          "Was hat sich bei dir seit dem letzten Treffen verändert?",
+          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsames Gebet: Danke für Erlebnisse, bitte um Gottes Hilfe und dass du heute neue Aspekte von Gott kennenlernen darfst."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-202-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lukas 19, 1-10",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Jesus kam nach Jericho und ging durch die Stadt. <sup>2</sup>Dort lebte ein Mann namens Zachäus. Als einer der mächtigsten Steuereintreiber war er sehr reich. <sup>3</sup>Zachäus hatte versucht, einen Blick auf Jesus zu werfen, aber er war zu klein, um über die Menge hinwegschauen zu können. <sup>4</sup>Deshalb lief er voraus und kletterte auf einen Maulbeerfeigenbaum am Wegrand, um Jesus von dort aus vorübergehen zu sehen. <sup>5</sup>Als Jesus kam, blickte er zu Zachäus hinauf und rief ihn beim Namen: »Zachäus!«, sagte er, »komm schnell herunter! Denn ich muss heute Gast in deinem Haus sein.« <sup>6</sup>Zachäus kletterte, so schnell er konnte, hinunter und geleitete Jesus voller Aufregung und Freude in sein Haus. <sup>7</sup>Doch den Leuten in der Menge gefiel das nicht. »Bei einem berüchtigten Sünder kehrt er als Gast ein«, murrten sie. <sup>8</sup>Währenddessen stellte Zachäus sich vor den Herrn hin und sagte: »Herr, ich werde die Hälfte meines Reichtums den Armen geben, und wenn ich die Leute bei der Steuer betrogen habe, werde ich es ihnen vierfach erstatten!« <sup>9</sup>Jesus erwiderte: »Heute hat dieses Haus Rettung erfahren, denn auch dieser Mann ist Abrahams Sohn. <sup>10</sup>Der Menschensohn ist nämlich gekommen, um Verlorene zu suchen und zu retten.«<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Lukas%2019,%201-10",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Allgemeine Fragen:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas besonders aufgefallen? Was magst du, was stört dich?",
+          "Was kannst du in diesem Text über Gott und Jesus lernen?",
+          "Was kannst du über die Menschen lernen?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Text anwenden:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Wie beeinflusst dieser Text die Art, wie du lebst?",
+          "Wie beeinflusst dieser Text deine Sicht über Gott und Jesus?",
+          "Wie beeinflusst dieser Text deinen Umgang mit anderen Menschen?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-202-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was wirst du die nächsten zwei, drei Tage ausprobieren / verbessern / tun?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Mache ein Statement mit den Worten: «Ich werde die nächsten zwei, drei Tage…»."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsames Gebet: Sage Gott, was du ausprobieren / verbessern / tun wirst und bitte ihn um seine Hilfe und sein Wirken."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-202-i-will"
+      }
+    }
+  ],
+  "time": 1776770695816,
+  "version": "2.31.5"
+}

@@ -1,0 +1,111 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What are you thankful for and what has been challenging for you since we last met?",
+          "Have you experienced God at work in your life lately?",
+          "Have you had the opportunity to care for your friends or neighbours this week?",
+          "How did you go with your application from the last time we met?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-209-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage aloud and then watch the video clip.",
+          "Have one person retell the passage in their own words with the group’s help.",
+          "Was there anything missed or added?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthew 25:33-46",
+        "html": "<p><sup>33</sup>He will put the sheep on his right and the goats on his left.</p><p><sup>34</sup>“Then the King will say to those on his right, ‘Come, you who are blessed by my Father; take your inheritance, the kingdom prepared for you since the creation of the world.<sup>35</sup>For I was hungry and you gave me something to eat, I was thirsty and you gave me something to drink, I was a stranger and you invited me in,<sup> 36 </sup>I needed clothes and you clothed me, I was sick and you looked after me, I was in prison and you came to visit me.’</p><p><sup>37</sup>“Then the righteous will answer him, ‘Lord, when did we see you hungry and feed you, or thirsty and give you something to drink?<sup> 38 </sup>When did we see you a stranger and invite you in, or needing clothes and clothe you?<sup>39</sup>When did we see you sick or in prison and go to visit you?’</p><p><sup>40</sup>“The King will reply, ‘Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.’</p><p><sup>41</sup>“Then he will say to those on his left, ‘Depart from me, you who are cursed, into the eternal fire prepared for the devil and his angels.<sup> 42 </sup>For I was hungry and you gave me nothing to eat, I was thirsty and you gave me nothing to drink,<sup> 43 </sup>I was a stranger and you did not invite me in, I needed clothes and you did not clothe me, I was sick and in prison and you did not look after me.’</p><p><sup>44</sup>“They also will answer, ‘Lord, when did we see you hungry or thirsty or a stranger or needing clothes or sick or in prison, and did not help you?’</p><p><sup>45</sup>“He will reply, ‘Truly I tell you, whatever you did not do for one of the least of these, you did not do for me.’</p><p><sup>46</sup>“Then they will go away to eternal punishment, but the righteous to eternal life.”</p>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%2025:33-46&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Matthew 25:33-46",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMatt2520",
+        "source": "arclight",
+        "refId": "6_529-GOMatt2520",
+        "startTime": "4:46",
+        "endTime": "6:58",
+        "isOpen": true,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What stands out for you in this passage?",
+          "What does this passage tell you about Jesus, God, people and you?",
+          "What does this passage say about helping the poor?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-209-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "If this passage is from God, what difference would it make in your life?",
+          "How are you going to apply this passage this week?",
+          "Who will you share this passage with?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-209-i-will"
+      }
+    }
+  ],
+  "time": 1776770696347,
+  "version": "2.31.5"
+}

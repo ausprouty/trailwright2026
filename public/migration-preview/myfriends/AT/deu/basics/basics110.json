@@ -1,0 +1,179 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ZUSAMMENKOMMEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Wo brauchst du Gottes Hilfe? Wie können wir dir praktisch helfen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "<strong>Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Betet füreinander."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics110-bible-study"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "ENTDECKEN",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Im folgenden Bibelstudium wird es um die Taufe gehen. Weil der Begriff «Taufe» heutzutage sehr unterschiedlich verwendet wird, soll er an dieser Stelle kurz erklärt werden."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Menschen verstehen unter Taufe verschiedene Dinge. Hier ein paar Beispiele:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Gottes Segen für ein Kind erbitten",
+          "Erbsünde abwaschen",
+          "Religionszugehörigkeit definieren",
+          "Namensgebung",
+          "Götti / Gotti einsetzen"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Alle diese «Arten» von Taufe haben ihre Berechtigung, sind hier aber nicht gemeint. In unserem Bibeltext versteht man unter Taufe: \"Entscheid/Identifikation\" und \"Eintauchen/Teilwerden\"."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Jesus ist im Jordan Fluss getauft worden. Seine Jünger tauften Erwachsene, die sich mit der Botschaft von Jesus identifizierten. Bei der Taufe geht es um mehr, als nur nass zu werden. In dieser Lektion wollen wir schauen, was die Bibel über die Bedeutung der Taufe sagt."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Römer 6:3-14",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>3</sup>Oder wisst ihr nicht, dass wir mit Jesus Christus gestorben sind, als wir auf seinen Namen getauft wurden? <sup>4</sup>Denn durch die Taufe sind wir mit Christus gestorben und begraben. Und genauso wie Christus durch die herrliche Macht des Vaters von den Toten auferstanden ist, so können auch wir jetzt ein neues Leben führen. <sup>5</sup>Da wir in seinem Tod mit ihm verbunden sind, werden wir auch in der Auferstehung mit ihm verbunden sein. <sup>6</sup>Unser früheres Leben wurde mit Christus gekreuzigt, damit die Sünde in unserem Leben ihre Macht verliert. Nun sind wir keine Sklaven der Sünde mehr. <sup>7</sup>Denn als wir mit Christus starben, wurden wir von der Macht der Sünde befreit. <sup>8</sup>Und weil wir mit Christus gestorben sind, vertrauen wir darauf, dass wir auch mit ihm leben werden. <sup>9</sup>Wir wissen, dass Christus von den Toten auferstand und nie wieder sterben wird. Der Tod hat keine Macht mehr über ihn. <sup>10</sup>Er starb ein für alle Mal, um die Sünde zu besiegen, und nun lebt er für Gott. <sup>11</sup>Deshalb haltet daran fest: Ihr seid für die Sünde tot und lebt nun durch Christus Jesus für Gott! <sup>12</sup>Lasst nicht die Sünde euer Leben beherrschen; gebt ihrem Drängen nicht nach. <sup>13</sup>Lasst keinen Teil eures Körpers zu einem Werkzeug für das Böse werden, um mit ihm zu sündigen. Stellt euch stattdessen ganz Gott zur Verfügung, denn es ist euch ein neues Leben geschenkt worden. Euer Körper soll ein Werkzeug zur Ehre Gottes sein, sodass ihr tut, was gerecht ist! <sup>14</sup>Die Sünde hat die Macht über euch verloren, denn ihr steht nicht mehr unter dem Gesetz, sondern seid durch Gottes Gnade frei geworden.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Römer%206:3-14",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen?",
+          "Was gefällt dir und was stört dich an diesem Text?",
+          "Was kannst du in diesem Text über Gott und über die Menschen lernen?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Kommentar zum Bibeltext",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Bei der Taufe geht es darum, sein altes Leben ohne Gott endgültig zu beenden und sich ganz Gott anzuvertrauen. Das Eintauchen ins Wasser symbolisiert dabei das Sterben und ins Grab gelegt werden, das Herausziehen aus dem Wasser symbolisiert das Auferstehen zu einem neuen Leben mit Gott."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Sich taufen zu lassen ist eine der wichtigsten und umfassendsten Entscheidungen im Leben eines Menschen. Doch wenn jemand Jesus persönlich kennengelernt hat und sich zu einem Leben mit Jesus entschieden hat, ist die Taufe ein logischer Schritt. Wenn jemand selber Vergebung empfangen und anderen vergeben hat, wenn jemand sein Leben auf Gott ausgerichtet hat und mit Jesus als Freund, Vorbild und Autorität leben möchte, ist es Zeit für die Taufe. Das bedeutet, sein altes Leben ohne Gott in einem feierlichen Rahmen ganz zu beenden, um von nun an als neugeborener Mensch mit Jesus zu leben."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "CHALLENGE",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Überlege dir, ob du bereit bist, dich selber taufen zu lassen. Beachte dabei, dass der Vergebungsprozess aus Basics 9 vor der Taufe abgeschlossen sein sollte.",
+          "Plant miteinander eine Party, welche der kommenden Taufe einen gebührenden Rahmen verleiht.",
+          "Mit dieser Lektion habt ihr das Ende der Basics erreicht. Nun könnt ihr selbst entscheiden, ob ihr mit den Lebensprinzipien fortfahren möchtet oder ob ihr mit Hilfe des Ablaufs aus \"Bible Discovery\" für Family-Times die einzelnen Bücher der Bibel entdecken möchtet."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics110-i-will"
+      }
+    }
+  ],
+  "time": 1778401521674,
+  "version": "2.31.5"
+}

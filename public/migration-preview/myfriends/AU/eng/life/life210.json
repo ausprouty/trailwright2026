@@ -1,0 +1,111 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What are you thankful for and what has been challenging for you since we last met?",
+          "Have you experienced God at work in your life lately?",
+          "Have you had the opportunity to care for your friends or neighbours this week?",
+          "How did you go with your application from the last time we met?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-210-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage aloud and then watch the video clip.",
+          "Have one person retell the passage in their own words with the group’s help.",
+          "Was there anything missed or added?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthew 6:19-33",
+        "html": "<!-- begin bible --><p><sup>19 </sup>“Do not store up for yourselves treasures on earth, where moths and vermin destroy, and where thieves break in and steal.<sup> 20 </sup>But store up for yourselves treasures in heaven, where moths and vermin do not destroy, and where thieves do not break in and steal.<sup> 21 </sup>For where your treasure is, there your heart will be also.</p><p><sup>22 </sup>“The eye is the lamp of the body. If your eyes are healthy, your whole body will be full of light.<sup> 23 </sup>But if your eyes are unhealthy, your whole body will be full of darkness. If then the light within you is darkness, how great is that darkness!</p><p><sup>24 </sup>“No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.</p><p><sup>25 </sup>“Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes?<sup> 26 </sup>Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?<sup> 27 </sup>Can any one of you by worrying add a single hour to your life?</p><p><sup>28 </sup>“And why do you worry about clothes? See how the flowers of the field grow. They do not labor or spin.<sup> 29 </sup>Yet I tell you that not even Solomon in all his splendor was dressed like one of these.<sup> 30 </sup>If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will he not much more clothe you—you of little faith?<sup> 31 </sup>So do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’<sup> 32 </sup>For the pagans run after all these things, and your heavenly Father knows that you need them.<sup> 33 </sup>But seek first his kingdom and his righteousness, and all these things will be given to you as well.</p><br><a class=\"bible_readmore\" href=\"https://biblegateway.com/passage/?search=Matthew%206:19-33&amp;version=NIV\">Read More</a>",
+        "url": "",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Matthew 6:19-33",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMatt2504",
+        "source": "arclight",
+        "refId": "6_529-GOMatt2504",
+        "startTime": "3:00",
+        "endTime": "5:53",
+        "isOpen": true,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What stands out for you in this passage?",
+          "What does this passage tell you about Jesus, God, people and you?",
+          "What does this passage say about what is important?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-210-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "If this passage is from God, what difference would it make in your life?",
+          "How are you going to apply this passage this week?",
+          "Who will you share this passage with?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-210-i-will"
+      }
+    }
+  ],
+  "time": 1776770696361,
+  "version": "2.31.5"
+}

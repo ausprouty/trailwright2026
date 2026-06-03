@@ -1,0 +1,111 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What are you thankful for and what has been challenging for you since we last met?",
+          "Have you experienced God at work in your life lately?",
+          "Have you had the opportunity to care for your friends or neighbours this week?",
+          "How did you go with your application from the last time we met?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-207-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage aloud and then watch the video clip.",
+          "Have one person retell the passage in their own words with the group’s help.",
+          "Was there anything missed or added?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luke 6:27-36",
+        "html": "<p><sup>27</sup>“But to you who are listening I say: Love your enemies, do good to those who hate you,<sup> 28 </sup>bless those who curse you, pray for those who mistreat you.<sup> 29 </sup>If someone slaps you on one cheek, turn to them the other also. If someone takes your coat, do not withhold your shirt from them.<sup> 30 </sup>Give to everyone who asks you, and if anyone takes what belongs to you, do not demand it back.<sup> 31 </sup>Do to others as you would have them do to you.</p><p><sup>32</sup>“If you love those who love you, what credit is that to you? Even sinners love those who love them.<sup>33</sup>And if you do good to those who are good to you, what credit is that to you? Even sinners do that.<sup>34</sup>And if you lend to those from whom you expect repayment, what credit is that to you? Even sinners lend to sinners, expecting to be repaid in full. <sup>35</sup>But love your enemies, do good to them, and lend to them without expecting to get anything back. Then your reward will be great, and you will be children of the Most High, because he is kind to the ungrateful and wicked.<sup> 36 </sup>Be merciful, just as your Father is merciful.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%206:27-36&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luke 6:27-36",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2606",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2606",
+        "startTime": "4:28",
+        "endTime": "6:06",
+        "isOpen": true,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What stands out for you in this passage?",
+          "What does this passage tell you about Jesus, God, people and you?",
+          "What does this passage say about relating to our enemies?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-207-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "If this passage is from God, what difference would it make in your life?",
+          "How are you going to apply this passage this week?",
+          "Who will you share this passage with?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-207-i-will"
+      }
+    }
+  ],
+  "time": 1776770697971,
+  "version": "2.31.5"
+}

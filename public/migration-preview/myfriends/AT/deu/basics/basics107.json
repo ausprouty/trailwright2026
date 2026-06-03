@@ -1,0 +1,211 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ZUSAMMENKOMMEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Wo brauchst du Gottes Hilfe? Wie können wir dir praktisch helfen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Betet füreinander."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "EINEN FILM ANSCHAUEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Schaut den Film \"<strong>Die Passion Christi</strong>\" / \"The Passion of Christ\" von Mel Gibson oder den <strong>Jesus-Film von Cru</strong> an."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Den Film \"Die Passion Christi\" müsst ihr kaufen (FSK 16!). Den Jesus-Film könnt ihr unter <a href=\"https://www.jesusfilm.org/watch/jesus.html/english.html\"> jesusfilm.org/watch.html </a> anschauen. Geht zur richtigen Überschrift und sprecht über die Fragen, die dort stehen."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "\"DIE PASSION CHRISTI\" SCHAUEN",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Dieser Film ist eine sehr realistische Darstellung über das Leiden und Sterben von Jesus, wie es in der Bibel überliefert ist. Es gibt drei Arten, wie man diesen Film schauen kann:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Als historischer Film: In diesem Fall ist alles, was dargestellt wird, eine Geschichte, welche vor 2000 Jahren geschehen ist und die mit uns heute nichts zu tun hat.",
+                  "Als die Errettung der Menschheit: Wenn du den Film mit dem Fokus anschaust, dass Jesus die Sünden aller Menschen aller Zeit auf sich genommen hat, dann hat es für dich persönlich kaum eine Bedeutung, da du ja nur einer unter Milliarden Menschen bist.",
+                  "Als den Preis für MEINE Erlösung: Wenn wir den Film mit dem Fokus anschauen, dass Jesus für MICH persönlich gelitten hat, dann können wir am besten verstehen, was wirklich geschehen ist. Es ist wichtig, sich immer wieder bewusst zu machen, dass es in diesem Film um MICH geht. Jemand hat die schlimmsten Qualen erlitten, damit ICH frei werden kann von der Macht des Bösen und damit ICH mich wieder für Gott entscheiden kann. Schaut nun den Film im Bewusstsein, dass es um MEINE Erlösung geht."
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Stoppt den Film beim eingeblendeten Biblezitat (0h 0min 5sec)</strong>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Woher ist dieses Zieat genommen? (aus dem Bibeltext der letzten Lektion)",
+                  "Wieso wird das hier zitiert?"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Stoppt den Film, wenn Jesus die Schlange zertritt (0h 8min 57sec)</strong>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Wer ist die \"Person\", welcher hier mit Jesus spricht?",
+                  "Was sagt die \"Person\"?"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Stoppt den Film nach dem Urteil zur Kreuzigung (1h 11min 48sec)</strong>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Wie stehen der Gouverneur (Pilatus) und seine Frau Claudia zu Jesus?"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Nach dem Film</strong>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Was bedeutet es für mich, dass Jesus so gelitten hat?"
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "DEN JESUS-FILM SCHAUEN",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Dieser Film zeigt das ganze Leben von Jesus, der im Alten Testament angekündigt wurde und dessen Leben, Sterben und Auferstehung die Versprechen erfüllt, die Gott gemacht hat. Schaut euch den ganzen Film an und tauscht danach aus:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Was lernst du in dem Film über Gott? Wer ist Jesus?",
+                  "Was gefällt dir? Was stört dich?",
+                  "Warum musste Jesus leiden und sterben?",
+                  "Was bedeutet es für mich, dass Jesus so gelitten hat?"
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Wenn ihr keinen Film anschauen wollt oder könnt, lest <strong>Lukas 23,13-46</strong> durch und verwendet die Fragen aus \"Bible Discovery\", bevor ihr zu der Challenge kommt."
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "CHALLENGES",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Nimm dir Zeit darüber nachzudenken, was eine gebührende Reaktion darauf ist, dass Jesus für dich gelitten hat und gestorben ist. Halte deine Gedanken schriftlich fest.",
+          "Welchen Personen werde ich nächste Woche von meinen Gotteserlebnissen erzählen, für sie beten und ihnen erklären, wie sie zu Freunden Gottes werden können?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics107-i-will"
+      }
+    }
+  ],
+  "time": 1778401521595,
+  "version": "2.31.5"
+}

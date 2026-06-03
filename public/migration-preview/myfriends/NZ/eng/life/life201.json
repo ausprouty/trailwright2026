@@ -1,0 +1,111 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What are you thankful for and what has been challenging for you since we last met?",
+          "Have you experienced God at work in your life lately?",
+          "Have you had the opportunity to care for your friends or neighbours this week?",
+          "How did you go with your application from the last time we met?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-201-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage aloud and then watch the video clip.",
+          "Have one person retell the passage in their own words with the group’s help.",
+          "Was there anything missed or added?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luke 18:18-30",
+        "html": "<p><sup>18</sup>A certain ruler asked him, “Good teacher, what must I do to inherit eternal life?”</p><p><sup>19</sup>“Why do you call me good?” Jesus answered. “No one is good—except God alone.<sup> 20 </sup>You know the commandments: ‘You shall not commit adultery, you shall not murder, you shall not steal, you shall not give false testimony, honor your father and mother.’”</p><p><sup>21</sup>“All these I have kept since I was a boy,” he said.</p><p><sup>22</sup>When Jesus heard this, he said to him, “You still lack one thing. Sell everything you have and give to the poor, and you will have treasure in heaven. Then come, follow me.”</p><p><sup>23</sup>When he heard this, he became very sad, because he was very wealthy.<sup> 24 </sup>Jesus looked at him and said, “How hard it is for the rich to enter the kingdom of God!<sup>25</sup>Indeed, it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God.”</p><p><sup>26</sup>Those who heard this asked, “Who then can be saved?”</p><p><sup>27</sup>Jesus replied, “What is impossible with man is possible with God.”</p><p><sup>28</sup>Peter said to him, “We have left all we had to follow you!”</p><p><sup>29</sup>“Truly I tell you,” Jesus said to them, “no one who has left home or wife or brothers or sisters or parents or children for the sake of the kingdom of God<sup> 30 </sup>will fail to receive many times as much in this age, and in the age to come eternal life.”</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%2018:18-30&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luke 18:18-30",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2618",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2618",
+        "startTime": "1:50",
+        "endTime": "3:35",
+        "isOpen": true,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What stands out for you in this passage?",
+          "What does this passage tell you about Jesus, God, people and you?",
+          "What does this passage say about money?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "life-201-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "If this passage is from God, what difference would it make in your life?",
+          "How are you going to apply this passage this week?",
+          "Who will you share this passage with?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "life-201-i-will"
+      }
+    }
+  ],
+  "time": 1776770697903,
+  "version": "2.31.5"
+}

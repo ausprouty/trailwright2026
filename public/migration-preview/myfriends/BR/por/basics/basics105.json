@@ -1,0 +1,178 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "COMPARTILHAR",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Como você experimentou Deus esta semana?",
+          "O que você está agradecido?",
+          "Para o que você precisa da ajuda de Deus?",
+          "Como podemos ajudá-lo com suas necessidades?",
+          "Rezem um pelo outro"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics105-review"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "REVEJA",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "O que você colocou em prática desde o nosso último encontro?",
+          "Como estão as pessoas pelas quais você está cuidando? O que os ajudaria mais?",
+          "Você foi capaz de compartilhar uma experiência de Deus com alguém? Você orou com eles?",
+          "Ore por essas pessoas"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics105-bible-study"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LER",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Leia a passagem em voz alta duas vezes.",
+          "Peça para uma pessoa recontar a passagem em suas próprias palavras com a ajuda do grupo.",
+          "Havia alguma coisa perdida ou adicionada?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Jeremias 31:31-34",
+        "html": "<div class=\"bible\"><sup>31</sup>“Estão chegando os dias”, declara o <span class=\"small-caps\"> Senhor </span>,<br> “quando farei uma nova aliança<br> com a comunidade de Israel<br> e com a comunidade de Judá.<br><sup>32</sup>Não será como a aliança<br> que fiz com os seus antepassados<br> quando os tomei pela mão<br> para tirá-los do Egito;<br> porque quebraram a minha aliança,<br> apesar de eu ser o <span class=\"small-caps\">Senhor</span> deles”,<br> diz o <span class=\"small-caps\">Senhor</span>.<br><sup>33</sup>“Esta é a aliança que farei<br> com a comunidade de Israel<br> depois daqueles dias”,<br> declara o <span class=\"small-caps\">Senhor</span>:<br> “Porei a minha lei no íntimo deles<br> e a escreverei nos seus corações.<br> Serei o Deus deles,<br> e eles serão o meu povo.<br><sup>34</sup>Ninguém mais ensinará ao seu próximo<br> nem ao seu irmão, dizendo:<br> ‘Conheça ao <span class=\"small-caps\"> Senhor </span>’,<br> porque todos eles me conhecerão,<br> desde o menor até o maior”,<br> diz o <span class=\"small-caps\">Senhor</span>.<br> “Porque eu lhes perdoarei a maldade<br> e não me lembrarei mais<br> dos seus pecados.” <p><br></p><p><sup>1</sup>Vejam! O braço do <span class=\"small-caps\">Senhor</span><br> não está tão encolhido que não possa salvar,<br> e o seu ouvido tão surdo<br> que não possa ouvir.<br><sup>2</sup>Mas as suas maldades separaram<br> vocês do seu Deus;<br> os seus pecados esconderam de vocês<br> o rosto dele, e por isso ele não os ouvirá.</p><p></p><p><br></p></div>",
+        "url": "https://biblegateway.com/passage/?search=Jeremiah%2031:31-34&version=NVI-PT",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "DESCOBRIR",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "O que se destaca para você nesta passagem?",
+          "O que você gosta e o que incomoda nessa passagem?",
+          "O que esta passagem lhe fala sobre Deus e as pessoas?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics105-challenge"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "APLIQUE",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Pergunte a Deus o que Ele quer que você faça em resposta à passagem. Existe:",
+          "Um comportamento para mudar?",
+          "Uma promessa para reivindicar?",
+          "Um exemplo a seguir?",
+          "Um comando para obedecer?",
+          "Compartilhe isso com o grupo"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics105-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Notas",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Sejamos honestos. É capaz de cumprir os Dez Mandamentos ou está ciente de estar constantemente a quebrá-los? Estas regras podem combater o mal, mas não conseguem erradicá-lo completamente. Continua a ser um facto que nós, humanos, não estamos livres do mal e que não somos capazes de mudar."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "É por isso que Deus falou de um tempo em que haverá uma nova forma de viver. Mas algumas coisas precisam de mudar para isso acontecer:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "ordered",
+                "items": [
+                  "Quando nós, os humanos, agimos contra Deus e escolhemos seguir a cobra, tivemos de sair do jardim e terminar a relação com Deus. Pecámos contra Deus e não podemos reverter isso. Mas por Deus amar-nos tanto, Ele anunciou que vai perdoar todos os nossos pecados. Esse é o requisito mais importante para obter o tipo de relação que os primeiros humanos tiveram com Deus.<br>",
+                  "Deus precisa de mudar o nosso coração para que não estejamos mais sobre a influência do mal e possamos escolher livremente entre Deus e a cobra (mal). Se escolhermos Deus, e assim o bem, as regras de Deus aplicarão novamente a nós. Porém, se escolhermos ouvir a cobra, ficaremos novamente sob a influência do mal. Mas para que possamos fazer tal decisão, precisamos de conhecer Deus (ficar a conhecê-Lo). Deus falou de um tempo onde todos serão capazes de conhecê-Lo pessoalmente. Quando conseguirmos ter tal relação com Deus, não precisamos mais de seguir as regras do livro. Em vez disso, Deus irá escrever as Suas regras diretamente nos nossos corações para que se tornem parte de nós.<br>",
+                  "Depois pertenceremos ao Seu povo e Ele será o nosso Deus e muitas coisas serão o que Deus pretendia no início.<br>"
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ],
+  "time": 1778492568720,
+  "version": "2.31.5"
+}

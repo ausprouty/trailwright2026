@@ -1,0 +1,199 @@
+{
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ZUSAMMENKOMMEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Wo brauchst du Gottes Hilfe? Wie können wir dir praktisch helfen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Betet füreinander."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- ENTDECKEN -->"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics106-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ENTDECKEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Lest den Text leise für euch und danach laut vor."
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibeln). Wurde etwas weggelassen oder ergänzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Jesaja 52, 13 - 53,12",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>13</sup>Sieh, mein Diener wird sein Ziel erreichen. Er wird sich erheben und emporgehoben werden. Er wird erhaben sein. <sup>14</sup>Er war so entstellt, dass sein Aussehen kaum mehr dem eines Menschen glich und viele waren entsetzt, als sie ihn sahen. <sup>15</sup>Ebenso wird er viele Völker in Staunen versetzen. Seinetwegen werden Könige verstummen. Denn sie sehen etwas, was ihnen nie zuvor verkündigt wurde; sie nehmen etwas wahr, wovon sie noch nie gehört hatten. <!-- end bible --><br><!-- begin bible --><sup>1</sup>Wer hat unserer Botschaft geglaubt? Wem wurde der mächtige Arm des HERRN offenbart? <sup>2</sup>Er wuchs vor ihm auf wie ein Spross; er entsprang wie eine Wurzel aus trockenem, unfruchtbarem Land. Sein Äußeres war weder schön noch majestätisch, er hatte nichts Gewinnendes, das uns gefallen hätte. <sup>3</sup>Er wurde verachtet und von den Menschen abgelehnt – ein Mann der Schmerzen, mit Krankheit vertraut, jemand, vor dem man sein Gesicht verbirgt. Er war verachtet und bedeutete uns nichts. <sup>4</sup>Dennoch: Er nahm unsere Krankheiten auf sich und trug unsere Schmerzen. Und wir dachten, er wäre von Gott geächtet, geschlagen und erniedrigt! <sup>5</sup>Doch wegen unserer Vergehen wurde er durchbohrt, wegen unserer Übertretungen zerschlagen. Er wurde gestraft, damit wir Frieden haben. Durch seine Wunden wurden wir geheilt! <sup>6</sup>Wir alle gingen in die Irre wie Schafe. Jeder ging seinen eigenen Weg. Doch ihn ließ der HERR die Schuld von uns allen treffen. <sup>7</sup>Er wurde misshandelt und niedergedrückt und gab keinen Laut von sich. Wie ein Lamm, das zum Schlachten geführt wird, und wie ein Schaf vor seinem Scherer verstummt, so machte auch er den Mund nicht auf. <sup>8</sup>Er wurde aus der Haft und dem Gericht genommen, aber wen aus seinem Volk stimmte es nachdenklich, dass er aus den Lebenden gerissen und wegen der Vergehen meines Volkes geschlagen wurde? <sup>9</sup>Zwar wies man ihm ein Grab unter Sündern zu, doch wurde er in das Grab eines reichen Mannes gelegt, weil er kein Unrecht getan hatte und kein Betrüger war. <sup>10</sup>Doch es war der Wille des HERRN, ihn leiden zu lassen und zu vernichten. Wenn sein Leben jedoch als Opfer für die Sünde dargebracht wird, wird er viele Nachfolger haben. Er wird lange leben und die Absichten des HERRN werden durch seine Hand gedeihen. <sup>11</sup>Weil seine Seele sich abgemüht hat, wird er sich dann an dem, was er zu sehen bekommt, erfreuen. Durch seine Erkenntnis wird mein gerechter Diener Gerechtigkeit für viele erwirken, denn er wird ihre Sünden auf sich nehmen. <sup>12</sup>Deshalb werde ich ihm seinen Anteil unter den Großen geben; mit Mächtigen wird er Beute teilen, denn er hat sein Leben geopfert und sich zu den Sündern zählen lassen. Tatsächlich aber hat er die Sünden vieler getragen und ist für die Sünder eingetreten. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Jesaja%2053,%201-13",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Johannes 1:29-34",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>29</sup>Am nächsten Tag, als Johannes Jesus auf sich zukommen sah, sagte er: »Seht her! Da ist das Lamm Gottes, das die Sünde der Welt wegnimmt! <sup>30</sup>Er ist es, von dem ich sagte: ›Bald nach mir kommt ein Mann, der größer ist als ich, denn er war da, lange bevor es mich gab.‹ <sup>31</sup>Ich kannte ihn nicht. Aber um Israel die Augen für ihn zu öffnen, bin ich gekommen und habe mit Wasser getauft.« <sup>32</sup>Und er fuhr fort: »Ich sah den Heiligen Geist wie eine Taube vom Himmel herabkommen und sich auf ihm niederlassen. <sup>33</sup>Ich kannte ihn nicht, doch Gott, der mir den Auftrag gegeben hat, mit Wasser zu taufen, sagte zu mir: ›Der, auf den du den Heiligen Geist herabkommen und sich niederlassen siehst, ist der, den du suchst. Er ist es, der mit dem Heiligen Geist tauft.‹ <sup>34</sup>Das habe ich nun gesehen und deshalb bezeuge ich, dass dieser Mann der Sohn Gottes ist. «<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Johannes%201:29-34",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Was kannst du in diesem Text über Gott und die Menschen lernen?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Kommentar zum Bibeltext",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "In der letzten Lektion haben wir über Gottes Ankündigung der neuen Zeit gelesen. Heute geht es um den konkreten Plan, wie dies geschehen soll. Gott wird «seinen Knecht» senden. Das heisst ein Mann, der exakt so leben wird, wie Gott es will. Dieser wird in seinem Leben kein Unrecht tun und keine Sünde begehen, aber trotzdem wie ein Verbrecher sterben. Denn die Aufgabe dieses Gottesknechtes wird sein, die Krankheit, die Schmerzen und die Sünde der gesamten Menschheit auf sich zu nehmen. Und das wird kein schöner Anblick sein - im Gegenteil."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Die Menschen um ihn herum werden ihn verachten und sich von ihm abwenden. Sie werden denken, dass dieser Mensch ein Verbrecher ist, der von Gott für seine furchtbaren Taten bestraft wird. Tatsächlich wird er aber nicht für das bestraft, was er selbst getan hat, sondern für das, was all die vom Bösen geprägten Menschen getan haben. Dieser Knecht Gottes übernimmt die Verantwortung für unser Fehlverhalten. Er wird stellvertretend für uns sündige Menschen hingerichtet, damit wir wieder Frieden haben können; Frieden mit Gott und Frieden mit den Mitmenschen."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Johannes (der Täufer) war ein Prophet, der von Gott gesandt wurde, um Israel auf das Kommen des Gottesknechtes (siehe Jes. Kapitel 52 und 53) vorzubereiten. In diesem Abschnitt identifiziert er Jesus als das Lamm Gottes, welches die Sünde der ganzen Welt auf sich nimmt. Mit anderen Worten sagt Johannes, dass Jesus der langersehnte Erlöser ist, welcher die Menschen aus der Macht des Bösen befreit. Dafür nimmt er die Schuld der Menschen auf sich und erhält die Bestrafung, welche wir verdient hätten."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "basics-basics106-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "WEITERGEBEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "In welche Bereiche deines Lebens spricht Gott durch diesen Text? Was wirst du in den nächsten Tagen umsetzen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "icon": "challenges",
+            "text": "Wem wirst du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem wirst du beten?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics106-i-will"
+      }
+    }
+  ],
+  "time": 1778401521571,
+  "version": "2.31.5"
+}

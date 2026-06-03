@@ -141,6 +141,42 @@ export const iconListIcons = {
 </svg>
   `,
   },
+  discover: {
+    label: 'Discover',
+    preview: '🔎',
+    svg: `
+    <svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
+      <circle cx="50" cy="50" r="48" fill="#000" />
+
+      <circle
+        cx="45"
+        cy="45"
+        r="16"
+        fill="none"
+        stroke="#fff"
+        stroke-width="6"
+      />
+
+      <path
+        d="M35 45 A10 10 0 0 1 45 35"
+        fill="none"
+        stroke="#fff"
+        stroke-width="5"
+        stroke-linecap="round"
+      />
+
+      <rect
+        x="58"
+        y="58"
+        width="22"
+        height="10"
+        rx="5"
+        transform="rotate(45 58 58)"
+        fill="#fff"
+      />
+    </svg>
+  `,
+  },
 
   film: {
     label: 'Film',

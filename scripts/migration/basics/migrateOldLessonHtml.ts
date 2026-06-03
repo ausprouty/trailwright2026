@@ -31,7 +31,7 @@ function buildBiblePassageBlock(reference: string, html: string, url: string): A
   };
 }
 
-function buildCollapsibleGroupBlock(
+export function buildCollapsibleGroupBlock(
   title: string,
   contentBlocks: AnyEditorJsBlock[],
 ): AnyEditorJsBlock {
@@ -381,29 +381,57 @@ function getNextCollapsedDiv(
 
   return $el.nextAll('div.collapsed').first();
 }
+
 function getSectionIconKey($el: cheerio.Cheerio<AnyNode>): string | undefined {
   const imageSrc = ($el.find('img.lesson-icon').first().attr('src') || '').toLowerCase();
 
-  if (imageSrc.includes('challenges')) {
-    return 'challenges';
-  }
-
-  if (imageSrc.includes('arrowleft')) {
+  if (
+    imageSrc.includes('arrowleft') ||
+    imageSrc.includes('arrow-left') ||
+    imageSrc.includes('arrow_left')
+  ) {
     return 'arrow-left';
   }
 
-  if (imageSrc.includes('arrowup')) {
+  if (
+    imageSrc.includes('arrowright') ||
+    imageSrc.includes('arrow-right') ||
+    imageSrc.includes('arrow_right')
+  ) {
+    return 'arrow-right';
+  }
+
+  if (
+    imageSrc.includes('arrowup') ||
+    imageSrc.includes('arrow-up') ||
+    imageSrc.includes('arrow_up')
+  ) {
     return 'arrow-up';
   }
 
-  if (imageSrc.includes('arrowright')) {
-    return 'arrow-right';
+  if (imageSrc.includes('background')) {
+    return 'background';
   }
 
   if (imageSrc.includes('bible-study')) {
     return 'bible-study';
   }
 
+  if (imageSrc.includes('challenges')) {
+    return 'challenges';
+  }
+
+  if (imageSrc.includes('discover')) {
+    return 'discover';
+  }
+
+  if (imageSrc.includes('review')) {
+    return 'review';
+  }
+
+  if (imageSrc.includes('sharing-life')) {
+    return 'sharing-life';
+  }
   return undefined;
 }
 
@@ -413,18 +441,36 @@ function getSectionTheme($el: cheerio.Cheerio<AnyNode>): SectionTheme {
   const subtitleText = normalizeTextForEditor($el.find('.lesson-subtitle').text())
     .trim()
     .toUpperCase();
+
   console.warn('getSectionTheme:', {
     imageSrc,
     subtitleText,
   });
 
-  if (imageSrc.includes('challenges')) {
-    return 'challenge';
+  if (imageSrc.includes('sharing-life')) {
+    return 'sharing-life' as SectionTheme;
+  }
+
+  if (imageSrc.includes('review')) {
+    return 'review';
   }
 
   if (imageSrc.includes('bible-study')) {
     return 'bible-study';
   }
+
+  if (imageSrc.includes('discover')) {
+    return 'discover' as SectionTheme;
+  }
+
+  if (imageSrc.includes('challenges')) {
+    return 'challenge';
+  }
+
+  if (imageSrc.includes('background')) {
+    return 'background' as SectionTheme;
+  }
+
   if (
     imageSrc.includes('arrowleft') ||
     $el.find('.lesson-subtitle .back').length > 0 ||
@@ -460,6 +506,7 @@ function getSectionTheme($el: cheerio.Cheerio<AnyNode>): SectionTheme {
     imageSrc,
     subtitleText,
   });
+
   return 'up';
 }
 function getSectionTitle($el: cheerio.Cheerio<AnyNode>): string {
@@ -471,7 +518,9 @@ function getSectionTitle($el: cheerio.Cheerio<AnyNode>): string {
 
   return titles[0] || '';
 }
-
+function isBibleContainer($el: cheerio.Cheerio<AnyNode>): boolean {
+  return $el.hasClass('bible_container') || $el.hasClass('bible');
+}
 function isBibleReveal($el: cheerio.Cheerio<AnyNode>): boolean {
   return $el.is('div.reveal.bible');
 }
@@ -546,17 +595,17 @@ function isPlainReveal($el: cheerio.Cheerio<AnyNode>): boolean {
 }
 
 function isSectionMarkerLesson($el: cheerio.Cheerio<AnyNode>): boolean {
-  const imageSrc = ($el.find('img.lesson-icon').first().attr('src') || '').toLowerCase();
+  const iconKey = getSectionIconKey($el);
+
+  if (iconKey) {
+    return true;
+  }
 
   const subtitleText = normalizeTextForEditor($el.find('.lesson-subtitle').text())
     .trim()
     .toUpperCase();
 
   return (
-    imageSrc.includes('challenges') ||
-    imageSrc.includes('arrowleft') ||
-    imageSrc.includes('arrowup') ||
-    imageSrc.includes('arrowright') ||
     $el.find('.lesson-subtitle .back').length > 0 ||
     $el.find('.lesson-subtitle .up').length > 0 ||
     $el.find('.lesson-subtitle .forward').length > 0 ||
@@ -675,6 +724,7 @@ export function migrateOldLessonHtmlToEditorJs(
   const $ = cheerio.load(html);
   const blocks: AnyEditorJsBlock[] = [];
   let sectionIndex = 0;
+  let sectionMarkerCount = 0;
 
   function processNode($el: cheerio.Cheerio<AnyNode>): void {
     if (isGospelPointLesson($el)) {
@@ -691,12 +741,10 @@ export function migrateOldLessonHtmlToEditorJs(
     // ✅ HANDLE .lesson FIRST
     if ($el.hasClass && $el.hasClass('lesson')) {
       const hasSectionMarker = isSectionMarkerLesson($el);
-
       $el.contents().each((_, child) => {
         if (!isTag(child)) {
           return;
         }
-
         const $child = $(child);
 
         if ($child.is('.lesson-subtitle')) {
@@ -734,9 +782,27 @@ export function migrateOldLessonHtmlToEditorJs(
         const title = getSectionTitle($el);
         const icon = getSectionIconKey($el);
 
+        if (sectionMarkerCount > 0) {
+          const rawKey =
+            $el.attr('id')?.trim() || $el.find('form').first().attr('id')?.trim() || 'note';
+          const storageKey = rawKey === 'note#' ? `note-${blocks.length + 1}` : rawKey;
+          blocks.push(buildNotesAreaBlock(storageKey));
+        }
+
         blocks.push(buildSectionMarkerBlock(theme, title, icon));
+        sectionMarkerCount += 1;
       }
 
+      return;
+    }
+    if (isBibleContainer($el)) {
+      const reference =
+        normalizeTextForEditor($el.find('.myfriends-reference').first().text()) || 'Bible';
+
+      const url = extractBibleUrl($el);
+      const cleanedHtml = cleanBibleHtml($el.html() || '');
+
+      blocks.push(buildBiblePassageBlock(reference, cleanedHtml, url));
       return;
     }
     if ($el.hasClass && $el.hasClass('myfriends-share')) {
@@ -1001,7 +1067,15 @@ export function migrateOldLessonHtmlToEditorJs(
       blocks.push(buildVideoBlock(title, url, startTime, endTime));
       return;
     }
+    if ($el.is('div.lesson-section-words, div.share')) {
+      const html = normalizeInlineHtml($el.html() || $el.text() || '');
 
+      if (!isIgnorableHtml(html)) {
+        blocks.push(buildParagraphBlock(html));
+      }
+
+      return;
+    }
     if ($el.is('div, section, article, form')) {
       $el.contents().each((_, child) => {
         if (!isTag(child)) {

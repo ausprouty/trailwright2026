@@ -7,8 +7,8 @@ import { transformBasics } from './transformBasics';
 
 const PROJECT_ROOT = process.cwd();
 
-const COUNTRY = 'AT';
-const LANGUAGE = 'deu';
+const COUNTRY = 'CN';
+const LANGUAGE = 'cmn';
 const SERIES = 'basics';
 
 const SOURCE_DIR = path.join(PROJECT_ROOT, 'data', 'raw', 'myfriends', COUNTRY, LANGUAGE, SERIES);

@@ -29,3 +29,14 @@ WE need to fix: AU/eng/basics/community
 ## Day 5
 
 English is fixed; now working on German
+
+## Day 6
+
+first npm run dev
+
+npx tsx scripts/migration/basics/migrate-basics-test.ts
+
+Wording on:
+const COUNTRY = 'CN';
+const LANGUAGE = 'cmn';
+const SERIES = 'basics';

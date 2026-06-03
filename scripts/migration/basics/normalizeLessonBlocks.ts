@@ -1,44 +1,71 @@
 import type { AnyEditorJsBlock, SectionTheme } from 'src/types/content/MigrationTypes';
 import type { IconListItem } from 'src/types/content/IconListBlock';
-
+import { buildCollapsibleGroupBlock } from './migrateOldLessonHtml';
 type NotesTarget =
+  | 'bible-commentary'
+  | 'bible-study'
+  | 'challenge'
+  | 'discover'
   | 'look-up'
   | 'look-forward'
-  | 'review'
-  | 'bible-study'
   | 'questions-practice'
-  | 'bible-commentary';
+  | 'sharing-life'
+  | 'review';
 
 type NormalizeLessonBlocksOptions = {
   keyPrefix: string;
 };
 
 function addIWillAfterFinalChallengeList(blocks: AnyEditorJsBlock[], keyPrefix: string): void {
-  if (blocks.length < 2) {
+  let lastChallengeIndex = -1;
+
+  for (let i = 0; i < blocks.length; i += 1) {
+    const block = blocks[i];
+
+    if (!block) {
+      continue;
+    }
+
+    if (isChallengeSectionMarker(block)) {
+      lastChallengeIndex = i;
+    }
+  }
+
+  if (lastChallengeIndex === -1) {
     return;
   }
 
-  const lastBlock = blocks[blocks.length - 1];
+  for (let i = lastChallengeIndex + 1; i < blocks.length; i += 1) {
+    const block = blocks[i];
 
-  if (!lastBlock) {
+    if (!block) {
+      continue;
+    }
+
+    if (block.type === 'sectionMarker') {
+      return;
+    }
+
+    if (block.type !== 'list' && block.type !== 'iconList') {
+      continue;
+    }
+
+    const nextBlock = blocks[i + 1];
+
+    if (nextBlock && nextBlock.type === 'iWill') {
+      return;
+    }
+
+    blocks.splice(i + 1, 0, buildIWillBlock(`${keyPrefix}-i-will`));
     return;
   }
+}
 
-  if (lastBlock.type === 'iWill') {
-    return;
-  }
-
-  if (lastBlock.type !== 'list') {
-    return;
-  }
-
-  const previousBlock = blocks[blocks.length - 2];
-
-  if (!previousBlock || !isChallengeSectionMarker(previousBlock)) {
-    return;
-  }
-
-  blocks.push(buildIWillBlock(`${keyPrefix}-i-will`));
+function buildBackgroundCollapsibleBlock(
+  title: string,
+  blocks: AnyEditorJsBlock[],
+): AnyEditorJsBlock {
+  return buildCollapsibleGroupBlock(title, blocks);
 }
 
 function buildIWillBlock(storageKey: string): AnyEditorJsBlock {
@@ -65,34 +92,31 @@ function ensureNotesAreaBeforeSection(
   target: NotesTarget,
   keyPrefix: string,
 ): void {
-  const nearbyNotes = findNearbyNotesArea(blocks, 3);
-
-  if (nearbyNotes) {
+  if (previousSectionHasNotesArea(blocks)) {
     return;
   }
 
   blocks.push(buildNotesAreaBlock(target, keyPrefix));
 }
 
-function findNearbyNotesArea(
-  blocks: AnyEditorJsBlock[],
-  distance: number,
-): AnyEditorJsBlock | null {
-  const start = Math.max(0, blocks.length - distance);
-
-  for (let i = blocks.length - 1; i >= start; i -= 1) {
+function previousSectionHasNotesArea(blocks: AnyEditorJsBlock[]): boolean {
+  for (let i = blocks.length - 1; i >= 0; i -= 1) {
     const block = blocks[i];
 
     if (!block) {
       continue;
     }
 
+    if (block.type === 'sectionMarker') {
+      return false;
+    }
+
     if (block.type === 'notesArea') {
-      return block;
+      return true;
     }
   }
 
-  return null;
+  return false;
 }
 
 function getLessonListItems(block: AnyEditorJsBlock): IconListItem[] {
@@ -125,6 +149,37 @@ function getLessonListItems(block: AnyEditorJsBlock): IconListItem[] {
     };
   });
 }
+
+function getSectionMarkerTitle(block: AnyEditorJsBlock): string {
+  const data = block.data as { title?: unknown };
+
+  if (typeof data.title === 'string' && data.title.trim() !== '') {
+    return data.title.trim();
+  }
+
+  return 'Notes';
+}
+
+function isBackgroundSectionMarker(block: AnyEditorJsBlock): boolean {
+  if (block.type !== 'sectionMarker') {
+    return false;
+  }
+
+  const data = block.data as {
+    theme?: unknown;
+    title?: unknown;
+    icon?: unknown;
+  };
+
+  const theme = typeof data.theme === 'string' ? data.theme.toLowerCase() : '';
+  const title = typeof data.title === 'string' ? data.title.toLowerCase() : '';
+  const icon = typeof data.icon === 'string' ? data.icon.toLowerCase() : '';
+
+  return (
+    theme === 'background' || title === 'background' || title === 'notas' || icon === 'background'
+  );
+}
+
 function isChallengeSectionMarker(block: AnyEditorJsBlock): boolean {
   if (block.type !== 'sectionMarker') {
     return false;
@@ -137,9 +192,7 @@ function isChallengeSectionMarker(block: AnyEditorJsBlock): boolean {
   };
 
   const theme = typeof data.theme === 'string' ? data.theme.toLowerCase() : '';
-
   const title = typeof data.title === 'string' ? data.title.toLowerCase() : '';
-
   const icon = typeof data.icon === 'string' ? data.icon.toLowerCase() : '';
 
   return (
@@ -150,6 +203,7 @@ function isChallengeSectionMarker(block: AnyEditorJsBlock): boolean {
     icon === 'challenges'
   );
 }
+
 function isLessonListBlock(block: AnyEditorJsBlock): boolean {
   if (block.type !== 'list') {
     return false;
@@ -187,29 +241,62 @@ export function normalizeLessonBlocks(
 ): AnyEditorJsBlock[] {
   const result: AnyEditorJsBlock[] = [];
 
-  for (const block of blocks) {
-    if (isSectionMarker(block, 'up')) {
-      ensureNotesAreaBeforeSection(result, 'look-up', options.keyPrefix);
+  for (let i = 0; i < blocks.length; i += 1) {
+    const block = blocks[i];
+
+    if (!block) {
+      continue;
     }
 
-    if (isSectionMarker(block, 'forward')) {
-      ensureNotesAreaBeforeSection(result, 'look-forward', options.keyPrefix);
+    if (isBackgroundSectionMarker(block)) {
+      const title = getSectionMarkerTitle(block);
+      const backgroundBlocks: AnyEditorJsBlock[] = [];
+
+      for (let j = i + 1; j < blocks.length; j += 1) {
+        const nextBlock = blocks[j];
+
+        if (!nextBlock) {
+          continue;
+        }
+
+        if (nextBlock.type === 'sectionMarker') {
+          break;
+        }
+
+        backgroundBlocks.push(normalizeBlock(nextBlock));
+        i = j;
+      }
+
+      result.push(buildBackgroundCollapsibleBlock(title, backgroundBlocks));
+      continue;
     }
 
-    if (isSectionMarker(block, 'review')) {
-      ensureNotesAreaBeforeSection(result, 'review', options.keyPrefix);
+    if (isSectionMarker(block, 'bible-commentary')) {
+      ensureNotesAreaBeforeSection(result, 'bible-commentary', options.keyPrefix);
     }
 
     if (isSectionMarker(block, 'bible-study')) {
       ensureNotesAreaBeforeSection(result, 'bible-study', options.keyPrefix);
     }
 
+    if (isSectionMarker(block, 'challenge')) {
+      ensureNotesAreaBeforeSection(result, 'challenge', options.keyPrefix);
+    }
+
+    if (isSectionMarker(block, 'forward')) {
+      ensureNotesAreaBeforeSection(result, 'look-forward', options.keyPrefix);
+    }
+
     if (isSectionMarker(block, 'questions-practice')) {
       ensureNotesAreaBeforeSection(result, 'questions-practice', options.keyPrefix);
     }
 
-    if (isSectionMarker(block, 'bible-commentary')) {
-      ensureNotesAreaBeforeSection(result, 'bible-commentary', options.keyPrefix);
+    if (isSectionMarker(block, 'review')) {
+      ensureNotesAreaBeforeSection(result, 'review', options.keyPrefix);
+    }
+
+    if (isSectionMarker(block, 'up')) {
+      ensureNotesAreaBeforeSection(result, 'look-up', options.keyPrefix);
     }
 
     result.push(normalizeBlock(block));
@@ -218,6 +305,7 @@ export function normalizeLessonBlocks(
   replaceFinalForwardNotesWithIWill(result, options.keyPrefix);
   replaceFinalNotesAreaWithIWill(result, options.keyPrefix);
   addIWillAfterFinalChallengeList(result, options.keyPrefix);
+
   return result;
 }
 
@@ -271,7 +359,7 @@ function replaceFinalNotesAreaWithIWill(blocks: AnyEditorJsBlock[], keyPrefix: s
     return;
   }
 
-  if (previousBlock.type !== 'list') {
+  if (previousBlock.type !== 'list' && previousBlock.type !== 'iconList') {
     return;
   }
 

@@ -1,13 +1,6 @@
 {
   "blocks": [
     {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "basics-basics110-review"
-      }
-    },
-    {
       "type": "sectionMarker",
       "data": {
         "theme": "review",
@@ -35,7 +28,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics110-review"
+        "storageKey": "note"
       }
     },
     {
@@ -59,7 +52,19 @@
     {
       "type": "paragraph",
       "data": {
-        "text": "<br> ▶ 一起祷告，你可以在更多方面认识神，你和神的友谊可以更加深入稳 固."
+        "text": "▶ 一起祷告，你可以在更多方面认识神，你和神的友谊可以更加深入稳固."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "接下来的圣经学习是关于受洗。因为“受洗”这个词在当代有不同的用法，很重要的是我们解释 “受洗” 这个词是什么意思."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "当人使用这个词“受洗”的时候，对不同的人有不同的意思。下面是一些例子："
       }
     },
     {
@@ -76,11 +81,17 @@
       }
     },
     {
+      "type": "paragraph",
+      "data": {
+        "text": "所有这些“类型”都有它存在的理由，但不是这里谈到的受洗的意思。我们今天的圣经经文，受洗的意思是："
+      }
+    },
+    {
       "type": "list",
       "data": {
         "style": "unordered",
         "items": [
-          "一个成人所作的的关于自己的决定",
+          "一个成人所作的关于自己的决定",
           "完全地把一个人浸入水中",
           "一个象征性的动作，包括两个元素。接下来的经文会解释."
         ]
@@ -90,7 +101,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics110-bible-study"
+        "storageKey": "note"
       }
     },
     {
@@ -117,7 +128,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Bible",
-        "html": "羅 馬 書 6:3-14",
+        "html": "罗 马 书 6:3-14",
         "url": "",
         "isOpen": true
       }
@@ -153,7 +164,7 @@
         "style": "unordered",
         "items": [
           "受洗的两个象征性的代表方面是什么？",
-          "这里选择的词很极端. 死是不能逆转的. 为什么这里要用这么极端的 语言？",
+          "这里选择的词很极端. 死是不能逆转的. 为什么这里要用这么极端的语言？",
           "你能想象自己做这样一个彻底的决定，接受洗礼吗？"
         ]
       }
@@ -162,7 +173,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics110-challenge"
+        "storageKey": "note"
       }
     },
     {
@@ -178,9 +189,10 @@
       "data": {
         "style": "unordered",
         "items": [
-          "想想你是否做好准备，接受洗礼. 记得，圣经学习9关于饶恕的过程， 是需要在受洗之前做的.",
-          "为了庆祝这个决定，计划一场派对！ • 重要：饶恕过程所说的话都应该是保密的，在任何情况下都不可以讲 给别人",
-          "到这课基础课程就学完了.我们建议你继续一些根基性的话题比如：我 们如何在和神的关系上有信心（我们怎么能确保呢？），如果我们又犯 罪了会发生什么，我们怎么被圣灵充满等等. 除了这个，也可以一起研 究圣经的书卷. 关于查经小组，在下一章“共同体生活”中你会找到建 议，关于这样的一次聚会是怎样的. 如果你还没有决定要跟随耶稣，继 续上生活原则小组."
+          "想想你是否做好准备，接受洗礼. 记得，圣经学习9关于饶恕的过程，是需要在受洗之前做的.",
+          "为了庆祝这个决定，计划一场派对！",
+          "重要：饶恕过程所说的话都应该是保密的，在任何情况下都不可以讲给别人.",
+          "到这课基础课程就学完了. 我们建议你继续一些根基性的话题，比如：我们如何在和神的关系上有信心（我们怎么能确保呢？），如果我们又犯罪了会发生什么，我们怎么被圣灵充满等等. 除了这个，也可以一起研究圣经的书卷. 关于查经小组，在下一章“共同体生活”中你会找到建议，关于这样的一次聚会是怎样的. 如果你还没有决定要跟随耶稣，继续上生活原则小组."
         ]
       }
     },
@@ -196,82 +208,31 @@
         "title": "经文注释",
         "isOpen": true,
         "content": {
-          "blocks": [],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "在新约，当有人决定要跟随耶稣，他/她立马受洗. 在徒2:38-41和8:35-38记载了两个例子. 保罗也通过暗指他们的受洗提醒罗马的基督徒他们已归入了基督（罗6:3-4）. 新约里描述的受洗和个人信仰息息相关。受洗是明确结束你没有神的生活，完全把自己交托给神. 浸到水里面象征死和埋葬，再次出来象征复活有从神来的新的生命."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "做决定接受洗礼是很重要的决定，影响深远. 如果你个人已经认识耶稣，并且决定与神同行，那么受洗就是很自然地下一步. 如果你自己已经得到赦免，并原谅别人，如果你有按照神的方式调整你的生活，想要跟随耶稣的榜样和权柄，和他做朋友，那现在就是时候庄严且喜庆地结束你旧有的没有神参与的生活，从此作为新人与神同行."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "庆祝决定：人生中重要的决定要合宜地庆祝. 这是为什么我们要庆祝生日，婚礼，还有很多其他的庆祝. 受洗也应当合宜地庆祝. 为什么不办个派对，邀请家人、朋友、邻舍一起庆祝受洗？这会让受洗应有的意义表明出来，也是一个好的机会让不信的朋友认识耶稣."
+              }
+            }
+          ],
           "version": "2.31.5"
         }
       }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "basics-basics110-bible-study"
-      }
-    },
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "bible-study",
-        "icon": "bible-study"
-      }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "basics-basics110-bible-study"
-      }
-    },
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "bible-study",
-        "icon": "bible-study"
-      }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "basics-basics110-bible-study"
-      }
-    },
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "bible-study",
-        "icon": "bible-study"
-      }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "basics-basics110-bible-study"
-      }
-    },
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "bible-study",
-        "icon": "bible-study"
-      }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "basics-basics110-bible-study"
-      }
-    },
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "bible-study",
-        "icon": "bible-study"
-      }
     }
   ],
-  "time": 1780285521238,
+  "time": 1781065782174,
   "version": "2.31.5"
 }

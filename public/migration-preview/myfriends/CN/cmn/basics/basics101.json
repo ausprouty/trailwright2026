@@ -1,13 +1,6 @@
 {
   "blocks": [
     {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "basics-basics101-review"
-      }
-    },
-    {
       "type": "sectionMarker",
       "data": {
         "theme": "review",
@@ -35,7 +28,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics101-bible-study"
+        "storageKey": "note"
       }
     },
     {
@@ -123,7 +116,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics101-challenge"
+        "storageKey": "note"
       }
     },
     {
@@ -156,12 +149,25 @@
         "title": "经文注释",
         "isOpen": true,
         "content": {
-          "blocks": [],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "天，地，人，动物和植物都不是偶然存在的，是神所造的. 人从起初就被 赋予重要的角色. 创造动物，陪伴人类. 创造性别（男和女）让人可以体 验最亲密的连接. 彼此的信任如此的大，以至于他们赤身露体也不羞愧， 他们也不需要用衣服彼此隐藏和自我保护."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "很不可思议地，神给了人选择可以透过吃分别善恶树上的果子违背神. 但 神警告他们，这样做的惩罚就是死. 树的存在明显表明，人不是总是享受 神的恩慈，正好相反，人类有选择的自由. 神给人自由去选择接受或拒绝 神的爱."
+              }
+            }
+          ],
           "version": "2.31.5"
         }
       }
     }
   ],
-  "time": 1780285520964,
+  "time": 1781065781723,
   "version": "2.31.5"
 }

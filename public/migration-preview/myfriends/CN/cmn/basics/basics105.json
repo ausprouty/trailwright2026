@@ -1,13 +1,6 @@
 {
   "blocks": [
     {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "basics-basics105-review"
-      }
-    },
-    {
       "type": "sectionMarker",
       "data": {
         "theme": "review",
@@ -35,7 +28,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics105-review"
+        "storageKey": "note"
       }
     },
     {
@@ -65,7 +58,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics105-bible-study"
+        "storageKey": "note"
       }
     },
     {
@@ -134,7 +127,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics105-challenge"
+        "storageKey": "note"
       }
     },
     {
@@ -168,12 +161,36 @@
         "title": "经文注释",
         "isOpen": true,
         "content": {
-          "blocks": [],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "让我们诚实一点. 你可以守住十条诫命吗？还是你意识到自己不断地打破这些诫命？这些原则可能可以对抗邪恶，但却不能完全地根除. 实际的情况还是，我们会受恶的影响，我们不能改变自己."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "这就是为什么神提到一个全新的时代，我们会有新的生活方式. 但这个发生之前，有些事情需要先改变."
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "ordered",
+                "items": [
+                  "当人决定悖逆神，选择跟随蛇的时候，我们必须离开伊甸园，从此和神的关系也断绝了. 我们犯罪得罪了神，而且我们没有办法扭转这个局面. 但因为神如此地爱我们，他宣布他要饶恕我们的罪. 这是最重要的条件，使人可以恢复到伊甸园前人与神关系的样子.",
+                  "神需要改变我们的心，这样我们就不再受到恶的影响，可以自由地在神和蛇（恶）之间选择. 如果我们选择神和神看为好的，神的原则就再次应用在我们身上. 但如果我们选择听从蛇，我们就会再次落入蛇的影响之下. 如果我们想要能够做这样的选择，首先我们需要认识神. 神提到一个时代，到时每个人都能够亲自认识他. 当我们能够和神有这样的关系的时候，不再需要照任何书上的原则行事，因为神在我们的心上直接写下他的原则，成为我们的一部分.",
+                  "然后我们要成为属祂的子民，他要做我们的神。很多事情就会变成神起初预定所要发生的样子."
+                ]
+              }
+            }
+          ],
           "version": "2.31.5"
         }
       }
     }
   ],
-  "time": 1780285521104,
+  "time": 1781065781964,
   "version": "2.31.5"
 }

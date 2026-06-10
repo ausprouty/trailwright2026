@@ -4,7 +4,7 @@ import * as cheerio from 'cheerio';
 import type { AnyNode } from 'domhandler';
 import { isTag, isText } from 'domhandler';
 import type { SectionMarkerBlockData } from 'src/types/content/MigrationTypes';
-
+import { remapImagePaths } from '../remapImagePaths';
 import type {
   EditorJsContent,
   AnyEditorJsBlock,
@@ -518,6 +518,9 @@ function getSectionTitle($el: cheerio.Cheerio<AnyNode>): string {
 
   return titles[0] || '';
 }
+function isBackgroundNoteWrapper($el: cheerio.Cheerio<AnyNode>): boolean {
+  return $el.is('#background_note');
+}
 function isBibleContainer($el: cheerio.Cheerio<AnyNode>): boolean {
   return $el.hasClass('bible_container') || $el.hasClass('bible');
 }
@@ -721,12 +724,30 @@ export function migrateOldLessonHtmlToEditorJs(
   html: string,
   options: MigrateOptions = {},
 ): EditorJsContent {
-  const $ = cheerio.load(html);
+  const remappedHtml = remapImagePaths(html);
+  const $ = cheerio.load(remappedHtml);
   const blocks: AnyEditorJsBlock[] = [];
   let sectionIndex = 0;
-  let sectionMarkerCount = 0;
 
   function processNode($el: cheerio.Cheerio<AnyNode>): void {
+    if (isBackgroundNoteWrapper($el)) {
+      const $lesson = $el.find('div.lesson').first();
+      const title =
+        normalizeTextForEditor($lesson.find('.lesson-subtitle').first().text()) ||
+        'Background Notes';
+
+      const $clone = $el.clone();
+
+      $clone.find('div.lesson').remove();
+
+      const nestedBlocks = extractRevealContentBlocks($, $clone);
+
+      if (nestedBlocks.length > 0) {
+        blocks.push(buildCollapsibleGroupBlock(title, nestedBlocks));
+      }
+
+      return;
+    }
     if (isGospelPointLesson($el)) {
       const title = normalizeTextForEditor($el.find('.lesson-subtitle').first().text());
 
@@ -781,16 +802,7 @@ export function migrateOldLessonHtmlToEditorJs(
         const theme = getSectionTheme($el);
         const title = getSectionTitle($el);
         const icon = getSectionIconKey($el);
-
-        if (sectionMarkerCount > 0) {
-          const rawKey =
-            $el.attr('id')?.trim() || $el.find('form').first().attr('id')?.trim() || 'note';
-          const storageKey = rawKey === 'note#' ? `note-${blocks.length + 1}` : rawKey;
-          blocks.push(buildNotesAreaBlock(storageKey));
-        }
-
         blocks.push(buildSectionMarkerBlock(theme, title, icon));
-        sectionMarkerCount += 1;
       }
 
       return;
@@ -1118,6 +1130,39 @@ export function migrateOldLessonHtmlToEditorJs(
 
     processNode($(el));
   });
+
+  const firstSectionMarkerIndex = blocks.findIndex((block) => block.type === 'sectionMarker');
+
+  for (let i = blocks.length - 1; i >= 0; i -= 1) {
+    const block = blocks[i];
+
+    if (!block) {
+      continue;
+    }
+
+    if (block.type !== 'sectionMarker') {
+      continue;
+    }
+
+    const isFirstSectionMarker = i === firstSectionMarkerIndex;
+    const isBackgroundSection = block.data.icon === 'background';
+
+    if (isFirstSectionMarker || isBackgroundSection) {
+      continue;
+    }
+
+    const previousBlock = blocks[i - 1];
+
+    if (previousBlock?.type === 'notesArea') {
+      continue;
+    }
+
+    blocks.splice(i, 0, buildNotesAreaBlock('note'));
+  }
+
+  while (blocks[0]?.type === 'notesArea') {
+    blocks.shift();
+  }
 
   const content: EditorJsContent = {
     blocks,

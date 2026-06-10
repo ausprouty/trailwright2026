@@ -234,6 +234,21 @@ function normalizeBlock(block: AnyEditorJsBlock): AnyEditorJsBlock {
 
   return block;
 }
+function hasPreviousSectionMarker(blocks: AnyEditorJsBlock[]): boolean {
+  return blocks.some((block) => block.type === 'sectionMarker');
+}
+
+function ensureNotesAreaBeforeSectionAfterFirstSection(
+  blocks: AnyEditorJsBlock[],
+  target: NotesTarget,
+  keyPrefix: string,
+): void {
+  if (!hasPreviousSectionMarker(blocks)) {
+    return;
+  }
+
+  ensureNotesAreaBeforeSection(blocks, target, keyPrefix);
+}
 
 export function normalizeLessonBlocks(
   blocks: AnyEditorJsBlock[],
@@ -272,31 +287,35 @@ export function normalizeLessonBlocks(
     }
 
     if (isSectionMarker(block, 'bible-commentary')) {
-      ensureNotesAreaBeforeSection(result, 'bible-commentary', options.keyPrefix);
+      ensureNotesAreaBeforeSectionAfterFirstSection(result, 'bible-commentary', options.keyPrefix);
     }
 
     if (isSectionMarker(block, 'bible-study')) {
-      ensureNotesAreaBeforeSection(result, 'bible-study', options.keyPrefix);
+      ensureNotesAreaBeforeSectionAfterFirstSection(result, 'bible-study', options.keyPrefix);
     }
 
     if (isSectionMarker(block, 'challenge')) {
-      ensureNotesAreaBeforeSection(result, 'challenge', options.keyPrefix);
+      ensureNotesAreaBeforeSectionAfterFirstSection(result, 'challenge', options.keyPrefix);
     }
 
     if (isSectionMarker(block, 'forward')) {
-      ensureNotesAreaBeforeSection(result, 'look-forward', options.keyPrefix);
+      ensureNotesAreaBeforeSectionAfterFirstSection(result, 'look-forward', options.keyPrefix);
     }
 
     if (isSectionMarker(block, 'questions-practice')) {
-      ensureNotesAreaBeforeSection(result, 'questions-practice', options.keyPrefix);
+      ensureNotesAreaBeforeSectionAfterFirstSection(
+        result,
+        'questions-practice',
+        options.keyPrefix,
+      );
     }
 
     if (isSectionMarker(block, 'review')) {
-      ensureNotesAreaBeforeSection(result, 'review', options.keyPrefix);
+      ensureNotesAreaBeforeSectionAfterFirstSection(result, 'review', options.keyPrefix);
     }
 
     if (isSectionMarker(block, 'up')) {
-      ensureNotesAreaBeforeSection(result, 'look-up', options.keyPrefix);
+      ensureNotesAreaBeforeSectionAfterFirstSection(result, 'look-up', options.keyPrefix);
     }
 
     result.push(normalizeBlock(block));

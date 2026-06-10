@@ -1,13 +1,6 @@
 {
   "blocks": [
     {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "basics-basics106-review"
-      }
-    },
-    {
       "type": "sectionMarker",
       "data": {
         "theme": "review",
@@ -35,7 +28,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics106-review"
+        "storageKey": "note"
       }
     },
     {
@@ -60,7 +53,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics106-bible-study"
+        "storageKey": "note"
       }
     },
     {
@@ -148,7 +141,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics106-challenge"
+        "storageKey": "note"
       }
     },
     {
@@ -182,12 +175,25 @@
         "title": "经文注释",
         "isOpen": true,
         "content": {
-          "blocks": [],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "上次我们有读到，神要开始一个新的世代. 这次我们要谈如何实现（实际 的计划）。神会差派“他的仆人”. 这意味着，神要我们活出来的生活， 这个人活出来了。虽然这个人没有犯罪或犯错，但他却像罪犯一样死去. 因为神仆人的使命是要亲自担当人类的疾病，痛苦和罪. 这是看起来很惨 烈，不是很光鲜亮丽的一个场面. 周围的人藐视他，远离他. 他们会认为 他是一个罪犯，因他行大恶而受神的惩罚. 但其实他受惩罚不是因为他所 做的，而是因为全人类在恶的影响下所做的. 神的仆人承担了我们的错。 他替我们罪人受刑罚，让我们可以再次有平安，与神和人和好."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "约翰福音1:29-34 施洗约翰是个先知. 神差派他预备以色列人迎接将要来的神的仆人（读以 赛亚书52-53). 在这段经文里，他提到耶稣是神的羔羊，亲身担当世人的 罪. 换句话说，约翰在说耶稣是期盼已久的救主，要救世人脱离罪恶的权 势. 为要做成这个他需要亲身担当人类的罪，替他们受刑罚."
+              }
+            }
+          ],
           "version": "2.31.5"
         }
       }
     }
   ],
-  "time": 1780285521145,
+  "time": 1781065782024,
   "version": "2.31.5"
 }

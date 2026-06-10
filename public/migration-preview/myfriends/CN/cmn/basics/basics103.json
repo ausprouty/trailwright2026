@@ -1,13 +1,6 @@
 {
   "blocks": [
     {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "basics-basics103-review"
-      }
-    },
-    {
       "type": "sectionMarker",
       "data": {
         "theme": "review",
@@ -35,7 +28,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics103-review"
+        "storageKey": "note"
       }
     },
     {
@@ -66,7 +59,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics103-bible-study"
+        "storageKey": "note"
       }
     },
     {
@@ -137,7 +130,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics103-challenge"
+        "storageKey": "note"
       }
     },
     {
@@ -173,6 +166,12 @@
         "content": {
           "blocks": [
             {
+              "type": "paragraph",
+              "data": {
+                "text": "在伊甸园里发生的事情所带来的巨大影响，越来越明显的展现出来. 也就 是几代的时间里，罪恶扩张了这么多，到第十代的时候世人满了邪恶."
+              }
+            },
+            {
               "type": "list",
               "data": {
                 "style": "unordered",
@@ -189,6 +188,6 @@
       }
     }
   ],
-  "time": 1780285521040,
+  "time": 1781065781844,
   "version": "2.31.5"
 }

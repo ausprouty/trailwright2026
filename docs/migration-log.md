@@ -40,3 +40,5 @@ Wording on:
 const COUNTRY = 'CN';
 const LANGUAGE = 'cmn';
 const SERIES = 'basics';
+
+still getting note before first sectiion

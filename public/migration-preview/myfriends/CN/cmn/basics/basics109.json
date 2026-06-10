@@ -1,13 +1,6 @@
 {
   "blocks": [
     {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "basics-basics109-review"
-      }
-    },
-    {
       "type": "sectionMarker",
       "data": {
         "theme": "review",
@@ -35,7 +28,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics109-review"
+        "storageKey": "note"
       }
     },
     {
@@ -66,7 +59,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics109-bible-study"
+        "storageKey": "note"
       }
     },
     {
@@ -142,7 +135,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics109-challenge"
+        "storageKey": "note"
       }
     },
     {
@@ -173,6 +166,6 @@
       }
     }
   ],
-  "time": 1780285521205,
+  "time": 1781065782116,
   "version": "2.31.5"
 }

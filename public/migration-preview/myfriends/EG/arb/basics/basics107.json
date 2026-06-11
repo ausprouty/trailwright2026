@@ -10,6 +10,54 @@
   "sortOrder": 6,
   "blocks": [
     {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "شارك",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "كيف شهدت/اختبرت الله هذا الأسبوع؟",
+          "على ماذا أنت شاكر؟",
+          "في ماذا تريد أن يساعدك الله؟",
+          "كيف يمكننا مساعدتك في تلبية احتياجاتك؟",
+          "صلوا لبعضكم البعض"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "المراجعة",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ما الذي قمت بتنفيذه منذ لقاءنا الأخير؟",
+          "كيف هم الأشخاص الذين تهتم لأمرهم؟ وما الذي قد يساعدهم أكثر؟",
+          "هل كنت قادراً على مشاركة تجربة الله مع أي شخص؟ وهل صليت معهم؟",
+          "صلِّ من أجل هؤلاء الناس"
+        ]
+      }
+    },
+    {
       "type": "header",
       "data": {
         "text": "فيلم عن المسيح",
@@ -93,6 +141,13 @@
         "items": [
           "What does it mean to me that Jesus suffered so much for me?"
         ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
       }
     },
     {

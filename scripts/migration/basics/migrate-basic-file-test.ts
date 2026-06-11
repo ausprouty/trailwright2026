@@ -1,9 +1,9 @@
 // scripts/migration/basics/migrate-basic-file-test.ts
 //
 // Run:
-// npx tsx scripts/migration/basics/migrate-basic-file-test.ts basics101.html
+// npx tsx scripts/migration/basics/migrate-basic-file-test.ts basics107.html
 //
-// If no filename is supplied, it defaults to basics101.html.
+// If no filename is supplied, it defaults to basics107.html.
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
@@ -12,11 +12,11 @@ import { transformBasics } from './transformBasics';
 
 const PROJECT_ROOT = process.cwd();
 const SITE = 'myfriends' as const;
-const COUNTRY = 'CN' as const;
-const LANGUAGE = 'cmn' as const;
+const COUNTRY = 'EG' as const;
+const LANGUAGE = 'arb' as const;
 const SERIES = 'basics' as const;
 
-const DEFAULT_FILE = 'basics101.html';
+const DEFAULT_FILE = 'basics107.html';
 
 const sourceFile = process.argv[2] || DEFAULT_FILE;
 

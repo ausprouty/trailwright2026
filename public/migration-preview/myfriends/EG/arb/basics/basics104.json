@@ -1,0 +1,171 @@
+{
+  "site": "myfriends",
+  "country": "EG",
+  "language": "arb",
+  "htmlLang": "ar",
+  "direction": "rtl",
+  "numberSystem": "arab",
+  "series": "basics",
+  "lessonId": "basics104",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "شارك",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "كيف شهدت/اختبرت الله هذا الأسبوع؟",
+          "على ماذا أنت شاكر؟",
+          "في ماذا تريد أن يساعدك الله؟",
+          "كيف يمكننا مساعدتك في تلبية احتياجاتك؟",
+          "صلوا لبعضكم البعض"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "المراجعة",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ما الذي قمت بتنفيذه منذ لقاءنا الأخير؟",
+          "كيف هم الأشخاص الذين تهتم لأمرهم؟ وما الذي قد يساعدهم أكثر؟",
+          "هل كنت قادراً على مشاركة تجربة الله مع أي شخص؟ وهل صليت معهم؟",
+          "صلِّ من أجل هؤلاء الناس"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "اقرأ",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "اقرأ هذا المقطع بصوتٍ عالٍ مرّتين.",
+          "احصل على شخص ليعيد المقطع بكلماته الخاصة وبمساعدة المجموعة.",
+          "هل هناك أي شيء فقد أو أضيف؟"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "ﺍﻟﺘﺜﻨﻴﺔ ۵:٦-۲۲",
+        "html": "<div class=\"rtl myfriends-bible-rtl\"><p class=\"rtl\"><sup class=\"versenum-rtl\">٦</sup>‹أنا إلَهُكَ الَّذِي أخْرَجَكَ مِنْ أرْضِ مِصرَ، مِنْ بَيْتِ العُبُودِيَّةِ.</p><p class=\"rtl\"><sup class=\"myfriends-versenum-rtl\">٧</sup>‹لا تَعْبُدْ آلِهَةً أُخْرَى مَعِي.</p><p class=\"rtl\"><sup class=\"myfriends-versenum-rtl\">٨</sup>‹لا تَصنَعْ لِنَفسِكَ تِمثالاً بِأيِّ شَكلٍ مِمّا فِي السَّماواتِ مِنْ فَوقُ، أوْ عَلَى الأرْضِ مِنْ تَحتُ، أوْ فِي الماءِ مِنْ تَحتِ الأرْضِ.<sup class=\"myfriends-versenum-rtl\"> ٩ </sup>لا تَسجُدَ لَها أوْ تَعبُدَها، لِأنِّي أنا إلَهَكَ إلَهٌ غَيُّورٌ. أحْسِبُ خَطايا الآباءِ فِي أولادِهِمْ وَأحْفَادِهِمْ وَأولادِ أحْفادِهِمْ مِنَ الَّذينَ يُبغِضُونَنِي.<sup class=\"myfriends-versenum-rtl\"> ۱۰ </sup>لَكِنِّي أُحسِنُ لِلَّذينَ يُحِبُّونَنِي وَيَحفَظُونَ وَصايايَ إلَى الجِيلِ الألفِ.</p><p class=\"rtl\"><sup class=\"myfriends-versenum-rtl\">۱۱</sup>‹لا تَنْطِقْ بِاسْمِ إلَهِكَ عَبَثاً، لِأنَّ اللهَ لَنْ يُبَرِّئَ مَنْ يَنْطِقُ بِاسْمِهِ عَبَثاً.</p><p class=\"rtl\"><sup class=\"myfriends-versenum-rtl\">۱۲</sup>‹تَنَبَّهْ لِيَومِ السَّبتِ وَخَصِّصْهُ للهِ كَما أمَرَكَ إلَهُك.<sup class=\"myfriends-versenum-rtl\">۱۳ </sup>تَعْمَلُ سِتَّةَ أيّامٍ تُنْهِي فيها مَا عَلَيكَ مِنْ أعْمالٍ.<sup class=\"myfriends-versenum-rtl\"> ۱۴ </sup>وَأمّا اليَومُ السَّابِعُ فَهُوَ سَبتٌ، أيْ راحَةٌ، إكْراماً لإلَهِكَ. فَلا تَعمَلْ أيَّ عَمَلٍ فِيهِ، لا أنتَ وَلا ابْنُكَ وَلا ابْنَتُكَ وَلا عَبْدُكَ وَلا جارِيَتُكَ، وَلا ثَورُكَ وَلا حِمارُكَ وَلا جَمِيعُ حَيواناتِكَ، وَلا الغَرِيبُ المُقِيمُ فِي مُدُنِكَ. فَلِيَستَرِحْ عَبدُكَ وَجارِيَتُكَ مِثلَكَ.»<sup class=\"myfriends-versenum-rtl\"> ۱۵ </sup>تَذَكَّر أنَّكَ كُنتَ عَبداً فِي أرْضِ مِصْرَ، وَأنَّ إلَهَكَ أخرَجَكَ مِنْ هُناكَ بِيَدِهِ الجَبَّارَةِ وَذِراعِهِ المَمدُودَةِ. لِهَذا السَّبَبِ أمَرَكَ إلَهُكَ أنْ تَحفَظَ يَومَ السَّبتِ.</p><p class=\"rtl\"><sup class=\"myfriends-versenum-rtl\">۱٦</sup>‹أكرِمْ أباكَ وَأُمَّكَ كَما أمَرَكَ إلَهُكَ، لِكَي يَطُولَ عُمْرُكَ، وَتَكُونَ مُوفَّقاً عَلَى الأرْضِ الَّتِي يُعطِيها إلَهُكَ لَكَ.</p><p class=\"rtl\"><sup class=\"myfriends-versenum-rtl\">۱٧</sup>‹لا تَقْتُلْ.</p><p class=\"rtl\"><sup class=\"myfriends-versenum-rtl\">۱٨</sup>‹لا تَزْنِ.</p><p class=\"rtl\"><sup class=\"myfriends-versenum-rtl\">۱٩</sup>‹لا تَسْرِقْ.</p><p class=\"rtl\"><sup class=\"myfriends-versenum-rtl\">۲۰</sup>‹لا تَشْهَدْ عَلَى صَاحِبِكَ زُوراً.</p><p class=\"rtl\"><sup class=\"myfriends-versenum-rtl\">۲۱</sup>‹لا تَشْتَهِ زَوجَةَ صَاحِبِكَ. لا تَشتَهِ بَيتَهُ أوْ حَقلَهُ أوْ عَبدَهُ أوْ جارِيَتَهُ أوْ ثَورَهُ أوْ حِمارَهُ، أوْ أيَّ شَيءٍ يَخُصُّ صاحِبَكَ.›»</p><p class=\"rtl\">خَوفُ الشَّعبِ مِنَ الله</p><p class=\"rtl\"><sup class=\"myfriends-versenum-rtl\">۲۲</sup>وَقالَ مُوسَى: «هَذِهِ هِيَ الوَصايا الَّتِي أعلَنَها اللهُ بِصَوتٍ مُرتَفِعٍ لِكُلِّ جَماعَتِكُمْ عِندَ الجَبَلِ مِنْ وَسَطِ النّارِ وَالسَّحابَةِ وَالضَّبابِ الكَثِيفِ، وَلَمْ يَقُلْ شَيئاً آخَرَ. وَقَدْ كَتَبَها عَلَى لَوحَينِ مِنْ حَجَرٍ وَأعطاهُما لِي.</p><p class=\"rtl\"></p><p class=\"rtl\"><br><a class=\"rtl myfriends-readmore\" target=\"_blank\" href=\"https://biblegateway.com/passage/?search=Deuteronomy%205:6-22&amp;version=ERV-AR\">قراءة المزيد </a></p></div>",
+        "url": "",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "اكتشف",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ما الذي يبرز لك في هذه الفقرة؟",
+          "ما الذي يعجبك وما الذي يزعجك في هذا المقطع؟",
+          "ماذا يخبرك به هذا المقطع عن الله والناس؟"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "تطبيق",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "اسأل الله ما الذي يريدك أن تفعله ردَا على هذا المقطع. هل هناك: <ul><li class=\"rtl\">تغيير سلوكٍ ما؟</li><li class=\"rtl\">المطالبة بوعدٍ ما؟</li><li class=\"rtl\">مثالٌ لتحتذي به؟</li><li class=\"rtl\">أمرٌ لتطيعه؟</li></ul>",
+          "شارك هذا مع المجموعة"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics104-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "ملاحظات",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<p class=\"rtl\"> لمنع الشر من الانتشار دون حسيب ولا رقيب، كما كان الحال قبل الطوفان، وضع الله حدودًا لسيطرة على الفردية والأنانية. لذلك تم وضع قواعد مهمة تسمى \"الوصايا العشر\". هذه الوصايا تساعدنا على التمييز بين السلوك المقبول وغير المقبول. وهي أيضا أسس لمعاقبة الأخطاء ومنع الشر من الانتشار وإصابة الجنس البشري كله. و هذا ما يكشف لنا عن انقطاع علاقتنا مع الله (وصايا الخمس الأوائل) وبعضنا البعض (وصايا الخمس المتبقية).</p><p class=\"rtl\"></p><p class=\"rtl\"></p>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

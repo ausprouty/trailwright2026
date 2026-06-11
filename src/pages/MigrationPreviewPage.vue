@@ -1,34 +1,61 @@
 <script setup lang="ts">
 import { computed, onMounted, ref, watch } from 'vue';
 import EditorJsContent from 'src/components/content/EditorJsContent.vue';
-import type { EditorJsContent as EditorJsContentData } from 'src/types/content/EditorBlocks';
 import { resolveSharedBlockComponent } from 'src/components/content/shared/resolveSharedBlockComponent';
 import { useRoute, useRouter } from 'vue-router';
+import type { EditorJsContent as EditorJsContentData } from 'src/types/content/EditorBlocks';
+import type { AnyEditorJsBlock } from 'src/types/content/MigrationTypes';
 
 const route = useRoute();
 const router = useRouter();
 
+const site = computed(() => String(route.params.site || 'myfriends'));
 const country = computed(() => String(route.params.country || 'AU'));
 const language = computed(() => String(route.params.language || 'eng'));
 const series = computed(() => String(route.params.series || 'life'));
 const lesson = computed(() => String(route.params.lesson || 'life201'));
 
 const previewJsonUrl = computed(() => {
-  return `/migration-preview/myfriends/${country.value}/${language.value}/${series.value}/${lesson.value}.json`;
+  return `/migration-preview/${site.value}/${country.value}/${language.value}/${series.value}/${lesson.value}.json`;
 });
 
 const previewIndexUrl = computed(() => {
-  return `/migration-preview/myfriends/${country.value}/${language.value}/${series.value}/index.json`;
+  return `/migration-preview/${site.value}/${country.value}/${language.value}/${series.value}/index.json`;
 });
 
 const liveLessonUrl = computed(() => {
   return `https://myfriends.network/content/${country.value}/${language.value}/${series.value}/${lesson.value}.html`;
 });
 const rawLessonUrl = computed(() => {
-  return `/migration-raw/myfriends/${country.value}/${language.value}/${series.value}/${lesson.value}.html`;
+  return `/migration-raw/${site.value}/${country.value}/${language.value}/${series.value}/${lesson.value}.html`;
 });
 
-const content = ref<EditorJsContentData | null>(null);
+type LessonPreviewContent = {
+  site: string;
+  country: string;
+  language: string;
+  htmlLang: string;
+  direction: 'ltr' | 'rtl';
+  numberSystem: string;
+  series: string;
+  lessonId: string;
+  sortOrder: number;
+  blocks: AnyEditorJsBlock[];
+};
+
+const content = ref<LessonPreviewContent | null>(null);
+
+const editorJsContent = computed<EditorJsContentData | null>(() => {
+  if (!content.value) {
+    return null;
+  }
+
+  return {
+    time: Date.now(),
+    version: '2.31.0',
+    blocks: content.value.blocks,
+  };
+});
 const loading = ref(true);
 const errorMessage = ref('');
 const lessonList = ref<string[]>([]);
@@ -74,7 +101,7 @@ async function loadPreview(): Promise<void> {
       throw new Error(`Preview JSON not found: ${response.status}`);
     }
 
-    content.value = (await response.json()) as EditorJsContentData;
+    content.value = (await response.json()) as LessonPreviewContent;
   } catch (error) {
     content.value = null;
     errorMessage.value = error instanceof Error ? error.message : 'Unknown error';
@@ -101,7 +128,7 @@ const hasNext = computed((): boolean => {
 
 function goToLesson(targetLesson: string): void {
   void router.push({
-    path: `/migration-preview/${country.value}/${language.value}/${series.value}/${targetLesson}`,
+    path: `/migration-preview/${site.value}/${country.value}/${language.value}/${series.value}/${targetLesson}`,
   });
 }
 
@@ -130,7 +157,7 @@ function goNext(): void {
 }
 
 watch(
-  () => [country.value, language.value, series.value, lesson.value],
+  () => [site.value, country.value, language.value, series.value, lesson.value],
   () => {
     void loadPreview();
   },
@@ -147,7 +174,7 @@ onMounted(() => {
       <div class="migration-preview-page__header">
         <div class="migration-preview-page__title">
           Migration Preview:
-          {{ country }}/{{ language }}/{{ series }}/{{ lesson }}
+          {{ site }}/{{ country }}/{{ language }}/{{ series }}/{{ lesson }}
         </div>
 
         <div class="migration-preview-page__actions">
@@ -164,7 +191,7 @@ onMounted(() => {
       </div>
 
       <div v-else class="migration-preview-page__grid">
-        <section class="migration-preview-page__panel">
+        <section v-if="content" class="migration-preview-page__panel">
           <h4>Generated JSON</h4>
           <a
             :href="rawLessonUrl"
@@ -177,12 +204,18 @@ onMounted(() => {
           <pre>{{ prettyJson }}</pre>
         </section>
 
-        <section class="migration-preview-page__panel">
+        <section
+          v-if="content"
+          :dir="content.direction"
+          :lang="content.htmlLang"
+          :data-number-system="content.numberSystem"
+          class="migration-preview-page__panel"
+        >
           <h4>Rendered Preview</h4>
 
           <EditorJsContent
-            v-if="content"
-            :content="content"
+            v-if="editorJsContent"
+            :content="editorJsContent"
             :resolve-block-component="resolveSharedBlockComponent"
           />
         </section>
@@ -274,5 +307,30 @@ onMounted(() => {
 
 .migration-preview-page__message {
   padding: 24px;
+}
+
+.migration-preview-page__panel[data-number-system='arab'] :deep(ol) {
+  list-style-type: arabic-indic;
+}
+
+.migration-preview-page__panel[data-number-system='arabext'] :deep(ol) {
+  list-style-type: persian;
+}
+
+.migration-preview-page__panel[data-number-system='deva'] :deep(ol) {
+  list-style-type: devanagari;
+}
+
+.migration-preview-page__panel[data-number-system='taml'] :deep(ol) {
+  list-style-type: tamil;
+}
+.migration-preview-page__panel[data-number-system='arab'] :deep(ol) {
+  list-style-type: arabic-indic;
+  direction: rtl;
+  text-align: start;
+}
+
+.migration-preview-page__panel[data-number-system='arab'] :deep(li::marker) {
+  direction: rtl;
 }
 </style>

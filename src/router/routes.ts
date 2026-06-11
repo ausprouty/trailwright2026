@@ -18,7 +18,7 @@ const routes: RouteRecordRaw[] = [
         component: () => import('pages/EditorWorkbench.vue'),
       },
       {
-        path: 'migration-preview/:country?/:language?/:series/:lesson',
+        path: 'migration-preview/:site/:country/:language/:series/:lesson',
         component: () => import('pages/MigrationPreviewPage.vue'),
       },
     ],

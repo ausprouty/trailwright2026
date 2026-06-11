@@ -1,0 +1,171 @@
+{
+  "site": "myfriends",
+  "country": "EG",
+  "language": "arb",
+  "htmlLang": "ar",
+  "direction": "rtl",
+  "numberSystem": "arab",
+  "series": "basics",
+  "lessonId": "basics108",
+  "sortOrder": 7,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "شارك",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "كيف شهدت/اختبرت الله هذا الأسبوع؟",
+          "على ماذا أنت شاكر؟",
+          "في ماذا تريد أن يساعدك الله؟",
+          "كيف يمكننا مساعدتك في تلبية احتياجاتك؟",
+          "صلوا لبعضكم البعض"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "المراجعة",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ما الذي قمت بتنفيذه منذ لقاءنا الأخير؟",
+          "كيف هم الأشخاص الذين تهتم لأمرهم؟ وما الذي قد يساعدهم أكثر؟",
+          "هل كنت قادراً على مشاركة تجربة الله مع أي شخص؟ وهل صليت معهم؟",
+          "صلِّ من أجل هؤلاء الناس"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "اقرأ",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "اقرأ هذا المقطع بصوتٍ عالٍ مرّتين.",
+          "احصل على شخص ليعيد المقطع بكلماته الخاصة وبمساعدة المجموعة.",
+          "هل هناك أي شيء فقد أو أضيف؟"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "ﻣﺘﻰ ٦:٩-۱۵",
+        "html": "<div class=\"rtl myfriends-bible-rtl\"><p class=\"rtl\"><sup class=\"versenum-rtl\">٩</sup>لِذَلِكَ صَلُّوا كَما يَلِي:</p><div class=\"myfriends-poetry-top-rtl\"><p class=\"rtl\">‹أبانا الَّذِي فِي السَّماءِ،<br> لِيَتَقَدَّسِ اسْمُكَ،<br><sup class=\"myfriends-versenum-rtl\">۱۰</sup>لِيَأتِ مَلَكُوتُكَ،<br> فَتَكُونَ مَشِيئِتُكَ،<br> هُنا عَلَى الأرْضِ كَما هِيَ فِي السَّماءِ.<br><sup class=\"myfriends-versenum-rtl\">۱۱</sup>أعطِنا اليَوْمَ خُبزَنا كَفافَ يَومِنا،<br><sup class=\"myfriends-versenum-rtl\">۱۲</sup>وَاغفِرْ لَنا خَطايانا،<br> كَما غَفَرْنا نَحنُ أيضاً لِلَّذِينَ يُسِيئُونَ إلَينا.<br><sup class=\"myfriends-versenum-rtl\">۱۳ </sup>وَلا تُدْخِلنا فِي تَجرُبَةِ،<br> بَلْ أنقِذْنا مِنَ الشِّرِّيرِ.<br> لأنَّ لَكَ المُلْكَ وَالقُدرَةَ وَالمَجدَ، إلَى أبَدِ الآبِدينَ. آمين›</p></div><p class=\"rtl\"><sup class=\"myfriends-versenum-rtl\">۱۴ </sup>لِأنَّكُمْ إنْ غَفَرْتُمْ لِلنّاسِ زَلّاتِهِمْ، يَغْفِرْ لَكُمْ أبُوكُمُ السَّماوِيُّ أيضاً.<sup class=\"myfriends-versenum-rtl\"> ۱۵ </sup>لَكِنْ إنْ لَمْ تَغفِرُوا لِلآخَرِينَ زَلّاتِهِمْ، فَلَنْ يَغفِرَ لَكُمْ أبُوكُمْ زَلّاتِكُمْ.</p><p class=\"rtl\"><br><a class=\"rtl myfriends-readmore\" target=\"_blank\" href=\"https://biblegateway.com/passage/?search=Matthew%206:9-15&amp;version=ERV-AR\">قراءة المزيد </a></p></div>",
+        "url": "",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "اكتشف",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ما الذي يبرز لك في هذه الفقرة؟",
+          "ما الذي يعجبك وما الذي يزعجك في هذا المقطع؟",
+          "ماذا يخبرك به هذا المقطع عن الله والناس؟"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "تطبيق",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "اسأل الله ما الذي يريدك أن تفعله ردَا على هذا المقطع. هل هناك: <ul><li class=\"rtl\">تغيير سلوكٍ ما؟</li><li class=\"rtl\">المطالبة بوعدٍ ما؟</li><li class=\"rtl\">مثالٌ لتحتذي به؟</li><li class=\"rtl\">أمرٌ لتطيعه؟</li></ul>",
+          "شارك هذا مع المجموعة"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics108-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "ملاحظات",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<p class=\"rtl lesson_start\">على الرغم من أن موت المسيح وبعثه دفع كثمن لخطايا البشرية عبر التاريخ، فهذا لا يعني أن الآثام تغفر تلقائيا، فالمسيح جعل من المغفرة إمكانية يمكن للإنسان ابتغائها.</p><p class=\"rtl lesson_start\"></p><p class=\"rtl lesson_start\">و من أجل أن يغفر الله لنا خطايانا، يجب أن نفعل شيئين:</p><p class=\"rtl lesson_start\">1.طلب مغفرة الله عند الخطيئة.</p><p class=\"rtl lesson_start\">2.مسامحة الناس.</p><p class=\"rtl lesson_start\"></p><p class=\"rtl lesson_start\">فعندما غفر الله خطايانا، مسحها من ميزان ذنوبنا، لأن يسوع عانى ومات من أجلنا. فالمسيح أخذ بعواقب خطايانا التي كان علينا تحمَلها حتى نتمكن من أن نصبح أحرارا. والله لم يعد يتَهمنا بالذنب، فعفي عنَا و إعتبرنا من القوم الصالحين رغم أننا بالأساس مذنبون. فهذا يشكل أساسا لتصالح مع الله. فيا له من امتياز!</p><p class=\"rtl lesson_start\"></p><p class=\"rtl lesson_start\">عندما نسامح الناس الذين أخطئوا ضدنا، لا يعني هذا أننا ننسى أو ننكر أو نتغاضى عما حدث. ففي هذا السياق، \"الغفران\" يعني صرف أذهاننا عما حدث و تسليم أمرنا لله للتعامل معه. إذ عندما نغفر لشخص ما ونسلم الأمر كله إلى الله، فنحن نتحرر من عبء تلك الخطيئة مع ذلك الشخص، ولا تعود هناك حاجة إلى تحمل ضغينة.</p><p class=\"rtl lesson_start\">و بدلاً من ذلك، نصبح قادرين على العيش دون أن نتحمل العبء ضغينة و على العيش بسلام مع هذا الشخص لأنه لم يعد هناك أي ذنب بيننا.</p><p></p>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

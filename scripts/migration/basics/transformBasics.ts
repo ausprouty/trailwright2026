@@ -1,11 +1,16 @@
 import { migrateOldLessonHtmlToEditorJs } from './migrateOldLessonHtml';
 import { normalizeLessonBlocks } from './normalizeLessonBlocks';
+import { createLessonJson } from '../createLessonJson';
+import type { MyFriendsCountry } from '../createLessonJson';
 
 export type TransformContext = {
-  country: string;
+  site: string;
+  country: MyFriendsCountry;
   language: string;
   series: string;
+  lessonId: string;
   sourceFile: string;
+  sortOrder: number;
 };
 
 export function transformBasics(html: string, context: TransformContext) {
@@ -21,5 +26,12 @@ export function transformBasics(html: string, context: TransformContext) {
     keyPrefix,
   });
 
-  return json;
+  return createLessonJson({
+    country: context.country,
+    language: context.language,
+    series: context.series,
+    lessonId: context.lessonId,
+    sortOrder: context.sortOrder,
+    blocks: json.blocks,
+  });
 }

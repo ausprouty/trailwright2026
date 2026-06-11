@@ -1,0 +1,191 @@
+{
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Ù‚Ù… Ø¨ØªØµÙ…ÙŠÙ… Ø±Ø­Ù„ØªÙƒ Ø§Ù„Ø®Ø§ØµØ©. ÙØ§Ù„Ø¥ÙŠÙ…Ø§Ù† Ù‡Ùˆ Ø£Ù† ØªØ¹ÙŠØ´ ÙÙŠ Ø§Ù„Ù…Ø¬ØªÙ…Ø¹. ÙˆÙÙŠÙ…Ø§ ÙŠÙ„ÙŠ Ù…Ø®Ø·Ø· ÙŠÙ…ÙƒÙ†Ùƒ Ø¥ØªØ¨Ø§Ø¹Ù‡ Ø¨Ø£ÙŠ ÙÙ‚Ø±Ø© Ù…Ù† Ø§Ù„ÙƒØªØ§Ø¨ Ø§Ù„Ù…Ù‚Ø¯Ø³ Ø¨Ù…Ø¬Ø±Ø¯ Ø§Ù†ØªÙ‡Ø§Ø¦Ùƒ Ù…Ù† Ø§Ù„Ø±Ø­Ù„Ø© Ø§Ù„Ø£ÙˆÙ„Ù‰."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"lesson-icon rtl\" src=\"/images/sharing-life.png\">"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Ø´Ø§Ø±Ùƒ",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ÙƒÙŠÙ Ø´Ù‡Ø¯Øª/Ø§Ø®ØªØ¨Ø±Øª Ø§Ù„Ù„Ù‡ Ù‡Ø°Ø§ Ø§Ù„Ø£Ø³Ø¨ÙˆØ¹ØŸ",
+          "Ø¹Ù„Ù‰ Ù…Ø§Ø°Ø§ Ø£Ù†Øª Ø´Ø§ÙƒØ±ØŸ",
+          "ÙÙŠ Ù…Ø§Ø°Ø§ ØªØ±ÙŠØ¯ Ø£Ù† ÙŠØ³Ø§Ø¹Ø¯Ùƒ Ø§Ù„Ù„Ù‡ØŸ",
+          "ÙƒÙŠÙ ÙŠÙ…ÙƒÙ†Ù†Ø§ Ù…Ø³Ø§Ø¹Ø¯ØªÙƒ ÙÙŠ ØªÙ„Ø¨ÙŠØ© Ø§Ø­ØªÙŠØ§Ø¬Ø§ØªÙƒØŸ",
+          "ØµÙ„ÙˆØ§ Ù„Ø¨Ø¹Ø¶ÙƒÙ… Ø§Ù„Ø¨Ø¹Ø¶"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"lesson-icon rtl\" src=\"/images/review.png\">"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "Ø§Ù„Ù…Ø±Ø§Ø¬Ø¹Ø©",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Ù…Ø§ Ø§Ù„Ø°ÙŠ Ù‚Ù…Øª Ø¨ØªÙ†ÙÙŠØ°Ù‡ Ù…Ù†Ø° Ù„Ù‚Ø§Ø¡Ù†Ø§ Ø§Ù„Ø£Ø®ÙŠØ±ØŸ",
+          "ÙƒÙŠÙ Ù‡Ù… Ø§Ù„Ø£Ø´Ø®Ø§Øµ Ø§Ù„Ø°ÙŠÙ† ØªÙ‡ØªÙ… Ù„Ø£Ù…Ø±Ù‡Ù…ØŸ ÙˆÙ…Ø§ Ø§Ù„Ø°ÙŠ Ù‚Ø¯ ÙŠØ³Ø§Ø¹Ø¯Ù‡Ù… Ø£ÙƒØ«Ø±ØŸ",
+          "Ù‡Ù„ ÙƒÙ†Øª Ù‚Ø§Ø¯Ø±Ø§Ù‹ Ø¹Ù„Ù‰ Ù…Ø´Ø§Ø±ÙƒØ© ØªØ¬Ø±Ø¨Ø© Ø§Ù„Ù„Ù‡ Ù…Ø¹ Ø£ÙŠ Ø´Ø®ØµØŸ ÙˆÙ‡Ù„ ØµÙ„ÙŠØª Ù…Ø¹Ù‡Ù…ØŸ",
+          "ØµÙ„Ù‘Ù Ù…Ù† Ø£Ø¬Ù„ Ù‡Ø¤Ù„Ø§Ø¡ Ø§Ù„Ù†Ø§Ø³"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"lesson-icon rtl\" src=\"/images/bible-study.png\">"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "\\"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "Ø§Ù‚Ø±Ø£",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Ø§Ù‚Ø±Ø£ Ù‡Ø°Ø§ Ø§Ù„Ù…Ù‚Ø·Ø¹ Ø¨ØµÙˆØªÙ Ø¹Ø§Ù„Ù Ù…Ø±Ù‘ØªÙŠÙ†.",
+          "Ø§Ø­ØµÙ„ Ø¹Ù„Ù‰ Ø´Ø®Øµ Ù„ÙŠØ¹ÙŠØ¯ Ø§Ù„Ù…Ù‚Ø·Ø¹ Ø¨ÙƒÙ„Ù…Ø§ØªÙ‡ Ø§Ù„Ø®Ø§ØµØ© ÙˆØ¨Ù…Ø³Ø§Ø¹Ø¯Ø© Ø§Ù„Ù…Ø¬Ù…ÙˆØ¹Ø©.",
+          "Ù‡Ù„ Ù‡Ù†Ø§Ùƒ Ø£ÙŠ Ø´ÙŠØ¡ ÙÙ‚Ø¯ Ø£Ùˆ Ø£Ø¶ÙŠÙØŸ"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"https://www.biblegateway.com/quicksearch/?quicksearch=Luke&amp;qs_version=ERV-AR\" target=\"a_blank\">Ø§Ø®ØªØ± Ù…Ù‚Ø·Ø¹Ø§Ù‹ Ù…Ù† Ø§Ù„ÙƒØªØ§Ø¨ Ø§Ù„Ù…Ù‚Ø¯Ø³. </a>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"lesson-icon rtl\" src=\"/images/bible-study.png\">"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "Ø§ÙƒØªØ´Ù",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Ù…Ø§ Ø§Ù„Ø°ÙŠ ÙŠØ¨Ø±Ø² Ù„Ùƒ ÙÙŠ Ù‡Ø°Ù‡ Ø§Ù„ÙÙ‚Ø±Ø©ØŸ",
+          "Ù…Ø§ Ø§Ù„Ø°ÙŠ ÙŠØ¹Ø¬Ø¨Ùƒ ÙˆÙ…Ø§ Ø§Ù„Ø°ÙŠ ÙŠØ²Ø¹Ø¬Ùƒ ÙÙŠ Ù‡Ø°Ø§ Ø§Ù„Ù…Ù‚Ø·Ø¹ØŸ",
+          "Ù…Ø§Ø°Ø§ ÙŠØ®Ø¨Ø±Ùƒ Ø¨Ù‡ Ù‡Ø°Ø§ Ø§Ù„Ù…Ù‚Ø·Ø¹ Ø¹Ù† Ø§Ù„Ù„Ù‡ ÙˆØ§Ù„Ù†Ø§Ø³ØŸ"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"lesson-icon rtl\" src=\"/images/challenges.png\">"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "ØªØ·Ø¨ÙŠÙ‚",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Ø§Ø³Ø£Ù„ Ø§Ù„Ù„Ù‡ Ù…Ø§ Ø§Ù„Ø°ÙŠ ÙŠØ±ÙŠØ¯Ùƒ Ø£Ù† ØªÙØ¹Ù„Ù‡ Ø±Ø¯ÙŽØ§ Ø¹Ù„Ù‰ Ù‡Ø°Ø§ Ø§Ù„Ù…Ù‚Ø·Ø¹. Ù‡Ù„ Ù‡Ù†Ø§Ùƒ: <ul><li class=\"rtl\">ØªØºÙŠÙŠØ± Ø³Ù„ÙˆÙƒÙ Ù…Ø§ØŸ</li><li class=\"rtl\">Ø§Ù„Ù…Ø·Ø§Ù„Ø¨Ø© Ø¨ÙˆØ¹Ø¯Ù Ù…Ø§ØŸ</li><li class=\"rtl\">Ù…Ø«Ø§Ù„ÙŒ Ù„ØªØ­ØªØ°ÙŠ Ø¨Ù‡ØŸ</li><li class=\"rtl\">Ø£Ù…Ø±ÙŒ Ù„ØªØ·ÙŠØ¹Ù‡ØŸ</li></ul>",
+          "Ø´Ø§Ø±Ùƒ Ù‡Ø°Ø§ Ù…Ø¹ Ø§Ù„Ù…Ø¬Ù…ÙˆØ¹Ø©"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-Xcommunity-i-will"
+      }
+    }
+  ],
+  "time": 1781066295735,
+  "version": "2.31.5"
+}

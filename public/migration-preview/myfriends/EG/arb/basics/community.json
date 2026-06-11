@@ -1,0 +1,156 @@
+{
+  "site": "myfriends",
+  "country": "EG",
+  "language": "arb",
+  "htmlLang": "ar",
+  "direction": "rtl",
+  "numberSystem": "arab",
+  "series": "basics",
+  "lessonId": "community",
+  "sortOrder": 12,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "شارك",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "كيف شهدت/اختبرت الله هذا الأسبوع؟",
+          "على ماذا أنت شاكر؟",
+          "في ماذا تريد أن يساعدك الله؟",
+          "كيف يمكننا مساعدتك في تلبية احتياجاتك؟",
+          "صلوا لبعضكم البعض"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "المراجعة",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ما الذي قمت بتنفيذه منذ لقاءنا الأخير؟",
+          "كيف هم الأشخاص الذين تهتم لأمرهم؟ وما الذي قد يساعدهم أكثر؟",
+          "هل كنت قادراً على مشاركة تجربة الله مع أي شخص؟ وهل صليت معهم؟",
+          "صلِّ من أجل هؤلاء الناس"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "اقرأ",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "اقرأ هذا المقطع بصوتٍ عالٍ مرّتين.",
+          "احصل على شخص ليعيد المقطع بكلماته الخاصة وبمساعدة المجموعة.",
+          "هل هناك أي شيء فقد أو أضيف؟"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a target=\"_blank\" href=\"https://www.biblegateway.com/quicksearch/?quicksearch=Luke&amp;qs_version=ERV-AR\">اختر مقطعاً من الكتاب المقدس. </a>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "اكتشف",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ما الذي يبرز لك في هذه الفقرة؟",
+          "ما الذي يعجبك وما الذي يزعجك في هذا المقطع؟",
+          "ماذا يخبرك به هذا المقطع عن الله والناس؟"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "تطبيق",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "اسأل الله ما الذي يريدك أن تفعله ردَا على هذا المقطع. هل هناك: <ul><li class=\"rtl\">تغيير سلوكٍ ما؟</li><li class=\"rtl\">المطالبة بوعدٍ ما؟</li><li class=\"rtl\">مثالٌ لتحتذي به؟</li><li class=\"rtl\">أمرٌ لتطيعه؟</li></ul>",
+          "شارك هذا مع المجموعة"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-community-i-will"
+      }
+    }
+  ]
+}

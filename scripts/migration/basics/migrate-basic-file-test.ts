@@ -11,32 +11,24 @@ import { exec } from 'node:child_process';
 import { transformBasics } from './transformBasics';
 
 const PROJECT_ROOT = process.cwd();
-
-const COUNTRY = 'CN';
-const LANGUAGE = 'cmn';
-const SERIES = 'basics';
+const SITE = 'myfriends' as const;
+const COUNTRY = 'CN' as const;
+const LANGUAGE = 'cmn' as const;
+const SERIES = 'basics' as const;
 
 const DEFAULT_FILE = 'basics101.html';
 
 const sourceFile = process.argv[2] || DEFAULT_FILE;
 
-const SOURCE_DIR = path.join(PROJECT_ROOT, 'data', 'raw', 'myfriends', COUNTRY, LANGUAGE, SERIES);
+const SOURCE_DIR = path.join(PROJECT_ROOT, 'data', 'raw', SITE, COUNTRY, LANGUAGE, SERIES);
 
-const PROCESSED_DIR = path.join(
-  PROJECT_ROOT,
-  'data',
-  'processed',
-  'myfriends',
-  COUNTRY,
-  LANGUAGE,
-  SERIES,
-);
+const PROCESSED_DIR = path.join(PROJECT_ROOT, 'data', 'processed', SITE, COUNTRY, LANGUAGE, SERIES);
 
 const PREVIEW_DIR = path.join(
   PROJECT_ROOT,
   'public',
   'migration-preview',
-  'myfriends',
+  SITE,
   COUNTRY,
   LANGUAGE,
   SERIES,
@@ -104,11 +96,17 @@ async function run(): Promise<void> {
 
   const html = await fs.readFile(sourcePath, 'utf8');
 
+  const lessonId = sourceFile.replace(/\.html$/i, '');
+  const sortOrder = 0;
+
   const json = transformBasics(html, {
+    site: SITE,
     country: COUNTRY,
     language: LANGUAGE,
     series: SERIES,
+    lessonId,
     sourceFile,
+    sortOrder,
   });
 
   const jsonText = JSON.stringify(json, null, 2);

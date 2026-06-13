@@ -1,0 +1,181 @@
+{
+  "site": "myfriends",
+  "country": "DE",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics103",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "AUSTAUSCHEN",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt?",
+          "Wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?",
+          "Betet für einander"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "RÜCKBLICK",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was hast du seit dem letzten Treffen vom Gelernten umgesetzt?",
+          "Wie geht es den Menschen, welche dir besonders am Herzen liegen? Was würde ihnen am meisten helfen?",
+          "Wem konntest du von einem Gotteserlebnis erzählen? Mit wem konntest du beten?",
+          "Betet für diese Leute"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LESEN",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Der Text wird zweimal laut vorgelesen",
+          "Jemand erzählt in eigenen Worten den Text nach, mit Unterstützung der Gruppe.",
+          "Würde etwas weggelassen oder ergänzt?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1 Mose 6, 5-22",
+        "html": "<div class=\"bible\"><p><sup>5</sup>Der <span class=\"small-caps\">Herr</span> sah, dass die Menschen voller Bosheit waren. Jede Stunde, jeden Tag ihres Lebens hatten sie nur eines im Sinn: Böses planen, Böses tun.<sup> 6 </sup>Der <span class=\"small-caps\">Herr</span> war tieftraurig darüber und wünschte, er hätte die Menschen nie erschaffen. </p><p><sup>7</sup>»Ich werde die Menschen, die ich gemacht habe, wieder vernichten!«, sagte er. »Ja, nicht nur die Menschen – auch die Tiere auf der Erde, von den größten bis zu den kleinsten, und ebenso die Vögel am Himmel. Es wäre besser gewesen, ich hätte sie erst gar nicht erschaffen.« </p><p><sup>8</sup>Nur Noah fand Gnade beim <span class=\"small-caps\"> Herr </span>n.<sup>9</sup>Dies ist seine Geschichte: Noah war ein rechtschaffener Mensch – ganz im Gegensatz zu seinen Zeitgenossen. Er ging seinen Weg mit Gott und hörte auf ihn. </p><p><sup>10</sup>Noah hatte drei Söhne: Sem, Ham und Jafet.<sup>11</sup>Die übrige Menschheit aber war vollkommen verdorben, die Erde erfüllt von Gewalt.<sup> 12 </sup>Wohin Gott auch sah: Überall herrschte Unrecht, denn die Menschen waren alle vom rechten Weg abgekommen. </p><p><sup>13</sup>Da sprach Gott zu Noah: »Ich habe beschlossen, alles Leben auf der Erde zu vernichten, denn wo man auch hinsieht, herrscht Grausamkeit. Darum werde ich alles auslöschen!<sup> 14‒16 </sup>Bau dir ein Schiff, die Arche! Mach es aus festem Holz und dichte es von innen und außen mit Pech ab! Drei Stockwerke soll es haben und jedes Stockwerk mehrere Räume. Es muss 150 Meter lang, 25 Meter breit und 15 Meter hoch sein. Setz ein Dach darauf, das einen halben Meter hoch ist, und bau an einer Schiffsseite eine Tür ein!<sup> 17 </sup>Denn mein Plan steht fest: Mit einer großen Flut werde ich die ganze Erde überschwemmen, so dass Mensch und Tier darin umkommen. Kein Lebewesen soll verschont bleiben.<sup> 18 </sup>Aber mit dir will ich einen Bund schließen: Geh mit deiner Frau, deinen Söhnen und Schwiegertöchtern in die Arche!<sup> 19 </sup>Nimm von allen Tieren jeweils zwei mit hinein, ein Männchen und ein Weibchen, damit keine Tierart ausstirbt.<sup> 20 </sup>Von jeder Art der Vögel, des Viehs und aller anderen Landtiere soll ein Paar mit ins Schiff kommen, damit sie alle erhalten bleiben.<sup> 21 </sup>Leg genug Vorräte an, dass es für euch und die Tiere ausreicht!« </p><p><sup>22</sup>Noah führte alles genau so aus, wie Gott es ihm aufgetragen hatte. </p><br><p><sup>1</sup>Dann sagte der <span class=\"small-caps\">Herr</span> zu Noah: »Geh nun mit deiner ganzen Familie in die Arche! Denn ich habe mir die Menschen angesehen: Du bist der Einzige, der noch vor mir bestehen kann!<sup>2</sup>Nimm von allen reinen Tieren je sieben Paare mit in das Schiff und von allen unreinen nur je ein Männchen und ein Weibchen!<sup> 3 </sup>Bring auch je sieben Paare von allen Vogelarten mit! So können die verschiedenen Tierarten nach der Flut weiterbestehen und sich wieder auf der ganzen Erde vermehren.<sup>4</sup>Noch eine Woche, dann werde ich es vierzig Tage und vierzig Nächte regnen lassen, damit alles Leben auf der Erde vernichtet wird, das ich geschaffen habe!« </p><p><sup>5</sup>Noah befolgte alles genau so, wie der <span class=\"small-caps\">Herr</span> es ihm befohlen hatte.<sup>6</sup>Er war 600 Jahre alt, als die Sintflut über die Erde hereinbrach. </p><p><sup>7</sup>Noah und seine Frau, seine Söhne und Schwiegertöchter gingen in die Arche, um sich vor den Wassermassen in Sicherheit zu bringen.<sup>8</sup>Sie nahmen die verschiedenen Tierarten mit – die reinen und unreinen –, von den Vögeln bis zu den Kriechtieren.<sup> 9 </sup>Paarweise kamen sie in das Schiff, jeweils ein Männchen und ein Weibchen, so wie Gott es angeordnet hatte.<sup> 10 </sup>Nach sieben Tagen brach die Flut herein. </p><p><sup>11</sup>Es war im 600. Lebensjahr von Noah, am 17. Tag des 2. Monats. Alle Quellen in der Tiefe brachen auf, und die Schleusen des Himmels öffneten sich.<sup> 12 </sup>Vierzig Tage und vierzig Nächte regnete es in Strömen.<sup> 13 </sup>Aber Noah und seine Frau, seine Söhne Sem, Ham und Jafet sowie die drei Schwiegertöchter waren genau an diesem Tag in das Schiff gegangen,<sup> 14 </sup>zusammen mit den verschiedenen Tierarten: dem Vieh, den wilden Tieren, Kriechtieren und Vögeln.<sup> 15/16 </sup>Sie waren paarweise gekommen, ein Männchen und ein Weibchen. Niemand fehlte, alle waren an Bord, genau wie Gott es Noah befohlen hatte, und der <span class=\"small-caps\">Herr</span> schloss hinter ihm zu. </p><p><sup>17</sup>Vierzig Tage lang fiel das Wasser vom Himmel. Die Flut stieg ständig an und hob das Schiff vom Boden ab.<sup>18</sup>Die Wassermassen nahmen immer mehr zu, bis das Schiff auf dem Wasser schwimmen konnte.<sup> 19 </sup>Bald waren sogar sämtliche Berge bedeckt,<sup> 20 </sup>das Wasser stand sieben Meter über ihren höchsten Gipfeln.<sup> 21/22 </sup>Alle Lebewesen auf dem Land ertranken: das Vieh, die wilden Tiere, Vögel, Kriechtiere und auch die Menschen.<sup> 23 </sup>Gott löschte das Leben auf der Erde völlig aus. Niemand konnte sich retten. Nur wer sich mit Noah an Bord der Arche befand, kam mit dem Leben davon. </p><p><sup>24</sup>Hundertfünfzig Tage lang blieb das Wasser auf seinem höchsten Stand. </p><br><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Genesis%207:1-24&version=HOF",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "ENTDECKEN",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen?",
+          "Was gefällt dir und was stört dich an diesem Text?",
+          "Was kannst du in diesem Text über Gott und über die Menschen lernen?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "ANWENDEN",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung des Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem es zu gehorchen gilt?</li></ul>",
+          "Teile deine Erkenntnis mit der Gruppe"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics103-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Notizen",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Die extremen Auswirkungen der Ereignisse im Garten Eden wurden erst langsam sichtbar. Im Verlauf der Generationen nahm das Böse immer mehr zu, sodass die Menschen in der zehnten Generationen nur noch Böses im Sinn hatten."
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "In der zweiten Generation der Menschen war Individualismus und damit auch Egoismus und Eifersucht – kurz die Sünde – schon so weit fortgeschritten, dass Kain seinen jüngeren Bruder ermordete. Als Strafe dafür, wurde er aus seiner Familie ausgestossen. in murdered his younger brother. He was expelled from his family as a punishment.",
+                  "Über die 10. Generation – der Generation von Noah – musste man sagen, dass jetzt die Bosheit der Menschen GROSS war. So gross, dass sie nur noch Böses im Sinn hatten (1. Mose 6:11-12). Deshalb hat Gott beschlos¬sen, auf sehr dramatische Weise in die Weltgeschichte einzugreifen um die Bosheit einzudämmen, indem er durch die Flut nur das Gute überleben liess und so ein Neuanfang geschah (1. Mose 6-7)."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "celebrate",
+  "sortOrder": 11,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Las decisiones importantes en nuestras vidas se celebran con las personas que nos importan. La decisión de seguir a Jesús se celebra en el bautismo."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Hablamos sobre el significado del bautismo en la <a id=\"Return1\" href=\"#\" onclick=\"goToPageAndSetReturn('../basics/basics110.html', '#Return1');\">Conversación 10: Nueva Vida</a>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "¿Por qué no organizas una fiesta de bautismo donde puedes invitar a tu familia, amigos y comunidad? Eso le dará al bautismo el significado que merece y brinda una buena oportunidad para que los amigos que no creen en Jesús lo conozcan."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a target=\"_blank\" href=\"https://api.arclight.org/videoPlayerUrl?refId=1_21028-jf6104-0-0&amp;apiSessionId=5820dc420e4bb0.85192489&amp;playerStyle=default&amp;player=bc.vanilla5\">Este video </a> muestra la forma en que Jesús fue bautizado."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Aquí hay algunas preguntas y notas que pueden ayudarlo a planear su fiesta de bautismo:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "¿A quién quieres invitar?",
+          "¿Cuándo sería un momento conveniente para que vengan estas personas?",
+          "¿Dónde se sentirían estas personas cómodas?",
+          "¿Dónde vas a encontrar el agua para el bautismo? El océano? Una fuente bautismal? ¿Un tazón?",
+          "¿A quién quieres bautizarte? ¿Qué tal uno de tus amigos que compartió tu camino de fe?",
+          "Antes de bautizarte, tal vez quieras decirle al grupo parte de tu viaje espiritual. Es posible que esté más relajado si escribe de antemano lo que quiere decir.",
+          "¿Desea que alguien más diga algo sobre la importancia del bautismo?",
+          "La Biblia dice que debemos bautizar a las personas \"en el nombre del Padre y del Hijo y del Espíritu Santo\".",
+          "Es posible que desee una toalla para secarse y una muda de ropa para después de su bautismo.",
+          "¿Quieres servir comida? ¿Qué tipo?",
+          "¿Cómo vas a saber qué pensaban tus amigos de tu bautismo? ¿Cuál de estos quiere saber más acerca de Jesús?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br>"
+      }
+    }
+  ]
+}

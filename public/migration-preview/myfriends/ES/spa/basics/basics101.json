@@ -1,0 +1,177 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics101",
+  "sortOrder": 0,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Compartir",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Cómo has experimentado a Dios esta semana?",
+          "¿De qué estas agradecido?",
+          "¿Para qué necesitas la ayuda de Dios?",
+          "¿Cómo podemos ayudarlo con sus necesidades?",
+          "Ora por los demás."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "REVISIÓN",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué has puesto en práctica desde nuestra última reunión?",
+          "¿Mo van las personas que estás cuidando? ¿Qué los ayudaría más?",
+          "¿Do compartir una experiencia de Dios con alguien? Oraste con ellos?",
+          "Ora por estas personas."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LEER",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lee el pasaje en voz alta dos veces.",
+          "Haga que una persona vuelva a contar el pasaje en sus propias palabras con la ayuda del grupo.",
+          "¿Hubo algo perdido o agregado?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Génesis 2:4-25",
+        "html": "<div class=\"bible\"><p><sup>4</sup>Estos son los orígenes de los cielos y de la tierra cuando fueron creados, el día que Jehová Dios hizo la tierra y los cielos, </p><p><sup>5</sup>y toda planta del campo antes que fuese en la tierra, y toda hierba del campo antes que naciese; porque Jehová Dios aún no había hecho llover sobre la tierra, ni había hombre para que labrase la tierra, </p><p><sup>6</sup>sino que subía de la tierra un vapor, el cual regaba toda la faz de la tierra. </p><p><sup>7</sup>Entonces Jehová Dios formó al hombre del polvo de la tierra, y sopló en su nariz aliento de vida, y fue el hombre un ser viviente. </p><p><sup>8</sup>Y Jehová Dios plantó un huerto en Edén, al oriente; y puso allí al hombre que había formado. </p><p><sup>9</sup>Y Jehová Dios hizo nacer de la tierra todo árbol delicioso a la vista, y bueno para comer; también el árbol de vida en medio del huerto, y el árbol de la ciencia del bien y del mal. </p><p><sup>10</sup>Y salía de Edén un río para regar el huerto, y de allí se repartía en cuatro brazos. </p><p><sup>11</sup>El nombre del uno era Pisón; éste es el que rodea toda la tierra de Havila, donde hay oro; </p><p><sup>12</sup>y el oro de aquella tierra es bueno; hay allí también bedelio y ónice. </p><p><sup>13</sup>El nombre del segundo río es Gihón; éste es el que rodea toda la tierra de Cus. </p><p><sup>14</sup>Y el nombre del tercer río es Hidekel; éste es el que va al oriente de Asiria. Y el cuarto río es el Eufrates. </p><p><sup>15</sup>Tomó, pues, Jehová Dios al hombre, y lo puso en el huerto de Edén, para que lo labrara y lo guardase. </p><p><sup>16</sup>Y mandó Jehová Dios al hombre, diciendo: De todo árbol del huerto podrás comer; </p><p><sup>17</sup>mas del árbol de la ciencia del bien y del mal no comerás; porque el día que de él comieres, ciertamente morirás. </p><p><sup>18</sup>Y dijo Jehová Dios: No es bueno que el hombre esté solo; le haré ayuda idónea para él. </p><p><sup>19</sup>Jehová Dios formó, pues, de la tierra toda bestia del campo, y toda ave de los cielos, y las trajo a Adán para que viese cómo las había de llamar; y todo lo que Adán llamó a los animales vivientes, ese es su nombre. </p><p><sup>20</sup>Y puso Adán nombre a toda bestia y ave de los cielos y a todo ganado del campo; mas para Adán no se halló ayuda idónea para él. </p><p><sup>21</sup>Entonces Jehová Dios hizo caer sueño profundo sobre Adán, y mientras éste dormía, tomó una de sus costillas, y cerró la carne en su lugar. </p><p><sup>22</sup>Y de la costilla que Jehová Dios tomó del hombre, hizo una mujer, y la trajo al hombre. </p><p><sup>23</sup>Dijo entonces Adán: Esto es ahora hueso de mis huesos y carne de mi carne; ésta será llamada Varona, porque del varón fue tomada. </p><p><sup>24</sup>Por tanto, dejará el hombre a su padre y a su madre, y se unirá a su mujer, y serán una sola carne. </p><p><sup>25</sup>Y estaban ambos desnudos, Adán y su mujer, y no se avergonzaban. </p><br><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Genesis%202:4-25&version=RVR1960",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "DESCUBRA",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué te destaca en este pasaje?",
+          "¿Qué te gusta y qué te molesta en este pasaje?",
+          "¿Qué te dice este pasaje acerca de Dios y la gente?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "APLICA",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Pregúntele a Dios qué quiere que haga en respuesta al pasaje. Esta ahí: <ul><li>¿Un comportamiento para cambiar?</li><li>¿Una promesa de reclamar?</li><li>¿Un ejemplo a seguir?</li><li>¿Una orden para obedecer?</li></ul>",
+          "Comparte esto con el grupo."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics101-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Notas",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Los cielos, la tierra, los humanos, los animales y las plantas no se crearon por casualidad. Fueron creados por Dios. Los humanos han tenido un papel importante desde el comienzo para mirar el uno al otro y al mundo en el que vivían. Todo fue un reflejo de la bondad de Dios. Hombres y mujeres tuvieron la libertad de disfrutar toda la creación. Incluso se les dio la opción de obedecer o desobedecer a Dios; para aceptar o rechazar su amor La confianza entre los dos era tan grande que no se avergonzaban de su desnudez y no necesitaban esconderse o protegerse detrás de ellos."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Sorprendentemente, a los humanos se les dio la opción de desobedecer a Dios al comer del árbol del conocimiento del bien y del mal. Pero Dios les advirtió que el castigo por hacerlo sería la muerte. La existencia de ese árbol nos muestra claramente que los humanos no están completamente a merced de la voluntad de Dios. Todo lo contrario. La humanidad tenía la libertad de elección. Se les dio la libertad de elección para aceptar o rechazar el amor de Dios."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

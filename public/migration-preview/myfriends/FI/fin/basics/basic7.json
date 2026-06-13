@@ -1,0 +1,224 @@
+{
+  "site": "myfriends",
+  "country": "FI",
+  "language": "fin",
+  "htmlLang": "fi",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basic7",
+  "sortOrder": 6,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Jaetaan elämää",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mistä olet kiitollinen?",
+          "Mikä sinua huolestuttaa?",
+          "Ketä auttaa käytännön tarpeissa?",
+          "Miten olet kokenut Jumalan elämässäsi viime aikoina?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan: kiitetään Jumalaa ja pyydetään Jumalalta apua. Rukoilkaa myös, että saisitte oppia tuntemaan uusia puolia Jumalasta ja että ystävyytenne Jumalan kanssa vahvistuisi ja syvenisi."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "Katsaus aiempaan",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mitä ajattelit, kun sait tietää että joku on antanut henkensä puolestasi?",
+          "Mitä olet laittanut käytäntöön viime kerran jälkeen?",
+          "Oletko saanut jakaa jollekin Jumalasta?",
+          "Kenen puolesta voimme rukoilla, että hekin oppisivat tuntemaan Jumalan?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan jokaisen mainitun puolesta erikseen ja kysytään miten osoittaa heille Jumalan rakkautta."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Katsokaa elokuva: The Passion of the Christ",
+        "level": 3
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Tämä Raamattuun pohjautuva elokuva on hyvin realistinen esitys Jeesuksen kärsimyksestä ja kuolemasta. Elokuva on mahdollista katsoa kolmesta näkökulmasta käsin."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Historiallinen elokuva: Tässä tapauksessa kaikki elokuvan tapahtumat muodostavat kertomuksen, joka tapahtui 2000 vuotta sitten ja jolla ei ole merkitystä meille nykypäivänä.",
+          "Ihmiskunnan pelastuminen: Jos katsot elokuvan tästä näkökulmasta käsin, Jeesus kuoli koko ihmiskunnan syntien puolesta, mutta se ei oikeastaan liity juuri minuun ihmisyksilönä, koska olen vain yksi miljardeista.",
+          "MINUN pelastukseni hinta: Jos näkökulmamme on se, että Jeesus kärsi juuri MINUN puolestani, ymmärrämme mitä todella tapahtui. On tärkeää tiedostaa yhä uudestaan ja uudestaan, että tämä elokuva kertoo MEISTÄ. Joku kärsi pahimman mahdollisen kidutuksen vapauttaakseen MINUT pahan vallasta ja antaakseen minulle vapauden valita Jumalan hyvä tahto elämässäni."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Pysäytä elokuva Raamatun lainaukseen (5‘‘)",
+        "level": 3
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mistä tämä lainaus tulee? (viimekertaisesta raamatunkohdasta)",
+          "Miksi tätä lainausta käytetään tässä?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Pysäytä elokuva kohtaan, jossa Jeesus murskaa käärmeen (8‘ 57‘‘)",
+        "level": 3
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Kuka on “henkilö“, jolle Jeesus puhuu?",
+          "Mitä tämä “henkilö“ sanoo?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Pysäytä elokuva kohtaan, jossa Jeesus on juuri tuomittu kuolemaan ristillä. (1h 11‘ 48‘‘)",
+        "level": 3
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mikä on maaherran (Pilatus) ja hänen vaimonsa suhtautuminen Jeesukseen?"
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mikä kiinnitti huomiosi?",
+          "Mitä elokuva kertoo Jumalasta ja ihmisestä?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "Haasteet",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<div>Mitä opit tarinasta?</div>",
+          "<div>Jos Raamatunkohta on totta, miten muutat elämäntapaasi? </div>",
+          "<div>Käytännön haasteena aion seuraavien päivien aikana.. </div>",
+          "<div>Kenelle jaat tästä tarinasta ja Jumalasta?</div>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basic7-i-will"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Tarkentavat kysymykset:",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Pohdi rauhassa, miten voisit sopivalla tavalla vastata Jeesukselle, joka kärsi ja kuoli puolestasi. Kirjoita ajatuksesi muistiin.",
+          "Mitä sinulle merkitsee se, että Jeesus kärsi puolestasi niin paljon?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan: kerro Jumalalle omin sanoin edellä mainituista asioista."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "ELOKUVA KOMMENTAARI:"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Katso Mel Gibsonin elokuva the Passion of the Christ. Tämä on surullinen kertomus Jeesuksen kärsimysten tiestä. Häntä kidutettiin ja hänet tapettiin, vaikka yksikään tuomari ei pystynyt toteamaan häntä syylliseksi. Kaikki tapahtui niin kuin Jumala oli ennalta ilmoittanut. Hän, joka oli syytön, otti meidän syyllisyytemme kannettavakseen, jotta me, jotka olimme syyllisiä, voisimme tulla syyttömiksi. Tämän kautta Jumala valmisti meille meidän syntiemme anteeksiannon. Nyt meillä on jälleen mahdollisuus valita hyvän Jumalan ja pahan käärmeen väliltä."
+      }
+    }
+  ]
+}

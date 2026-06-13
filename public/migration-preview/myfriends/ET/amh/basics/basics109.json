@@ -1,0 +1,171 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "amh",
+  "htmlLang": "am",
+  "direction": "ltr",
+  "numberSystem": "ethi",
+  "series": "basics",
+  "lessonId": "basics109",
+  "sortOrder": 8,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "አካፍል",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "በዚህ ሳምንት ከእግዚአብሔር ጋራ እንዴት ሳለፍክ/ሽ?",
+          "እንድታመሰግን ያደረገ ነገር ምንድር ነው?",
+          "እግዝአብሔር ምን እንዲረዳህ ትፈልግሃለህ?",
+          "በምያስፈልግህ ነገር ውሰጥ እንዴት ልንረዳህ እንችላለን;",
+          "ለእርስበርሳቸችሁ ፀልዩ"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "ክለሳ",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ከባለፈው ስብሰባችን ወዲህ ምን ምን ተለማምደሃል?",
+          "እያንከባከብካቸው ያሉተ ሰዎች እንዴት ናቸው? በጣም የሚጠቅማቸው ነገር ምነድር ነው?",
+          "የእግዝአብሔርን ለሌሎች ማካፍል ትችላለህ? ከነርሱ ጋር ፀልየሃል?",
+          "ለነዚያ ሰዎች ፀልይ"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "አንብብ",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ንባቡን ድምጽህን ከፍ አርግና ሁለት ግዜ አንብብ",
+          "በቡድኑ እርዳታ አንድ ሰው ንባቡን በቃሉ እንዲያነብ አርጉት",
+          "የተጨመረ አዲስ ነገር ወይም የጎደለ ነገር አለ?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "የማቴዎስ ወንጌል 7:24-29",
+        "html": "<div class=\"bible\"><p><sup>24 </sup><span class=\"myfriends-mrk\"> ስለዚህ ይህን ቃሌን ሰምቶ የሚያደርገው ሁሉ ቤቱን በዓለት ላይ የሠራ ልባም ሰውን ይመስላል። </span></p><p><sup>25 </sup>ዝናብም ወረደ ጎርፍም መጣ ነፋስም ነፈሰ ያንም ቤት ገፋው፥ በዓለት ላይም ስለ ተመሠረተ አልወደቀም። </p><p><sup>26 </sup>ይህንም ቃሌን ሰምቶ የማያደርገው ሰው ሁሉ ቤቱን በአሸዋ ላይ የሠራ ሰነፍ ሰውን ይመስላል። </p><p><sup>27 </sup>ዝናብም ወረደ ጎርፍም መጣ ነፋስም ነፈሰ ያንም ቤት መታው፥ ወደቀም፥ አወዳደቁም ታላቅ ሆነ። </p><p><sup>28 </sup>ኢየሱስም ይህን ነገር በጨረሰ ጊዜ ሕዝቡ በትምህርቱ ተገረሙ፤ እንደ ጻፎቻቸው ሳይሆን </p><p><sup>29 </sup>እንደ ባለ ሥልጣን ያስተምራቸው ነበርና።</p><p><br><br></p><p><sup>22 </sup><span class=\"myfriends-mrk\"> ቃሉን የምታደርጉ ሁኑ እንጂ ራሳችሁን እያሳታችሁ የምትሰሙ ብቻ አትሁኑ። </span></p><p><br><br></p></div>",
+        "url": "http://www.iyesus.com/amharic-bible/41/7/24/29",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "አጣራ",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ይህ ንባብ ላንተ ምን ጥቅም አለው?",
+          "ከዚህ ንባብ የወደድከው ነገር ወይ የረበሸ ነገር አለ?",
+          "የህ ንባብ ስለ ሰው እና ስለ እግዝአብሔር ምን ይነግርሃል?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "አተግብር",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "የህን ንባብ መሰረት በማድረግ ታደርግ ዘንድ እግዝአብሔር ካንተ የሚፈልገውን ነገር ጠይቅ፤ ምን ምን ናቸው? <ul><li>መቀየር ያለበት ፀባይ</li><li>መጠየቅ ያለበት ቃል ክዳን</li><li>መከተል የሚገባው ምሳሌ</li><li>መጠበቅ ያለበት ትዕዛዝ</li></ul>",
+          "ይህን ለቡድኑ አካፍል"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics109-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "ማስታወሻ",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "በማቴዎስ 7:24 ላይ ኢየሱስ መጽሓፍ ቅዱስ ስናነብ እንዴት መተግበር እንዳለብን መሰረታዊ አካሄድ በምሳሌ አስቀምጦልናል፡፡ያዕቆብም በመልዕክቱ እንዲ ሲል አጠቃለውታል፡ “ቃሉን የምታደርጉ ሁኑ እንጂ ራሳችሁን እያሳታችሁ የምትሰሙ ብቻ አትሁኑ፡፡” (ያዕቆብ 1፡22)"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

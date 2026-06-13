@@ -1,0 +1,201 @@
+{
+  "site": "myfriends",
+  "country": "FI",
+  "language": "fin",
+  "htmlLang": "fi",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basic8",
+  "sortOrder": 7,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Jaetaan elämää",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mistä olet kiitollinen?",
+          "Mikä sinua huolestuttaa?",
+          "Ketä auttaa käytännön tarpeissa?",
+          "Miten olet kokenut Jumalan elämässäsi viime aikoina?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan: kiitetään Jumalaa ja pyydetään Jumalalta apua. Rukoilkaa myös, että saisitte oppia tuntemaan uusia puolia Jumalasta ja että ystävyytenne Jumalan kanssa vahvistuisi ja syvenisi."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "Katsaus aiempaan",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mistä puhuimme viime kerralla?",
+          "Mitä olet laittanut käytäntöön viime kerran jälkeen?",
+          "Oletko saanut jakaa jollekin Jumalasta?",
+          "Kenen puolesta voimme rukoilla, että hekin oppisivat tuntemaan Jumalan?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan jokaisen mainitun puolesta ja kysytään miten osoittaa heille Jumalan rakkautta. Lisäksi pyydetään, että opimme tuntemaan uusia puolia Jumalasta ja että ystävyytemme Jumalan kanssa syvenee."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "Lue",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Vaikka Jeesuksen kärsimys, kuolema ja ylösnousemus mahdollistavat sen, että kaikkien ihmisten kaikki synnit kaikkina aikoina voivat olla anteeksiannetut, tämä ei tarkoita, että anteeksianto olisi automaattista. Jeesus loi mahdollisuuden anteeksiantoon, johon me voimme nyt tarttua."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Lue teksti hiljaa mielessäsi.",
+          "Lue teksti ääneen.",
+          "Kerro tekstin sisältö omin sanoin (ilman Raamattua).",
+          "Muu ryhmä täydentää/korjaa."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matteus 6:9-15",
+        "html": "<div class=\"bible\"></div>",
+        "url": "https://raamattu.fi/raamattu/KR92/MAT.6/Matteus-6",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mikä kiinnitti huomiosi?",
+          "Mitä teksti kertoo Jumalasta ja ihmisestä?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Tarkentavat kysymykset:",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mitkä kaksi asiaa meidän tulee tehdä saadaksemme syntimme anteeksi?",
+          "(1. Pyydä anteeksi Jumalalta, 2. Anna anteeksi toisille)"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Tekstin selitys:",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Luetussa raamatunkohdassa keskitytään anteeksiantamiseen. Tarkastellaanpa lähemmin tätä vanhaa, moniulotteista sanaa."
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Kun Jumala antaa meille anteeksi, se tarkoittaa, ettei Hän enää syytä meitä. Tämä on mahdollista, koska Jeesus kärsi ja kuoli meidän puolestamme. Hän kärsi meidän syntiemme seuraukset, jotka meidän olisi tullut kärsiä itse päästäksemme vapaiksi. Tämän takia Jumala ei enää syytä meitä vaikka olemmekin syyllisiä, vaan antaakin anteeksi. Vaikka varsinaisesti olemme syyllisiä, Jumala on julistanut meidät syyttömiksi. Tämä on lähtökohta Jumalan sovitustyölle. Mikä etuoikeus!",
+                  "Kun me annamme anteeksi meitä vastaan rikkoneille ihmisille, se ei tarkoita, että unohdamme, kiellämme tai kaunistelemme tapahtunutta. ”Anteeksiantaminen” tarkoittaa irti päästämistä. Saamme ojentaa koko asian Jumalalle, Hänen hoidettavakseen. Jumala ei ainoastaan hoida asiaa, vaan hoitaa sen parhaalla mahdollisella tavalla. Meidän ei tarvitse maksaa samalla mitalla takaisin, vaan saamme luottaa Jumalaan, joka sanoo ”Minun on tuomio, minä maksan tekojen mukaan” (Room. 12:19 / 5. Moos. 32:35). Miten Jumala tämän tekeekin, se meidän on jätettävä hänelle. Sillä Jumalan tiet ja ajatukset ovat meidän ajatuksiamme korkeammalla. (Jes. 55:9)",
+                  "Antamalla anteeksi jollekulle ja ojentamalla koko asian Jumalalle me ja suhteemme tuohon ihmiseen vapautuvat synnin taakasta. Enää meidän ei tarvitse kantaa kaunaa. Voimme sen sijaan elää vapaina taakoista ja elää yhteydessä tuohon ihmiseen, koska välillämme ei ole enää syyllisyyttä."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "Haasteet",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Tee lista kaikista elämäsi aikana tekemistäsi synneistä tietääksesi, mihin kaikkeen sinun tarvitsee pyytää Jumalan anteeksiantoa.",
+          "Tee lista asioista, joita toiset ihmiset ovat tehneet sinulle, jotta voit antaa anteeksi heille."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basic8-i-will"
+      }
+    }
+  ]
+}

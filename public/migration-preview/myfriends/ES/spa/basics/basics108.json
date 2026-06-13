@@ -1,0 +1,199 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics108",
+  "sortOrder": 7,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Compartir",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Cómo has experimentado a Dios esta semana?",
+          "¿De qué estas agradecido?",
+          "¿Para qué necesitas la ayuda de Dios?",
+          "¿Cómo podemos ayudarlo con sus necesidades?",
+          "Ora por los demás."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "REVISIÓN",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué has puesto en práctica desde nuestra última reunión?",
+          "¿Mo van las personas que estás cuidando? ¿Qué los ayudaría más?",
+          "¿Do compartir una experiencia de Dios con alguien? Oraste con ellos?",
+          "Ora por estas personas."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LEER",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lee el pasaje en voz alta dos veces.",
+          "Haga que una persona vuelva a contar el pasaje en sus propias palabras con la ayuda del grupo.",
+          "¿Hubo algo perdido o agregado?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Mateo 6:9-15",
+        "html": "<div class=\"bible\"><p><sup>9</sup>Vosotros, pues, oraréis así: Padre nuestro que estás en los cielos, santificado sea tu nombre. </p><p><sup>10</sup>Venga tu reino. Hágase tu voluntad, como en el cielo, así también en la tierra. </p><p><sup>11</sup>El pan nuestro de cada día, dánoslo hoy. </p><p><sup>12</sup>Y perdónanos nuestras deudas, como también nosotros perdonamos a nuestros deudores. </p><p><sup>13</sup>Y no nos metas en tentación, mas líbranos del mal; porque tuyo es el reino, y el poder, y la gloria, por todos los siglos. Amén. </p><p><sup>14</sup>Porque si perdonáis a los hombres sus ofensas, os perdonará también a vosotros vuestro Padre celestial; </p><p><sup>15</sup>mas si no perdonáis a los hombres sus ofensas, tampoco vuestro Padre os perdonará vuestras ofensas. </p><br><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%206:9-15&version=RVR1960",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "DESCUBRA",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué te destaca en este pasaje?",
+          "¿Qué te gusta y qué te molesta en este pasaje?",
+          "¿Qué te dice este pasaje acerca de Dios y la gente?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "APLICA",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Pregúntele a Dios qué quiere que haga en respuesta al pasaje. Esta ahí: <ul><li>¿Un comportamiento para cambiar?</li><li>¿Una promesa de reclamar?</li><li>¿Un ejemplo a seguir?</li><li>¿Una orden para obedecer?</li></ul>",
+          "Comparte esto con el grupo."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics108-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Notas",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "A pesar de que la muerte y la resurrección de Jesús pagaron los pecados de todas las personas a lo largo de toda la historia, eso no significa que los pecados sean perdonados automáticamente. Jesús creó la posibilidad de perdón que ahora podemos recibir."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Para que nuestros pecados sean perdonados, debemos hacer dos cosas:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "ordered",
+                "items": [
+                  "Pide perdón a Dios",
+                  "Perdonar a otras personas."
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Cuando Dios nos perdona, ya no cuentan nuestros pecados contra nosotros porque Jesús sufrió y murió por nosotros. Él tomó las consecuencias de nuestros pecados que deberíamos habernos sufrido a nosotros mismos para que podamos ser libres. Sobre la base deeste hecho, Dios ya no nos carga con culpa, aunque somos culpables, perdonándonos en su lugar. Aunque en realidad somos culpables, Dios nos declara justos. Eso forma la base para nuestra reconciliación con Dios. ¡Qué privilegio!"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Cuando perdonamos a las personas que han pecado contra nosotros, eso no significa que olvidemos, lo que sucedió. En este contexto, \"perdonar\" significa dejar ir. Podemos entregarle todo a Dionpara que Él lo trate. Cuando perdonamos a alguien y le entregamos todo el asunto a Dios, nosotros y nuestra relación con esa persona somos liberados de la carga de ese pecado. Ya no necesitamos guardar rencor. En cambio, podemos vivir sin cargas e interactuar con esa persona porque ya no hay culpa entre nosotros."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

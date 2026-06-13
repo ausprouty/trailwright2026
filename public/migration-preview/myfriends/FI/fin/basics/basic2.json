@@ -1,0 +1,204 @@
+{
+  "site": "myfriends",
+  "country": "FI",
+  "language": "fin",
+  "htmlLang": "fi",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basic2",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Jaetaan elämää",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mistä olet kiitollinen?",
+          "Mikä sinua huolestuttaa?",
+          "Ketä auttaa käytännön tarpeissa?",
+          "Miten olet kokenut Jumalan elämässäsi viime aikoina?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan: kiitetään Jumalaa ja pyydetään Jumalalta apua. Rukoilkaa myös, että saisitte oppia tuntemaan uusia puolia Jumalasta ja että ystävyytenne Jumalan kanssa vahvistuisi ja syvenisi."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "Katsaus aiempaan",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Millä tavalla opit ymmärtämään syvemmin luomiskertomusta?",
+          "Mitä olet laittanut käytäntöön viime kerran jälkeen?",
+          "Oletko saanut jakaa jollekin Jumalasta?",
+          "Kenen puolesta voimme rukoilla, että hekin oppisivat tuntemaan Jumalan"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan jokaisen mainitun puolesta ja kysytään miten voimme osoittaa heille Jumalan rakkautta. Pyydetään myös, että opimme tuntemaan uusia puolia Jumalasta ja että ystävyys Jumalan kanssa syvenee."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "Lue",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Lue teksti hiljaa mielessäsi.",
+          "Lue teksti ääneen.",
+          "Kerro tekstin sisältö omin sanoin (ilman Raamattua).",
+          "Muu ryhmä täydentää/korjaa."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1. Mooseksen kirja 3:1-24",
+        "html": "<div class=\"bible\"><p><sup>1.</sup> Käärme oli kavalin kaikista eläimistä, jotka Herra Jumala oli luonut. Se sanoi naiselle: »Onko Jumala todella sanonut: ’Te ette saa syödä mistään puutarhan puusta’?»</p><p><sup>2.</sup> Nainen vastasi käärmeelle: »Kyllä me saamme syödä puutarhan puiden hedelmiä.<sup> 3. </sup>Vain siitä puusta, joka on keskellä paratiisia, Jumala on sanonut: ’Älkää syökö sen hedelmiä, älkää edes koskeko niihin, ettette kuolisi.’»</p><p><sup>4.</sup> Silloin käärme sanoi naiselle: »Ei, ette te kuole. <sup>5</sup>. Mutta Jumala tietää, että niin pian kuin te syötte siitä, teidän silmänne avautuvat ja teistä tulee Jumalan kaltaisia, niin että tiedätte kaiken, sekä hyvän että pahan.»</p><p><sup>6</sup>. Nainen näki nyt, että puun hedelmät olivat hyviä syödä ja että se oli kaunis katsella ja houkutteleva, koska se antoi ymmärrystä. Hän otti siitä hedelmän ja söi ja antoi myös miehelleen, joka oli hänen kanssaan, ja mieskin söi. <sup>7.</sup> Silloin heidän silmänsä avautuivat, ja he huomasivat olevansa alasti. He sitoivat yhteen viikunanlehtiä ja kietoivat ne vyötärölleen.</p><p><sup>8.</sup> Kun iltapäivä viileni, he kuulivat Jumalan kävelevän puutarhassa. Silloin mies ja nainen menivät Jumalaa piiloon puutarhan puiden sekaan. <sup>9.</sup> Herra Jumala huusi miestä ja kysyi: »Missä sinä olet?»</p><p><sup>10. </sup>Mies vastasi: »Minä kuulin sinun askeleesi puutarhassa. Minua pelotti, koska olen alasti, ja siksi piilouduin.»</p><p><sup>11.</sup> Herra Jumala kysyi: »Kuka sinulle kertoi, että olet alasti? Oletko syönyt siitä puusta, josta minä kielsin sinua syömästä?»</p><p><sup>12. </sup>Mies vastasi: »Nainen, jonka sinä annoit minulle kumppaniksi, antoi minulle sen puun hedelmän, ja minä söin.»</p><p><sup>13.</sup> Silloin Herra Jumala sanoi naiselle: »Mitä oletkaan tehnyt!»</p><p>Nainen vastasi: »Käärme minut petti, ja minä söin.»</p><p><sup>14. </sup>Herra Jumala sanoi käärmeelle: – Koska tämän teit, olet kirottu. Toisin kuin muut eläimet, karja ja pedot, sinun on madeltava vatsallasi ja syötävä maan tomua niin kauan kuin elät. <sup>15.</sup> Ja minä panen vihan sinun ja naisen välille ja sinun sukusi ja hänen sukunsa välille: ihminen on iskevä sinun pääsi murskaksi, ja sinä olet iskevä häntä kantapäähän.</p><p><sup>16. </sup>Naiselle hän sanoi: – Minä teen suuriksi sinun raskautesi vaivat, ja kivulla sinä olet synnyttävä lapsesi. Kuitenkin tunnet halua mieheesi, ja hän pitää sinua vallassaan.</p><p><sup>17.</sup> Ja miehelle hän sanoi: – Koska teit niin kuin vaimosi sanoi ja söit puusta, josta minä kielsin sinua syömästä, niin olkoon maa sinun takiasi kirottu. Kovalla työllä sinun on hankittava siitä elantosi niin kauan kuin elät.<sup> 18. </sup>Maa kasvaa sinulle orjantappuraa ja ohdaketta, mutta sen kasveista joudut ottamaan ravintosi. <sup>19. </sup>Otsa hiessä sinun on hankittava leipäsi, kunnes tulet maaksi jälleen, sillä siitä sinut on otettu. Maan tomua sinä olet, maan tomuun sinä palaat. Karkotus paratiisista</p><p><sup>20. </sup>Mies antoi vaimolleen nimeksi Eeva, sillä hänestä tuli kaikkien ihmisten kantaäiti.</p><p><sup>21.</sup> Ja Herra Jumala teki Aadamille ja hänen vaimolleen nahasta vaatteet ja puki heidät niihin. <sup>22. </sup>Sitten Herra Jumala sanoi: »Ihminen on nyt kuin me: hän tietää sekä hyvän että pahan. Ettei hän nyt vain ota elämän puusta hedelmää ja syö ja niin elä ikuisesti!»<sup> 23.</sup> Niin Herra Jumala ajoi ihmisen pois Eedenin puutarhasta ja pani hänet viljelemään maata, josta hänet oli tehty.<sup> 24.</sup> Hän karkotti ihmisen ja asetti Eedenin puutarhan itäpuolelle kerubit ja salamoivan, leimuavan miekan vartioimaan elämän puulle vievää tietä.</p><br><a href=\"https://raamattu.fi/raamattu/KR92/GEN.3/1.-Mooseksen-kirja-3\">Lue lisää</a></div>",
+        "url": "https://biblegateway.com/passage/?search=Genesis%202:4-25&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mikä kiinnitti huomiosi?",
+          "Mitä teksti kertoo Jumalasta ja ihmisestä?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Tarkentavat kysymykset: (katso tekstin selitys)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Millainen Jumalan ja ihmisten välinen suhde oli, ennen kuin ihmiset söivät hyvän ja pahantiedon puusta?",
+          "Millainen miehen ja naisen välinen suhde oli?",
+          "Miten miehen ja naisen välinen suhde muuttui?",
+          "Miten ihmisten ja Jumalan välinen suhde muuttui?",
+          "Valehteliko Jumala sanoessaan, että jos ihmiset söisivät hyvän ja pahantiedon puusta, he kuolisivat?",
+          "Mistä Jumalan ihmisille tekemät vaatteet oli tehty? <ul></ul>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "Haasteet",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<div>Jos Raamatunkohta on totta, miten muutat elämäntapaasi?</div>",
+          "<div>Käytännön haasteena aion seuraavien päivien aikana.. </div>",
+          "<div>Kenelle jaat tästä Raamatunkohdasta ja Jumalasta?</div>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basic2-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan: kerro Jumalalle omin sanoin edellä mainituista asioista."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Milloin tapaamme seuraavan kerran?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Tekstin selitys:",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Ennen kuin syvennymme tämän luvun traagisiin tapahtumiin, tarkastelemme erästä tärkeää asiaa kertomuksessa. Aadam ja Eeva kuulivat Jumalan kävelevän puutarhassa. He tiesivät heti, että Jumala oli tulossa. Se, että Jumala käveli puutarhassa heidän kanssaan ja että he puhuivat keskenään, ei vaikuta poikkeavan siitä, mihin ihmiset olivat tottuneet. Ihmisten ja Jumalan välisen suhteen on täytynyt olla välitön ja lämmin. Kuinka dramaattisesti kaikki muuttuikaan, kun Aadamin ja Eevan täytyi yhtäkkiä valita käärmeen ja Jumalan välillä. Käärme kehotti Aadamia ja Eevaa syömään hyvän ja pahantiedon puusta. Mutta kun he olivat syöneet siitä, heillä oli vielä suurempi ongelma. He tiesivät, että Jumala tulisi heidän luokseen puutarhaan sinä iltana. Mitä heidän pitäisi tehdä? Mies päätti syyttää vaimoa ja vaimo päätti syyttää käärmettä. Tämä oli yksilökeskeisyyden ja itsekkyyden alku. He alkoivat nähdä itsensä yksilöinä miehen ja naisen muodostaman yksikön sijaan. He alkoivat ottaa etäisyyttä toisiinsa. Siksi he tekivät itselleen vaatteet lehdistä. Tämä vain heijastelee siitä, mitä oli jo tapahtunut heidän sydämissään. He pystyttivät raja-aidan välilleen suojautuakseen toisiltaan ja he molemmat piiloutuivat myös Jumalalta. Ihmiset olivat tunteneet vain hyvyyden ja eläneet läheisessä suhteessa Jumalaan ja toisiinsa. Syömällä kielletyn hedelmän he saivat kokea pahan ja sen seuraukset. Pian ihmiset ajettiin ulos puutarhasta ja siten pois Jumalan välittömästä läsnäolosta. Käärmeen neuvo ei ollut aivan väärä. Aadam ja Eeva eivät kuolleet heti, mutta heidät erotettiin Jumalasta, elämän lähteestä, ja siksi heistä tuli kuolevaisia. Surullista kyllä, tuosta hetkestä lähtien sekä ihmiset että koko luomakunta joutuivat kuoleman vaikutuspiiriin. Myös jotkut eläimet joutuivat kuolemaan, jotta ihmiset saisivat vaatteita. Tämän yhden ainoan teon takia, jonka ihminen teki Jumalaa vastaan, kaikki suhteet turmeltuivat: suhde Jumalaan turmeltui, ihmisten välinen suhde turmeltui ja ihmisten suhde luontoon ja eläimiin turmeltui."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

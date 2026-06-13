@@ -1,0 +1,195 @@
+{
+  "site": "myfriends",
+  "country": "DE",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics106",
+  "sortOrder": 5,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "AUSTAUSCHEN",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt?",
+          "Wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?",
+          "Betet für einander"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "RÜCKBLICK",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was hast du seit dem letzten Treffen vom Gelernten umgesetzt?",
+          "Wie geht es den Menschen, welche dir besonders am Herzen liegen? Was würde ihnen am meisten helfen?",
+          "Wem konntest du von einem Gotteserlebnis erzählen? Mit wem konntest du beten?",
+          "Betet für diese Leute"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LESEN",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Der Text wird zweimal laut vorgelesen",
+          "Jemand erzählt in eigenen Worten den Text nach, mit Unterstützung der Gruppe.",
+          "Würde etwas weggelassen oder ergänzt?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Jesaja 52, 13 - 53, 13",
+        "html": "<div class=\"bible\"><p><sup>13</sup>So spricht der Herr: »Mein Diener wird seine Aufgabe erfüllen. Er wird eine überragende Stellung erlangen und hoch geehrt sein.<sup>14</sup>Viele waren entsetzt, als sie ihn sahen. Denn in der Tat: Er war völlig entstellt und kaum mehr als Mensch zu erkennen.<sup> 15 </sup>Dann aber werden viele Völker über ihn staunen, sprachlos werden die Könige dastehen. Denn vor ihren Augen <span class=\"myfriends-container\">geschieht</span> etwas, wovon sie noch nie gehört haben, und sie begreifen plötzlich, was ihnen bisher unbekannt war!« </p><p><sup>1</sup>Doch wer glaubt schon unserer Botschaft? Wer erkennt, dass der <span class=\"small-caps\">Herr</span> es ist, der diese mächtigen Taten vollbringt?<sup> 2 </sup>Gott ließ seinen Diener emporwachsen wie einen jungen Trieb aus trockenem Boden. Er war weder stattlich noch schön. Nein, wir fanden ihn unansehnlich, er gefiel uns nicht!<sup> 3 </sup>Er wurde verachtet, von allen gemieden. Von Krankheit und Schmerzen war er gezeichnet. Man konnte seinen Anblick kaum ertragen. Wir wollten nichts von ihm wissen, ja, wir haben ihn sogar verachtet. </p><p><sup>4</sup>Dabei war es unsere Krankheit, die er auf sich nahm; er erlitt die Schmerzen, die wir hätten ertragen müssen. Wir aber dachten, diese Leiden seien Gottes gerechte Strafe für ihn. Wir glaubten, dass Gott ihn schlug und leiden ließ, weil er es verdient hatte.<sup>5</sup>Doch er wurde blutig geschlagen, weil wir Gott die Treue gebrochen hatten; wegen unserer Sünden wurde er durchbohrt. Er wurde für uns bestraft – und wir? Wir haben nun Frieden mit Gott! Durch seine Wunden sind wir geheilt.<sup> 6 </sup>Wir alle irrten umher wie Schafe, die sich verlaufen haben; jeder ging seinen eigenen Weg. Der <span class=\"small-caps\">Herr</span> aber lud alle unsere Schuld auf ihn. </p><p><sup>7</sup>Er wurde misshandelt, aber er duldete es ohne ein Wort. Er war stumm wie ein Lamm, das man zur Schlachtung führt. Und wie ein Schaf, das sich nicht wehrt, wenn es geschoren wird, hat er alles widerspruchslos ertragen. Man hörte von ihm keine Klage.<sup>8</sup>Er wurde verhaftet, zum Tode verurteilt und grausam hingerichtet. Niemand glaubte, dass er noch eine Zukunft haben würde. Man hat sein Leben auf dieser Erde ausgelöscht. Wegen der Sünden meines Volkes wurde er zu Tode gequält!<sup> 9 </sup>Man begrub ihn bei Gottlosen, im Grab eines reichen Mannes, obwohl er sein Leben lang kein Unrecht getan hatte. Nie kam ein betrügerisches Wort über seine Lippen. </p><p><sup>10</sup>Doch es war der Wille des <span class=\"small-caps\">Herrn</span>: Er musste leiden und blutig geschlagen werden. Wenn er mit seinem Leben für die Schuld der anderen bezahlt hat, wird er Nachkommen haben. Er wird weiterleben und den Plan des <span class=\"small-caps\">Herrn</span> ausführen.<sup>11</sup>Wenn er dieses schwere Leid durchgestanden hat, sieht er wieder das Licht und wird für sein Leiden belohnt. Der Herr sagt: </p><p> »Mein Diener kennt meinen Willen, er ist schuldlos und gerecht. Aber er lässt sich für die Sünden vieler bestrafen, um sie von ihrer Schuld zu befreien.<sup>12</sup>Deshalb gebe ich ihm die Ehre, die sonst nur mächtige Herrscher erhalten. Mit seinen starken Kämpfern wird er sich die Beute teilen. So wird er belohnt, weil er den Tod auf sich nahm und wie ein Verbrecher behandelt wurde. Er hat viele von ihren Sünden erlöst und für die Schuldigen gebetet.« </p><br><br><br><p><sup>29</sup>Am nächsten Tag kam Jesus zu Johannes. Als dieser ihn kommen sah, rief er: »Seht, hier ist das Opferlamm Gottes, das die Sünde der ganzen Welt wegnimmt!<sup> 30 </sup>Er ist es, von dem ich sagte: ›Nach mir kommt einer, der größer ist als ich, denn er war schon vor mir da.‹<sup> 31 </sup>Auch ich kannte ihn nicht. Aber weil Israel erkennen soll, wer er ist, bin ich gekommen und taufe mit Wasser.« </p><p><sup>32</sup>Weiter bezeugte Johannes: »Ich sah den Geist ´Gottes` wie eine Taube vom Himmel herabkommen und auf ihm bleiben.<sup>33</sup>Ich kannte ihn bis dahin nicht; aber der, der mich gesandt und mir den Auftrag gegeben hat, mit Wasser zu taufen, hatte zu mir gesagt: ›Der, auf den du den Geist herabkommen siehst und auf dem er bleiben wird, der ist es, der mit dem Heiligen Geist tauft.‹<sup>34</sup>Das habe ich nun mit eigenen Augen gesehen, und darum bezeuge ich, dass dieser Mann der Sohn Gottes ist.« </p><br><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Isaiah%2053:1-12&version=HOF",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "ENTDECKEN",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen?",
+          "Was gefällt dir und was stört dich an diesem Text?",
+          "Was kannst du in diesem Text über Gott und über die Menschen lernen?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "ANWENDEN",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung des Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem es zu gehorchen gilt?</li></ul>",
+          "Teile deine Erkenntnis mit der Gruppe"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics106-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Notizen",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "In der letzten Lektion haben wir über Gottes Ankündigung der neuen Zeit gelesen. Heute geht es um den konkreten Plan, wie dies geschehen soll. Gott wird «seinen Knecht» senden. Das heisst ein Mann, der exakt so leben wird, wie Gott es will. Dieser wird in seinem Leben kein Unrecht tun und keine Sünde begehen, aber trotzdem wie ein Verbrecher sterben. Denn die Aufgabe dieses Gottesknechtes wird sein, die Krankheit, die Schmerzen und die Sünde der gesamten Menschheit auf sich zu nehmen. Und das wird kein schöner Anblick sein - im Gegenteil."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Die Menschen um ihn herum werden ihn verachten und sich von ihm abwen¬den. Sie werden denken, dass dieser Mensch ein Verbrecher ist, der von Gott für seine furchtbaren Taten bestraft wird. Tatsächlich wird er aber nicht für das bestraft, was er selbst getan hat, sondern für das, was all die vom Bösen geprägten Menschen getan haben. Dieser Knecht Gottes übernimmt die Verantwortung für unser Fehlverhalten. Er wird stellvertretend für uns sündige Menschen hingerichtet, damit wir wieder Frieden haben können; Frieden mit Gott und Frieden mit den Mitmenschen."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<br><br>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<br><br>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Johannes (der Täufer) war ein Prophet, der von Gott gesandt wurde, um Israel auf das Kommen des Gottesknechtes (siehe Jes. Kapitel 52 und 53) vor¬zubereiten. In diesem Abschnitt identifiziert er Jesus als das Lamm Gottes, welches die Sünde der ganzen Welt auf sich nimmt. Mit anderen Worten sagt Johannes, dass Jesus der langersehnte Erlöser ist, welcher die Menschen aus der Macht des Bösen befreit. Dafür nimmt er die Schuld der Menschen auf sich und erhält die Bestrafung, welche wir verdient hätten."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

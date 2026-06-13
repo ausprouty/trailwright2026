@@ -1,0 +1,171 @@
+{
+  "site": "myfriends",
+  "country": "FR",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics104",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "PARTAGER",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Comment as-tu expérimenté Dieu cette semaine?",
+          "De quoi es-tu reconnaissant?",
+          "Pour quoi as-tu besoin de l'aide de Dieu?",
+          "Comment pouvons-nous vous aider avec vos besoins?",
+          "Priez l'un pour l'autre"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "LA REVUE",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qu'avez-vous mis en pratique depuis notre dernière rencontre?",
+          "Comment vont les gens que tu prends? Qu'est-ce qui les aiderait le plus?",
+          "Avez-vous pu partager une expérience de Dieu avec quelqu'un? Avez-vous prié avec eux?",
+          "Priez pour ces personnes"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LIS",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lisez le passage à haute voix deux fois.",
+          "Demandez à une personne de raconter le passage dans ses propres mots avec l'aide du groupe.",
+          "Y at-il quelque chose manqué ou ajouté?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Deutéronome 5:6-22",
+        "html": "<div class=\"bible\"><p><sup>6</sup>Je suis l'Éternel, ton Dieu, qui t'ai fait sortir du pays d'Égypte, de la maison de servitude. </p><p><sup>7</sup>Tu n'auras point d'autres dieux devant ma face. </p><p><sup>8</sup>Tu ne te feras point d'image taillée, de représentation quelconque des choses qui sont en haut dans les cieux, qui sont en bas sur la terre, et qui sont dans les eaux plus bas que la terre. </p><p><sup>9</sup>Tu ne te prosterneras point devant elles, et tu ne les serviras point; car moi, l'Éternel, ton Dieu, je suis un Dieu jaloux, qui punis l'iniquité des pères sur les enfants jusqu'à la troisième et à la quatrième génération de ceux qui me haïssent, </p><p><sup>10</sup>et qui fais miséricorde jusqu'en mille générations à ceux qui m'aiment et qui gardent mes commandements. </p><p><sup>11</sup>Tu ne prendras point le nom de l'Éternel, ton Dieu, en vain; car l'Éternel ne laissera point impuni celui qui prendra son nom en vain. </p><p><sup>12</sup>Observe le jour du repos, pour le sanctifier, comme l'Éternel, ton Dieu, te l'a ordonné. </p><p><sup>13</sup>Tu travailleras six jours, et tu feras tout ton ouvrage. </p><p><sup>14</sup>Mais le septième jour est le jour du repos de l'Éternel, ton Dieu: tu ne feras aucun ouvrage, ni toi, ni ton fils, ni ta fille, ni ton serviteur, ni ta servante, ni ton boeuf, ni ton âne, ni aucune de tes bêtes, ni l'étranger qui est dans tes portes, afin que ton serviteur et ta servante se reposent comme toi. </p><p><sup>15</sup>Tu te souviendras que tu as été esclave au pays d'Égypte, et que l'Éternel, ton Dieu, t'en a fait sortir à main forte et à bras étendu: c'est pourquoi l'Éternel, ton Dieu, t'a ordonné d'observer le jour du repos. </p><p><sup>16</sup>Honore ton père et ta mère, comme l'Éternel, ton Dieu, te l'a ordonné, afin que tes jours se prolongent et que tu sois heureux dans le pays que l'Éternel, ton Dieu, te donne. </p><p><sup>17</sup>Tu ne tueras point.</p><p><sup>18</sup>Tu ne commettras point d'adultère. </p><p><sup>19</sup>Tu ne déroberas point.</p><p><sup>20</sup>Tu ne porteras point de faux témoignage contre ton prochain. </p><p><sup>21</sup>Tu ne convoiteras point la femme de ton prochain; tu ne désireras point la maison de ton prochain, ni son champ, ni son serviteur, ni sa servante, ni son boeuf, ni son âne, ni aucune chose qui appartienne à ton prochain. </p><p><sup>22</sup>Telles sont les paroles que prononça l'Éternel à haute voix sur la montagne, du milieu du feu, des nuées et de l'obscurité, et qu'il adressa à toute votre assemblée, sans rien ajouter. Il les écrivit sur deux tables de pierre, qu'il me donna. </p><p><br><br></p></div>",
+        "url": "https://biblegateway.com/passage/?search=Deuteronomy%205:6-22&version=LSG",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "DÉCOUVRIR",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qu'est- ce qui se distingue pour vous dans ce passage?",
+          "Qu'est-ce que tu aimes et qu'est-ce qui te dérange dans ce passage?",
+          "Qu'est-ce que ce passage vous dit sur Dieu et les gens?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "APPLIQUER",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Demandez à Dieu ce qu'il veut que vous fassiez en réponse au passage. Y a-t-il: <ul><li>Un comportement à changer?</li><li>Une promesse de réclamer?</li><li>Un exemple à suivre?</li><li>Une commande pour obéir?</li></ul>",
+          "Partagez cela avec le groupe"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics104-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Remarques",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Contexte de Deutéronome 5: 6-22 Pour empêcher que le mal ne se propage de façon incontrôlable, comme ce fut le cas avant le déluge, Dieu a fixé des limites pour contenir l'individualisme et l'égoïsme. Les règles les plus importantes sont appelées les \"Dix Commandements\". Ces règles nous aident à faire la distinction entre un comportement acceptable et un comportement inacceptable. Ils sont la base pour punir les erreurs afin d'empêcher le mal de se répandre sans encombre et d'infecter toute la race humaine. Ils révèlent notre propre brisement dans la relation avec Dieu (Premier cinq) et l'autre (deuxième cinq)."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

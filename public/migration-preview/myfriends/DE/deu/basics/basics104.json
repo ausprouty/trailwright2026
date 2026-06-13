@@ -1,0 +1,171 @@
+{
+  "site": "myfriends",
+  "country": "DE",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics104",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "AUSTAUSCHEN",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt?",
+          "Wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?",
+          "Betet für einander"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "RÜCKBLICK",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was hast du seit dem letzten Treffen vom Gelernten umgesetzt?",
+          "Wie geht es den Menschen, welche dir besonders am Herzen liegen? Was würde ihnen am meisten helfen?",
+          "Wem konntest du von einem Gotteserlebnis erzählen? Mit wem konntest du beten?",
+          "Betet für diese Leute"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LESEN",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Der Text wird zweimal laut vorgelesen",
+          "Jemand erzählt in eigenen Worten den Text nach, mit Unterstützung der Gruppe.",
+          "Würde etwas weggelassen oder ergänzt?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "5 Mose 5, 6-22",
+        "html": "<div class=\"bible\"><p><sup>6</sup>»Ich bin der <span class=\"small-caps\">Herr</span>, dein Gott; ich habe dich aus der Sklaverei in Ägypten befreit.<sup> 7 </sup>Du sollst außer mir keine anderen Götter verehren!<sup> 8 </sup>Fertige dir keine Götzenstatue an, auch kein Abbild von irgendetwas am Himmel, auf der Erde oder im Meer.<sup> 9 </sup>Wirf dich nicht vor solchen Götterfiguren nieder, bring ihnen keine Opfer dar! Denn ich bin der <span class=\"small-caps\">Herr</span>, dein Gott. Ich dulde keinen neben mir! Wer mich verachtet, den werde ich bestrafen. Sogar seine Kinder, Enkel und Urenkel werden die Folgen spüren!<sup> 10 </sup>Doch denen, die mich lieben und sich an meine Gebote halten, bin ich gnädig. Sie und ihre Nachkommen werden meine Liebe über Tausende von Generationen erfahren. </p><p><sup>11</sup>Du sollst meinen Namen nicht missbrauchen, denn ich bin der <span class=\"small-caps\">Herr</span>, dein Gott! Ich lasse keinen ungestraft, der das tut! </p><p><sup>12</sup>Achte den Sabbat als einen Tag, der mir allein geweiht ist! So habe ich es dir befohlen.<sup> 13 </sup>Sechs Tage sollst du deine Arbeit verrichten,<sup> 14 </sup>aber der siebte Tag ist ein Ruhetag, der mir, dem <span class=\"small-caps\">Herr</span>n, deinem Gott, gehört. An diesem Tag sollst du nicht arbeiten, weder du noch deine Kinder, weder dein Knecht noch deine Magd, weder dein Rind noch dein Esel noch ein anderes deiner Tiere, auch nicht der Fremde, der bei dir lebt. Dein Knecht und deine Magd sollen genauso ausruhen wie du.<sup> 15 </sup>Vergiss nicht, dass auch du einmal Sklave in Ägypten warst und dass ich, der <span class=\"small-caps\">Herr</span>, dein Gott, dich von dort mit starker Hand und großer Macht befreit habe. Deshalb habe ich dir befohlen, den Sabbat als einen Tag zu achten, der mir gehört. </p><p><sup>16</sup>Ehre deinen Vater und deine Mutter! Das befehle ich, der <span class=\"small-caps\">Herr</span>, dein Gott. Dann wird es dir gut gehen, und du wirst lange in dem Land leben, das ich dir gebe. </p><p><sup>17</sup>Du sollst nicht töten! </p><p><sup>18</sup>Du sollst nicht die Ehe brechen! </p><p><sup>19</sup>Du sollst nicht stehlen! </p><p><sup>20</sup>Sag nichts Unwahres über deinen Mitmenschen! </p><p><sup>21</sup>Du sollst nicht die Frau eines anderen Mannes begehren! </p><p> Begehre auch nichts von dem, was deinem Mitmenschen gehört: weder sein Haus noch sein Feld, seinen Knecht oder seine Magd, Rinder, Esel oder irgendetwas anderes, was ihm gehört.« </p><p><sup>22</sup>Diese Worte sprach der <span class=\"small-caps\">Herr</span> am Berg Horeb zu euch, und er fügte nichts mehr hinzu. Euer ganzes Volk hat dort seine gewaltige Stimme aus dem Feuer und aus der dunklen Wolke gehört. Anschließend schrieb er die Gebote auf zwei Steintafeln und gab sie mir. </p><br><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Deuteronomy%205:6-22&version=HOF",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "ENTDECKEN",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen?",
+          "Was gefällt dir und was stört dich an diesem Text?",
+          "Was kannst du in diesem Text über Gott und über die Menschen lernen?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "ANWENDEN",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung des Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem es zu gehorchen gilt?</li></ul>",
+          "Teile deine Erkenntnis mit der Gruppe"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics104-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Notizen",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Damit sich das Böse nicht wieder so ungehindert ausbreiten konnte, wie das vor der Flut der Fall war, hat Gott dem Individualismus und dem Egoismus durch ein paar Regeln Grenzen gesetzt. Die wichtigsten Regeln werden unter dem Begriff «10 Gebote» zusammengefasst. Derjenige Regeln helfen zu unterscheiden, welches Verhalten ok ist und was nicht. Sie bieten die Grundlage Fehler zu bestrafen, so dass sich das Böse nicht mehr ungehindert ausbreiten und die ganze Menschheit verseuchen kann. Sie zeigen unsere Fehlerhaftigkeit auf in der Beziehung zu Gott (Gebot 1-5) und in den Beziehungen untereinander (Gebot 6-10)."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "site": "myfriends",
+  "country": "FR",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "celebrate",
+  "sortOrder": 11,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Les décisions importantes dans nos vies sont célébrées avec les personnes qui comptent pour nous. La décision de suivre Jésus est célébrée dans le baptême."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Nous avons parlé de la signification du baptême dans <a id=\"Return1\" href=\"#\" onclick=\"goToPageAndSetReturn('../basics/basics110.html', '#Return1');\">Conversation 10: Nouvelle vie</a>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Pourquoi ne pas organiser une fête de baptême où vous pouvez inviter votre famille, vos amis et votre communauté? Cela donnera au baptême l'importance qu'il mérite et offrira une bonne occasion aux amis qui ne croient pas en Jésus de le rencontrer."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a target=\"_blank\" href=\"https://www.jesusfilm.org/watch/jesus.html/baptism-of-jesus-by-john/french.html\">Ce clip vidéo</a> montre la façon dont Jésus a été baptisé."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Voici quelques questions et notes qui pourraient vous aider à planifier votre fête de baptême:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Qui voulez-vous inviter?",
+          "Quand est-ce que le moment serait opportun pour ces personnes?",
+          "Où ces personnes se sentiraient-elles à l'aise?",
+          "Où trouverez-vous l'eau pour le baptême? Une piscine? L'océan? Une source baptismale? Un bol?",
+          "Qui veux-tu te baptiser? Que diriez-vous d'un de vos amis qui a partagé votre voyage de foi?",
+          "Avant de vous faire baptiser, vous pourriez raconter une partie du voyage spirituel au groupe. Vous pourriez être plus détendu si vous écrivez ce que vous voulez dire à l'avance.",
+          "Voulez-vous que quelqu'un d'autre dise quelque chose sur la signification du baptême?",
+          "La Bible dit que nous devrions baptiser les gens «au nom du Père et du Fils et du Saint-Esprit».",
+          "Vous voudrez peut-être sécher une serviette et changer vos vêtements après votre baptême.",
+          "Voulez-vous servir de la nourriture? Quel genre?",
+          "Comment allez-vous savoir ce que vos amis pensaient de votre baptême? Lesquels veulent en savoir plus sur Jésus?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br><br><br>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br>"
+      }
+    }
+  ]
+}

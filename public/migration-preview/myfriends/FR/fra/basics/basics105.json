@@ -1,0 +1,188 @@
+{
+  "site": "myfriends",
+  "country": "FR",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics105",
+  "sortOrder": 4,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "PARTAGER",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Comment as-tu expérimenté Dieu cette semaine?",
+          "De quoi es-tu reconnaissant?",
+          "Pour quoi as-tu besoin de l'aide de Dieu?",
+          "Comment pouvons-nous vous aider avec vos besoins?",
+          "Priez l'un pour l'autre"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "LA REVUE",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qu'avez-vous mis en pratique depuis notre dernière rencontre?",
+          "Comment vont les gens que tu prends? Qu'est-ce qui les aiderait le plus?",
+          "Avez-vous pu partager une expérience de Dieu avec quelqu'un? Avez-vous prié avec eux?",
+          "Priez pour ces personnes"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LIS",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lisez le passage à haute voix deux fois.",
+          "Demandez à une personne de raconter le passage dans ses propres mots avec l'aide du groupe.",
+          "Y at-il quelque chose manqué ou ajouté?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Jérémie 31:31-34",
+        "html": "<div class=\"bible\"><p><sup>31</sup>Voici, les jours viennent, dit l'Éternel, Où je ferai avec la maison d'Israël et la maison de Juda Une alliance nouvelle, </p><p><sup>32</sup>Non comme l'alliance que je traitai avec leurs pères, Le jour où je les saisis par la main Pour les faire sortir du pays d'Égypte, Alliance qu'ils ont violée, Quoique je fusse leur maître, dit l'Éternel. </p><p><sup>33</sup>Mais voici l'alliance que je ferai avec la maison d'Israël, Après ces jours-là, dit l'Éternel: Je mettrai ma loi au dedans d'eux, Je l'écrirai dans leur coeur; Et je serai leur Dieu, Et ils seront mon peuple. </p><p><sup>34</sup>Celui-ci n'enseignera plus son prochain, Ni celui-là son frère, en disant: Connaissez l'Éternel! Car tous me connaîtront, Depuis le plus petit jusqu'au plus grand, dit l'Éternel; Car je pardonnerai leur iniquité, Et je ne me souviendrai plus de leur péché. </p><p><br><br></p><p><sup>1</sup>Non, la main de l'Éternel n'est pas trop courte pour sauver, Ni son oreille trop dure pour entendre. </p><p><sup>2</sup>Mais ce sont vos crimes qui mettent une séparation Entre vous et votre Dieu; Ce sont vos péchés qui vous cachent sa face Et l'empêchent de vous écouter. </p><p><br><br></p></div>",
+        "url": "https://biblegateway.com/passage/?search=Jeremiah%2031:31-34&version=LSG",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "DÉCOUVRIR",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qu'est- ce qui se distingue pour vous dans ce passage?",
+          "Qu'est-ce que tu aimes et qu'est-ce qui te dérange dans ce passage?",
+          "Qu'est-ce que ce passage vous dit sur Dieu et les gens?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "APPLIQUER",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Demandez à Dieu ce qu'il veut que vous fassiez en réponse au passage. Y a-t-il: <ul><li>Un comportement à changer?</li><li>Une promesse de réclamer?</li><li>Un exemple à suivre?</li><li>Une commande pour obéir?</li></ul>",
+          "Partagez cela avec le groupe"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics105-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Remarques",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Soyons honnêtes. Êtes-vous capable de garder les Dix Commandements ou êtes-vous conscient de les briser de manière persistante? Ces règles peuvent être capables de combattre le mal, mais elles ne peuvent pas complètement l'éradiquer. Il reste un fait que nous, les humains, ne sommes pas libres du mal et que nous ne sommes pas capables de nous changer nous-mêmes."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "C'est pourquoi Dieu a parlé d'un temps où il y aura une nouvelle façon de vivre. Mais certaines choses doivent changer pour que cela se produise:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "ordered",
+                "items": [
+                  "Quand nous, humains, avons décidé contre Dieu et avons choisi de suivre le serpent, nous avons dû quitter le jardin et donc la relation étroite avec Dieu. Nous avons péché contre Dieu et nous ne pouvons pas l'inverser. Mais parce que Dieu nous aime tellement, Il a annoncé qu'il pardonnerait nos péchés. C'est l'exigence la plus importante pour avoir le genre de relation que les premiers humains ont eu avec Dieu.",
+                  "Dieu a besoin de changer notre cœur afin que nous ne soyons plus sous l'influence du mal et que nous puissions choisir librement entre Dieu et le serpent (le mal). Si nous choisissons Dieu et donc ce qui est bon, les règles de Dieu s'appliqueront à nouveau à nous, mais si nous choisissons d'écouter le serpent, nous tomberons de nouveau sous l'influence du mal. Mais pour que nous puissions prendre une telle décision, nous devons d'abord connaître Dieu (apprendre à le connaître). Alors Dieu a parlé d'un temps où tout le monde pourra le connaître personnellement. Lorsque nous sommes en mesure d'avoir une telle relation avec Dieu, nous n'avons plus besoin de suivre les règles d'un livre, au lieu de cela, Dieu écrira ses règles directement dans nos coeurs afin qu'il devienne une partie de nous.",
+                  "Ensuite, nous appartiendrons à son peuple et il sera notre Dieu et beaucoup de choses deviendront ce que Dieu voulait qu'ils soient en premier lieu."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

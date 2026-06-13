@@ -1,8 +1,8 @@
 {
   "site": "myfriends",
-  "country": "DE",
-  "language": "deu",
-  "htmlLang": "de",
+  "country": "FR",
+  "language": "fra",
+  "htmlLang": "fr",
   "direction": "ltr",
   "numberSystem": "latn",
   "series": "basics",
@@ -12,14 +12,14 @@
     {
       "type": "paragraph",
       "data": {
-        "text": "Gestalte deinen eigenen Weg. Glaube lebt sich besser in Gemeinschaft. Hier findest du einen Ablauf, den du mit jeden Bibeltext anwenden kannst, sobald du den Prozess 1 abgeschlossen hast."
+        "text": "Concevez votre propre voyage. La foi est destinée à être vécue en communauté. Voici un aperçu que vous pouvez suivre avec n'importe quel passage biblique une fois que vous avez terminé Journey One."
       }
     },
     {
       "type": "sectionMarker",
       "data": {
         "theme": "sharing-life",
-        "title": "AUSTAUSCHEN",
+        "title": "PARTAGER",
         "icon": "sharing-life"
       }
     },
@@ -28,11 +28,11 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?",
-          "Betet für einander"
+          "Comment as-tu expérimenté Dieu cette semaine?",
+          "De quoi es-tu reconnaissant?",
+          "Pour quoi as-tu besoin de l'aide de Dieu?",
+          "Comment pouvons-nous vous aider avec vos besoins?",
+          "Priez l'un pour l'autre"
         ]
       }
     },
@@ -47,7 +47,7 @@
       "type": "sectionMarker",
       "data": {
         "theme": "review",
-        "title": "RÜCKBLICK",
+        "title": "LA REVUE",
         "icon": "review"
       }
     },
@@ -56,10 +56,10 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Was hast du seit dem letzten Treffen vom Gelernten umgesetzt?",
-          "Wie geht es den Menschen, welche dir besonders am Herzen liegen? Was würde ihnen am meisten helfen?",
-          "Wem konntest du von einem Gotteserlebnis erzählen? Mit wem konntest du beten?",
-          "Betet für diese Leute"
+          "Qu'avez-vous mis en pratique depuis notre dernière rencontre?",
+          "Comment vont les gens que tu prends? Qu'est-ce qui les aiderait le plus?",
+          "Avez-vous pu partager une expérience de Dieu avec quelqu'un? Avez-vous prié avec eux?",
+          "Priez pour ces personnes"
         ]
       }
     },
@@ -74,14 +74,8 @@
       "type": "sectionMarker",
       "data": {
         "theme": "bible-study",
-        "title": "LESEN",
+        "title": "LIS",
         "icon": "bible-study"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "\\"
       }
     },
     {
@@ -89,16 +83,19 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Der Text wird zweimal laut vorgelesen",
-          "Jemand erzählt in eigenen Worten den Text nach, mit Unterstützung der Gruppe.",
-          "Würde etwas weggelassen oder ergänzt?"
+          "Lisez le passage à haute voix deux fois.",
+          "Demandez à une personne de raconter le passage dans ses propres mots avec l'aide du groupe.",
+          "Y at-il quelque chose manqué ou ajouté?"
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "biblePassage",
       "data": {
-        "text": "<strong><a target=\"_blank\" href=\"https://www.biblegateway.com/quicksearch/?quicksearch=Luke&amp;qs_version=HOF\">EINE BIBELSTELLE WÄHLEN</a></strong>"
+        "reference": "Bible",
+        "html": "<strong><a target=\"_blank\" href=\"https://www.biblegateway.com/quicksearch/?quicksearch=Luke&amp;qs_version=LSG\">SÉLECTIONNEZ UN PASSAGE BIBLIQUE </a></strong>",
+        "url": "",
+        "isOpen": true
       }
     },
     {
@@ -118,7 +115,7 @@
       "type": "sectionMarker",
       "data": {
         "theme": "bible-study",
-        "title": "ENTDECKEN",
+        "title": "DÉCOUVRIR",
         "icon": "bible-study"
       }
     },
@@ -127,9 +124,9 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen?",
-          "Was gefällt dir und was stört dich an diesem Text?",
-          "Was kannst du in diesem Text über Gott und über die Menschen lernen?"
+          "Qu'est- ce qui se distingue pour vous dans ce passage?",
+          "Qu'est-ce que tu aimes et qu'est-ce qui te dérange dans ce passage?",
+          "Qu'est-ce que ce passage vous dit sur Dieu et les gens?"
         ]
       }
     },
@@ -144,7 +141,7 @@
       "type": "sectionMarker",
       "data": {
         "theme": "challenge",
-        "title": "ANWENDEN",
+        "title": "APPLIQUER",
         "icon": "challenges"
       }
     },
@@ -153,8 +150,8 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung des Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem es zu gehorchen gilt?</li></ul>",
-          "Teile deine Erkenntnis mit der Gruppe"
+          "Demandez à Dieu ce qu'il veut que vous fassiez en réponse au passage. Y a-t-il: <ul><li>Un comportement à changer?</li><li>Une promesse de réclamer?</li><li>Un exemple à suivre?</li><li>Une commande pour obéir?</li></ul>",
+          "Partagez cela avec le groupe"
         ]
       }
     },

@@ -1,0 +1,177 @@
+{
+  "site": "myfriends",
+  "country": "DE",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics101",
+  "sortOrder": 0,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "AUSTAUSCHEN",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt?",
+          "Wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?",
+          "Betet für einander"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "RÜCKBLICK",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was hast du seit dem letzten Treffen vom Gelernten umgesetzt?",
+          "Wie geht es den Menschen, welche dir besonders am Herzen liegen? Was würde ihnen am meisten helfen?",
+          "Wem konntest du von einem Gotteserlebnis erzählen? Mit wem konntest du beten?",
+          "Betet für diese Leute"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LESEN",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Der Text wird zweimal laut vorgelesen",
+          "Jemand erzählt in eigenen Worten den Text nach, mit Unterstützung der Gruppe.",
+          "Würde etwas weggelassen oder ergänzt?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1 Mose 2, 4-25",
+        "html": "<div class=\"bible\"><p><sup>4</sup>Und so ging es weiter, nachdem Gott, der <span class=\"small-caps\">Herr</span>, Himmel und Erde geschaffen hatte:<sup>5</sup>Damals wuchsen noch keine Gräser und Sträucher, denn Gott hatte es noch nicht regnen lassen. Außerdem war niemand da, der den Boden bebauen konnte.<sup> 6 </sup>Nur aus der Tiefe der Erde stieg Wasser auf und tränkte den Boden.<sup> 7 </sup>Da nahm Gott, der <span class=\"small-caps\">Herr</span>, etwas Staub von der Erde, formte daraus den Menschen und blies ihm den Lebensatem in die Nase. So wurde der Mensch ein lebendiges Wesen. </p><p><sup>8</sup>Dann legte Gott, der <span class=\"small-caps\">Herr</span>, einen Garten im Osten an, in der Landschaft Eden, und brachte den Menschen, den er geformt hatte, dorthin.<sup>9</sup>Viele prachtvolle Bäume ließ er im Garten wachsen. Ihre Früchte sahen köstlich aus und schmeckten gut. In der Mitte des Gartens standen zwei Bäume: der Baum, dessen Frucht Leben schenkt, und der Baum, der Gut und Böse erkennen lässt.<sup>10</sup>Ein Fluss entsprang in Eden und bewässerte den Garten. Dort teilte er sich in vier Arme:<sup> 11/12 </sup>Der erste Fluss heißt Pischon; er fließt rund um das Land Hawila. Dort gibt es reines Gold, wertvolles Harz und den Edelstein Onyx.<sup> 13 </sup>Der zweite ist der Gihon; er fließt rund um das Land Kusch.<sup> 14 </sup>Der dritte heißt Tigris und fließt östlich von Assyrien. Der vierte ist der Euphrat. </p><p><sup>15</sup>Gott, der <span class=\"small-caps\">Herr</span>, brachte den Menschen in den Garten von Eden. Er gab ihm die Aufgabe, den Garten zu bearbeiten und ihn zu bewahren.<sup>16</sup>Dann schärfte er ihm ein: »Von allen Bäumen im Garten darfst du essen,<sup> 17 </sup>nur nicht von dem Baum, der dich Gut und Böse erkennen lässt. Sobald du davon isst, musst du sterben!« </p><p><sup>18</sup>Gott, der <span class=\"small-caps\">Herr</span>, sagte: »Es ist nicht gut, dass der Mensch allein ist. Ich will ihm jemanden zur Seite stellen, der zu ihm passt!«<sup>19</sup>Er brachte alle Landtiere und Vögel, die er aus dem Erdboden geformt hatte, zu dem Menschen, um zu sehen, wie er sie nennen würde. Genau so sollten sie dann heißen.<sup>20</sup>Der Mensch betrachtete die Tiere und benannte sie. Für sich selbst aber fand er niemanden, der zu ihm passte und ihm eine Hilfe sein könnte. </p><p><sup>21</sup>Da ließ Gott, der <span class=\"small-caps\">Herr</span>, einen tiefen Schlaf über ihn kommen, entnahm ihm eine Rippe und verschloss die Stelle wieder mit Fleisch.<sup>22</sup>Aus der Rippe formte er eine Frau und brachte sie zu dem Menschen.<sup> 23 </sup>Da rief dieser: »Endlich gibt es jemanden wie mich! Sie wurde aus einem Teil von mir gemacht – wir gehören zusammen!« </p><p><sup>24</sup>Darum verlässt ein Mann seine Eltern und verbindet sich so eng mit seiner Frau, dass die beiden eins sind mit Leib und Seele.<sup>25</sup>Der Mann und die Frau waren nackt, sie schämten sich aber nicht. </p><br><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Genesis%202:4-25&version=HOF",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "ENTDECKEN",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen?",
+          "Was gefällt dir und was stört dich an diesem Text?",
+          "Was kannst du in diesem Text über Gott und über die Menschen lernen?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "ANWENDEN",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung des Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem es zu gehorchen gilt?</li></ul>",
+          "Teile deine Erkenntnis mit der Gruppe"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics101-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Notizen",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Der Himmel, die Erde, die Menschen, Tiere und Pflanzen sind nicht per Zufall entstanden, sondern von Gott geschaffen worden. Dabei spielt der Mensch von Anfang an eine zentrale Rolle. Die Tiere wurden geschaffen, damit der Mensch nicht alleine ist und die Geschlechter (Mann und Frau) wurden ge¬schaffen, damit eine sehr nahe Form von Gemeinschaft möglich wurde. Das Vertrauen zwischen Mann und Frau war so gross, dass sie sich wegen ihrer Nacktheit in keiner Form schämten und sich nicht hinter Kleider verbergen und schützen mussten."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Auffallend ist, dass die Menschen auch die Möglich¬keit hatten, Gott ungehorsam zu sein, indem sie von dem Baum der Erkennt¬nis von Gut und Böse assen. Aber Gott warnte auch, dass die Strafe dafür der Tod wäre. Die Existenz dieses Baumes zeigt sehr klar, dass der Mensch nicht einfach Gott ausgeliefert ist. Im Gegenteil, der Mensch hatte die Möglichkeit sich zu entscheiden. Ihm wurde die Möglichkeit gegeben, die Liebe Gottes aus freiem Willen anzunehmen oder sie abzulehnen."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

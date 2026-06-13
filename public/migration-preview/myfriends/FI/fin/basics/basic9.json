@@ -1,0 +1,192 @@
+{
+  "site": "myfriends",
+  "country": "FI",
+  "language": "fin",
+  "htmlLang": "fi",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basic9",
+  "sortOrder": 8,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Jaetaan elämää",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mistä olet kiitollinen?",
+          "Mikä sinua huolestuttaa?",
+          "Ketä auttaa käytännön tarpeissa?",
+          "Miten olet kokenut Jumalan elämässäsi viime aikoina?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan: kiitetään Jumalaa ja pyydetään Jumalalta apua. Rukoilkaa myös, että saisitte oppia tuntemaan uusia puolia Jumalasta ja että ystävyytenne Jumalan kanssa vahvistuisi ja syvenisi."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "Katsaus aiempaan",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mitä olet laittanut käytäntöön viime kerran jälkeen?",
+          "Oletko saanut jakaa jollekin Jumalasta?",
+          "Kenen puolesta voimme rukoilla, että hekin oppisivat tuntemaan Jumalan?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan jokaisen mainitun puolesta ja kysytään miten osoittaa heille Jumalan rakkautta."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "Lue",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Matteus 7:24:ssä Jeesus kuvaa vertauksen avulla erään tärkeimmistä Raamatun lukemiseen liittyvistä periaatteista. Jaakob tiivistää saman asian yhteen virkkeeseen."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Lue teksti hiljaa mielessäsi.",
+          "Lue teksti ääneen.",
+          "Kerro tekstin sisältö omin sanoin (ilman Raamattua).",
+          "Muu ryhmä täydentää/korjaa."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Mat. 7:24-27",
+        "html": "<div class=\"bible\"><br></div>",
+        "url": "https://raamattu.fi/raamattu/KR92/MAT.7/Matteus-7",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mikä kiinnitti huomiosi?",
+          "Mitä teksti kertoo Jumalasta ja ihmisestä?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "Haasteet",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<div>Jos Raamatunkohta on totta, miten muutat elämäntapaasi? </div>",
+          "<div>Käytännön haasteena aion seuraavien päivien aikana..</div>",
+          "<div>Kenelle jaat tästä Raamatunkohdasta ja Jumalasta?</div>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basic9-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan: kerro Jumalalle omin sanoin edellä mainituista asioista."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Anteteksiantamisen prosessi:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Viime kerralla puhuimme anteeksiantamisesta, tänään kalliolle rakentamisesta, eli sanan mukaan tekemisestä. Tullaan “sanan tekijöiksi” anteeksiantamisessa.",
+          "Sopikaa, milloin voitte tavata käydäksenne läpi anteeksiantamisen prosessia. Tehkää se kolmen hengen ryhmissä, jos mahdollista.",
+          "Kaikki tällaisissa tilanteissa sanottu on erittäin luottamuksellista, eikä mitään tule kertoa eteenpäin!",
+          "Kun annat tai pyydät anteeksi, sano se vuorollasi ja niin kuuluvalla äänellä, että muutkin kuulevat sen ja ovat sen todistajina.",
+          "Älä kiirehdi, vaan anna itsellesi aikaa. Saatat tarvita useamman tapaamisen, sillä kyse on koko menneisyytesi syyllisyyden läpikäymisestä.",
+          "Siirry osioon 10 vasta, kun koko anteeksiantamisen prosessi on saatu loppuun."
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Tunnusta jokainen syntisi yksitellen ja pyydä anteeksi Jumalan edessä. (Matteus 6:9-15) Älä tunnusta syntejä yhtenä kokonaisuutena, kertarykäisyllä, vaan tunnusta jokainen yksitellen.(1.Johanneksen kirje 1:9)",
+          "Tuo yksitellen Jumalan eteen jokainen henkilö, joka on tehnyt syntiä sinua kohtaan ja anna heille anteeksi. (Matteus 6:9-15)",
+          "Julistakaa toisillenne synnit anteeksi Jeesuksen nimessä."
+        ]
+      }
+    }
+  ]
+}

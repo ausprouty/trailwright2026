@@ -1,0 +1,183 @@
+{
+  "site": "myfriends",
+  "country": "FR",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics106",
+  "sortOrder": 5,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "PARTAGER",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Comment as-tu expérimenté Dieu cette semaine?",
+          "De quoi es-tu reconnaissant?",
+          "Pour quoi as-tu besoin de l'aide de Dieu?",
+          "Comment pouvons-nous vous aider avec vos besoins?",
+          "Priez l'un pour l'autre"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "LA REVUE",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qu'avez-vous mis en pratique depuis notre dernière rencontre?",
+          "Comment vont les gens que tu prends? Qu'est-ce qui les aiderait le plus?",
+          "Avez-vous pu partager une expérience de Dieu avec quelqu'un? Avez-vous prié avec eux?",
+          "Priez pour ces personnes"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LIS",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lisez le passage à haute voix deux fois.",
+          "Demandez à une personne de raconter le passage dans ses propres mots avec l'aide du groupe.",
+          "Y at-il quelque chose manqué ou ajouté?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Ésaïe 52:13-15",
+        "html": "<div class=\"bible\"><p><sup>13</sup>Voici, mon serviteur prospérera; Il montera, il s'élèvera, il s'élèvera bien haut.</p><p><sup>14</sup>De même qu'il a été pour plusieurs un sujet d'effroi, -Tant son visage était défiguré, Tant son aspect différait de celui des fils de l'homme, -</p><p><sup>15</sup>De même il sera pour beaucoup de peuples un sujet de joie; Devant lui des rois fermeront la bouche; Car ils verront ce qui ne leur avait point été raconté, Ils apprendront ce qu'ils n'avaient point entendu.</p><p><sup>1</sup>Qui a cru à ce qui nous était annoncé? Qui a reconnu le bras de l'Éternel?</p><p><sup>2</sup>Il s'est élevé devant lui comme une faible plante, Comme un rejeton qui sort d'une terre desséchée; Il n'avait ni beauté, ni éclat pour attirer nos regards, Et son aspect n'avait rien pour nous plaire.</p><p><sup>3</sup>Méprisé et abandonné des hommes, Homme de douleur et habitué à la souffrance, Semblable à celui dont on détourne le visage, Nous l'avons dédaigné, nous n'avons fait de lui aucun cas.</p><p><sup>4</sup>Cependant, ce sont nos souffrances qu'il a portées, C'est de nos douleurs qu'il s'est chargé; Et nous l'avons considéré comme puni, Frappé de Dieu, et humilié.</p><p><sup>5</sup>Mais il était blessé pour nos péchés, Brisé pour nos iniquités; Le châtiment qui nous donne la paix est tombé sur lui, Et c'est par ses meurtrissures que nous sommes guéris.</p><p><sup>6</sup>Nous étions tous errants comme des brebis, Chacun suivait sa propre voie; Et l'Éternel a fait retomber sur lui l'iniquité de nous tous.</p><p><sup>7</sup>Il a été maltraité et opprimé, Et il n'a point ouvert la bouche, Semblable à un agneau qu'on mène à la boucherie, A une brebis muette devant ceux qui la tondent; Il n'a point ouvert la bouche.</p><p><sup>8</sup>Il a été enlevé par l'angoisse et le châtiment; Et parmi ceux de sa génération, qui a cru Qu'il était retranché de la terre des vivants Et frappé pour les péchés de mon peuple?</p><p><sup>9</sup>On a mis son sépulcre parmi les méchants, Son tombeau avec le riche, Quoiqu'il n'eût point commis de violence Et qu'il n'y eût point de fraude dans sa bouche.</p><p><sup>10</sup>Il a plu à l'Éternel de le briser par la souffrance... Après avoir livré sa vie en sacrifice pour le péché, Il verra une postérité et prolongera ses jours; Et l'oeuvre de l'Éternel prospérera entre ses mains.</p><p><sup>11</sup>A cause du travail de son âme, il rassasiera ses regards; Par sa connaissance mon serviteur juste justifiera beaucoup d'hommes, Et il se chargera de leurs iniquités.</p><p><sup>12</sup>C'est pourquoi je lui donnerai sa part avec les grands; Il partagera le butin avec les puissants, Parce qu'il s'est livré lui-même à la mort, Et qu'il a été mis au nombre des malfaiteurs, Parce qu'il a porté les péchés de beaucoup d'hommes, Et qu'il a intercédé pour les coupables.</p><p><br></p><p><sup>29</sup>Le lendemain, il vit Jésus venant à lui, et il dit: Voici l'Agneau de Dieu, qui ôte le péché du monde.</p><p><sup>30</sup>C'est celui dont j'ai dit: Après moi vient un homme qui m'a précédé, car il était avant moi.</p><p><sup>31</sup>Je ne le connaissais pas, mais c'est afin qu'il fût manifesté à Israël que je suis venu baptiser d'eau.</p><p><sup>32</sup>Jean rendit ce témoignage: J'ai vu l'Esprit descendre du ciel comme une colombe et s'arrêter sur lui.</p><p><sup>33</sup>Je ne le connaissais pas, mais celui qui m'a envoyé baptiser d'eau, celui-là m'a dit: Celui sur qui tu verras l'Esprit descendre et s'arrêter, c'est celui qui baptise du Saint Esprit.</p><p><sup>34</sup>Et j'ai vu, et j'ai rendu témoignage qu'il est le Fils de Dieu.</p><p><br></p></div>",
+        "url": "https://biblegateway.com/passage/?search=Isaiah%2053:1-12&version=LSG",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "DÉCOUVRIR",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qu'est- ce qui se distingue pour vous dans ce passage?",
+          "Qu'est-ce que tu aimes et qu'est-ce qui te dérange dans ce passage?",
+          "Qu'est-ce que ce passage vous dit sur Dieu et les gens?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "APPLIQUER",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Demandez à Dieu ce qu'il veut que vous fassiez en réponse au passage. Y a-t-il: <ul><li>Un comportement à changer?</li><li>Une promesse de réclamer?</li><li>Un exemple à suivre?</li><li>Une commande pour obéir?</li></ul>",
+          "Partagez cela avec le groupe"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics106-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Remarques",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "&gt;La dernière fois nous lisons à propos de Dieu annonçant un nouvel âge. Aujourd'hui, nous allons apprendre comment cela doit se produire (un plan pratique). Dieu enverra \"son serviteur\". Cela signifie un homme qui vivra exactement comme Dieu le veut. Bien qu'il n'ait commis aucun péché ou tort, cet homme mourra comme un criminel. Car la mission du serviteur de Dieu sera de prendre sur lui la maladie, la souffrance et le péché de l'humanité. Ce ne sera pas un joli spectacle, bien au contraire."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Les gens autour de lui mépriseront et se détourneront de lui. Ils penseront qu'il est un criminel qui est puni par Dieu pour ses actes terribles. Mais en réalité, il ne sera pas puni pour ce qu'il a lui-même fait, mais pour ce que tous les humains ont fait sous l'influence du mal. Ce serviteur de Dieu prendra la responsabilité de notre mauvaise action. Il sera exécuté à la place de nous, personnes pécheresses, afin que nous puissions avoir la paix à nouveau; paix avec Dieu et paix avec les autres."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jean (le Baptiste) était un prophète envoyé par Dieu pour préparer Israël à la venue de Son serviteur (lire Ésaïe 52-53). Dans ce passage, il identifie Jésus comme l'Agneau de Dieu, qui prend sur lui les péchés du monde. En d'autres termes, Jean dit que Jésus est le Sauveur tant attendu qui libérera l'humanité du pouvoir du mal. Pour faire cela, il prendra sur lui les péchés de l'humanité et prendra la punition pour eux."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

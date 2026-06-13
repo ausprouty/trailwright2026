@@ -1,0 +1,177 @@
+{
+  "site": "myfriends",
+  "country": "FR",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics101",
+  "sortOrder": 0,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "PARTAGER",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Comment as-tu expérimenté Dieu cette semaine?",
+          "De quoi es-tu reconnaissant?",
+          "Pour quoi as-tu besoin de l'aide de Dieu?",
+          "Comment pouvons-nous vous aider avec vos besoins?",
+          "Priez l'un pour l'autre"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "LA REVUE",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qu'avez-vous mis en pratique depuis notre dernière rencontre?",
+          "Comment vont les gens que tu prends? Qu'est-ce qui les aiderait le plus?",
+          "Avez-vous pu partager une expérience de Dieu avec quelqu'un? Avez-vous prié avec eux?",
+          "Priez pour ces personnes"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LIS",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lisez le passage à haute voix deux fois.",
+          "Demandez à une personne de raconter le passage dans ses propres mots avec l'aide du groupe.",
+          "Y at-il quelque chose manqué ou ajouté?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Genèse 2:4-25",
+        "html": "<div class=\"bible\"><p><sup>4</sup>Voici les origines des cieux et de la terre, quand ils furent créés. </p><p><sup>5</sup>Lorsque l'Éternel Dieu fit une terre et des cieux, aucun arbuste des champs n'était encore sur la terre, et aucune herbe des champs ne germait encore: car l'Éternel Dieu n'avait pas fait pleuvoir sur la terre, et il n'y avait point d'homme pour cultiver le sol. </p><p><sup>6</sup>Mais une vapeur s'éleva de la terre, et arrosa toute la surface du sol. </p><p><sup>7</sup>L'Éternel Dieu forma l'homme de la poussière de la terre, il souffla dans ses narines un souffle de vie et l'homme devint un être vivant. </p><p><sup>8</sup>Puis l'Éternel Dieu planta un jardin en Éden, du côté de l'orient, et il y mit l'homme qu'il avait formé. </p><p><sup>9</sup>L'Éternel Dieu fit pousser du sol des arbres de toute espèce, agréables à voir et bons à manger, et l'arbre de la vie au milieu du jardin, et l'arbre de la connaissance du bien et du mal. </p><p><sup>10</sup>Un fleuve sortait d'Éden pour arroser le jardin, et de là il se divisait en quatre bras. </p><p><sup>11</sup>Le nom du premier est Pischon; c'est celui qui entoure tout le pays de Havila, où se trouve l'or. </p><p><sup>12</sup>L'or de ce pays est pur; on y trouve aussi le bdellium et la pierre d'onyx. </p><p><sup>13</sup>Le nom du second fleuve est Guihon; c'est celui qui entoure tout le pays de Cusch. </p><p><sup>14</sup>Le nom du troisième est Hiddékel; c'est celui qui coule à l'orient de l'Assyrie. Le quatrième fleuve, c'est l'Euphrate. </p><p><sup>15</sup>L'Éternel Dieu prit l'homme, et le plaça dans le jardin d'Éden pour le cultiver et pour le garder. </p><p><sup>16</sup>L'Éternel Dieu donna cet ordre à l'homme: Tu pourras manger de tous les arbres du jardin; </p><p><sup>17</sup>mais tu ne mangeras pas de l'arbre de la connaissance du bien et du mal, car le jour où tu en mangeras, tu mourras. </p><p><sup>18</sup>L'Éternel Dieu dit: Il n'est pas bon que l'homme soit seul; je lui ferai une aide semblable à lui. </p><p><sup>19</sup>L'Éternel Dieu forma de la terre tous les animaux des champs et tous les oiseaux du ciel, et il les fit venir vers l'homme, pour voir comment il les appellerait, et afin que tout être vivant portât le nom que lui donnerait l'homme. </p><p><sup>20</sup>Et l'homme donna des noms à tout le bétail, aux oiseaux du ciel et à tous les animaux des champs; mais, pour l'homme, il ne trouva point d'aide semblable à lui. </p><p><sup>21</sup>Alors l'Éternel Dieu fit tomber un profond sommeil sur l'homme, qui s'endormit; il prit une de ses côtes, et referma la chair à sa place. </p><p><sup>22</sup>L'Éternel Dieu forma une femme de la côte qu'il avait prise de l'homme, et il l'amena vers l'homme. </p><p><sup>23</sup>Et l'homme dit: Voici cette fois celle qui est os de mes os et chair de ma chair! on l'appellera femme, parce qu'elle a été prise de l'homme. </p><p><sup>24</sup>C'est pourquoi l'homme quittera son père et sa mère, et s'attachera à sa femme, et ils deviendront une seule chair. </p><p><sup>25</sup>L'homme et sa femme étaient tous deux nus, et ils n'en avaient point honte. </p><p><br><br></p></div>",
+        "url": "https://biblegateway.com/passage/?search=Genesis%202:4-25&version=LSG",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "DÉCOUVRIR",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qu'est- ce qui se distingue pour vous dans ce passage?",
+          "Qu'est-ce que tu aimes et qu'est-ce qui te dérange dans ce passage?",
+          "Qu'est-ce que ce passage vous dit sur Dieu et les gens?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "APPLIQUER",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Demandez à Dieu ce qu'il veut que vous fassiez en réponse au passage. Y a-t-il: <ul><li>Un comportement à changer?</li><li>Une promesse de réclamer?</li><li>Un exemple à suivre?</li><li>Une commande pour obéir?</li></ul>",
+          "Partagez cela avec le groupe"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics101-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Remarques",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Les cieux, la terre, les humains, les animaux et les plantes ne sont pas apparus par hasard. Ils ont été créés par Dieu. Les humains ont eu un rôle important depuis le début à se regarder les uns les autres et le monde dans lequel ils vivaient. Tout était un reflet de la bonté de Dieu. Les hommes et les femmes ont eu la liberté de profiter de toute la création. Ils ont même eu le choix d'obéir ou de désobéir à Dieu; accepter ou rejeter son amour. La confiance entre les deux était si grande qu'ils n'avaient pas honte de leur nudité et n'avaient pas besoin de se cacher ou de se protéger derrière des vêtements."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "De manière frappante, les humains ont eu la possibilité de désobéir à Dieu en mangeant de l'arbre de la connaissance du bien et du mal. Mais Dieu les a avertis que la punition pour le faire serait la mort. L'existence de cet arbre nous montre clairement que les humains ne sont pas complètement à la merci de la volonté de Dieu. Plutôt l'inverse. L'humanité a la liberté de choix. Ils ont reçu la liberté de choix pour accepter ou rejeter l'amour de Dieu."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

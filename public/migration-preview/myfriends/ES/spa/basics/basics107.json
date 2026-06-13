@@ -1,0 +1,191 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics107",
+  "sortOrder": 6,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Compartir",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Cómo has experimentado a Dios esta semana?",
+          "¿De qué estas agradecido?",
+          "¿Para qué necesitas la ayuda de Dios?",
+          "¿Cómo podemos ayudarlo con sus necesidades?",
+          "Ora por los demás."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "REVISIÓN",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué has puesto en práctica desde nuestra última reunión?",
+          "¿Mo van las personas que estás cuidando? ¿Qué los ayudaría más?",
+          "¿Do compartir una experiencia de Dios con alguien? Oraste con ellos?",
+          "Ora por estas personas."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LA PELÍCULA DE JESÚS",
+        "level": 3
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Mire la película JESÚS (disponible en <a target=\"_blank\" href=\"https://www.jesusfilm.org/watch/jesus.html/spanish-castilian.html\">jesusfilm.org/watch.html</a>)"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Esta es una descripción precisa de la vida, la enseñanza y el sufrimiento de Jesús. Hay tres formas en que puede decidir ver esta película:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Como una película histórica: en este caso, todo lo que se muestra en la película se convierte en una historia que ocurrió hace 2000 años y no tiene relevancia para nosotros hoy en día.",
+          "Como la salvación de la humanidad: si miras la película desde este punto de vista, entonces Jesús murió por los pecados de toda la raza humana y realmente no me preocupa mucho ya que solo soy uno en miles de millones.",
+          "Como el precio de MI salvación: si miramos la película desde el punto de vista que Jesús sufrió personalmente para MÍ, entonces podremos entender lo que realmente sucedió. Es importante que sepamos una y otra vez que esta película trata de SOTROS. Alguien sufrió la peor tortura para liberarme del poder del mal y hacerme libre para volver a elegir el camino de Dios."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Decida cuánto de la película mirarán juntos. Si no tiene tiempo para toda la película, considere comenzar en la marca de una hora. Esto les dará ejemplos de las enseñanzas y milagros de Jesús antes de ir a Jerusalén para sufrir y morir."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Para la pelivula a la 1:15.",
+        "level": 3
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué te ha impresionado acerca de lo que Jesús dijo o hizo hasta ahora?",
+          "¿Cómo ha descrito Jesús su misión o propósito (ver 1:14)?",
+          "¿Qué ha pronosticado Jesús que le sucederá? (1:15)"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-13"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Para la pelicula a la 1:43.",
+        "level": 3
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Cuál es la actitud de Pilatos hacia Jesús?",
+          "¿Por qué Pilato castiga a Jesús?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-16"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Después de la película"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué significa para mí que Jesús haya sufrido tanto por mí?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-19"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Do you want to place your trust in Jesus today?",
+          "Where do I have an opportunity in the next week to share my experiences with God with someone and invite them to start a friendship with God?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics107-i-will"
+      }
+    }
+  ]
+}

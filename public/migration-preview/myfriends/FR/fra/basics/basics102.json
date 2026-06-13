@@ -1,0 +1,213 @@
+{
+  "site": "myfriends",
+  "country": "FR",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics102",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "PARTAGER",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Comment as-tu expérimenté Dieu cette semaine?",
+          "Pour quoi as-tu besoin de l'aide de Dieu dans ta vie?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Priez ensemble : remerciez Dieu pour ces expériences et demandez son aide."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "LA REVUE",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Comment es-tu allé plus loin avec l'histoire de la création?",
+          "As-tu pu parler à quelqu'un de tes expériences avec Dieu la semaine dernière? Comment cette personne a-t-elle répondu?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Priez ensemble afin que vous puissiez découvrir de nouveaux aspects de Dieu et que votre amitié avec Dieu soit fortifiée et devienne plus profonde."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LIS",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Lis le texte en silence.",
+          "Lis le texte à haute voix.",
+          "Racontez le texte de mémoire, Bibles fermées.",
+          "Contributions du groupe pour compléter."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Genèse 3",
+        "html": "<!-- begin bible --><div><!-- begin bible --><p class=\"verse chapter-1\"><sup class=\"versenum\">1 </sup>Le serpent était le plus rusé de tous les animaux des champs, que l'Éternel Dieu avait faits. Il dit à la femme: Dieu a-t-il réellement dit: Vous ne mangerez pas de tous les arbres du jardin? </p><p class=\"verse\"><sup class=\"versenum\">2 </sup>La femme répondit au serpent: Nous mangeons du fruit des arbres du jardin. </p><p class=\"verse\"><sup class=\"versenum\">3 </sup>Mais quant au fruit de l'arbre qui est au milieu du jardin, Dieu a dit: Vous n'en mangerez point et vous n'y toucherez point, de peur que vous ne mouriez. </p><p class=\"verse\"><sup class=\"versenum\">4 </sup>Alors le serpent dit à la femme: Vous ne mourrez point; </p><p class=\"verse\"><sup class=\"versenum\">5 </sup>mais Dieu sait que, le jour où vous en mangerez, vos yeux s'ouvriront, et que vous serez comme des dieux, connaissant le bien et le mal. </p><p class=\"verse\"><sup class=\"versenum\">6 </sup>La femme vit que l'arbre était bon à manger et agréable à la vue, et qu'il était précieux pour ouvrir l'intelligence; elle prit de son fruit, et en mangea; elle en donna aussi à son mari, qui était auprès d'elle, et il en mangea. </p><p class=\"verse\"><sup class=\"versenum\">7 </sup>Les yeux de l'un et de l'autre s'ouvrirent, ils connurent qu'ils étaient nus, et ayant cousu des feuilles de figuier, ils s'en firent des ceintures. </p><p class=\"verse\"><sup class=\"versenum\">8 </sup>Alors ils entendirent la voix de l'Éternel Dieu, qui parcourait le jardin vers le soir, et l'homme et sa femme se cachèrent loin de la face de l'Éternel Dieu, au milieu des arbres du jardin. </p><p class=\"verse\"><sup class=\"versenum\">9 </sup>Mais l'Éternel Dieu appela l'homme, et lui dit: Où es-tu? </p><p class=\"verse\"><sup class=\"versenum\">10 </sup>Il répondit: J'ai entendu ta voix dans le jardin, et j'ai eu peur, parce que je suis nu, et je me suis caché. </p><p class=\"verse\"><sup class=\"versenum\">11 </sup>Et l'Éternel Dieu dit: Qui t'a appris que tu es nu? Est-ce que tu as mangé de l'arbre dont je t'avais défendu de manger? </p><p class=\"verse\"><sup class=\"versenum\">12 </sup>L'homme répondit: La femme que tu as mise auprès de moi m'a donné de l'arbre, et j'en ai mangé. </p><p class=\"verse\"><sup class=\"versenum\">13 </sup>Et l'Éternel Dieu dit à la femme: Pourquoi as-tu fait cela? La femme répondit: Le serpent m'a séduite, et j'en ai mangé. </p><p class=\"verse\"><sup class=\"versenum\">14 </sup>L'Éternel Dieu dit au serpent: Puisque tu as fait cela, tu seras maudit entre tout le bétail et entre tous les animaux des champs, tu marcheras sur ton ventre, et tu mangeras de la poussière tous les jours de ta vie. </p><p class=\"verse\"><sup class=\"versenum\">15 </sup>Je mettrai inimitié entre toi et la femme, entre ta postérité et sa postérité: celle-ci t'écrasera la tête, et tu lui blesseras le talon. </p><p class=\"verse\"><sup class=\"versenum\">16 </sup>Il dit à la femme: J'augmenterai la souffrance de tes grossesses, tu enfanteras avec douleur, et tes désirs se porteront vers ton mari, mais il dominera sur toi. </p><p class=\"verse\"><sup class=\"versenum\">17 </sup>Il dit à l'homme: Puisque tu as écouté la voix de ta femme, et que tu as mangé de l'arbre au sujet duquel je t'avais donné cet ordre: Tu n'en mangeras point! le sol sera maudit à cause de toi. C'est à force de peine que tu en tireras ta nourriture tous les jours de ta vie, </p><p class=\"verse\"><sup class=\"versenum\">18 </sup>il te produira des épines et des ronces, et tu mangeras de l'herbe des champs. </p><p class=\"verse\"><sup class=\"versenum\">19 </sup>C'est à la sueur de ton visage que tu mangeras du pain, jusqu'à ce que tu retournes dans la terre, d'où tu as été pris; car tu es poussière, et tu retourneras dans la poussière. </p><p class=\"verse\"><sup class=\"versenum\">20 </sup>Adam donna à sa femme le nom d'Eve: car elle a été la mère de tous les vivants. </p><p class=\"verse\"><sup class=\"versenum\">21 </sup>L'Éternel Dieu fit à Adam et à sa femme des habits de peau, et il les en revêtit. </p><p class=\"verse\"><sup class=\"versenum\">22 </sup>L'Éternel Dieu dit: Voici, l'homme est devenu comme l'un de nous, pour la connaissance du bien et du mal. Empêchons-le maintenant d'avancer sa main, de prendre de l'arbre de vie, d'en manger, et de vivre éternellement. </p><p class=\"verse\"><sup class=\"versenum\">23 </sup>Et l'Éternel Dieu le chassa du jardin d'Éden, pour qu'il cultivât la terre, d'où il avait été pris. </p><p class=\"verse\"><sup class=\"versenum\">24 </sup>C'est ainsi qu'il chassa Adam; et il mit à l'orient du jardin d'Éden les chérubins qui agitent une épée flamboyante, pour garder le chemin de l'arbre de vie. </p><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Gen%203:1-24&version=LSG",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Questions générales :",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Y a-t-il quelque chose qui t'a marqué dans ce texte? <ul><li>Qu'est-ce que tu aimes?</li><li>Y a-t-il quelque chose qui te dérange?</li></ul>",
+          "Qu'est-ce que ce texte dit sur Dieu?",
+          "Qu'est-ce que ce texte dit sur les gens?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Questions spécifiques (voir remarques)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "À ton avis, comment était la relation entre Dieu et les humains avant qu'ils mangent du fruit de l'arbre de la connaissance?",
+          "À ton avis, comment était la relation entre l'homme et la femme avant qu'ils mangent du fruit de l'arbre de la connaissance?",
+          "Comment la relation entre l'homme et la femme a-t-elle changé? • Comment la relation entre les humains et Dieu a-t-elle changé?",
+          "Dieu a-t-il menti quand il a dit qu'ils mourraient s'ils mangeaient du fruit de l'arbre de la connaissance?",
+          "D'où venaient les vêtements que Dieu leur a faits? •"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Appliquer le texte",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Si ce que nous avons lu est vrai, comment cela changera-t-il : <ul><li>mon image de Dieu?</li><li>mon comportement envers les gens, les animaux et la nature?</li><li>ma façon de vivre?</li></ul>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "APPLIQUER",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Chaque soir, écris un incident qui illustre les conséquences de l'histoire d'aujourd'hui.",
+          "Où ai-je l'occasion, la semaine prochaine, de partager mes expériences avec Dieu avec quelqu'un et de l'inviter à commencer une amitié avec Dieu?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics102-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Remarques sur le texte :",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Avant d'entrer dans la tragédie de ce chapitre, regardons un point important de\nl'histoire. Adam et Ève ont entendu Dieu marcher dans le jardin. Ils ont\nimmédiatement su que c'était Dieu qui s'approchait. Il ne semblait pas\nextraordinaire que Dieu marche dans le jardin avec eux et qu'ils parlent ensemble. La\nrelation entre les humains et Dieu devait être simple et merveilleuse. Comme tout a\nchangé de façon dramatique quand Adam et Ève ont soudain dû choisir\nentre le serpent et Dieu. Le serpent leur a conseillé de manger du fruit de l'arbre\nde la connaissance du bien et du mal. Mais après en avoir mangé, ils avaient un\nproblème encore plus grand. Ils savaient que Dieu viendrait vers eux dans le jardin ce\nsoir-là. Que devaient-ils faire? L'homme a décidé de blâmer la\nfemme, et la femme a décidé de blâmer le serpent. C'était le\ndébut de l'individualisme et de l'égoïsme. Ils ont commencé\nà penser à eux-mêmes comme des individus au lieu de vivre comme une\nunité, homme et femme. Ils ont commencé à prendre de la distance l'un\navec l'autre. C'est pourquoi ils se sont fait des vêtements avec des feuilles.\nCela reflétait simplement ce qui s'était déjà passé\ndans leur cœur. Ils ont tracé une ligne entre eux pour se protéger\nl'un de l'autre, et ils se sont aussi cachés de Dieu. Les humains n'avaient\nconnu que la bonté et vivaient dans une relation merveilleuse avec Dieu et les uns avec\nles autres. En mangeant le fruit défendu, ils ont découvert le mal et ses\nconséquences. Par la suite, les humains ont été chassés du jardin,\net donc de la présence de Dieu. Le conseil du serpent n'était pas\ncomplètement faux. Ils ne sont pas morts immédiatement, mais ils ont\nété séparés de Dieu, la source de la vie, et sont donc devenus\nmortels. Malheureusement, à partir de ce moment-là, non seulement les humains,\nmais toute la création est tombée sous l'influence de la mort. C'est\npourquoi des animaux ont dû mourir pour fournir des vêtements aux humains. Par ce\nseul acte d'opposition humaine envers Dieu, toutes les relations ont été\nabîmées. La relation avec Dieu a été abîmée, la\nrelation entre les humains a été abîmée, et la relation des humains\navec la nature et les animaux a été abîmée."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

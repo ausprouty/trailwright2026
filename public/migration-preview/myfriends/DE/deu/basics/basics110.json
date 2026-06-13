@@ -1,0 +1,202 @@
+{
+  "site": "myfriends",
+  "country": "DE",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics110",
+  "sortOrder": 9,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "AUSTAUSCHEN",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt?",
+          "Wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?",
+          "Betet für einander"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "RÜCKBLICK",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was hast du seit dem letzten Treffen vom Gelernten umgesetzt?",
+          "Wie geht es den Menschen, welche dir besonders am Herzen liegen? Was würde ihnen am meisten helfen?",
+          "Wem konntest du von einem Gotteserlebnis erzählen? Mit wem konntest du beten?",
+          "Betet für diese Leute"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LESEN",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Der Text wird zweimal laut vorgelesen",
+          "Jemand erzählt in eigenen Worten den Text nach, mit Unterstützung der Gruppe.",
+          "Würde etwas weggelassen oder ergänzt?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Römer 6:3-14",
+        "html": "<div class=\"bible\"><p><sup>3</sup>Oder wisst ihr nicht, was es heißt, auf Jesus Christus getauft zu sein? Wisst ihr nicht, dass wir alle durch diese Taufe mit einbezogen worden sind in seinen Tod?<sup>4</sup>Durch die Taufe sind wir mit Christus gestorben und sind daher auch mit ihm begraben worden. Weil nun aber Christus durch die unvergleichlich herrliche Macht des Vaters von den Toten auferstanden ist, ist auch unser Leben neu geworden, und das bedeutet: Wir sollen jetzt ein neues Leben führen.<sup>5</sup>Denn wenn sein Tod gewissermaßen unser Tod geworden ist und wir auf diese Weise mit ihm eins geworden sind, dann werden wir auch im Hinblick auf seine Auferstehung mit ihm eins sein. </p><p><sup>6</sup>Was wir verstehen müssen, ist dies: Der Mensch, der wir waren, als wir noch ohne Christus lebten, ist mit ihm gekreuzigt worden, damit unser sündiges Wesen unwirksam gemacht wird und wir nicht länger der Sünde dienen.<sup>7</sup>Denn wer gestorben ist, ist vom Herrschaftsanspruch der Sünde befreit.<sup>8</sup>Und da wir mit Christus gestorben sind, vertrauen wir darauf, dass wir auch mit ihm leben werden.<sup>9</sup>Wir wissen ja, dass Christus, nachdem er von den Toten auferstanden ist, nicht mehr sterben wird; der Tod hat keine Macht mehr über ihn.<sup>10</sup>Denn sein Sterben war ein Sterben für die Sünde, ´ein Opfer,` das einmal geschehen ist und für immer gilt; sein Leben aber ist ein Leben für Gott.<sup>11</sup>Dasselbe gilt darum auch für euch: Geht von der Tatsache aus, dass ihr für die Sünde tot seid, aber in Jesus Christus für Gott lebt. </p><p><sup>12</sup>Euer vergängliches Leben darf also nicht mehr von der Sünde beherrscht werden, die euch dazu bringen will, euren Begierden zu gehorchen.<sup>13</sup>Stellt euch nicht mehr der Sünde zur Verfügung, und lasst euch in keinem Bereich eures Lebens mehr zu Werkzeugen des Unrechts machen. Denkt vielmehr daran, dass ihr ohne Christus tot wart und dass Gott euch lebendig gemacht hat, und stellt euch ihm als Werkzeuge der Gerechtigkeit zur Verfügung, ohne ihm irgendeinen Bereich eures Lebens vorzuenthalten.<sup>14</sup>Dann wird nämlich die Sünde ihre Macht nicht mehr über euch ausüben. Denn ihr lebt nicht unter dem Gesetz; euer Leben steht vielmehr unter der Gnade. </p><br><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Romans%206:3-14&version=NGU-DE",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "ENTDECKEN",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen?",
+          "Was gefällt dir und was stört dich an diesem Text?",
+          "Was kannst du in diesem Text über Gott und über die Menschen lernen?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "ANWENDEN",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung des Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem es zu gehorchen gilt?</li></ul>",
+          "Teile deine Erkenntnis mit der Gruppe"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics110-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Notizen",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Im folgenden Bibelstudium wird es um die Taufe gehen. Weil der Begriff «Tau¬fe» heutzutage sehr unterschiedlich verwendet wird, soll er an dieser Stelle kurz erklärt werden."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Menschen verstehen unter Taufe verschiedene Dinge. Hier ein paar Beispiele:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Gottes Segen für ein Kind erbitten",
+                  "Erbsünde abwaschen",
+                  "Religionszugehörigkeit definieren",
+                  "Namensgebung",
+                  "Götti / Gotti einsetzen"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Alle diese «Arten» von Taufe haben ihre Berechtigung, sind hier aber nicht gemeint. In unserem Bibeltext versteht man unter Taufe: „Entscheid/Identifikation“ und „Eintauchen/Teilwerden“."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus ist im Jordan Fluss getauft worden. Seine Jünger tauften Erwachsene, die sich mit der Botschaft von Jesus identifizierten. Bei der Taufe geht es um mehr, als nur nass zu werden. In dieser Lektion wollen wir schauen, was die Bibel über die Bedeutung der Taufe sagt."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

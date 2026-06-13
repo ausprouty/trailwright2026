@@ -1,0 +1,183 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics102",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Compartir",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Cómo has experimentado a Dios esta semana?",
+          "¿De qué estas agradecido?",
+          "¿Para qué necesitas la ayuda de Dios?",
+          "¿Cómo podemos ayudarlo con sus necesidades?",
+          "Ora por los demás."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "REVISIÓN",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué has puesto en práctica desde nuestra última reunión?",
+          "¿Mo van las personas que estás cuidando? ¿Qué los ayudaría más?",
+          "¿Do compartir una experiencia de Dios con alguien? Oraste con ellos?",
+          "Ora por estas personas."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LEER",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lee el pasaje en voz alta dos veces.",
+          "Haga que una persona vuelva a contar el pasaje en sus propias palabras con la ayuda del grupo.",
+          "¿Hubo algo perdido o agregado?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Génesis 3",
+        "html": "<div class=\"bible\"> Pero la serpiente era astuta, más que todos los animales del campo que Jehová Dios había hecho; la cual dijo a la mujer: ¿Conque Dios os ha dicho: No comáis de todo árbol del huerto? <p></p><p><sup>2</sup>Y la mujer respondió a la serpiente: Del fruto de los árboles del huerto podemos comer; </p><p><sup>3</sup>pero del fruto del árbol que está en medio del huerto dijo Dios: No comeréis de él, ni le tocaréis, para que no muráis. </p><p><sup>4</sup>Entonces la serpiente dijo a la mujer: No moriréis; </p><p><sup>5</sup>sino que sabe Dios que el día que comáis de él, serán abiertos vuestros ojos, y seréis como Dios, sabiendo el bien y el mal. </p><p><sup>6</sup>Y vio la mujer que el árbol era bueno para comer, y que era agradable a los ojos, y árbol codiciable para alcanzar la sabiduría; y tomó de su fruto, y comió; y dio también a su marido, el cual comió así como ella. </p><p><sup>7</sup>Entonces fueron abiertos los ojos de ambos, y conocieron que estaban desnudos; entonces cosieron hojas de higuera, y se hicieron delantales. </p><p><sup>8</sup>Y oyeron la voz de Jehová Dios que se paseaba en el huerto, al aire del día; y el hombre y su mujer se escondieron de la presencia de Jehová Dios entre los árboles del huerto. </p><p><sup>9</sup>Mas Jehová Dios llamó al hombre, y le dijo: ¿Dónde estás tú? </p><p><sup>10</sup>Y él respondió: Oí tu voz en el huerto, y tuve miedo, porque estaba desnudo; y me escondí. </p><p><sup>11</sup>Y Dios le dijo: ¿Quién te enseñó que estabas desnudo? ¿Has comido del árbol de que yo te mandé no comieses? </p><p><sup>12</sup>Y el hombre respondió: La mujer que me diste por compañera me dio del árbol, y yo comí. </p><p><sup>13</sup>Entonces Jehová Dios dijo a la mujer: ¿Qué es lo que has hecho? Y dijo la mujer: La serpiente me engañó, y comí. </p><p><sup>14</sup>Y Jehová Dios dijo a la serpiente: Por cuanto esto hiciste, maldita serás entre todas las bestias y entre todos los animales del campo; sobre tu pecho andarás, y polvo comerás todos los días de tu vida. </p><p><sup>15</sup>Y pondré enemistad entre ti y la mujer, y entre tu simiente y la simiente suya; ésta te herirá en la cabeza, y tú le herirás en el calcañar. </p><p><sup>16</sup>A la mujer dijo: Multiplicaré en gran manera los dolores en tus preñeces; con dolor darás a luz los hijos; y tu deseo será para tu marido, y él se enseñoreará de ti. </p><p><sup>17</sup>Y al hombre dijo: Por cuanto obedeciste a la voz de tu mujer, y comiste del árbol de que te mandé diciendo: No comerás de él; maldita será la tierra por tu causa; con dolor comerás de ella todos los días de tu vida. </p><p><sup>18</sup>Espinos y cardos te producirá, y comerás plantas del campo. </p><p><sup>19</sup>Con el sudor de tu rostro comerás el pan hasta que vuelvas a la tierra, porque de ella fuiste tomado; pues polvo eres, y al polvo volverás. </p><p><sup>20</sup>Y llamó Adán el nombre de su mujer, Eva, por cuanto ella era madre de todos los vivientes. </p><p><sup>21</sup>Y Jehová Dios hizo al hombre y a su mujer túnicas de pieles, y los vistió. </p><p><sup>22</sup>Y dijo Jehová Dios: He aquí el hombre es como uno de nosotros, sabiendo el bien y el mal; ahora, pues, que no alargue su mano, y tome también del árbol de la vida, y coma, y viva para siempre. </p><p><sup>23</sup>Y lo sacó Jehová del huerto del Edén, para que labrase la tierra de que fue tomado. </p><p><sup>24</sup>Echó, pues, fuera al hombre, y puso al oriente del huerto de Edén querubines, y una espada encendida que se revolvía por todos lados, para guardar el camino del árbol de la vida. </p><br><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Genesis%203:1-24&version=RVR1960",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "DESCUBRA",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué te destaca en este pasaje?",
+          "¿Qué te gusta y qué te molesta en este pasaje?",
+          "¿Qué te dice este pasaje acerca de Dios y la gente?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "APLICA",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Pregúntele a Dios qué quiere que haga en respuesta al pasaje. Esta ahí: <ul><li>¿Un comportamiento para cambiar?</li><li>¿Una promesa de reclamar?</li><li>¿Un ejemplo a seguir?</li><li>¿Una orden para obedecer?</li></ul>",
+          "Comparte esto con el grupo."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics102-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Notas",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Antes de adentrarnos en la tragedia de este capítulo, echemos un vistazo a un punto importante de la historia. Adán y Eva escucharon a Dios caminando en el jardín. Inmediatamente supieron que era Dios quien se estaba acercando. No parecía ser extraordinario que Dios caminara en el jardín con ellos y que hablaran juntos. La relación entre los humanos y Dios debe haber sido directa y maravillosa. Cuán dramáticamente cambió eso cuando Adán y Eva repentinamente tuvieron que elegir entre la serpiente y Dios."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "La serpiente les aconsejó comer del árbol del conocimiento del bien y del mal. Pero después de comer de el, tuvieron un problema aún mayor. Sabían que Dios vendría a ellos en el jardín esa noche. ¿Qué deberían hacer? El hombre decidió culpar a la mujer y la mujer decidió culpar a la serpiente. Ese fue el comienzo del individualismo y el egoísmo. Empezaron a pensar en sí mismos como individuos en lugar de como una unidad de hombre y mujer. Miraban para distanciarse el uno del otro. Por eso hicieron ropa con hojas. Esto solo refleja lo que ya había sucedido en sus corazones. Trazaron una línea entre ellos, para protegerse el uno del otro y ambos se escondieron de Dios también."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Los humanos solo conocían la bondad y vivían en una relación maravillosa con Dios y con los demás. Al comer la fruta prohibida, descubrieron el mal y sus consecuencias. A su debido tiempo, los humanos fueron expulsados del jardín y luego fuera de la presencia de Dios. El consejo de la serpiente no fue completamente incorrecto. No murieron de inmediato, sino que fueron separados de Dios, la fuente de la vida, y allí antes se convirtieron en mortales. Tristemente, a partir de ese punto en adelante, no solo los humanos, sino toda la creación cayeron bajo la influencia de la muerte. Por lo tanto, algunos animales tuvieron que morir para proporcionar ropa a los humanos. A través de esa única acción de oposición humana hacia Dios, todas las relaciones se rompieron. La relación con Dios se rompió, la relación entre los humanos se rompió y la relación de los humanos con los animales y el medio ambiente se rompió."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "site": "myfriends",
+  "country": "FI",
+  "language": "fin",
+  "htmlLang": "fi",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "celebrate",
+  "sortOrder": 12,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "On aika aloittaa uusi elämä Jumalan valtakunnan perillisenä ja lähettilään. Jos sinua ei ole kastettu, on aika kasteelle. Tämä päätös on todella tärkeä elämänmittainen liitto Jumalan kanssa. Jaa läheistesi kanssa kaikki se, kuinka Jeesus valloitti sydämesi, ja miksi hän haluat viettää koko loppuelämäsi Hänen kanssaan."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Juhli elämäsi tärkeintä päätöstä! Elämämme tärkeitä päätöksiä on syytä juhlia asiaankuuluvalla tavalla. Juuri tämän takia meillä on syntymäpäiviä, hääjuhlia ja monia muita juhlia. Myös päätöstä seurata Jeesusta on syytä juhlia sen ansaitsemalla tavalla. Järjestäkää juhlat, jossa kerrot uskostasi ja palaamisesta Isän luo, jonne kutsut perheesi, ystäväsi ja yhteisösi. Tämä antaa elämäsi käännekohdalle sen ansaitseman tärkeyden. Samalla myös ystäväsi, jotka eivät tunne Jeesusta, saavat hyvän mahdollisuuden tutustua Häneen."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Tässä muutamia kysymyksiä, jotka auttavat juhlien järjestämisessä:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ketä haluat kutsua?",
+          "Milloin on sopiva aika järjestää juhlat, jolloin vieraat pääsevät paikalle? (Älä turhan pitkään odota juhlien järjestämistä, mielummin ennemmin kuin myöhemmin)",
+          "Mikä on sopiva paikka juhlien järjestämiselle, missä vieraat viihtyvät?",
+          "Haluatko tarjota ruokaa? Minkälaista?",
+          "Kerro juhlissa hengellisestä matkastasi ja päätöksestäsi seurata Jeesusta. Voit suunnitella ja kirjoittaa ylös mitä haluat sanoa.",
+          "Haluatko, että joku muu jakaa jotain Jeesuksesta?",
+          "Miten saat selville, mitä ystäväsi ajattelevat päätöksestäsi? Ketkä heistä haluavat tutustua Jeesukseen? Aloita heidän kanssa oma ryhmä."
+        ]
+      }
+    }
+  ]
+}

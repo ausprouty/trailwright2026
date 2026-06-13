@@ -37,8 +37,18 @@ first npm run dev
 npx tsx scripts/migration/basics/migrate-basics-test.ts
 
 Wording on:
-const COUNTRY = 'CN';
-const LANGUAGE = 'cmn';
+const COUNTRY = 'FI';
+const LANGUAGE = 'fin';
 const SERIES = 'basics';
 
 still getting note before first sectiion
+
+## Day 7
+
+Spanish Basics is missing 1-6
+Amharic Basics is missing 1-6
+
+## Day 8
+
+Restored missing Files (they did not have html as file type)
+Start again with AU cmn done

@@ -1,0 +1,200 @@
+{
+  "site": "myfriends",
+  "country": "FI",
+  "language": "fin",
+  "htmlLang": "fi",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basic1",
+  "sortOrder": 0,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Jaetaan elämää",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mistä olet kiitollinen?",
+          "Mikä sinua huolestuttaa?",
+          "Ketä auttaa käytännön tarpeissa?",
+          "Miten olet kokenut Jumalan elämässäsi viime aikoina?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan: kiitetään Jumalaa ja pyydetään Jumalalta apua. Rukoilkaa myös, että saisitte oppia tuntemaan uusia puolia Jumalasta ja että ystävyytenne Jumalan kanssa vahvistuisi ja syvenisi."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "Katsaus aiempaan",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mitä olet laittanut käytäntöön viime kerran jälkeen?",
+          "Oletko jollekin Jumalasta?",
+          "Kenen puolesta voimme rukoilla, että hekin oppisivat tuntemaan Jumalan?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan jokaisen mainitun puolesta erikseen ja kysytään miten osoittaa heille Jumalan rakkautta."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "Lue",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Lue teksti hiljaa mielessäsi.",
+          "Lue teksti ääneen.",
+          "Kerro tekstin sisältö omin sanoin (ilman Raamattua).",
+          "Muu ryhmä täydentää/korjaa."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1. Mooseksen kirja 2:4-25",
+        "html": "<div class=\"bible\"><p><sup>4. </sup>Siihen aikaan, kun Herra Jumala teki maan ja taivaan, <sup><sub>5</sub></sup>. ei maan päällä ollut vielä yhtään pensasta eikä edes ruoho ollut noussut esiin, sillä Herra Jumala ei ollut antanut sateen kastella maata eikä ihmistä vielä ollut maata viljelemässä. <sup>6.</sup> Mutta maasta kumpusi vettä, ja se kasteli maan pinnan. <sup>7.</sup> Ja Herra Jumala muovasi maan tomusta ihmisen ja puhalsi hänen sieraimiinsa elämän henkäyksen. Näin ihmisestä tuli elävä olento.</p><p><sup>8.</sup> Herra Jumala istutti puutarhan itään, Eedeniin, ja sinne hän asetti ihmisen, jonka oli tehnyt. <sup>9.</sup> Herra Jumala kasvatti maasta esiin kaikenlaisia puita, jotka olivat kauniita katsella ja joiden hedelmät olivat hyviä syödä, ja paratiisin keskelle hän kasvatti elämän puun sekä hyvän- ja pahantiedon puun.</p><p><sup>10.</sup> Eedenistä sai alkunsa joki, joka kasteli puutarhan ja joka sieltä lähtiessään jakautui neljäksi haaraksi. <sup>11.</sup> Ensimmäisen nimi on Pison. Se kiertää koko Havilan maan, missä on kultaa, <sup>12</sup>. ja sen maan kulta on hyvää. Siellä on myös suitsutuspihkaa ja onykskiveä. <sup>13.</sup> Toisen joen nimi on Gihon. Se kiertää koko Nubian maan. <sup>14.</sup> Kolmannen joen nimi on Tigris, ja se virtaa Assurin editse. Ja neljäs joki on Eufrat.</p><p><sup>15.</sup> Herra Jumala asetti ihmisen Eedenin puutarhaan viljelemään ja varjelemaan sitä. <sup>16.</sup> Herra Jumala sanoi ihmiselle: »Saat vapaasti syödä puutarhan kaikista puista. <sup>17.</sup> Vain siitä puusta, joka antaa tiedon hyvästä ja pahasta, älä syö, sillä sinä päivänä, jona siitä syöt, olet kuoleman oma.»</p><p><sup>18.</sup> Herra Jumala sanoi: »Ei ole hyvä ihmisen olla yksinään. Minä teen hänelle kumppanin, joka sopii hänen avukseen.»</p><p><sup>19. </sup>Ja Herra Jumala muovasi maasta kaikki villieläimet ja kaikki taivaan linnut ja vei ne ihmisen luo nähdäkseen, minkä nimen hän kullekin antaisi. Ja jokainen elävä olento sai sen nimen, jolla ihminen sitä kutsui. <sup>20.</sup> Näin ihminen antoi nimet kaikille karjaeläimille, kaikille linnuille ja kaikille villieläimille.</p><p>Mutta ihmiselle ei löytynyt sopivaa kumppania. <sup>21.</sup> Silloin Herra Jumala vaivutti ihmisen syvään uneen ja otti hänen nukkuessaan yhden hänen kylkiluistaan ja täytti kohdan lihalla. <sup>22.</sup> Herra Jumala teki tästä kylkiluusta naisen ja toi hänet miehen luo.</p><p><sup>23.</sup> Ja mies sanoi: – Tämä se on! Tämä on luu minun luustani ja liha minun lihastani. Naiseksi häntä sanottakoon: miehestä hänet on otettu.</p><p><sup>24. </sup>Siksi mies jättää isänsä ja äitinsä ja liittyy vaimoonsa, niin että he tulevat yhdeksi lihaksi.</p><p><sup>25.</sup> Ja he olivat molemmat alasti, mies ja hänen vaimonsa, eivätkä he tunteneet häpeää.</p><a href=\"https://raamattu.fi/raamattu/KR92/GEN.2/1.-Mooseksen-kirja-2\">Lue lisää</a></div>",
+        "url": "",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mikä kiinnitti huomiosi?",
+          "Mitä teksti kertoo Jumalasta ja ihmisestä?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Tarkentavat kysymykset: (katso tekstin selitys)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Miksi Jumala loi eläimet?",
+          "Miksi Jumala loi miehen ja naisen, ei vain sukupuolettomia ihmisiä?",
+          "Miksi hyvän ja pahantiedon puu luotiin? <ul></ul>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "Haasteet",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<div>Jos Raamatunkohta on totta, miten muutat elämäntapaasi? </div>",
+          "<div>Käytännön haasteena aion seuraavien päivien aikana.. </div>",
+          "<div>Kenelle jaat tästä Raamatunkohdasta ja Jumalasta?</div>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basic1-i-will"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<div> Milloin tapaamme seuraavan kerran?</div>"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Tekstin selitys:",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "1. Mooseksen kirja 2:4b-25"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Taivaat, maa, ihmiset, eläimet ja kasvit eivät ole saaneet alkuaan sattumalta, vaan Jumala loi ne. Ihmisillä on ollut tärkeä osa alusta lähtien. Eläimet luotiin, jotta ihmiset eivät olisi yksin ja sukupuolet (miehet ja naiset) luotiin kaikista läheisimmän yhteyden mahdollistamiseksi. Luottamus kahden ensimmäisen ihmisen välillä oli niin suuri, etteivät he ollenkaan hävenneet alastomuuttaan eikä heidän tarvinnut piiloutua tai suojata itseään vaatteilla. On häkellyttävää, että ihmisille annettiin mahdollisuus olla tottelematta Jumalaa syömällä hyvän ja pahantiedon puusta. Mutta Jumala varoitti heitä kertomalla, että rangaistus siitä olisi kuolema. Tämän puun olemassaolo osoittaa meille, että ihmiset eivät ole täysin Jumalan tahdon armoilla. Päinvastoin: Ihmiskunnalla oli valinnanvapaus. Heille annettiin vapaus hyväksyä tai torjua Jumalan rakkaus."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

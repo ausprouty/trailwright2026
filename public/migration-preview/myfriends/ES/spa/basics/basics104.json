@@ -1,0 +1,171 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics104",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Compartir",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Cómo has experimentado a Dios esta semana?",
+          "¿De qué estas agradecido?",
+          "¿Para qué necesitas la ayuda de Dios?",
+          "¿Cómo podemos ayudarlo con sus necesidades?",
+          "Ora por los demás."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "REVISIÓN",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué has puesto en práctica desde nuestra última reunión?",
+          "¿Mo van las personas que estás cuidando? ¿Qué los ayudaría más?",
+          "¿Do compartir una experiencia de Dios con alguien? Oraste con ellos?",
+          "Ora por estas personas."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LEER",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lee el pasaje en voz alta dos veces.",
+          "Haga que una persona vuelva a contar el pasaje en sus propias palabras con la ayuda del grupo.",
+          "¿Hubo algo perdido o agregado?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Deuteronomio 5:6-22",
+        "html": "<div class=\"bible\"><p><sup>6</sup>Yo soy Jehová tu Dios, que te saqué de tierra de Egipto, de casa de servidumbre. </p><p><sup>7</sup>No tendrás dioses ajenos delante de mí. </p><p><sup>8</sup>No harás para ti escultura, ni imagen alguna de cosa que está arriba en los cielos, ni abajo en la tierra, ni en las aguas debajo de la tierra. </p><p><sup>9</sup>No te inclinarás a ellas ni las servirás; porque yo soy Jehová tu Dios, fuerte, celoso, que visito la maldad de los padres sobre los hijos hasta la tercera y cuarta generación de los que me aborrecen, </p><p><sup>10</sup>y que hago misericordia a millares, a los que me aman y guardan mis mandamientos. </p><p><sup>11</sup>No tomarás el nombre de Jehová tu Dios en vano; porque Jehová no dará por inocente al que tome su nombre en vano. </p><p><sup>12</sup>Guardarás el día de reposo para santificarlo, como Jehová tu Dios te ha mandado. </p><p><sup>13</sup>Seis días trabajarás, y harás toda tu obra; </p><p><sup>14</sup>mas el séptimo día es reposo a Jehová tu Dios; ninguna obra harás tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu sierva, ni tu buey, ni tu asno, ni ningún animal tuyo, ni el extranjero que está dentro de tus puertas, para que descanse tu siervo y tu sierva como tú. </p><p><sup>15</sup>Acuérdate que fuiste siervo en tierra de Egipto, y que Jehová tu Dios te sacó de allá con mano fuerte y brazo extendido; por lo cual Jehová tu Dios te ha mandado que guardes el día de reposo. </p><p><sup>16</sup>Honra a tu padre y a tu madre, como Jehová tu Dios te ha mandado, para que sean prolongados tus días, y para que te vaya bien sobre la tierra que Jehová tu Dios te da. </p><p><sup>17</sup>No matarás.</p><p><sup>18</sup>No cometerás adulterio.</p><p><sup>19</sup>No hurtarás.</p><p><sup>20</sup>No dirás falso testimonio contra tu prójimo. </p><p><sup>21</sup>No codiciarás la mujer de tu prójimo, ni desearás la casa de tu prójimo, ni su tierra, ni su siervo, ni su sierva, ni su buey, ni su asno, ni cosa alguna de tu prójimo. </p><p><sup>22</sup>Estas palabras habló Jehová a toda vuestra congregación en el monte, de en medio del fuego, de la nube y de la oscuridad, a gran voz; y no añadió más. Y las escribió en dos tablas de piedra, las cuales me dio a mí. </p><br><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Deuteronomy%205:6-22&version=RVR1960",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "DESCUBRA",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué te destaca en este pasaje?",
+          "¿Qué te gusta y qué te molesta en este pasaje?",
+          "¿Qué te dice este pasaje acerca de Dios y la gente?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "APLICA",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Pregúntele a Dios qué quiere que haga en respuesta al pasaje. Esta ahí: <ul><li>¿Un comportamiento para cambiar?</li><li>¿Una promesa de reclamar?</li><li>¿Un ejemplo a seguir?</li><li>¿Una orden para obedecer?</li></ul>",
+          "Comparte esto con el grupo."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics104-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Notas",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Para evitar que el mal se propague incontrolablemente, como fue el caso antes del diluvio, Dios estableció límites para mantener el individualismo y el egoísmo bajo control. Las reglas más importantes se llaman los \"Diez Mandamientos\". Estas reglas nos ayudan a distinguir entre el comportamiento aceptable y el inaceptable. Son la base de los errores de castigo para evitar que el mal se propague sin obstáculos e infecte a toda la raza humana. Revelan nuestra propia frialdad en la relación con Dios (los primeros cinco) y entre ellos (los segundos cinco)."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

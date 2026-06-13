@@ -522,7 +522,7 @@ function isBackgroundNoteWrapper($el: cheerio.Cheerio<AnyNode>): boolean {
   return $el.is('#background_note');
 }
 function isBibleContainer($el: cheerio.Cheerio<AnyNode>): boolean {
-  return $el.hasClass('bible_container') || $el.hasClass('bible');
+  return $el.hasClass('bible_container') || $el.hasClass('bible') || $el.is('#bible');
 }
 function isBibleReveal($el: cheerio.Cheerio<AnyNode>): boolean {
   return $el.is('div.reveal.bible');
@@ -687,6 +687,109 @@ function parseArclightRefId(url: string): string {
     return '';
   }
 }
+function repairMojibakeText(value: string): string {
+  const repaired = repairUtf8AsWindows1252(value);
+
+  return repaired
+    .replaceAll('â–¶', '▶')
+    .replaceAll('â–', '▶')
+    .replaceAll('â€™', '’')
+    .replaceAll('â€œ', '“')
+    .replaceAll('â€', '”')
+    .replaceAll('â€“', '–')
+    .replaceAll('â€”', '—')
+    .replaceAll('Â ', ' ')
+    .replaceAll('â€­', '')
+    .replaceAll('â€¬', '')
+    .replaceAll('\u202D', '')
+    .replaceAll('\u202C', '');
+}
+
+function repairUtf8AsWindows1252(value: string): string {
+  if (!looksLikeMojibake(value)) {
+    return value;
+  }
+
+  const bytes: number[] = [];
+
+  for (const char of value) {
+    const codePoint = char.codePointAt(0);
+
+    if (codePoint === undefined) {
+      continue;
+    }
+
+    const byte = windows1252CodePointToByte(codePoint);
+
+    if (byte === null) {
+      // Do not guess. If we hit a character we cannot reverse safely,
+      // leave the original text unchanged.
+      return value;
+    }
+
+    bytes.push(byte);
+  }
+
+  try {
+    return new TextDecoder('utf-8', { fatal: true }).decode(new Uint8Array(bytes));
+  } catch {
+    return value;
+  }
+}
+
+function looksLikeMojibake(value: string): boolean {
+  return /(?:æ|ä|è|é|å|ç|ã|ï|Â|â)/.test(value);
+}
+
+function windows1252CodePointToByte(codePoint: number): number | null {
+  // ASCII
+  if (codePoint >= 0x00 && codePoint <= 0x7f) {
+    return codePoint;
+  }
+
+  // Important: preserve actual C1 control bytes.
+  // Your Chinese mojibake includes these.
+  if (codePoint >= 0x80 && codePoint <= 0x9f) {
+    return codePoint;
+  }
+
+  // Latin-1 range
+  if (codePoint >= 0xa0 && codePoint <= 0xff) {
+    return codePoint;
+  }
+
+  const map: Record<number, number> = {
+    0x20ac: 0x80, // €
+    0x201a: 0x82, // ‚
+    0x0192: 0x83, // ƒ
+    0x201e: 0x84, // „
+    0x2026: 0x85, // …
+    0x2020: 0x86, // †
+    0x2021: 0x87, // ‡
+    0x02c6: 0x88, // ˆ
+    0x2030: 0x89, // ‰
+    0x0160: 0x8a, // Š
+    0x2039: 0x8b, // ‹
+    0x0152: 0x8c, // Œ
+    0x017d: 0x8e, // Ž
+    0x2018: 0x91, // ‘
+    0x2019: 0x92, // ’
+    0x201c: 0x93, // “
+    0x201d: 0x94, // ”
+    0x2022: 0x95, // •
+    0x2013: 0x96, // –
+    0x2014: 0x97, // —
+    0x02dc: 0x98, // ˜
+    0x2122: 0x99, // ™
+    0x0161: 0x9a, // š
+    0x203a: 0x9b, // ›
+    0x0153: 0x9c, // œ
+    0x017e: 0x9e, // ž
+    0x0178: 0x9f, // Ÿ
+  };
+
+  return map[codePoint] ?? null;
+}
 
 function trimNbspEdges(text: string): string {
   return text.replace(/^(?:\s|&nbsp;|\u00A0)+/gi, '').replace(/(?:\s|&nbsp;|\u00A0)+$/gi, '');
@@ -725,7 +828,8 @@ export function migrateOldLessonHtmlToEditorJs(
   options: MigrateOptions = {},
 ): EditorJsContent {
   const remappedHtml = remapImagePaths(html);
-  const $ = cheerio.load(remappedHtml);
+  const repairedHtml = repairMojibakeText(remappedHtml);
+  const $ = cheerio.load(repairedHtml);
   const blocks: AnyEditorJsBlock[] = [];
   let sectionIndex = 0;
 
@@ -808,9 +912,7 @@ export function migrateOldLessonHtmlToEditorJs(
       return;
     }
     if (isBibleContainer($el)) {
-      const reference =
-        normalizeTextForEditor($el.find('.myfriends-reference').first().text()) || 'Bible';
-
+      const reference = normalizeTextForEditor(extractBibleReference($el)) || 'Bible';
       const url = extractBibleUrl($el);
       const cleanedHtml = cleanBibleHtml($el.html() || '');
 

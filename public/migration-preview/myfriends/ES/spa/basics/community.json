@@ -1,8 +1,8 @@
 {
   "site": "myfriends",
-  "country": "DE",
-  "language": "deu",
-  "htmlLang": "de",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
   "direction": "ltr",
   "numberSystem": "latn",
   "series": "basics",
@@ -10,16 +10,10 @@
   "sortOrder": 12,
   "blocks": [
     {
-      "type": "paragraph",
-      "data": {
-        "text": "Gestalte deinen eigenen Weg. Glaube lebt sich besser in Gemeinschaft. Hier findest du einen Ablauf, den du mit jeden Bibeltext anwenden kannst, sobald du den Prozess 1 abgeschlossen hast."
-      }
-    },
-    {
       "type": "sectionMarker",
       "data": {
         "theme": "sharing-life",
-        "title": "AUSTAUSCHEN",
+        "title": "Compartir",
         "icon": "sharing-life"
       }
     },
@@ -28,11 +22,11 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?",
-          "Betet für einander"
+          "¿Cómo has experimentado a Dios esta semana?",
+          "¿De qué estas agradecido?",
+          "¿Para qué necesitas la ayuda de Dios?",
+          "¿Cómo podemos ayudarlo con sus necesidades?",
+          "Ora por los demás."
         ]
       }
     },
@@ -47,7 +41,7 @@
       "type": "sectionMarker",
       "data": {
         "theme": "review",
-        "title": "RÜCKBLICK",
+        "title": "REVISIÓN",
         "icon": "review"
       }
     },
@@ -56,10 +50,10 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Was hast du seit dem letzten Treffen vom Gelernten umgesetzt?",
-          "Wie geht es den Menschen, welche dir besonders am Herzen liegen? Was würde ihnen am meisten helfen?",
-          "Wem konntest du von einem Gotteserlebnis erzählen? Mit wem konntest du beten?",
-          "Betet für diese Leute"
+          "¿Qué has puesto en práctica desde nuestra última reunión?",
+          "¿Mo van las personas que estás cuidando? ¿Qué los ayudaría más?",
+          "¿Do compartir una experiencia de Dios con alguien? Oraste con ellos?",
+          "Ora por estas personas."
         ]
       }
     },
@@ -74,14 +68,8 @@
       "type": "sectionMarker",
       "data": {
         "theme": "bible-study",
-        "title": "LESEN",
+        "title": "LEER",
         "icon": "bible-study"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "\\"
       }
     },
     {
@@ -89,16 +77,19 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Der Text wird zweimal laut vorgelesen",
-          "Jemand erzählt in eigenen Worten den Text nach, mit Unterstützung der Gruppe.",
-          "Würde etwas weggelassen oder ergänzt?"
+          "Lee el pasaje en voz alta dos veces.",
+          "Haga que una persona vuelva a contar el pasaje en sus propias palabras con la ayuda del grupo.",
+          "¿Hubo algo perdido o agregado?"
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "biblePassage",
       "data": {
-        "text": "<strong><a target=\"_blank\" href=\"https://www.biblegateway.com/quicksearch/?quicksearch=Luke&amp;qs_version=HOF\">EINE BIBELSTELLE WÄHLEN</a></strong>"
+        "reference": "Bible",
+        "html": "<strong><a target=\"_blank\" href=\"https://www.biblegateway.com/quicksearch/?quicksearch=Luke&amp;qs_version=RVR1960\">SELECCIONE UN PASAJE BÍBLICO </a></strong>",
+        "url": "",
+        "isOpen": true
       }
     },
     {
@@ -118,7 +109,7 @@
       "type": "sectionMarker",
       "data": {
         "theme": "bible-study",
-        "title": "ENTDECKEN",
+        "title": "DESCUBRA",
         "icon": "bible-study"
       }
     },
@@ -127,9 +118,9 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen?",
-          "Was gefällt dir und was stört dich an diesem Text?",
-          "Was kannst du in diesem Text über Gott und über die Menschen lernen?"
+          "¿Qué te destaca en este pasaje?",
+          "¿Qué te gusta y qué te molesta en este pasaje?",
+          "¿Qué te dice este pasaje acerca de Dios y la gente?"
         ]
       }
     },
@@ -144,7 +135,7 @@
       "type": "sectionMarker",
       "data": {
         "theme": "challenge",
-        "title": "ANWENDEN",
+        "title": "APLICA",
         "icon": "challenges"
       }
     },
@@ -153,8 +144,8 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung des Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem es zu gehorchen gilt?</li></ul>",
-          "Teile deine Erkenntnis mit der Gruppe"
+          "Pregúntele a Dios qué quiere que haga en respuesta al pasaje. Esta ahí: <ul><li>¿Un comportamiento para cambiar?</li><li>¿Una promesa de reclamar?</li><li>¿Un ejemplo a seguir?</li><li>¿Una orden para obedecer?</li></ul>",
+          "Comparte esto con el grupo."
         ]
       }
     },

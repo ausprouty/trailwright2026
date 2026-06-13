@@ -1,0 +1,188 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics105",
+  "sortOrder": 4,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Compartir",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Cómo has experimentado a Dios esta semana?",
+          "¿De qué estas agradecido?",
+          "¿Para qué necesitas la ayuda de Dios?",
+          "¿Cómo podemos ayudarlo con sus necesidades?",
+          "Ora por los demás."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "REVISIÓN",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué has puesto en práctica desde nuestra última reunión?",
+          "¿Mo van las personas que estás cuidando? ¿Qué los ayudaría más?",
+          "¿Do compartir una experiencia de Dios con alguien? Oraste con ellos?",
+          "Ora por estas personas."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LEER",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lee el pasaje en voz alta dos veces.",
+          "Haga que una persona vuelva a contar el pasaje en sus propias palabras con la ayuda del grupo.",
+          "¿Hubo algo perdido o agregado?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Jeremías 31:31-34",
+        "html": "<div class=\"bible\"><p><sup>31</sup>He aquí que vienen días, dice Jehová, en los cuales haré nuevo pacto con la casa de Israel y con la casa de Judá. </p><p><sup>32</sup>No como el pacto que hice con sus padres el día que tomé su mano para sacarlos de la tierra de Egipto; porque ellos invalidaron mi pacto, aunque fui yo un marido para ellos, dice Jehová. </p><p><sup>33</sup>Pero este es el pacto que haré con la casa de Israel después de aquellos días, dice Jehová: Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo. </p><p><sup>34</sup>Y no enseñará más ninguno a su prójimo, ni ninguno a su hermano, diciendo: Conoce a Jehová; porque todos me conocerán, desde el más pequeño de ellos hasta el más grande, dice Jehová; porque perdonaré la maldad de ellos, y no me acordaré más de su pecado. </p><br><br><br><p><sup>1</sup> He aquí que no se ha acortado la mano de Jehová para salvar, ni se ha agravado su oído para oír; </p><p><sup>2</sup>pero vuestras iniquidades han hecho división entre vosotros y vuestro Dios, y vuestros pecados han hecho ocultar de vosotros su rostro para no oír. </p><br><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Jeremiah%2031:31-34&version=RVR1960",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "DESCUBRA",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué te destaca en este pasaje?",
+          "¿Qué te gusta y qué te molesta en este pasaje?",
+          "¿Qué te dice este pasaje acerca de Dios y la gente?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "APLICA",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Pregúntele a Dios qué quiere que haga en respuesta al pasaje. Esta ahí: <ul><li>¿Un comportamiento para cambiar?</li><li>¿Una promesa de reclamar?</li><li>¿Un ejemplo a seguir?</li><li>¿Una orden para obedecer?</li></ul>",
+          "Comparte esto con el grupo."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics105-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Notas",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Seamos honestos. ¿Eres capaz de guardar los Diez Mandamientos o estás consciente de romperlos persistentemente? Estas reglas pueden luchar contra el mal, pero no pueden erradicarlo por completo. Sigue siendo un hecho que los humanos no estamos libres del mal y que no somos capaces de cambiar nosotros mismos."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Es por eso que Dios habló de un tiempo en el que habrá una nueva forma de vida. Pero algunas cosas deben cambiar para que eso suceda:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "ordered",
+                "items": [
+                  "Cuando los humanos decidimos contra Dios y elegimos seguir a la serpiente, tuvimos que abandonar el jardín y luego la relación cercana con Dios. Hemos pecado contra Dios y no podemos revertirlo. Pero debido a que Dios nos ama tanto, anunció que perdonará nuestros pecados. Ese es el requisito más importante para obtener el tipo de relación que tuvieron los primeros humanos con Dios.",
+                  "Dios necesita cambiar nuestro corazón para que ya no estemos bajo la influencia del mal y podamos elegir libremente entre Dios y la serpiente (maldad). Si elegimos a Dios y luego lo que es bueno, las reglas de Dios se aplicarán nuevamente a nosotros, pero si elegimos escuchar a la serpiente caeremos nuevamente bajo la influencia del mal. Pero para que podamos tomar esa decisión, primero necesitamos conocer a Dios (llegar a conocerlo). Entonces Dios habló de un tiempo en el que todos podrían conocerlo personalmente. Cuando podemos tener tal relación con Dios, ya no necesitamos seguir las reglas de un libro, sino que Dios escribirá Sus reglas directamente en nuestros corazones para que se convierta en una parte de nosotros.",
+                  "Entonces, perteneceremos a su pueblo y Él será nuestro Dios y muchas cosas se convertirán en lo que Dios quiso que fueran en primer lugar."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

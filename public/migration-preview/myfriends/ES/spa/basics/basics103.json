@@ -1,0 +1,181 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics103",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Compartir",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Cómo has experimentado a Dios esta semana?",
+          "¿De qué estas agradecido?",
+          "¿Para qué necesitas la ayuda de Dios?",
+          "¿Cómo podemos ayudarlo con sus necesidades?",
+          "Ora por los demás."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "REVISIÓN",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué has puesto en práctica desde nuestra última reunión?",
+          "¿Mo van las personas que estás cuidando? ¿Qué los ayudaría más?",
+          "¿Do compartir una experiencia de Dios con alguien? Oraste con ellos?",
+          "Ora por estas personas."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LEER",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lee el pasaje en voz alta dos veces.",
+          "Haga que una persona vuelva a contar el pasaje en sus propias palabras con la ayuda del grupo.",
+          "¿Hubo algo perdido o agregado?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Génesis 6:5-22",
+        "html": "<div class=\"bible\"><p><sup>5</sup>Y vio Jehová que la maldad de los hombres era mucha en la tierra, y que todo designio de los pensamientos del corazón de ellos era de continuo solamente el mal. </p><p><sup>6</sup>Y se arrepintió Jehová de haber hecho hombre en la tierra, y le dolió en su corazón. </p><p><sup>7</sup>Y dijo Jehová: Raeré de sobre la faz de la tierra a los hombres que he creado, desde el hombre hasta la bestia, y hasta el reptil y las aves del cielo; pues me arrepiento de haberlos hecho. </p><p><sup>8</sup>Pero Noé halló gracia ante los ojos de Jehová. </p><p><sup>9</sup>Estas son las generaciones de Noé: Noé, varón justo, era perfecto en sus generaciones; con Dios caminó Noé. </p><p><sup>10</sup>Y engendró Noé tres hijos: a Sem, a Cam y a Jafet. </p><p><sup>11</sup>Y se corrompió la tierra delante de Dios, y estaba la tierra llena de violencia. </p><p><sup>12</sup>Y miró Dios la tierra, y he aquí que estaba corrompida; porque toda carne había corrompido su camino sobre la tierra. </p><p><sup>13</sup>Dijo, pues, Dios a Noé: He decidido el fin de todo ser, porque la tierra está llena de violencia a causa de ellos; y he aquí que yo los destruiré con la tierra. </p><p><sup>14</sup>Hazte un arca de madera de gofer; harás aposentos en el arca, y la calafatearás con brea por dentro y por fuera. </p><p><sup>15</sup>Y de esta manera la harás: de trescientos codos la longitud del arca, de cincuenta codos su anchura, y de treinta codos su altura. </p><p><sup>16</sup>Una ventana harás al arca, y la acabarás a un codo de elevación por la parte de arriba; y pondrás la puerta del arca a su lado; y le harás piso bajo, segundo y tercero. </p><p><sup>17</sup>Y he aquí que yo traigo un diluvio de aguas sobre la tierra, para destruir toda carne en que haya espíritu de vida debajo del cielo; todo lo que hay en la tierra morirá. </p><p><sup>18</sup>Mas estableceré mi pacto contigo, y entrarás en el arca tú, tus hijos, tu mujer, y las mujeres de tus hijos contigo. </p><p><sup>19</sup>Y de todo lo que vive, de toda carne, dos de cada especie meterás en el arca, para que tengan vida contigo; macho y hembra serán. </p><p><sup>20</sup>De las aves según su especie, y de las bestias según su especie, de todo reptil de la tierra según su especie, dos de cada especie entrarán contigo, para que tengan vida. </p><p><sup>21</sup>Y toma contigo de todo alimento que se come, y almacénalo, y servirá de sustento para ti y para ellos. </p><p><sup>22</sup>Y lo hizo así Noé; hizo conforme a todo lo que Dios le mandó. </p><br><p><sup>1</sup> Dijo luego Jehová a Noé: Entra tú y toda tu casa en el arca; porque a ti he visto justo delante de mí en esta generación. </p><p><sup>2</sup>De todo animal limpio tomarás siete parejas, macho y su hembra; mas de los animales que no son limpios, una pareja, el macho y su hembra. </p><p><sup>3</sup>También de las aves de los cielos, siete parejas, macho y hembra, para conservar viva la especie sobre la faz de la tierra. </p><p><sup>4</sup>Porque pasados aún siete días, yo haré llover sobre la tierra cuarenta días y cuarenta noches; y raeré de sobre la faz de la tierra a todo ser viviente que hice. </p><p><sup>5</sup>E hizo Noé conforme a todo lo que le mandó Jehová. </p><p><sup>6</sup>Era Noé de seiscientos años cuando el diluvio de las aguas vino sobre la tierra. </p><p><sup>7</sup>Y por causa de las aguas del diluvio entró Noé al arca, y con él sus hijos, su mujer, y las mujeres de sus hijos. </p><p><sup>8</sup>De los animales limpios, y de los animales que no eran limpios, y de las aves, y de todo lo que se arrastra sobre la tierra, </p><p><sup>9</sup>de dos en dos entraron con Noé en el arca; macho y hembra, como mandó Dios a Noé. </p><p><sup>10</sup>Y sucedió que al séptimo día las aguas del diluvio vinieron sobre la tierra. </p><p><sup>11</sup>El año seiscientos de la vida de Noé, en el mes segundo, a los diecisiete días del mes, aquel día fueron rotas todas las fuentes del grande abismo, y las cataratas de los cielos fueron abiertas, </p><p><sup>12</sup>y hubo lluvia sobre la tierra cuarenta días y cuarenta noches. </p><p><sup>13</sup>En este mismo día entraron Noé, y Sem, Cam y Jafet hijos de Noé, la mujer de Noé, y las tres mujeres de sus hijos, con él en el arca; </p><p><sup>14</sup>ellos, y todos los animales silvestres según sus especies, y todos los animales domesticados según sus especies, y todo reptil que se arrastra sobre la tierra según su especie, y toda ave según su especie, y todo pájaro de toda especie. </p><p><sup>15</sup>Vinieron, pues, con Noé al arca, de dos en dos de toda carne en que había espíritu de vida. </p><p><sup>16</sup>Y los que vinieron, macho y hembra de toda carne vinieron, como le había mandado Dios; y Jehová le cerró la puerta. </p><p><sup>17</sup>Y fue el diluvio cuarenta días sobre la tierra; y las aguas crecieron, y alzaron el arca, y se elevó sobre la tierra. </p><p><sup>18</sup>Y subieron las aguas y crecieron en gran manera sobre la tierra; y flotaba el arca sobre la superficie de las aguas. </p><p><sup>19</sup>Y las aguas subieron mucho sobre la tierra; y todos los montes altos que había debajo de todos los cielos, fueron cubiertos. </p><p><sup>20</sup>Quince codos más alto subieron las aguas, después que fueron cubiertos los montes. </p><p><sup>21</sup>Y murió toda carne que se mueve sobre la tierra, así de aves como de ganado y de bestias, y de todo reptil que se arrastra sobre la tierra, y todo hombre. </p><p><sup>22</sup>Todo lo que tenía aliento de espíritu de vida en sus narices, todo lo que había en la tierra, murió. </p><p><sup>23</sup>Así fue destruido todo ser que vivía sobre la faz de la tierra, desde el hombre hasta la bestia, los reptiles, y las aves del cielo; y fueron raídos de la tierra, y quedó solamente Noé, y los que con él estaban en el arca. </p><p><sup>24</sup>Y prevalecieron las aguas sobre la tierra ciento cincuenta días. </p><br><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Genesis%207:1-24&version=RVR1960",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "DESCUBRA",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué te destaca en este pasaje?",
+          "¿Qué te gusta y qué te molesta en este pasaje?",
+          "¿Qué te dice este pasaje acerca de Dios y la gente?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "APLICA",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Pregúntele a Dios qué quiere que haga en respuesta al pasaje. Esta ahí: <ul><li>¿Un comportamiento para cambiar?</li><li>¿Una promesa de reclamar?</li><li>¿Un ejemplo a seguir?</li><li>¿Una orden para obedecer?</li></ul>",
+          "Comparte esto con el grupo."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics103-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Notas",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Los efectos extremos de los eventos en el jardín del Edén se estaban volviendo gradualmente visibles. En el transcurso de unas pocas generaciones, el mal aumentó tanto que en la décima generación los humanos estaban llenos de maldad."
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "En la segunda generación de humanos, el individualismo, el egoísmo y la envidia, en pocas palabras, ya estaban tan avanzados que Caín asesinó a su hermano menor. Fue expulsado de su familia como un castigo.",
+                  "Para la décima generación (la generación de Noé), era necesario decir que la maldad de los humanos era exxcesiva, Tan grande, que solo podían hacer el mal (Génesis 6: 11-12). Por lo tanto, Dios determinó intervenir dramáticamente en la historia del mundo para controlar ese mal dejando solo lo que era bueno para sobrevivir al diluvio y luego dar paso a un nuevo comienzo (Génesis 6 y 7)."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

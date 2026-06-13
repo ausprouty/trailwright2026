@@ -1,0 +1,165 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "amh",
+  "htmlLang": "am",
+  "direction": "ltr",
+  "numberSystem": "ethi",
+  "series": "basics",
+  "lessonId": "community",
+  "sortOrder": 12,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "ጉዞህን አስተካክል፤ እምነት ማለት በምኖሩበት ማህበረሰብ ውስጥ ኖሮ ማሳየት ነው፡፡ አንደኛ ጉዞ እንደ ጨረስክ/ሽ የምትፈልገውን መጽሓፍ ቅዱስ ስታነብ እነዚህ ነጥቦች ያግዙሃል/ሻል፡፡"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "አካፍል",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "በዚህ ሳምንት ከእግዚአብሔር ጋራ እንዴት ሳለፍክ/ሽ?",
+          "እንድታመሰግን ያደረገ ነገር ምንድር ነው?",
+          "እግዝአብሔር ምን እንዲረዳህ ትፈልግሃለህ?",
+          "በምያስፈልግህ ነገር ውሰጥ እንዴት ልንረዳህ እንችላለን;",
+          "ለእርስበርሳቸችሁ ፀልዩ"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "ክለሳ",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ከባለፈው ስብሰባችን ወዲህ ምን ምን ተለማምደሃል?",
+          "እያንከባከብካቸው ያሉተ ሰዎች እንዴት ናቸው? በጣም የሚጠቅማቸው ነገር ምነድር ነው?",
+          "የእግዝአብሔርን ለሌሎች ማካፍል ትችላለህ? ከነርሱ ጋር ፀልየሃል?",
+          "ለነዚያ ሰዎች ፀልይ"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "አንብብ",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ንባቡን ድምጽህን ከፍ አርግና ሁለት ግዜ አንብብ",
+          "በቡድኑ እርዳታ አንድ ሰው ንባቡን በቃሉ እንዲያነብ አርጉት",
+          "የተጨመረ አዲስ ነገር ወይም የጎደለ ነገር አለ?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Bible",
+        "html": "<strong><a target=\"_blank\" href=\"http://iyesus.com/amharic-bible/43/1/0/15/\">የመጽሓፍ ቅዱስ ንባብ ምረጥ </a></strong>",
+        "url": "",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "አጣራ",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ይህ ንባብ ላንተ ምን ጥቅም አለው?",
+          "ከዚህ ንባብ የወደድከው ነገር ወይ የረበሸ ነገር አለ?",
+          "የህ ንባብ ስለ ሰው እና ስለ እግዝአብሔር ምን ይነግርሃል?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "አተግብር",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "የህን ንባብ መሰረት በማድረግ ታደርግ ዘንድ እግዝአብሔር ካንተ የሚፈልገውን ነገር ጠይቅ፤ ምን ምን ናቸው? <ul><li>መቀየር ያለበት ፀባይ</li><li>መጠየቅ ያለበት ቃል ክዳን</li><li>መከተል የሚገባው ምሳሌ</li><li>መጠበቅ ያለበት ትዕዛዝ</li></ul>",
+          "ይህን ለቡድኑ አካፍል"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-community-i-will"
+      }
+    }
+  ]
+}

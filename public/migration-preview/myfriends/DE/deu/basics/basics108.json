@@ -1,0 +1,199 @@
+{
+  "site": "myfriends",
+  "country": "DE",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics108",
+  "sortOrder": 7,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "AUSTAUSCHEN",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt?",
+          "Wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?",
+          "Betet für einander"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "RÜCKBLICK",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was hast du seit dem letzten Treffen vom Gelernten umgesetzt?",
+          "Wie geht es den Menschen, welche dir besonders am Herzen liegen? Was würde ihnen am meisten helfen?",
+          "Wem konntest du von einem Gotteserlebnis erzählen? Mit wem konntest du beten?",
+          "Betet für diese Leute"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LESEN",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Der Text wird zweimal laut vorgelesen",
+          "Jemand erzählt in eigenen Worten den Text nach, mit Unterstützung der Gruppe.",
+          "Würde etwas weggelassen oder ergänzt?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthäus 6, 9-15",
+        "html": "<div class=\"bible\"><p><sup>9</sup>Ihr sollt so beten:</p><div class=\"myfriends-poetry\"><p> Unser Vater im Himmel!<br>Dein Name werde geheiligt,<br><sup>10</sup>dein Reich komme,<br>dein Wille geschehe auf der Erde, wie er im Himmel geschieht.<br><sup>11</sup>Gib uns heute unser tägliches Brot.<br><sup>12</sup>Und vergib uns unsere Schuld,<br>wie auch wir denen vergeben haben, die an uns schuldig wurden.<br><sup>13</sup>Und lass uns nicht in Versuchung geraten,sondern errette uns vor dem Bösen. </p></div><p><sup>14</sup>Wenn ihr den Menschen ihre Verfehlungen vergebt, wird euer Vater im Himmel euch auch vergeben.<sup>15</sup>Wenn ihr aber den Menschen nicht vergebt, wird euer Vater ´im Himmel` euch eure Verfehlungen auch nicht vergeben.« </p><br><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%206:9-15&version=NGU-DE",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "ENTDECKEN",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen?",
+          "Was gefällt dir und was stört dich an diesem Text?",
+          "Was kannst du in diesem Text über Gott und über die Menschen lernen?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "ANWENDEN",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung des Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem es zu gehorchen gilt?</li></ul>",
+          "Teile deine Erkenntnis mit der Gruppe"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics108-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Notizen",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Obwohl mit dem Leiden, Sterben und Auferstehen Jesu alles vollbracht ist, damit alle Sünde aller Menschen aller Zeiten vergeben werden können, be-deutet das nicht, dass seit diesem Zeitpunkt immer automatisch alle Sünden vergeben sind. Vielmehr ist es so, dass Jesus eine Möglichkeit geschaffen hat, welche wir nun nutzen müssen."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Damit uns unsere Schuld vergeben wird, müssen wir zwei Dinge tun:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "ordered",
+                "items": [
+                  "Gott um Vergebung bitten",
+                  "den Mitmenschen vergeben"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Wenn Gott uns Menschen vergibt bedeutet das, dass uns Gott unsere Schuld nicht mehr anrechnet. Das wurde möglich, weil Jesus für uns gelitten hat und gestorben ist. Er hat die Konsequenzen unserer Schuld, die eigentlich wir hätten tragen müssen, auf sich genommen, damit wir frei werden können. Auf dieser Grundlage spricht Gott uns trotz unserer Schuld nicht mehr schuldig, sondern begnadigt uns. Obwohl wir eigentlich schuldig sind, werden wir so von Gott gerecht gesprochen. Und das ist die Grundlage dafür, dass wir mit Gott versöhnt leben dürfen. Was für ein Privileg!"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Wenn wir Menschen, welche an uns schuldig geworden sind, vergeben, bedeutet das nicht, dass wir vergessen, verleugnen oder beschönigen, was geschehen ist. In diesem Zusammenhang bedeutet «vergeben» weggeben, übergeben und abgeben. Wir können diese Sache Gott übergeben, damit er sich darum kümmern kann. Wenn wir jemandem vergeben und somit die Sache Gott anvertrauen, werden wir persönlich und unsere Beziehung zu diesem Menschen von der Last dieser Schuld befreit. Mir müssen nicht mehr nachtragend sein. Wir können wieder ganz unbeschwert leben und dieser Person begegnen, weil die Schuld nicht mehr zwischen uns steht."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

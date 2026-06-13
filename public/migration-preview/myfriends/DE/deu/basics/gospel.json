@@ -1,4 +1,13 @@
 {
+  "site": "myfriends",
+  "country": "DE",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "gospel",
+  "sortOrder": 10,
   "blocks": [
     {
       "type": "header",
@@ -152,7 +161,5 @@
         "text": "<a id=\"Return1\" href=\"#\" onclick=\"goToPageAndSetReturn('../basics/celebrate.html', '#Return1');\">Feiern </a>"
       }
     }
-  ],
-  "time": 1781066233569,
-  "version": "2.31.5"
+  ]
 }

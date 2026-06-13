@@ -1,0 +1,221 @@
+{
+  "site": "myfriends",
+  "country": "FI",
+  "language": "fin",
+  "htmlLang": "fi",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basic6",
+  "sortOrder": 5,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Jaetaan elämää",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mistä olet kiitollinen?",
+          "Mikä sinua huolestuttaa?",
+          "Ketä auttaa käytännön tarpeissa?",
+          "Miten olet kokenut Jumalan elämässäsi viime aikoina?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan: kiitetään Jumalaa ja pyydetään Jumalalta apua. Rukoilkaa myös, että saisitte oppia tuntemaan uusia puolia Jumalasta ja että ystävyytenne Jumalan kanssa vahvistuisi ja syvenisi."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "Katsaus aiempaan",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mistä puhuimme viime kerralla?",
+          "Kertokaa toisillenne mahdollisimman avoimesti, millä elämän osa-alueilla teidän on täytynyt tehdä valinta Jumalan ja käärmeen välillä ja mihin tarvitsette anteeksiantoa.",
+          "Mitä olet laittanut käytäntöön viime kerran jälkeen?",
+          "Oletko saanut jakaa jollekin Jumalasta?",
+          "Kenen puolesta voimme rukoilla, että hekin oppisivat tuntemaan Jumalan?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan jokaisen mainitun puolesta ja kysytään miten osoittaa heille Jumalan rakkautta."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "Lue",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Lue teksti hiljaa mielessäsi.",
+          "Lue teksti ääneen.",
+          "Kerro tekstin sisältö omin sanoin (ilman Raamattua).",
+          "Muu ryhmä täydentää/korjaa."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Bible",
+        "html": "<div class=\"bible\"><p>Jesaja 52:13-53:12</p><p><strong>Kärsivä Herran palvelija</strong></p><p><sup>13.</sup> – Katso, minun palvelijani menestyy: hänestä tulee korkea, ylhäinen ja suuri.<br><sup>14.</sup> Ja kuitenkin monet järkyttyivät hänet nähdessään – tuskin häntä enää ihmiseksi tunsi, niin kammottavasti hänet oli runneltu.<br><sup>15.</sup> Mutta hän saattaa vielä ihmetyksiin kansat, hänet nähdessään kuninkaat mykistyvät, sillä sen, mitä heille ei koskaan kerrottu, sen he saavat nähdä, mistä he eivät ikinä ole kuulleet, sen he saavat nyt kokea.</p><p><sup>53:1.</sup> Kuka uskoo meidän sanomamme? Kuka ymmärtää Herran käsivarren voiman?<br><sup>2.</sup> Hän kasvoi Herran edessä kuin vähäinen verso, kuin vesa kuivasta maasta. Ei hänellä ollut vartta, ei kauneutta, jota olisimme ihaillen katselleet, ei hahmoa, johon olisimme mieltyneet.<br><sup>3. </sup>Hyljeksitty hän oli, ihmisten torjuma, kipujen mies, sairauden tuttava, josta kaikki käänsivät katseensa pois. Halveksittu hän oli, me emme häntä minään pitäneet.</p><p><sup>4.</sup> Ja kuitenkin: hän kantoi meidän kipumme, otti taakakseen meidän sairautemme. Omista teoistaan me uskoimme hänen kärsivän rangaistusta, luulimme Jumalan häntä niistä lyövän ja kurittavan,<br><sup>5.</sup> vaikka meidän rikkomuksemme olivat hänet lävistäneet ja meidän pahat tekomme hänet ruhjoneet. Hän kärsi rangaistuksen, jotta meillä olisi rauha, hänen haavojensa hinnalla me olemme parantuneet.<br><sup>6. </sup>Me harhailimme eksyneinä kuin lampaat, jokainen meistä kääntyi omalle tielleen. Mutta Herra pani meidän kaikkien syntivelan hänen kannettavakseen.</p><p><sup>7.</sup> Häntä piinattiin, ja hän alistui siihen, ei hän suutansa avannut. Kuin karitsa, jota teuraaksi viedään, niin kuin lammas, joka on ääneti keritsijäinsä edessä, ei hänkään suutansa avannut.<br><sup>8.</sup> Hänet vangittiin, tuomittiin ja vietiin pois – kuka hänen kansastaan siitä välitti? Hänet syöstiin pois elävien maasta, hänet lyötiin hengiltä kansansa rikkomusten tähden.<br><sup>9.</sup> Hänet oli määrä haudata jumalattomien joukkoon. Rikkaan haudassa hän sai leposijansa. Koskaan hän ei ollut harjoittanut vääryyttä, eikä petos ollut noussut hänen huulilleen.</p><p><sup>10.</sup> Herra näki hyväksi, että hänet ruhjottiin, että hänet lävistettiin. Mutta kun hän antoi itsensä sovitusuhriksi, hän saa nähdä sukunsa jatkuvan, hän elää kauan, ja Herran tahto täyttyy hänen kauttaan.<br><sup>11.</sup> Ahdistuksensa jälkeen hän näkee valon, ja Jumalan tunteminen ravitsee hänet. Minun vanhurskas palvelijani tekee vanhurskaiksi monet, heidän pahat tekonsa hän kantaa.<br><sup>12. </sup>Minä annan hänelle paikan suurten joukossa, hän saa jakaa saalista mahtavien kanssa, koska hän antoi itsensä kuolemalle alttiiksi ja hänet luettiin rikollisten joukkoon. Hän otti kantaakseen monien synnit, hän pyysi pahantekijöilleen armoa. </p><p><a href=\"https://raamattu.fi/raamattu/KR92/ISA.52/Jesaja-52\">Lue lisää</a></p><p>Johannes 1:29-34</p><p><strong>Jumalan Karitsa</strong></p><p><sup>29.</sup> Seuraavana päivänä Johannes näki, että Jeesus oli tulossa hänen luokseen. Johannes sanoi: »Katsokaa: Jumalan Karitsa, joka ottaa pois maailman synnin! <sup>30.</sup> Hän on se, josta sanoin: ’Minun jälkeeni tuleva kulkee edelläni, sillä hän on ollut ennen minua.’ <sup>31.</sup> Minäkään en tuntenut häntä, mutta juuri sitä varten olen tullut kastamaan vedellä, että Israel saisi tietää, kuka hän on.»</p><p><sup>32.</sup> Johannes todisti: »Minä olen nähnyt, kuinka Henki laskeutui taivaasta kyyhkysen tavoin ja jäi hänen päälleen. <sup>33.</sup> Minäkään en häntä tuntenut. Mutta hän, joka lähetti minut kastamaan vedellä, sanoi minulle: ’Se, jonka päälle näet Hengen laskeutuvan ja jäävän, kastaa Pyhällä Hengellä.<sup>’ 34.</sup> Minä olen sen nähnyt ja todistan, että tämä mies on Jumalan Poika.»</p><a href=\"https://raamattu.fi/raamattu/KR92/JHN.1/Johannes-1\">Lue lisää</a></div>",
+        "url": "https://biblegateway.com/passage/?search=Genesis%202:4-25&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mikä kiinnitti huomiosi?",
+          "Mitä teksti kertoo Jumalasta ja ihmisestä?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Tarkentavat kysymykset:",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Kenestä nämä tekstit kertovat?",
+          "Mitä hän on tehnyt meidän puolestamme? (Jes 53:4-5)",
+          "Miksi hän teki niin? (Jes 53:11) <ul></ul>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "Haasteet",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<div>Jos Raamatunkohta on totta, miten muutat elämäntapaasi? </div>",
+          "<div>Käytännön haasteena aion seuraavien päivien aikana.. </div>",
+          "<div>Kenelle jaat tästä Raamatunkohdasta ja Jumalasta?</div>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basic6-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan: kerro Jumalalle omin sanoin edellä mainituista asioista."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong>Tarkentavat kysymykset</strong>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ajattele hetki sitä tosiasiaa, että joku otti vastuun sinun vääristä teoistasi ja kärsi rangaistuksen niiden takia. Miltä se sinusta tuntuu? Kirjoita ajatuksiasi muistiin.",
+          "Tiedätkö jonkun, joka on vaikeuksissa, ja se on hänen omaa syytään? Kuka? Miten aiot auttaa tätä henkilöä?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Tekstin selitys:",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Jesaja 52:13-53:12</strong>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Viimekertaisessa raamatuntekstissä Jumala ilmoitti uudesta liitosta, uuden ajan alkamisesta. Tänään luimme, kuinka tämä tulee tapahtumaan, eli mikä on Jumalan käytännön suunnitelma. Jumala lähettää “palvelijansa“. Tällä tarkoitetaan ihmistä, joka elää juuri niin kuin Jumala haluaa meidänkin elävän. Vaikka tämä ihminen ei tee syntiä eikä vääryyttä, hän kuolee kuin rikollinen. Jumalan palvelijan tehtävä on ottaa kantaakseen ihmiskunnan sairaudet, kivut ja synnit. Tämä ei ole kaunis näky.<br>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Ihmiset palvelijan ympärillä halveksivat häntä ja hylkäävät hänet. He luulevat häntä rikolliseksi, jota Jumala rankaisee hänen omien kauheiden tekojensa takia. Todellisuudessa häntä ei rangaista omista teoistaan, vaan kaiken sen vuoksi, mitä kaikki muut ihmiset ovat pahuuden vaikutuksen alaisina tehneet. Tämä palvelija ottaa vastuun meidän vääryyksistämme. Hänet teloitetaan meidän syntisten sijaan, jotta me saisimme taas rauhan – rauhan Jumalan ja ihmisten kanssa."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

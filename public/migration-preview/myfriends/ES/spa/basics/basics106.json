@@ -1,0 +1,189 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics106",
+  "sortOrder": 5,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Compartir",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Cómo has experimentado a Dios esta semana?",
+          "¿De qué estas agradecido?",
+          "¿Para qué necesitas la ayuda de Dios?",
+          "¿Cómo podemos ayudarlo con sus necesidades?",
+          "Ora por los demás."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "REVISIÓN",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué has puesto en práctica desde nuestra última reunión?",
+          "¿Mo van las personas que estás cuidando? ¿Qué los ayudaría más?",
+          "¿Do compartir una experiencia de Dios con alguien? Oraste con ellos?",
+          "Ora por estas personas."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LEER",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lee el pasaje en voz alta dos veces.",
+          "Haga que una persona vuelva a contar el pasaje en sus propias palabras con la ayuda del grupo.",
+          "¿Hubo algo perdido o agregado?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Isaías 52:13- 53:12",
+        "html": "<div class=\"bible\"><p><sup>13</sup>He aquí que mi siervo será prosperado, será engrandecido y exaltado, y será puesto muy en alto.</p><p><sup>14</sup>Como se asombraron de ti muchos, de tal manera fue desfigurado de los hombres su parecer, y su hermosura más que la de los hijos de los hombres,</p><p><sup>15</sup>así asombrará él a muchas naciones; los reyes cerrarán ante él la boca, porque verán lo que nunca les fue contado, y entenderán lo que jamás habían oído.</p><p><sup>1</sup> ¿Quién ha creído a nuestro anuncio? ¿y sobre quién se ha manifestado el brazo de Jehová?</p><p><sup>2</sup>Subirá cual renuevo delante de él, y como raíz de tierra seca; no hay parecer en él, ni hermosura; le veremos, mas sin atractivo para que le deseemos.</p><p><sup>3</sup>Despreciado y desechado entre los hombres, varón de dolores, experimentado en quebranto; y como que escondimos de él el rostro, fue menospreciado, y no lo estimamos.</p><p><sup>4</sup>Ciertamente llevó él nuestras enfermedades, y sufrió nuestros dolores; y nosotros le tuvimos por azotado, por herido de Dios y abatido.</p><p><sup>5</sup>Mas él herido fue por nuestras rebeliones, molido por nuestros pecados; el castigo de nuestra paz fue sobre él, y por su llaga fuimos nosotros curados.</p><p><sup>6</sup>Todos nosotros nos descarriamos como ovejas, cada cual se apartó por su camino; mas Jehová cargó en él el pecado de todos nosotros.</p><p><sup>7</sup>Angustiado él, y afligido, no abrió su boca; como cordero fue llevado al matadero; y como oveja delante de sus trasquiladores, enmudeció, y no abrió su boca.</p><p><sup>8</sup>Por cárcel y por juicio fue quitado; y su generación, ¿quién la contará? Porque fue cortado de la tierra de los vivientes, y por la rebelión de mi pueblo fue herido.</p><p><sup>9</sup>Y se dispuso con los impíos su sepultura, mas con los ricos fue en su muerte; aunque nunca hizo maldad, ni hubo engaño en su boca.</p><p><sup>10</sup>Con todo eso, Jehová quiso quebrantarlo, sujetándole a padecimiento. Cuando haya puesto su vida en expiación por el pecado, verá linaje, vivirá por largos días, y la voluntad de Jehová será en su mano prosperada.</p><p><sup>11</sup>Verá el fruto de la aflicción de su alma, y quedará satisfecho; por su conocimiento justificará mi siervo justo a muchos, y llevará las iniquidades de ellos.</p><p><sup>12</sup>Por tanto, yo le daré parte con los grandes, y con los fuertes repartirá despojos; por cuanto derramó su vida hasta la muerte, y fue contado con los pecadores, habiendo él llevado el pecado de muchos, y orado por los transgresores.</p><br><br><p><sup>29</sup>El siguiente día vio Juan a Jesús que venía a él, y dijo: He aquí el Cordero de Dios, que quita el pecado del mundo.</p><p><sup>30</sup>Este es aquel de quien yo dije: Después de mí viene un varón, el cual es antes de mí; porque era primero que yo.</p><p><sup>31</sup>Y yo no le conocía; mas para que fuese manifestado a Israel, por esto vine yo bautizando con agua.</p><p><sup>32</sup>También dio Juan testimonio, diciendo: Vi al Espíritu que descendía del cielo como paloma, y permaneció sobre él.</p><p><sup>33</sup>Y yo no le conocía; pero el que me envió a bautizar con agua, aquél me dijo: Sobre quien veas descender el Espíritu y que permanece sobre él, ése es el que bautiza con el Espíritu Santo.</p><p><sup>34</sup>Y yo le vi, y he dado testimonio de que éste es el Hijo de Dios.</p></div><div class=\"myfriends-publisher-info-bottom with-single\"><strong><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\">Reina-Valera 1960</a> (RVR1960)</strong><p>Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988.</p><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Isaiah%2053:1-12&version=RVR1960",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "DESCUBRA",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué te destaca en este pasaje?",
+          "¿Qué te gusta y qué te molesta en este pasaje?",
+          "¿Qué te dice este pasaje acerca de Dios y la gente?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "APLICA",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Pregúntele a Dios qué quiere que haga en respuesta al pasaje. Esta ahí: <ul><li>¿Un comportamiento para cambiar?</li><li>¿Una promesa de reclamar?</li><li>¿Un ejemplo a seguir?</li><li>¿Una orden para obedecer?</li></ul>",
+          "Comparte esto con el grupo."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics106-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Notas",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "La última vez leímos sobre Dios anunciando una nueva era. Hoy aprenderemos sobre cómo esto se logrará (un plan práctico). Dios enviará a \"su siervo\". Eso significa un hombre que vivirá exactamente como Dios quiere que lo hagamos. Después de no cometer ningún pecado o error, este hombre morirá como un criminal. Porque la misión del siervo de Dios será tomar la enfermedad, el dolor y el pecado de la humanidad sobre sí mismo. Esto no será una bsituacion placentera, todo lo contrario"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "La gente a su alrededor despreciará y se alejará de él. Pensarán que él es un criminal que está siendo castigado por Dios por sus terribles acciones. Pero realmente no será castigado por lo que él mismo hizo, sino por lo que todos los humanos bajo la influencia del mal han hecho. Este siervo de Dios asumirá la responsabilidad por nuestro mal hacer. Él será ejecutado en lugar de nosotros como personas pecaminosas para que podamos tener paz nuevamente; paz con Dios y paz con los demás."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Antecedentes para Juan 1: 29-34</strong>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Juan (el Bautista) fue un profeta enviado por Dios para preparar a Israel para la venida de su siervo (léase Isaías 52-53). En este pasaje, identifica a Jesús como el Cordero de Dios, que toma los pecados del mundo sobre sí mismo. En otras palabras, Juan dice que Jesús es el Salvador tan esperado que liberará a la humanidad del poder del mal. Para hacer eso, tomará los pecados de la humanidad sobre sí mismo y tomará el castigo por ellos."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

@@ -6,15 +6,9 @@
   "direction": "ltr",
   "numberSystem": "latn",
   "series": "basics",
-  "lessonId": "community",
-  "sortOrder": 12,
+  "lessonId": "basics109",
+  "sortOrder": 8,
   "blocks": [
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "Gestalte deinen eigenen Weg. Glaube lebt sich besser in Gemeinschaft. Hier findest du einen Ablauf, den du mit jeden Bibeltext anwenden kannst, sobald du den Prozess 1 abgeschlossen hast."
-      }
-    },
     {
       "type": "sectionMarker",
       "data": {
@@ -79,12 +73,6 @@
       }
     },
     {
-      "type": "paragraph",
-      "data": {
-        "text": "\\"
-      }
-    },
-    {
       "type": "list",
       "data": {
         "style": "ordered",
@@ -96,15 +84,12 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "biblePassage",
       "data": {
-        "text": "<strong><a target=\"_blank\" href=\"https://www.biblegateway.com/quicksearch/?quicksearch=Luke&amp;qs_version=HOF\">EINE BIBELSTELLE WÄHLEN</a></strong>"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<br>"
+        "reference": "Matthäus 7:24-29",
+        "html": "<div class=\"bible\"><p><sup>24</sup>»Darum gleicht jeder, der meine Worte hört und danach handelt, einem klugen Mann, der sein Haus auf felsigen Grund baut.<sup>25</sup>Wenn dann ein Wolkenbruch niedergeht und die Wassermassen heranfluten und wenn der Sturm tobt und mit voller Wucht über das Haus hereinbricht, stürzt es nicht ein; es ist auf felsigen Grund gebaut.<sup>26</sup>Jeder aber, der meine Worte hört und nicht danach handelt, gleicht einem törichten Mann, der sein Haus auf sandigen Boden baut.<sup>27</sup>Wenn dann ein Wolkenbruch niedergeht und die Wassermassen heranfluten und wenn der Sturm tobt und mit voller Wucht über das Haus hereinbricht, stürzt es ein und wird völlig zerstört.« </p><p><sup>28</sup>Als Jesus seine Rede beendet hatte, war die Menge von seiner Lehre tief beeindruckt,<sup>29</sup>denn er lehrte sie nicht wie ihre Schriftgelehrten, sondern mit Vollmacht. </p><br><br><br><p><sup>22</sup>Hört euch diese Botschaft nicht nur an, sondern handelt auch danach; andernfalls betrügt ihr euch selbst. </p><p><br><br></p></div>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%207:24-29&version=NGU-DE",
+        "isOpen": true
       }
     },
     {
@@ -117,9 +102,9 @@
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "bible-study",
+        "theme": "discover",
         "title": "ENTDECKEN",
-        "icon": "bible-study"
+        "icon": "discover"
       }
     },
     {
@@ -161,7 +146,25 @@
     {
       "type": "iWill",
       "data": {
-        "storageKey": "basics-community-i-will"
+        "storageKey": "basics-basics109-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Notizen",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus beschreibt in Matthäus 7:24 eines der wichtigsten Prinzipien im Um¬gang mit der Bibel in einem Gleichnis und Jakobus fasst dasselbe Thema in einem Satz zusammen. „Seid aber Täter des Worts und nicht Hörer allein, wodurch ihr euch selbst betrügt.“"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
       }
     }
   ]

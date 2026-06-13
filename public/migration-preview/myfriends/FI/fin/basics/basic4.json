@@ -1,0 +1,194 @@
+{
+  "site": "myfriends",
+  "country": "FI",
+  "language": "fin",
+  "htmlLang": "fi",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basic4",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Jaetaan elämää",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mistä olet kiitollinen?",
+          "Mikä sinua huolestuttaa?",
+          "Ketä auttaa käytännön tarpeissa?",
+          "Miten olet kokenut Jumalan elämässäsi viime aikoina?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan: kiitetään Jumalaa ja pyydetään Jumalalta apua. Rukoilkaa myös, että saisitte oppia tuntemaan uusia puolia Jumalasta ja että ystävyytenne Jumalan kanssa vahvistuisi ja syvenisi."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "Katsaus aiempaan",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mitä olet laittanut käytäntöön viime kerran jälkeen?",
+          "Oletko saanut kertoa jollekin kokemuksistasi Jumalan kanssa tai rukoillut jonkun puolesta?",
+          "Kenen puolesta voimme rukoilla, että hekin oppisivat tuntemaan Jumalan"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan jokaisen mainitun puolesta erikseen."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "Lue",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Aloita lukemalla johdannoksi tekstin selitys."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Lue teksti hiljaa mielessäsi.",
+          "Lue teksti ääneen.",
+          "Kerro tekstin sisältö omin sanoin (ilman Raamattua).",
+          "Muu ryhmä täydentää/korjaa."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Bible",
+        "html": "<div class=\"bible\"><p>5. Mooseksen kirja 5:1-22</p><p><strong>Kymmenen käskyn laki</strong></p><p><sup>1.</sup> Mooses kutsui koolle kaikki israelilaiset ja sanoi heille: »Kuulkaa, israelilaiset, ne lain käskyt ja säädökset, jotka minä teille tänään julistan. Painakaa ne mieleenne ja eläkää tarkoin niiden mukaan. <sup>2. </sup>»Herra, meidän Jumalamme, teki meidän kanssamme liiton Horebilla. <sup>3. </sup>Hän ei tehnyt tätä liittoa vain meidän isiemme kanssa, vaan myös meidän kanssamme, kaikkien meidän, jotka nyt olemme elossa ja täällä. <sup>4. </sup>Herra puhui teille vuorella tulen keskeltä kasvoista kasvoihin. <sup>5.</sup> Minä seisoin silloin Herran ja teidän välissänne ja ilmoitin teille hänen sanansa, sillä te pelkäsitte tulta ettekä nousseet vuorelle. »Näin Herra puhui:</p><p><sup>6.</sup> »’Minä olen Herra, sinun Jumalasi, joka johdatin sinut pois Egyptistä, orjuuden maasta.</p><p><sup>7.</sup> »’Sinulla ei saa olla muita jumalia.</p><p><sup>8. </sup>»’Älä tee itsellesi patsasta äläkä muutakaan jumalankuvaa, älä siitä, mikä on ylhäällä taivaalla, älä siitä, mikä on alhaalla maan päällä, äläkä siitä, mikä on vesissä maan alla. <sup>9. </sup>Älä kumarra äläkä palvele niitä, sillä minä, Herra, sinun Jumalasi, olen kiivas Jumala. Aina kolmanteen ja neljänteen polveen minä panen lapset vastaamaan isiensä pahoista teoista, vaadin tilille ne, jotka vihaavat minua. <sup>10.</sup> Mutta polvesta polveen minä osoitan armoni niille tuhansille, jotka rakastavat minua ja noudattavat minun käskyjäni.</p><p><sup>11.</sup> »’Älä käytä väärin Herran, Jumalasi, nimeä, sillä Herra ei jätä rankaisematta sitä, joka käyttää väärin hänen nimeään.</p><p><sup>12.</sup> »’Pidä lepopäivä mielessäsi ja pyhitä se, niin kuin Herra, sinun Jumalasi, on sinua käskenyt. <sup>13.</sup> Kuutena päivänä tee työtä ja hoida kaikkia tehtäviäsi, <sup>14.</sup> mutta seitsemäs päivä on Herran, sinun Jumalasi, sapatti. Silloin et saa tehdä mitään työtä, et sinä eikä sinun poikasi eikä tyttäresi, orjasi eikä orjattaresi, härkäsi, aasisi eikä mikään muu juhtasi eikä yksikään muukalainen, joka asuu kaupungissasi. Näin sinun orjasi ja orjattaresi saavat levätä kuten sinä itsekin. <sup>15.</sup> Muista, että itse olit orjana Egyptissä, kun Herra, sinun Jumalasi, kohotti voimakkaan käsivartensa ja johdatti sinut sieltä pois. Sen tähden Herra, sinun Jumalasi, käski sinun viettää lepopäivää.</p><p><sup>16. </sup>»’Kunnioita isääsi ja äitiäsi, niin kuin Herra, sinun Jumalasi, on sinua käskenyt, että saisit elää kauan ja menestyisit siinä maassa, jonka Herra, sinun Jumalasi, sinulle antaa.</p><p><sup>17.</sup> »’Älä tapa.</p><p><sup>18. </sup>»’Älä tee aviorikosta.</p><p><sup>19.</sup> »’Älä varasta.</p><p><sup>20. </sup>»’Älä todista väärin toista ihmistä vastaan.</p><p><sup>21. </sup>»’Älä tavoittele toisen vaimoa. Älä myöskään havittele toisen taloa, peltoa, orjaa tai orjatarta, älä hänen härkäänsä, älä hänen aasiaan äläkä mitään, mikä on hänen.’</p><p><sup>22.</sup> »Nämä sanat Herra puhui vuorella teille, koko Israelille, tulen ja synkkien pilvien keskeltä mahtavalla äänellä. Muuta hän ei sanonut. Hän kirjoitti sanansa kahteen kivitauluun ja antoi taulut minulle.</p></div>",
+        "url": "https://raamattu.fi/raamattu/KR92/EXO.5/2.-Mooseksen-kirja-5",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Mikä kiinnitti huomiosi?",
+          "Mitä teksti kertoo Jumalasta ja ihmisestä? <ul></ul>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "Haasteet",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<div>Jos Raamatunkohta on totta, miten muutat elämäntapaasi? </div>",
+          "<div>Käytännön haasteena aion seuraavien päivien aikana.. </div>",
+          "<div>Kenelle jaat tästä Raamatunkohdasta ja Jumalasta?</div><div></div>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basic4-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Rukoillaan: kerro Jumalalle omin sanoin edellä mainituista asioista."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong>Tarkentavat kysymykset</strong>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Kuinka hyvin pystyt elämään kymmenen perussäännön mukaan? Kirjoita seuraavan viikon aikana havaintosi muistiin."
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Tekstin selitys:",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pitääkseen individualismin ja itsekkyyden aisoissa Jumala asetti rajat. Hän teki tämän estääkseen pahuuden hallitsemattoman leviämisen, kuten kävi ennen vedenpaisumusta. Näitä kaikkein tärkeimpiä sääntöjä kutsutaan kymmeneksi käskyksi. Ne auttavat tekemään eron sopivan ja sopimattoman käytöksen välillä. Niihin perustuu pahoista teoista rankaiseminen, jonka avulla pahaa estetään leviämästä hallitsemattomasti ja tartuttamasta koko ihmissukua."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-import { iconListIcons } from 'src/components/content/shared/iconListIcons';
+import { contentBlockIcons } from 'src/components/content/shared/contentBlockIcons';
 import './IconListTool.css';
 
 type IconListItem = {
@@ -103,7 +103,7 @@ export default class IconListTool {
     const iconSelect = document.createElement('select');
     iconSelect.className = 'icon-list-tool__select';
 
-    Object.entries(iconListIcons).forEach(([key, meta]) => {
+    Object.entries(contentBlockIcons).forEach(([key, meta]) => {
       const typedMeta = meta as IconListIconMeta;
 
       const option = document.createElement('option');
@@ -157,7 +157,7 @@ export default class IconListTool {
   }
 
   private getFirstIconKey(): string {
-    const keys = Object.keys(iconListIcons);
+    const keys = Object.keys(contentBlockIcons);
 
     if (keys.length === 0) {
       return '';

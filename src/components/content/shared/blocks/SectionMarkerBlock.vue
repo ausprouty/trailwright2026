@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue';
-import { iconListIcons } from '../iconListIcons';
-type IconListIconKey = keyof typeof iconListIcons;
+import { contentBlockIcons } from '../contentBlockIcons';
+type IconListIconKey = keyof typeof contentBlockIcons;
 
 type SectionTheme =
   | 'back'
@@ -30,7 +30,7 @@ const iconSvg = computed(() => {
     return '';
   }
 
-  return iconListIcons[iconKey]?.svg || '';
+  return contentBlockIcons[iconKey]?.svg || '';
 });
 </script>
 

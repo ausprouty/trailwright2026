@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { computed } from 'vue';
-import { iconListIcons } from '../iconListIcons';
+import { contentBlockIcons } from '../contentBlockIcons';
 
-type IconListIconKey = keyof typeof iconListIcons;
+type IconListIconKey = keyof typeof contentBlockIcons;
 
 type EditorJsListItem =
   | string
@@ -64,7 +64,7 @@ function itemIconSvg(item: EditorJsListItem): string {
 
   const iconKey = item.icon as IconListIconKey;
 
-  return iconListIcons[iconKey]?.svg || '';
+  return contentBlockIcons[iconKey]?.svg || '';
 }
 
 function itemChildren(item: EditorJsListItem): EditorJsListItem[] {

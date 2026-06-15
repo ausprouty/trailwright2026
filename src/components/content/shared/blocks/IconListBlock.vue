@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed } from 'vue';
-import { iconListIcons } from '../iconListIcons';
+import { contentBlockIcons } from '../contentBlockIcons';
 
 type IconListItem = {
   icon: string;
@@ -8,7 +8,7 @@ type IconListItem = {
   text?: string;
 };
 
-type IconKey = keyof typeof iconListIcons;
+type IconKey = keyof typeof contentBlockIcons;
 
 const props = defineProps<{
   data: {
@@ -21,16 +21,16 @@ const items = computed(() => {
 });
 
 function getIconSvg(iconKey: string): string {
-  if (iconKey in iconListIcons) {
-    const key = iconKey as keyof typeof iconListIcons;
-    return iconListIcons[key].svg;
+  if (iconKey in contentBlockIcons) {
+    const key = iconKey as keyof typeof contentBlockIcons;
+    return contentBlockIcons[key].svg;
   }
   return '';
 }
 
 function getIconLabel(iconKey: string): string {
   const key = iconKey as IconKey;
-  return iconListIcons[key]?.label || iconKey;
+  return contentBlockIcons[key]?.label || iconKey;
 }
 </script>
 

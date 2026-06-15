@@ -1,4 +1,4 @@
-export const iconListIcons = {
+export const contentBlockIcons = {
   application: {
     label: 'Application',
     preview: '🔎',
@@ -31,6 +31,86 @@ export const iconListIcons = {
         rx="5"
         transform="rotate(45 58 58)"
         fill="#fff"
+      />
+    </svg>
+  `,
+  },
+  'arrow-left': {
+    label: 'Look Back',
+    preview: '⬅️',
+    svg: `
+    <svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
+      <circle cx="50" cy="50" r="48" fill="#000" />
+
+      <path
+        d="M62 30 L42 50 L62 70"
+        fill="none"
+        stroke="#fff"
+        stroke-width="10"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+
+      <path
+        d="M42 50 H76"
+        fill="none"
+        stroke="#fff"
+        stroke-width="10"
+        stroke-linecap="round"
+      />
+    </svg>
+  `,
+  },
+
+  'arrow-up': {
+    label: 'Look Up',
+    preview: '⬆️',
+    svg: `
+    <svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
+      <circle cx="50" cy="50" r="48" fill="#000" />
+
+      <path
+        d="M30 62 L50 42 L70 62"
+        fill="none"
+        stroke="#fff"
+        stroke-width="10"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+
+      <path
+        d="M50 42 V76"
+        fill="none"
+        stroke="#fff"
+        stroke-width="10"
+        stroke-linecap="round"
+      />
+    </svg>
+  `,
+  },
+
+  'arrow-right': {
+    label: 'Look Forward',
+    preview: '➡️',
+    svg: `
+    <svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
+      <circle cx="50" cy="50" r="48" fill="#000" />
+
+      <path
+        d="M38 30 L58 50 L38 70"
+        fill="none"
+        stroke="#fff"
+        stroke-width="10"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+
+      <path
+        d="M24 50 H58"
+        fill="none"
+        stroke="#fff"
+        stroke-width="10"
+        stroke-linecap="round"
       />
     </svg>
   `,
@@ -268,22 +348,6 @@ export const iconListIcons = {
     stroke-linejoin="round"
   />
 </svg>
-  `,
-  },
-
-  'sharing-lifex': {
-    label: 'Sharing Life',
-    preview: '💬',
-    svg: `
-    <svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
-      <circle cx="50" cy="50" r="48" fill="#000" />
-
-      <circle cx="58" cy="46" r="16" fill="#fff" />
-      <polygon points="54,60 64,56 60,66" fill="#000" />
-
-      <circle cx="40" cy="56" r="10" fill="#fff" />
-      <polygon points="36,64 42,62 40,68" fill="#000" />
-    </svg>
   `,
   },
 };

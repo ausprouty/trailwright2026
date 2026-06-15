@@ -5,6 +5,7 @@ import { resolveSharedBlockComponent } from 'src/components/content/shared/resol
 import { useRoute, useRouter } from 'vue-router';
 import type { EditorJsContent as EditorJsContentData } from 'src/types/content/EditorBlocks';
 import type { AnyEditorJsBlock } from 'src/types/content/MigrationTypes';
+import type { NumberSystem } from 'src/utils/localizeDigits';
 
 const route = useRoute();
 const router = useRouter();
@@ -36,7 +37,7 @@ type LessonPreviewContent = {
   language: string;
   htmlLang: string;
   direction: 'ltr' | 'rtl';
-  numberSystem: string;
+  numberSystem?: NumberSystem;
   series: string;
   lessonId: string;
   sortOrder: number;
@@ -54,6 +55,7 @@ const editorJsContent = computed<EditorJsContentData | null>(() => {
     time: Date.now(),
     version: '2.31.0',
     blocks: content.value.blocks,
+    numberSystem: content.value.numberSystem ?? 'latn',
   };
 });
 const loading = ref(true);

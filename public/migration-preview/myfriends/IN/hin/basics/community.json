@@ -1,0 +1,165 @@
+{
+  "site": "myfriends",
+  "country": "IN",
+  "language": "hin",
+  "htmlLang": "hi",
+  "direction": "ltr",
+  "numberSystem": "deva",
+  "series": "basics",
+  "lessonId": "community",
+  "sortOrder": 12,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "अपनी खुद की यात्रा डिजाइन करें विश्वास समुदाय में बाहर रहने के लिए है यहां एक रूपरेखा है कि जब आप एक बार यात्रा पूरी कर लेते हैं तो आप किसी भी बाइबल के मार्ग के साथ पालन कर सकते हैं।"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "अंश",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "आपने इस सप्ताह भगवान का अनुभव कैसे किया है?",
+          "आप किसलिए आभारी है?",
+          "आपको भगवान की मदद की क्या ज़रूरत है?",
+          "हम आपकी आवश्यकताओं के साथ आपकी सहायता कैसे कर सकते हैं?",
+          "एक दूसरे के लिए प्रार्थना करो"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "समीक्षा",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "हमारी आखिरी बैठक के बाद से आपने क्या अभ्यास किया है?",
+          "वे लोग कैसे हैं जिनके लिए आप जा रहे हैं? क्या उन्हें सबसे अधिक मदद मिलेगी?",
+          "क्या आप किसी के साथ भगवान अनुभव साझा करने में सक्षम थे? क्या आप उनके साथ प्रार्थना करते थे?",
+          "इन लोगों के लिए प्रार्थना करो"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "पढ़ें",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "मार्ग दो बार जोर से पढ़ें",
+          "समूह की मदद के साथ एक व्यक्ति अपने शब्दों में बीतने को पुनः लिखता है",
+          "क्या कुछ याद किया या जोड़ा गया था?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Bible",
+        "html": "<strong><a target=\"_blank\" href=\"https://www.biblegateway.com/quicksearch/?quicksearch=Luke&amp;qs_version=ERV-HI\">एक बाइबल का चयन करें </a></strong>",
+        "url": "",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "खोजना",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "इस मार्ग में आपके लिए क्या खड़ा है?",
+          "आपको क्या पसंद है और आप इस दिशा में क्या परेशान हैं?",
+          "इस मार्ग से आपको भगवान और लोगों के बारे में क्या बताया गया है?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "लागू करें",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "भगवान से पूछें कि वह क्या चाहता है कि आप पारित होने के जवाब में क्या करें। है: <ul><li>बदलने के लिए एक व्यवहार?</li><li>दावा करने का वादा?</li><li>एक पालन करने के लिए एक उदाहरण है?</li><li>आदेश का पालन करने के लिए?</li></ul>",
+          "इस समूह के साथ साझा करें"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-community-i-will"
+      }
+    }
+  ]
+}

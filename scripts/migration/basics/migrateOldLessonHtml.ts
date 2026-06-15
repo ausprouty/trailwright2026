@@ -5,12 +5,8 @@ import type { AnyNode } from 'domhandler';
 import { isTag, isText } from 'domhandler';
 import type { SectionMarkerBlockData } from 'src/types/content/MigrationTypes';
 import { remapImagePaths } from '../remapImagePaths';
-import type {
-  EditorJsContent,
-  AnyEditorJsBlock,
-  SectionTheme,
-  VideoSource,
-} from 'src/types/content/MigrationTypes';
+import type { EditorJsContent, SectionTheme, VideoSource } from 'src/types/content/MigrationTypes';
+import type { AnyEditorJsBlock } from 'src/types/content/EditorBlocks';
 
 import { extractInlineBibleRefs, type BibleRef } from '../shared/extractInlineBibleRefs';
 
@@ -19,14 +15,18 @@ type MigrateOptions = {
   includeVersion?: boolean;
 };
 
-function buildBiblePassageBlock(reference: string, html: string, url: string): AnyEditorJsBlock {
+function buildBiblePassageBlock(
+  reference: string,
+  html: string,
+  url: string,
+): AnyEditorJsBlock {
   return {
     type: 'biblePassage',
     data: {
       reference,
       html,
       url,
-      isOpen: true,
+      isOpen: true
     },
   };
 }

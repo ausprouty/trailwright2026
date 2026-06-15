@@ -1,3 +1,4 @@
+import type { NumberSystem } from 'app/scripts/migration/createLessonJson';
 import type { BiblePassageBlockData } from './BiblePassageBlock';
 import type { BibleReferenceBlockData } from './BibleReferenceBlock';
 import type { CollapsibleGroupBlockData } from './CollapsibleGroupBlock';
@@ -72,6 +73,7 @@ export type EditorJsContent = {
   time?: number;
   version?: string;
   blocks: AnyEditorJsBlock[];
+  numberSystem?: NumberSystem;
 };
 
 export type EditorJsContentData = EditorJsContent;

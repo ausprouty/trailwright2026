@@ -1,5 +1,7 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue';
+import type { NumberSystem } from 'src/utils/localizeDigits';
+import { localizeSupVerseNumbers } from 'src/utils/localizeDigits';
 
 type BiblePassageBlockData = {
   reference?: string;
@@ -10,12 +12,19 @@ type BiblePassageBlockData = {
 
 const props = defineProps<{
   data: BiblePassageBlockData;
+  numberSystem?: NumberSystem;
 }>();
 
 const isOpen = ref(typeof props.data.isOpen === 'boolean' ? props.data.isOpen : true);
 
 const title = computed(() => {
   return props.data.reference ? `Read ${props.data.reference}` : 'Read passage';
+});
+
+const localizedHtml = computed(() => {
+  return props.data.html
+    ? localizeSupVerseNumbers(props.data.html, props.numberSystem ?? 'latn')
+    : '';
 });
 
 function toggleOpen(): void {
@@ -39,7 +48,7 @@ function toggleOpen(): void {
     </button>
 
     <div v-if="isOpen" class="bible-passage-block__body">
-      <div v-if="data.html" class="bible-passage-block__passage" v-html="data.html" />
+      <div v-if="localizedHtml" class="bible-passage-block__passage" v-html="localizedHtml" />
 
       <div v-if="data.url" class="bible-passage-block__read-more-wrap">
         <a

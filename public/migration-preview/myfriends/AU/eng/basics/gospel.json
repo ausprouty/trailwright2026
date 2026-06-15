@@ -1,4 +1,13 @@
 {
+  "site": "myfriends",
+  "country": "AU",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "gospel",
+  "sortOrder": 11,
   "blocks": [
     {
       "type": "paragraph",
@@ -11,7 +20,7 @@
       "data": {
         "text": "GOD LOVES ME",
         "level": 2,
-        "image": "/images/gospel/1.png"
+        "image": "/sites/myfriends/images/gospel/1.png"
       }
     },
     {
@@ -37,7 +46,7 @@
       "data": {
         "text": "I LIVE APART FROM GOD",
         "level": 2,
-        "image": "/images/gospel/2.png"
+        "image": "/sites/myfriends/images/gospel/2.png"
       }
     },
     {
@@ -63,7 +72,7 @@
       "data": {
         "text": "JESUS GAVE EVERYTHING FOR ME",
         "level": 2,
-        "image": "/images/gospel/3.png"
+        "image": "/sites/myfriends/images/gospel/3.png"
       }
     },
     {
@@ -89,7 +98,7 @@
       "data": {
         "text": "WILL I CHOOSE TO FOLLOW JESUS?",
         "level": 2,
-        "image": "/images/gospel/4.png"
+        "image": "/sites/myfriends/images/gospel/4.png"
       }
     },
     {
@@ -152,7 +161,5 @@
         "text": "Symbols and content used with permission of THE FOUR, www.thefour.com"
       }
     }
-  ],
-  "time": 1777763013291,
-  "version": "2.31.5"
+  ]
 }

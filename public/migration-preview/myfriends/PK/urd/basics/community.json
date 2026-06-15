@@ -1,0 +1,165 @@
+{
+  "site": "myfriends",
+  "country": "PK",
+  "language": "urd",
+  "htmlLang": "ur",
+  "direction": "rtl",
+  "numberSystem": "arabext",
+  "series": "basics",
+  "lessonId": "community",
+  "sortOrder": 12,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "اپنے سفر کا نمونہ بنائیں۔ایمان معاشرے میں رہنے کا مطلب ہے۔ یہاں ایک ایسا خاکہ ہے جوآپ بائبل کے کسی بھی پیراگراف کےساتھ پیروی کر سکتے ہیں جب آپ نے ایک بار سفر ایک مکمل کر لیا ہے۔"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "بانٹنا",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "اس ہفتے آپ نے خُدا کا تجربہ کیسے کیا ہے یا ؟",
+          "۔ آپ کس بات کے لیے شکر گزار ہیں؟",
+          "آپ کو کس مقصد کے لیے خُدا کی مدد کی ضرورت ہے؟",
+          "ت ہم کیسے ضرورت کے وقت آپ کی مدد کر سکتے ہیں؟",
+          "ایک دوسرے کے لیے دُعا کریں"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "جائزہ",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ہماری آخری ملاقات کے بعد سے آپ نے کیا عمل کیا ہے؟",
+          "لوگ کیسے ہیں جن کی آپ جانے کے لئے دیکھ بھال کر رہے ہیں اُن کی سب سے زیادہ کونسی چیز مدد کرے گی؟",
+          "کیا آپ کسی کے ساتھ خُدا کا تجربہ شئیر کرنے کے لائق ہوئے کیا آپ نے اُن کے ساتھ دُعا کی؟",
+          "اِن لوگون کے لیے دُعا کریں"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "پڑھو",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "پیراگراف کو اونچی آواز میں دو بار پڑھیں",
+          "کسی شخص کوگروپ کی مدد کے ساتھ اپنے الفاط میں دوبارہ اِس پیرے کو بتانے کا کہیں",
+          "کیا کوئی چیز چھوڑ دی گئی یا شامل کی گئی ؟"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Bible",
+        "html": "<p class=\"rtl\"><strong><a target=\"_blank\" href=\"https://www.biblegateway.com/quicksearch/?quicksearch=Luke&amp;qs_version=ERV-UR\">بائبل کا ایک پیراگراف منتخب کریں </a></strong></p>",
+        "url": "",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "درہافت کریں",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "اس پیراگراف میں آپ کے لئے کونسی چیز نمایاں ہے؟",
+          "تمہیں کیا پسند ہے اور آپ کو اس پیراگراف میں کونسی چیز کا فکرہے",
+          "یہ پیراگراف خُدا اور لوگوں کے بارے میں کیا بتاتا ہے؟"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "عمل کریں",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "<ul class=\"rtl\"><li class=\"rtl\">تبدیلی کا رویہ ؟</li><li class=\"rtl\">دعوی کرنے کا وعدہ ؟</li><li class=\"rtl\">پیروی کرنے کی ایک مثال ؟</li><li class=\"rtl\">فرمانبرداری کا حکم؟</li></ul>",
+          "یہ گروپ کے ساتھ بانٹیں"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-community-i-will"
+      }
+    }
+  ]
+}

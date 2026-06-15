@@ -1,0 +1,255 @@
+{
+  "site": "myfriends",
+  "country": "PT",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics02",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Passa aproximadamente um terço do teu tempo em cada secção. Passa para a próxima secção no tempo designado, mesmo que não tenham respondido a todas as questões. Podes focar-te nas questões que não responderam na próxima vez que se encontrarem.</em>"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "OLHA PARA TRÁS",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Como tens vivenciado Deus esta semana?",
+          "Pelo que és grato?",
+          "Há algo que te tem incomodado desde o nosso último encontro?",
+          "O que colocaste em prática desde a nossa última leitura de Descoberta da Bíblia?",
+          "Conseguiste partilhar a passagem da Descoberta da Bíblia ou uma vivência com Deus com alguém?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong>Orem juntos:</strong>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Agradece a Deus pelas experiências, pede ajuda a Deus.",
+          "Ora para que possas conhecer novos aspetos de Deus e que a tua amizade com Deus seja fortalecida e se torne mais profunda."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-6"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "OLHA PARA CIMA",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Esta é a primeira interação registada entre as pessoas e Deus."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lê o texto em silêncio",
+          "Lê o texto em voz alta",
+          "Reconta o texto (usando a memória, com as Bíblias fechadas)",
+          "O grupo contribui para complementar"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Génesis 3:1-24",
+        "html": "<!-- begin bible --><div><p class=\"bible_text\"><sup class=\"versenum\">1</sup>A serpente, que era o mais astuto de todos os animais selvagens criados pelo SENHOR Deus, <sup class=\"versenum\">2</sup>disse à mulher: «Com que então Deus proibiu-vos de comerem do fruto de todas as árvores do jardim!» </p><p class=\"bible_text\"> Mas a mulher respondeu-lhe: «Nós podemos comer o fruto das árvores do jardim. <sup class=\"versenum\">3</sup>Só nos proibiu de comer do fruto da árvore que está no meio do jardim. Se tocássemos no seu fruto, morreríamos.» </p><p class=\"bible_text\"><sup class=\"versenum\">4</sup>A serpente replicou-lhe: «Não têm que morrer. De maneira nenhuma! <sup class=\"versenum\">5</sup>O que acontece é que Deus sabe que no dia em que comerem desse fruto, abrir-se-ão os vossos olhos e ficarão a conhecer o mal e o bem, tal como Deus.» </p><p class=\"bible_text\"><sup class=\"versenum\">6</sup>A mulher pensou então que devia ser bom comer do fruto daquela árvore, que era apetitoso e agradável à vista e útil para alcançar sabedoria. Apanhou-o, comeu e deu ao seu marido que comeu também. <sup class=\"versenum\">7</sup>Nesse momento, abriram-se os olhos de ambos e deram-se conta de que andavam nus. Coseram então folhas de figueira, para com elas poderem cobrir a cintura. </p><p class=\"bible_text\"><sup class=\"versenum\">8</sup>Nisto ouviram que o SENHOR Deus andava a passear no jardim, pela brisa da tarde, e o homem foi-se esconder com a sua mulher no meio das árvores do jardim. <sup class=\"versenum\">9</sup>O SENHOR Deus chamou pelo homem e perguntou: «Onde estás?» </p><p class=\"bible_text\"><sup class=\"versenum\">10</sup>O homem respondeu: «Apercebi-me de que andavas no jardim; tive medo, por estar nu, e escondi-me.» </p><p class=\"bible_text\"><sup class=\"versenum\">11</sup>Deus perguntou-lhe: «Quem é que te disse que estavas nu? Será que foste comer do fruto daquela árvore que eu tinha proibido?» </p><p class=\"bible_text\"><sup class=\"versenum\">12</sup>O homem replicou: «A mulher que me deste para viver comigo é que me deu do fruto dessa árvore e eu comi.» </p><p class=\"bible_text\"><sup class=\"versenum\">13</sup>O SENHOR Deus disse então à mulher: «Que é que fizeste?» A mulher respondeu: «A serpente enganou-me e eu comi.» </p><p class=\"bible_text\"><sup class=\"versenum\">14</sup>O SENHOR Deus disse então à serpente: «Já que fizeste isto, maldita sejas tu entre todos os animais, domésticos ou selvagens. Terás que arrastar-te pelo chão e comer terra, durante toda a tua vida. <sup class=\"versenum\">15</sup>Farei com que tu e a mulher sejam inimigas, bem como a tua descendência e a descendência dela. A descendência da mulher há-de esmagar-te a cabeça e tu procurarás esmagar-lhe o calcanhar.» </p><p class=\"bible_text\"><sup class=\"versenum\">16</sup>E à mulher disse: «Vou fazer com que sofras os incómodos da gravidez e terás que dar à luz com muitas dores. Apesar disso, sentirás forte atracção pelo teu marido, mas ele há-de mandar em ti.» </p><p class=\"bible_text\"><sup class=\"versenum\">17</sup>E ao homem disse: «Já que deste ouvidos à tua mulher e comeste do fruto da árvore, do qual eu te tinha proibido de comer, a terra fica amaldiçoada por tua causa, e será com grande sofrimento que dela hás-de tirar alimento, durante toda a tua vida. </p><p class=\"bible_text\"><sup class=\"versenum\">18</sup>Só produzirá espinhos e cardos e tu terás de comer a erva que cresce no campo. </p><p class=\"bible_text\"><sup class=\"versenum\">19</sup>Só à custa de muito suor conseguirás arranjar o necessário para comer, até que um dia te venhas a transformar de novo em terra, pois dela foste formado. Na verdade, tu és pó e em pó te hás-de transformar de novo.» </p><p class=\"bible_text\"><sup class=\"versenum\">20</sup>O homem, Adão, deu à sua mulher o nome de Eva, porque ela era a mãe de todos os seres humanos. </p><p class=\"bible_text\"><sup class=\"versenum\">21</sup>O SENHOR Deus arranjou para o homem e para a sua mulher roupas de pele de animal para que se vestissem com elas. </p><p class=\"bible_text\"><sup class=\"versenum\">22</sup>O SENHOR Deus disse então: «O homem tornou-se semelhante a um de nós, conhecendo o bem e o mal. Agora só falta que vá também colher do fruto da árvore da vida, para dele comer e ter vida para sempre!» <sup class=\"versenum\">23</sup>Por isso, Deus, o SENHOR, expulsou-o do jardim do Éden e o homem teve que ir cultivar a terra, da qual tinha sido formado. <sup class=\"versenum\">24</sup>Depois de ter expulsado o homem, Deus colocou diante do jardim do Éden os querubins e uma espada de fogo, que se movia dum lado para outro, de modo a impedir o caminho para a árvore da vida. </p></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://live.bible.is/bible/PORB09/Gen/3",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Perceções adicionais",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Antes de abordarmos a tragédia deste capítulo, vejamos um ponto importante na história. Adão e Eva ouviram Deus a caminhar no jardim. Eles souberam imediatamente que era Deus quem se aproximava. Não parecia extraordinário que Deus caminhasse no jardim com eles e que conversassem juntos. A relação entre os humanos e Deus devia ser simples e maravilhosa."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Quão dramaticamente isso mudou quando Adão e Eva tiveram que escolher entre a serpente e Deus. A serpente aconselhou-os a comer do fruto da árvore do conhecimento do bem e do mal. Mas depois de comerem, tiveram um problema ainda maior. Eles sabiam que Deus viria ao encontro deles no jardim naquela noite. O que deveriam fazer? O homem decidiu culpar a mulher e a mulher decidiu culpar a serpente."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Esse foi o início do individualismo e do egoísmo. Eles começaram a pensar em si mesmos como indivíduos em vez de como uma unidade de homem e mulher. Começaram a distanciar-se um do outro. Foi por isso que fizeram roupas de folhas. Isso apenas refletiu o que já tinha acontecido nos seus corações. Eles traçaram uma linha entre si, para se protegerem um do outro e ambos se esconderam de Deus também. Os seres humanos só tinham conhecido o bem e viviam numa relação maravilhosa com Deus e uns com os outros. Ao comerem o fruto proibido, descobriram o mal e as suas consequências."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Com o tempo, os seres humanos foram expulsos do jardim e, assim, afastados da presença de Deus. O conselho da serpente não estava completamente errado. Eles não morreram imediatamente, mas foram afastados de Deus, a fonte da vida, e portanto tornaram-se mortais."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Tristemente, a partir desse momento, não só os humanos, mas toda a criação, caiu sob a influência da morte, pelo que alguns animais tiveram que morrer para fornecer roupas aos humanos. Através dessa única ação de oposição humana a Deus, todas as relações foram afetadas. A relação com Deus foi afetada, a relação entre os humanos foi afetada e a relação dos humanos com a natureza e os animais também foi afetada."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "O que se destaca para ti nesta passagem?",
+          "O que diz esta passagem sobre as pessoas?",
+          "O que diz esta passagem sobre Deus e Jesus?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-13"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "OLHA PARA A FRENTE",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Se esta passagem for de Deus, que diferença faz na tua vida? Existe:"
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Um comportamento a mudar?",
+          "Uma promessa a reivindicar?",
+          "Um exemplo a seguir?",
+          "Uma ordem para obedecer?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Sugestões",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Todas as noites, escreve um incidente que ilustre as consequências da história de hoje."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Partilha com o grupo o que vais colocar em prática esta semana. Certifica-te de que é um objetivo SMART (específico, mensurável, atingível, realista e oportuno). Um modelo que podes utilizar é:"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Antes de (tempo específico) irei (ação) para que (resultado/aplicação)"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-20"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Com quem partilharás esta história esta semana?",
+          "Cada pessoa faz uma oração a dizer a Deus os compromissos que fez."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics02-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "site": "myfriends",
+  "country": "PT",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics05",
+  "sortOrder": 5,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Passa aproximadamente um terço do teu tempo em cada secção. Passa para a próxima secção no tempo designado, mesmo que não tenham respondido a todas as questões. Podes focar-te nas questões que não responderam na próxima vez que se encontrarem.</em>"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "OLHA PARA TRÁS",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Como tens vivenciado Deus esta semana?",
+          "Pelo que és grato?",
+          "Há algo que te tem incomodado desde o nosso último encontro?",
+          "O que colocaste em prática desde a nossa última leitura de Descoberta da Bíblia?",
+          "Conseguiste partilhar a passagem da Descoberta da Bíblia ou uma vivência com Deus com alguém?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong>Orem juntos: </strong>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Agradece a Deus pelas experiências, pede ajuda a Deus.",
+          "Ora para que possas conhecer novos aspetos de Deus e que a tua amizade com Deus seja fortalecida e se torne mais profunda"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-6"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "OLHA PARA CIMA",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lê o texto em silêncio",
+          "Lê o texto em voz alta",
+          "Reconta o texto (usando a memória, com as Bíblias fechadas)",
+          "O grupo contribui para complementar"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Jeremias 31:31-34",
+        "html": "<!-- begin bible --><div><p class=\"bible_text\"><sup class=\"versenum\">31</sup>Diz o SENHOR: “Vem aí o tempo em que farei uma nova aliança com o povo de Israel e com os habitantes de Judá. <sup class=\"versenum\">32</sup>Não será como a aliança que fiz com os seus antepassados quando os agarrei pela mão, para os tirar do Egipto. Mas eles não guardaram essa aliança embora eu fosse como um marido para eles. <sup class=\"versenum\">33</sup>A nova aliança que nessa altura farei com o povo de Israel será assim: vou gravar a minha lei dentro deles, vou escrevê-la nos seus corações. Serei o seu Deus e eles serão o meu povo. Palavra do SENHOR! <sup class=\"versenum\">34</sup>Ninguém terá de ensinar os outros a conhecer o SENHOR, porque todos me conhecerão, desde o mais pequeno até ao maior. Perdoarei os seus pecados e não mais me lembrarei das suas más acções.” </p></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://live.bible.is/bible/PORB09/Jer/31",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Isaías 59:1-2",
+        "html": "<!-- begin bible --><div><p class=\"bible_text\"><sup class=\"versenum\">1</sup>Não pensem que o braço do SENHOR é muito curto para vos salvar, e que o seu ouvido é surdo para vos escutar! <sup class=\"versenum\">2</sup>São as vossas faltas que cavam um abismo entre vós e o vosso Deus; são os vossos pecados que o levam a desviar o olhar, para não atender os vossos pedidos. </p></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://live.bible.is/bible/PORB09/Isa/59",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "O que se destaca para ti nesta passagem?",
+          "O que diz esta passagem sobre as pessoas?",
+          "O que diz esta passagem sobre Deus e Jesus?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-12"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "OLHA PARA A FRENTE",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Se esta passagem for de Deus, que diferença faz na tua vida? Existe:"
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Um comportamento a mudar?",
+          "Uma promessa a reivindicar?",
+          "Um exemplo a seguir?",
+          "Uma ordem para obedecer?"
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Partilha com o grupo o que vais colocar em prática esta semana. Certifica-te de que é um objetivo SMART (específico, mensurável, atingível, realista e oportuno). Um modelo que podes utilizar é:"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Antes de (tempo específico) irei (ação) para que (resultado/aplicação)"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-18"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Com quem partilharás esta história esta semana?",
+          "Cada pessoa faz uma oração a dizer a Deus os compromissos que fez."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics05-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Perceções adicionais",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Vamos ser honestos. Consegues cumprir os Dez Mandamentos ou estás ciente de os quebrares de forma persistente? Estas regras podem combater o mal, mas não conseguem erradicá-lo completamente. Continua a ser um facto que nós, seres humanos, não estamos livres do mal e que não conseguimos mudar-nos sozinhos."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "É por isso que Deus falou de um tempo em que haverá uma nova forma de viver. Mas algumas coisas precisam de mudar para que isso aconteça:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "ordered",
+                "items": [
+                  "Quando nós, seres humanos, decidimos ir contra Deus e escolhemos seguir a serpente, tivemos de sair do jardim e, assim, da nossa relação íntima com Deus. Pecámos contra Deus e não podemos reverter isso. Mas porque Deus nos ama tanto, Ele anunciou que irá perdoar os nossos pecados. Esse é o requisito mais importante para termos o tipo de relação que os primeiros humanos tinham com Deus.",
+                  "<p> Deus precisa de mudar o nosso coração para que já não estejamos sob a influência do mal e possamos escolher livremente entre Deus e a serpente (o mal). Se escolhermos Deus e, portanto, o que é bom, as regras de Deus voltarão a aplicar-se a nós, mas se escolhermos ouvir a serpente, cairemos novamente sob a influência do mal. Mas para que possamos tomar uma decisão assim, primeiro precisamos de conhecer Deus (conhecê-lo pessoalmente). Deus falou de um tempo em que todos poderão conhecê-lo pessoalmente. Quando formos capazes de ter uma relação assim com Deus, já não precisaremos de seguir as regras de um livro, ao invés disso, Deus escreverá as suas regras diretamente nos nossos corações para que elas se tornem parte de nós. </p>",
+                  "Então, seremos o seu povo e ele será o nosso Deus, e muitas coisas se tornarão como Deus originalmente as criou para serem."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

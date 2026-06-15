@@ -1,4 +1,13 @@
 {
+  "site": "myfriends",
+  "country": "AU",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "celebrate",
+  "sortOrder": 12,
   "blocks": [
     {
       "type": "paragraph",
@@ -67,7 +76,5 @@
         ]
       }
     }
-  ],
-  "time": 1777763013265,
-  "version": "2.31.5"
+  ]
 }

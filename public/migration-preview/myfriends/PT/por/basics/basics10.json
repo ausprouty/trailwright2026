@@ -1,0 +1,323 @@
+{
+  "site": "myfriends",
+  "country": "PT",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics10",
+  "sortOrder": 10,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Passa aproximadamente um terço do teu tempo em cada secção. Passa para a próxima secção no tempo designado, mesmo que não tenham respondido a todas as questões. Podes focar-te nas questões que não responderam na próxima vez que se encontrarem.</em>"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "OLHA PARA TRÁS",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Como tens vivenciado Deus esta semana?",
+          "Pelo que és grato?",
+          "Há algo que te tem incomodado desde o nosso último encontro?",
+          "O que colocaste em prática desde a nossa última leitura de Descoberta da Bíblia?",
+          "Conseguiste partilhar a passagem da Descoberta da Bíblia ou uma vivência com Deus com alguém?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong>Orem juntos:</strong>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Agradece a Deus pelas experiências, pede ajuda a Deus.",
+          "Ora para que possas conhecer novos aspetos de Deus e que a tua amizade com Deus seja fortalecida e se torne mais profunda."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-6"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "OLHA PARA CIMA",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "O foco deste estudo bíblico é o batismo, mas como o termo “batismo” tem muitos significados hoje em dia, é essencial esclarecer o que significa “batismo” neste contexto de estudo."
+              }
+            },
+            {
+              "type": "header",
+              "data": {
+                "text": "O que as pessoas geralmente querem dizer por batismo",
+                "level": 2
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "A palavra “batismo” pode ter vários significados para diferentes pessoas.\nAlguns exemplos incluem:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Pedir a bênção de Deus para uma criança",
+                  "Lavar o pecado original",
+                  "Definir a sua afiliação religiosa",
+                  "Nomear uma criança",
+                  "Cerimónia para instituir padrinho e madrinha"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Embora essas práticas tenham o seu próprio significado, elas não\nsão o que é referido como “batismo” na passagem bíblica de\nhoje."
+              }
+            },
+            {
+              "type": "header",
+              "data": {
+                "text": "O significado bíblico do batismo",
+                "level": 2
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "O batismo representa o final definitivo da tua vida sem Deus e a entrega completa a Deus.\nMergulhar na água simboliza a morte e o sepultamento, e subir novamente simboliza a\nressurreição para uma nova vida com Deus."
+              }
+            },
+            {
+              "type": "header",
+              "data": {
+                "text": "Celebrar a decisão",
+                "level": 2
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Momentos importantes na vida merecem ser celebrados—aniversários, casamentos e outros momentos significativos. O batismo não é diferente. Porque não organizar uma celebração de batismo? Convida a tua família, amigos e comunidade para honrar este momento."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Uma celebração de batismo não só dá à ocasião a importância que ela merece, como também cria uma oportunidade para que os teus amigos que ainda não acreditam em Jesus possam encontrá-lo."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lê o texto em silêncio",
+          "Lê o texto em voz alta",
+          "Reconta o texto (usando a memória, com as Bíblias fechadas)",
+          "O grupo contribui para complementar"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Romans 6:3-14",
+        "html": "<!-- begin bible --><div><p class=\"bible_text\"><sup class=\"versenum\">3</sup>Não sabem que todos nós, os que fomos baptizados para estarmos unidos a Jesus Cristo, ficámos unidos com ele na sua morte? <sup class=\"versenum\">4</sup>Pelo baptismo, fomos sepultados com Cristo e tomámos parte na sua morte. Assim podemos viver também uma nova vida à semelhança dele que ressuscitou da morte pelo poder divino do Pai. <sup class=\"versenum\">5</sup>Se estamos unidos a ele por uma morte como a sua, também havemos de estar unidos a ele na passagem da morte à vida. <sup class=\"versenum\">6</sup>Sabemos que aquilo que nós éramos antes morreu com Cristo na cruz, para ser destruído o que em nós havia de mal e para não sermos mais escravos do pecado. <sup class=\"versenum\">7</sup>Aquele que morreu está livre do pecado. <sup class=\"versenum\">8</sup>Se nós morremos com Cristo, acreditamos que também viveremos com ele. <sup class=\"versenum\">9</sup>Sabemos que Cristo, por ter passado da morte à vida, já não morrerá. A morte nunca mais terá poder sobre ele. <sup class=\"versenum\">10</sup>Pela sua morte, Cristo morreu para o pecado duma vez para sempre e a vida nova que recebeu é vida para Deus. <sup class=\"versenum\">11</sup>Do mesmo modo, considerem-se também como mortos para o pecado, mas vivos para Deus em união com Cristo Jesus. <sup class=\"versenum\">12</sup>Que o pecado nunca mais tenha poder sobre o vosso corpo mortal levando-o a obedecer às suas más inclinações. <sup class=\"versenum\">13</sup>Não entreguem os membros do vosso corpo ao pecado como instrumentos de injustiça. Pelo contrário, entreguem-se a Deus como pessoas que passaram da morte à vida e façam do vosso corpo um instrumento de justiça. <sup class=\"versenum\">14</sup>O pecado já não vos poderá dominar, pois não estão sujeitos à lei mas à graça de Deus. </p></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://live.bible.is/bible/PORB09/Rom/6",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "O que se destaca para ti nesta passagem?",
+          "O que diz esta passagem sobre as pessoas?",
+          "O que diz esta passagem sobre Deus e Jesus?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-13"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "OLHA PARA A FRENTE",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Se esta passagem for de Deus, que diferença faz na tua vida? Existe:"
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Um comportamento a mudar?",
+          "Uma promessa a reivindicar?",
+          "Um exemplo a seguir?",
+          "Uma ordem para obedecer?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Sugestões",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pensa se estás pronto para ser batizado ou não. Lembra-te de que o processo de perdão do Básico 9 deve ser concluído antes do batismo."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Planeia uma festa!"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Partilha com o grupo o que vais colocar em prática esta semana. Certifica-te de que é um objetivo SMART (específico, mensurável, atingível, realista e oportuno). Um modelo que podes utilizar é:"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Antes de (tempo específico) irei (ação) para que (resultado/aplicação)"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-21"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Com quem partilharás esta história esta semana?",
+          "Cada pessoa faz uma oração a dizer a Deus os compromissos que fez."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics10-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Com esta lição, chegámos ao fim dos Básicos."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "O Grupo que VAI! é um excelente próximo passo na tua jornada de fé. O Grupo que VAI! vai ajudar-vos a crescer juntos, a avançar juntos e a transformar as vossas comunidades com Jesus!"
+      }
+    }
+  ]
+}

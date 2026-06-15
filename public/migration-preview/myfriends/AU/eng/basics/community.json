@@ -1,4 +1,13 @@
 {
+  "site": "myfriends",
+  "country": "AU",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "community",
+  "sortOrder": 13,
   "blocks": [
     {
       "type": "paragraph",
@@ -9,7 +18,9 @@
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "back"
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
       }
     },
     {
@@ -33,13 +44,15 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-community-look-up"
+        "storageKey": "note"
       }
     },
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "up"
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
       }
     },
     {
@@ -54,9 +67,12 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "biblePassage",
       "data": {
-        "text": "<a href=\"https://www.biblegateway.com/quicksearch/?quicksearch=Luke&amp;qs_version=NIV\" target=\"a_blank\">SELECT A BIBLE PASSAGE </a>"
+        "reference": "Bible",
+        "html": "<strong><a href=\"https://www.biblegateway.com/quicksearch/?quicksearch=Luke&amp;qs_version=NIV\" target=\"a_blank\">SELECT A BIBLE PASSAGE </a></strong>",
+        "url": "",
+        "isOpen": true
       }
     },
     {
@@ -74,13 +90,15 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-community-look-forward"
+        "storageKey": "note"
       }
     },
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "forward"
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
       }
     },
     {
@@ -94,7 +112,5 @@
         ]
       }
     }
-  ],
-  "time": 1777763013276,
-  "version": "2.31.5"
+  ]
 }

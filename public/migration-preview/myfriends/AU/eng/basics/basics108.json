@@ -1,4 +1,13 @@
 {
+  "site": "myfriends",
+  "country": "AU",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics108",
+  "sortOrder": 8,
   "blocks": [
     {
       "type": "paragraph",
@@ -9,7 +18,9 @@
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "back"
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
       }
     },
     {
@@ -51,7 +62,23 @@
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "up"
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "icon": "arrow-up"
       }
     },
     {
@@ -90,7 +117,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-11"
+        "storageKey": "note-12"
       }
     },
     {
@@ -142,9 +169,32 @@
       }
     },
     {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
       "type": "sectionMarker",
       "data": {
-        "theme": "forward"
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "icon": "arrow-right"
       }
     },
     {
@@ -169,21 +219,27 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "collapsibleGroup",
       "data": {
-        "text": "Suggestions"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "Make a list with all the sins which you have done in your lifetime so you know what you need to ask God‘s forgiveness for."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "Make a list with the things people have done to you, so that you can forgive them."
+        "title": "Suggestions",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Make a list with all the sins which you have done in your lifetime so you know what you need to ask God‘s forgiveness for."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Make a list with the things people have done to you, so that you can forgive them."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
       }
     },
     {
@@ -202,9 +258,10 @@
       }
     },
     {
-      "type": "iWill",
+      "type": "notesArea",
       "data": {
-        "storageKey": "basics-basics108-i-will"
+        "notes": "",
+        "storageKey": "note-21"
       }
     },
     {
@@ -218,13 +275,10 @@
       }
     },
     {
-      "type": "notesArea",
+      "type": "iWill",
       "data": {
-        "notes": "",
-        "storageKey": "note-23"
+        "storageKey": "basics-basics108-i-will"
       }
     }
-  ],
-  "time": 1777763013220,
-  "version": "2.31.5"
+  ]
 }

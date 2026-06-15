@@ -1,0 +1,184 @@
+{
+  "site": "myfriends",
+  "country": "NZ",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics108",
+  "sortOrder": 7,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "SHARING LIFE",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "How have you experienced God this week?",
+          "Do you need any help from God in your life?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together: Thank God for experiences, ask for God‘s help."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "BIBLE STUDY",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What did we discuss last time?",
+          "Tell each other what went through your mind when you thought about someone who gave their life for you.",
+          "Could you tell anyone about your experiences with God last week? How did they respond?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together, that you may get to know new aspects of God and that your friendship with God would be strengthened and become deeper."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "DISCOVER",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the text quietly",
+          "Read the text out loud",
+          "Retell the text (from memory – closed Bibles)",
+          "Contributions from the group to complement"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthew 6:9-15",
+        "html": "<div class=\"bible\"><p><sup>9</sup>“This, then, is how you should pray:</p><div class=\"myfriends-poetry top-05\"><p> “‘Our Father in heaven,<br> hallowed be your name,<br><sup>10</sup>your kingdom come,<br> your will be done,<br> on earth as it is in heaven.<br><sup>11</sup>Give us today our daily bread.<br><sup>12</sup>And forgive us our debts,<br> as we also have forgiven our debtors.<br><sup>13</sup>And lead us not into temptation, but deliver us from the evil one.’ </p></div><p><sup>14</sup>For if you forgive other people when they sin against you, your heavenly Father will also forgive you.<sup> 15 </sup>But if you do not forgive others their sins, your Father will not forgive your sins. </p><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%206:9-15&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Specific questions",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Which two things do we have to do for our sins to be forgiven? (1. Ask God for forgiveness, 2. Forgive other people)"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Since this text focusses on forgiveness, it‘s worth taking a closer look at this old, multifaceted word."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "When God forgives us, it means that he no longer charges us with guilt That is possible now because Jesus suffered and died for us. He took the consequences of our sins which we should have suffered ourselves so that we can become free. On the basis of this fact, God no longer charges us with guilt, although we are guilty, pardoning us instead. Although we are actually guilty we are declared righteous by God. And that forms the basis for our reconciliation with God. What a privilege!",
+          "When we forgive people who have sinned against us, it does not mean that we forget, deny or gloss over what happened. In this context “forgiving” means letting go. We can hand over the whole thing to God for him to deal with it. And God will not just forget it but deal with it in his perfect way. No longer do we have to get our own back, instead we can confidently leave it to God, for he says “It is mine to avenge, I will repay” (Deuteronomy 32:35 / Romans 12:19). We need to leave the way in which God does that up to him. For God‘s ways and thoughts are higher than ours (Isaiah 55:9).",
+          "When we forgive someone and thus hand the whole thing over to God, we and our relationship with that person are freed from the burden of that sin. We no longer need to bear a grudge. Instead we are able to live unburdened and interact with that person because there is no longer any guilt between us."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "CHALLENGES",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Make a list with all the sins which you have done in your lifetime so you know what you need to ask God‘s forgiveness for.",
+          "Make a list with the things people have done to you, so that you can forgive them.",
+          "Where do I have an opportunity in the next week to share my experiences with God with someone and invite them to start a friendship with God?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics108-i-will"
+      }
+    }
+  ]
+}

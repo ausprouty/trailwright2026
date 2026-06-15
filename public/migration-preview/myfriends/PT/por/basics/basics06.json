@@ -1,0 +1,270 @@
+{
+  "site": "myfriends",
+  "country": "PT",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics06",
+  "sortOrder": 6,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Passa aproximadamente um terço do teu tempo em cada secção. Passa para a próxima secção no tempo designado, mesmo que não tenham respondido a todas as questões. Podes focar-te nas questões que não responderam na próxima vez que se encontrarem.</em>"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "OLHA PARA TRÁS",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Como tens vivenciado Deus esta semana?",
+          "Pelo que és grato?",
+          "Há algo que te tem incomodado desde o nosso último encontro?",
+          "O que colocaste em prática desde a nossa última leitura de Descoberta da Bíblia?",
+          "Conseguiste partilhar a passagem da Descoberta da Bíblia ou uma vivência com Deus com alguém?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong>Orem juntos:</strong>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Agradece a Deus pelas experiências, pede ajuda a Deus.",
+          "Ora para que possas conhecer novos aspetos de Deus e que a tua amizade com Deus seja fortalecida e se torne mais profunda."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-6"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "OLHA PARA CIMA",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lê o texto em silêncio",
+          "Lê o texto em voz alta",
+          "Reconta o texto (usando a memória, com as Bíblias fechadas)",
+          "O grupo contribui para complementar"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Na última vez, lemos sobre Deus anunciar uma nova era. Hoje vamos aprender sobre como isso vai acontecer (um plano prático). Deus vai enviar \"o seu servo\". Isso significa um homem que vai viver exatamente como Deus quer que vivamos. Apesar de não cometer nenhum pecado ou erro, este homem vai morrer como um criminoso. A missão do servo de Deus será assumir sobre si a doença, dor e pecado da humanidade. Isto não vai ser bonito, pelo contrário."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "As pessoas ao seu redor vão desprezá-lo e afastar-se dele. Vão pensar que ele é um criminoso sendo punido por Deus pelos seus terríveis atos. Mas, na realidade, ele não vai ser punido pelo que ele mesmo fez, mas pelo que todos os humanos, sob a influência do mal, fizeram. Este servo de Deus vai assumir a responsabilidade pelos nossos erros. Ele vai ser executado em nosso lugar, para que possamos ter paz novamente; paz com Deus e paz com os outros."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Isaiah 52:13-53:12",
+        "html": "<!-- begin bible --><div><p class=\"bible_text\"><sup class=\"versenum\">13</sup>Eis que o meu servo prosperará, será engrandecido e receberá as maiores honras. <sup class=\"versenum\">14</sup>Assim como muitos se espantaram diante dele, de tal modo estava desfigurado que nem tinha aspecto humano. <sup class=\"versenum\">15</sup>Da mesma forma fará com que muitos estrangeiros fiquem agora admirados. Os reis ficarão de boca aberta, pois verão coisas que jamais lhes foram contadas e observarão coisas que não conseguem compreender. </p><p class=\"bible_text\"><sup class=\"versenum\">53:1</sup>Quem acreditou naquilo que ouvimos? A quem foi revelada a intervenção do SENHOR? <sup class=\"versenum\">2</sup>O servo cresceu diante do SENHOR como um simples rebento, ou raiz em terra árida sem aparências nem beleza para poder dar nas vistas. O seu aspecto não tinha qualquer atractivo. <sup class=\"versenum\">3</sup>Era desprezado e abandonado pelos homens, como alguém cheio de dores e habituado ao sofrimento, e para o qual se evita olhar. Era desprezado e tratado sem nenhuma consideração. <sup class=\"versenum\">4</sup>Na verdade ele suportava os nossos sofrimentos e carregava as dores, que nos eram devidas. E nós pensávamos que Deus é que assim o castigava e humilhava duramente. <sup class=\"versenum\">5</sup>Mas ele foi trespassado por causa das nossas faltas, aniquilado por causa das nossas culpas. O castigo que nos devia redimir caiu sobre ele; ele recebeu os golpes e nós fomos poupados. <sup class=\"versenum\">6</sup>Todos nós vagueávamos como rebanho perdido, cada qual seguindo o seu caminho; mas o SENHOR carregou sobre ele as consequências de todas as nossas faltas. <sup class=\"versenum\">7</sup>Foi vexado e humilhado, mas a sua boca não se abriu para protestar; como um cordeiro que é levado ao matadouro ou como uma ovelha emudecida nas mãos do tosquiador, a sua boca não se abriu para protestar. <sup class=\"versenum\">8</sup>Levaram-no à força e sem resistência nem defesa; quem é que se preocupou com a sua sorte? De facto, foi suprimido da terra dos vivos, mas por causa dos pecados do meu povo é que ele foi maltratado. <sup class=\"versenum\">9</sup>Foi-lhe dada sepultura entre os ímpios e um túmulo entre os malfeitores, embora não tenha cometido qualquer crime, nem praticado qualquer fraude. <sup class=\"versenum\">10</sup>Mas o SENHOR quis esmagá-lo com o sofrimento, para que a sua vida fosse uma oferta de expiação. Mas o servo verá a sua descendência e viverá por muito tempo, e o desígnio do SENHOR realizar-se-á por meio dele. <sup class=\"versenum\">11</sup>Por causa do sofrimento da sua vida verá a recompensa, e ficará satisfeito com a experiência que teve. «O meu servo, que é justo, fará com que muitos se tornem justos diante de mim, pois ele mesmo carregou com os crimes deles. <sup class=\"versenum\">12</sup>Por isso, receberá a sua parte entre os grandes e repartirá os despojos com os mais poderosos, já que expôs a sua vida à morte e foi contado entre os malfeitores, ele que carregou com o pecado de muitos e intercedeu pelos pecadores.» </p></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://live.bible.is/bible/PORB09/Isa/53",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "João (o Batista) foi um profeta enviado por Deus para preparar Israel para a vinda do\nseu servo (lê Isaías 52-53). Nesta passagem, ele identifica Jesus como o Cordeiro\nde Deus, que assume os pecados do mundo. Em outras palavras, João está a dizer\nque Jesus é o Salvador tão aguardado, que vai libertar a humanidade do poder do\nmal. Para fazer isso, ele vai assumir os pecados da humanidade e levar a punição\npor eles."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "John 1:29-34",
+        "html": "<!-- begin bible --><div><p class=\"bible_text\"><sup class=\"versenum\">29</sup>No dia seguinte, João viu Jesus encaminhar-se para ele e disse: «Este é o Cordeiro de Deus que tira o pecado do mundo. <sup class=\"versenum\">30</sup>Era deste que eu dizia: aquele que vem depois de mim é mais importante do que eu, porque já existia antes de mim. <sup class=\"versenum\">31</sup>Nem eu próprio sabia quem ele era, mas eu vim para baptizar em água para que ele fosse manifestado ao povo de Israel.» <sup class=\"versenum\">32</sup>João declarou ainda: «Eu vi o Espírito descer do céu como uma pomba e ficar sobre ele. <sup class=\"versenum\">33</sup>Eu não sabia que era ele, mas aquele que me enviou a baptizar em água, tinha-me anunciado: “Tu hás-de ver o Espírito descer e ficar sobre um homem. Esse é o que baptiza no Espírito Santo.” <sup class=\"versenum\">34</sup>Eu vi e dou testemunho de que este é o Filho de Deus.» </p></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://live.bible.is/bible/PORB09/John/1",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "O que se destaca para ti nesta passagem?",
+          "O que diz esta passagem sobre as pessoas?",
+          "O que diz esta passagem sobre Deus e Jesus?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-16"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "OLHA PARA A FRENTE",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Se esta passagem for de Deus, que diferença faz na tua vida? Existe:"
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Um comportamento a mudar?",
+          "Uma promessa a reivindicar?",
+          "Um exemplo a seguir?",
+          "Uma ordem para obedecer?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Sugestões",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Tira um tempo para pensar no fato de que alguém assumiu a responsabilidade pelos teus erros e levou a punição por eles. Como é que isso te faz sentir? Escreve os teus pensamentos."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Conheces alguém que está em dificuldade, mas é culpa dessa pessoa? Quem? E como é que vais ajudar essa pessoa?"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Partilha com o grupo o que vais colocar em prática esta semana. Certifica-te de que é um objetivo SMART (específico, mensurável, atingível, realista e oportuno). Um modelo que podes utilizar é:"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Antes de (tempo específico) irei (ação) para que (resultado/aplicação)"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-23"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Com quem partilharás esta história esta semana?",
+          "Cada pessoa faz uma oração a dizer a Deus os compromissos que fez."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics06-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br>"
+      }
+    }
+  ]
+}

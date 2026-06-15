@@ -1,0 +1,233 @@
+{
+  "site": "myfriends",
+  "country": "PT",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics01",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "OLHA PARA TRÁS",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Por que razão queres conhecer melhor Deus? O que já vivenciaste com Deus?",
+          "Quais são as tuas expectativas? O que esperas obter desta série?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Façam uma oração para que possam conhecer novos aspetos de Deus e que a vossa amizade com Deus seja fortalecida e se torne mais profunda."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "OLHA PARA CIMA",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Os céus, a terra, os humanos, os animais e as plantas não surgiram por acaso, foram criados por Deus. Os humanos têm tido um papel importante desde o início. Os animais foram criados para que os humanos não ficassem sozinhos e os sexos (masculino e feminino) foram criados para tornar possível uma forma extremamente íntima de união. A confiança entre os dois era tão grande que não tinham qualquer vergonha da sua nudez e não tinham de se esconder ou proteger atrás de roupa."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Surpreendentemente, foi dada aos humanos a opção de desobedecer a Deus comendo da árvore do conhecimento do bem e do mal. Mas Deus avisou-os que o castigo por fazerem isso seria a morte. A existência daquela árvore mostra-nos claramente que os humanos não estão completamente à mercê da vontade de Deus. Muito pelo contrário, a humanidade tinha liberdade de escolha. Foi-lhes dada a liberdade de escolher aceitar ou rejeitar o amor de Deus."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lê o texto em silêncio",
+          "Lê o texto em voz alta",
+          "Reconta o texto (usando a memória, com as Bíblias fechadas)",
+          "O grupo contribui para complementar"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Génesis 2:4-35",
+        "html": "<!-- begin bible --><p class=\"bible_text\"><sup class=\"versenum\">4</sup>É esta a história da criação do céu e da terra. Quando o SENHOR Deus fez a terra e o céu, <sup class=\"versenum\">5</sup>ainda não havia plantas na terra nem tinha brotado a erva. É que o SENHOR Deus não tinha feito cair a chuva sobre a terra nem existia nenhum ser humano para trabalhar nela, <sup class=\"versenum\">6</sup>mas uma corrente de água começava a brotar da terra e regava os campos. </p><p class=\"bible_text\"><sup class=\"versenum\">7</sup>O SENHOR Deus modelou o homem com barro da terra. Soprou-lhe nas narinas e deu-lhe respiração e vida. E o homem tornou-se um ser vivo. </p><p class=\"bible_text\"><sup class=\"versenum\">8</sup>O SENHOR Deus preparou um jardim em Éden, lá para o oriente, e colocou nele o homem que tinha modelado. <sup class=\"versenum\">9</sup>Da terra, fez nascer toda a espécie de árvores que eram agradáveis à vista e davam bons frutos para comer. No meio do jardim estava a árvore da vida e a árvore do conhecimento do bem e do mal. </p><p class=\"bible_text\"><sup class=\"versenum\">10</sup>Em Éden nasce um rio que rega o jardim e depois se divide em quatro rios diferentes. <sup class=\"versenum\">11</sup>O nome do primeiro é o Pichon, que rodeia a terra de Havilá, onde há muito ouro. <sup class=\"versenum\">12</sup>O ouro daquela terra é muito bom e há lá também âmbar e lápis-lazúli. <sup class=\"versenum\">13</sup>O segundo rio chama-se Guion, que rodeia toda a terra de Cuche. <sup class=\"versenum\">14</sup>O terceiro rio chama-se Hidéquel, que passa na zona oriental da Assíria. E o quarto rio é o Eufrates. </p><p class=\"bible_text\"><sup class=\"versenum\">15</sup>O SENHOR Deus colocou o homem no jardim do Éden, para nele trabalhar e para o guardar. <sup class=\"versenum\">16</sup>E deu-lhe estas ordens: «Podes comer do fruto de qualquer árvore, menos do fruto da árvore do conhecimento do bem e do mal. <sup class=\"versenum\">17</sup>Deste não podes comer de maneira nenhuma. No dia em que dele comeres, ficas condenado a morrer.» </p><p class=\"bible_text\"><sup class=\"versenum\">18</sup>O SENHOR Deus disse ainda: «Não é bom que o homem fique sozinho. Vou-lhe arranjar uma companhia apropriada.» <sup class=\"versenum\">19</sup>E o SENHOR Deus modelou também de terra muitas espécies de animais selvagens e de aves e apresentou-os ao homem, para ver que nome ele lhes dava. O nome que ele dava a cada um desses seres vivos é o nome com que ficaram. <sup class=\"versenum\">20</sup>O homem deu nome a todos os animais domésticos, às aves e aos animais selvagens, mas nenhum era a companhia apropriada para ele. </p><p class=\"bible_text\"><sup class=\"versenum\">21</sup>O SENHOR Deus fez com que o homem adormecesse e dormisse um sono muito profundo. Durante o sono, tirou-lhe uma das costelas e fez crescer de novo a carne naquele lugar. <sup class=\"versenum\">22</sup>Da costela que tinha tirado do homem, o SENHOR Deus fez a mulher e apresentou-a ao homem. <sup class=\"versenum\">23</sup>Este declarou: «Desta vez, aqui está alguém feito dos meus próprios ossos e da minha própria carne. Vai chamar-se mulher; porque foi formada do homem.» </p><p class=\"bible_text\"><sup class=\"versenum\">24</sup>Por isso, o homem deixa a casa do pai e da mãe para se unir com a sua mulher e ficam a ser um só corpo. </p><p class=\"bible_text\"><sup class=\"versenum\">25</sup>Tanto o homem como a mulher andavam nus, sem sentirem nenhuma vergonha por isso. </p>",
+        "url": "https://live.bible.is/bible/PORB09/Gen/2",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "O que se destaca para ti nesta passagem?",
+          "O que diz esta passagem sobre as pessoas?",
+          "O que diz esta passagem sobre Deus e Jesus?",
+          "O que diz esta passagem sobre o plano de Deus?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-11"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "OLHA PARA A FRENTE",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Se esta passagem for de Deus, que diferença faz na tua vida? Existe:"
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Um comportamento a mudar?",
+          "Uma promessa a reivindicar?",
+          "Um exemplo a seguir?",
+          "Uma ordem para obedecer?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Sugestões",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Vou tornar-me mais consciente da beleza da criação de Deus tirando fotografias de coisas que acho especialmente bonitas e mostrando-as ao grupo da próxima vez.",
+                  "Vou ilustrar a história da criação e mostrá-la numa próxima vez."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Partilha com o grupo o que vais colocar em prática esta semana. Certifica-te de que é um objetivo SMART (específico, mensurável, atingível, realista e oportuno). Um modelo que podes utilizar é:"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Antes de (tempo específico) irei (ação) para que (resultado/aplicação)"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-19"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Com quem partilharás esta história esta semana?",
+          "Cada pessoa faz uma oração a dizer a Deus os compromissos que fez."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics01-i-will"
+      }
+    }
+  ]
+}

@@ -1,4 +1,13 @@
 {
+  "site": "myfriends",
+  "country": "AU",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics109",
+  "sortOrder": 9,
   "blocks": [
     {
       "type": "paragraph",
@@ -9,7 +18,9 @@
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "back"
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
       }
     },
     {
@@ -51,16 +62,187 @@
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "up"
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Context",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "In Matthew 7:24 Jesus describes one of the most important principles regarding the way we should read the Bible, using a parable. James summarizes the same topic in just one sentence."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the text out loud.",
+          "Have one person retell the passage in their own words with the group’s help.",
+          "Was there anything missed or added from the retelling of the passage?",
+          "Now see if someone can tell the whole passage in their own words."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthew 7:24-29",
+        "html": "<p><sup>24</sup>“Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock.<sup>25</sup>The rain came down, the streams rose, and the winds blew and beat against that house; yet it did not fall, because it had its foundation on the rock.<sup> 26 </sup>But everyone who hears these words of mine and does not put them into practice is like a foolish man who built his house on sand.<sup> 27 </sup>The rain came down, the streams rose, and the winds blew and beat against that house, and it fell with a great crash.”</p><p><sup>28</sup>When Jesus had finished saying these things, the crowds were amazed at his teaching,<sup> 29 </sup>because he taught as one who had authority, and not as their teachers of the law.</p>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%207:24-29&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "James 1:22",
+        "html": "<p><sup>22</sup>Do not merely listen to the word, and so deceive yourselves. Do what it says.</p>",
+        "url": "https://biblegateway.com/passage/?search=James%201:22&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What stands out to you in this passage?",
+          "What does this passage say about people?",
+          "What does this passage says about God and Jesus?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-13"
       }
     },
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "forward"
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "If this passage is from God, what difference would it make in your life? Is there:"
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "A behaviour to change?",
+          "A promise to claim?",
+          "An example to follow?",
+          "A command to obey?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Suggestions",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Become doers of the word. Plan when and where you are able to meet (ideally in groups of three) to go through the process of forgiveness together. When you forgive or ask for forgiveness, please say it in turn and out loud so that the others can hear and be a witness to that forgiveness."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "IMPORTANT: Anything said during such processes of forgiveness is highly confidential and may not be passed on under any circumstances!!!"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Take your time. The process of forgiveness is much too important for it to be rushed. You will probably need more meetings since this is about sorting out the guilt of your whole past."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Start with session 10 when the whole process is finished."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Share with the group what you will put into practice for this week. Make sure it is a SMART goal (specific, measurable, achievable, realistic and timely). A template that you can use is:"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "By (specific time) I will (action) so that (result/application)"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-20"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Who will you share this passage with this week?",
+          "Pray for each other."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-22"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "icon": "arrow-right"
       }
     }
-  ],
-  "time": 1777763013233,
-  "version": "2.31.5"
+  ]
 }

@@ -1,0 +1,295 @@
+{
+  "site": "myfriends",
+  "country": "PT",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics03",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Passa aproximadamente um terço do teu tempo em cada secção. Passa para a próxima secção no tempo designado, mesmo que não tenham respondido a todas as questões. Podes focar-te nas questões que não responderam na próxima vez que se encontrarem.</em>"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "OLHA PARA TRÁS",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Como tens vivenciado Deus esta semana?",
+          "Pelo que és grato?",
+          "Há algo que te tem incomodado desde o nosso último encontro?",
+          "O que colocaste em prática desde a nossa última leitura de Descoberta da Bíblia?",
+          "Conseguiste partilhar a passagem da Descoberta da Bíblia ou uma vivência com Deus com alguém?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong>Orem juntos: </strong>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Agradece a Deus pelas experiências, pede ajuda a Deus.",
+          "Ora para que possas conhecer novos aspetos de Deus e que a tua amizade com Deus seja fortalecida e se torne mais profunda."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-6"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": ").\n).\n). Portanto, Deus decidiu intervir dramaticamente na história do mundo para conter o\nmal, permitindo que apenas o que fosse bom sobrevivesse ao dilúvio e, assim, abriu\ncaminho para um novo começo."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Os efeitos extremos dos acontecimentos no jardim do Éden começaram a ser visíveis. Em poucas gerações, o mal aumentou tanto que, na décima geração, os seres humanos estavam completamente corrompidos pelo mal."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Na segunda geração da humanidade, o individualismo, egoísmo, inveja e, em resumo, o pecado, já estavam tão avançados que Caim matou o seu irmão mais novo. Ele foi expulso da sua família como punição. Para garantir que Caim, que agora não tinha família e estava vulnerável, não fosse roubado ou morto por alguém, decidiram que ele seria vingado sete vezes. Ou seja, se alguém matasse Caim, sete pessoas seriam executadas como punição (<span class=\"bible-ref\" data-ref-id=\"pop1\">Génesis 4,8-15</span>",
+                "bibleRefs": [
+                  {
+                    "id": "pop1",
+                    "reference": "Génesis 4,8-15",
+                    "html": "",
+                    "instructionKey": "bibleRef.readForMore"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<p class=\"bible_text\"><sup class=\"versenum\">8</sup>Certo dia, depois de Caim ter falado com Abel, seu irmão, saíram para o campo. Encontravam-se lá, quando Caim atacou o irmão e o matou. <sup class=\"versenum\">9</sup>O SENHOR perguntou a Caim: «Onde está o teu irmão?» «Não sei. Será que eu sou o guarda do meu irmão?», respondeu ele. Deus insistiu: «Que é que fizeste? <sup class=\"versenum\">10</sup>O sangue do teu irmão, que tu derramaste, levanta-se da terra, a pedir-me vingança. <sup class=\"versenum\">11</sup>Por isso, amaldiçoado sejas tu pela terra que bebeu o sangue do teu irmão, que tu mataste. <sup class=\"versenum\">12</sup>Por muito que cultives a terra, ela não voltará a dar-te a sua riqueza. E terás de andar perdido e errante pelo mundo.» <sup class=\"versenum\">13</sup>Caim respondeu: «O meu crime é demasiado grande para eu o poder suportar. <sup class=\"versenum\">14</sup>Se tu me expulsas desta terra e eu tiver que fugir de ti, para andar perdido e errante, qualquer pessoa que me encontrar me pode matar.» <sup class=\"versenum\">15</sup>Mas Deus replicou: «De modo nenhum! Quem matar Caim sofrerá como vingança sete mortes entre os seus.» E o SENHOR pôs um sinal a Caim, para que não pudesse ser morto por quem o encontrasse. </p>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Na sétima geração, Lameque matou pessoas por uma ferida e exigiu que ele fosse vingado não apenas sete vezes, como Caim, mas setenta e sete vezes (<span class=\"bible-ref\" data-ref-id=\"pop4\">Génesis 4,23-24</span>",
+                "bibleRefs": [
+                  {
+                    "id": "pop4",
+                    "reference": "Génesis 4,23-24",
+                    "html": "",
+                    "instructionKey": "bibleRef.readForMore"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<p class=\"bible_text\"><sup class=\"versenum\">23</sup>Lamec disse um dia às suas mulheres: «Ada e Sila, ouçam-me bem; ó mulheres de Lamec, prestem atenção ao que vou dizer. Estou pronto a matar um homem, por uma ferida que me faça ou um jovem, por uma simples beliscadura. <sup class=\"versenum\">24</sup>Pois, se Caim tinha de ser vingado sete vezes, Lamec será vingado setenta e sete vezes mais.» </p>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Na décima geração (a geração de Noé), vemos que a maldade dos seres humanos era GRANDE. Tão grande que só conseguiam fazer o mal (<span class=\"bible-ref\" data-ref-id=\"pop3\">Génesis 6,11-12</span>",
+                "bibleRefs": [
+                  {
+                    "id": "pop3",
+                    "reference": "Génesis 6,11-12",
+                    "html": "",
+                    "instructionKey": "bibleRef.readForMore"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<p class=\"bible_text\"><sup class=\"versenum\">11</sup>Para Deus, a terra estava completamente corrompida e cheia de violências. <sup class=\"versenum\">12</sup>Ao olhar para a terra, Deus só encontrava corrupção, pois todos os seus habitantes seguiam caminhos errados. </p>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lê o texto em silêncio",
+          "Lê o texto em voz alta",
+          "Reconta o texto (usando a memória, com as Bíblias fechadas)",
+          "O grupo contribui para complementar"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Génesis 6:5-7:24",
+        "html": "<!-- begin bible --><div><p class=\"bible_text\"><sup class=\"versenum\">5</sup>O SENHOR viu que a maldade dos homens crescia cada vez mais no mundo e que as suas intenções e planos eram sempre maus. <sup class=\"versenum\">6</sup>Deus sentiu pena de ter criado a Humanidade e ficou muito triste. <sup class=\"versenum\">7</sup>O SENHOR decidiu então: «Vou destruir os seres humanos, que eu criei; vou fazê-los desaparecer da terra, os seres humanos, os animais, as aves dos céus e todos os bichos. Lamento tê-los criado.» </p><p class=\"bible_text\"><sup class=\"versenum\">8</sup>Contudo, o SENHOR olhou com agrado para Noé. </p><p class=\"bible_text\"><sup class=\"versenum\">9</sup>Esta é a história de Noé. Noé era a única pessoa justa e honesta que havia no seu tempo e cumpria sempre a vontade de Deus. <sup class=\"versenum\">10</sup>Teve três filhos: Sem, Cam e Jafet. </p><p class=\"bible_text\"><sup class=\"versenum\">11</sup>Para Deus, a terra estava completamente corrompida e cheia de violências. <sup class=\"versenum\">12</sup>Ao olhar para a terra, Deus só encontrava corrupção, pois todos os seus habitantes seguiam caminhos errados. </p><p class=\"bible_text\"><sup class=\"versenum\">13</sup>Por isso, Deus disse a Noé: «Decidi pôr fim a todos os seres humanos, pois a terra está cheia de violência, por causa deles. Vou destruí-los juntamente com a terra. </p><p class=\"bible_text\"><sup class=\"versenum\">14</sup>Faz uma arca; uma grande barca de boa madeira resinosa, com vários compartimentos, e põe-lhe betume por dentro e por fora. <sup class=\"versenum\">15</sup>Deves fazê-la com estas medidas: cento e cinquenta metros de comprimento, vinte e cinco metros de largura e quinze metros de altura. <sup class=\"versenum\">16</sup>Faz-lhe uma clarabóia a meio metro do cimo e uma porta de lado. Deves fazê-la com três andares sobrepostos. </p><p class=\"bible_text\"><sup class=\"versenum\">17</sup>Com efeito, eu vou fazer cair sobre a terra um dilúvio de água, para destruir todos os seres vivos que existem no mundo; tudo o que há na terra vai morrer. </p><p class=\"bible_text\"><sup class=\"versenum\">18</sup>Mas contigo farei um pacto de aliança. Deves entrar na arca, tu e os teus filhos, a tua mulher e as dos teus filhos. <sup class=\"versenum\">19</sup>E de todas as espécies de seres vivos deves levar para a arca dois exemplares, macho e fêmea, para poderem sobreviver juntamente contigo. <sup class=\"versenum\">20</sup>Portanto, de cada espécie diferente de seres vivos sejam aves, quadrúpedes ou outros animais, irão dois exemplares contigo para poderem sobreviver. <sup class=\"versenum\">21</sup>Deves apanhar e armazenar os diferentes tipos de comida que cada espécie costuma comer, como provisões para ti e para todos os animais.» </p><p class=\"bible_text\"><sup class=\"versenum\">22</sup>E Noé fez tudo exactamente como Deus lhe tinha mandado fazer. </p><!-- begin bible --><div><p class=\"bible_text\"><sup class=\"versenum\">7:1</sup>O SENHOR disse a Noé: «Entra na arca com toda a tua família, pois tu foste a única pessoa honesta que encontrei entre todos os teus contemporâneos. <sup class=\"versenum\">2</sup>Leva contigo sete pares, macho e fêmea, de todos os animais puros e um só par, macho e fêmea, dos animais não puros. <sup class=\"versenum\">3</sup>Das aves levarás igualmente sete pares, macho e fêmea, para que a vida sobre a terra possa continuar. <sup class=\"versenum\">4</sup>Daqui a sete dias, vou fazer com que a chuva caia sobre a terra durante quarenta dias e quarenta noites e destruirei todos os seres que criei neste mundo.» </p><p class=\"bible_text\"><sup class=\"versenum\">5</sup>Noé fez tudo o que o SENHOR lhe tinha mandado. <sup class=\"versenum\">6</sup>Noé tinha seiscentos anos, quando o dilúvio inundou a terra. <sup class=\"versenum\">7</sup>Entrou na arca com os seus filhos e com a sua mulher e as suas noras, para fugirem ao dilúvio. <sup class=\"versenum\">8</sup>Dos animais puros e não puros, das aves e de todos os bichos, <sup class=\"versenum\">9</sup>entraram aos pares, macho e fêmea, para junto de Noé, na arca, tal como Deus lhe tinha mandado. <sup class=\"versenum\">10</sup>No fim dos sete dias, as águas do dilúvio começaram a cair sobre a terra. </p><p class=\"bible_text\"><sup class=\"versenum\">11</sup>Era o dia dezassete do segundo mês do ano e Noé estava com seiscentos anos de idade. Foi então que rebentaram as nascentes do grande mar profundo e se abriram as comportas do céu. <sup class=\"versenum\">12</sup>A chuva caiu sobre a terra, durante quarenta dias e quarenta noites. <sup class=\"versenum\">13</sup>Naquele mesmo dia, Noé entrou na arca com Sem, Cam e Jafet, seus filhos, e com a sua mulher e as três noras, <sup class=\"versenum\">14</sup>e ainda exemplares de todas as espécies de seres vivos, animais domésticos e selvagens, de todos os bichos e das mais variadas espécies de aves. <sup class=\"versenum\">15</sup>De todos os seres vivos entraram aos pares na arca, para junto de Noé. <sup class=\"versenum\">16</sup>Era um macho e uma fêmea de cada espécie, tal como Deus tinha mandado. No fim, o SENHOR fechou a porta. </p><p class=\"bible_text\"><sup class=\"versenum\">17</sup>Durante quarenta dias, as águas do dilúvio caíram sobre a terra. Foram subindo e levantaram a arca, que ficou bastante longe do solo. <sup class=\"versenum\">18</sup>Quando o nível das águas subiu muito acima da terra, a arca flutuava por cima das águas. <sup class=\"versenum\">19</sup>As águas subiram tanto, que cobriram até as montanhas mais altas que existem. </p><p class=\"bible_text\"><sup class=\"versenum\">20</sup>Passavam mais de sete metros para cima delas e as montanhas ficaram todas cobertas. </p><p class=\"bible_text\"><sup class=\"versenum\">21</sup>Morreram todos os seres vivos, que existiam no mundo, aves, animais domésticos e selvagens, todos os bichos e todos os seres humanos. <sup class=\"versenum\">22</sup>Tudo o que tinha vida e respiração e vivia em terra firme morreu. </p><p class=\"bible_text\"><sup class=\"versenum\">23</sup>E assim o dilúvio destruiu todos os seres que existiam sobre a terra, homens, animais, bichos e aves. Todos foram destruídos. Só ficou Noé e os seres que estavam com ele na arca. <sup class=\"versenum\">24</sup>As águas cobriram a terra, durante cento e cinquenta dias. </p></div></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://live.bible.is/bible/PORB09/Gen/6",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "O que se destaca para ti nesta passagem?",
+          "O que diz esta passagem sobre as pessoas?",
+          "O que diz esta passagem sobre Deus e Jesus?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-13"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "OLHA PARA A FRENTE",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Se esta passagem for de Deus, que diferença faz na tua vida? Existe:"
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Um comportamento a mudar?",
+          "Uma promessa a reivindicar?",
+          "Um exemplo a seguir?",
+          "Uma ordem para obedecer?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Sugestões",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Pergunta a ti mesmo como reagirias se Deus te desse um trabalho específico, como fez com Noé. Escreve os teus pensamentos e partilha connosco na próxima semana."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Partilha com o grupo o que vais colocar em prática esta semana. Certifica-te de que é um objetivo SMART (específico, mensurável, atingível, realista e oportuno). Um modelo que podes utilizar é:"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Antes de (tempo específico) irei (ação) para que (resultado/aplicação)"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-20"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Com quem partilharás esta história esta semana?",
+          "Cada pessoa faz uma oração a dizer a Deus os compromissos que fez."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics03-i-will"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "icon": "arrow-left"
+      }
+    }
+  ]
+}

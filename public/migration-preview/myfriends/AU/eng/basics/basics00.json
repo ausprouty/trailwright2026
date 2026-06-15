@@ -1,4 +1,13 @@
 {
+  "site": "myfriends",
+  "country": "AU",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics00",
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "header",
@@ -136,7 +145,5 @@
         "text": "At the end of the study, ask each person to share how they plan to apply the passage in their life. Follow up with them in the future to see how they’re doing. By following these tips, you can facilitate a productive and engaging Bible discussion that encourages spiritual growth and meaningful conversation!"
       }
     }
-  ],
-  "time": 1777763013024,
-  "version": "2.31.5"
+  ]
 }

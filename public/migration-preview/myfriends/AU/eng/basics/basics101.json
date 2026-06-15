@@ -1,9 +1,20 @@
 {
+  "site": "myfriends",
+  "country": "AU",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics101",
+  "sortOrder": 1,
   "blocks": [
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "back"
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
       }
     },
     {
@@ -32,7 +43,23 @@
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "up"
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "icon": "arrow-up"
       }
     },
     {
@@ -96,13 +123,29 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-10"
+        "storageKey": "note-11"
       }
     },
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "forward"
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "icon": "arrow-right"
       }
     },
     {
@@ -179,7 +222,5 @@
         ]
       }
     }
-  ],
-  "time": 1777763013052,
-  "version": "2.31.5"
+  ]
 }

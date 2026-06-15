@@ -1,0 +1,242 @@
+{
+  "site": "myfriends",
+  "country": "PT",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics09",
+  "sortOrder": 9,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Passa aproximadamente um terço do teu tempo em cada secção. Passa para a próxima secção no tempo designado, mesmo que não tenham respondido a todas as questões. Podes focar-te nas questões que não responderam na próxima vez que se encontrarem.</em>"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "OLHA PARA TRÁS",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Como tens vivenciado Deus esta semana?",
+          "Pelo que és grato?",
+          "Há algo que te tem incomodado desde o nosso último encontro?",
+          "O que colocaste em prática desde a nossa última leitura de Descoberta da Bíblia?",
+          "Conseguiste partilhar a passagem da Descoberta da Bíblia ou uma vivência com Deus com alguém?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong>Orem juntos:</strong>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Agradece a Deus pelas experiências, pede ajuda a Deus.",
+          "Ora para que possas conhecer novos aspetos de Deus e que a tua amizade com Deus seja fortalecida e se torne mais profunda."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-6"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "OLHA PARA CIMA",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Em Mateus 7,24, Jesus descreve um dos princípios mais importantes sobre a maneira como devemos ler a Bíblia, usando uma parábola. Tiago resume o mesmo tema em apenas uma frase."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lê o texto em silêncio",
+          "Lê o texto em voz alta",
+          "Reconta o texto (usando a memória, com as Bíblias fechadas)",
+          "O grupo contribui para complementar"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Mateus 7:24-29",
+        "html": "<!-- begin bible --><div><p class=\"bible_text\"><sup class=\"versenum\">24</sup>«Todo aquele que ouve as minhas palavras e as põe em prática pode comparar-se ao homem sensato que construiu a sua casa sobre a rocha. <sup class=\"versenum\">25</sup>Caiu muita chuva, vieram as cheias e os ventos sopraram com força contra aquela casa. Mas ela não caiu, porque os seus alicerces estavam assentes na rocha. <sup class=\"versenum\">26</sup>Porém, aquele que ouve as minhas palavras e não as põe em prática pode comparar-se ao homem insensato que construiu a sua casa sobre a areia. <sup class=\"versenum\">27</sup>Caiu muita chuva, vieram as cheias e os ventos sopraram com força contra aquela casa. Ela caiu e ficou arruinada.» </p><p class=\"bible_text\"><sup class=\"versenum\">28</sup>Quando Jesus acabou de pronunciar estas palavras, a multidão estava admirada com os seus ensinamentos. <sup class=\"versenum\">29</sup>É que ele ensinava como quem tem autoridade e não como os doutores da lei. </p></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://live.bible.is/bible/PORB09/Matt/7",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "James 1:22",
+        "html": "<!-- begin bible --><div><p class=\"bible_text\"><sup class=\"versenum\">22</sup>Ponham a palavra de Deus em prática e não se contentem com ouvi-la, porque desse modo enganam-se a si mesmos. </p></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://live.bible.is/bible/PORB09/Jas/1",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "O que se destaca para ti nesta passagem?",
+          "O que diz esta passagem sobre as pessoas?",
+          "O que diz esta passagem sobre Deus e Jesus?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-13"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "OLHA PARA A FRENTE",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Se esta passagem for de Deus, que diferença faz na tua vida? Existe:"
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Um comportamento a mudar?",
+          "Uma promessa a reivindicar?",
+          "Um exemplo a seguir?",
+          "Uma ordem para obedecer?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Sugestões",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Torna-te um praticante da palavra. Planeia quando e onde podes encontrar-te (idealmente em grupos de três) para passar pelo processo de perdão juntos. Quando perdoas ou pedes perdão, façam-no um de cada vez e em voz alta para que os outros possam ouvir e ser testemunhas desse perdão."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "IMPORTANTE: Qualquer coisa dita durante esses processos de perdão é altamente confidencial e não pode ser partilhada sob nenhuma circunstância!!!<br> Toma o teu tempo. O processo de perdão é demasiado importante para ser apressado. Provavelmente vais precisar de mais encontros, já que isto envolve resolver a culpa de todo o teu passado."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Começa a sessão 10 apenas quando o processo estiver terminado."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Partilha com o grupo o que vais colocar em prática esta semana. Certifica-te de que é um objetivo SMART (específico, mensurável, atingível, realista e oportuno). Um modelo que podes utilizar é:"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Antes de (tempo específico) irei (ação) para que (resultado/aplicação)"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-20"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Com quem partilharás esta história esta semana?",
+          "Cada pessoa faz uma oração a dizer a Deus os compromissos que fez."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-22"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "icon": "arrow-right"
+      }
+    }
+  ]
+}

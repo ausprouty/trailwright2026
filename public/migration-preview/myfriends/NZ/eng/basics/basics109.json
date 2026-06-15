@@ -1,0 +1,159 @@
+{
+  "site": "myfriends",
+  "country": "NZ",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics109",
+  "sortOrder": 8,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "SHARING LIFE",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "How have you experienced God this week?",
+          "Do you need any help from God in your life?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together: Thank God for experiences, ask for God‘s help."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together, that you may get to know new aspects of God and that your friendship with God would be strengthened and become deeper."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "BIBLE STUDY",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the text quietly",
+          "Read the text out loud",
+          "Retell the text (from memory – closed Bibles)",
+          "Contributions from the group to complement"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthew 7:24-29",
+        "html": "<div class=\"bible\"><p><sup>24</sup>“Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock.<sup>25</sup>The rain came down, the streams rose, and the winds blew and beat against that house; yet it did not fall, because it had its foundation on the rock.<sup> 26 </sup>But everyone who hears these words of mine and does not put them into practice is like a foolish man who built his house on sand.<sup> 27 </sup>The rain came down, the streams rose, and the winds blew and beat against that house, and it fell with a great crash.” </p><p><sup>28</sup>When Jesus had finished saying these things, the crowds were amazed at his teaching,<sup> 29 </sup>because he taught as one who had authority, and not as their teachers of the law. </p><br><br><p>James 1:22</p><p><sup>22</sup>Do not merely listen to the word, and so deceive yourselves. Do what it says. </p><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%207:24-29&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "General questions:",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Is there anything that struck you in this text? <ul><li>What do you like about it?</li><li>Is there anything in it that bothers you?</li></ul>",
+          "What does it say about God?",
+          "What does it say about people?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Specific questions",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "For the following more specific questions let‘s connect it with the topic of last time and so become “doers of the word” with regard to forgiveness. <ul><li> Are you a doer of the word when it comes to asking God for the forgiveness of sins you have committed (Matthew 6:9-15)? </li><li> Did you ask God to forgive your sins in bulk, or did you really confess the individual sins before him (1 John 1:9)? </li></ul>",
+          "Are you a doer of the word when it comes to forgiving people who have sinned against you (Matthew 6:9-15)? <ul><li> Did you just forgive others in bulk or did you really bring each person individually before God? </li></ul>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "CHALLENGES",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Become doers of the word. Plan when and where you are able to meet (ideally in groups of three) to go through the process of forgiveness together. When you forgive or ask for forgiveness, please say it in turn and out loud so that the others can hear and be a witness to that forgiveness. <ul><li> IMPORTANT: Anything said during such processes of forgiveness is highly confidential and may not be passed on under any circumstan- ces!!! </li><li> Take your time. The process of forgiveness is much too important for it to be rushed. You will probably need more meetings since this is about sorting out the guilt of your whole past. </li><li>Start with session 10 when the whole process is finished.</li></ul>",
+          "Where do I have an opportunity in the next week to share my experiences with God with someone and invite them to start a friendship with God?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics109-i-will"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "icon": "bible-study"
+      }
+    }
+  ]
+}

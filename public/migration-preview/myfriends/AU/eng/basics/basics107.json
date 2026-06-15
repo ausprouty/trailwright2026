@@ -1,4 +1,13 @@
 {
+  "site": "myfriends",
+  "country": "AU",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics107",
+  "sortOrder": 7,
   "blocks": [
     {
       "type": "paragraph",
@@ -9,7 +18,9 @@
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "back"
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
       }
     },
     {
@@ -51,7 +62,9 @@
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "up"
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
       }
     },
     {
@@ -184,7 +197,23 @@
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "forward"
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "icon": "arrow-right"
       }
     },
     {
@@ -203,7 +232,5 @@
         "storageKey": "basics-basics107-i-will"
       }
     }
-  ],
-  "time": 1777763013201,
-  "version": "2.31.5"
+  ]
 }

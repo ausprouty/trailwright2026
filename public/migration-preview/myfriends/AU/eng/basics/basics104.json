@@ -1,4 +1,13 @@
 {
+  "site": "myfriends",
+  "country": "AU",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics104",
+  "sortOrder": 4,
   "blocks": [
     {
       "type": "paragraph",
@@ -9,7 +18,9 @@
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "back"
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
       }
     },
     {
@@ -51,7 +62,9 @@
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "up"
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
       }
     },
     {
@@ -114,7 +127,23 @@
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "forward"
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "icon": "arrow-right"
       }
     },
     {
@@ -139,15 +168,21 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "collapsibleGroup",
       "data": {
-        "text": "<strong>Suggestion</strong>"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "Take a couple of minutes every night to think about how well you were able to live by the ten basic rules. Write down your observations."
+        "title": "Suggestion",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Take a couple of minutes every night to think about how well you were able to live by the ten basic rules. Write down your observations."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
       }
     },
     {
@@ -166,9 +201,10 @@
       }
     },
     {
-      "type": "iWill",
+      "type": "notesArea",
       "data": {
-        "storageKey": "basics-basics104-i-will"
+        "notes": "",
+        "storageKey": "note-20"
       }
     },
     {
@@ -182,10 +218,9 @@
       }
     },
     {
-      "type": "notesArea",
+      "type": "iWill",
       "data": {
-        "notes": "",
-        "storageKey": "note-22"
+        "storageKey": "basics-basics104-i-will"
       }
     },
     {
@@ -194,7 +229,5 @@
         "text": "<br>"
       }
     }
-  ],
-  "time": 1777763013136,
-  "version": "2.31.5"
+  ]
 }

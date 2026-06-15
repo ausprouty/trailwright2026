@@ -1,0 +1,233 @@
+{
+  "site": "myfriends",
+  "country": "PT",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics04",
+  "sortOrder": 4,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Passa aproximadamente um terço do teu tempo em cada secção. Passa para a próxima secção no tempo designado, mesmo que não tenham respondido a todas as questões. Podes focar-te nas questões que não responderam na próxima vez que se encontrarem.</em>"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "OLHA PARA TRÁS",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Como tens vivenciado Deus esta semana?",
+          "Pelo que és grato?",
+          "Há algo que te tem incomodado desde o nosso último encontro?",
+          "O que colocaste em prática desde a nossa última leitura de Descoberta da Bíblia?",
+          "Conseguiste partilhar a passagem da Descoberta da Bíblia ou uma vivência com Deus com alguém?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong>Orem juntos: </strong>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Agradece a Deus pelas experiências, pede ajuda a Deus.",
+          "Ora para que possas conhecer novos aspetos de Deus e que a tua amizade com Deus seja fortalecida e se torne mais profunda."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-6"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "OLHA PARA CIMA",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Para evitar que o mal se espalhasse de forma desenfreada, como aconteceu antes do\ndilúvio, Deus estabeleceu limites para controlar o individualismo, egoísmo e o\npecado. As regras mais importantes são os “Dez Mandamentos”. Estas regras\najudam-nos a distinguir entre comportamentos aceitáveis e inaceitáveis. Elas\nsão a base para punir os erros e evitar que o mal se espalhe livremente e infete toda a\nhumanidade."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lê o texto em silêncio",
+          "Lê o texto em voz alta",
+          "Reconta o texto (usando a memória, com as Bíblias fechadas)",
+          "O grupo contribui para complementar"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Deuteronômio 5:6-22",
+        "html": "<!-- begin bible --><div><p class=\"bible_text\"><sup class=\"versenum\">6</sup>“Eu sou o SENHOR, teu Deus, que te tirei do Egipto, onde tu eras escravo. </p><p class=\"bible_text\"><sup class=\"versenum\">7</sup>Não deves adorar outros deuses, além de mim. </p><p class=\"bible_text\"><sup class=\"versenum\">8</sup>Não faças imagens de falsos deuses, representando seja o que for daquilo que existe no céu ou na terra ou na água debaixo da terra. </p><p class=\"bible_text\"><sup class=\"versenum\">9</sup>Não os adores nem lhes prestes culto, porque eu, o SENHOR, sou um Deus que não tolera quem tenha outros deuses. Por causa das culpas que os pais cometem contra mim, sou capaz de castigar os filhos e até os netos e bisnetos. <sup class=\"versenum\">10</sup>Mas também pago com amor durante mil gerações àqueles que me amam e cumprem as minhas ordens. </p><p class=\"bible_text\"><sup class=\"versenum\">11</sup>Não uses o nome do SENHOR, teu Deus, para jurar falso, porque o SENHOR não perdoa a quem usa assim o seu nome. </p><p class=\"bible_text\"><sup class=\"versenum\">12</sup>Guarda o dia de sábado, consagrando-o ao SENHOR, teu Deus, como ele te mandou. <sup class=\"versenum\">13</sup>Durante seis dias podes trabalhar e fazer tudo o que tens a fazer. <sup class=\"versenum\">14</sup>Mas o sétimo dia é de descanso em honra do SENHOR, teu Deus. Nesse dia, não podes fazer trabalho nenhum, nem tu nem os teus filhos e filhas, nem os teus escravos e escravas, nem o teu boi ou burro ou qualquer outro animal, nem sequer o estrangeiro que trabalha para ti. Todos, mesmo que sejam teus escravos, têm de descansar tal como tu. <sup class=\"versenum\">15</sup>Lembra-te que também tu foste escravo, quando estavas no Egipto, e que o SENHOR, com grande força e poder, te fez sair de lá. Por isso, ele te ordenou que guardasses o dia de sábado. </p><p class=\"bible_text\"><sup class=\"versenum\">16</sup>Respeita o teu pai e a tua mãe, como o SENHOR, teu Deus, te ordenou. Assim viverás muitos anos e serás feliz na terra que o SENHOR, teu Deus, te vai dar. </p><p class=\"bible_text\"><sup class=\"versenum\">17</sup>Não mates ninguém.</p><p class=\"bible_text\"><sup class=\"versenum\">18</sup>Não cometas adultério.</p><p class=\"bible_text\"><sup class=\"versenum\">19</sup>Não roubes.</p><p class=\"bible_text\"><sup class=\"versenum\">20</sup>Não levantes falso testemunho contra ninguém. </p><p class=\"bible_text\"><sup class=\"versenum\">21</sup>Não cobices a mulher de outro, nem cobices nada do que pertence aos outros, seja a casa, o campo, o escravo ou a escrava, o boi ou burro ou qualquer outra coisa.”» </p><p class=\"bible_text\"><sup class=\"versenum\">22</sup>«Estas foram as palavras que o SENHOR vos dirigiu, quando estavam todos reunidos junto do monte Horeb. Falou com voz forte do meio do fogo, da nuvem e da escuridão e não acrescentou mais nada. Escreveu estas palavras em duas placas de pedra e deu-mas. </p></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://live.bible.is/bible/PORB09/Deu/5",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "O que se destaca para ti nesta passagem?",
+          "O que diz esta passagem sobre as pessoas?",
+          "O que diz esta passagem sobre Deus e Jesus?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-13"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "OLHA PARA A FRENTE",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Se esta passagem for de Deus, que diferença faz na tua vida? Existe:"
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Um comportamento a mudar?",
+          "Uma promessa a reivindicar?",
+          "Um exemplo a seguir?",
+          "Uma ordem para obedecer?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Sugestões",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Tira uns minutos todas as noites para pensar sobre como te saíste ao viver de acordo com as dez regras básicas. Escreve as tuas observações."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Partilha com o grupo o que vais colocar em prática esta semana. Certifica-te de que é um objetivo SMART (específico, mensurável, atingível, realista e oportuno). Um modelo que podes utilizar é:"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Antes de (tempo específico) irei (ação) para que (resultado/aplicação)"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-21"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Com quem partilharás esta história esta semana?",
+          "Cada pessoa faz uma oração a dizer a Deus os compromissos que fez."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics04-i-will"
+      }
+    }
+  ]
+}

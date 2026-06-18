@@ -1,6 +1,7 @@
 import type { Component } from 'vue';
 
 import BiblePassageBlock from './blocks/BiblePassageBlock.vue';
+import BibleReferenceBlock from './blocks/BibleReferenceBlock.vue';
 import CollapsibleGroupBlock from './blocks/CollapsibleGroupBlock.vue';
 import HeaderBlock from './blocks/HeaderBlock.vue';
 import IconListBlock from './blocks/IconListBlock.vue';
@@ -16,6 +17,9 @@ import VideoBlock from './blocks/VideoBlock.vue';
 export function resolveSharedBlockComponent(type: string): Component | null {
   if (type === 'biblePassage') {
     return BiblePassageBlock;
+  }
+  if (type === 'bibleReference') {
+    return BibleReferenceBlock;
   }
 
   if (type === 'collapsibleGroup') {

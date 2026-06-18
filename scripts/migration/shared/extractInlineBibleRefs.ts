@@ -1,6 +1,6 @@
 // scripts/migration/shared/extractInlineBibleRefs.ts
 
-import * as cheerio from 'cheerio';
+import type * as cheerio from 'cheerio';
 import type { AnyNode } from 'domhandler';
 
 export type BibleRef = {

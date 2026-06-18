@@ -52,3 +52,7 @@ Amharic Basics is missing 1-6
 
 Restored missing Files (they did not have html as file type)
 Start again with AU cmn done
+
+## Day 9
+
+Passage Popups now work in <li>

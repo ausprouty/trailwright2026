@@ -68,20 +68,6 @@
       }
     },
     {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "note"
-      }
-    },
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "up",
-        "icon": "arrow-up"
-      }
-    },
-    {
       "type": "list",
       "data": {
         "style": "ordered",
@@ -123,7 +109,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-13"
+        "storageKey": "note-12"
       }
     },
     {
@@ -159,14 +145,30 @@
               }
             },
             {
-              "type": "list",
+              "type": "bibleReference",
               "data": {
-                "style": "unordered",
-                "items": [
-                  "Quando Deus nos perdoa, isso significa que ele já não nos cobra a culpa. Isso é possível agora porque Jesus sofreu e morreu por nós. Ele assumiu as consequências dos nossos pecados que deveríamos ter sofrido nós mesmos, para que possamos ser livres. Com base neste facto, Deus já não nos imputa culpa, embora sejamos culpados, perdoando-nos em vez disso. Embora sejamos realmente culpados, somos declarados justos por Deus. E isso forma a base da nossa reconciliação com Deus. Que privilégio!",
-                  "Quando perdoamos as pessoas que pecaram contra nós, isso não significa que esquecemos, negamos ou ignoramos o que aconteceu. Neste contexto, \"perdoar\" significa deixar ir/largar. Podemos entregar tudo nas mãos de Deus para que ele trate disso. E Deus não vai apenas esquecer, mas tratar disso da sua maneira perfeita. Já não precisamos de nos vingar, podemos deixar tudo com confiança nas mãos de Deus, pois ele diz: \"A vingança é minha, eu retribuirei\" (<a href=\"javascript:popUp('pop4')\">Deuteronômio 32,35;</a><div class=\"popup\" id=\"pop4\"><p class=\"bible_text\"><sup class=\"versenum\">35</sup>Eu é que hei-de tirar vingança e dar a paga, na altura em que os seus pés resvalarem. Está próximo o dia da sua ruína; aproxima-se o fim que lhes está destinado. </p></div><a href=\"javascript:popUp('pop2')\">Romanos 12,19). </a><div class=\"popup\" id=\"pop2\"><p class=\"bible_text\"><sup class=\"versenum\">19</sup>Meus caros irmãos, não façam justiça por vossas mãos. Deixem que seja Deus a castigar, pois diz o Senhor na Sagrada Escritura: A mim é que pertence castigar; eu é que darei a recompensa. </p></div> Precisamos confiar em Deus para lidar com isso da forma que ele decidir. Porque os caminhos e pensamentos de Deus são mais altos do que os nossos (<a href=\"javascript:popUp('pop3')\">Isaías 55,9).</a><div class=\"popup\" id=\"pop3\"><p class=\"bible_text\"><sup class=\"versenum\">9</sup>Quanto o céu está acima da terra, os meus caminhos estão acima dos vossos caminhos e os meus planos acima dos vossos planos. </p></div>",
-                  "Quando perdoamos alguém e entregamos tudo a Deus, encontramos liberdade do peso daquele pecado para nós e para o nosso relacionamento com essa pessoa. Já não precisamos de guardar rancor. Em vez disso, conseguimos viver livres de peso e interagir com a pessoa porque já não há culpa entre nós."
-                ]
+                "text": "<li>&nbsp;Quando Deus nos perdoa, isso significa que ele já não nos cobra a culpa. Isso é possível agora porque Jesus sofreu e morreu por nós. Ele assumiu as consequências dos nossos pecados que deveríamos ter sofrido nós mesmos, para que possamos ser livres. Com base neste facto, Deus já não nos imputa culpa, embora sejamos culpados, perdoando-nos em vez disso. Embora sejamos realmente culpados, somos declarados justos por Deus. E isso forma a base da nossa reconciliação com Deus. Que privilégio!</li><li>Quando perdoamos as pessoas que pecaram contra nós, isso não significa que esquecemos, negamos ou ignoramos o que aconteceu. Neste contexto, \"perdoar\" significa deixar ir/largar. Podemos entregar tudo nas mãos de Deus para que ele trate disso. E Deus não vai apenas esquecer, mas tratar disso da sua maneira perfeita. Já não precisamos de nos vingar, podemos deixar tudo com confiança nas mãos de Deus, pois ele diz: \"A vingança é minha, eu retribuirei\" ({Deuteronômio 32,35;} {Romanos 12,19).} Precisamos confiar em Deus para lidar com isso da forma que ele decidir. Porque os caminhos e pensamentos de Deus são mais altos do que os nossos ({Isaías 55,9).}</li><li>Quando perdoamos alguém e entregamos tudo a Deus, encontramos liberdade do peso daquele pecado para nós e para o nosso relacionamento com essa pessoa. Já não precisamos de guardar rancor. Em vez disso, conseguimos viver livres de peso e interagir com a pessoa porque já não há culpa entre nós.</li>",
+                "references": [
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Deuteronômio 32,35;",
+                    "label": "Deuteronômio 32,35;",
+                    "passage": "<sup>35</sup>Eu é que hei-de tirar vingança e dar a paga,\n          na altura em que os seus pés resvalarem. Está próximo o dia da sua\n          ruína; aproxima-se o fim que lhes está destinado."
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Romanos 12,19).",
+                    "label": "Romanos 12,19).",
+                    "passage": "<sup>19</sup>Meus caros irmãos, não façam\n          justiça por vossas mãos. Deixem que seja Deus a castigar, pois diz o Senhor\n          na Sagrada Escritura: A mim é que pertence castigar; eu é que darei a\n          recompensa."
+                  },
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Isaías 55,9).",
+                    "label": "Isaías 55,9).",
+                    "passage": "<sup>9</sup>Quanto o céu está acima da terra, os meus\n          caminhos estão acima dos vossos caminhos e os meus planos acima dos vossos planos."
+                  }
+                ],
+                "isOpen": true
               }
             }
           ],
@@ -186,20 +188,6 @@
       "data": {
         "theme": "forward",
         "title": "OLHA PARA A FRENTE",
-        "icon": "arrow-right"
-      }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "note"
-      }
-    },
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "forward",
         "icon": "arrow-right"
       }
     },
@@ -267,7 +255,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-22"
+        "storageKey": "note-20"
       }
     },
     {

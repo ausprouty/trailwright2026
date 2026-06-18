@@ -104,9 +104,32 @@
       "type": "biblePassage",
       "data": {
         "reference": "Mat. 7:24-27",
-        "html": "<div class=\"bible\"><br></div>",
+        "html": "<div class=\"bible\"><p>Kaksi rakentajaa</p><p><sup>24.</sup> »Jokainen, joka kuulee nämä sanani ja tekee niiden mukaan, on kuin järkevä mies, joka rakensi talonsa kalliolle. <sup>25.</sup> Alkoi sataa, tulvavesi virtasi ja myrskytuuli pieksi taloa, mutta se ei sortunut, sillä se oli rakennettu kallioperustalle. <sup>26.</sup> »Jokainen, joka kuulee nämä sanani mutta ei tee niiden mukaan, on kuin tyhmä mies, joka rakensi talonsa hiekalle. <sup>27.</sup> Alkoi sataa, tulvavesi virtasi ja myrskytuuli pieksi taloa, ja se sortui, maan tasalle saakka.» </p><p></p></div>",
         "url": "https://raamattu.fi/raamattu/KR92/MAT.7/Matteus-7",
         "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Jaak 1:22",
+        "html": "<div class=\"bible\"><p><sup>22.</sup> Toteuttakaa sana tekoina, älkää pelkästään kuunnelko sitä – älkää pettäkö itseänne </p><br></div>",
+        "url": "https://raamattu.fi/raamattu/KR92/JAS.1/Jaakobin-kirje-1",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Löydä"
       }
     },
     {
@@ -139,9 +162,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<div>Jos Raamatunkohta on totta, miten muutat elämäntapaasi? </div>",
-          "<div>Käytännön haasteena aion seuraavien päivien aikana..</div>",
-          "<div>Kenelle jaat tästä Raamatunkohdasta ja Jumalasta?</div>"
+          "Jos Raamatunkohta on totta, miten muutat elämäntapaasi?",
+          "Käytännön haasteena aion seuraavien päivien aikana.",
+          "Kenelle jaat tästä Raamatunkohdasta ja Jumalasta?"
         ]
       }
     },

@@ -1,0 +1,177 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "gaz",
+  "htmlLang": "gaz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics101",
+  "sortOrder": 0,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Qoodi",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Torbee kana Waaqayyo wajjin akkamitti dabarsite?",
+          "Waanti akka galateeffattu si godhan maalinni?",
+          "Waaqayyo maal akka si gargaaru barbaaddaa?",
+          "Wanta si barbaachisu keessatti akkamitti si gargaaruu dandeenya?",
+          "Walii walii keessaniif kadhadhaa"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "Keessa Deebii",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Erga walga'ii keenya yeroo darbeeti maal maal shaakalte?",
+          "Namootni ati kunuunsaa jirtuu akkam? Maaltu baay'ee isaan gargaara?",
+          "Shaakala Waaqayyoo namootaaf hiruu dandeesseetta? Isaan wajjin kadhatteetta?",
+          "Namoota sanaaf kadhadhu"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "Dubbisi",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisicha sagalee olkaasii al-lama dubbisi",
+          "Gargaarsa garichaatiin namni tokko dubbisicha jecha mataa isaatiin akka himuu godhaa",
+          "Waanti haaraan dabalame yookiin hir'ate jira?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Seera Uumamaa 2:4-25",
+        "html": "<div class=\"bible\"><p><sup>4</sup> Seenaan uumamuu waaqaa fi lafaa akka kana ture. </p><p><sup>7</sup> Waaqayyo gooftaan biyyoo lafaattii nama tolchee, hafuura jireenya itti godhu funyaan isaatti in baafate; akkasitti namni uumama lubbuu qabaatee jiraatu ta'e. </p><p><sup>8</sup> Yommus Waaqayyo gooftaan biyya gara ba'a-biiftuu keessaa Eedenitti iddoo dhaabaa tokko in dhaabe; nama isa tolche sanas achi keessa in kaa'e. <sup>9</sup> Waaqayyo gooftaan mukkeetii ija namaa hawwatan garaa garaa, iji isaaniis nyaataaf ba'eessa ta'an lafa keessaa in biqilche; mukti ija isaa nyaatanii jireenya namaaf kennu, mukti hamaa fi gaarii ittiin beekanis iddoo dhaabaa sana walakkaa turan. </p><p><sup>10</sup> Iddoo dhaabaa sana obaasuudhaaf Eeden keessaa bishaan in burqe; bishaanichis achii ba'ee, gargar hiramee laga afur in ta'e. <sup>11</sup> Maqaan isa duraa Phiishon, innis guutummaa biyya Hawiilaa lafa warqeen jirutti naanna'ee in yaa'a.{' '} <sup>12</sup> Warqeen biyya sanaas ba'eessa; hapheen urgaa'u, Sardoniiksis achii in argamu. <sup>13</sup> Maqaan laga isa lammaffaas Giihon, innis guutummaa biyya Kuushitti naanna'ee in yaa'a. </p><p><sup>15</sup> Waaqayyo gooftaan namicha fuudhee iddoo dhaabaa Eeden sana akka tottolchuuf, akka eeguufis achi keessa in kaa'e. <sup>16</sup> Yommus Waaqayyo gooftaan namicha abboomee, \"Ija mukkeetii iddoo dhaabaa kana keessa jiran hundumaa irraa in nyaatta; <sup>17</sup> ija mukicha nyaatanii hamaa fi gaarii ittiin beekan sana irraa garuu hin nyaatin! Gaafa isa irraa nyaatte garuu dhuguma in duuta\" jedhe. </p><p><sup>18</sup> Ergasii Waaqayyo gooftaan, \"Namichi kophaa isaa ta'uun gaarii miti; kan akka isaatii kan isa gargaartu, ani isaaf nan tolcha\" jedhe. <sup>19</sup> Waaqayyo gooftaan biyyoo irraa bineensa bakkee hundumaaf, warra qilleensa keessa balali'an hundumaafis bifa tolchee, maal jedhee akka inni isaan waamu ilaaluudhaaf gara namichaatti isaan fide; wanti namichi uumama lubbuu qabaatee jiraatu ittiin waame hundinuu immoo maqaa in ta'eef. <sup>20</sup> Namichis horii qe'ee hundumaaf, warra qilleensa keessa balali'aniif, bineensa bakkee hundumaafis maqaa in baase; namichaaf garuu kan akka isaatii, kan isa gargaartu hin argamne. </p><p><sup>21</sup> Waaqayyo gooftaan namichi rafee akka of wallaalu godhe; utuu namichi rafuu lafee cinaacha isaa keessaa tokko fuudhee iddoo isaatti foon in guute. <sup>22</sup> Waaqayyo gooftaan lafee cinaachaa isa namicha keessaa fuudhe sana irraa dubartii tolchee namichatti in geesse. </p><p><sup>23</sup> Namichis, \"Amma reefuu ta'e; isheen kun lafeen ishee lafee koo keessaa, foon ishees foon koo irraa fuudhame; isheen kun namattii waan argamteef, 'Namee' jedhamtee haa waamamtu!\" jedhe. </p><p><sup>24</sup> Kanaafis dhiirri abbaa isaa fi haadha isaa in dhiisa, haadha manaa isaattis in maxxana; isaan lachanuus foon tokko in ta'u. <sup>25</sup> Namichii fi haati manaa isaa qullaa isaanii turan, lamaanuun isaanii garuu wal hin saalfatan. </p><p></p></div>",
+        "url": "",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "Gargar baafadhu",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisni kun si'iif maal bakka bu'a?",
+          "Dubbisa kana keessaa wanti jaallatte yookiin si jeeqe maalidha?",
+          "Dubbisni kun waa'ee Waaqayyoo fi waa'ee namootaa maal sitti hima?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "Hojiiti Hiiki",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisa kanarratti hundaa'uun wantaWaaqayyo akka gootu sirraa barbaadu gaafadhu. Jiraa? <ul><li>Amala jijjiiramuu qabu</li><li>Waadaa Gaafatamuu qabu</li><li>Fakkeenya hordofamuu qabu</li><li>Abboommii eegamuu qabu</li></ul>",
+          "Garee kana Qoodi"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics101-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Yaadannoo",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Waaqni, lafti, namni, bineensotnii fi biqiltootni kan argaman yookiin uumaman carraadhaan miti. Isaan Waaqayyoon uumaman. Namootni jalqabaa qabanii walii walii isaanii fi addunyaa keessa jiraatan eeguu keessatti gahee guddaa qabu. Wanti hundumtuu gaarummaa Waaqayyoo agarsiisu.Namichaa fi nameen (Dhiiraa fi dubarri) uumama hundumaa akka itti gammadaniif bilisummaan kennameeraaf. Filannoon Waaqayyoof abbomamuu yookiin abboomamuu dhiisuu; jaalalasaa fudhachuu fi diduu isaaniif kennamee ture. Amanamummaan isaan gidduu jiru guddaa, qullaa ta’anillee wal hin qaaneffatan, uffatas hin barbaadne ture."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Waan nama dhibu, namootni kun filannoo abbommii Waaqayyoo diduu filachuun ija muka beekumsaa wanta gaarii fi hamaa beeksistu isa hin nyaatiinaa jedhaman nyaatan. Waaqayyo garuu muka kanarraa nyaachiin adabbii du’aa akka isaanitti fidu akeekkachiisee ture. Jiraachuun muka Sanaa namootni akka araara fedha Waaqayyootti guutuu akka hin taane nu agarsiisa. Guutumatti faallaadha. Dhalli namaa bilisummaa filachoo qaba. Bilisummaan Jaalala Waaqayyoo fudhachuu fi dhiisuu isaaniif kennameera."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

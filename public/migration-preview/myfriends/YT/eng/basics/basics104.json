@@ -1,0 +1,192 @@
+{
+  "site": "myfriends",
+  "country": "YT",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics104",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "SHARING LIFE",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What has put a smile on your face this week?",
+          "What has been difficult this week?",
+          "How have you experienced God this week?",
+          "Do you need any help from God in your life?",
+          "Are there any of your friends that are in need that we can help as a family?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶Pray together: Thank God for what He is doing and ask for God‘s help."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "REVIEW",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Who can retell the story of The Flood?",
+          "Who retold this story to someone else? Tell us about it."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together, that you may get to know more about God and what He has done for us."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "BIBLE STUDY",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the passage below out loud or <a href=\"https://www.youtube.com/watch?v=yHKFvxgQOFI\">watch this video</a>.",
+          "Ask someone to tell this part of the Bible in their own words.",
+          "Is there anything they added or left out?",
+          "<a href=\"https://www.youtube.com/watch?v=B3MZnOPmWVY&amp;t=132s\">Here is an easy way to remember this passage</a>."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Deuteronomy 5:6-21",
+        "html": "<div class=\"bible\"><div><sup>6</sup>“I am the Lord your God, who brought you out of Egypt, out of the land of slavery. </div><p><sup>7</sup>“You shall have no other gods before me.</p><p><sup>8</sup>“You shall not make for yourself an image in the form of anything in heaven above or on the earth beneath or in the waters below.<span style=\"color: #0000ff\">..</span></p><p><sup>11</sup>“You shall not misuse the name of the Lord your God, for the Lord will not hold anyone guiltless who misuses his name. </p><p><sup>12</sup>“Observe the Sabbath day by keeping it holy, as the Lord your God has commanded you.<sup>13</sup>Six days you shall labor and do all your work,<sup> 14 </sup>but the seventh day is a sabbath to the Lord your God... </p><p><sup>16</sup>“Honor your father and your mother, as the Lord your God has commanded you, so that you may live long and that it may go well with you in the land the Lord your God is giving you. </p><p><sup>17</sup>“You shall not murder.</p><p><sup>18</sup>“You shall not commit adultery.</p><p><sup>19</sup>“You shall not steal.</p><p><sup>20</sup>“You shall not give false testimony against your neighbor.</p><p><sup>21</sup>“You shall not covet your neighbor’s wife. You shall not set your desire on your neighbor’s house or land, his male or female servant, his ox or donkey, or anything that belongs to your neighbor.” </p><p></p></div>",
+        "url": "https://biblegateway.com/passage/?search=Deuteronomy%205:6-22&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "General questions:",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What did you like about this passage?",
+          "Was there anything in this passage that bothered you?",
+          "What does it say about people?",
+          "What does it say about God?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Applying the text",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What did you learn about God from this passage? I learnt that God is _______",
+          "After listening to this passage, I think God wants me to __________"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "CHALLENGES",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Who can you share this story with this week?",
+          "Take a couple of minutes every night to think about how well you were able to live by these ten basic rules. Maybe you will want to start a journal."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics104-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "PRAYER:",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "\"Dear God, thank you for telling us the best way to live. Give us the power to do the\nthings you have asked us to do\"."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

@@ -7,7 +7,7 @@
   "numberSystem": "latn",
   "series": "basics",
   "lessonId": "basics109",
-  "sortOrder": 8,
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -70,8 +70,17 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthew 7:24-29",
-        "html": "<div class=\"bible\"><p><sup>24</sup>“Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock.<sup>25</sup>The rain came down, the streams rose, and the winds blew and beat against that house; yet it did not fall, because it had its foundation on the rock.<sup> 26 </sup>But everyone who hears these words of mine and does not put them into practice is like a foolish man who built his house on sand.<sup> 27 </sup>The rain came down, the streams rose, and the winds blew and beat against that house, and it fell with a great crash.” </p><p><sup>28</sup>When Jesus had finished saying these things, the crowds were amazed at his teaching,<sup> 29 </sup>because he taught as one who had authority, and not as their teachers of the law. </p><br><br><p>James 1:22</p><p><sup>22</sup>Do not merely listen to the word, and so deceive yourselves. Do what it says. </p><br></div>",
+        "html": "<div class=\"bible\"><p><sup>24</sup>“Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock.<sup>25</sup>The rain came down, the streams rose, and the winds blew and beat against that house; yet it did not fall, because it had its foundation on the rock.<sup> 26 </sup>But everyone who hears these words of mine and does not put them into practice is like a foolish man who built his house on sand.<sup> 27 </sup>The rain came down, the streams rose, and the winds blew and beat against that house, and it fell with a great crash.” </p><p><sup>28</sup>When Jesus had finished saying these things, the crowds were amazed at his teaching,<sup> 29 </sup>because he taught as one who had authority, and not as their teachers of the law. </p><br></div>",
         "url": "https://biblegateway.com/passage/?search=Matthew%207:24-29&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "James 1:22",
+        "html": "<div class=\"bible\"><p><sup>22</sup>Do not merely listen to the word, and so deceive yourselves. Do what it says. </p><p></p></div>",
+        "url": "https://biblegateway.com/passage/?search=James%201:22&version=NIV",
         "isOpen": true
       }
     },
@@ -139,20 +148,6 @@
       "type": "iWill",
       "data": {
         "storageKey": "basics-basics109-i-will"
-      }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "note"
-      }
-    },
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "bible-study",
-        "icon": "bible-study"
       }
     }
   ]

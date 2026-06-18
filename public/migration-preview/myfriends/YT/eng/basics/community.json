@@ -1,0 +1,165 @@
+{
+  "site": "myfriends",
+  "country": "YT",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "community",
+  "sortOrder": 12,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Design your own journey. Faith is meant to be lived out in community. Here is an outline that you can follow with any Bible passage once you have completed Journey One."
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "SHARE",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "How have you experienced God this week?",
+          "What are you thankful for?",
+          "What do you need God’s help for?",
+          "How can we help you with your needs?",
+          "Pray for each other"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "REVIEW",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What have you put into practice since our last meeting?",
+          "How are the people that you are caring for going? What would help them most?",
+          "Were you able to share a God experience with anyone? Did you pray with them?",
+          "Pray for these people"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "READ",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage aloud twice.",
+          "Have one person retell the passage in their own words with the group’s help.",
+          "Was there anything missed or added?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Bible",
+        "html": "<strong><a href=\"https://www.biblegateway.com/quicksearch/?quicksearch=Luke&amp;qs_version=NIV\" target=\"a_blank\">SELECT A BIBLE PASSAGE </a></strong>",
+        "url": "",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "DISCOVER",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What stands out for you in this passage?",
+          "What do you like and what bothers you in this passage?",
+          "What does this passage tell you about God and people?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "APPLY",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Ask God what He wants you to do in response to the passage. Is there: <ul><li>A behaviour to change?</li><li>A promise to claim?</li><li>An example to follow?</li><li>A command to obey?</li></ul>",
+          "Share this with the group"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-community-i-will"
+      }
+    }
+  ]
+}

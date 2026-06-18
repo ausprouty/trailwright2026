@@ -1,0 +1,156 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "gaz",
+  "htmlLang": "gaz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "community",
+  "sortOrder": 12,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Imala kee tolfadhu. Amantii jechuun hawaasa jiran keessatti kan jiraatamudha. Imala Tokkoffaa akkuma xumurteen, dubbisa Macaafa Qulqulluu barbaadde yeroo dubbistu qabxiileen si gargaaruu danda'an kunooti."
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Qoodi",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Torbee kana Waaqayyo wajjin akkamitti dabarsite?",
+          "Waanti akka galateeffattu si godhan maalinni?",
+          "Waaqayyo maal akka si gargaaru barbaaddaa?",
+          "Wanta si barbaachisu keessatti akkamitti si gargaaruu dandeenya?",
+          "Walii walii keessaniif kadhadhaa"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "Keessa Deebii",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Erga walga'ii keenya yeroo darbeeti maal maal shaakalte?",
+          "Namootni ati kunuunsaa jirtuu akkam? Maaltu baay'ee isaan gargaara?",
+          "Shaakala Waaqayyoo namootaaf hiruu dandeesseetta? Isaan wajjin kadhatteetta?",
+          "Namoota sanaaf kadhadhu"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "Dubbisi",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisicha sagalee olkaasii al-lama dubbisi",
+          "Gargaarsa garichaatiin namni tokko dubbisicha jecha mataa isaatiin akka himuu godhaa",
+          "Waanti haaraan dabalame yookiin hir'ate jira?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Dubbisa Macaafa Qulqulluu Filadhu<br>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "Gargar baafadhu",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisni kun si'iif maal bakka bu'a?",
+          "Dubbisa kana keessaa wanti jaallatte yookiin si jeeqe maalidha?",
+          "Dubbisni kun waa'ee Waaqayyoo fi waa'ee namootaa maal sitti hima?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "Hojiiti Hiiki",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisa kanarratti hundaa'uun wantaWaaqayyo akka gootu sirraa barbaadu gaafadhu. Jiraa? <ul><li>Amala jijjiiramuu qabu</li><li>Waadaa Gaafatamuu qabu</li><li>Fakkeenya hordofamuu qabu</li><li>Abboommii eegamuu qabu</li></ul>",
+          "Garee kana Qoodi"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-community-i-will"
+      }
+    }
+  ]
+}

@@ -68,20 +68,6 @@
       }
     },
     {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "note"
-      }
-    },
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "up",
-        "icon": "arrow-up"
-      }
-    },
-    {
       "type": "list",
       "data": {
         "style": "ordered",
@@ -117,7 +103,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-12"
+        "storageKey": "note-11"
       }
     },
     {
@@ -180,20 +166,6 @@
       "data": {
         "theme": "forward",
         "title": "LOOK FORWARD",
-        "icon": "arrow-right"
-      }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "note"
-      }
-    },
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "forward",
         "icon": "arrow-right"
       }
     },
@@ -261,7 +233,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-21"
+        "storageKey": "note-19"
       }
     },
     {

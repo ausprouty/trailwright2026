@@ -1,0 +1,202 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "gaz",
+  "htmlLang": "gaz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics110",
+  "sortOrder": 9,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Qoodi",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Torbee kana Waaqayyo wajjin akkamitti dabarsite?",
+          "Waanti akka galateeffattu si godhan maalinni?",
+          "Waaqayyo maal akka si gargaaru barbaaddaa?",
+          "Wanta si barbaachisu keessatti akkamitti si gargaaruu dandeenya?",
+          "Walii walii keessaniif kadhadhaa"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "Keessa Deebii",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Erga walga'ii keenya yeroo darbeeti maal maal shaakalte?",
+          "Namootni ati kunuunsaa jirtuu akkam? Maaltu baay'ee isaan gargaara?",
+          "Shaakala Waaqayyoo namootaaf hiruu dandeesseetta? Isaan wajjin kadhatteetta?",
+          "Namoota sanaaf kadhadhu"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "Dubbisi",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisicha sagalee olkaasii al-lama dubbisi",
+          "Gargaarsa garichaatiin namni tokko dubbisicha jecha mataa isaatiin akka himuu godhaa",
+          "Waanti haaraan dabalame yookiin hir'ate jira?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Roomaa 6:3-14",
+        "html": "<div class=\"bible\"><p><sup>3</sup> Yookiis nuyi warri Kristos Yesusitti dabalamuudhaaf cuuphamne, du'a isaattis isatti dabalamuudhaaf akka cuuphamne in wallaaltanii ree? <sup>4</sup> Nuyi cuuphamuudhaan du'a isaatti isatti dabalamnee isaa wajjin awwaalamneerra; Kristos humna abbaa isa ulfina-qabeessaan warra du'an keessaa akkuma kaafame, nus immoo jireenya haaraatti in jiraanna. </p><p><sup>5</sup> Akkuma du'a isaatti isaa wajjin walitti dabalamne, akkasuma du'aa ka'uu isaattis isaa wajjin walitti in dabalamna. <sup>6</sup> Nuyi deebinee garba cubbuu akka hin taanetti, dhagni inni cubbuu hojjetu akka badduu baafamuuf, namummaan keenya inni moofaan isaa wajjin akka fannifame in beekna.{' '} <sup>7</sup> Namni yommuu du'u humna cubbuu jalaa in ba'a. <sup>8</sup> Kristosii wajjin yoo duune garuu, Kristosii wajjin immoo akka jiraannu in amanna. <sup>9</sup> Kristos warra du'an keessaa erga kaafamee, deebi' ee akka hin duune, duunis si'achi isa irratti gooftummaa akka hin qabne beekna. <sup>10</sup> Du'a al tokko, waa'ee cubbuutiif du'e; jireenya isaa ammaa immoo Waaqayyoof in jiraata. <sup>11</sup> Isinis immoo akkasuma akka warra cubbuu jalaa du'anii, karaa Kristos Yesus Waaqayyoof jiraataniitti of lakkaa'aa! </p><p><sup>12</sup> Ammas cubbuun warra kajeellaa fooniitiif abboomaman akka isin hin godhannetti, dhagna keessan isa du'e keessatti isa hin moosisinaa! <sup>13</sup> Bu'aa dhagna keessanii mi'a jal'inaa gochuudhaaf harka cubbuu jala hin galchinaa! Garuu akka nanioota warra du'a keessaa ba'anii jireenya argataniitti, Waaqayyoof of kennitanii, bu'aa dhagna keessanii mi'a qajeelinaa gochuudhaaf harka Waaqayyoo jala galchaa! <sup>14</sup> Isin seera jalatti qabamtanii kan jiraattan utuu hin ta'in, ayyaana Waaqayyoo jala waan jiraattaniif cubbuun isin irratti gooftummaa hin qabaatu. </p><p><br><br></p></div>",
+        "url": "http://listen.bible.is/GAZBSE/Rom/6",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "Gargar baafadhu",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisni kun si'iif maal bakka bu'a?",
+          "Dubbisa kana keessaa wanti jaallatte yookiin si jeeqe maalidha?",
+          "Dubbisni kun waa'ee Waaqayyoo fi waa'ee namootaa maal sitti hima?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "Hojiiti Hiiki",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisa kanarratti hundaa'uun wantaWaaqayyo akka gootu sirraa barbaadu gaafadhu. Jiraa? <ul><li>Amala jijjiiramuu qabu</li><li>Waadaa Gaafatamuu qabu</li><li>Fakkeenya hordofamuu qabu</li><li>Abboommii eegamuu qabu</li></ul>",
+          "Garee kana Qoodi"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics110-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Yaadannoo",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Qo’annoon Macaafa Qulqulluu armaan gadii waa’ee Cuuphaa ilaallata. Yeroo ammaa kana jechi “Cuuphaa” jedhu bakka baay’eetti fayyadaa waan jiruuf “Cuuphaan” maal akka ta’e ibsuun barbaachisaadha."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Fakkenyotni waa’ee Cuuphaa ibsan kunooti:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Eebba Waaqayyoo ijoollotaaf kadhachuu (gaafachuu)",
+                  "Cubbuu dhaabbataa (dhalootaa) irraa dhiquu.",
+                  "Bu’uura amantii beeksisuu",
+                  "Ijoollotaaf maqaa moggaasuu",
+                  "Sirna Abbaa Hafuuraa / Haadha Hafuuraa muuduu"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Kan armaan olitti tarreeffaman hundi, gosoota Cuuphaa bakkaa fi haala tokko tokkoo isaaniitti raawwatamani, haa ta’u malee akka dubbisa kanaatti Cuuphaa jechuun kana miti. Dubbisa Macaafa Qulqulluu keenya har’aa keessatti, Cuupha jechuun “Adda-ba’uu” yookiin “Keessaa Qooda Qabaachuu” jechuudha."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Yesuus laga Yoordaanositti cuuphame ture. Bartootni isaa dargaggoota ergaa isaatiif adda of baasuu barbaadan cuuphaniiru. Cuuphaan bishaaniin of jiisuu irra baay’ee darba. Barannoo keenya kana keessatti wanta Macaafni Qulqulluun waa’ee barbaachisummaa Cuuphaa jedhu ilaalla."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

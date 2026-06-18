@@ -1,4 +1,13 @@
 {
+  "site": "myfriends",
+  "country": "BR",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics109",
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -25,7 +34,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics109-review"
+        "storageKey": "note"
       }
     },
     {
@@ -52,7 +61,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics109-bible-study"
+        "storageKey": "note"
       }
     },
     {
@@ -78,9 +87,25 @@
       "type": "biblePassage",
       "data": {
         "reference": "Mateus 7:24-29",
-        "html": "<div class=\"bible\"><p><sup>24</sup>“Portanto, quem ouve estas minhas palavras e as pratica é como um homem prudente que construiu a sua casa sobre a rocha.<sup>25</sup>Caiu a chuva, transbordaram os rios, sopraram os ventos e deram contra aquela casa, e ela não caiu, porque tinha seus alicerces na rocha.<sup>26</sup>Mas quem ouve estas minhas palavras e não as pratica é como um insensato que construiu a sua casa sobre a areia.<sup>27</sup>Caiu a chuva, transbordaram os rios, sopraram os ventos e deram contra aquela casa, e ela caiu. E foi grande a sua queda”.</p><p><sup>28</sup>Quando Jesus acabou de dizer essas coisas, as multidões estavam maravilhadas com o seu ensino,<sup>29</sup>porque ele as ensinava como quem tem autoridade, e não como os mestres da lei.</p><p><br></p><p><sup>22</sup><strong>Sejam praticantes da palavra, e não apenas ouvintes, enganando-se a si mesmos.</strong></p><p><br></p></div>",
+        "html": "<div class=\"bible\"><p><sup>24</sup>“Portanto, quem ouve estas minhas palavras e as pratica é como um homem prudente que construiu a sua casa sobre a rocha.<sup>25</sup>Caiu a chuva, transbordaram os rios, sopraram os ventos e deram contra aquela casa, e ela não caiu, porque tinha seus alicerces na rocha.<sup>26</sup>Mas quem ouve estas minhas palavras e não as pratica é como um insensato que construiu a sua casa sobre a areia.<sup>27</sup>Caiu a chuva, transbordaram os rios, sopraram os ventos e deram contra aquela casa, e ela caiu. E foi grande a sua queda”.</p><p><sup>28</sup>Quando Jesus acabou de dizer essas coisas, as multidões estavam maravilhadas com o seu ensino,<sup>29</sup>porque ele as ensinava como quem tem autoridade, e não como os mestres da lei.</p><p><br></p></div>",
         "url": "https://biblegateway.com/passage/?search=Matthew%207:24-29&version=NVI-PT",
         "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Tiago 1:22",
+        "html": "<div class=\"bible\"><p><sup>22</sup><strong>Sejam praticantes da palavra, e não apenas ouvintes, enganando-se a si mesmos.</strong></p><p><br></p></div>",
+        "url": "https://biblegateway.com/passage/?search=James%201:22&version=NVI-PT",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
       }
     },
     {
@@ -106,7 +131,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics109-challenge"
+        "storageKey": "note"
       }
     },
     {
@@ -155,7 +180,5 @@
         }
       }
     }
-  ],
-  "time": 1778492568804,
-  "version": "2.31.5"
+  ]
 }

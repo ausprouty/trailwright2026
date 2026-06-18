@@ -1,0 +1,180 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "gaz",
+  "htmlLang": "gaz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics109",
+  "sortOrder": 8,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Qoodi",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Torbee kana Waaqayyo wajjin akkamitti dabarsite?",
+          "Waanti akka galateeffattu si godhan maalinni?",
+          "Waaqayyo maal akka si gargaaru barbaaddaa?",
+          "Wanta si barbaachisu keessatti akkamitti si gargaaruu dandeenya?",
+          "Walii walii keessaniif kadhadhaa"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "Keessa Deebii",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Erga walga'ii keenya yeroo darbeeti maal maal shaakalte?",
+          "Namootni ati kunuunsaa jirtuu akkam? Maaltu baay'ee isaan gargaara?",
+          "Shaakala Waaqayyoo namootaaf hiruu dandeesseetta? Isaan wajjin kadhatteetta?",
+          "Namoota sanaaf kadhadhu"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "Dubbisi",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisicha sagalee olkaasii al-lama dubbisi",
+          "Gargaarsa garichaatiin namni tokko dubbisicha jecha mataa isaatiin akka himuu godhaa",
+          "Waanti haaraan dabalame yookiin hir'ate jira?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Maatewos 7:24-29",
+        "html": "<div class=\"bible\"><p><sup>24</sup> Yesus, \"Egaa namni dubbii koo dhaggeeffatee akka isaatti hojjetu hundinuu nama ogeessa mana isaa dhagaa irratti ijaarratetti in fakkeeffama. <sup>25</sup> Bokkaan roobee, lolaan lola'ee, qilleensis qilleensa'ee, manasanatti bu'an; manichi garuu hundeen isaa dhagaa irra dhaabamee waan tureef, hin jigne. <sup>26</sup> Namni dubbii koo dhaggeeffatee akka isaatti hin hojjenne hundinuu garuu, nama gowwaa mana isaa hundee malee lafa cirrachaa irratti ijaarratetti in fakkeeffama. <sup>27</sup> Bokkaan roobee, lolaan lola'ee, qilleensis qilleensa'ee, mana sanatti bu'an; manichis in jige; jiguun isaas badduu baasa ta'e\" jedhe. </p><p><sup>28</sup> Yesus dubbii isaa kana dubbatee yommuu raawwate, namoonni na'anii barsiisa isaa in dinqisiifatan. <sup>29</sup> Inni akka barsiisota seeraa warra kan isaanii utuu hin ta'in akka nama aboo qabuutti isaan in barsiisa ture. </p></div>",
+        "url": "",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Yaaqoob 1:22",
+        "html": "<div class=\"bible\"><p><sup>22</sup> Warra dubbicha hojii irra oolchan ta'aa malee, warra dhaga'uu duwwaadhaan of gowwoomsan bin ta'inaa! </p><p></p></div>",
+        "url": "",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "Gargar baafadhu",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisni kun si'iif maal bakka bu'a?",
+          "Dubbisa kana keessaa wanti jaallatte yookiin si jeeqe maalidha?",
+          "Dubbisni kun waa'ee Waaqayyoo fi waa'ee namootaa maal sitti hima?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "Hojiiti Hiiki",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisa kanarratti hundaa'uun wantaWaaqayyo akka gootu sirraa barbaadu gaafadhu. Jiraa? <ul><li>Amala jijjiiramuu qabu</li><li>Waadaa Gaafatamuu qabu</li><li>Fakkeenya hordofamuu qabu</li><li>Abboommii eegamuu qabu</li></ul>",
+          "Garee kana Qoodi"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics109-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Yaadannoo",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Wangeela Maatewoos 7:24 irratti Yesuus Macaafa Qulqulluu akkamitti dubbisuu akka qabnuu fi akka itti fakkeenya fayyadamuu qabnu, naamusa baay’ee bu’uura ta’e ibseera. Yaaqoob mata-duree kana hima takkoon guduunfeera, “Warra dubbiirra oolchan ta’aa malee, warra dhaga’uu qofaan of gowwoomsan hin ta’inaa!” jechuun (Yaqoob 1:22)."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

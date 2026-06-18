@@ -1,0 +1,177 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "gaz",
+  "htmlLang": "gaz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics104",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Qoodi",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Torbee kana Waaqayyo wajjin akkamitti dabarsite?",
+          "Waanti akka galateeffattu si godhan maalinni?",
+          "Waaqayyo maal akka si gargaaru barbaaddaa?",
+          "Wanta si barbaachisu keessatti akkamitti si gargaaruu dandeenya?",
+          "Walii walii keessaniif kadhadhaa"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "Keessa Deebii",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Erga walga'ii keenya yeroo darbeeti maal maal shaakalte?",
+          "Namootni ati kunuunsaa jirtuu akkam? Maaltu baay'ee isaan gargaara?",
+          "Shaakala Waaqayyoo namootaaf hiruu dandeesseetta? Isaan wajjin kadhatteetta?",
+          "Namoota sanaaf kadhadhu"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "Dubbisi",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisicha sagalee olkaasii al-lama dubbisi",
+          "Gargaarsa garichaatiin namni tokko dubbisicha jecha mataa isaatiin akka himuu godhaa",
+          "Waanti haaraan dabalame yookiin hir'ate jira?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Seera Keessa Deebii 5:6-22",
+        "html": "<div class=\"bible\"><p><sup>6</sup> 'Ani Waaqayyo, gooftaa kee isa mana garbummaa biyya Gibxii keessaa si baasee dha. <sup>7</sup> \" 'Waaqayyolii kan biraa tokko illee ana bukkeetti hin qabaatin! <sup>8</sup> Bifa qirixame, fakkeenya wanta ol waaqa irra jiruu, gad lafa irra jiruu yookiis bishaan keessa lafa jala jiruu hin tolfatin! <sup>9</sup> Ati bifa fakkeenyaa kanaaf hin sagadin, isaafis hin hojjetin! Ani Waaqayyo gooftaan kee Waaqayyo hinaafaa dha; cubbuu abbootaas hamma dhaloota sadii, hamma dhaloota afuriittis harka ijoollee warra na jibbanii keessaa nan barbaada. <sup>10</sup> Dhaloota warra na jaallatanii abboommii koo eeganiitti garuu, kumaatama isaaniitti gaarummaa koo nan argisiisa. </p><p><sup>11</sup> \" 'Waaqayyo nama akkasumaan maqaa isaa dha'u adaba malee waan hin dhiifneef, ati maqaa Waaqayyoo gooftaa keetii akkasumaan hin dha'in! <sup>12</sup> \" 'Waaqayyo gooftaan kee akka si abboometti, guyyaa Sanbataa qulqullinatti eegi! <sup>13</sup> Guyyaa ja'a hojii kee hojjedhu, jiruu kees hundumaa godhadhu! <sup>14</sup> Guyyaan inni torbaffaan garuu Sanbata Waaqayyo gooftaa keetiif eegamuu dha; isatti ati, ilmi kee, intalli kee, hojjetaan kee, hojjettuun kee, qotiyyoon kee, harreen kee, horiin qe'ee kee hundinuu, galaan kellaa kee keessa jirus hojii tokko illee hin hojjetin! Hojjetaan kee fi hojjettuun kee akkuma kee haa boqotan!{' '} <sup>15</sup> Ati biyya Gibxiitti garbicha akka turte, Waaqayyo gooftaan kee harka jabaadhaan, irree ol fuudhamaadhaanis achii akka si baase yaadadhu; Waaqayyo gooftaan kee kanaaf guyyaa Sanbataa akka eegduuf si abboome. </p><p><sup>16</sup> \" 'Biyya Waaqayyo gooftaan kee siif kennu keessa bara dheeraa akka jiraattuuf, gaariis akka siif ta'uuf, akkuma Waaqayyo gooftaan kee si abboometti abbaa kee fi haadha keef ulfina kenni! </p><p><sup>17</sup> \" 'Hin ajjeesin! </p><p><sup>18</sup> \" 'Hin ejjin! </p><p><sup>19</sup> \" 'Hin hatin! </p><p><sup>20</sup> \" 'Nama irratti sobaan dhugaa hin ba'in! </p><p><sup>21</sup> \" 'Haadha manaa namaa duraa fudhachuudhaaf hin hawwin; mana namaa, maasii isaa, hojjetaa isaa, hojjettuu isaa, qotiyyoo isaa, harree isaa yookiis waanuma kan isaa ta'e duraa fudhachuudhaaf hin hawwin!' </p><p><sup>22</sup> \"Waaqayyo tulluu gubbaadhaa ibiddaa fi duumessa gidduudhaa, duumessa gurraacha limixii keessaas sagalee guddaadhaan dubbii kana guutummaa walga'ii keessanitti dubbatee, gabatoota dhagaa lamatti isaan caafee anatti kenne malee, wayyis itti hin daballe. </p></div>",
+        "url": "",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "Gargar baafadhu",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisni kun si'iif maal bakka bu'a?",
+          "Dubbisa kana keessaa wanti jaallatte yookiin si jeeqe maalidha?",
+          "Dubbisni kun waa'ee Waaqayyoo fi waa'ee namootaa maal sitti hima?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "Hojiiti Hiiki",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisa kanarratti hundaa'uun wantaWaaqayyo akka gootu sirraa barbaadu gaafadhu. Jiraa? <ul><li>Amala jijjiiramuu qabu</li><li>Waadaa Gaafatamuu qabu</li><li>Fakkeenya hordofamuu qabu</li><li>Abboommii eegamuu qabu</li></ul>",
+          "Garee kana Qoodi"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics104-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Yaadannoo",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jallinni to’annoon ala ta’ee akka hin babal’anneef, Waaqayyo lolaa bishaanii dura ofittummaa fi of jaallachuu irratti daangaa gochaa ture. Seerotni baay’ee barbaachisaa ta’an “Abboommii Kurnani”."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Seerotni kun amala kamtu fudhatamaa fi fudhatamaa hin taane akka gargar baafannu nu gargaaru. Dogoggora adabuu fi jallinni to’annaan ol akka hin babal’anne, sanyii namootaas akka hin miine ittisuuf bu’uuradha. Walitti dhufeenya Waaqayyo wajjin qabnu (Shanan jalqabaa) fi namoota waliin qabnu (Shanan lammaffaa) isa gargar cabee ture deebisuuf bu’aa guddaa qabu."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

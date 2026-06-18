@@ -112,7 +112,7 @@
     {
       "type": "header",
       "data": {
-        "text": "Pysäytä elokuva kohtaan, jossa Jeesus murskaa käärmeen (8‘ 57‘‘)",
+        "text": "Pysäytä elokuva kohtaan, jossa Jeesus murskaa käärmeen (8‘\n57‘‘)",
         "level": 3
       }
     },
@@ -129,7 +129,7 @@
     {
       "type": "header",
       "data": {
-        "text": "Pysäytä elokuva kohtaan, jossa Jeesus on juuri tuomittu kuolemaan ristillä. (1h 11‘ 48‘‘)",
+        "text": "Pysäytä elokuva kohtaan, jossa Jeesus on juuri tuomittu kuolemaan ristillä. (1h\n11‘ 48‘‘)",
         "level": 3
       }
     },
@@ -140,6 +140,20 @@
         "items": [
           "Mikä on maaherran (Pilatus) ja hänen vaimonsa suhtautuminen Jeesukseen?"
         ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Löydä"
       }
     },
     {

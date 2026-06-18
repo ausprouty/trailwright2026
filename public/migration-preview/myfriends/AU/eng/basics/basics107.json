@@ -203,20 +203,6 @@
       }
     },
     {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "note"
-      }
-    },
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "forward",
-        "icon": "arrow-right"
-      }
-    },
-    {
       "type": "list",
       "data": {
         "style": "ordered",

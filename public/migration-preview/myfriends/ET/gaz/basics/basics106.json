@@ -1,0 +1,195 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "gaz",
+  "htmlLang": "gaz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics106",
+  "sortOrder": 5,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Qoodi",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Torbee kana Waaqayyo wajjin akkamitti dabarsite?",
+          "Waanti akka galateeffattu si godhan maalinni?",
+          "Waaqayyo maal akka si gargaaru barbaaddaa?",
+          "Wanta si barbaachisu keessatti akkamitti si gargaaruu dandeenya?",
+          "Walii walii keessaniif kadhadhaa"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "Keessa Deebii",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Erga walga'ii keenya yeroo darbeeti maal maal shaakalte?",
+          "Namootni ati kunuunsaa jirtuu akkam? Maaltu baay'ee isaan gargaara?",
+          "Shaakala Waaqayyoo namootaaf hiruu dandeesseetta? Isaan wajjin kadhatteetta?",
+          "Namoota sanaaf kadhadhu"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "Dubbisi",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisicha sagalee olkaasii al-lama dubbisi",
+          "Gargaarsa garichaatiin namni tokko dubbisicha jecha mataa isaatiin akka himuu godhaa",
+          "Waanti haaraan dabalame yookiin hir'ate jira?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Macaafa Isaayass Raajichaa 52:13-53:12",
+        "html": "<div class=\"bible\"><p><sup>13</sup> Waaqayyo, \"Kunoo, hojiin garbicha kootii wal in qixxaataaf; inni ol in fuudhama, in guddata, baay'ees ol in qabama. </p><p><sup>14</sup> Haa ta'u iyyuu malee, akkuma namoonni yeroo isa argan na'anii dinqisiifatan, akkasuma danaan garbicha kootii waan badeef, bifni isaas kan ilmaan namootaa fakkaachuu waan dideef, </p><p><sup>15</sup> sabni baay'een isa in dinqisiifatu, wanta dur hin beekne amma in argu, wanta dur hin dhageenyes amma in hubatu kanaafis mootonni isa duratti afaan in qabatu\" jedhe. </p><p><sup>53:1</sup> Isa nuyi dhageenyee himne eenyutu amane? Irreen Waaqayyoos eenyutti mul'ate? </p><p><sup>2</sup> Inni akka biqiltuu mukaatti goofticha duratti ol in ba'a, akka hidda mukaa isa lafa gogaa keessaa ba'uus in ta'a; simboodhaa fi surraa waan hin qabneef, nuyi isa ilaaluu hin jaallanne; miidhagummaa waan hin qabneefis nu hin mararre; </p><p><sup>3</sup> namoonni isa tuffatanii isa irraa in goran, inni nama dhiphinnii fi muddamni itti baay'ate ture; inni akka nama tuffatanii, achi ilaalanii bira darbanii in ta'e; nuyis homaatti iyyuu isa hin lakkoofne. </p><p><sup>4</sup> Inni garuu dhugumaan dhiphina keenya of irra in kaa'e, muddama keenyas in baate; nuyi garuu akka waan Waaqayyo dha'icha isatti fidee, akka waan inni isa rukutee gad isa deebisettis in lakkoofne. </p><p><sup>5</sup> Inni garuu balleessaa keenyaaf in waraaname, sababii yakka keenyaafis reebamee in caccabsame; nuyi nagaa akka argannuuf inni in adabame, madaa'uu isaatiinis fayyinni nuuf in argame; </p><p><sup>6</sup> nuyi hundumti keenya akka hoolotaa karaa irraa badnee turre, adduma addaanis kara-karaa in gorre; Waaqayyo garuu yakka hunduma keenyaa isa irra in kaa'e. </p><p><sup>7</sup> Isa in cunqursan, in dhiphisanis, inni garuu waan tokko iyyuu hin dubbanne; akkuma ilmoo hoolaa ishee qalamuudhaaf geeffamtuutti in oofame, akkuma hoolaan yommuu rifeensa irraa muran cal jettuus, inni calluma jedhe malee, afaan isaa hin saaqqanne. </p><p><sup>8</sup> Cunqursaadhaan itti faradamee in ajjeefame; hidda dhaloota isaatii eenyutu hima ree? Biyya warra jiraataa keessaa in balleeffame, balleessaa saba kootiitiin hamma du'aatti in adabame; </p><p><sup>9</sup> inni jal'ina tokko illee hin hojjenne, gowwoomsaanis afaan isaa keessaa hin baane; awwaalli isaa warra jal'oota gidduutti yaadamee ture, inni garuu warra sooressoota gidduutti in awwaalame. </p><p><sup>10</sup> Waaqayyo, \"Isa ani dhiphise sana caccabsuun jaalala koo in ta'e; inni lubbuu isaa aarsaa sababii yakkaatiif dhi'aatu godhee yoo dhi'eesse, sanyii isaa arguuf jira; jabanni isaas in dheerataaf; jaalalli koos karaa isaa in raawwatama; </p><p><sup>11</sup> dhiphina cimaa dhiphatee erga du'ee booddee deebi'ee jiraataa ta'ee garaa in ciibsata; garbichi koo inni qajeelaan beekumsa isaatiin namoota baay'eedhaaf in farada, yakka isaaniis isaaniif in baata; </p><p><sup>12</sup> inni cubbuu namoota baay'ee baatee, waa'ee cubbuu isaaniitiifis isaaniif in kadhate; lubbuu isaa du'atti dabarsee kennee, warra balleessaa qabanii wajjinis waan lakkaa'ameef, ani qooda isaa warra gurguddootaa wajjin nan godhaaf, warra jajjaboo wajjinis boojuu in hirmaata\" jedhe. </p><p><sup>29</sup> Borumtaa Yohannis utuu Yesus gara isaa dhufuu argee, \"Ilaa hoolicha Waaqayyoo, isa cubbuu biyya lafaa irraa fuudhu. <sup>30</sup> 'Namni ana booddee dhufu ana irra caala, ana dura ture'o' jedhee waa'ee isaa kanan dubbadhe isa kana.{' '} <sup>31</sup> Ani ofii kootii iyyuu isa hin beekne, garuu Israa'elitti akka inni mul'ifamuafan bishaaniin namoota cuuphuu dhufe\" jedhe. <sup>32</sup> Yohannis dhugaa ba'eefii, \"Hafuurri qulqulluun akka gugeetti waaqa irraa isa irra bu'ee hafuu isaa argeera. <sup>33</sup> Ani ofii kootii iyyuu isa hin beekne; garuu inni akka ani bishaaniin cuuphuuf na erge sun, 'Hafuurri qulqulluun isa irra bu'ee hafuu isaa kan argitu, isa inni hafuura qulqulluudhaan cuuphu' jedhee anatti hime. <sup>34</sup> Ani ofii kootii kana argeera, inni kun ilma Waaqayyoo ta'uu isaas dhugaa ba'eera\" jedhe. </p><p></p><p></p><p></p><p></p><p></p></div>",
+        "url": "",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "Gargar baafadhu",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisni kun si'iif maal bakka bu'a?",
+          "Dubbisa kana keessaa wanti jaallatte yookiin si jeeqe maalidha?",
+          "Dubbisni kun waa'ee Waaqayyoo fi waa'ee namootaa maal sitti hima?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "Hojiiti Hiiki",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisa kanarratti hundaa'uun wantaWaaqayyo akka gootu sirraa barbaadu gaafadhu. Jiraa? <ul><li>Amala jijjiiramuu qabu</li><li>Waadaa Gaafatamuu qabu</li><li>Fakkeenya hordofamuu qabu</li><li>Abboommii eegamuu qabu</li></ul>",
+          "Garee kana Qoodi"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics106-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Yaadannoo",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Yeroo darbe Waaqayyo waa’ee bara isa haaraa nu beeksisuu isaa dubbifanneera. Har’ammoo akkamitti kun raawwachuu (hojiitti hiikamuu) danda’u baranna. Waaqayyoo garbichasaa (hojjetaa isaa) ni erga. Kana jechuun nama sirriitti akka Waaqayyo irraa barbaadutti jiraatu dha. Namni kun osoo cubbuu yookiin hamaa hin hojjetiin, akka nama yakkamaatti du’uuf jira. Ergamni garbicha Waaqayyoo dhukkuba, madaa’uu fi cubbuu ilmaan namootaa ofiisaa irratti baachuudha. Kun tasumaa waan ta’u hin fakkaatu, faallaadha."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Namootni isa faana turan isa hin jaallanne; irraa garagalan malee. Isaan akka nama cubbamaa yookiin cubbamaa Waaqayyoon adabameetti isa lakkaa’u. Inni garuu,dhugumaan wanta hamaa ofii isaatii hojjeteen adabama miti; wanta namootni dhiibbaa jallinaa jala jiran hojjetaniin malee. Garbichi Waaqayyoo kun hojii keenya isa hamaadhaaf itti gaafatamummaa fudhata. Nuti deebinee nagaa akka argannuuf, qooda nuyi warra cubbamootaa hadheeffamee hidhama; nuti garuu Waaqayyoo fi namoota biro faanas nagaa akka qabaannu godha."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<br><br>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<br><br>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Raajiin Yohannis Cuuphaa jedhamu Israa’eeliin garbicha isaa isa dhufuuf akka qopheessuuf Waaqayyoon ergame (Raajii Isaayaas 52- 53 dubbisi). Dubbisa kana keessatti Yesuus Hoolaa Waaqayoo isa cubbuu biyya lafaarraa fuudhu akka ta’e garagar baasee dubbata. Karaa biraatiin, Yohannis Yesuus kun fayyisaa bara dheeraaf eegamaa ture, isa ilmaan namaa aboo jallinaa jalaa bilisa baasuudha jechaa jira. Kana gochuuf immoo cubbuu namootaa fi adabasaa ofirratti fudhachuun dirqama ta’a jechuudha."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

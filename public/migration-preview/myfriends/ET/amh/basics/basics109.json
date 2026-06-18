@@ -7,7 +7,7 @@
   "numberSystem": "ethi",
   "series": "basics",
   "lessonId": "basics109",
-  "sortOrder": 8,
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -87,8 +87,17 @@
       "type": "biblePassage",
       "data": {
         "reference": "የማቴዎስ ወንጌል 7:24-29",
-        "html": "<div class=\"bible\"><p><sup>24 </sup><span class=\"myfriends-mrk\"> ስለዚህ ይህን ቃሌን ሰምቶ የሚያደርገው ሁሉ ቤቱን በዓለት ላይ የሠራ ልባም ሰውን ይመስላል። </span></p><p><sup>25 </sup>ዝናብም ወረደ ጎርፍም መጣ ነፋስም ነፈሰ ያንም ቤት ገፋው፥ በዓለት ላይም ስለ ተመሠረተ አልወደቀም። </p><p><sup>26 </sup>ይህንም ቃሌን ሰምቶ የማያደርገው ሰው ሁሉ ቤቱን በአሸዋ ላይ የሠራ ሰነፍ ሰውን ይመስላል። </p><p><sup>27 </sup>ዝናብም ወረደ ጎርፍም መጣ ነፋስም ነፈሰ ያንም ቤት መታው፥ ወደቀም፥ አወዳደቁም ታላቅ ሆነ። </p><p><sup>28 </sup>ኢየሱስም ይህን ነገር በጨረሰ ጊዜ ሕዝቡ በትምህርቱ ተገረሙ፤ እንደ ጻፎቻቸው ሳይሆን </p><p><sup>29 </sup>እንደ ባለ ሥልጣን ያስተምራቸው ነበርና።</p><p><br><br></p><p><sup>22 </sup><span class=\"myfriends-mrk\"> ቃሉን የምታደርጉ ሁኑ እንጂ ራሳችሁን እያሳታችሁ የምትሰሙ ብቻ አትሁኑ። </span></p><p><br><br></p></div>",
+        "html": "<div class=\"bible\"><p><sup>24 </sup><span class=\"myfriends-mrk\"> ስለዚህ ይህን ቃሌን ሰምቶ የሚያደርገው ሁሉ ቤቱን በዓለት ላይ የሠራ ልባም ሰውን ይመስላል። </span></p><p><sup>25 </sup>ዝናብም ወረደ ጎርፍም መጣ ነፋስም ነፈሰ ያንም ቤት ገፋው፥ በዓለት ላይም ስለ ተመሠረተ አልወደቀም። </p><p><sup>26 </sup>ይህንም ቃሌን ሰምቶ የማያደርገው ሰው ሁሉ ቤቱን በአሸዋ ላይ የሠራ ሰነፍ ሰውን ይመስላል። </p><p><sup>27 </sup>ዝናብም ወረደ ጎርፍም መጣ ነፋስም ነፈሰ ያንም ቤት መታው፥ ወደቀም፥ አወዳደቁም ታላቅ ሆነ። </p><p><sup>28 </sup>ኢየሱስም ይህን ነገር በጨረሰ ጊዜ ሕዝቡ በትምህርቱ ተገረሙ፤ እንደ ጻፎቻቸው ሳይሆን </p><p><sup>29 </sup>እንደ ባለ ሥልጣን ያስተምራቸው ነበርና።</p><p></p></div>",
         "url": "http://www.iyesus.com/amharic-bible/41/7/24/29",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "የያዕቆብ መልእክት 1:22",
+        "html": "<div class=\"bible\"><p><sup>22 </sup><span class=\"myfriends-mrk\"> ቃሉን የምታደርጉ ሁኑ እንጂ ራሳችሁን እያሳታችሁ የምትሰሙ ብቻ አትሁኑ። </span></p><p></p></div>",
+        "url": "http://www.iyesus.com/amharic-bible/60/1/22/22",
         "isOpen": true
       }
     },

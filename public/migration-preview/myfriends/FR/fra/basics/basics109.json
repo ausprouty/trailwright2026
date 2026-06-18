@@ -7,7 +7,7 @@
   "numberSystem": "latn",
   "series": "basics",
   "lessonId": "basics109",
-  "sortOrder": 8,
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -87,8 +87,17 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthieu 7:24-29",
-        "html": "<div class=\"bible\"><p><sup>24</sup>C'est pourquoi, quiconque entend ces paroles que je dis et les met en pratique, sera semblable à un homme prudent qui a bâti sa maison sur le roc. </p><p><sup>25</sup>La pluie est tombée, les torrents sont venus, les vents ont soufflé et se sont jetés contre cette maison: elle n'est point tombée, parce qu'elle était fondée sur le roc. </p><p><sup>26</sup>Mais quiconque entend ces paroles que je dis, et ne les met pas en pratique, sera semblable à un homme insensé qui a bâti sa maison sur le sable. </p><p><sup>27</sup>La pluie est tombée, les torrents sont venus, les vents ont soufflé et ont battu cette maison: elle est tombée, et sa ruine a été grande. </p><p><sup>28</sup>Après que Jésus eut achevé ces discours, la foule fut frappée de sa doctrine; </p><p><sup>29</sup>car il enseignait comme ayant autorité, et non pas comme leurs scribes. </p><p><br><br></p><p><sup>22</sup>Mettez en pratique la parole, et ne vous bornez pas à l'écouter, en vous trompant vous-mêmes par de faux raisonnements. </p><p><br><br></p></div>",
+        "html": "<div class=\"bible\"><p><sup>24</sup>C'est pourquoi, quiconque entend ces paroles que je dis et les met en pratique, sera semblable à un homme prudent qui a bâti sa maison sur le roc. </p><p><sup>25</sup>La pluie est tombée, les torrents sont venus, les vents ont soufflé et se sont jetés contre cette maison: elle n'est point tombée, parce qu'elle était fondée sur le roc. </p><p><sup>26</sup>Mais quiconque entend ces paroles que je dis, et ne les met pas en pratique, sera semblable à un homme insensé qui a bâti sa maison sur le sable. </p><p><sup>27</sup>La pluie est tombée, les torrents sont venus, les vents ont soufflé et ont battu cette maison: elle est tombée, et sa ruine a été grande. </p><p><sup>28</sup>Après que Jésus eut achevé ces discours, la foule fut frappée de sa doctrine; </p><p><sup>29</sup>car il enseignait comme ayant autorité, et non pas comme leurs scribes. </p><p><br><br></p></div>",
         "url": "https://biblegateway.com/passage/?search=Matthew%207:24-29&version=LSG",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Jacques 1:22",
+        "html": "<div class=\"bible\"><p><sup>22</sup>Mettez en pratique la parole, et ne vous bornez pas à l'écouter, en vous trompant vous-mêmes par de faux raisonnements. </p><p><br><br></p></div>",
+        "url": "https://biblegateway.com/passage/?search=James%201:22&version=LSG",
         "isOpen": true
       }
     },

@@ -147,10 +147,24 @@
     {
       "type": "biblePassage",
       "data": {
-        "reference": "Bible",
-        "html": "<div class=\"bible\"><p>Luuk 15:11-24</p><p>Tuhlaajapoika ja hänen veljensä</p><p><sup>11. </sup>Jeesus jatkoi: »Eräällä miehellä oli kaksi poikaa.<sup> 12. </sup>Nuorempi heistä sanoi isälleen: ’Isä, anna minulle osuuteni omaisuudestasi.’ Isä jakoi omaisuutensa poikien kesken.</p><p><sup>13. </sup>Jo muutaman päivän päästä nuorempi kokosi kaikki varansa ja lähti kauas vieraille maille. Siellä hän tuhlasi koko omaisuutensa viettäen holtitonta elämää. <sup>14. </sup>Kun hän oli pannut kaiken menemään, siihen maahan tuli ankara nälänhätä, ja hän joutui kärsimään puutetta. <sup>15.</sup> Silloin hän meni erään sikäläisen miehen palvelukseen, ja tämä lähetti hänet tiluksilleen sikopaimeneksi. <sup>16.</sup> Nälkäänsä hän olisi halunnut syödä palkoja, sikojen ruokaa, mutta niitäkään ei hänelle annettu.</p><p><sup>17.</sup> »Silloin poika meni itseensä ja ajatteli: ’Minun isäni palkkalaisilla on kaikilla yllin kyllin ruokaa, mutta minä näännyn täällä nälkään. <sup>18.</sup> Ei, nyt minä lähden isäni luo ja sanon hänelle: Isä, minä olen tehnyt syntiä taivasta vastaan ja sinua vastaan. <sup>19.</sup> En ole enää sen arvoinen, että minua kutsutaan pojaksesi. Ota minut palkkalaistesi joukkoon.’ <sup>20.</sup> Niin hän lähti isänsä luo.</p><p>»Kun poika vielä oli kaukana, isä näki hänet ja heltyi. Hän juoksi poikaa vastaan, sulki hänet syliinsä ja suuteli häntä.</p><p><sup>21. </sup>Poika sanoi hänelle: ’Isä, minä olen tehnyt syntiä taivasta vastaan ja sinua vastaan. En ole enää sen arvoinen, että minua kutsutaan pojaksesi.’</p><p><sup>22.</sup> Mutta isä sanoi palvelijoilleen: ’Hakekaa joutuin parhaat vaatteet ja pukekaa hänet niihin, pankaa hänelle sormus sormeen ja kengät jalkaan. <sup>23. </sup>Tuokaa syöttövasikka ja teurastakaa se. Nyt syödään ja vietetään ilojuhlaa! <sup>24.</sup> Minun poikani oli kuollut mutta heräsi eloon, hän oli kadoksissa, mutta nyt hän on löytynyt.’ Niin alkoi iloinen juhla.</p><br></div>",
+        "reference": "Luuk 15:11-24",
+        "html": "<div class=\"bible\"><p>Tuhlaajapoika ja hänen veljensä</p><p><sup>11. </sup>Jeesus jatkoi: »Eräällä miehellä oli kaksi poikaa.<sup> 12. </sup>Nuorempi heistä sanoi isälleen: ’Isä, anna minulle osuuteni omaisuudestasi.’ Isä jakoi omaisuutensa poikien kesken. </p><p><sup>13. </sup>Jo muutaman päivän päästä nuorempi kokosi kaikki varansa ja lähti kauas vieraille maille. Siellä hän tuhlasi koko omaisuutensa viettäen holtitonta elämää. <sup>14. </sup>Kun hän oli pannut kaiken menemään, siihen maahan tuli ankara nälänhätä, ja hän joutui kärsimään puutetta. <sup>15.</sup> Silloin hän meni erään sikäläisen miehen palvelukseen, ja tämä lähetti hänet tiluksilleen sikopaimeneksi. <sup>16.</sup> Nälkäänsä hän olisi halunnut syödä palkoja, sikojen ruokaa, mutta niitäkään ei hänelle annettu. </p><p><sup>17.</sup> »Silloin poika meni itseensä ja ajatteli: ’Minun isäni palkkalaisilla on kaikilla yllin kyllin ruokaa, mutta minä näännyn täällä nälkään. <sup>18.</sup> Ei, nyt minä lähden isäni luo ja sanon hänelle: Isä, minä olen tehnyt syntiä taivasta vastaan ja sinua vastaan. <sup>19.</sup> En ole enää sen arvoinen, että minua kutsutaan pojaksesi. Ota minut palkkalaistesi joukkoon.’ <sup>20.</sup> Niin hän lähti isänsä luo. </p><p> »Kun poika vielä oli kaukana, isä näki hänet ja heltyi. Hän juoksi poikaa vastaan, sulki hänet syliinsä ja suuteli häntä. </p><p><sup>21. </sup>Poika sanoi hänelle: ’Isä, minä olen tehnyt syntiä taivasta vastaan ja sinua vastaan. En ole enää sen arvoinen, että minua kutsutaan pojaksesi.’ </p><p><sup>22.</sup> Mutta isä sanoi palvelijoilleen: ’Hakekaa joutuin parhaat vaatteet ja pukekaa hänet niihin, pankaa hänelle sormus sormeen ja kengät jalkaan. <sup>23. </sup>Tuokaa syöttövasikka ja teurastakaa se. Nyt syödään ja vietetään ilojuhlaa! <sup>24.</sup> Minun poikani oli kuollut mutta heräsi eloon, hän oli kadoksissa, mutta nyt hän on löytynyt.’ Niin alkoi iloinen juhla. </p><br></div>",
         "url": "https://raamattu.fi/raamattu/KR92/LUK.16/Luukas-16",
         "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Löydä"
       }
     },
     {

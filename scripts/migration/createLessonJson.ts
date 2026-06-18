@@ -137,6 +137,7 @@ export const myFriendsCountries = [
   'PT',
   'RO',
   'US',
+  'YT',
 ] as const;
 
 export type MyFriendsCountry = (typeof myFriendsCountries)[number];

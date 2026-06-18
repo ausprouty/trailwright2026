@@ -1,0 +1,233 @@
+{
+  "site": "myfriends",
+  "country": "US",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics110",
+  "sortOrder": 9,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "SHARING LIFE",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "How have you experienced God this week?",
+          "Do you need any help from God in your life?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together: Thank God for experiences, ask for God‘s help."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "REVIEW",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What did we discuss last time?",
+          "Were you able to complete the process of forgiveness?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together, that you may get to know new aspects of God and that your friendship with God would be strengthened and become deeper."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "EXPLANATION"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Asking God‘s blessing for a child",
+          "Washing off original sin",
+          "Defining your religious affiliation",
+          "Naming a child",
+          "Ceremony for instating godfather / godmother"
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "A decision that an adults make about themselves",
+          "The complete submergence of a person (pictures)",
+          "A symbolic action with two elements which the following Bible passage will explain."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "BIBLE STUDY",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the text quietly",
+          "Read the text out loud",
+          "Retell the text (from memory – closed Bibles)",
+          "Contributions from the group to complement"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Romans 6:3-14",
+        "html": "<div class=\"bible\"><p><sup>3</sup>Or don’t you know that all of us who were baptized into Christ Jesus were baptized into his death?<sup> 4 </sup>We were therefore buried with him through baptism into death in order that, just as Christ was raised from the dead through the glory of the Father, we too may live a new life.</p><p><sup>5</sup>For if we have been united with him in a death like his, we will certainly also be united with him in a resurrection like his.<sup>6</sup>For we know that our old self was crucified with him so that the body ruled by sin might be done away with, that we should no longer be slaves to sin—<sup> 7 </sup>because anyone who has died has been set free from sin.</p><p><sup>8</sup>Now if we died with Christ, we believe that we will also live with him.<sup> 9 </sup>For we know that since Christ was raised from the dead, he cannot die again; death no longer has mastery over him.<sup> 10 </sup>The death he died, he died to sin once for all; but the life he lives, he lives to God.</p><p><sup>11</sup>In the same way, count yourselves dead to sin but alive to God in Christ Jesus.<sup> 12 </sup>Therefore do not let sin reign in your mortal body so that you obey its evil desires.<sup>13</sup>Do not offer any part of yourself to sin as an instrument of wickedness, but rather offer yourselves to God as those who have been brought from death to life; and offer every part of yourself to him as an instrument of righteousness.<sup>14</sup>For sin shall no longer be your master, because you are not under the law, but under grace.</p><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Romans%206:3-14&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "General questions:",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Is there anything that struck you in this text? <ul><li>What do you like about it?</li><li>Is there anything in it that bothers you?</li></ul>",
+          "What does it say about God?",
+          "What does it say about people?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Specific questions",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What are the two elements that are symbolically represented by baptism?",
+          "The choice of words is pretty extreme. Dying is something that cannot be undone. Why is such extreme language being used here?",
+          "Can you imagine taking such a radical decision and getting baptized?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "CHALLENGES",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Think about whether you are ready to get baptized or not. Keep in mind that the process of forgiveness from basic Bible study 9 should be completed before baptism.",
+          "Plan a party!",
+          "IMPORTANT: Anything said during such processes of forgiveness is highly confidential and may not be passed on under any circumstances!!!",
+          "With this lesson we have reached the end of the basics. Now it is up to you to decide whether you want to continue with life principles or if you want to discover the books of the Bible with the family-time routine."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics110-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "COMMENTARY ON THE TEXT:",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Baptism is about definitely ending your life without God and entrusting yourself to God completely. Going under water symbolizes dying and being buried, coming up again symbolizes the resurrection to a new life with God."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "The decision to be baptized is one of the most important and far-reaching consequences you can make. But if you have come to know Jesus personally and decided to live with Jesus, then baptism is the next logical step. If you have received forgiveness yourself and forgiven others, if you have aligned your life with God and want to live with Jesus as friend, example and authority, then it is time to end your old life without God in a solemn and festive ceremony, and from then on to live with Jesus as a new born person."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Celebrate the decision: Important decisions in our lives are celebrated appropriately. That is why we have birthdays, weddings and many other celebrations. Baptism should also be celebrated appropriately. Why don‘t you organize a real baptism party where you can invite your family, friends and community. That will give baptism the significance it deserves and is also a good opportunity for friends who don‘t believe in Jesus yet to meet him."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

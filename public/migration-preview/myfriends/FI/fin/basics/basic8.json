@@ -105,9 +105,23 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matteus 6:9-15",
-        "html": "<div class=\"bible\"></div>",
+        "html": "<div class=\"bible\"><p><sup>9. </sup>Rukoilkaa te siis näin: – Isä meidän, joka olet taivaissa! Pyhitetty olkoon sinun nimesi. <sup>10. </sup>Tulkoon sinun valtakuntasi. Tapahtukoon sinun tahtosi, myös maan päällä niin kuin taivaassa. <sup>11.</sup> Anna meille tänä päivänä jokapäiväinen leipämme. <sup>12.</sup> Ja anna meille velkamme anteeksi, niin kuin mekin annamme anteeksi niille, jotka ovat meille velassa. <sup>13.</sup> Äläkä anna meidän joutua kiusaukseen, vaan päästä meidät pahasta. </p></div>",
         "url": "https://raamattu.fi/raamattu/KR92/MAT.6/Matteus-6",
         "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Löydä"
       }
     },
     {

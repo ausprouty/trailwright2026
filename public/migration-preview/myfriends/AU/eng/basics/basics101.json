@@ -49,20 +49,6 @@
       }
     },
     {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "note"
-      }
-    },
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "up",
-        "icon": "arrow-up"
-      }
-    },
-    {
       "type": "collapsibleGroup",
       "data": {
         "title": "Context",
@@ -123,7 +109,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-11"
+        "storageKey": "note-10"
       }
     },
     {
@@ -131,20 +117,6 @@
       "data": {
         "theme": "forward",
         "title": "LOOK FORWARD",
-        "icon": "arrow-right"
-      }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "note"
-      }
-    },
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "forward",
         "icon": "arrow-right"
       }
     },

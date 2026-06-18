@@ -1,0 +1,199 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "gaz",
+  "htmlLang": "gaz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics108",
+  "sortOrder": 7,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Qoodi",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Torbee kana Waaqayyo wajjin akkamitti dabarsite?",
+          "Waanti akka galateeffattu si godhan maalinni?",
+          "Waaqayyo maal akka si gargaaru barbaaddaa?",
+          "Wanta si barbaachisu keessatti akkamitti si gargaaruu dandeenya?",
+          "Walii walii keessaniif kadhadhaa"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "Keessa Deebii",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Erga walga'ii keenya yeroo darbeeti maal maal shaakalte?",
+          "Namootni ati kunuunsaa jirtuu akkam? Maaltu baay'ee isaan gargaara?",
+          "Shaakala Waaqayyoo namootaaf hiruu dandeesseetta? Isaan wajjin kadhatteetta?",
+          "Namoota sanaaf kadhadhu"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "Dubbisi",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisicha sagalee olkaasii al-lama dubbisi",
+          "Gargaarsa garichaatiin namni tokko dubbisicha jecha mataa isaatiin akka himuu godhaa",
+          "Waanti haaraan dabalame yookiin hir'ate jira?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Maatewos 6:9-15",
+        "html": "<div class=\"bible\"><p><sup>9</sup>\"Egaa yommuu kadhattan, 'Yaa isa waaqa irra jirtu abbaa keenyaa! </p><p><sup>10</sup>mootummaan kee haa dhufu, jaalalli kee waaqa irratti akka ta'u, </p><p>akkasuma immoo lafa irratti haa ta'u!</p><p><sup>11</sup>Soora har'aa bor nu barbaachisu \"har'a nuuf kenni! </p><p><sup>12</sup>Akkuma nuyi warra nu yakkaniif dhiifne, yakka keenyas nuuf dhiisi! </p><p><sup>13</sup>Qoramattis nu hin galchin, hamaa nu oolchi malee; </p><p>[mootummaan, humni, ulfinnis baruma baraan kan kee ti.</p><p>Ameen!] jedhaa!</p><p><sup>14</sup> \"Namootaaf irra-daddarbaa isaanii yoo dhiiftaniif, abbaan keessan inni waaqa irraa immoo isiniif in dhiisa. <sup>15</sup> Garuu isin namootaaf yoo dhiisuufii baattan, abbaan keessan immoo irra daddarbaa keessan isiniif hin dhiisu\" jedhe . </p><p><br></p></div>",
+        "url": "http://listen.bible.is/GAZBSE/Matt/6/D",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "Gargar baafadhu",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisni kun si'iif maal bakka bu'a?",
+          "Dubbisa kana keessaa wanti jaallatte yookiin si jeeqe maalidha?",
+          "Dubbisni kun waa'ee Waaqayyoo fi waa'ee namootaa maal sitti hima?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "Hojiiti Hiiki",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisa kanarratti hundaa'uun wantaWaaqayyo akka gootu sirraa barbaadu gaafadhu. Jiraa? <ul><li>Amala jijjiiramuu qabu</li><li>Waadaa Gaafatamuu qabu</li><li>Fakkeenya hordofamuu qabu</li><li>Abboommii eegamuu qabu</li></ul>",
+          "Garee kana Qoodi"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics108-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Yaadannoo",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Du’uu fi du’aa ka’uun Yesuus cubbuu namootaaf kan kaffalame ta’ullee, cubbuun battalumatti dhiifama jechuu miti. Dhiifama nuti fudhachuu dandeenyu Yesuus haalaan nuuf mijeesseera."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Cubbuun keenya akka nuuf dhiifamuuf, waan lama gochuu qabna:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "ordered",
+                "items": [
+                  "Waaqayyoon dhiifama gaafachuu",
+                  "Namootaaf dhiifama gochuu"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Waaqayyo yeroo dhiifama nuuf godhu, Yesuus waan nuuf dhiphateef, waan nuuf du’eef cubbuu keenya deebisee nutti hin lakkaa’u. Nuti akka bilisa taanuuf, adaba cubbuu keenyaa isa ittiin dhiphachuun nuuf malu ofiisaa fudhate. Dhugaan jiru kana, nuti warra balleessaa qaban yoo taanellee, Waaqayyo lammata balleessaa keenyaaf nun kaffalchiisu; dhiifama nuuf godha malee. Hamoota taanee otoo jirruu, Waaqayyoon qajeelota jedhamneerra. Kunimmoo, Waaqayyo wajjin tokkummaa badee ture deebinee argachuuf bu’uuradha. Akkam Ayyaanomuudha!"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Yeroo nuti namoota nu miidhaniif dhiifama goonu, wanta raawwate ni irraanfanna, ni ganna yookiin ni dhabamsiisna jechuu miti; ni dhiisna malee. “Dhiifama gochuun,” wanta ta’e guutummaatti dhiisuudha. Wanta itti miidhamne Waaqayyoof dhiisuu qabna, inni waan godhu beeka. Yeroo nuti nama tokkoof dhiifama goonu, waan hundumaas Waaqayyo irratti dhiisne, nuu fi nama sana gidduutti walitti dhufeenyi qabnu ba’aa cubbuurraa bilisa taana. Haaloo yookiin ijaa ba’uun nurraa hin eegamu. Kanaa mannaa ba’aarraa bilisa taanee, nama san wajjin nagaadhaan jiraachuutu nurraa eegama; Yakkichi nu gidduudhaa badeera waan ta’eef."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

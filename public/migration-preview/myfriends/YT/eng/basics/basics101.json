@@ -1,0 +1,164 @@
+{
+  "site": "myfriends",
+  "country": "YT",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics101",
+  "sortOrder": 0,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "SHARING LIFE",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What has put a smile on your face today?",
+          "Did anything put a frown on your face today?",
+          "How have you experienced God this week?",
+          "Do you need any help from God?",
+          "Are there any of your friends that are in need that we can help as a family?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶Pray together: Thank God for what He is doing and ask for God‘s help."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "BIBLE STUDY",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "How do you want to discover about The Garden? Will you <ul><li>Read the passage below outloud,</li><li><a href=\"https://www.youtube.com/watch?v=leBCvqV3f3w\"> watch this video</a>, </li><li><a href=\"https://www.bibleforchildren.org/PDFs/english/When_God_Made_Everything_English_PDA.pdf\">read this summary, </a> or</li><li>read <em>The beginning: a perfect home</em> from <a href=\"https://www.amazon.com.au/Jesus-Storybook-Bible-Sally-Lloyd-Jones/dp/0310708257/ref=sr_1_1?keywords=The+Jesus+Storybook+Bible&amp;qid=1585727904&amp;sr=8-1\">The Jesus Storybook Bible</a></li></ul>",
+          "Ask someone to tell this true story in their own words",
+          "Is there anything they added or left out?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Genesis 2:4-25",
+        "html": "<div class=\"bible\"><p><sup>4</sup>This is the account of the heavens and the earth when they were created, when the <span class=\"small-caps\">Lord God</span> made the earth and the heavens.</p><p><sup>5</sup>Now no shrub had yet appeared on the earth and no plant had yet sprung up, for the <span class=\"small-caps\">Lord God</span> had not sent rain on the earth and there was no one to work the ground,<sup> 6 </sup>but streams came up from the earth and watered the whole surface of the ground.<sup>7</sup>Then the <span class=\"small-caps\">Lord God</span> formed a man from the dust of the ground and breathed into his nostrils the breath of life, and the man became a living being.</p><p><sup>8</sup>Now the <span class=\"small-caps\">Lord God</span> had planted a garden in the east, in Eden; and there he put the man he had formed.<sup>9</sup>The <span class=\"small-caps\">Lord God</span> made all kinds of trees grow out of the ground—trees that were pleasing to the eye and good for food. In the middle of the garden were the tree of life and the tree of the knowledge of good and evil.</p><p><sup>10</sup>A river watering the garden flowed from Eden; from there it was separated into four headwaters.<sup> 11 </sup>The name of the first is the Pishon; it winds through the entire land of Havilah, where there is gold.<sup> 12 </sup>(The gold of that land is good; aromatic resin and onyx are also there.)<sup>13</sup>The name of the second river is the Gihon; it winds through the entire land of Cush.<sup> 14 </sup>The name of the third river is the Tigris; it runs along the east side of Ashur. And the fourth river is the Euphrates.</p><p><sup>15</sup>The <span class=\"small-caps\">Lord God</span> took the man and put him in the Garden of Eden to work it and take care of it.<sup>16</sup>And the <span class=\"small-caps\">Lord God</span> commanded the man, “You are free to eat from any tree in the garden;<sup> 17 </sup>but you must not eat from the tree of the knowledge of good and evil, for when you eat from it you will certainly die.”</p><p><sup>18</sup>The <span class=\"small-caps\">Lord God</span> said, “It is not good for the man to be alone. I will make a helper suitable for him.”</p><p><sup>19</sup>Now the <span class=\"small-caps\">Lord God</span> had formed out of the ground all the wild animals and all the birds in the sky. He brought them to the man to see what he would name them; and whatever the man called each living creature, that was its name.<sup> 20 </sup>So the man gave names to all the livestock, the birds in the sky and all the wild animals.</p><p>But for Adam no suitable helper was found.<sup> 21 </sup>So the <span class=\"small-caps\">Lord God</span> caused the man to fall into a deep sleep; and while he was sleeping, he took one of the man’s ribs and then closed up the place with flesh.<sup> 22 </sup>Then the <span class=\"small-caps\">Lord God</span> made a woman from the rib he had taken out of the man, and he brought her to the man.</p><p><sup>23</sup>The man said,</p><div class=\"myfriends-poetry top-05\"><p>“This is now bone of my bones<br> and flesh of my flesh;<br> she shall be called ‘woman,’ for she was taken out of man.”</p></div><p><sup>24</sup>That is why a man leaves his father and mother and is united to his wife, and they become one flesh.</p><p><sup>25</sup>Adam and his wife were both naked, and they felt no shame.</p><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Genesis%202:4-25&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "General questions:",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What was your favourite part of this passage?",
+          "Who were the different people in this story?",
+          "How did the people trust and follow God? or How did the people not obey God?",
+          "How did the people trust and follow God? or How did the people not obey God?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Specific questions",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What jobs did God give Adam?",
+          "Why did God make Eve?",
+          "What rules did God give Adam and Eve?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Applying the text",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What did you learn about God from this passage? I learnt that God is _______",
+          "Are there ways that you behave or want to behave like the Bible characters in today’s story?",
+          "After listening to this passage, I think God wants me to __________",
+          "Who can you share this story with this week?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "CRAFTS",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Background Notes",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<p class=\"myfriends-lesson_end\"></p><p class=\"normal\"></p>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

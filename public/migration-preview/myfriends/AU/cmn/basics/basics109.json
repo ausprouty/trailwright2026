@@ -7,7 +7,7 @@
   "numberSystem": "latn",
   "series": "basics",
   "lessonId": "basics109",
-  "sortOrder": 8,
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -87,8 +87,17 @@
       "type": "biblePassage",
       "data": {
         "reference": "馬 太 福 音 7:24-29",
-        "html": "<div class=\"bible\"><p><sup>24</sup>“ 听 了 我 的 话 并 付 诸 行 动 的 人 ， 就 像 一 个 深 谋 远 虑 的 人 ， 把 自 己 的 房 子 建 在 坚 固 的 磐 石 上 。 <sup>25</sup>纵 使 雨 淋 、 水 冲 、 风 吹 击 打 ， 房 子 也 不 会 倒 塌 ， 因 为 房 基 建 在 磐 石 上 。{' '} <sup>26</sup>然 而 ， 听 了 我 的 话 ， 却 不 付 诸 于 行 动 的 人 ， 就 像 一 个 愚 蠢 的 人 ， 把 房 子 建 在 沙 滩 上 。{' '} <sup>27</sup>雨 淋 、 水 冲 、 风 吹 击 打 着 房 子 ， 房 子 轰 然 倒 塌 了 。 ” </p><p><sup>28</sup>耶 稣 讲 完 话 后 ， 人 们 都 对 他 的 教 导 非 常 惊 讶 ， <sup>29</sup>因 为 他 与 其 他 的 律 法 师 不 同 ， 他 像 一 个 拥 有 权 威 的 人 那 样 传 教 。 </p><p><br><br></p><p><sup>22</sup>要 执 行 上 帝 的 教 导 ； 不 要 只 听 不 做 ， 否 则 ， 你 们 就 是 在 欺 骗 自 己 。 </p><p><br><br></p></div>",
+        "html": "<div class=\"bible\"><p><sup>24</sup>“ 听 了 我 的 话 并 付 诸 行 动 的 人 ， 就 像 一 个 深 谋 远 虑 的 人 ， 把 自 己 的 房 子 建 在 坚 固 的 磐 石 上 。 <sup>25</sup>纵 使 雨 淋 、 水 冲 、 风 吹 击 打 ， 房 子 也 不 会 倒 塌 ， 因 为 房 基 建 在 磐 石 上 。{' '} <sup>26</sup>然 而 ， 听 了 我 的 话 ， 却 不 付 诸 于 行 动 的 人 ， 就 像 一 个 愚 蠢 的 人 ， 把 房 子 建 在 沙 滩 上 。{' '} <sup>27</sup>雨 淋 、 水 冲 、 风 吹 击 打 着 房 子 ， 房 子 轰 然 倒 塌 了 。 ” </p><p><sup>28</sup>耶 稣 讲 完 话 后 ， 人 们 都 对 他 的 教 导 非 常 惊 讶 ， <sup>29</sup>因 为 他 与 其 他 的 律 法 师 不 同 ， 他 像 一 个 拥 有 权 威 的 人 那 样 传 教 。 </p><p></p></div>",
         "url": "https://biblegateway.com/passage/?search=Matthew%207:24-29&version=ERV-ZH",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "雅 各 書 1:22",
+        "html": "<div class=\"bible\"><p><sup>22</sup>要 执 行 上 帝 的 教 导 ； 不 要 只 听 不 做 ， 否 则 ， 你 们 就 是 在 欺 骗 自 己 。 </p><p><br><br></p></div>",
+        "url": "https://biblegateway.com/passage/?search=James%201:22&version=ERV-ZH",
         "isOpen": true
       }
     },

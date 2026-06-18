@@ -1,0 +1,178 @@
+{
+  "site": "myfriends",
+  "country": "US",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics107",
+  "sortOrder": 6,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "SHARE",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "How have you experienced God this week?",
+          "What are you thankful for?",
+          "What do you need God’s help for?",
+          "How can we help you with your needs?",
+          "Pray for each other"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "REVIEW",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What have you put into practice since our last meeting?",
+          "How are the people that you are caring for going? What would help them most?",
+          "Were you able to share a God experience with anyone? Did you pray with them?",
+          "Pray for these people"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "JESUS FILM",
+        "level": 3
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Watch the JESUS film (available at <a href=\"https://www.jesusfilm.org/watch/jesus.html/english.html\"> jesusfilm.org/watch.html </a>)"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "This is an accurate depiction of the life, teaching and suffering of Jesus. There are three ways you can decide to watch this film:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "As a historic film: In this case everything shown in the film becomes a story that happened 2000 years ago and has no relevance for us nowadays.",
+          "As the salvation of humanity: If you watch the film from this point of view, then Jesus died for the sins of the entire human race and it does not really concern me much since I am just one in billions.",
+          "As the price for MY salvation: If we watch the film from the point of view that Jesus suff ered for ME personally, then we will be able to understand what really happened. It is important to make ourselves aware again and again that this film is about US. Someone suffered the worst torture to free ME from the power of evil and to make me free to choose God’s way again."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Decide how much of the movie you will watch together. If you do not have time for the entire movie consider starting at the one hour mark. This will give still give you examples of Jesus teaching and miracles before He goes to Jerusalem to suff er and die."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Stop at 1:15",
+        "level": 3
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What has impressed you about what Jesus has said or done so far?",
+          "How has Jesus described His mission or purpose (see 1:14)",
+          "What has Jesus forecast will happen to Him? (1:15)"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Stop at 1:43",
+        "level": 3
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What is Pilate’s attitude toward Jesus?",
+          "Why does Pilate have Jesus punished?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "After the film"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What does it mean to me that Jesus suffered so much for me?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "CHALLENGES",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Do you want to place your trust in Jesus today?",
+          "Where do I have an opportunity in the next week to share my experiences with God with someone and invite them to start a friendship with God?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics107-i-will"
+      }
+    }
+  ]
+}

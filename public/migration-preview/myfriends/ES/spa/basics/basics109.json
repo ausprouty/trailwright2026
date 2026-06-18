@@ -7,7 +7,7 @@
   "numberSystem": "latn",
   "series": "basics",
   "lessonId": "basics109",
-  "sortOrder": 8,
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -87,8 +87,17 @@
       "type": "biblePassage",
       "data": {
         "reference": "Mateo 7:24-29",
-        "html": "<div class=\"bible\"><p><sup>24</sup>Cualquiera, pues, que me oye estas palabras, y las hace, le compararé a un hombre prudente, que edificó su casa sobre la roca. </p><p><sup>25</sup>Descendió lluvia, y vinieron ríos, y soplaron vientos, y golpearon contra aquella casa; y no cayó, porque estaba fundada sobre la roca. </p><p><sup>26</sup>Pero cualquiera que me oye estas palabras y no las hace, le compararé a un hombre insensato, que edificó su casa sobre la arena; </p><p><sup>27</sup>y descendió lluvia, y vinieron ríos, y soplaron vientos, y dieron con ímpetu contra aquella casa; y cayó, y fue grande su ruina. </p><p><sup>28</sup>Y cuando terminó Jesús estas palabras, la gente se admiraba de su doctrina; </p><p><sup>29</sup>porque les enseñaba como quien tiene autoridad, y no como los escribas. </p><br><br><br><div><div><sup>22</sup>Pero sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos. </div><div><br><br></div></div></div>",
+        "html": "<div class=\"bible\"><p><sup>24</sup>Cualquiera, pues, que me oye estas palabras, y las hace, le compararé a un hombre prudente, que edificó su casa sobre la roca. </p><p><sup>25</sup>Descendió lluvia, y vinieron ríos, y soplaron vientos, y golpearon contra aquella casa; y no cayó, porque estaba fundada sobre la roca. </p><p><sup>26</sup>Pero cualquiera que me oye estas palabras y no las hace, le compararé a un hombre insensato, que edificó su casa sobre la arena; </p><p><sup>27</sup>y descendió lluvia, y vinieron ríos, y soplaron vientos, y dieron con ímpetu contra aquella casa; y cayó, y fue grande su ruina. </p><p><sup>28</sup>Y cuando terminó Jesús estas palabras, la gente se admiraba de su doctrina; </p><p><sup>29</sup>porque les enseñaba como quien tiene autoridad, y no como los escribas. </p></div>",
         "url": "https://biblegateway.com/passage/?search=Matthew%207:24-29&version=RVR1960",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Santiago 1:22",
+        "html": "<div class=\"bible\"><sup>22</sup>Pero sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos. </div>",
+        "url": "https://biblegateway.com/passage/?search=James%201:22&version=RVR1960",
         "isOpen": true
       }
     },

@@ -1,0 +1,188 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "gaz",
+  "htmlLang": "gaz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics105",
+  "sortOrder": 4,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Qoodi",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Torbee kana Waaqayyo wajjin akkamitti dabarsite?",
+          "Waanti akka galateeffattu si godhan maalinni?",
+          "Waaqayyo maal akka si gargaaru barbaaddaa?",
+          "Wanta si barbaachisu keessatti akkamitti si gargaaruu dandeenya?",
+          "Walii walii keessaniif kadhadhaa"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "Keessa Deebii",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Erga walga'ii keenya yeroo darbeeti maal maal shaakalte?",
+          "Namootni ati kunuunsaa jirtuu akkam? Maaltu baay'ee isaan gargaara?",
+          "Shaakala Waaqayyoo namootaaf hiruu dandeesseetta? Isaan wajjin kadhatteetta?",
+          "Namoota sanaaf kadhadhu"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "Dubbisi",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisicha sagalee olkaasii al-lama dubbisi",
+          "Gargaarsa garichaatiin namni tokko dubbisicha jecha mataa isaatiin akka himuu godhaa",
+          "Waanti haaraan dabalame yookiin hir'ate jira?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Macaafa Ermiyaas Raajichaa 31:31-34",
+        "html": "<div class=\"bible\"><p><sup>31</sup> Kunoo, barri ani itti namoota biyya Israa'eliif, biyya Yihudaafis kakuu haaraa galu in dhufa; </p><p><sup>32</sup> innis sanyii kakuu isa ani abboota isaanii gargaaree biyya Gibxii yommuun baase isaaniif dhaabnaan, utuma ani gooftaa isaanii ta'ee jiruu, isaan immoo kakuu koo cabsan sanaa miti; ani Waaqayyo kana dubbadheera. </p><p><sup>33</sup> Kakuun inni ani bara sana Israa'eliif galuuf jiru kanatti fufee jira; ani seera koo yaada isaanii keessa nan kaa'a, garaa isaanii keessattis nan caafa; ani Waaqayyo isaanii nan ta'a, isaanis saba koo in ta'u; </p><p><sup>34</sup> ani yakka isaanii isaaniif nan dhiisa, cubbuu isaaniis deebi'ee isaanitti hin lakkaa'u; isaan hundumti isaanii xinnaadhaa hamma isa guddaatti ana waan beekaniif, si'achi namni tokko illee nama biyya isaatiitiin yookiis obboleessa isaatiin, 'Waaqayyoon bari!' jedhee, gorsuu hin barbaachisu\" jedhe. </p><p></p><p><sup>1</sup> Kunoo, harki Waaqayyoo gabaabbatee isin fayyisuu hin dadhabne, gurri isaas duudee iyya keessan dhaga'uu hin dhabne; </p><p><sup>2</sup> yakki keessan isinii fi Waaqayyo keessan gidduu goree gargar isin in ittise, akka isiniif hin dhageenyettis sababii cubbuu keessaniitiif Waaqayyo fuula isaa isin irraa in deebise; </p><p></p><p></p></div>",
+        "url": "",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "Gargar baafadhu",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisni kun si'iif maal bakka bu'a?",
+          "Dubbisa kana keessaa wanti jaallatte yookiin si jeeqe maalidha?",
+          "Dubbisni kun waa'ee Waaqayyoo fi waa'ee namootaa maal sitti hima?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "Hojiiti Hiiki",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Dubbisa kanarratti hundaa'uun wantaWaaqayyo akka gootu sirraa barbaadu gaafadhu. Jiraa? <ul><li>Amala jijjiiramuu qabu</li><li>Waadaa Gaafatamuu qabu</li><li>Fakkeenya hordofamuu qabu</li><li>Abboommii eegamuu qabu</li></ul>",
+          "Garee kana Qoodi"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "basics-basics105-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Yaadannoo",
+        "isOpen": true,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Warra amanaman haa taanu. Abboommii kurananuu eeguu dandeesseettamoo itti fufiinsaan eguu dhiisuun kee sitti dhaga’ama? Seerotni kun jallina loluuf ni gargaara; garuu guutummaatti dhabamsiisuu hin danda’an. Nuti ilmaan namootaa jallina irraa adda kan hin taane, ofii keenya jijjiiruus kan hin dandeenye ta’uun dhugaa lafa jiru."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Kanaafidha Waaqayyo yeroon karaa jireenya isa haaraa akka jiru kan dubbate. Inni kun akka ta’uuf wantootni jijjiiramuu qaban jiru:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "ordered",
+                "items": [
+                  "Yeroo nuti ilmaan namootaa Waaqayyo irratti kaanee bofa duukaa bu’uu eegalle, Iddoo dhaabaa gadhiifnee ba’uuf dirqamne; walitti dhufeenyi Waaqayyo wajjin qabnus gargar cite. Takkaa Waaqayyo irratti cubbuu hojjanneera, duubatti deebisuu hin dandeenyu. Haa ta’u malee, Waaqayyo waan baay’ee nu jaallateef, dhiifama akka nuuf godhu nu beeksise. Inni kunimmoo walitti dhufeenya isa akka namootni jalqabaa Waaqayyo wajjin qaban sana deebisnee argachuuf wanta baay’ee barbaachisaa ta’edha.",
+                  "Waaqayyo akka nuti lammata deebinee dhiibbaa jallinaa jala hin galle, Waaqayyoo fi diina (Boficha) gidduutti filannoof akka of hin kennineef jecha keessa garaa (laphee) keenyaa jijjiiruu barbaada. Yoo waaqayyoon filanne, wanta gaariis hojjenne, abboommiin Waaqayyoo nuun raawwatama, yoo boficha dhaggeeffanne garuu deebinee dhiibbaa jallinaa jalatti kufna. Nuti murtee akka kanaa fudhachuudhaaf, dursa Waaqayyoon beekuu danda’uu qabna. Waaqayyo yeroon namni hundi dhuunfaadhaan isa beeku akka dhufu dubbateera. Walitti dhufeenya akkasii Waaqayyo wajjin gaafa qabaannu, seera macaafa irratti barreeffame duukaa buuna miti, Waaqayyo ofii isaatii garaa keenya keessatti nuu caafa; qaama keenya ta’as jechuudha.",
+                  "Kana caalaa, nuti saba Waaqayyoo, innimmoo Waaqayyo keenya ta’a; Wantootni baay’een akka isa Waaqayyo iddoo jalqabaa sanaatti barbaadu sanaa ta’u."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

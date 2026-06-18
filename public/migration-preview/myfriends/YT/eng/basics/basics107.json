@@ -1,0 +1,146 @@
+{
+  "site": "myfriends",
+  "country": "YT",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics107",
+  "sortOrder": 6,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "SHARE",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What has put a smile on your face this week?",
+          "What has been difficult this week?",
+          "How have you experienced God this week?",
+          "Do you need any help from God in your life?",
+          "Are there any of your friends that are in need that we can help as a family?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶Pray together: Thank God for what He is doing and ask for God‘s help."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "REVIEW",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What have you put into practice since our last meeting?",
+          "How are the people that you are caring for going? What would help them most?",
+          "Were you able to share a God experience with anyone? Did you pray with them?",
+          "Pray for these people"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "JESUS FILM",
+        "level": 3
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Watch the JESUS film (available at <a href=\"https://www.jesusfilm.org/watch/jesus.html/english.html\"> jesusfilm.org/watch.html </a>) or <a href=\"https://www.jesusfilm.org/watch/the-story-of-jesus-for-children.html/english.html\">https://www.jesusfilm.org/watch/the-story-of-jesus-for-children.html/english.html</a> or <a href=\"https://www.jesusfilm.org/watch/magdalena.html/english.html\">https://www.jesusfilm.org/watch/magdalena.html/english.html</a>"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Stop at 1:15",
+        "level": 3
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<span style=\"color:#9b59b6\">What has impressed you about what Jesus has said or done so far?</span>",
+          "<span style=\"color:#9b59b6\">How has Jesus described His mission or purpose (see 1:14)</span>",
+          "<span style=\"color:#9b59b6\">What has Jesus forecast will happen to Him? (1:15)</span>"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Stop at 1:43",
+        "level": 3
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<span style=\"color:#9b59b6\">What is Pilate’s attitude toward Jesus?</span>",
+          "<span style=\"color:#9b59b6\">Why does Pilate have Jesus punished?</span>"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span style=\"color:#9b59b6\">After the film</span>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<span style=\"color:#9b59b6\">What does it mean to me that Jesus suffered so much for me?</span>"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"lesson-icon\" src=\"/images/challenges.png\">"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<span style=\"color:#9b59b6\">Do you want to place your trust in Jesus today?</span>",
+          "<span style=\"color:#9b59b6\">Where do I have an opportunity in the next week to share my experiences with God with someone and invite them to start a friendship with God?</span>"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "site": "myfriends",
+  "country": "YT",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics108",
+  "sortOrder": 7,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "SHARING LIFE",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What has put a smile on your face this week?",
+          "What has been difficult this week?",
+          "How have you experienced God this week?",
+          "Do you need any help from God in your life?",
+          "Are there any of your friends that are in need that we can help as a family?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶Pray together: Thank God for what He is doing and ask for God‘s help."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "BIBLE STUDY",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What did we discuss last time?",
+          "<span style=\"color: #9b59b6\">Tell each other what went through your mind when you thought about someone who gave their life for you. </span>",
+          "<span style=\"color: #9b59b6\"> Could you tell anyone about your experiences with God last week? How did they respond? </span>"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span style=\"color: #9b59b6\">▶ Pray together, that you may get to know new aspects of God and that your friendship with God would be strengthened and become deeper.</span>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "DISCOVER",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Although through Jesus‘ suffering, death and resurrection all sins of all people of all time can be forgiven, it does not mean that since sins are just forgiven automatically. Jesus created the possibility for forgiveness which we can now use."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the passage outloud or watch: <a href=\"https://www.jesusfilm.org/watch/jesus.html/the-lord-prayer/english.html\">https://www.jesusfilm.org/watch/jesus.html/the-lord-prayer/english.html</a>",
+          "Ask someone to tell the passage in their own words",
+          "Is there anything they added or left out?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthew 6:9-15",
+        "html": "<div class=\"bible\"><p><sup>9</sup>“This, then, is how you should pray:</p><div class=\"myfriends-poetry top-05\"><p> “‘Our Father in heaven,<br> hallowed be your name,<br><sup>10</sup>your kingdom come,<br> your will be done,<br> on earth as it is in heaven.<br><sup>11</sup>Give us today our daily bread.<br><sup>12</sup>And forgive us our debts,<br> as we also have forgiven our debtors.<br><sup>13</sup>And lead us not into temptation, but deliver us from the evil one.’ </p></div><p><sup>14</sup>For if you forgive other people when they sin against you, your heavenly Father will also forgive you.<sup> 15 </sup>But if you do not forgive others their sins, your Father will not forgive your sins. </p><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%206:9-15&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Specific questions",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What did you like about this passage?",
+          "Was there anything in this passage that bothered you?",
+          "What did you learn about God from this passage? I learnt that God is _______",
+          "After listening to this passage, I think God wants me to __________"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"lesson-icon\" src=\"/images/challenges.png\">"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<span style=\"color: #9b59b6\">This passage reminds us that we need to forgive other people if we want God to forgive us. </span><span style=\"color: #9b59b6\">Make a list with the things people have done to you, so that you can forgive them.</span>",
+          "<span style=\"color: #9b59b6\">What things do you need to ask God forgiveness for?</span>",
+          "<span style=\"color: #9b59b6\">Where do you have an opportunity in the next week to share my experiences with God with someone and invite them to start a friendship with God?</span>"
+        ]
+      }
+    }
+  ]
+}

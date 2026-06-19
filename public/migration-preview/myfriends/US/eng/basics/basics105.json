@@ -7,7 +7,7 @@
   "numberSystem": "latn",
   "series": "basics",
   "lessonId": "basics105",
-  "sortOrder": 4,
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -94,8 +94,17 @@
       "type": "biblePassage",
       "data": {
         "reference": "Jeremiah 31:31-34",
-        "html": "<div class=\"bible\"></div><div><sup>31</sup>“The days are coming,” declares the <span class=\"small-caps\">Lord,</span><br> “when I will make a new covenant<br> with the people of Israel<br> and with the people of Judah.<br><sup>32</sup>It will not be like the covenant<br> I made with their ancestors<br> when I took them by the hand<br> to lead them out of Egypt,<br> because they broke my covenant,<br> though I was a husband to them,”<br> declares the Lord.<br><sup>33</sup>“This is the covenant I will make with the people of Israel<br> after that time,” declares the <span class=\"small-caps\"> Lord.</span><br> “I will put my law in their minds<br> and write it on their hearts.<br> I will be their God,<br> and they will be my people.<br><sup>34</sup>No longer will they teach their neighbor,<br> or say to one another, ‘Know the <span class=\"small-caps\">Lord</span> ,’<br> because they will all know me,<br> from the least of them to the greatest,”<br> declares the <span class=\"small-caps\">Lord</span>.<br> “For I will forgive their wickedness and will remember their sins no more.”</div><p><br></p><div>Surely the arm of the <span class=\"small-caps\">Lord</span> is not too short to save,<br> nor his ear too dull to hear.<br><sup>2</sup>But your iniquities have separated<br> you from your God;<br> your sins have hidden his face from you, so that he will not hear.</div><p></p><div><br><br><p></p></div>",
+        "html": "<div><sup>31</sup>“The days are coming,” declares the <span class=\"small-caps\">Lord,</span><br> “when I will make a new covenant<br> with the people of Israel<br> and with the people of Judah.<br><sup>32</sup>It will not be like the covenant<br> I made with their ancestors<br> when I took them by the hand<br> to lead them out of Egypt,<br> because they broke my covenant,<br> though I was a husband to them,”<br> declares the Lord.<br><sup>33</sup>“This is the covenant I will make with the people of Israel<br> after that time,” declares the <span class=\"small-caps\"> Lord.</span><br> “I will put my law in their minds<br> and write it on their hearts.<br> I will be their God,<br> and they will be my people.<br><sup>34</sup>No longer will they teach their neighbor,<br> or say to one another, ‘Know the <span class=\"small-caps\">Lord</span> ,’<br> because they will all know me,<br> from the least of them to the greatest,”<br> declares the <span class=\"small-caps\">Lord</span>.<br> “For I will forgive their wickedness and will remember their sins no more.” </div><p><br></p>",
         "url": "https://biblegateway.com/passage/?search=Jeremiah%2031:31-34&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Isaiah 59:1-2",
+        "html": "<div> Surely the arm of the <span class=\"small-caps\">Lord</span> is not too short to save,<br> nor his ear too dull to hear.<br><sup>2</sup>But your iniquities have separated<br> you from your God;<br> your sins have hidden his face from you, so that he will not hear. </div><p></p><div><br><br><p></p></div>",
+        "url": "https://biblegateway.com/passage/?search=Isaiah%2059:1-2&version=NIV",
         "isOpen": true
       }
     },

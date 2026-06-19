@@ -7,7 +7,7 @@
   "numberSystem": "latn",
   "series": "basics",
   "lessonId": "basic5",
-  "sortOrder": 4,
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -105,7 +105,16 @@
       "type": "biblePassage",
       "data": {
         "reference": "Jeremia 31:31-34",
-        "html": "<div class=\"bible\"><p><strong>Uusi liitto</strong></p><p><sup>31.</sup> »Tulee aika», sanoo Herra, »jolloin minä teen uuden liiton Israelin kansan ja Juudan kansan kanssa. </p><p><sup>32. </sup>Tämä liitto ei ole samanlainen kuin se, jonka tein heidän isiensä kanssa silloin kun tartuin heidän käteensä ja vein heidät pois Egyptin maasta. Sen liiton he rikkoivat, vaikka minä olin ottanut heidät omakseni, sanoo Herra. </p><p><sup>33.</sup> »Tämän liiton minä teen Israelin kansan kanssa tulevina päivinä, sanoo Herra: Minä panen lakini heidän sisimpäänsä, kirjoitan sen heidän sydämeensä. Minä olen heidän Jumalansa, ja he ovat minun kansani. </p><p><sup>34.</sup> Silloin ei kukaan enää opeta toista, veli ei opeta veljeään sanoen: ’Oppikaa tuntemaan Herra!’ Sillä kaikki, pienimmästä suurimpaan, tuntevat minut, sanoo Herra. Minä annan anteeksi heidän rikoksensa enkä enää muista heidän syntejään.» </p><p><a href=\"https://raamattu.fi/raamattu/KR92/JER.31/Jeremia-31\">Lue lisää</a></p><p></p><p>Jesaja 59:1-2</p><p>Teidän rikkomuksenne erottavat teidät Herrasta</p><p><sup>1.</sup> Ei Herran käsi ole lyhyt pelastamaan eikä hänen korvansa kuuro kuulemaan. </p><p><sup>2.</sup> Ei, vaan teidän rikkomuksenne erottavat teidät Jumalastanne. Teidän syntinne ovat saaneet hänet kääntymään pois, niin ettei hän teitä kuule, </p><a href=\"https://raamattu.fi/raamattu/KR92/ISA.59/Jesaja-59\">Lue lisää</a></div>",
+        "html": "<div class=\"bible\"><p><strong>Uusi liitto</strong></p><p><sup>31.</sup> »Tulee aika», sanoo Herra, »jolloin minä teen uuden liiton Israelin kansan ja Juudan kansan kanssa. </p><p><sup>32. </sup>Tämä liitto ei ole samanlainen kuin se, jonka tein heidän isiensä kanssa silloin kun tartuin heidän käteensä ja vein heidät pois Egyptin maasta. Sen liiton he rikkoivat, vaikka minä olin ottanut heidät omakseni, sanoo Herra. </p><p><sup>33.</sup> »Tämän liiton minä teen Israelin kansan kanssa tulevina päivinä, sanoo Herra: Minä panen lakini heidän sisimpäänsä, kirjoitan sen heidän sydämeensä. Minä olen heidän Jumalansa, ja he ovat minun kansani. </p><p><sup>34.</sup> Silloin ei kukaan enää opeta toista, veli ei opeta veljeään sanoen: ’Oppikaa tuntemaan Herra!’ Sillä kaikki, pienimmästä suurimpaan, tuntevat minut, sanoo Herra. Minä annan anteeksi heidän rikoksensa enkä enää muista heidän syntejään.» </p><p><a href=\"https://raamattu.fi/raamattu/KR92/JER.31/Jeremia-31\">Lue lisää</a></p></div>",
+        "url": "",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Jesaja 59:1-2",
+        "html": "<div class=\"bible\"><p>Teidän rikkomuksenne erottavat teidät Herrasta</p><p><sup>1.</sup> Ei Herran käsi ole lyhyt pelastamaan eikä hänen korvansa kuuro kuulemaan. </p><p><sup>2.</sup> Ei, vaan teidän rikkomuksenne erottavat teidät Jumalastanne. Teidän syntinne ovat saaneet hänet kääntymään pois, niin ettei hän teitä kuule, </p><a href=\"https://raamattu.fi/raamattu/KR92/ISA.59/Jesaja-59\">Lue lisää</a></div>",
         "url": "",
         "isOpen": true
       }

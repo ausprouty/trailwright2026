@@ -7,7 +7,7 @@
   "numberSystem": "latn",
   "series": "basics",
   "lessonId": "basics105",
-  "sortOrder": 4,
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -87,8 +87,17 @@
       "type": "biblePassage",
       "data": {
         "reference": "Jérémie 31:31-34",
-        "html": "<div class=\"bible\"><p><sup>31</sup>Voici, les jours viennent, dit l'Éternel, Où je ferai avec la maison d'Israël et la maison de Juda Une alliance nouvelle, </p><p><sup>32</sup>Non comme l'alliance que je traitai avec leurs pères, Le jour où je les saisis par la main Pour les faire sortir du pays d'Égypte, Alliance qu'ils ont violée, Quoique je fusse leur maître, dit l'Éternel. </p><p><sup>33</sup>Mais voici l'alliance que je ferai avec la maison d'Israël, Après ces jours-là, dit l'Éternel: Je mettrai ma loi au dedans d'eux, Je l'écrirai dans leur coeur; Et je serai leur Dieu, Et ils seront mon peuple. </p><p><sup>34</sup>Celui-ci n'enseignera plus son prochain, Ni celui-là son frère, en disant: Connaissez l'Éternel! Car tous me connaîtront, Depuis le plus petit jusqu'au plus grand, dit l'Éternel; Car je pardonnerai leur iniquité, Et je ne me souviendrai plus de leur péché. </p><p><br><br></p><p><sup>1</sup>Non, la main de l'Éternel n'est pas trop courte pour sauver, Ni son oreille trop dure pour entendre. </p><p><sup>2</sup>Mais ce sont vos crimes qui mettent une séparation Entre vous et votre Dieu; Ce sont vos péchés qui vous cachent sa face Et l'empêchent de vous écouter. </p><p><br><br></p></div>",
+        "html": "<div class=\"bible\"><p><sup>31</sup>Voici, les jours viennent, dit l'Éternel, Où je ferai avec la maison d'Israël et la maison de Juda Une alliance nouvelle, </p><p><sup>32</sup>Non comme l'alliance que je traitai avec leurs pères, Le jour où je les saisis par la main Pour les faire sortir du pays d'Égypte, Alliance qu'ils ont violée, Quoique je fusse leur maître, dit l'Éternel. </p><p><sup>33</sup>Mais voici l'alliance que je ferai avec la maison d'Israël, Après ces jours-là, dit l'Éternel: Je mettrai ma loi au dedans d'eux, Je l'écrirai dans leur coeur; Et je serai leur Dieu, Et ils seront mon peuple. </p><p><sup>34</sup>Celui-ci n'enseignera plus son prochain, Ni celui-là son frère, en disant: Connaissez l'Éternel! Car tous me connaîtront, Depuis le plus petit jusqu'au plus grand, dit l'Éternel; Car je pardonnerai leur iniquité, Et je ne me souviendrai plus de leur péché. </p><p></p></div>",
         "url": "https://biblegateway.com/passage/?search=Jeremiah%2031:31-34&version=LSG",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Ésaïe 59:1-2",
+        "html": "<div class=\"bible\"><p><sup>1</sup>Non, la main de l'Éternel n'est pas trop courte pour sauver, Ni son oreille trop dure pour entendre. </p><p><sup>2</sup>Mais ce sont vos crimes qui mettent une séparation Entre vous et votre Dieu; Ce sont vos péchés qui vous cachent sa face Et l'empêchent de vous écouter. </p><p></p></div>",
+        "url": "https://biblegateway.com/passage/?search=Isaiah%2059:1-2&version=LSG",
         "isOpen": true
       }
     },

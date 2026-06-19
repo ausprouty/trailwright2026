@@ -7,7 +7,7 @@
   "numberSystem": "latn",
   "series": "basics",
   "lessonId": "basics105",
-  "sortOrder": 4,
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -87,8 +87,17 @@
       "type": "biblePassage",
       "data": {
         "reference": "Jeremia 31, 31-34",
-        "html": "<div class=\"bible\"><p><sup>31</sup>»So spricht der <span class=\"small-caps\">Herr</span>: Es kommt die Zeit, in der ich mit dem Volk Israel und dem Volk von Juda einen neuen Bund schließe.<sup>32</sup>Er ist nicht mit dem zu vergleichen, den ich damals mit ihren Vorfahren schloss, als ich sie bei der Hand nahm und aus Ägypten befreite. Diesen Bund haben sie gebrochen, obwohl ich doch ihr Herr war! </p><p><sup>33</sup>Der neue Bund, den ich dann mit dem Volk Israel schließe, wird ganz anders aussehen: Ich schreibe mein Gesetz in ihr Herz, es soll ihr ganzes Denken und Handeln bestimmen. Ich werde ihr Gott sein, und sie werden mein Volk sein.<sup> 34 </sup>Niemand muss dann den anderen noch belehren, keiner braucht seinem Bruder mehr zu sagen: ›Erkenne doch den <span class=\"small-caps\">Herrn</span>!‹ Denn alle – vom Kleinsten bis zum Größten – werden erkennen, wer ich bin. Ich vergebe ihnen ihre Schuld und denke nicht mehr an ihre Sünden. Mein Wort gilt! </p><p><br><br></p><p><sup>1</sup>Ihr meint wohl, der <span class=\"small-caps\">Herr</span> sei zu schwach, um euch zu helfen, und dazu noch taub, so dass er eure Hilferufe gar nicht hört. O nein!<sup> 2 </sup>Eure Schuld – sie steht wie eine Mauer zwischen euch und eurem Gott! Eure Sünden verdecken ihn, darum hört er euch nicht. </p><p><br><br></p></div>",
+        "html": "<div class=\"bible\"><p><sup>31</sup>»So spricht der <span class=\"small-caps\">Herr</span>: Es kommt die Zeit, in der ich mit dem Volk Israel und dem Volk von Juda einen neuen Bund schließe.<sup>32</sup>Er ist nicht mit dem zu vergleichen, den ich damals mit ihren Vorfahren schloss, als ich sie bei der Hand nahm und aus Ägypten befreite. Diesen Bund haben sie gebrochen, obwohl ich doch ihr Herr war! </p><p><sup>33</sup>Der neue Bund, den ich dann mit dem Volk Israel schließe, wird ganz anders aussehen: Ich schreibe mein Gesetz in ihr Herz, es soll ihr ganzes Denken und Handeln bestimmen. Ich werde ihr Gott sein, und sie werden mein Volk sein.<sup> 34 </sup>Niemand muss dann den anderen noch belehren, keiner braucht seinem Bruder mehr zu sagen: ›Erkenne doch den <span class=\"small-caps\">Herrn</span>!‹ Denn alle – vom Kleinsten bis zum Größten – werden erkennen, wer ich bin. Ich vergebe ihnen ihre Schuld und denke nicht mehr an ihre Sünden. Mein Wort gilt! </p><p><br><br></p></div>",
         "url": "https://biblegateway.com/passage/?search=Jeremiah%2031:31-34&version=HOF",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Jesaja 59, 1-2",
+        "html": "<div class=\"bible\"><p><sup>1</sup>Ihr meint wohl, der <span class=\"small-caps\">Herr</span> sei zu schwach, um euch zu helfen, und dazu noch taub, so dass er eure Hilferufe gar nicht hört. O nein!<sup> 2 </sup>Eure Schuld – sie steht wie eine Mauer zwischen euch und eurem Gott! Eure Sünden verdecken ihn, darum hört er euch nicht. </p><p><br><br></p></div>",
+        "url": "https://biblegateway.com/passage/?search=Isaiah%2059:1-2&version=HOF",
         "isOpen": true
       }
     },

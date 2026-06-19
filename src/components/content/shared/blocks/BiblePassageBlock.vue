@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue';
 import type { NumberSystem } from 'src/utils/localizeDigits';
-import { localizeSupVerseNumbers } from 'src/utils/localizeDigits';
+import { localizeDigits, localizeSupVerseNumbers } from 'src/utils/localizeDigits';
 
 type BiblePassageBlockData = {
   reference?: string;
@@ -18,7 +18,9 @@ const props = defineProps<{
 const isOpen = ref(typeof props.data.isOpen === 'boolean' ? props.data.isOpen : true);
 
 const title = computed(() => {
-  return props.data.reference ? `Read ${props.data.reference}` : 'Read passage';
+  const rawTitle = props.data.reference ? `Read ${props.data.reference}` : 'Read passage';
+
+  return localizeDigits(rawTitle, props.numberSystem ?? 'latn');
 });
 
 const localizedHtml = computed(() => {

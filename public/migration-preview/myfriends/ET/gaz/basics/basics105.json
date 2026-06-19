@@ -7,7 +7,7 @@
   "numberSystem": "latn",
   "series": "basics",
   "lessonId": "basics105",
-  "sortOrder": 4,
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -87,7 +87,16 @@
       "type": "biblePassage",
       "data": {
         "reference": "Macaafa Ermiyaas Raajichaa 31:31-34",
-        "html": "<div class=\"bible\"><p><sup>31</sup> Kunoo, barri ani itti namoota biyya Israa'eliif, biyya Yihudaafis kakuu haaraa galu in dhufa; </p><p><sup>32</sup> innis sanyii kakuu isa ani abboota isaanii gargaaree biyya Gibxii yommuun baase isaaniif dhaabnaan, utuma ani gooftaa isaanii ta'ee jiruu, isaan immoo kakuu koo cabsan sanaa miti; ani Waaqayyo kana dubbadheera. </p><p><sup>33</sup> Kakuun inni ani bara sana Israa'eliif galuuf jiru kanatti fufee jira; ani seera koo yaada isaanii keessa nan kaa'a, garaa isaanii keessattis nan caafa; ani Waaqayyo isaanii nan ta'a, isaanis saba koo in ta'u; </p><p><sup>34</sup> ani yakka isaanii isaaniif nan dhiisa, cubbuu isaaniis deebi'ee isaanitti hin lakkaa'u; isaan hundumti isaanii xinnaadhaa hamma isa guddaatti ana waan beekaniif, si'achi namni tokko illee nama biyya isaatiitiin yookiis obboleessa isaatiin, 'Waaqayyoon bari!' jedhee, gorsuu hin barbaachisu\" jedhe. </p><p></p><p><sup>1</sup> Kunoo, harki Waaqayyoo gabaabbatee isin fayyisuu hin dadhabne, gurri isaas duudee iyya keessan dhaga'uu hin dhabne; </p><p><sup>2</sup> yakki keessan isinii fi Waaqayyo keessan gidduu goree gargar isin in ittise, akka isiniif hin dhageenyettis sababii cubbuu keessaniitiif Waaqayyo fuula isaa isin irraa in deebise; </p><p></p><p></p></div>",
+        "html": "<div class=\"bible\"><p><sup>31</sup> Kunoo, barri ani itti namoota biyya Israa'eliif, biyya Yihudaafis kakuu haaraa galu in dhufa; </p><p><sup>32</sup> innis sanyii kakuu isa ani abboota isaanii gargaaree biyya Gibxii yommuun baase isaaniif dhaabnaan, utuma ani gooftaa isaanii ta'ee jiruu, isaan immoo kakuu koo cabsan sanaa miti; ani Waaqayyo kana dubbadheera. </p><p><sup>33</sup> Kakuun inni ani bara sana Israa'eliif galuuf jiru kanatti fufee jira; ani seera koo yaada isaanii keessa nan kaa'a, garaa isaanii keessattis nan caafa; ani Waaqayyo isaanii nan ta'a, isaanis saba koo in ta'u; </p><p><sup>34</sup> ani yakka isaanii isaaniif nan dhiisa, cubbuu isaaniis deebi'ee isaanitti hin lakkaa'u; isaan hundumti isaanii xinnaadhaa hamma isa guddaatti ana waan beekaniif, si'achi namni tokko illee nama biyya isaatiitiin yookiis obboleessa isaatiin, 'Waaqayyoon bari!' jedhee, gorsuu hin barbaachisu\" jedhe. </p></div>",
+        "url": "",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Macaafa Isaayaas Raajichaa 59:1-2",
+        "html": "<p><sup>1</sup> Kunoo, harki Waaqayyoo gabaabbatee isin fayyisuu hin dadhabne, gurri isaas duudee iyya keessan dhaga'uu hin dhabne; </p><p><sup>2</sup> yakki keessan isinii fi Waaqayyo keessan gidduu goree gargar isin in ittise, akka isiniif hin dhageenyettis sababii cubbuu keessaniitiif Waaqayyo fuula isaa isin irraa in deebise; </p>",
         "url": "",
         "isOpen": true
       }
@@ -138,7 +147,7 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Dubbisa kanarratti hundaa'uun wantaWaaqayyo akka gootu sirraa barbaadu gaafadhu. Jiraa? <ul><li>Amala jijjiiramuu qabu</li><li>Waadaa Gaafatamuu qabu</li><li>Fakkeenya hordofamuu qabu</li><li>Abboommii eegamuu qabu</li></ul>",
+          "Dubbisa kanarratti hundaa'uun wanta Waaqayyo akka gootu sirraa barbaadu gaafadhu. Jiraa? <ul><li>Amala jijjiiramuu qabu</li><li>Waadaa Gaafatamuu qabu</li><li>Fakkeenya hordofamuu qabu</li><li>Abboommii eegamuu qabu</li></ul>",
           "Garee kana Qoodi"
         ]
       }

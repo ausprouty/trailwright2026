@@ -1,4 +1,13 @@
 {
+  "site": "myfriends",
+  "country": "BR",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics105",
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -25,7 +34,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics105-review"
+        "storageKey": "note"
       }
     },
     {
@@ -52,7 +61,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics105-bible-study"
+        "storageKey": "note"
       }
     },
     {
@@ -78,9 +87,25 @@
       "type": "biblePassage",
       "data": {
         "reference": "Jeremias 31:31-34",
-        "html": "<div class=\"bible\"><sup>31</sup>“Estão chegando os dias”, declara o <span class=\"small-caps\"> Senhor </span>,<br> “quando farei uma nova aliança<br> com a comunidade de Israel<br> e com a comunidade de Judá.<br><sup>32</sup>Não será como a aliança<br> que fiz com os seus antepassados<br> quando os tomei pela mão<br> para tirá-los do Egito;<br> porque quebraram a minha aliança,<br> apesar de eu ser o <span class=\"small-caps\">Senhor</span> deles”,<br> diz o <span class=\"small-caps\">Senhor</span>.<br><sup>33</sup>“Esta é a aliança que farei<br> com a comunidade de Israel<br> depois daqueles dias”,<br> declara o <span class=\"small-caps\">Senhor</span>:<br> “Porei a minha lei no íntimo deles<br> e a escreverei nos seus corações.<br> Serei o Deus deles,<br> e eles serão o meu povo.<br><sup>34</sup>Ninguém mais ensinará ao seu próximo<br> nem ao seu irmão, dizendo:<br> ‘Conheça ao <span class=\"small-caps\"> Senhor </span>’,<br> porque todos eles me conhecerão,<br> desde o menor até o maior”,<br> diz o <span class=\"small-caps\">Senhor</span>.<br> “Porque eu lhes perdoarei a maldade<br> e não me lembrarei mais<br> dos seus pecados.” <p><br></p><p><sup>1</sup>Vejam! O braço do <span class=\"small-caps\">Senhor</span><br> não está tão encolhido que não possa salvar,<br> e o seu ouvido tão surdo<br> que não possa ouvir.<br><sup>2</sup>Mas as suas maldades separaram<br> vocês do seu Deus;<br> os seus pecados esconderam de vocês<br> o rosto dele, e por isso ele não os ouvirá.</p><p></p><p><br></p></div>",
+        "html": "<div class=\"bible\"><sup>31</sup>“Estão chegando os dias”, declara o <span class=\"small-caps\"> Senhor </span>,<br> “quando farei uma nova aliança<br> com a comunidade de Israel<br> e com a comunidade de Judá.<br><sup>32</sup>Não será como a aliança<br> que fiz com os seus antepassados<br> quando os tomei pela mão<br> para tirá-los do Egito;<br> porque quebraram a minha aliança,<br> apesar de eu ser o <span class=\"small-caps\">Senhor</span> deles”,<br> diz o <span class=\"small-caps\">Senhor</span>.<br><sup>33</sup>“Esta é a aliança que farei<br> com a comunidade de Israel<br> depois daqueles dias”,<br> declara o <span class=\"small-caps\">Senhor</span>:<br> “Porei a minha lei no íntimo deles<br> e a escreverei nos seus corações.<br> Serei o Deus deles,<br> e eles serão o meu povo.<br><sup>34</sup>Ninguém mais ensinará ao seu próximo<br> nem ao seu irmão, dizendo:<br> ‘Conheça ao <span class=\"small-caps\"> Senhor </span>’,<br> porque todos eles me conhecerão,<br> desde o menor até o maior”,<br> diz o <span class=\"small-caps\">Senhor</span>.<br> “Porque eu lhes perdoarei a maldade<br> e não me lembrarei mais<br> dos seus pecados.” <p><br></p></div>",
         "url": "https://biblegateway.com/passage/?search=Jeremiah%2031:31-34&version=NVI-PT",
         "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Isaías 59:1-2",
+        "html": "<div class=\"bible\"><p><sup>1</sup>Vejam! O braço do <span class=\"small-caps\">Senhor</span><br> não está tão encolhido que não possa salvar,<br> e o seu ouvido tão surdo<br> que não possa ouvir.<br><sup>2</sup>Mas as suas maldades separaram<br> vocês do seu Deus;<br> os seus pecados esconderam de vocês<br> o rosto dele, e por isso ele não os ouvirá.</p><p><br></p></div>",
+        "url": "https://biblegateway.com/passage/?search=Isaiah%2059:1-2&version=NVI-PT",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
       }
     },
     {
@@ -106,7 +131,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics105-challenge"
+        "storageKey": "note"
       }
     },
     {
@@ -172,7 +197,5 @@
         }
       }
     }
-  ],
-  "time": 1778492568720,
-  "version": "2.31.5"
+  ]
 }

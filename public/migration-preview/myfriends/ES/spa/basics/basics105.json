@@ -7,7 +7,7 @@
   "numberSystem": "latn",
   "series": "basics",
   "lessonId": "basics105",
-  "sortOrder": 4,
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -87,8 +87,17 @@
       "type": "biblePassage",
       "data": {
         "reference": "Jeremías 31:31-34",
-        "html": "<div class=\"bible\"><p><sup>31</sup>He aquí que vienen días, dice Jehová, en los cuales haré nuevo pacto con la casa de Israel y con la casa de Judá. </p><p><sup>32</sup>No como el pacto que hice con sus padres el día que tomé su mano para sacarlos de la tierra de Egipto; porque ellos invalidaron mi pacto, aunque fui yo un marido para ellos, dice Jehová. </p><p><sup>33</sup>Pero este es el pacto que haré con la casa de Israel después de aquellos días, dice Jehová: Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo. </p><p><sup>34</sup>Y no enseñará más ninguno a su prójimo, ni ninguno a su hermano, diciendo: Conoce a Jehová; porque todos me conocerán, desde el más pequeño de ellos hasta el más grande, dice Jehová; porque perdonaré la maldad de ellos, y no me acordaré más de su pecado. </p><br><br><br><p><sup>1</sup> He aquí que no se ha acortado la mano de Jehová para salvar, ni se ha agravado su oído para oír; </p><p><sup>2</sup>pero vuestras iniquidades han hecho división entre vosotros y vuestro Dios, y vuestros pecados han hecho ocultar de vosotros su rostro para no oír. </p><br><br></div>",
+        "html": "<div class=\"bible\"><p><sup>31</sup>He aquí que vienen días, dice Jehová, en los cuales haré nuevo pacto con la casa de Israel y con la casa de Judá. </p><p><sup>32</sup>No como el pacto que hice con sus padres el día que tomé su mano para sacarlos de la tierra de Egipto; porque ellos invalidaron mi pacto, aunque fui yo un marido para ellos, dice Jehová. </p><p><sup>33</sup>Pero este es el pacto que haré con la casa de Israel después de aquellos días, dice Jehová: Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo. </p><p><sup>34</sup>Y no enseñará más ninguno a su prójimo, ni ninguno a su hermano, diciendo: Conoce a Jehová; porque todos me conocerán, desde el más pequeño de ellos hasta el más grande, dice Jehová; porque perdonaré la maldad de ellos, y no me acordaré más de su pecado. </p></div>",
         "url": "https://biblegateway.com/passage/?search=Jeremiah%2031:31-34&version=RVR1960",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Isaías 59:1-2",
+        "html": "<div class=\"bible\"><p><sup>1</sup> He aquí que no se ha acortado la mano de Jehová para salvar, ni se ha agravado su oído para oír; </p><p><sup>2</sup>pero vuestras iniquidades han hecho división entre vosotros y vuestro Dios, y vuestros pecados han hecho ocultar de vosotros su rostro para no oír. </p><br><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Isaiah%2059:1-2&version=RVR1960",
         "isOpen": true
       }
     },

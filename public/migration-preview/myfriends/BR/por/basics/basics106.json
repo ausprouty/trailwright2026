@@ -1,4 +1,13 @@
 {
+  "site": "myfriends",
+  "country": "BR",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics106",
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -25,7 +34,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics106-review"
+        "storageKey": "note"
       }
     },
     {
@@ -52,7 +61,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics106-bible-study"
+        "storageKey": "note"
       }
     },
     {
@@ -78,9 +87,25 @@
       "type": "biblePassage",
       "data": {
         "reference": "Isaías 52:13-53:13",
-        "html": "<div class=\"bible\"><p><sup>13</sup>Vejam, o meu servo agirá<br> com sabedoria;<br> será engrandecido, elevado<br> e muitíssimo exaltado.<br><sup>14</sup>Assim como houve muitos<br> que ficaram pasmados diante dele;<br> sua aparência estava tão desfigurada,<br> que ele se tornou irreconhecível como homem;<br> não parecia um ser humano;<br><sup>15</sup>de igual modo ele aspergirá<br> muitas nações,<br> e reis calarão a boca por causa dele.<br> Pois aquilo que não lhes foi dito verão, e o que não ouviram compreenderão.</p><p><sup>53:1</sup>Quem creu em nossa mensagem?<br> E a quem foi revelado o braço do <span class=\"small-caps\">Senhor</span>?<br><sup>2</sup>Ele cresceu diante dele<br> como um broto tenro,<br> e como uma raiz saída de uma terra seca.<br> Ele não tinha qualquer beleza<br> ou majestade que nos atraísse,<br> nada havia em sua aparência<br> para que o desejássemos.<br><sup>3</sup>Foi desprezado e rejeitado pelos homens,<br> um homem de dores<br> e experimentado no sofrimento.<br> Como alguém de quem<br> os homens escondem o rosto,<br> foi desprezado, e nós não o tínhamos em estima.</p><div class=\"myfriends-poetry top-1\"><p><sup>4</sup>Certamente ele tomou sobre si<br> as nossas enfermidades<br> e sobre si levou as nossas doenças;<br> contudo nós o consideramos<br> castigado por Deus,<br> por Deus atingido e afligido.<br><sup>5</sup>Mas ele foi transpassado<br> por causa das nossas transgressões,<br> foi esmagado por causa<br> de nossas iniqüidades;<br> o castigo que nos trouxe paz<br> estava sobre ele, e pelas suas feridas<br> fomos curados.<br><sup>6</sup>Todos nós, tal qual ovelhas,<br> nos desviamos,<br> cada um de nós se voltou<br> para o seu próprio caminho;<br> e o <span class=\"small-caps\">Senhor</span> fez cair sobre ele<br> a iniqüidade de todos nós.<br><sup>7</sup>Ele foi oprimido e afligido;<br> e, contudo, não abriu a sua boca;<br> como um cordeiro<br> foi levado para o matadouro,<br> e como uma ovelha que diante de seus<br> tosquiadores fica calada,<br> ele não abriu a sua boca.<br><sup>8</sup>Com julgamento opressivo ele foi levado.<br> E quem pode falar dos seus descendentes?<br> Pois ele foi eliminado<br> da terra dos viventes;<br> por causa da transgressão<br> do meu povo ele foi golpeado.<br><sup>9</sup>Foi-lhe dado um túmulo com os ímpios,<br> e com os ricos em sua morte,<br> embora não tivesse cometido<br> nenhuma violência<br> nem houvesse nenhuma mentira em sua boca.</p></div><div class=\"myfriends-poetry top-1\"><p><sup>10</sup>Contudo, foi da vontade do <span class=\"small-caps\">Senhor</span><br> esmagá-lo e fazê-lo sofrer,<br> e, embora o <span class=\"small-caps\">Senhor</span> tenha feito da vida dele<br> uma oferta pela culpa,<br> ele verá sua prole e prolongará seus dias,<br> e a vontade do <span class=\"small-caps\">Senhor</span><br> prosperará em sua mão.<br><sup>11</sup>Depois do sofrimento de sua alma,<br> ele verá a luz e ficará satisfeito;<br> pelo seu conhecimento<br> meu servo justo<br> justificará a muitos,<br> e levará a iniqüidade deles.<br><sup>12</sup>Por isso eu lhe darei uma porção<br> entre os grandes,<br> e ele dividirá os despojos com os fortes,<br> porquanto ele derramou sua vida<br> até a morte,<br> e foi contado entre os transgressores.<br> Pois ele levou o pecado de muitos, e pelos transgressores intercedeu.</p></div><p><br></p><p></p><div class=\"bible\"><sup>29</sup>No dia seguinte João viu Jesus aproximando-se e disse: “Vejam! É o Cordeiro de Deus, que tira o pecado do mundo!<sup>30</sup>Este é aquele a quem eu me referi, quando disse: Vem depois de mim um homem que é superior a mim, porque já existia antes de mim.<sup> 31 </sup>Eu mesmo não o conhecia, mas por isso é que vim batizando com água: para que ele viesse a ser revelado a Israel”. <p><sup>32</sup>Então João deu o seguinte testemunho: “Eu vi o Espírito descer dos céus como pomba e permanecer sobre ele.<sup>33</sup>Eu não o teria reconhecido, se aquele que me enviou para batizar com água não me tivesse dito: ‘Aquele sobre quem você vir o Espírito descer e permanecer, esse é o que batiza com o Espírito Santo’.<sup> 34 </sup>Eu vi e testifico que este é o Filho de Deus”.</p></div><div class=\"myfriends-publisher\"><p><br></p></div></div>",
+        "html": "<div class=\"bible\"><p><sup>13</sup>Vejam, o meu servo agirá<br> com sabedoria;<br> será engrandecido, elevado<br> e muitíssimo exaltado.<br><sup>14</sup>Assim como houve muitos<br> que ficaram pasmados diante dele;<br> sua aparência estava tão desfigurada,<br> que ele se tornou irreconhecível como homem;<br> não parecia um ser humano;<br><sup>15</sup>de igual modo ele aspergirá<br> muitas nações,<br> e reis calarão a boca por causa dele.<br> Pois aquilo que não lhes foi dito verão, e o que não ouviram compreenderão.</p><p><sup>53:1</sup>Quem creu em nossa mensagem?<br> E a quem foi revelado o braço do <span class=\"small-caps\">Senhor</span>?<br><sup>2</sup>Ele cresceu diante dele<br> como um broto tenro,<br> e como uma raiz saída de uma terra seca.<br> Ele não tinha qualquer beleza<br> ou majestade que nos atraísse,<br> nada havia em sua aparência<br> para que o desejássemos.<br><sup>3</sup>Foi desprezado e rejeitado pelos homens,<br> um homem de dores<br> e experimentado no sofrimento.<br> Como alguém de quem<br> os homens escondem o rosto,<br> foi desprezado, e nós não o tínhamos em estima.</p><div class=\"myfriends-poetry top-1\"><p><sup>4</sup>Certamente ele tomou sobre si<br> as nossas enfermidades<br> e sobre si levou as nossas doenças;<br> contudo nós o consideramos<br> castigado por Deus,<br> por Deus atingido e afligido.<br><sup>5</sup>Mas ele foi transpassado<br> por causa das nossas transgressões,<br> foi esmagado por causa<br> de nossas iniqüidades;<br> o castigo que nos trouxe paz<br> estava sobre ele, e pelas suas feridas<br> fomos curados.<br><sup>6</sup>Todos nós, tal qual ovelhas,<br> nos desviamos,<br> cada um de nós se voltou<br> para o seu próprio caminho;<br> e o <span class=\"small-caps\">Senhor</span> fez cair sobre ele<br> a iniqüidade de todos nós.<br><sup>7</sup>Ele foi oprimido e afligido;<br> e, contudo, não abriu a sua boca;<br> como um cordeiro<br> foi levado para o matadouro,<br> e como uma ovelha que diante de seus<br> tosquiadores fica calada,<br> ele não abriu a sua boca.<br><sup>8</sup>Com julgamento opressivo ele foi levado.<br> E quem pode falar dos seus descendentes?<br> Pois ele foi eliminado<br> da terra dos viventes;<br> por causa da transgressão<br> do meu povo ele foi golpeado.<br><sup>9</sup>Foi-lhe dado um túmulo com os ímpios,<br> e com os ricos em sua morte,<br> embora não tivesse cometido<br> nenhuma violência<br> nem houvesse nenhuma mentira em sua boca.</p></div><div class=\"myfriends-poetry top-1\"><p><sup>10</sup>Contudo, foi da vontade do <span class=\"small-caps\">Senhor</span><br> esmagá-lo e fazê-lo sofrer,<br> e, embora o <span class=\"small-caps\">Senhor</span> tenha feito da vida dele<br> uma oferta pela culpa,<br> ele verá sua prole e prolongará seus dias,<br> e a vontade do <span class=\"small-caps\">Senhor</span><br> prosperará em sua mão.<br><sup>11</sup>Depois do sofrimento de sua alma,<br> ele verá a luz e ficará satisfeito;<br> pelo seu conhecimento<br> meu servo justo<br> justificará a muitos,<br> e levará a iniqüidade deles.<br><sup>12</sup>Por isso eu lhe darei uma porção<br> entre os grandes,<br> e ele dividirá os despojos com os fortes,<br> porquanto ele derramou sua vida<br> até a morte,<br> e foi contado entre os transgressores.<br> Pois ele levou o pecado de muitos, e pelos transgressores intercedeu.</p></div><p><br></p></div>",
         "url": "https://biblegateway.com/passage/?search=Isaiah%2053:1-12&version=NVI-PT",
         "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "João 1:29-34",
+        "html": "<div class=\"bible\"><div class=\"bible\"><sup>29</sup>No dia seguinte João viu Jesus aproximando-se e disse: “Vejam! É o Cordeiro de Deus, que tira o pecado do mundo!<sup>30</sup>Este é aquele a quem eu me referi, quando disse: Vem depois de mim um homem que é superior a mim, porque já existia antes de mim.<sup> 31 </sup>Eu mesmo não o conhecia, mas por isso é que vim batizando com água: para que ele viesse a ser revelado a Israel”. <p><sup>32</sup>Então João deu o seguinte testemunho: “Eu vi o Espírito descer dos céus como pomba e permanecer sobre ele.<sup>33</sup>Eu não o teria reconhecido, se aquele que me enviou para batizar com água não me tivesse dito: ‘Aquele sobre quem você vir o Espírito descer e permanecer, esse é o que batiza com o Espírito Santo’.<sup> 34 </sup>Eu vi e testifico que este é o Filho de Deus”.</p></div><div class=\"myfriends-publisher\"><p><br></p></div></div>",
+        "url": "https://biblegateway.com/passage/?search=John%201:29-34&version=NVI-PT",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
       }
     },
     {
@@ -106,7 +131,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "basics-basics106-challenge"
+        "storageKey": "note"
       }
     },
     {
@@ -179,7 +204,5 @@
         }
       }
     }
-  ],
-  "time": 1778492568743,
-  "version": "2.31.5"
+  ]
 }

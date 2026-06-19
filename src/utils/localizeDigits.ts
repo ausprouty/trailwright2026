@@ -48,10 +48,11 @@ export function localizeDigits(
 }
 
 /**
- * Converts only numeric text inside <sup>...</sup> tags.
+ * Converts Latin digits inside <sup>...</sup> tags.
  *
- * This changes visible Bible verse numbers without changing references,
- * URLs, IDs, filenames, CSS values, or other digits elsewhere in the HTML.
+ * This changes visible Bible verse/chapter numbers inside superscript tags
+ * without changing references, URLs, IDs, filenames, CSS values, or other
+ * digits elsewhere in the HTML.
  */
 export function localizeSupVerseNumbers(
   html: string,
@@ -66,9 +67,9 @@ export function localizeSupVerseNumbers(
   }
 
   return html.replace(
-    /<sup([^>]*)>(\s*)(\d+)(\s*)<\/sup>/gi,
-    (_match, attrs: string, before: string, number: string, after: string) => {
-      return `<sup${attrs}>${before}${localizeDigits(number, numberSystem)}${after}</sup>`;
+    /<sup\b([^>]*)>([\s\S]*?)<\/sup>/gi,
+    (_match, attrs: string, content: string) => {
+      return `<sup${attrs}>${localizeDigits(content, numberSystem)}</sup>`;
     },
   );
 }

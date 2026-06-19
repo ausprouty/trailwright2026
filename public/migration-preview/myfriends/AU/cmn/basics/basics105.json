@@ -7,7 +7,7 @@
   "numberSystem": "latn",
   "series": "basics",
   "lessonId": "basics105",
-  "sortOrder": 4,
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -87,8 +87,17 @@
       "type": "biblePassage",
       "data": {
         "reference": "耶 利 米 书 31:31-34",
-        "html": "<div class=\"bible\"><p><sup>31</sup>耶 和 华 说 ： “ 看 啊 ， 时 候 将 到 ， 我 要 与 以 色 列 家 和 犹 大 家 另 立 新 约 ， <sup>32</sup>这 约 不 同 于 我 与 他 们 祖 先 所 立 的 约 ， 就 是 我 牵 着 他 们 祖 先 的 手 领 他 们 离 开 埃 及 时 所 立 的 。 虽 然 我 是 他 们 的 丈 夫 ， 他 们 却 违 背 了 我 的 约 。 这 是 耶 和 华 说 的 。 ” </p><p><sup>33</sup>耶 和 华 说 ： “ 那 些 日 子 以 后 ， 我 将 与 以 色 列 家 立 这 样 的 约 ， 我 要 把 我 的 律 法 放 在 他 们 脑 中 ， 写 在 他 们 心 上 。 我 要 做 他 们 的 上 帝 ， 他 们 要 做 我 的 子 民 。 <sup>34</sup>谁 都 无 需 再 教 导 他 的 邻 居 和 弟 兄 ， 说 ， ‘ 你 要 认 识 耶 和 华 ’ ， 因 为 他 们 无 论 尊 卑 都 必 认 识 我 。 我 要 赦 免 他 们 的 过 犯 ， 忘 掉 他 们 的 罪 恶 。 这 是 耶 和 华 说 的 。 ” </p><p><br><br></p><p><sup>1</sup>看 啊 ， 耶 和 华 的 臂 膀 并 非 没 有 力 量 拯 救 ，</p><div class=\"poetry top-1\"><p> 祂 的 耳 朵 并 非 聋 得 听 不 见 。 <br><sup>2</sup>你 们 的 罪 过 使 你 们 与 上 帝 隔 绝 ，{' '} <br>你 们 的 罪 恶 使 祂 转 脸 不 看 你 们 ， 也 不 听 你 们 的 祈 求 。 </p><br><br></div></div>",
+        "html": "<div class=\"bible\"><p><sup>31</sup>耶 和 华 说 ： “ 看 啊 ， 时 候 将 到 ， 我 要 与 以 色 列 家 和 犹 大 家 另 立 新 约 ， <sup>32</sup>这 约 不 同 于 我 与 他 们 祖 先 所 立 的 约 ， 就 是 我 牵 着 他 们 祖 先 的 手 领 他 们 离 开 埃 及 时 所 立 的 。 虽 然 我 是 他 们 的 丈 夫 ， 他 们 却 违 背 了 我 的 约 。 这 是 耶 和 华 说 的 。 ” </p><p><sup>33</sup>耶 和 华 说 ： “ 那 些 日 子 以 后 ， 我 将 与 以 色 列 家 立 这 样 的 约 ， 我 要 把 我 的 律 法 放 在 他 们 脑 中 ， 写 在 他 们 心 上 。 我 要 做 他 们 的 上 帝 ， 他 们 要 做 我 的 子 民 。 <sup>34</sup>谁 都 无 需 再 教 导 他 的 邻 居 和 弟 兄 ， 说 ， ‘ 你 要 认 识 耶 和 华 ’ ， 因 为 他 们 无 论 尊 卑 都 必 认 识 我 。 我 要 赦 免 他 们 的 过 犯 ， 忘 掉 他 们 的 罪 恶 。 这 是 耶 和 华 说 的 。 ” </p><p><br><br></p></div>",
         "url": "https://biblegateway.com/passage/?search=Jeremiah%2031:31-34&version=CCB",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "以 赛 亚 书 59:1-2",
+        "html": "<div class=\"bible\"><p><sup>1</sup>看 啊 ， 耶 和 华 的 臂 膀 并 非 没 有 力 量 拯 救 ，</p><div class=\"poetry top-1\"><p> 祂 的 耳 朵 并 非 聋 得 听 不 见 。 <br><sup>2</sup>你 们 的 罪 过 使 你 们 与 上 帝 隔 绝 ，{' '} <br>你 们 的 罪 恶 使 祂 转 脸 不 看 你 们 ， 也 不 听 你 们 的 祈 求 。 </p><br><br></div></div>",
+        "url": "https://biblegateway.com/passage/?search=Isaiah%2059:1-2&version=CCB",
         "isOpen": true
       }
     },

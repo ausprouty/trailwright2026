@@ -7,7 +7,7 @@
   "numberSystem": "latn",
   "series": "basics",
   "lessonId": "basic6",
-  "sortOrder": 5,
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -100,7 +100,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Jesaja 52:13-53:12",
-        "html": "<div class=\"bible\"><p><strong>Kärsivä Herran palvelija</strong></p><p><sup>13.</sup> – Katso, minun palvelijani menestyy: hänestä tulee korkea, ylhäinen ja suuri.<br><sup>14.</sup> Ja kuitenkin monet järkyttyivät hänet nähdessään – tuskin häntä enää ihmiseksi tunsi, niin kammottavasti hänet oli runneltu.<br><sup>15.</sup> Mutta hän saattaa vielä ihmetyksiin kansat, hänet nähdessään kuninkaat mykistyvät, sillä sen, mitä heille ei koskaan kerrottu, sen he saavat nähdä, mistä he eivät ikinä ole kuulleet, sen he saavat nyt kokea. </p><p><sup>53:1.</sup> Kuka uskoo meidän sanomamme? Kuka ymmärtää Herran käsivarren voiman?<br><sup>2.</sup> Hän kasvoi Herran edessä kuin vähäinen verso, kuin vesa kuivasta maasta. Ei hänellä ollut vartta, ei kauneutta, jota olisimme ihaillen katselleet, ei hahmoa, johon olisimme mieltyneet.<br><sup>3. </sup>Hyljeksitty hän oli, ihmisten torjuma, kipujen mies, sairauden tuttava, josta kaikki käänsivät katseensa pois. Halveksittu hän oli, me emme häntä minään pitäneet. </p><p><sup>4.</sup> Ja kuitenkin: hän kantoi meidän kipumme, otti taakakseen meidän sairautemme. Omista teoistaan me uskoimme hänen kärsivän rangaistusta, luulimme Jumalan häntä niistä lyövän ja kurittavan,<br><sup>5.</sup> vaikka meidän rikkomuksemme olivat hänet lävistäneet ja meidän pahat tekomme hänet ruhjoneet. Hän kärsi rangaistuksen, jotta meillä olisi rauha, hänen haavojensa hinnalla me olemme parantuneet.<br><sup>6. </sup>Me harhailimme eksyneinä kuin lampaat, jokainen meistä kääntyi omalle tielleen. Mutta Herra pani meidän kaikkien syntivelan hänen kannettavakseen. </p><p><sup>7.</sup> Häntä piinattiin, ja hän alistui siihen, ei hän suutansa avannut. Kuin karitsa, jota teuraaksi viedään, niin kuin lammas, joka on ääneti keritsijäinsä edessä, ei hänkään suutansa avannut.<br><sup>8.</sup> Hänet vangittiin, tuomittiin ja vietiin pois – kuka hänen kansastaan siitä välitti? Hänet syöstiin pois elävien maasta, hänet lyötiin hengiltä kansansa rikkomusten tähden.<br><sup>9.</sup> Hänet oli määrä haudata jumalattomien joukkoon. Rikkaan haudassa hän sai leposijansa. Koskaan hän ei ollut harjoittanut vääryyttä, eikä petos ollut noussut hänen huulilleen. </p><p><sup>10.</sup> Herra näki hyväksi, että hänet ruhjottiin, että hänet lävistettiin. Mutta kun hän antoi itsensä sovitusuhriksi, hän saa nähdä sukunsa jatkuvan, hän elää kauan, ja Herran tahto täyttyy hänen kauttaan.<br><sup>11.</sup> Ahdistuksensa jälkeen hän näkee valon, ja Jumalan tunteminen ravitsee hänet. Minun vanhurskas palvelijani tekee vanhurskaiksi monet, heidän pahat tekonsa hän kantaa.<br><sup>12. </sup>Minä annan hänelle paikan suurten joukossa, hän saa jakaa saalista mahtavien kanssa, koska hän antoi itsensä kuolemalle alttiiksi ja hänet luettiin rikollisten joukkoon. Hän otti kantaakseen monien synnit, hän pyysi pahantekijöilleen armoa. </p><p><a href=\"https://raamattu.fi/raamattu/KR92/ISA.52/Jesaja-52\">Lue lisää</a></p></div>",
+        "html": "<p><strong>Kärsivä Herran palvelija</strong></p><p><sup>13.</sup> – Katso, minun palvelijani menestyy: hänestä tulee korkea, ylhäinen ja suuri.<br><sup>14.</sup> Ja kuitenkin monet järkyttyivät hänet nähdessään – tuskin häntä enää ihmiseksi tunsi, niin kammottavasti hänet oli runneltu.<br><sup>15.</sup> Mutta hän saattaa vielä ihmetyksiin kansat, hänet nähdessään kuninkaat mykistyvät, sillä sen, mitä heille ei koskaan kerrottu, sen he saavat nähdä, mistä he eivät ikinä ole kuulleet, sen he saavat nyt kokea. </p><p><sup>53:1.</sup> Kuka uskoo meidän sanomamme? Kuka ymmärtää Herran käsivarren voiman?<br><sup>2.</sup> Hän kasvoi Herran edessä kuin vähäinen verso, kuin vesa kuivasta maasta. Ei hänellä ollut vartta, ei kauneutta, jota olisimme ihaillen katselleet, ei hahmoa, johon olisimme mieltyneet.<br><sup>3. </sup>Hyljeksitty hän oli, ihmisten torjuma, kipujen mies, sairauden tuttava, josta kaikki käänsivät katseensa pois. Halveksittu hän oli, me emme häntä minään pitäneet. </p><p><sup>4.</sup> Ja kuitenkin: hän kantoi meidän kipumme, otti taakakseen meidän sairautemme. Omista teoistaan me uskoimme hänen kärsivän rangaistusta, luulimme Jumalan häntä niistä lyövän ja kurittavan,<br><sup>5.</sup> vaikka meidän rikkomuksemme olivat hänet lävistäneet ja meidän pahat tekomme hänet ruhjoneet. Hän kärsi rangaistuksen, jotta meillä olisi rauha, hänen haavojensa hinnalla me olemme parantuneet.<br><sup>6. </sup>Me harhailimme eksyneinä kuin lampaat, jokainen meistä kääntyi omalle tielleen. Mutta Herra pani meidän kaikkien syntivelan hänen kannettavakseen. </p><p><sup>7.</sup> Häntä piinattiin, ja hän alistui siihen, ei hän suutansa avannut. Kuin karitsa, jota teuraaksi viedään, niin kuin lammas, joka on ääneti keritsijäinsä edessä, ei hänkään suutansa avannut.<br><sup>8.</sup> Hänet vangittiin, tuomittiin ja vietiin pois – kuka hänen kansastaan siitä välitti? Hänet syöstiin pois elävien maasta, hänet lyötiin hengiltä kansansa rikkomusten tähden.<br><sup>9.</sup> Hänet oli määrä haudata jumalattomien joukkoon. Rikkaan haudassa hän sai leposijansa. Koskaan hän ei ollut harjoittanut vääryyttä, eikä petos ollut noussut hänen huulilleen. </p><p><sup>10.</sup> Herra näki hyväksi, että hänet ruhjottiin, että hänet lävistettiin. Mutta kun hän antoi itsensä sovitusuhriksi, hän saa nähdä sukunsa jatkuvan, hän elää kauan, ja Herran tahto täyttyy hänen kauttaan.<br><sup>11.</sup> Ahdistuksensa jälkeen hän näkee valon, ja Jumalan tunteminen ravitsee hänet. Minun vanhurskas palvelijani tekee vanhurskaiksi monet, heidän pahat tekonsa hän kantaa.<br><sup>12. </sup>Minä annan hänelle paikan suurten joukossa, hän saa jakaa saalista mahtavien kanssa, koska hän antoi itsensä kuolemalle alttiiksi ja hänet luettiin rikollisten joukkoon. Hän otti kantaakseen monien synnit, hän pyysi pahantekijöilleen armoa. </p><p><a href=\"https://raamattu.fi/raamattu/KR92/ISA.52/Jesaja-52\">Lue lisää</a></p>",
         "url": "",
         "isOpen": true
       }
@@ -109,8 +109,8 @@
       "type": "biblePassage",
       "data": {
         "reference": "Johannes 1:29-34",
-        "html": "<div class=\"bible\"><p><strong>Jumalan Karitsa</strong></p><p><sup>29.</sup> Seuraavana päivänä Johannes näki, että Jeesus oli tulossa hänen luokseen. Johannes sanoi: »Katsokaa: Jumalan Karitsa, joka ottaa pois maailman synnin! <sup>30.</sup> Hän on se, josta sanoin: ’Minun jälkeeni tuleva kulkee edelläni, sillä hän on ollut ennen minua.’ <sup>31.</sup> Minäkään en tuntenut häntä, mutta juuri sitä varten olen tullut kastamaan vedellä, että Israel saisi tietää, kuka hän on.» </p><p><sup>32.</sup> Johannes todisti: »Minä olen nähnyt, kuinka Henki laskeutui taivaasta kyyhkysen tavoin ja jäi hänen päälleen. <sup>33.</sup> Minäkään en häntä tuntenut. Mutta hän, joka lähetti minut kastamaan vedellä, sanoi minulle: ’Se, jonka päälle näet Hengen laskeutuvan ja jäävän, kastaa Pyhällä Hengellä.<sup>’ 34.</sup> Minä olen sen nähnyt ja todistan, että tämä mies on Jumalan Poika.» </p><a href=\"https://raamattu.fi/raamattu/KR92/JHN.1/Johannes-1\">Lue lisää</a></div>",
-        "url": "https://biblegateway.com/passage/?search=Genesis%202:4-25&version=NIV",
+        "html": "<p><strong>Jumalan Karitsa</strong></p><p><sup>29.</sup> Seuraavana päivänä Johannes näki, että Jeesus oli tulossa hänen luokseen. Johannes sanoi: »Katsokaa: Jumalan Karitsa, joka ottaa pois maailman synnin! <sup>30.</sup> Hän on se, josta sanoin: ’Minun jälkeeni tuleva kulkee edelläni, sillä hän on ollut ennen minua.’ <sup>31.</sup> Minäkään en tuntenut häntä, mutta juuri sitä varten olen tullut kastamaan vedellä, että Israel saisi tietää, kuka hän on.» </p><p><sup>32.</sup> Johannes todisti: »Minä olen nähnyt, kuinka Henki laskeutui taivaasta kyyhkysen tavoin ja jäi hänen päälleen. <sup>33.</sup> Minäkään en häntä tuntenut. Mutta hän, joka lähetti minut kastamaan vedellä, sanoi minulle: ’Se, jonka päälle näet Hengen laskeutuvan ja jäävän, kastaa Pyhällä Hengellä.’ <sup>34.</sup> Minä olen sen nähnyt ja todistan, että tämä mies on Jumalan Poika.» </p><p><a href=\"https://raamattu.fi/raamattu/KR92/JHN.1/Johannes-1\">Lue lisää</a></p>",
+        "url": "",
         "isOpen": true
       }
     },
@@ -152,7 +152,7 @@
         "items": [
           "Kenestä nämä tekstit kertovat?",
           "Mitä hän on tehnyt meidän puolestamme? (Jes 53:4-5)",
-          "Miksi hän teki niin? (Jes 53:11) <ul></ul>"
+          "Miksi hän teki niin? (Jes 53:11)"
         ]
       }
     },
@@ -176,9 +176,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<div>Jos Raamatunkohta on totta, miten muutat elämäntapaasi? </div>",
-          "<div>Käytännön haasteena aion seuraavien päivien aikana.. </div>",
-          "<div>Kenelle jaat tästä Raamatunkohdasta ja Jumalasta?</div>"
+          "Jos Raamatunkohta on totta, miten muutat elämäntapaasi?",
+          "Käytännön haasteena aion seuraavien päivien aikana.",
+          "Kenelle jaat tästä Raamatunkohdasta ja Jumalasta?"
         ]
       }
     },

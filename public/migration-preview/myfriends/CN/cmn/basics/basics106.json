@@ -1,4 +1,13 @@
 {
+  "site": "myfriends",
+  "country": "CN",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics106",
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -74,6 +83,15 @@
           "复述经文（合上圣经，凭记忆复述）",
           "小组贡献，完成复述"
         ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Bible",
+        "html": "以 赛 亚 书 53",
+        "url": "",
+        "isOpen": true
       }
     },
     {
@@ -193,7 +211,5 @@
         }
       }
     }
-  ],
-  "time": 1781065782024,
-  "version": "2.31.5"
+  ]
 }

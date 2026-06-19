@@ -7,7 +7,7 @@
   "numberSystem": "latn",
   "series": "basics",
   "lessonId": "basics105",
-  "sortOrder": 4,
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -97,8 +97,17 @@
       "type": "biblePassage",
       "data": {
         "reference": "Jeremiah 31:31-34",
-        "html": "<div class=\"bible\"></div><div><sup>31</sup>“The days are coming,” declares the <span class=\"small-caps\">Lord,</span><br> “when I will make a new covenant<br> with the people of Israel<br> and with the people of Judah.<br><sup>32</sup>It will not be like the covenant<br> I made with their ancestors<br> when I took them by the hand<br> to lead them out of Egypt,<br> because they broke my covenant,<br> though I was a husband to them,”<br> declares the Lord.<br><sup>33</sup>“This is the covenant I will make with the people of Israel<br> after that time,” declares the <span class=\"small-caps\"> Lord.</span><br> “I will put my law in their minds<br> and write it on their hearts.<br> I will be their God,<br> and they will be my people.<br><sup>34</sup>No longer will they teach their neighbor,<br> or say to one another, ‘Know the <span class=\"small-caps\">Lord</span> ,’<br> because they will all know me,<br> from the least of them to the greatest,”<br> declares the <span class=\"small-caps\">Lord</span>.<br> “For I will forgive their wickedness and will remember their sins no more.”</div><p><br></p><div>Surely the arm of the <span class=\"small-caps\">Lord</span> is not too short to save,<br> nor his ear too dull to hear.<br><sup>2</sup>But your iniquities have separated<br> you from your God;<br> your sins have hidden his face from you, so that he will not hear.</div><p></p><div><br><br><p></p></div>",
+        "html": "<div><sup>31</sup>“The days are coming,” declares the <span class=\"small-caps\">Lord,</span><br> “when I will make a new covenant<br> with the people of Israel<br> and with the people of Judah.<br><sup>32</sup>It will not be like the covenant<br> I made with their ancestors<br> when I took them by the hand<br> to lead them out of Egypt,<br> because they broke my covenant,<br> though I was a husband to them,”<br> declares the Lord.<br><sup>33</sup>“This is the covenant I will make with the people of Israel<br> after that time,” declares the <span class=\"small-caps\"> Lord.</span><br> “I will put my law in their minds<br> and write it on their hearts.<br> I will be their God,<br> and they will be my people.<br><sup>34</sup>No longer will they teach their neighbor,<br> or say to one another, ‘Know the <span class=\"small-caps\">Lord</span> ,’<br> because they will all know me,<br> from the least of them to the greatest,”<br> declares the <span class=\"small-caps\">Lord</span>.<br> “For I will forgive their wickedness and will remember their sins no more.” </div><p><br></p>",
         "url": "https://biblegateway.com/passage/?search=Jeremiah%2031:31-34&version=NIV",
+        "isOpen": true
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Isaiah 59:1-2",
+        "html": "<div> Surely the arm of the <span class=\"small-caps\">Lord</span> is not too short to save,<br> nor his ear too dull to hear.<br><sup>2</sup>But your iniquities have separated<br> you from your God;<br> your sins have hidden his face from you, so that he will not hear. </div><div><br><br><p></p></div>",
+        "url": "https://biblegateway.com/passage/?search=Isaiah%2059:1-2&version=NIV",
         "isOpen": true
       }
     },
@@ -133,7 +142,7 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<span style=\"color:#9b59b6\">What sins do we need God‘s forgiveness for? Our personal sins or the general sin of humanity (rejecting God and choosing to listen to the snake) or both?</span>"
+          "<span style=\"color: #9b59b6\">What sins do we need God‘s forgiveness for? Our personal sins or the general sin of humanity (rejecting God and choosing to listen to the snake) or both?</span>"
         ]
       }
     },
@@ -169,13 +178,13 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "<span style=\"color:#9b59b6\">Let’s be honest. Are you able to keep the Ten Commandments or are you aware of persistently breaking them? These rules may be able to fight evil, but they cannot completely eradicate it. It remains a fact that we humans are not free from evil and that we are not able to change ourselves.</span>"
+                "text": "<span style=\"color: #9b59b6\">Let’s be honest. Are you able to keep the Ten Commandments or are you aware of persistently breaking them? These rules may be able to fight evil, but they cannot completely eradicate it. It remains a fact that we humans are not free from evil and that we are not able to change ourselves.</span>"
               }
             },
             {
               "type": "paragraph",
               "data": {
-                "text": "<span style=\"color:#9b59b6\">That is why God spoke of a time in which there will be a new way of living. But some things need to change for that to happen:</span>"
+                "text": "<span style=\"color: #9b59b6\">That is why God spoke of a time in which there will be a new way of living. But some things need to change for that to happen:</span>"
               }
             },
             {
@@ -183,9 +192,9 @@
               "data": {
                 "style": "ordered",
                 "items": [
-                  "<span style=\"color:#9b59b6\">When we humans decided against God and chose to follow the snake, we had to leave the garden and thus the close relationship with God. We have sinned against God and we cannot reverse it. But because God loves us so much, He announced that He will forgive our sins. That is the most important requirement for getting the kind of relationship the first humans had with God.</span><br>",
-                  "<span style=\"color:#9b59b6\">God needs to change our heart so that we are no longer under the influence of evil and can choose freely between God and the snake (evil). If we choose God and thus what is good, God’s rules will apply to us again, but if we choose to listen to the snake we will fall under the influence of evil again. But for us to be able to make such a decision, we first need to know God (get to know Him). So God spoke of a time when everyone will be able know Him personally. When we are able to have such a relationship with God, we no longer need to follow the rules of a book, instead God will write His rules directly into our hearts so that it becomes a part of us.</span><br>",
-                  "<span style=\"color:#9b59b6\">Then we will belong to His people and He will be our God and many things will become what God intended them to be in the first place.</span>"
+                  "<span style=\"color: #9b59b6\">When we humans decided against God and chose to follow the snake, we had to leave the garden and thus the close relationship with God. We have sinned against God and we cannot reverse it. But because God loves us so much, He announced that He will forgive our sins. That is the most important requirement for getting the kind of relationship the first humans had with God.</span><br>",
+                  "<span style=\"color: #9b59b6\">God needs to change our heart so that we are no longer under the influence of evil and can choose freely between God and the snake (evil). If we choose God and thus what is good, God’s rules will apply to us again, but if we choose to listen to the snake we will fall under the influence of evil again. But for us to be able to make such a decision, we first need to know God (get to know Him). So God spoke of a time when everyone will be able know Him personally. When we are able to have such a relationship with God, we no longer need to follow the rules of a book, instead God will write His rules directly into our hearts so that it becomes a part of us.</span><br>",
+                  "<span style=\"color: #9b59b6\">Then we will belong to His people and He will be our God and many things will become what God intended them to be in the first place.</span>"
                 ]
               }
             }

@@ -458,4 +458,23 @@ onMounted(() => {
 .migration-preview-page__small-select {
   min-width: 110px;
 }
+:deep(.paragraph-block.for-enrichment) {
+  margin: 1rem 0;
+  padding: 0.75rem 1rem;
+  background: #f7f3e8;
+  border-left: 4px solid #c8b57a;
+  border-radius: 6px;
+  font-style: italic;
+}
+
+:deep(.paragraph-block.for-enrichment p) {
+  margin: 0;
+}
+
+:deep(img.lesson-image) {
+  max-width: 95%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
 </style>

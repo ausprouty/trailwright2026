@@ -12,11 +12,12 @@ const props = defineProps<{
   data: {
     text?: string;
     bibleRefs?: BibleRef[];
+    className?: string;
   };
 }>();
 
 const activeBibleRef = ref<BibleRef | null>(null);
-  function renderInstruction(ref: BibleRef): string {
+function renderInstruction(ref: BibleRef): string {
   return `Read ${ref.reference}`;
 }
 
@@ -29,8 +30,7 @@ function handleClick(event: MouseEvent): void {
 
   const refId = target.dataset.refId || '';
 
-  activeBibleRef.value =
-    props.data.bibleRefs?.find((ref) => ref.id === refId) || null;
+  activeBibleRef.value = props.data.bibleRefs?.find((ref) => ref.id === refId) || null;
 }
 
 function closeBibleRef(): void {
@@ -39,32 +39,20 @@ function closeBibleRef(): void {
 </script>
 
 <template>
-  <div class="paragraph-block">
+  <div class="paragraph-block" :class="data.className">
     <p @click="handleClick">
       <span v-html="data.text || ''" />
     </p>
 
-    <div
-      v-if="activeBibleRef"
-      class="bible-ref-overlay"
-      @click.self="closeBibleRef"
-    >
+    <div v-if="activeBibleRef" class="bible-ref-overlay" @click.self="closeBibleRef">
       <div class="bible-ref-modal">
         <div class="bible-ref-header">
           <strong>{{ renderInstruction(activeBibleRef) }}</strong>
 
-          <button
-            type="button"
-            @click="closeBibleRef"
-          >
-            Close
-          </button>
+          <button type="button" @click="closeBibleRef">Close</button>
         </div>
 
-        <div
-          class="bible-ref-content"
-          v-html="activeBibleRef.html"
-        />
+        <div class="bible-ref-content" v-html="activeBibleRef.html" />
       </div>
     </div>
   </div>
@@ -81,8 +69,6 @@ function closeBibleRef(): void {
   cursor: pointer;
   text-decoration: underline;
 }
-
-
 
 .bible-ref-overlay {
   position: fixed;

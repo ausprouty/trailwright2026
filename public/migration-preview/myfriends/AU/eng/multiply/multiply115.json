@@ -1,0 +1,361 @@
+{
+  "site": "myfriends",
+  "country": "AU",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply",
+  "lessonId": "multiply115",
+  "sortOrder": 15,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"https://docs.google.com/presentation/d/17FUYjkBp462xbPvr9L2aYN1qeJZZAm2B/edit?usp=sharing&amp;ouid=112742687594815791308&amp;rtpof=true&amp;sd=true\">Resources for online meetings</a>"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">\n      Read {Matthew 10:28-30}\n\n      \n      and sing songs.&nbsp;\n    </li>\n    <li class=\"back\">\n      Use a Statement of Faith about Jesus, like\n      {Philippians 2:11};\n      \n      {1 Timothy 2:4-6}\n\n      \n    </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Matthew 10:28-30",
+                    "label": "Matthew 10:28-30",
+                    "passage": "<p>\n              <sup class=\"versenum\">28&nbsp;</sup>Do not be afraid of those who kill the body but\n              cannot kill the soul. Rather, be afraid of the One who can destroy both soul and body\n              in hell.<sup class=\"versenum\">29&nbsp;</sup>Are not two sparrows sold for a penny? Yet\n              not one of them will fall to the ground outside your Father’s care.<sup class=\"versenum\">30&nbsp;</sup>And even the very hairs of your head are all numbered.\n            </p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Philippians 2:11",
+                    "label": "Philippians 2:11",
+                    "passage": "<p>\n                <sup class=\"versenum\">11&nbsp;</sup>and every tongue acknowledge that Jesus Christ\n                is Lord,<br>\n                &nbsp;&nbsp;&nbsp;&nbsp;to the glory of God the Father.\n              </p>"
+                  },
+                  {
+                    "id": "popup_pop3",
+                    "marker": "1 Timothy 2:4-6",
+                    "label": "1 Timothy 2:4-6",
+                    "passage": "<p>\n              <sup class=\"versenum\">4&nbsp;</sup>who wants all people to be saved and to come to a\n              knowledge of the truth.<sup class=\"versenum\">5&nbsp;</sup>For there is one God and one\n              mediator between God and mankind, the man Christ Jesus,<sup class=\"versenum\">6&nbsp;</sup>who gave himself as a ransom for all people. This has now been witnessed to at the\n              proper time.\n            </p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating God’s Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What has been going well for you this week?",
+          "What has been difficult for you this past week?",
+          "What have you put into practice since our last meeting?",
+          "How have you experienced God working through your life this week? Were you able to: <ul><li>tell anyone this week about what God is doing in your life?</li><li>share a Bible passage?</li><li>meet a practical need? </li><li>pray with anyone?</li></ul>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-6"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Do you need any help from God in your life?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"nobreak\">\n      Read{Hebrews 10:19-25}.&nbsp;\n\n      \n      The Lord did not call us to be alone. He called us to be together. We face many challenges and\n      we need encouragement and accountability to obey the Lord. Following Jesus is best done in\n      community. We need each other so let’s not quit meeting together!&nbsp;\n    </li>",
+                "references": [
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Hebrews 10:19-25",
+                    "label": "Hebrews 10:19-25",
+                    "passage": "<p>\n              <sup class=\"versenum\">19&nbsp;</sup>Therefore, brothers and sisters, since we have\n              confidence to enter the Most Holy Place by the blood of Jesus,<sup class=\"versenum\">20&nbsp;</sup>by a new and living way opened for us through the curtain, that is, his body,<sup class=\"versenum\">21&nbsp;</sup>and since we have a great priest over the house of God,<sup class=\"versenum\">22&nbsp;</sup>let us draw near to God with a sincere heart and with the full assurance that faith\n              brings, having our hearts sprinkled to cleanse us from a guilty conscience and having\n              our bodies washed with pure water.<sup class=\"versenum\">23&nbsp;</sup>Let us hold\n              unswervingly to the hope we profess, for he who promised is faithful.<sup class=\"versenum\">24&nbsp;</sup>And let us consider how we may spur one another on toward love and good deeds,<sup class=\"versenum\">25&nbsp;</sup>not giving up meeting together, as some are in the habit of doing, but encouraging\n              one another—and all the more as you see the Day approaching.\n            </p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Context",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "God gave the Jews a special celebration called the Passover to remember how He delivered them from slavery in Egypt. The night before Jesus died on the cross, He celebrated the Passover with His disciples and explained how the Passover pointed to Him."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Read or watch Luke 22:14-20 two times as everyone listens."
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luke 22:14-20",
+        "html": "<!-- begin bible --><p><sup>14 </sup>When the hour came, Jesus and his apostles reclined at the table.<sup class=\"versenum\">15 </sup>And he said to them, “I have eagerly desired to eat this Passover with you before I suffer.<sup class=\"versenum\">16 </sup>For I tell you, I will not eat it again until it finds fulfillment in the kingdom of God.” </p><p><sup class=\"versenum\">17 </sup>After taking the cup, he gave thanks and said, “Take this and divide it among you.<sup class=\"versenum\">18 </sup>For I tell you I will not drink again from the fruit of the vine until the kingdom of God comes.” </p><p><sup class=\"versenum\">19 </sup>And he took bread, gave thanks and broke it, and gave it to them, saying, “This is my body given for you; do this in remembrance of me.” </p><p><sup class=\"versenum\">20 </sup>In the same way, after the supper he took the cup, saying, “This cup is the new covenant in my blood, which is poured out for you. </p><!-- end bible -->",
+        "url": "https://biblegateway.com/passage/?search=Luke%2022:14-20&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luke 22:14-20",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2622",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2622",
+        "startTime": "1:52",
+        "endTime": "3:17",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What stands out for you in this passage?",
+          "What do you like and what bothers you in this passage?",
+          "Why do you think this passage is important?",
+          "What are some possible ways a person could apply this passage? Is there: <ul><li>A behaviour to change?</li><li>A promise to claim?</li><li>An example to follow?</li><li>A command to obey?</li></ul>",
+          "Ask God what He wants you to do in response to the passage.",
+          "Share this with the group"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-18"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Additional Insights",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus modelled to His followers a way to remember His sacrificial death on the cross. [Take a piece of bread] The bread reminds us of His body that was broken for us. [Show them wine or juice] The drink reminds us that His blood was shed for us to open a new way to relate to God."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"nobreak\">\n      In {1 Corinthians 11:23-30},&nbsp;\n\n      \n      we see that as Paul started new churches, he taught all new believers how to obey Jesus’\n      command.&nbsp;\n    </li>",
+                "references": [
+                  {
+                    "id": "popup_pop5",
+                    "marker": "1 Corinthians 11:23-30",
+                    "label": "1 Corinthians 11:23-30",
+                    "passage": "<p>\n              <sup class=\"versenum\">23&nbsp;</sup>For I received from the Lord what I also passed on\n              to you: The Lord Jesus, on the night he was betrayed, took bread,<sup class=\"versenum\">24&nbsp;</sup>and when he had given thanks, he broke it and said, “This is my body, which is\n              for you; do this in remembrance of me.”<sup class=\"versenum\">25&nbsp;</sup>In\n              the same way, after supper he took the cup, saying, “This cup is the new\n              covenant in my blood; do this, whenever you drink it, in remembrance of me.”<sup class=\"versenum\">26&nbsp;</sup>For whenever you eat this bread and drink this cup, you proclaim the Lord’s\n              death until he comes.\n            </p>\n\n            <p>\n              <sup class=\"versenum\">27&nbsp;</sup>So then, whoever eats the bread or drinks the cup\n              of the Lord in an unworthy manner will be guilty of sinning against the body and blood\n              of the Lord.<sup class=\"versenum\">28&nbsp;</sup>Everyone ought to examine themselves\n              before they eat of the bread and drink from the cup.<sup class=\"versenum\">29&nbsp;</sup>For those who eat and drink without discerning the body of Christ eat and drink\n              judgment on themselves.<sup class=\"versenum\">30&nbsp;</sup>That is why many among you\n              are weak and sick, and a number of you have fallen asleep.\n            </p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparing for Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Practice the Lord’s supper. Use what local church leaders have given or use the suggested practice below."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"forward\">\n      Read {1 Corinthians 11:23-30}\n\n      \n    </li>\n    <li class=\"forward\">\n      Pause and give them time to confess their sins and talk to the Lord.&nbsp;\n    </li>\n    <li class=\"forward\">\n      Give the bread, tell them His body that was broken for us. Eat it together.&nbsp;\n    </li>\n    <li class=\"forward\">\n      Give the drink. Tell them His blood was shed for us so that we could experience a new way of\n      relating to God not based on our works but based on faith in what Jesus has done for us. Drink\n      it together.&nbsp;\n    </li>\n    <li class=\"forward\">Pray and thank the Lord for what He has done for us.&nbsp;</li>",
+                "references": [
+                  {
+                    "id": "popup_pop6",
+                    "marker": "1 Corinthians 11:23-30",
+                    "label": "1 Corinthians 11:23-30",
+                    "passage": "<p>\n              <sup class=\"versenum\">23&nbsp;</sup>For I received from the Lord what I also passed on\n              to you: The Lord Jesus, on the night he was betrayed, took bread,<sup class=\"versenum\">24&nbsp;</sup>and when he had given thanks, he broke it and said, “This is my body, which is\n              for you; do this in remembrance of me.”<sup class=\"versenum\">25&nbsp;</sup>In\n              the same way, after supper he took the cup, saying, “This cup is the new\n              covenant in my blood; do this, whenever you drink it, in remembrance of me.”<sup class=\"versenum\">26&nbsp;</sup>For whenever you eat this bread and drink this cup, you proclaim the Lord’s\n              death until he comes.\n            </p>\n\n            <p>\n              <sup class=\"versenum\">27&nbsp;</sup>So then, whoever eats the bread or drinks the cup\n              of the Lord in an unworthy manner will be guilty of sinning against the body and blood\n              of the Lord.<sup class=\"versenum\">28&nbsp;</sup>Everyone ought to examine themselves\n              before they eat of the bread and drink from the cup.<sup class=\"versenum\">29&nbsp;</sup>For those who eat and drink without discerning the body of Christ eat and drink\n              judgment on themselves.<sup class=\"versenum\">30&nbsp;</sup>That is why many among you\n              are weak and sick, and a number of you have fallen asleep.\n            </p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Look at your Daisy Chain again.",
+          "What is God revealing as your next steps this week with him and others?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply-multiply115-i-will"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Share this step with the group and ask someone to pray for you as you take this step in the power of the Holy Spirit.",
+          "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle."
+        ]
+      }
+    }
+  ]
+}

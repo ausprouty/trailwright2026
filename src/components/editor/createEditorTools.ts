@@ -76,6 +76,8 @@ export function createEditorTools(
       config: {
         placeholder: 'Group heading',
         tools: createNestedEditorTools(lang),
+        endpointPath: DEFAULT_BIBLE_ENDPOINT_PATH,
+        languageCodeGoogle: lang,
       },
     },
 
@@ -149,6 +151,8 @@ export function createEditorTools(
       class: TextAreaTool as unknown as ToolConstructable,
       config: {
         tools: createNestedEditorTools(lang),
+        endpointPath: DEFAULT_BIBLE_ENDPOINT_PATH,
+        languageCodeGoogle: lang,
       },
     },
     table: {

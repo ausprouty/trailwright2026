@@ -1,4 +1,4 @@
-// npx tsx scripts/migration/multiply1/migrate-multiply1-test.ts
+// npx tsx scripts/migration/multiply2/migrate-multiply2-test.ts
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
@@ -10,7 +10,7 @@ const PROJECT_ROOT = process.cwd();
 const SITE = 'myfriends' as const;
 const COUNTRY = 'US' as const;
 const LANGUAGE = 'eng' as const;
-const SERIES = 'multiply' as const;
+const SERIES = 'multiply2' as const;
 
 const SOURCE_DIR = path.join(PROJECT_ROOT, 'data', 'raw', SITE, COUNTRY, LANGUAGE, SERIES);
 

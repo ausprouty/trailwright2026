@@ -56,3 +56,7 @@ Start again with AU cmn done
 ## Day 9
 
 Passage Popups now work in <li>
+
+## Sept 17
+Finished:
+  Multiply eng

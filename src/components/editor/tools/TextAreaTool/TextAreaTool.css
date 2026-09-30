@@ -1,20 +1,109 @@
 .text-area-tool {
-  border: 1px solid #d9d9d9;
-  border-radius: 12px;
-  padding: 10px 12px;
-  background: #fff;
+  border: 1px solid #9a5f35;
+  border-radius: 8px;
+  background: #fffdf9;
+  overflow: hidden;
   transition:
     border-color 0.18s ease,
     box-shadow 0.18s ease;
 }
 
-.text-area-tool__editor-holder {
-  min-height: 36px;
-}
-
 .text-area-tool:focus-within {
   border-color: #bf6b30;
   box-shadow: 0 0 0 2px rgb(191 107 48 / 0.12);
+}
+
+.text-area-tool__body {
+  padding: 16px;
+}
+
+.text-area-tool__editor-frame {
+  border: 1px solid #d6dde5;
+  border-radius: 8px;
+  background: #ffffff;
+  padding: 16px;
+  min-height: 280px;
+}
+
+.text-area-tool__editor-holder {
+  min-height: 220px;
+}
+
+.text-area-tool__editor-holder .codex-editor {
+  min-height: 220px;
+}
+
+.text-area-tool__editor-holder .codex-editor__redactor {
+  padding-bottom: 80px !important;
+}
+
+.text-area-tool__references-holder {
+  margin-top: 16px;
+}
+
+.text-area-tool__bible-ref-panel {
+  margin-top: 12px;
+  padding: 14px;
+  border: 1px solid #d8b58d;
+  border-radius: 8px;
+  background: #fffaf5;
+}
+
+.text-area-tool__bible-ref-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text-area-tool__hide-button {
+  border: none;
+  background: transparent;
+  color: #6b4a33;
+  font-weight: 700;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.text-area-tool__bible-ref-status {
+  margin-top: 12px;
+  font-weight: 700;
+  color: #64748b;
+}
+
+.text-area-tool__load-bible-button {
+  margin-top: 10px;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 10px;
+  background: #b86f32;
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.text-area-tool__load-bible-button:hover {
+  background: #9f5728;
+}
+
+.text-area-tool__preview-label {
+  margin-top: 12px;
+  color: #64748b;
+}
+
+.text-area-tool__bible-preview {
+  margin-top: 8px;
+  padding: 12px;
+  border: 1px solid #d7dce2;
+  border-radius: 6px;
+  background: #ffffff;
+  color: #64748b;
+}
+
+.text-area-tool h2.ce-header,
+.text-area-tool h2.cdx-header {
+  font-size: 1.8rem;
+  line-height: 1.2;
+  margin: 0.45em 0;
 }
 
 .text-area-tool h3.ce-header,
@@ -33,4 +122,23 @@
   font-size: 1.2rem;
   line-height: 1.2;
   margin: 0.35em 0;
+}
+
+.text-area-tool .ce-block__content,
+.text-area-tool .ce-toolbar__content {
+  max-width: none;
+}
+
+.text-area-tool .ce-paragraph {
+  line-height: 1.55;
+}
+
+.text-area-tool .ce-toolbar__plus,
+.text-area-tool .ce-toolbar__settings-btn {
+  color: #8a5a37;
+}
+
+.text-area-tool .ce-toolbar__plus:hover,
+.text-area-tool .ce-toolbar__settings-btn:hover {
+  background: #f6ede5;
 }

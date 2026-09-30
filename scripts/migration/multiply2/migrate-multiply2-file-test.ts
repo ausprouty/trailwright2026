@@ -1,4 +1,4 @@
-// scripts/migration/multiply1/migrate-multiply1-file-test.ts
+//  npx tsx scripts/migration/multiply2/migrate-multiply2-file-test.ts
 //
 // Run:
 // npx tsx scripts/migration/multiply1/migrate-multiply1-file-test.ts multiply102.html

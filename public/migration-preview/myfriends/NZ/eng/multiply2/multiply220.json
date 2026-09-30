@@ -1,0 +1,382 @@
+{
+  "site": "myfriends",
+  "country": "NZ",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply220",
+  "sortOrder": 24,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Read a scripture and sing worship songs.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"nobreak\">(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. ({Philippians 2:11}b;&nbsp;\n\n\t\n\t&nbsp;{1 Timothy 2:4-6}a).&nbsp;\n\n\t\n\t</li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippians 2:11",
+                    "label": "Philippians 2:11",
+                    "passage": "<p><sup class=\"versenum\">11&nbsp;</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;to the glory of God the Father.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timothy 2:4-6",
+                    "label": "1 Timothy 2:4-6",
+                    "passage": "<p><sup class=\"versenum\">4&nbsp;</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup class=\"versenum\">5&nbsp;</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup class=\"versenum\">6&nbsp;</sup>who gave himself as a ransom for all people.&nbsp;</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Minister to one another’s needs in prayer, biblical counsel and encouragement. </em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
+          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Encourage loving accountability to obey Jesus</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Choose a way to cast vision for who they can become in Christ or what God can do through them by:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
+                  "reflecting on the changes in their life since they started following Christ",
+                  "reminding them of what God wants to do through them."
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Our vision is: <em> “A Jesus-centered community within reach of every person, everywhere!”</em>"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-4"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Context",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask the group to tell the story from last week."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read or watch Luke 5:1-11 two times as others listen."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luke 5:1-11",
+        "html": "<!-- begin bible --><h3>Jesus Calls His First Disciples</h3><p><sup class=\"versenum\">1 </sup>One day as Jesus was standing by the Lake of Gennesaret, the people were crowding around him and listening to the word of God.<sup class=\"versenum\">2 </sup>He saw at the water’s edge two boats, left there by the fishermen, who were washing their nets.<sup class=\"versenum\">3 </sup>He got into one of the boats, the one belonging to Simon, and asked him to put out a little from shore. Then he sat down and taught the people from the boat.</p><p><sup class=\"versenum\">4 </sup>When he had finished speaking, he said to Simon, “Put out into deep water, and let down the nets for a catch.”</p><p><sup class=\"versenum\">5 </sup>Simon answered, “Master, we’ve worked hard all night and haven’t caught anything. But because you say so, I will let down the nets.”</p><p><sup class=\"versenum\">6 </sup>When they had done so, they caught such a large number of fish that their nets began to break.<sup class=\"versenum\">7 </sup>So they signaled their partners in the other boat to come and help them, and they came and filled both boats so full that they began to sink.</p><p><sup class=\"versenum\">8 </sup>When Simon Peter saw this, he fell at Jesus’ knees and said, “Go away from me, Lord; I am a sinful man!”<sup class=\"versenum\">9 </sup>For he and all his companions were astonished at the catch of fish they had taken,<sup class=\"versenum\">10 </sup>and so were James and John, the sons of Zebedee, Simon’s partners.</p><p>Then Jesus said to Simon, “Don’t be afraid; from now on you will fish for people.”<sup class=\"versenum\">11 </sup>So they pulled their boats up on shore, left everything and followed him.</p><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%205:1-11&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luke 5:1-11",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2605",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2605",
+        "startTime": "0",
+        "endTime": "1:46",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What caught your attention or what did you like best? Why?",
+          "What is new or has developed at this point in Jesus story?",
+          "What do we learn about the humanity or divinity of Jesus from this passage?",
+          "How can we live differently now that we know this story?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Additional Questions:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What are his followers learning?",
+          "What is Jesus modeling to us about life and ministry or godly leadership?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-21"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Now Jesus is having an outreach in his team’s workplace, Peter’s own boat. He continues to provide on-the-job training to develop them as “fishers of men”. Jesus arrives early in the morning when people would have been coming to buy fresh fish from the night’s catch. Jesus takes advantage of the opportunity to conduct an open-air outreach event. He doesn’t try to assemble a big crowd, He just goes where the people are. He uses an already existing local event and turns it into an opportunity to do some of His own evangelism and training. It is interesting to see that Peter had returned to fishing. He was probably struggling with his commitment to follow Jesus in the mission. But Peter had a willing heart to obey Jesus. Jesus gave Peter another challenge. Peter accepts the challenge and leaves everything to follow Jesus full-time."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practice giving and communion here or in the Preparing for Mission section</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preparing for the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Practice needed skills or previous topics to help prepare to minister to others: <ul><li>Prayer, Care, Share</li><li>Gospel</li><li>Foundational Bible Studies.</li></ul>"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Identify people or places you will take the initiative to minister to this week.",
+          "Write “I will by when” statements and share with your small group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-31"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying For the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benediction (optional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply220-i-will"
+      }
+    }
+  ]
+}

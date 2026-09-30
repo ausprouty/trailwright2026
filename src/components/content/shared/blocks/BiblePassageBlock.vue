@@ -53,12 +53,7 @@ function toggleOpen(): void {
       <div v-if="localizedHtml" class="bible-passage-block__passage" v-html="localizedHtml" />
 
       <div v-if="data.url" class="bible-passage-block__read-more-wrap">
-        <a
-          :href="data.url"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="bible-passage-block__read-more"
-        >
+        <a :href="data.url" target="_blank" rel="noopener noreferrer" class="bible-passage-block__read-more">
           Read More
         </a>
       </div>
@@ -118,6 +113,12 @@ function toggleOpen(): void {
 
 .bible-passage-block__read-more-wrap {
   margin-top: 16px;
+}
+
+.bible-passage-block__passage :deep(h3) {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0.75rem 0 0.4rem;
 }
 
 .bible-passage-block__read-more {

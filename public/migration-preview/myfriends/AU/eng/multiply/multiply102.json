@@ -7,7 +7,7 @@
   "numberSystem": "latn",
   "series": "multiply",
   "lessonId": "multiply102",
-  "sortOrder": 2,
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "paragraph",
@@ -339,9 +339,10 @@
       }
     },
     {
-      "type": "iWill",
+      "type": "notesArea",
       "data": {
-        "storageKey": "multiply-multiply102-i-will"
+        "notes": "",
+        "storageKey": "note-29"
       }
     },
     {
@@ -352,6 +353,12 @@
           "Share this step with the group and ask someone to pray for you as you take this step in the power of the Holy Spirit.",
           "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle."
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply-multiply102-i-will"
       }
     }
   ]

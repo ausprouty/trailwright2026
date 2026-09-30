@@ -162,4 +162,10 @@ function handleTextClick(event: MouseEvent): void {
   font-size: 0.75em;
   font-weight: 700;
 }
+
+.bible-reference-block__passage-text :deep(h3) {
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 0.75rem 0 0.4rem;
+}
 </style>

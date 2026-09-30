@@ -1,0 +1,397 @@
+{
+  "site": "myfriends",
+  "country": "NZ",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply233",
+  "sortOrder": 38,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Read a scripture and sing worship songs.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"nobreak\">(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. ({Philippians 2:11}b;&nbsp;\n\n\t\n\t&nbsp;{1 Timothy 2:4-6}a).&nbsp;\n\n\t\n\t</li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippians 2:11",
+                    "label": "Philippians 2:11",
+                    "passage": "<p><sup class=\"versenum\">11&nbsp;</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;to the glory of God the Father.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timothy 2:4-6",
+                    "label": "1 Timothy 2:4-6",
+                    "passage": "<p><sup class=\"versenum\">4&nbsp;</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup class=\"versenum\">5&nbsp;</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup class=\"versenum\">6&nbsp;</sup>who gave himself as a ransom for all people.&nbsp;</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Minister to one another’s needs in prayer, biblical counsel and encouragement. </em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
+          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Encourage loving accountability to obey Jesus</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Choose a way to cast vision for who they can become in Christ or what God can do through them by:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
+                  "reflecting on the changes in their life since they started following Christ",
+                  "reminding them of what God wants to do through them."
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Our vision is: <em> “A Jesus-centered community within reach of every person, everywhere!”</em>"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-4"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Context",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask the group to tell the story from last week."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read or watch Mark 5:1-20 two times as others listen."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Mark 5:1-20",
+        "html": "<!-- begin bible --><h3>Jesus Restores a Demon-Possessed Man</h3><p><sup class=\"versenum\">1 </sup>They went across the lake to the region of the Gerasenes.<sup class=\"versenum\">2 </sup>When Jesus got out of the boat, a man with an impure spirit came from the tombs to meet him.<sup class=\"versenum\">3 </sup>This man lived in the tombs, and no one could bind him anymore, not even with a chain.<sup class=\"versenum\">4 </sup>For he had often been chained hand and foot, but he tore the chains apart and broke the irons on his feet. No one was strong enough to subdue him.<sup class=\"versenum\">5 </sup>Night and day among the tombs and in the hills he would cry out and cut himself with stones.</p><p><sup class=\"versenum\">6 </sup>When he saw Jesus from a distance, he ran and fell on his knees in front of him.<sup class=\"versenum\">7 </sup>He shouted at the top of his voice, “What do you want with me, Jesus, Son of the Most High God? In God’s name don’t torture me!”<sup class=\"versenum\">8 </sup>For Jesus had said to him, “Come out of this man, you impure spirit!”</p><p><sup class=\"versenum\">9 </sup>Then Jesus asked him, “What is your name?”</p><p>“My name is Legion,” he replied, “for we are many.”<sup class=\"versenum\">10 </sup>And he begged Jesus again and again not to send them out of the area.</p><p><sup class=\"versenum\">11 </sup>A large herd of pigs was feeding on the nearby hillside.<sup class=\"versenum\">12 </sup>The demons begged Jesus, “Send us among the pigs; allow us to go into them.”<sup class=\"versenum\">13 </sup>He gave them permission, and the impure spirits came out and went into the pigs. The herd, about two thousand in number, rushed down the steep bank into the lake and were drowned.</p><p><sup class=\"versenum\">14 </sup>Those tending the pigs ran off and reported this in the town and countryside, and the people went out to see what had happened.<sup class=\"versenum\">15 </sup>When they came to Jesus, they saw the man who had been possessed by the legion of demons, sitting there, dressed and in his right mind; and they were afraid.<sup class=\"versenum\">16 </sup>Those who had seen it told the people what had happened to the demon-possessed man—and told about the pigs as well.<sup class=\"versenum\">17 </sup>Then the people began to plead with Jesus to leave their region.</p><p><sup class=\"versenum\">18 </sup>As Jesus was getting into the boat, the man who had been demon-possessed begged to go with him.<sup class=\"versenum\">19 </sup>Jesus did not let him, but said, “Go home to your own people and tell them how much the Lord has done for you, and how he has had mercy on you.”<sup class=\"versenum\">20 </sup>So the man went away and began to tell in the Decapolis how much Jesus had done for him. And all the people were amazed.</p><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Mark%205:1-20&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Mark 5:1-20",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMark1504",
+        "source": "arclight",
+        "refId": "6_529-GOMark1504",
+        "startTime": "0:01",
+        "endTime": "3:00",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What caught your attention or what did you like best? Why?",
+          "What is new or has developed at this point in Jesus story?",
+          "What do we learn about the humanity or divinity of Jesus from this passage?",
+          "How can we live differently now that we know this story?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Additional Questions:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What are his followers learning?",
+          "What is Jesus modeling to us about life and ministry or godly leadership?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-21"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus takes his leaders in training out of their comfort zone into the Gentile region of Decapolis, across the other side of the Lake. This was another country. This particular area is known for spiritual darkness because of a wild and violent demon-possessed man who terrorized the area. He lived in exile on the fringe of society among the tombs. On this “foreign mission trip” Jesus models to his leadership team His heart for all people, His mission to the whole world, and the reality that no one is beyond Jesus’ power to save. This demon-possessed man seems to be the main reason the Father led Jesus to make this trip. Not only is the man transformed, but he becomes a most unlikely person of peace sent to testify of Jesus to his family and friends. Jesus transforms the life of one person who in turn becomes the insider to share the Gospel into a whole new population."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<span class=\"for-enrichment\">For Further Study {Luke 8:26-39} </span>",
+        "references": [
+          {
+            "id": "popup_pop3",
+            "marker": "Luke 8:26-39",
+            "label": "Luke 8:26-39",
+            "passage": "<p><sup class=\"versenum\">26&nbsp;</sup>They sailed to the region of the Gerasenes, which is across the lake from Galilee.<sup class=\"versenum\">27&nbsp;</sup>When Jesus stepped ashore, he was met by a demon-possessed man from the town. For a long time this man had not worn clothes or lived in a house, but had lived in the tombs.<sup class=\"versenum\">28&nbsp;</sup>When he saw Jesus, he cried out and fell at his feet, shouting at the top of his voice, “What do you want with me, Jesus, Son of the Most High God? I beg you, don’t torture me!”<sup class=\"versenum\">29&nbsp;</sup>For Jesus had commanded the impure spirit to come out of the man. Many times it had seized him, and though he was chained hand and foot and kept under guard, he had broken his chains and had been driven by the demon into solitary places.</p>\n\n<p><sup class=\"versenum\">30&nbsp;</sup>Jesus asked him, “What is your name?”</p>\n\n<p>“Legion,” he replied, because many demons had gone into him.<sup class=\"versenum\">31&nbsp;</sup>And they begged Jesus repeatedly not to order them to go into the Abyss.</p>\n\n<p><sup class=\"versenum\">32&nbsp;</sup>A large herd of pigs was feeding there on the hillside. The demons begged Jesus to let them go into the pigs, and he gave them permission.<sup class=\"versenum\">33&nbsp;</sup>When the demons came out of the man, they went into the pigs, and the herd rushed down the steep bank into the lake and was drowned.</p>\n\n<p><sup class=\"versenum\">34&nbsp;</sup>When those tending the pigs saw what had happened, they ran off and reported this in the town and countryside,<sup class=\"versenum\">35&nbsp;</sup>and the people went out to see what had happened. When they came to Jesus, they found the man from whom the demons had gone out, sitting at Jesus’ feet, dressed and in his right mind; and they were afraid.<sup class=\"versenum\">36&nbsp;</sup>Those who had seen it told the people how the demon-possessed man had been cured.<sup class=\"versenum\">37&nbsp;</sup>Then all the people of the region of the Gerasenes asked Jesus to leave them, because they were overcome with fear. So he got into the boat and left.</p>\n\n<p><sup class=\"versenum\">38&nbsp;</sup>The man from whom the demons had gone out begged to go with him, but Jesus sent him away, saying,<sup class=\"versenum\">39&nbsp;</sup>“Return home and tell how much God has done for you.” So the man went away and told all over town how much Jesus had done for him.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practice giving and communion here or in the Preparing for Mission section</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preparing for the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Practice needed skills or previous topics to help prepare to minister to others: <ul><li>Prayer, Care, Share</li><li>Gospel</li><li>Foundational Bible Studies.</li></ul>"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Identify people or places you will take the initiative to minister to this week.",
+          "Write “I will by when” statements and share with your small group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-32"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying For the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benediction (optional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply233-i-will"
+      }
+    }
+  ]
+}

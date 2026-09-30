@@ -575,6 +575,7 @@ function getSectionIconKey($el: cheerio.Cheerio<AnyNode>): string | undefined {
   const imageSrc = ($el.find('img.lesson-icon').first().attr('src') || '').toLowerCase();
 
   if (
+    imageSrc.includes('look-back') ||
     imageSrc.includes('arrowleft') ||
     imageSrc.includes('arrow-left') ||
     imageSrc.includes('arrow_left')
@@ -583,6 +584,7 @@ function getSectionIconKey($el: cheerio.Cheerio<AnyNode>): string | undefined {
   }
 
   if (
+    imageSrc.includes('look-forward') ||
     imageSrc.includes('arrowright') ||
     imageSrc.includes('arrow-right') ||
     imageSrc.includes('arrow_right')
@@ -591,6 +593,7 @@ function getSectionIconKey($el: cheerio.Cheerio<AnyNode>): string | undefined {
   }
 
   if (
+    imageSrc.includes('look-up') ||
     imageSrc.includes('arrowup') ||
     imageSrc.includes('arrow-up') ||
     imageSrc.includes('arrow_up')

@@ -1,0 +1,422 @@
+{
+  "site": "myfriends",
+  "country": "NZ",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply248",
+  "sortOrder": 53,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Read a scripture and sing worship songs.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"nobreak\">(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. ({Philippians 2:11}b;&nbsp;\n\n\t\n\t&nbsp;{1 Timothy 2:4-6}a).&nbsp;\n\n\t\n\t</li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippians 2:11",
+                    "label": "Philippians 2:11",
+                    "passage": "<p><sup class=\"versenum\">11&nbsp;</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;to the glory of God the Father.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timothy 2:4-6",
+                    "label": "1 Timothy 2:4-6",
+                    "passage": "<p><sup class=\"versenum\">4&nbsp;</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup class=\"versenum\">5&nbsp;</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup class=\"versenum\">6&nbsp;</sup>who gave himself as a ransom for all people.&nbsp;</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Minister to one another’s needs in prayer, biblical counsel and encouragement. </em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
+          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Encourage loving accountability to obey Jesus</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Choose a way to cast vision for who they can become in Christ or what God can do through them by:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
+                  "reflecting on the changes in their life since they started following Christ",
+                  "reminding them of what God wants to do through them."
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Our vision is: <em> “A Jesus-centered community within reach of every person, everywhere!”</em>"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-4"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Context",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask the group to tell the story from last week."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Read or watch John 14:1-31 and Matthew 26:36-46 two times as others listen."
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "John 14",
+        "html": "<!-- begin bible --><h3>Jesus Comforts His Disciples</h3><p><sup class=\"versenum\">1 </sup>“Do not let your hearts be troubled. You believe in God; believe also in me.<sup class=\"versenum\">2 </sup>My Father’s house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you?<sup class=\"versenum\">3 </sup>And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am.<sup class=\"versenum\">4 </sup>You know the way to the place where I am going.”</p><h3>Jesus the Way to the Father</h3><p><sup class=\"versenum\">5 </sup>Thomas said to him, “Lord, we don’t know where you are going, so how can we know the way?”</p><p><sup class=\"versenum\">6 </sup>Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.<sup class=\"versenum\">7 </sup>If you really know me, you will know my Father as well. From now on, you do know him and have seen him.”</p><p><sup class=\"versenum\">8 </sup>Philip said, “Lord, show us the Father and that will be enough for us.”</p><p><sup class=\"versenum\">9 </sup>Jesus answered: “Don’t you know me, Philip, even after I have been among you such a long time? Anyone who has seen me has seen the Father. How can you say, ‘Show us the Father’?<sup class=\"versenum\">10 </sup>Don’t you believe that I am in the Father, and that the Father is in me? The words I say to you I do not speak on my own authority. Rather, it is the Father, living in me, who is doing his work.<sup class=\"versenum\">11 </sup>Believe me when I say that I am in the Father and the Father is in me; or at least believe on the evidence of the works themselves.<sup class=\"versenum\">12 </sup>Very truly I tell you, whoever believes in me will do the works I have been doing, and they will do even greater things than these, because I am going to the Father.<sup class=\"versenum\">13 </sup>And I will do whatever you ask in my name, so that the Father may be glorified in the Son.<sup class=\"versenum\">14 </sup>You may ask me for anything in my name, and I will do it.</p><h3>Jesus Promises the Holy Spirit</h3><p><sup class=\"versenum\">15 </sup>“If you love me, keep my commands.<sup class=\"versenum\">16 </sup>And I will ask the Father, and he will give you another advocate to help you and be with you forever—<sup class=\"versenum\">17 </sup>the Spirit of truth. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you.<sup class=\"versenum\">18 </sup>I will not leave you as orphans; I will come to you.<sup class=\"versenum\">19 </sup>Before long, the world will not see me anymore, but you will see me. Because I live, you also will live.<sup class=\"versenum\">20 </sup>On that day you will realize that I am in my Father, and you are in me, and I am in you.<sup class=\"versenum\">21 </sup>Whoever has my commands and keeps them is the one who loves me. The one who loves me will be loved by my Father, and I too will love them and show myself to them.”</p><p><sup class=\"versenum\">22 </sup>Then Judas (not Judas Iscariot) said, “But, Lord, why do you intend to show yourself to us and not to the world?”</p><p><sup class=\"versenum\">23 </sup>Jesus replied, “Anyone who loves me will obey my teaching. My Father will love them, and we will come to them and make our home with them.<sup class=\"versenum\">24 </sup>Anyone who does not love me will not obey my teaching. These words you hear are not my own; they belong to the Father who sent me.</p><p><sup class=\"versenum\">25 </sup>“All this I have spoken while still with you.<sup class=\"versenum\">26 </sup>But the Advocate, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you.<sup class=\"versenum\">27 </sup>Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.</p><p><sup class=\"versenum\">28 </sup>“You heard me say, ‘I am going away and I am coming back to you.’ If you loved me, you would be glad that I am going to the Father, for the Father is greater than I.<sup class=\"versenum\">29 </sup>I have told you now before it happens, so that when it does happen you will believe.<sup class=\"versenum\">30 </sup>I will not say much more to you, for the prince of this world is coming. He has no hold over me,<sup class=\"versenum\">31 </sup>but he comes so that the world may learn that I love the Father and do exactly what my Father has commanded me.</p><p>“Come now; let us leave.</p><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=John%2014:1-31&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "John 14",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2215",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2215",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthew 26:36-46",
+        "html": "<!-- begin bible --><h3>Gethsemane</h3><p><sup class=\"versenum\">36 </sup>Then Jesus went with his disciples to a place called Gethsemane, and he said to them, “Sit here while I go over there and pray.”<sup class=\"versenum\">37 </sup>He took Peter and the two sons of Zebedee along with him, and he began to be sorrowful and troubled.<sup class=\"versenum\">38 </sup>Then he said to them, “My soul is overwhelmed with sorrow to the point of death. Stay here and keep watch with me.”</p><p><sup class=\"versenum\">39 </sup>Going a little farther, he fell with his face to the ground and prayed, “My Father, if it is possible, may this cup be taken from me. Yet not as I will, but as you will.”</p><p><sup class=\"versenum\">40 </sup>Then he returned to his disciples and found them sleeping. “Couldn’t you men keep watch with me for one hour?” he asked Peter.<sup class=\"versenum\">41 </sup>“Watch and pray so that you will not fall into temptation. The spirit is willing, but the flesh is weak.”</p><p><sup class=\"versenum\">42 </sup>He went away a second time and prayed, “My Father, if it is not possible for this cup to be taken away unless I drink it, may your will be done.”</p><p><sup class=\"versenum\">43 </sup>When he came back, he again found them sleeping, because their eyes were heavy.<sup class=\"versenum\">44 </sup>So he left them and went away once more and prayed the third time, saying the same thing.</p><p><sup class=\"versenum\">45 </sup>Then he returned to the disciples and said to them, “Are you still sleeping and resting? Look, the hour has come, and the Son of Man is delivered into the hands of sinners.<sup class=\"versenum\">46 </sup>Rise! Let us go! Here comes my betrayer!”</p><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%2026:36-46&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Matthew 26:36-46",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMatt2522",
+        "source": "arclight",
+        "refId": "6_529-GOMatt2522",
+        "startTime": "start",
+        "endTime": "1:55",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What caught your attention or what did you like best? Why?",
+          "What is new or has developed at this point in Jesus story?",
+          "What do we learn about the humanity or divinity of Jesus from this passage?",
+          "How can we live differently now that we know this story?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Additional Questions:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What are his followers learning?",
+          "What is Jesus modeling to us about life and ministry or godly leadership?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-23"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus has spent the last couple of years teaching people about living in the Kingdom of God and what the Kingdom of God is like. During this last evening together, Jesus gives additional teaching about His departure and the gift of the Spirit that will be given to help His followers live out the ways of the Kingdom. His followers are confused about what is about to happen in the hours ahead, but Jesus clarifies that He is God in the flesh. Jesus is our perfect model for life and ministry. We understand God because He is revealed through the life of Jesus. Jesus did His works through the Father, and we will do the same work of disciple-making as Jesus did by the power of His Spirit. Jesus also models leadership that submits to the Father and does His will through His power. He is reminding them of the foundations of Holy Spirit dependence: prayer; obedience to the Father’s Kingdom agenda; the priority of the Word of God, including Jesus’ own words; exalting the Father; and intentional relationships of love and sacrifice."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"nobreak\"><span class=\"for-enrichment\">For Further Study: {Luke 22:39-46};&nbsp;</span>\n\n\t\n\t<span class=\"for-enrichment\">{Mark 14:32-42}.&nbsp;</span>\n\n\t\n\t</li>",
+        "references": [
+          {
+            "id": "popup_pop3",
+            "marker": "Luke 22:39-46",
+            "label": "Luke 22:39-46",
+            "passage": "<span class=\"for-enrichment\"><!-- begin bible --></span>\n\n\t<div>\n\t<div>\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">39&nbsp;</sup>Jesus went out as usual to the Mount of Olives, and his disciples followed him.<sup class=\"versenum\">40&nbsp;</sup>On reaching the place, he said to them, “Pray that you will not fall into temptation.”<sup class=\"versenum\">41&nbsp;</sup>He withdrew about a stone’s throw beyond them, knelt down and prayed,<sup class=\"versenum\">42&nbsp;</sup>“Father, if you are willing, take this cup from me; yet not my will, but yours be done.”<sup class=\"versenum\">43&nbsp;</sup>An angel from heaven appeared to him and strengthened him.<sup class=\"versenum\">44&nbsp;</sup>And being in anguish, he prayed more earnestly, and his sweat was like drops of blood falling to the ground.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">45&nbsp;</sup>When he rose from prayer and went back to the disciples, he found them asleep, exhausted from sorrow.<sup class=\"versenum\">46&nbsp;</sup>“Why are you sleeping?” he asked them. “Get up and pray so that you will not fall into temptation.”</span></p>\n\t</div>\n\t</div>\n\t<span class=\"for-enrichment\"> <!-- end bible --> </span>"
+          },
+          {
+            "id": "popup_pop4",
+            "marker": "Mark 14:32-42",
+            "label": "Mark 14:32-42",
+            "passage": "<span class=\"for-enrichment\"><!-- begin bible --></span>\n\n\t<div>\n\t<div>\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">32&nbsp;</sup>They went to a place called Gethsemane, and Jesus said to his disciples, “Sit here while I pray.”<sup class=\"versenum\">33&nbsp;</sup>He took Peter, James and John along with him, and he began to be deeply distressed and troubled.<sup class=\"versenum\">34&nbsp;</sup>“My soul is overwhelmed with sorrow to the point of death,” he said to them. “Stay here and keep watch.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">35&nbsp;</sup>Going a little farther, he fell to the ground and prayed that if possible the hour might pass from him.<sup class=\"versenum\">36&nbsp;</sup><em>“Abba</em>, Father,” he said, “everything is possible for you. Take this cup from me. Yet not what I will, but what you will.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">37&nbsp;</sup>Then he returned to his disciples and found them sleeping. “Simon,” he said to Peter, “are you asleep? Couldn’t you keep watch for one hour?<sup class=\"versenum\">38&nbsp;</sup>Watch and pray so that you will not fall into temptation. The spirit is willing, but the flesh is weak.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">39&nbsp;</sup>Once more he went away and prayed the same thing.<sup class=\"versenum\">40&nbsp;</sup>When he came back, he again found them sleeping, because their eyes were heavy. They did not know what to say to him.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">41&nbsp;</sup>Returning the third time, he said to them, “Are you still sleeping and resting? Enough! The hour has come. Look, the Son of Man is delivered into the hands of sinners.<sup class=\"versenum\">42&nbsp;</sup>Rise! Let us go! Here comes my betrayer!”</span></p>\n\t</div>\n\t</div>\n\t<span class=\"for-enrichment\"> <!-- end bible --> </span>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practice giving and communion here or in the Preparing for Mission section</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preparing for the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Practice needed skills or previous topics to help prepare to minister to others: <ul><li>Prayer, Care, Share</li><li>Gospel</li><li>Foundational Bible Studies.</li></ul>"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Identify people or places you will take the initiative to minister to this week.",
+          "Write “I will by when” statements and share with your small group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-34"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying For the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benediction (optional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply248-i-will"
+      }
+    }
+  ]
+}

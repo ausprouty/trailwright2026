@@ -1,0 +1,409 @@
+{
+  "site": "myfriends",
+  "country": "NZ",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply247",
+  "sortOrder": 52,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Read a scripture and sing worship songs.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"nobreak\">(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. ({Philippians 2:11}b;&nbsp;\n\n\t\n\t&nbsp;{1 Timothy 2:4-6}a).&nbsp;\n\n\t\n\t</li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippians 2:11",
+                    "label": "Philippians 2:11",
+                    "passage": "<p><sup class=\"versenum\">11&nbsp;</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;to the glory of God the Father.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timothy 2:4-6",
+                    "label": "1 Timothy 2:4-6",
+                    "passage": "<p><sup class=\"versenum\">4&nbsp;</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup class=\"versenum\">5&nbsp;</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup class=\"versenum\">6&nbsp;</sup>who gave himself as a ransom for all people.&nbsp;</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Minister to one another’s needs in prayer, biblical counsel and encouragement. </em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
+          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Encourage loving accountability to obey Jesus</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Choose a way to cast vision for who they can become in Christ or what God can do through them by:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
+                  "reflecting on the changes in their life since they started following Christ",
+                  "reminding them of what God wants to do through them."
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Our vision is: <em> “A Jesus-centered community within reach of every person, everywhere!”</em>"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-4"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Context",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask the group to tell the story from last week."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read or watch John 13:1-38 two times as others listen."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "John 13",
+        "html": "<!-- begin bible --><h3>Jesus Washes His Disciples’ Feet</h3><p><sup class=\"versenum\">1 </sup>It was just before the Passover Festival. Jesus knew that the hour had come for him to leave this world and go to the Father. Having loved his own who were in the world, he loved them to the end.</p><p><sup class=\"versenum\">2 </sup>The evening meal was in progress, and the devil had already prompted Judas, the son of Simon Iscariot, to betray Jesus.<sup class=\"versenum\">3 </sup>Jesus knew that the Father had put all things under his power, and that he had come from God and was returning to God;<sup class=\"versenum\">4 </sup>so he got up from the meal, took off his outer clothing, and wrapped a towel around his waist.<sup class=\"versenum\">5 </sup>After that, he poured water into a basin and began to wash his disciples’ feet, drying them with the towel that was wrapped around him.</p><p><sup class=\"versenum\">6 </sup>He came to Simon Peter, who said to him, “Lord, are you going to wash my feet?”</p><p><sup class=\"versenum\">7 </sup>Jesus replied, “You do not realize now what I am doing, but later you will understand.”</p><p><sup class=\"versenum\">8 </sup>“No,” said Peter, “you shall never wash my feet.”</p><p>Jesus answered, “Unless I wash you, you have no part with me.”</p><p><sup class=\"versenum\">9 </sup>“Then, Lord,” Simon Peter replied, “not just my feet but my hands and my head as well!”</p><p><sup class=\"versenum\">10 </sup>Jesus answered, “Those who have had a bath need only to wash their feet; their whole body is clean. And you are clean, though not every one of you.”<sup class=\"versenum\">11 </sup>For he knew who was going to betray him, and that was why he said not every one was clean.</p><p><sup class=\"versenum\">12 </sup>When he had finished washing their feet, he put on his clothes and returned to his place. “Do you understand what I have done for you?” he asked them.<sup class=\"versenum\">13 </sup>“You call me ‘Teacher’ and ‘Lord,’ and rightly so, for that is what I am.<sup class=\"versenum\">14 </sup>Now that I, your Lord and Teacher, have washed your feet, you also should wash one another’s feet.<sup class=\"versenum\">15 </sup>I have set you an example that you should do as I have done for you.<sup class=\"versenum\">16 </sup>Very truly I tell you, no servant is greater than his master, nor is a messenger greater than the one who sent him.<sup class=\"versenum\">17 </sup>Now that you know these things, you will be blessed if you do them.</p><h3>Jesus Predicts His Betrayal</h3><p><sup class=\"versenum\">18 </sup>“I am not referring to all of you; I know those I have chosen. But this is to fulfill this passage of Scripture: ‘He who shared my bread has turned against me.’</p><p><sup class=\"versenum\">19 </sup>“I am telling you now before it happens, so that when it does happen you will believe that I am who I am.<sup class=\"versenum\">20 </sup>Very truly I tell you, whoever accepts anyone I send accepts me; and whoever accepts me accepts the one who sent me.”</p><p><sup class=\"versenum\">21 </sup>After he had said this, Jesus was troubled in spirit and testified, “Very truly I tell you, one of you is going to betray me.”</p><p><sup class=\"versenum\">22 </sup>His disciples stared at one another, at a loss to know which of them he meant.<sup class=\"versenum\">23 </sup>One of them, the disciple whom Jesus loved, was reclining next to him.<sup class=\"versenum\">24 </sup>Simon Peter motioned to this disciple and said, “Ask him which one he means.”</p><p><sup class=\"versenum\">25 </sup>Leaning back against Jesus, he asked him, “Lord, who is it?”</p><p><sup class=\"versenum\">26 </sup>Jesus answered, “It is the one to whom I will give this piece of bread when I have dipped it in the dish.” Then, dipping the piece of bread, he gave it to Judas, the son of Simon Iscariot.<sup class=\"versenum\">27 </sup>As soon as Judas took the bread, Satan entered into him.</p><p>So Jesus told him, “What you are about to do, do quickly.”<sup class=\"versenum\">28 </sup>But no one at the meal understood why Jesus said this to him.<sup class=\"versenum\">29 </sup>Since Judas had charge of the money, some thought Jesus was telling him to buy what was needed for the festival, or to give something to the poor.<sup class=\"versenum\">30 </sup>As soon as Judas had taken the bread, he went out. And it was night.</p><h3>Jesus Predicts Peter’s Denial</h3><p><sup class=\"versenum\">31 </sup>When he was gone, Jesus said, “Now the Son of Man is glorified and God is glorified in him.<sup class=\"versenum\">32 </sup>If God is glorified in him, God will glorify the Son in himself, and will glorify him at once.</p><p><sup class=\"versenum\">33 </sup>“My children, I will be with you only a little longer. You will look for me, and just as I told the Jews, so I tell you now: Where I am going, you cannot come.</p><p><sup class=\"versenum\">34 </sup>“A new command I give you: Love one another. As I have loved you, so you must love one another.<sup class=\"versenum\">35 </sup>By this everyone will know that you are my disciples, if you love one another.”</p><p><sup class=\"versenum\">36 </sup>Simon Peter asked him, “Lord, where are you going?”</p><p>Jesus replied, “Where I am going, you cannot follow now, but you will follow later.”</p><p><sup class=\"versenum\">37 </sup>Peter asked, “Lord, why can’t I follow you now? I will lay down my life for you.”</p><p><sup class=\"versenum\">38 </sup>Then Jesus answered, “Will you really lay down your life for me? Very truly I tell you, before the rooster crows, you will disown me three times!</p><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=John%2013:1-38&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "John 13:1-38",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2214",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2214",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What caught your attention or what did you like best? Why?",
+          "What is new or has developed at this point in Jesus story?",
+          "What do we learn about the humanity or divinity of Jesus from this passage?",
+          "How can we live differently now that we know this story?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Additional Questions:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What are his followers learning?",
+          "What is Jesus modeling to us about life and ministry or godly leadership?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-21"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus spends the final week of His life teaching at the temple during the day and praying on the Mount of Olives in the evening. On the last night with His disciples, He teaches a lot about leadership. He “shows the full extent of His love.” Jesus surprises His disciples by taking the role of a household servant, washing the feet of all twelve. None of them had done that! Jesus told them that they should follow His example to be humble, serving one another by doing whatever is needed. In most cultures, servant leadership is seen as being weak, but this is how leadership works in God’s Kingdom. As Jesus was sharing the last supper with his closest core team of twelve, He was grieved knowing that one of them would betray Him. Judas had become disillusioned with Jesus’ leadership and had already struck a deal to help the religious leaders arrest Jesus in a quiet place away from the crowds. Judas opened himself up to be manipulated by Satan. In the midst of betrayal and grief, Jesus commands the disciples that they must love one another."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"nobreak\"><span class=\"for-enrichment\">For Further Study: {Luke 22:7-38};&nbsp;</span>\n\n\t\n\t<span class=\"for-enrichment\">&nbsp;{Matthew 26:17-29};&nbsp;</span>\n\n\t\n\t<span class=\"for-enrichment\">&nbsp;{Mark 14:12-25}.</span>\n\n\t\n\t</li>",
+        "references": [
+          {
+            "id": "popup_pop3",
+            "marker": "Luke 22:7-38",
+            "label": "Luke 22:7-38",
+            "passage": "<span class=\"for-enrichment\"><!-- begin bible --></span>\n\n\t<div>\n\t<div>\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">7&nbsp;</sup>Then came the day of Unleavened Bread on which the Passover lamb had to be sacrificed.<sup class=\"versenum\">8&nbsp;</sup>Jesus sent Peter and John, saying, “Go and make preparations for us to eat the Passover.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">9&nbsp;</sup>“Where do you want us to prepare for it?” they asked.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">10&nbsp;</sup>He replied, “As you enter the city, a man carrying a jar of water will meet you. Follow him to the house that he enters,<sup class=\"versenum\">11&nbsp;</sup>and say to the owner of the house, ‘The Teacher asks: Where is the guest room, where I may eat the Passover with my disciples?’<sup class=\"versenum\">12&nbsp;</sup>He will show you a large room upstairs, all furnished. Make preparations there.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">13&nbsp;</sup>They left and found things just as Jesus had told them. So they prepared the Passover.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">14&nbsp;</sup>When the hour came, Jesus and his apostles reclined at the table.<sup class=\"versenum\">15&nbsp;</sup>And he said to them, “I have eagerly desired to eat this Passover with you before I suffer.<sup class=\"versenum\">16&nbsp;</sup>For I tell you, I will not eat it again until it finds fulfillment in the kingdom of God.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">17&nbsp;</sup>After taking the cup, he gave thanks and said, “Take this and divide it among you.<sup class=\"versenum\">18&nbsp;</sup>For I tell you I will not drink again from the fruit of the vine until the kingdom of God comes.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">19&nbsp;</sup>And he took bread, gave thanks and broke it, and gave it to them, saying, “This is my body given for you; do this in remembrance of me.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">20&nbsp;</sup>In the same way, after the supper he took the cup, saying, “This cup is the new covenant in my blood, which is poured out for you.<sup class=\"versenum\">21&nbsp;</sup>But the hand of him who is going to betray me is with mine on the table.<sup class=\"versenum\">22&nbsp;</sup>The Son of Man will go as it has been decreed. But woe to that man who betrays him!”<sup class=\"versenum\">23&nbsp;</sup>They began to question among themselves which of them it might be who would do this.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">24&nbsp;</sup>A dispute also arose among them as to which of them was considered to be greatest.<sup class=\"versenum\">25&nbsp;</sup>Jesus said to them, “The kings of the Gentiles lord it over them; and those who exercise authority over them call themselves Benefactors.<sup class=\"versenum\">26&nbsp;</sup>But you are not to be like that. Instead, the greatest among you should be like the youngest, and the one who rules like the one who serves.<sup class=\"versenum\">27&nbsp;</sup>For who is greater, the one who is at the table or the one who serves? Is it not the one who is at the table? But I am among you as one who serves.<sup class=\"versenum\">28&nbsp;</sup>You are those who have stood by me in my trials.<sup class=\"versenum\">29&nbsp;</sup>And I confer on you a kingdom, just as my Father conferred one on me,<sup class=\"versenum\">30&nbsp;</sup>so that you may eat and drink at my table in my kingdom and sit on thrones, judging the twelve tribes of Israel.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">31&nbsp;</sup>“Simon, Simon, Satan has asked to sift all of you as wheat.<sup class=\"versenum\">32&nbsp;</sup>But I have prayed for you, Simon, that your faith may not fail. And when you have turned back, strengthen your brothers.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">33&nbsp;</sup>But he replied, “Lord, I am ready to go with you to prison and to death.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">34&nbsp;</sup>Jesus answered, “I tell you, Peter, before the rooster crows today, you will deny three times that you know me.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">35&nbsp;</sup>Then Jesus asked them, “When I sent you without purse, bag or sandals, did you lack anything?”</span></p>\n\n\t<p><span class=\"for-enrichment\">“Nothing,” they answered.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">36&nbsp;</sup>He said to them, “But now if you have a purse, take it, and also a bag; and if you don’t have a sword, sell your cloak and buy one.<sup class=\"versenum\">37&nbsp;</sup>It is written: ‘And he was numbered with the transgressors’; and I tell you that this must be fulfilled in me. Yes, what is written about me is reaching its fulfillment.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">38&nbsp;</sup>The disciples said, “See, Lord, here are two swords.”</span></p>\n\n\t<p><span class=\"for-enrichment\">“That’s enough!” he replied.</span></p>\n\t</div>\n\t</div>\n\t<span class=\"for-enrichment\"> <!-- end bible --> </span>"
+          },
+          {
+            "id": "popup_pop4",
+            "marker": "Matthew 26:17-29",
+            "label": "Matthew 26:17-29",
+            "passage": "<span class=\"for-enrichment\"><!-- begin bible --></span>\n\n\t<div>\n\t<div>\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">17&nbsp;</sup>On the first day of the Festival of Unleavened Bread, the disciples came to Jesus and asked, “Where do you want us to make preparations for you to eat the Passover?”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">18&nbsp;</sup>He replied, “Go into the city to a certain man and tell him, ‘The Teacher says: My appointed time is near. I am going to celebrate the Passover with my disciples at your house.’”<sup class=\"versenum\">19&nbsp;</sup>So the disciples did as Jesus had directed them and prepared the Passover.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">20&nbsp;</sup>When evening came, Jesus was reclining at the table with the Twelve.<sup class=\"versenum\">21&nbsp;</sup>And while they were eating, he said, “Truly I tell you, one of you will betray me.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">22&nbsp;</sup>They were very sad and began to say to him one after the other, “Surely you don’t mean me, Lord?”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">23&nbsp;</sup>Jesus replied, “The one who has dipped his hand into the bowl with me will betray me.<sup class=\"versenum\">24&nbsp;</sup>The Son of Man will go just as it is written about him. But woe to that man who betrays the Son of Man! It would be better for him if he had not been born.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">25&nbsp;</sup>Then Judas, the one who would betray him, said, “Surely you don’t mean me, Rabbi?”</span></p>\n\n\t<p><span class=\"for-enrichment\">Jesus answered, “You have said so.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">26&nbsp;</sup>While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take and eat; this is my body.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">27&nbsp;</sup>Then he took a cup, and when he had given thanks, he gave it to them, saying, “Drink from it, all of you.<sup class=\"versenum\">28&nbsp;</sup>This is my blood of the covenant, which is poured out for many for the forgiveness of sins.<sup class=\"versenum\">29&nbsp;</sup>I tell you, I will not drink from this fruit of the vine from now on until that day when I drink it new with you in my Father’s kingdom.”</span></p>\n\t</div>\n\t</div>\n\t<span class=\"for-enrichment\"> <!-- end bible --> </span>"
+          },
+          {
+            "id": "popup_pop5",
+            "marker": "Mark 14:12-25",
+            "label": "Mark 14:12-25",
+            "passage": "<span class=\"for-enrichment\"><!-- begin bible --></span>\n\n\t<div>\n\t<div>\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">12&nbsp;</sup>On the first day of the Festival of Unleavened Bread, when it was customary to sacrifice the Passover lamb, Jesus’ disciples asked him, “Where do you want us to go and make preparations for you to eat the Passover?”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">13&nbsp;</sup>So he sent two of his disciples, telling them, “Go into the city, and a man carrying a jar of water will meet you. Follow him.<sup class=\"versenum\">14&nbsp;</sup>Say to the owner of the house he enters, ‘The Teacher asks: Where is my guest room, where I may eat the Passover with my disciples?’<sup class=\"versenum\">15&nbsp;</sup>He will show you a large room upstairs, furnished and ready. Make preparations for us there.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">16&nbsp;</sup>The disciples left, went into the city and found things just as Jesus had told them. So they prepared the Passover.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">17&nbsp;</sup>When evening came, Jesus arrived with the Twelve.<sup class=\"versenum\">18&nbsp;</sup>While they were reclining at the table eating, he said, “Truly I tell you, one of you will betray me—one who is eating with me.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">19&nbsp;</sup>They were saddened, and one by one they said to him, “Surely you don’t mean me?”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">20&nbsp;</sup>“It is one of the Twelve,” he replied, “one who dips bread into the bowl with me.<sup class=\"versenum\">21&nbsp;</sup>The Son of Man will go just as it is written about him. But woe to that man who betrays the Son of Man! It would be better for him if he had not been born.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">22&nbsp;</sup>While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take it; this is my body.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">23&nbsp;</sup>Then he took a cup, and when he had given thanks, he gave it to them, and they all drank from it.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">24&nbsp;</sup>“This is my blood of the covenant, which is poured out for many,” he said to them.<sup class=\"versenum\">25&nbsp;</sup>“Truly I tell you, I will not drink again from the fruit of the vine until that day when I drink it new in the kingdom of God.”</span></p>\n\t</div>\n\t</div>\n\t<span class=\"for-enrichment\"> <!-- end bible --> </span>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practice giving and communion here or in the Preparing for Mission section</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preparing for the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Practice needed skills or previous topics to help prepare to minister to others: <ul><li>Prayer, Care, Share</li><li>Gospel</li><li>Foundational Bible Studies.</li></ul>"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Identify people or places you will take the initiative to minister to this week.",
+          "Write “I will by when” statements and share with your small group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-32"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying For the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benediction (optional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply247-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "site": "myfriends",
+  "country": "AU",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply230",
+  "sortOrder": 35,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Read a scripture and sing worship songs.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"nobreak\">(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. ({Philippians 2:11}b;&nbsp;\n\n\t\n\t&nbsp;{1 Timothy 2:4-6}a).&nbsp;\n\n\t\n\t</li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippians 2:11",
+                    "label": "Philippians 2:11",
+                    "passage": "<p><sup class=\"versenum\">11&nbsp;</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;to the glory of God the Father.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timothy 2:4-6",
+                    "label": "1 Timothy 2:4-6",
+                    "passage": "<p><sup class=\"versenum\">4&nbsp;</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup class=\"versenum\">5&nbsp;</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup class=\"versenum\">6&nbsp;</sup>who gave himself as a ransom for all people.&nbsp;</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Minister to one another’s needs in prayer, biblical counsel and encouragement. </em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
+          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Encourage loving accountability to obey Jesus</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Choose a way to cast vision for who they can become in Christ or what God can do through them by:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
+                  "reflecting on the changes in their life since they started following Christ",
+                  "reminding them of what God wants to do through them."
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Our vision is: <em> “A Jesus-centered community within reach of every person, everywhere!”</em>"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-4"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Context",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask the group to tell the story from last week."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read or watch Luke 7:18-35 two times as others listen."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luke 7:18-35",
+        "html": "<!-- begin bible --><h3>Jesus and John the Baptist</h3><p><sup class=\"versenum\">18 </sup>John’s disciples told him about all these things. Calling two of them,<sup class=\"versenum\">19 </sup>he sent them to the Lord to ask, “Are you the one who is to come, or should we expect someone else?”</p><p><sup class=\"versenum\">20 </sup>When the men came to Jesus, they said, “John the Baptist sent us to you to ask, ‘Are you the one who is to come, or should we expect someone else?’”</p><p><sup class=\"versenum\">21 </sup>At that very time Jesus cured many who had diseases, sicknesses and evil spirits, and gave sight to many who were blind.<sup class=\"versenum\">22 </sup>So he replied to the messengers, “Go back and report to John what you have seen and heard: The blind receive sight, the lame walk, those who have leprosy are cleansed, the deaf hear, the dead are raised, and the good news is proclaimed to the poor.<sup class=\"versenum\">23 </sup>Blessed is anyone who does not stumble on account of me.”</p><p><sup class=\"versenum\">24 </sup>After John’s messengers left, Jesus began to speak to the crowd about John: “What did you go out into the wilderness to see? A reed swayed by the wind?<sup class=\"versenum\">25 </sup>If not, what did you go out to see? A man dressed in fine clothes? No, those who wear expensive clothes and indulge in luxury are in palaces.<sup class=\"versenum\">26 </sup>But what did you go out to see? A prophet? Yes, I tell you, and more than a prophet.<sup class=\"versenum\">27 </sup>This is the one about whom it is written:</p><p>“‘I will send my messenger ahead of you, who will prepare your way before you.’</p><p><sup class=\"versenum\">28 </sup>I tell you, among those born of women there is no one greater than John; yet the one who is least in the kingdom of God is greater than he.”</p><p><sup class=\"versenum\">29 </sup>(All the people, even the tax collectors, when they heard Jesus’ words, acknowledged that God’s way was right, because they had been baptized by John.<sup class=\"versenum\">30 </sup>But the Pharisees and the experts in the law rejected God’s purpose for themselves, because they had not been baptized by John.)</p><p><sup class=\"versenum\">31 </sup>Jesus went on to say, “To what, then, can I compare the people of this generation? What are they like?<sup class=\"versenum\">32 </sup>They are like children sitting in the marketplace and calling out to each other:</p><p>“‘We played the pipe for you,<br> and you did not dance;<br> we sang a dirge, and you did not cry.’</p><p><sup class=\"versenum\">33 </sup>For John the Baptist came neither eating bread nor drinking wine, and you say, ‘He has a demon.’<sup class=\"versenum\">34 </sup>The Son of Man came eating and drinking, and you say, ‘Here is a glutton and a drunkard, a friend of tax collectors and sinners.’<sup class=\"versenum\">35 </sup>But wisdom is proved right by all her children.”</p><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%207:18-35&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luke 7:18-35",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2607",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2607",
+        "startTime": "3:10",
+        "endTime": "6:18",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What caught your attention or what did you like best? Why?",
+          "What is new or has developed at this point in Jesus story?",
+          "What do we learn about the humanity or divinity of Jesus from this passage?",
+          "How can we live differently now that we know this story?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Additional Questions:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What are his followers learning?",
+          "What is Jesus modeling to us about life and ministry or godly leadership?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-21"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus was often misunderstood. John the Baptist had been sitting in prison and was struggling with doubts about Jesus being the one to bring in the Kingdom of God. So John sent a few of his remaining disciples to ask Jesus about it. Jesus sends the men back with an Old Testament scripture from Isaiah (which is the same one He used in Nazareth) to let John know He was doing the works of the Messiah. Jesus then endorses the leadership of John to His disciples. He contrasted this with the evil things people said about John and about Himself. Even after watching Jesus for over two years, religious leaders accused Jesus of being demon possessed, a glutton and a drunkard. We learn that being misunderstood is part of leadership."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<br>\n<span class=\"for-enrichment\">For Further Study: {Matthew 11:2-19} </span>",
+        "references": [
+          {
+            "id": "popup_pop3",
+            "marker": "Matthew 11:2-19",
+            "label": "Matthew 11:2-19",
+            "passage": "<div>\n<div>\n<p><sup class=\"versenum\">2&nbsp;</sup>When John, who was in prison, heard about the deeds of the Messiah, he sent his disciples<sup class=\"versenum\">3&nbsp;</sup>to ask him, “Are you the one who is to come, or should we expect someone else?”</p>\n\n<p><sup class=\"versenum\">4&nbsp;</sup>Jesus replied, “Go back and report to John what you hear and see:<sup class=\"versenum\">5&nbsp;</sup>The blind receive sight, the lame walk, those who have leprosy are cleansed, the deaf hear, the dead are raised, and the good news is proclaimed to the poor.<sup class=\"versenum\">6&nbsp;</sup>Blessed is anyone who does not stumble on account of me.”</p>\n\n<p><sup class=\"versenum\">7&nbsp;</sup>As John’s disciples were leaving, Jesus began to speak to the crowd about John: “What did you go out into the wilderness to see? A reed swayed by the wind?<sup class=\"versenum\">8&nbsp;</sup>If not, what did you go out to see? A man dressed in fine clothes? No, those who wear fine clothes are in kings’ palaces.<sup class=\"versenum\">9&nbsp;</sup>Then what did you go out to see? A prophet? Yes, I tell you, and more than a prophet.<sup class=\"versenum\">10&nbsp;</sup>This is the one about whom it is written:</p>\n\n<p>“‘I will send my messenger ahead of you,<br>\n&nbsp;&nbsp;&nbsp;&nbsp;who will prepare your way before you.’</p>\n</div>\n\n<p><sup class=\"versenum\">11&nbsp;</sup>Truly I tell you, among those born of women there has not risen anyone greater than John the Baptist; yet whoever is least in the kingdom of heaven is greater than he.<sup class=\"versenum\">12&nbsp;</sup>From the days of John the Baptist until now, the kingdom of heaven has been subjected to violence, and violent people have been raiding it.<sup class=\"versenum\">13&nbsp;</sup>For all the Prophets and the Law prophesied until John.<sup class=\"versenum\">14&nbsp;</sup>And if you are willing to accept it, he is the Elijah who was to come.<sup class=\"versenum\">15&nbsp;</sup>Whoever has ears, let them hear.</p>\n\n<p><sup class=\"versenum\">16&nbsp;</sup>“To what can I compare this generation? They are like children sitting in the marketplaces and calling out to others:</p>\n\n<p><sup class=\"versenum\">17&nbsp;</sup>“‘We played the pipe for you,<br>\n&nbsp;&nbsp;&nbsp;&nbsp;and you did not dance;<br>\nwe sang a dirge,<br>\n&nbsp;&nbsp;&nbsp;&nbsp;and you did not mourn.’</p>\n</div>\n\n<p><sup class=\"versenum\">18&nbsp;</sup>For John came neither eating nor drinking, and they say, ‘He has a demon.’<sup class=\"versenum\">19&nbsp;</sup>The Son of Man came eating and drinking, and they say, ‘Here is a glutton and a drunkard, a friend of tax collectors and sinners.’ But wisdom is proved right by her deeds.”</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practice giving and communion here or in the Preparing for Mission section</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preparing for the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Practice needed skills or previous topics to help prepare to minister to others: <ul><li>Prayer, Care, Share</li><li>Gospel</li><li>Foundational Bible Studies.</li></ul>"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Identify people or places you will take the initiative to minister to this week.",
+          "Write “I will by when” statements and share with your small group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-32"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying For the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benediction (optional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply230-i-will"
+      }
+    }
+  ]
+}

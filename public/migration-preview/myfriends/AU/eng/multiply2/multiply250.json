@@ -1,0 +1,422 @@
+{
+  "site": "myfriends",
+  "country": "AU",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply250",
+  "sortOrder": 55,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Read a scripture and sing worship songs.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"nobreak\">(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. ({Philippians 2:11}b;&nbsp;\n\n\t\n\t&nbsp;{1 Timothy 2:4-6}a).&nbsp;\n\n\t\n\t</li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippians 2:11",
+                    "label": "Philippians 2:11",
+                    "passage": "<p><sup class=\"versenum\">11&nbsp;</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;to the glory of God the Father.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timothy 2:4-6",
+                    "label": "1 Timothy 2:4-6",
+                    "passage": "<p><sup class=\"versenum\">4&nbsp;</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup class=\"versenum\">5&nbsp;</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup class=\"versenum\">6&nbsp;</sup>who gave himself as a ransom for all people.&nbsp;</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Minister to one another’s needs in prayer, biblical counsel and encouragement. </em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
+          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Encourage loving accountability to obey Jesus</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Choose a way to cast vision for who they can become in Christ or what God can do through them by:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
+                  "reflecting on the changes in their life since they started following Christ",
+                  "reminding them of what God wants to do through them."
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Our vision is: <em> “A Jesus-centered community within reach of every person, everywhere!”</em>"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-4"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Context",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask the group to tell the story from last week."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Read or watch John 19:31-20:31 two times as others listen."
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "John 19:31- 20:31",
+        "html": "<!-- begin bible --><p><sup class=\"versenum\">31 </sup>Now it was the day of Preparation, and the next day was to be a special Sabbath. Because the Jewish leaders did not want the bodies left on the crosses during the Sabbath, they asked Pilate to have the legs broken and the bodies taken down.<sup class=\"versenum\">32 </sup>The soldiers therefore came and broke the legs of the first man who had been crucified with Jesus, and then those of the other.<sup class=\"versenum\">33 </sup>But when they came to Jesus and found that he was already dead, they did not break his legs.<sup class=\"versenum\">34 </sup>Instead, one of the soldiers pierced Jesus’ side with a spear, bringing a sudden flow of blood and water.<sup class=\"versenum\">35 </sup>The man who saw it has given testimony, and his testimony is true. He knows that he tells the truth, and he testifies so that you also may believe.<sup class=\"versenum\">36 </sup>These things happened so that the scripture would be fulfilled: “Not one of his bones will be broken,”<sup class=\"versenum\">37 </sup>and, as another scripture says, “They will look on the one they have pierced.”</p><h3>The Burial of Jesus</h3><p><sup class=\"versenum\">38 </sup>Later, Joseph of Arimathea asked Pilate for the body of Jesus. Now Joseph was a disciple of Jesus, but secretly because he feared the Jewish leaders. With Pilate’s permission, he came and took the body away.<sup class=\"versenum\">39 </sup>He was accompanied by Nicodemus, the man who earlier had visited Jesus at night. Nicodemus brought a mixture of myrrh and aloes, about seventy-five pounds.<sup class=\"versenum\">40 </sup>Taking Jesus’ body, the two of them wrapped it, with the spices, in strips of linen. This was in accordance with Jewish burial customs.<sup class=\"versenum\">41 </sup>At the place where Jesus was crucified, there was a garden, and in the garden a new tomb, in which no one had ever been laid.<sup class=\"versenum\">42 </sup>Because it was the Jewish day of Preparation and since the tomb was nearby, they laid Jesus there.</p><h3>The Empty Tomb</h3><p><sup class=\"versenum\">1 </sup>Early on the first day of the week, while it was still dark, Mary Magdalene went to the tomb and saw that the stone had been removed from the entrance.<sup class=\"versenum\">2 </sup>So she came running to Simon Peter and the other disciple, the one Jesus loved, and said, “They have taken the Lord out of the tomb, and we don’t know where they have put him!”</p><p><sup class=\"versenum\">3 </sup>So Peter and the other disciple started for the tomb.<sup class=\"versenum\">4 </sup>Both were running, but the other disciple outran Peter and reached the tomb first.<sup class=\"versenum\">5 </sup>He bent over and looked in at the strips of linen lying there but did not go in.<sup class=\"versenum\">6 </sup>Then Simon Peter came along behind him and went straight into the tomb. He saw the strips of linen lying there,<sup class=\"versenum\">7 </sup>as well as the cloth that had been wrapped around Jesus’ head. The cloth was still lying in its place, separate from the linen.<sup class=\"versenum\">8 </sup>Finally the other disciple, who had reached the tomb first, also went inside. He saw and believed.<sup class=\"versenum\">9 </sup>(They still did not understand from Scripture that Jesus had to rise from the dead.)<sup class=\"versenum\">10 </sup>Then the disciples went back to where they were staying.</p><h3>Jesus Appears to Mary Magdalene</h3><p><sup class=\"versenum\">11 </sup>Now Mary stood outside the tomb crying. As she wept, she bent over to look into the tomb<sup class=\"versenum\">12 </sup>and saw two angels in white, seated where Jesus’ body had been, one at the head and the other at the foot.</p><p><sup class=\"versenum\">13 </sup>They asked her, “Woman, why are you crying?”</p><p>“They have taken my Lord away,” she said, “and I don’t know where they have put him.”<sup class=\"versenum\">14 </sup>At this, she turned around and saw Jesus standing there, but she did not realize that it was Jesus.</p><p><sup class=\"versenum\">15 </sup>He asked her, “Woman, why are you crying? Who is it you are looking for?”</p><p>Thinking he was the gardener, she said, “Sir, if you have carried him away, tell me where you have put him, and I will get him.”</p><p><sup class=\"versenum\">16 </sup>Jesus said to her, “Mary.”</p><p>She turned toward him and cried out in Aramaic, “Rabboni!” (which means “Teacher”).</p><p><sup class=\"versenum\">17 </sup>Jesus said, “Do not hold on to me, for I have not yet ascended to the Father. Go instead to my brothers and tell them, ‘I am ascending to my Father and your Father, to my God and your God.’”</p><p><sup class=\"versenum\">18 </sup>Mary Magdalene went to the disciples with the news: “I have seen the Lord!” And she told them that he had said these things to her.</p><h3>Jesus Appears to His Disciples</h3><p><sup class=\"versenum\">19 </sup>On the evening of that first day of the week, when the disciples were together, with the doors locked for fear of the Jewish leaders, Jesus came and stood among them and said, “Peace be with you!”<sup class=\"versenum\">20 </sup>After he said this, he showed them his hands and side. The disciples were overjoyed when they saw the Lord.</p><p><sup class=\"versenum\">21 </sup>Again Jesus said, “Peace be with you! As the Father has sent me, I am sending you.”<sup class=\"versenum\">22 </sup>And with that he breathed on them and said, “Receive the Holy Spirit.<sup class=\"versenum\">23 </sup>If you forgive anyone’s sins, their sins are forgiven; if you do not forgive them, they are not forgiven.”</p><h3>Jesus Appears to Thomas</h3><p><sup class=\"versenum\">24 </sup>Now Thomas (also known as Didymus), one of the Twelve, was not with the disciples when Jesus came.<sup class=\"versenum\">25 </sup>So the other disciples told him, “We have seen the Lord!”</p><p>But he said to them, “Unless I see the nail marks in his hands and put my finger where the nails were, and put my hand into his side, I will not believe.”</p><p><sup class=\"versenum\">26 </sup>A week later his disciples were in the house again, and Thomas was with them. Though the doors were locked, Jesus came and stood among them and said, “Peace be with you!”<sup class=\"versenum\">27 </sup>Then he said to Thomas, “Put your finger here; see my hands. Reach out your hand and put it into my side. Stop doubting and believe.”</p><p><sup class=\"versenum\">28 </sup>Thomas said to him, “My Lord and my God!”</p><p><sup class=\"versenum\">29 </sup>Then Jesus told him, “Because you have seen me, you have believed; blessed are those who have not seen and yet have believed.”</p><h3>The Purpose of John’s Gospel</h3><p><sup class=\"versenum\">30 </sup>Jesus performed many other signs in the presence of his disciples, which are not recorded in this book.<sup class=\"versenum\">31 </sup>But these are written that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name.</p><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=John%2020:1-31&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "John 19:31-37",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2219",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2219",
+        "startTime": "7:39",
+        "endTime": "8:55",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "John 19:38-20:31",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2220",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2220",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What caught your attention or what did you like best? Why?",
+          "What is new or has developed at this point in Jesus story?",
+          "What do we learn about the humanity or divinity of Jesus from this passage?",
+          "How can we live differently now that we know this story?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Additional Questions:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What are his followers learning?",
+          "What is Jesus modeling to us about life and ministry or godly leadership"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-22"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"nobreak\">He has risen from the dead! The Bible says that Jesus’ resurrection changes everything. “Now if we died with Christ, we believe that we will also live with him. For we know that since Christ was raised from the dead, he cannot die again; death no longer has mastery over him. The death he died, he died to sin once for all; but the life he lives, he lives to God. In the same way, count yourselves dead to sin but alive to God in Christ Jesus.” ({Romans 6:8-11}\n\n\t\n\t). The power to live life is in the power of Jesus’ victory over death. The resurrection of Jesus gives us power to defeat sin in our lives. The power of Jesus and His resurrection flows through us as we set aside our will and allow Jesus to live in and through us. Resurrection leadership is leadership that is allowing Jesus to live in and through us. Leading like Jesus is radically different than worldly leadership that seeks to promote itself and control others.</li>",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Romans 6:8-11",
+                    "label": "Romans 6:8-11",
+                    "passage": "<p><sup class=\"versenum\">8&nbsp;</sup>Now if we died with Christ, we believe that we will also live with him.<sup class=\"versenum\">9&nbsp;</sup>For we know that since Christ was raised from the dead, he cannot die again; death no longer has mastery over him.<sup class=\"versenum\">10&nbsp;</sup>The death he died, he died to sin once for all; but the life he lives, he lives to God.</p>\n\n\t<p><sup class=\"versenum\">11&nbsp;</sup>In the same way, count yourselves dead to sin but alive to God in Christ Jesus.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"nobreak\"><span class=\"for-enrichment\">For Further Study: {Luke 23:50-24:49};&nbsp;</span>\n\n\t\n\t<span class=\"for-enrichment\">&nbsp;{Matthew 27:57-28:15};&nbsp;</span>\n\n\t</li>",
+        "references": [
+          {
+            "id": "popup_pop4",
+            "marker": "Luke 23:50-24:49",
+            "label": "Luke 23:50-24:49",
+            "passage": "<span class=\"for-enrichment\"><!-- begin bible --></span>\n\n\t<div>\n\t<div>\n\t<h3><span class=\"for-enrichment\">The Burial of Jesus</span></h3>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">50&nbsp;</sup>Now there was a man named Joseph, a member of the Council, a good and upright man,<sup class=\"versenum\">51&nbsp;</sup>who had not consented to their decision and action. He came from the Judean town of Arimathea, and he himself was waiting for the kingdom of God.<sup class=\"versenum\">52&nbsp;</sup>Going to Pilate, he asked for Jesus’ body.<sup class=\"versenum\">53&nbsp;</sup>Then he took it down, wrapped it in linen cloth and placed it in a tomb cut in the rock, one in which no one had yet been laid.<sup class=\"versenum\">54&nbsp;</sup>It was Preparation Day, and the Sabbath was about to begin.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">55&nbsp;</sup>The women who had come with Jesus from Galilee followed Joseph and saw the tomb and how his body was laid in it.<sup class=\"versenum\">56&nbsp;</sup>Then they went home and prepared spices and perfumes. But they rested on the Sabbath in obedience to the commandment.</span></p>\n\n\t<h3><span class=\"for-enrichment\">Jesus Has Risen</span></h3>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">1 </sup>On the first day of the week, very early in the morning, the women took the spices they had prepared and went to the tomb.<sup class=\"versenum\">2&nbsp;</sup>They found the stone rolled away from the tomb,<sup class=\"versenum\">3&nbsp;</sup>but when they entered, they did not find the body of the Lord Jesus.<sup class=\"versenum\">4&nbsp;</sup>While they were wondering about this, suddenly two men in clothes that gleamed like lightning stood beside them.<sup class=\"versenum\">5&nbsp;</sup>In their fright the women bowed down with their faces to the ground, but the men said to them, “Why do you look for the living among the dead?<sup class=\"versenum\">6&nbsp;</sup>He is not here; he has risen! Remember how he told you, while he was still with you in Galilee:<sup class=\"versenum\">7&nbsp;</sup>‘The Son of Man must be delivered over to the hands of sinners, be crucified and on the third day be raised again.’ ”<sup class=\"versenum\">8&nbsp;</sup>Then they remembered his words.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">9&nbsp;</sup>When they came back from the tomb, they told all these things to the Eleven and to all the others.<sup class=\"versenum\">10&nbsp;</sup>It was Mary Magdalene, Joanna, Mary the mother of James, and the others with them who told this to the apostles.<sup class=\"versenum\">11&nbsp;</sup>But they did not believe the women, because their words seemed to them like nonsense.<sup class=\"versenum\">12&nbsp;</sup>Peter, however, got up and ran to the tomb. Bending over, he saw the strips of linen lying by themselves, and he went away, wondering to himself what had happened.</span></p>\n\n\t<h3><span class=\"for-enrichment\">On the Road to Emmaus</span></h3>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">13&nbsp;</sup>Now that same day two of them were going to a village called Emmaus, about seven miles from Jerusalem.<sup class=\"versenum\">14&nbsp;</sup>They were talking with each other about everything that had happened.<sup class=\"versenum\">15&nbsp;</sup>As they talked and discussed these things with each other, Jesus himself came up and walked along with them;<sup class=\"versenum\">16&nbsp;</sup>but they were kept from recognizing him.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">17&nbsp;</sup>He asked them, “What are you discussing together as you walk along?”</span></p>\n\n\t<p><span class=\"for-enrichment\">They stood still, their faces downcast.<sup class=\"versenum\">18&nbsp;</sup>One of them, named Cleopas, asked him, “Are you the only one visiting Jerusalem who does not know the things that have happened there in these days?”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">19&nbsp;</sup>“What things?” he asked.</span></p>\n\n\t<p><span class=\"for-enrichment\">“About Jesus of Nazareth,” they replied. “He was a prophet, powerful in word and deed before God and all the people.<sup class=\"versenum\">20&nbsp;</sup>The chief priests and our rulers handed him over to be sentenced to death, and they crucified him;<sup class=\"versenum\">21&nbsp;</sup>but we had hoped that he was the one who was going to redeem Israel. And what is more, it is the third day since all this took place.<sup class=\"versenum\">22&nbsp;</sup>In addition, some of our women amazed us. They went to the tomb early this morning<sup class=\"versenum\">23&nbsp;</sup>but didn’t find his body. They came and told us that they had seen a vision of angels, who said he was alive.<sup class=\"versenum\">24&nbsp;</sup>Then some of our companions went to the tomb and found it just as the women had said, but they did not see Jesus.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">25&nbsp;</sup>He said to them, “How foolish you are, and how slow to believe all that the prophets have spoken!<sup class=\"versenum\">26&nbsp;</sup>Did not the Messiah have to suffer these things and then enter his glory?”<sup class=\"versenum\">27&nbsp;</sup>And beginning with Moses and all the Prophets, he explained to them what was said in all the Scriptures concerning himself.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">28&nbsp;</sup>As they approached the village to which they were going, Jesus continued on as if he were going farther.<sup class=\"versenum\">29&nbsp;</sup>But they urged him strongly, “Stay with us, for it is nearly evening; the day is almost over.” So he went in to stay with them.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">30&nbsp;</sup>When he was at the table with them, he took bread, gave thanks, broke it and began to give it to them.<sup class=\"versenum\">31&nbsp;</sup>Then their eyes were opened and they recognized him, and he disappeared from their sight.<sup class=\"versenum\">32&nbsp;</sup>They asked each other, “Were not our hearts burning within us while he talked with us on the road and opened the Scriptures to us?”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">33&nbsp;</sup>They got up and returned at once to Jerusalem. There they found the Eleven and those with them, assembled together<sup class=\"versenum\">34&nbsp;</sup>and saying, “It is true! The Lord has risen and has appeared to Simon.”<sup class=\"versenum\">35&nbsp;</sup>Then the two told what had happened on the way, and how Jesus was recognized by them when he broke the bread.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">36&nbsp;</sup>While they were still talking about this, Jesus himself stood among them and said to them, “Peace be with you.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">37&nbsp;</sup>They were startled and frightened, thinking they saw a ghost.<sup class=\"versenum\">38&nbsp;</sup>He said to them, “Why are you troubled, and why do doubts rise in your minds?<sup class=\"versenum\">39&nbsp;</sup>Look at my hands and my feet. It is I myself! Touch me and see; a ghost does not have flesh and bones, as you see I have.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">40&nbsp;</sup>When he had said this, he showed them his hands and feet.<sup class=\"versenum\">41&nbsp;</sup>And while they still did not believe it because of joy and amazement, he asked them, “Do you have anything here to eat?”<sup class=\"versenum\">42&nbsp;</sup>They gave him a piece of broiled fish,<sup class=\"versenum\">43&nbsp;</sup>and he took it and ate it in their presence.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">44&nbsp;</sup>He said to them, “This is what I told you while I was still with you: Everything must be fulfilled that is written about me in the Law of Moses, the Prophets and the Psalms.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">45&nbsp;</sup>Then he opened their minds so they could understand the Scriptures.<sup class=\"versenum\">46&nbsp;</sup>He told them, “This is what is written: The Messiah will suffer and rise from the dead on the third day,<sup class=\"versenum\">47&nbsp;</sup>and repentance for the forgiveness of sins will be preached in his name to all nations, beginning at Jerusalem.<sup class=\"versenum\">48&nbsp;</sup>You are witnesses of these things.<sup class=\"versenum\">49&nbsp;</sup>I am going to send you what my Father has promised; but stay in the city until you have been clothed with power from on high.”</span></p>\n\t</div>\n\t</div>\n\t<span class=\"for-enrichment\"> <!-- end bible --> </span>"
+          },
+          {
+            "id": "popup_pop5",
+            "marker": "Matthew 27:57-28:15",
+            "label": "Matthew 27:57-28:15",
+            "passage": "<span class=\"for-enrichment\"><!-- begin bible --></span>\n\n\t<h3><span class=\"for-enrichment\">The Burial of Jesus</span></h3>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">57&nbsp;</sup>As evening approached, there came a rich man from Arimathea, named Joseph, who had himself become a disciple of Jesus.<sup class=\"versenum\">58&nbsp;</sup>Going to Pilate, he asked for Jesus’ body, and Pilate ordered that it be given to him.<sup class=\"versenum\">59&nbsp;</sup>Joseph took the body, wrapped it in a clean linen cloth,<sup class=\"versenum\">60&nbsp;</sup>and placed it in his own new tomb that he had cut out of the rock. He rolled a big stone in front of the entrance to the tomb and went away.<sup class=\"versenum\">61&nbsp;</sup>Mary Magdalene and the other Mary were sitting there opposite the tomb.</span></p>\n\n\t<h3><span class=\"for-enrichment\">The Guard at the Tomb</span></h3>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">62&nbsp;</sup>The next day, the one after Preparation Day, the chief priests and the Pharisees went to Pilate.<sup class=\"versenum\">63&nbsp;</sup>“Sir,” they said, “we remember that while he was still alive that deceiver said, ‘After three days I will rise again.’<sup class=\"versenum\">64&nbsp;</sup>So give the order for the tomb to be made secure until the third day. Otherwise, his disciples may come and steal the body and tell the people that he has been raised from the dead. This last deception will be worse than the first.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">65&nbsp;</sup>“Take a guard,” Pilate answered. “Go, make the tomb as secure as you know how.”<sup class=\"versenum\">66&nbsp;</sup>So they went and made the tomb secure by putting a seal on the stone and posting the guard.</span></p>\n\n\t<h3><span class=\"for-enrichment\">Jesus Has Risen</span></h3>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">1 </sup>After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">2&nbsp;</sup>There was a violent earthquake, for an angel of the Lord came down from heaven and, going to the tomb, rolled back the stone and sat on it.<sup class=\"versenum\">3&nbsp;</sup>His appearance was like lightning, and his clothes were white as snow.<sup class=\"versenum\">4&nbsp;</sup>The guards were so afraid of him that they shook and became like dead men.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">5&nbsp;</sup>The angel said to the women, “Do not be afraid, for I know that you are looking for Jesus, who was crucified.<sup class=\"versenum\">6&nbsp;</sup>He is not here; he has risen, just as he said. Come and see the place where he lay.<sup class=\"versenum\">7&nbsp;</sup>Then go quickly and tell his disciples: ‘He has risen from the dead and is going ahead of you into Galilee. There you will see him.’ Now I have told you.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">8&nbsp;</sup>So the women hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples.<sup class=\"versenum\">9&nbsp;</sup>Suddenly Jesus met them. “Greetings,” he said. They came to him, clasped his feet and worshiped him.<sup class=\"versenum\">10&nbsp;</sup>Then Jesus said to them, “Do not be afraid. Go and tell my brothers to go to Galilee; there they will see me.”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">11&nbsp;</sup>While the women were on their way, some of the guards went into the city and reported to the chief priests everything that had happened.<sup class=\"versenum\">12&nbsp;</sup>When the chief priests had met with the elders and devised a plan, they gave the soldiers a large sum of money,<sup class=\"versenum\">13&nbsp;</sup>telling them, “You are to say, ‘His disciples came during the night and stole him away while we were asleep.’<sup class=\"versenum\">14&nbsp;</sup>If this report gets to the governor, we will satisfy him and keep you out of trouble.”<sup class=\"versenum\">15&nbsp;</sup>So the soldiers took the money and did as they were instructed. And this story has been widely circulated among the Jews to this very day.</span></p>\n\t\n\t\n\n\t<span class=\"for-enrichment\"><a href=\"javascript:popUp('pop6')\">Mark 15:42- 16:18</a>.</span>\n\n\t<div class=\"popup\" id=\"pop6\"><span class=\"for-enrichment\"><!-- begin bible --></span>\n\n\t<div>\n\t<div>\n\t<h3><span class=\"for-enrichment\">The Burial of Jesus</span></h3>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">42&nbsp;</sup>It was Preparation Day (that is, the day before the Sabbath). So as evening approached,<sup class=\"versenum\">43&nbsp;</sup>Joseph of Arimathea, a prominent member of the Council, who was himself waiting for the kingdom of God, went boldly to Pilate and asked for Jesus’ body.<sup class=\"versenum\">44&nbsp;</sup>Pilate was surprised to hear that he was already dead. Summoning the centurion, he asked him if Jesus had already died.<sup class=\"versenum\">45&nbsp;</sup>When he learned from the centurion that it was so, he gave the body to Joseph.<sup class=\"versenum\">46&nbsp;</sup>So Joseph bought some linen cloth, took down the body, wrapped it in the linen, and placed it in a tomb cut out of rock. Then he rolled a stone against the entrance of the tomb.<sup class=\"versenum\">47&nbsp;</sup>Mary Magdalene and Mary the mother of Joseph saw where he was laid.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">1 </sup>When the Sabbath was over, Mary Magdalene, Mary the mother of James, and Salome bought spices so that they might go to anoint Jesus’ body.<sup class=\"versenum\">2&nbsp;</sup>Very early on the first day of the week, just after sunrise, they were on their way to the tomb<sup class=\"versenum\">3&nbsp;</sup>and they asked each other, “Who will roll the stone away from the entrance of the tomb?”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">4&nbsp;</sup>But when they looked up, they saw that the stone, which was very large, had been rolled away.<sup class=\"versenum\">5&nbsp;</sup>As they entered the tomb, they saw a young man dressed in a white robe sitting on the right side, and they were alarmed.</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">6&nbsp;</sup>“Don’t be alarmed,” he said. “You are looking for Jesus the Nazarene, who was crucified. He has risen! He is not here. See the place where they laid him.<sup class=\"versenum\">7&nbsp;</sup>But go, tell his disciples and Peter, ‘He is going ahead of you into Galilee. There you will see him, just as he told you.’”</span></p>\n\n\t<p><span class=\"for-enrichment\"><sup class=\"versenum\">8&nbsp;</sup>Trembling and bewildered, the women went out and fled from the tomb. They said nothing to anyone, because they were afraid.</span></p>\n\n\t<hr>\n\t<p><span class=\"for-enrichment\">[The earliest manuscripts and some other ancient witnesses do not have verses 9–20.]</span></p>\n\n\t<p><span class=\"for-enrichment\"><em><sup class=\"versenum\">9&nbsp;</sup>When Jesus rose early on the first day of the week, he appeared first to Mary Magdalene,</em> <em>out of whom he had driven seven demons.</em><em><sup class=\"versenum\">10&nbsp;</sup>She went and told those who had been with him and who were mourning and weeping.</em><em><sup class=\"versenum\">11&nbsp;</sup>When they heard that Jesus was alive and that she had seen him, they did not believe it.</em></span></p>\n\n\t<p><span class=\"for-enrichment\"><em><sup class=\"versenum\">12&nbsp;</sup>Afterward Jesus appeared in a different form to two of them while they were walking in the country.</em><em><sup class=\"versenum\">13&nbsp;</sup>These returned and reported it to the rest; but they did not believe them either.</em></span></p>\n\n\t<p><span class=\"for-enrichment\"><em><sup class=\"versenum\">14&nbsp;</sup>Later Jesus appeared to the Eleven as they were eating; he rebuked them for their lack of faith and their stubborn refusal to believe those who had seen him after he had risen.</em></span></p>\n\n\t<p><span class=\"for-enrichment\"><em><sup class=\"versenum\">15&nbsp;</sup>He said to them, “Go into all the world and preach the gospel to all creation.</em><em><sup class=\"versenum\">16&nbsp;</sup>Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.</em><em><sup class=\"versenum\">17&nbsp;</sup>And these signs</em> <em>will accompany those who believe: In my name they will drive out demons;</em> <em>they will speak in new tongues;</em><em><sup class=\"versenum\">18&nbsp;</sup>they will pick up snakes</em> <em>with their hands; and when they drink deadly poison, it will not hurt them at all; they will place their hands on</em> <em>sick people, and they will get well.”</em></span></p>\n\t</div>\n\t</div>\n\t<span class=\"for-enrichment\"> <!-- end bible --> </span></div>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practice giving and communion here or in the Preparing for Mission section</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preparing for the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Practice needed skills or previous topics to help prepare to minister to others: <ul><li>Prayer, Care, Share</li><li>Gospel</li><li>Foundational Bible Studies.</li></ul>"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Identify people or places you will take the initiative to minister to this week.",
+          "Write “I will by when” statements and share with your small group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-33"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying For the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benediction (optional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply250-i-will"
+      }
+    }
+  ]
+}

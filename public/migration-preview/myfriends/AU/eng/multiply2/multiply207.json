@@ -1,0 +1,403 @@
+{
+  "site": "myfriends",
+  "country": "AU",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply207",
+  "sortOrder": 10,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Read a scripture and sing worship songs.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"nobreak\">(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. ({Philippians 2:11}b;&nbsp;\n\n\t\n\t&nbsp;{1 Timothy 2:4-6}a).&nbsp;\n\n\t\n\t</li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippians 2:11",
+                    "label": "Philippians 2:11",
+                    "passage": "<p><sup class=\"versenum\">11&nbsp;</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;to the glory of God the Father.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timothy 2:4-6",
+                    "label": "1 Timothy 2:4-6",
+                    "passage": "<p><sup class=\"versenum\">4&nbsp;</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup class=\"versenum\">5&nbsp;</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup class=\"versenum\">6&nbsp;</sup>who gave himself as a ransom for all people.&nbsp;</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Minister to one another’s needs in prayer, biblical counsel and encouragement. </em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
+          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Encourage loving accountability to obey Jesus</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Choose a way to cast vision for who they can become in Christ or what God can do through them by:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
+                  "reflecting on the changes in their life since they started following Christ",
+                  "reminding them of what God wants to do through them"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Our vision is: <em> “A Jesus-centered community within reach of every person, everywhere!”</em>"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-4"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Context",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask the group to tell the story from last week."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Read or watch Luke 4:1-13 two times as others listen."
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luke 4:1-13",
+        "html": "<!-- begin bible --><h3>Jesus Is Tested in the Wilderness</h3><p><sup class=\"versenum\">1 </sup>Jesus, full of the Holy Spirit, left the Jordan and was led by the Spirit into the wilderness,<sup class=\"versenum\">2 </sup>where for forty days he was tempted by the devil. He ate nothing during those days, and at the end of them he was hungry.</p><p><sup class=\"versenum\">3 </sup>The devil said to him, “If you are the Son of God, tell this stone to become bread.”</p><p><sup class=\"versenum\">4 </sup>Jesus answered, “It is written: ‘Man shall not live on bread alone.’”</p><p><sup class=\"versenum\">5 </sup>The devil led him up to a high place and showed him in an instant all the kingdoms of the world.<sup class=\"versenum\">6 </sup>And he said to him, “I will give you all their authority and splendor; it has been given to me, and I can give it to anyone I want to.<sup class=\"versenum\">7 </sup>If you worship me, it will all be yours.”</p><p><sup class=\"versenum\">8 </sup>Jesus answered, “It is written: ‘Worship the Lord your God and serve him only.’”</p><p><sup class=\"versenum\">9 </sup>The devil led him to Jerusalem and had him stand on the highest point of the temple. “If you are the Son of God,” he said, “throw yourself down from here.<sup class=\"versenum\">10 </sup>For it is written:</p><p>“‘He will command his angels concerning you<br> to guard you carefully;<br><sup class=\"versenum\">11 </sup>they will lift you up in their hands, so that you will not strike your foot against a stone.’”</p><p><sup class=\"versenum\">12 </sup>Jesus answered, “It is said: ‘Do not put the Lord your God to the test.’”</p><p><sup class=\"versenum\">13 </sup>When the devil had finished all this tempting, he left him until an opportune time.</p><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%204:1-13&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luke 4:1-13",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2604",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2604",
+        "startTime": "start",
+        "endTime": "1:51",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What caught your attention or what did you like best? Why?",
+          "What is new or has developed at this point in Jesus story?",
+          "What do we learn about the humanity or divinity of Jesus from this passage?",
+          "How can we live differently now that we know this story?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Additional Questions:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What are his followers learning?",
+          "What is Jesus modeling to us about life and ministry or godly leadership?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-21"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"nobreak\">Jesus was led into the wilderness to be tempted by Satan himself. After 40 days of temptations of every kind, the enemy comes again to Jesus. Jesus is now weak, tired and very, very hungry. Satan’s temptation was a direct attack on the truth of God’s words. This has been Satan’s strategy from the beginning when he used it with Adam and Eve ({Genesis 3}).&nbsp;\n\n\t\n\tJesus models to us how to quote God’s promises to deal with attacks of the enemy.</li>",
+                "references": [
+                  {
+                    "id": "popup_pop12",
+                    "marker": "Genesis 3",
+                    "label": "Genesis 3",
+                    "passage": "<div>\n\t<div>\n\t<div>\n\t<p><sup class=\"versenum\">1 </sup>Now the serpent was more crafty than any of the wild animals the <span class=\"small-caps\">Lord God had made. He said to the woman, “Did God really say, ‘You must not eat from any tree in the garden’?”</span></p>\n\n\t<p><sup class=\"versenum\">2&nbsp;</sup>The woman said to the serpent, “We may eat fruit from the trees in the garden,<sup class=\"versenum\">3&nbsp;</sup>but God did say, ‘You must not eat fruit from the tree that is in the middle of the garden, and you must not touch it, or you will die.’”</p>\n\n\t<p><sup class=\"versenum\">4&nbsp;</sup>“You will not certainly die,” the serpent said to the woman.<sup class=\"versenum\">5&nbsp;</sup>“For God knows that when you eat from it your eyes will be opened, and you will be like God, knowing good and evil.”</p>\n\n\t<p><sup class=\"versenum\">6&nbsp;</sup>When the woman saw that the fruit of the tree was good for food and pleasing to the eye, and also desirable for gaining wisdom, she took some and ate it. She also gave some to her husband, who was with her, and he ate it.<sup class=\"versenum\">7&nbsp;</sup>Then the eyes of both of them were opened, and they realized they were naked; so they sewed fig leaves together and made coverings for themselves.</p>\n\n\t<p><sup class=\"versenum\">8&nbsp;</sup>Then the man and his wife heard the sound of the <span class=\"small-caps\">Lord God as he was walking in the garden in the cool of the day, and they hid from the <span class=\"small-caps\">Lord God among the trees of the garden.<sup class=\"versenum\">9&nbsp;</sup>But the <span class=\"small-caps\">Lord God called to the man, “Where are you?”</span></span></span></p>\n\n\t<p><sup class=\"versenum\">10&nbsp;</sup>He answered, “I heard you in the garden, and I was afraid because I was naked; so I hid.”</p>\n\n\t<p><sup class=\"versenum\">11&nbsp;</sup>And he said, “Who told you that you were naked? Have you eaten from the tree that I commanded you not to eat from?”</p>\n\n\t<p><sup class=\"versenum\">12&nbsp;</sup>The man said, “The woman you put here with me—she gave me some fruit from the tree, and I ate it.”</p>\n\n\t<p><sup class=\"versenum\">13&nbsp;</sup>Then the <span class=\"small-caps\">Lord God said to the woman, “What is this you have done?”</span></p>\n\n\t<p>The woman said, “The serpent deceived me, and I ate.”</p>\n\n\t<p><sup class=\"versenum\">14&nbsp;</sup>So the <span class=\"small-caps\">Lord God said to the serpent, “Because you have done this,</span></p>\n\n\t<p>“Cursed are you above all livestock<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;and all wild animals!<br>\n\tYou will crawl on your belly<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;and you will eat dust<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;all the days of your life.<br>\n\t<sup class=\"versenum\">15&nbsp;</sup>And I will put enmity<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;between you and the woman,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;and between your offspring and hers;<br>\n\the will crush your head,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;and you will strike his heel.”</p>\n\t</div>\n\n\t<p><sup class=\"versenum\">16&nbsp;</sup>To the woman he said,</p>\n\n\t<p>“I will make your pains in childbearing very severe;<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;with painful labor you will give birth to children.<br>\n\tYour desire will be for your husband,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;and he will rule over you.”</p>\n\t</div>\n\n\t<p><sup class=\"versenum\">17&nbsp;</sup>To Adam he said, “Because you listened to your wife and ate fruit from the tree about which I commanded you, ‘You must not eat from it,’</p>\n\n\t<p>“Cursed is the ground because of you;<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;through painful toil you will eat food from it<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;all the days of your life.<br>\n\t<sup class=\"versenum\">18&nbsp;</sup>It will produce thorns and thistles for you,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;and you will eat the plants of the field.<br>\n\t<sup class=\"versenum\">19&nbsp;</sup>By the sweat of your brow<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;you will eat your food<br>\n\tuntil you return to the ground,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;since from it you were taken;<br>\n\tfor dust you are<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;and to dust you will return.”</p>\n\t</div>\n\n\t<p><sup class=\"versenum\">20&nbsp;</sup>Adam named his wife Eve, because she would become the mother of all the living.</p>\n\n\t<p><sup class=\"versenum\">21&nbsp;</sup>The <span class=\"small-caps\">Lord God made garments of skin for Adam and his wife and clothed them.<sup class=\"versenum\">22&nbsp;</sup>And the <span class=\"small-caps\">Lord God said, “The man has now become like one of us, knowing good and evil. He must not be allowed to reach out his hand and take also from the tree of life and eat, and live forever.”<sup class=\"versenum\">23&nbsp;</sup>So the <span class=\"small-caps\">Lord God banished him from the Garden of Eden to work the ground from which he had been taken.<sup class=\"versenum\">24&nbsp;</sup>After he drove the man out, he placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life.</span></span></span></p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<span class=\"for-enrichment\">Further Study: {Matthew 4:1-11} </span>",
+        "references": [
+          {
+            "id": "popup_pop9",
+            "marker": "Matthew 4:1-11",
+            "label": "Matthew 4:1-11",
+            "passage": "<div>\n<p><sup class=\"versenum\">1 </sup>Then Jesus was led by the Spirit into the wilderness to be tempted by the devil.<sup class=\"versenum\">2&nbsp;</sup>After fasting forty days and forty nights, he was hungry.<sup class=\"versenum\">3&nbsp;</sup>The tempter came to him and said, “If you are the Son of God, tell these stones to become bread.”</p>\n\n<p><sup class=\"versenum\">4&nbsp;</sup>Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’”</p>\n\n<p><sup class=\"versenum\">5&nbsp;</sup>Then the devil took him to the holy city and had him stand on the highest point of the temple.<sup class=\"versenum\">6&nbsp;</sup>“If you are the Son of God,” he said, “throw yourself down. For it is written:</p>\n\n<p>“‘He will command his angels concerning you,<br>\n&nbsp;&nbsp;&nbsp;&nbsp;and they will lift you up in their hands,<br>\n&nbsp;&nbsp;&nbsp;&nbsp;so that you will not strike your foot against a stone.’”</p>\n</div>\n\n<p><sup class=\"versenum\">7&nbsp;</sup>Jesus answered him, “It is also written: ‘Do not put the Lord your God to the test.’”</p>\n\n<p><sup class=\"versenum\">8&nbsp;</sup>Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their splendor.<sup class=\"versenum\">9&nbsp;</sup>“All this I will give you,” he said, “if you will bow down and worship me.”</p>\n\n<p><sup class=\"versenum\">10&nbsp;</sup>Jesus said to him, “Away from me, Satan! For it is written: ‘Worship the Lord your God, and serve him only.’”</p>\n\n<p><sup class=\"versenum\">11&nbsp;</sup>Then the devil left him, and angels came and attended him.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practice giving and communion here or in the Preparing for Mission section</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preparing for the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Practice needed skills or previous topics to help prepare to minister to others: <ul><li>Prayer, Care, Share</li><li>Gospel</li><li>Foundational Bible Studies.</li></ul>"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Identify people or places you will take the initiative to minister to this week.",
+          "Write “I will by when” statements and share with your small group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-32"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying For the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benediction (optional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply207-i-will"
+      }
+    }
+  ]
+}

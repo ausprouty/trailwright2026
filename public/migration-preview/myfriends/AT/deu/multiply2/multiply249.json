@@ -1,0 +1,249 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply249",
+  "sortOrder": 53,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Johannes 19:13-30",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>13</sup>Auf diese Worte hin ließ Pilatus Jesus wieder hinausführen. Dann setzte er sich auf den Richterstuhl, an einer Stelle, die man »Steinpflaster« nannte (auf Hebräisch Gabbata). <sup>14</sup>Das war um die Mittagszeit am Tag vor dem Passahfest. Und Pilatus sagte zu den Leuten : »Hier ist euer König!« <sup>15</sup>Sie schrien: »Weg mit ihm! Weg mit ihm – kreuzige ihn!« Pilatus fragte: »Was? Euren König soll ich kreuzigen lassen?« Die obersten Priester gaben zurück: »Wir haben keinen König außer dem Kaiser.« <h3>Die Kreuzigung</h3><sup>16</sup>Da überließ Pilatus ihnen Jesus zur Kreuzigung. Sie nahmen Jesus und führten ihn ab. <sup>17</sup>Jesus trug das Kreuz selbst zu dem Ort, der Schädelstätte genannt wird (auf Hebräisch Golgatha). <sup>18</sup>Dort kreuzigten sie ihn und mit ihm noch zwei andere, einen auf jeder Seite von ihm, mit Jesus in der Mitte. <sup>19</sup>Pilatus ließ ein Schild über ihm anbringen, auf dem stand: »Jesus von Nazareth, König der Juden.« <sup>20</sup>Der Ort, an dem Jesus gekreuzigt wurde, lag in unmittelbarer Nähe der Stadt; und das Schild war in Hebräisch, Lateinisch und Griechisch geschrieben, sodass viele Leute es lesen konnten. <sup>21</sup>Da sagten die obersten Priester zu Pilatus: »Schreib nicht ›König der Juden‹, sondern schreib: ›Er hat behauptet: Ich bin der König der Juden.‹« <sup>22</sup>Pilatus entgegnete: »Was ich geschrieben habe, habe ich geschrieben.« <sup>23</sup>Nachdem die Soldaten – es waren vier Mann – Jesus gekreuzigt hatten, teilten sie seine Kleider unter sich auf. Sie nahmen auch sein Untergewand an sich. Es war ohne Naht aus einem einzigen Stück gewebt, <sup>24</sup>deshalb sagten sie: »Wir wollen es nicht zerreißen, sondern darum würfeln.« Damit erfüllte sich die Schrift, in der es heißt: »Sie teilten meine Kleider unter sich auf und würfelten um mein Gewand.« <sup>25</sup>Und so machten sie es. In der Nähe des Kreuzes standen die Mutter von Jesus und ihre Schwester sowie Maria, die Frau von Klopas, und Maria Magdalena. <sup>26</sup>Als Jesus seine Mutter dort neben dem Jünger stehen sah, den er lieb hatte, sagte er zu ihr: »Frau, das ist jetzt dein Sohn.« <sup>27</sup>Und zu dem Jünger sagte er: »Das ist nun deine Mutter.« Von da an nahm der Jünger sie zu sich in sein Haus. <h3>Jesus stirbt</h3><sup>28</sup>Jesus wusste, dass nun alles vollbracht war, und um zu erfüllen, was in der Schrift vorausgesagt war, sagte er: »Ich habe Durst.« <sup>29</sup>Sie tauchten einen Schwamm in ein Gefäß mit Weinessig und steckten ihn auf einen Ysopzweig, den sie an seine Lippen hielten. <sup>30</sup>Als Jesus davon genommen hatte, sagte er: »Es ist vollbracht!« Dann neigte er den Kopf und starb. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Johannes%2019:13-30",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Johannes 19:13-30",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2219",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2219",
+        "startTime": "1:51",
+        "endTime": "7:05",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthäus 27:45-46",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>45</sup>Um die Mittagszeit wurde es plötzlich im ganzen Land dunkel – bis drei Uhr. <sup>46</sup>Gegen drei Uhr rief Jesus mit lauter Stimme: »Eli, Eli, lama asabtani?«, das bedeutet: »Mein Gott, mein Gott, warum hast du mich verlassen?« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Matthäus%2027:45-46",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Matthäus 27:45-46",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMatt2524",
+        "source": "arclight",
+        "refId": "6_529-GOMatt2524",
+        "startTime": "2:26",
+        "endTime": "2:54",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus wurde verraten, Lügen wurden über ihn erzählt, er wurde ungerecht behandelt, ausgepeitscht und schließlich ans Kreuz genagelt, um zwischen zwei Verbrechern zu sterben. Weil er ganz Mensch war, litt er in den letzten Stunden seines Lebens sehr viel. Gott legte die Sünde der Welt auf Jesus, der ein unschuldiger Stellvertreter für uns war. Jesus erlitt zum ersten Mal die Trennung vom Vater. Er war vom Vater verlassen, der ihm den Rücken zukehrte, weil Jesus das Gewicht der Sünde der Welt trug. Das Opferlamm Gottes vergoss sein Blut und der Vorhang im Tempel zerriss. Jesus war das letzte Opfer. Jetzt haben wir Zugang zum lebendigen Gott und alle, die an ihn glauben, wurden in seine neue Familie adoptiert. Jesus schuf einen Weg zum Vater, er legte sein eigenes Leben nieder, um unsere Schuld zu bezahlen. Am Kreuz passierte ein unglaublicher Austausch: “Gott hat Christus, der ohne Sünde war, an unserer Stelle als Sünder verurteilt, damit wir durch ihn vor Gott als gerecht bestehen können.” (2. Korinther 5,21)"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-19"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply249-i-will"
+      }
+    }
+  ]
+}

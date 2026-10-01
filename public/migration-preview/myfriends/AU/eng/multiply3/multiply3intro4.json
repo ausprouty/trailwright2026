@@ -1,0 +1,55 @@
+{
+  "site": "myfriends",
+  "country": "AU",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro4",
+  "sortOrder": 34,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img alt=\"\" src=\"/content/M2/eng/multiply3/Trip2.png\">"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "(2nd Missionary Journey from Antioch) [49 - 51 AD]"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Summary",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "This period covers the journey of the second mission team that was sent from Antioch. It is marked by new provincial centers being opened to the gospel, growing movements of disciple making, and additional Kingdom laborers being raised up."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Letters written during this Period",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "1 Thessalonians, 50/51 AD",
+          "2 Thessalonians, 50/51 AD"
+        ]
+      }
+    }
+  ]
+}

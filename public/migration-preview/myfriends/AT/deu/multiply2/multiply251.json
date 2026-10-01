@@ -1,0 +1,221 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply251",
+  "sortOrder": 55,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Johannes 21:1-25",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Später zeigte sich Jesus den Jüngern noch einmal am See von Tiberias. Das geschah folgendermaßen: <sup>2</sup>Simon Petrus, Thomas, der auch »Zwilling« genannt wurde, Nathanael aus Kana in Galiläa, die Söhne des Zebedäus und zwei andere Jünger waren dort zusammen. <sup>3</sup>Simon Petrus sagte: »Ich gehe fischen.« Die anderen meinten: »Wir kommen mit.« Also fuhren sie im Boot hinaus, doch sie fingen die ganze Nacht über nichts. <sup>4</sup>Bei Morgengrauen sahen die Jünger Jesus am Ufer stehen, doch sie konnten nicht sehen, wer es war. <sup>5</sup>Er rief ihnen zu: »Freunde, habt ihr etwas gefangen?« Sie antworteten: »Nein.« <sup>6</sup>Da sagte er: »Werft euer Netz auf der rechten Seite des Bootes aus, dann werdet ihr etwas fangen!« Sie taten es, und bald konnten sie das Netz nicht mehr einholen, weil so viele Fische darin waren. <sup>7</sup>Da sagte der Jünger, den Jesus liebte, zu Petrus: »Es ist der Herr!« Als Simon Petrus hörte, dass es der Herr war, legte er sein Obergewand an – denn er hatte es zur Arbeit ausgezogen –, sprang ins Wasser und schwamm ans Ufer. <sup>8</sup>Die anderen blieben beim Boot und zogen das gefüllte Netz hinter sich her. Sie waren etwa hundert Meter vom Ufer entfernt. <sup>9</sup>Als sie ausstiegen und an Land gingen, sahen sie ein Kohlenfeuer brennen, auf dem Fisch gebraten wurde; dazu gab es Brot. <sup>10</sup>»Holt ein paar von den Fischen, die ihr gerade gefangen habt«, sagte Jesus. <sup>11</sup>Da stieg Simon Petrus ins Boot und holte das Netz an Land. Obwohl es mit hundertdreiundfünfzig großen Fischen gefüllt war, zerriss das Netz nicht. <sup>12</sup>»Kommt her und frühstückt!«, sagte Jesus. Doch keiner wagte ihn zu fragen, ob er wirklich der Herr sei. Sie wussten, dass er es war. <sup>13</sup>Jesus kam auf sie zu, nahm das Brot und gab es ihnen, ebenso den Fisch. <sup>14</sup>Das war das dritte Mal, dass Jesus seinen Jüngern erschien, seit er von den Toten auferstanden war. <h3>Jesus fragt nach der Liebe</h3><sup>15</sup>Nach dem Frühstück sagte Jesus zu Simon Petrus: »Simon, Sohn des Johannes, liebst du mich mehr als die anderen?« Petrus erwiderte: »Ja, Herr, du weißt, dass ich dich lieb habe.« Jesus sagte: »Dann weide meine Lämmer.« <sup>16</sup>Jesus wiederholte die Frage: »Simon, Sohn des Johannes, liebst du mich?« Petrus antwortete: »Ja, Herr, du weißt, dass ich dich lieb habe.« Jesus sagte: »Dann hüte meine Schafe.« <sup>17</sup>Noch einmal fragte er ihn: »Simon, Sohn des Johannes, hast du mich lieb?« Petrus wurde traurig, weil Jesus die Frage zum dritten Mal stellte, und sagte: »Herr, du weißt alles. Du weißt, dass ich dich lieb habe.« Jesus sagte: »Dann weide meine Schafe. <sup>18</sup>Ich versichere dir: Als du jung warst, konntest du tun, was du wolltest, und hingehen, wo es dir gefiel. Doch wenn du alt bist, wirst du deine Hände ausstrecken, und ein anderer wird dich führen und hinbringen, wo du nicht hingehen willst.« <sup>19</sup>So deutete Jesus an, auf welche Weise Petrus sterben würde, um Gott damit zu verherrlichen. Dann forderte Jesus ihn auf: »Folge mir nach.« <sup>20</sup>Petrus drehte sich um und sah, dass der Jünger hinter ihnen ging, den Jesus liebte – jener Jünger, der sich beim Abendmahl zu Jesus hinübergelehnt und gefragt hatte: »Herr, wer von uns wird dich verraten?« <sup>21</sup>Petrus fragte Jesus: »Was ist mit ihm, Herr?« <sup>22</sup>Jesus erwiderte: »Wenn ich will, dass er am Leben bleibt, bis ich wiederkomme, was geht das dich an? Folge du mir nach.« <sup>23</sup>Deshalb verbreitete sich in der Gemeinde der Gläubigen das Gerücht, dass dieser Jünger nicht sterben würde. Doch das hatte Jesus nicht gesagt. Er hatte nur gesagt: »Wenn ich will, dass er am Leben bleibt, bis ich wiederkomme, was geht das dich an?« <h3>Schlusswort</h3><sup>24</sup>Dies ist der Jünger, der diese Ereignisse miterlebt hat und sie hier aufzeichnete. Und wir alle wissen, dass sein Bericht über diese Dinge wahr ist. <sup>25</sup>Es gibt noch vieles andere, was Jesus getan hat. Wenn man dies alles aufschreiben würde, glaube ich, könnte die ganze Welt die Bücher nicht fassen, die man dann schreiben müsste. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Johannes%2021:1-25",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Johannes 21:1-25",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2221",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2221",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Nachdem Jesus von den Toten auferstanden war, erschien er seinen Jüngern mehrmals. Mindestens 500 Menschen sahen ihn auf einmal (1.Korinter 15,6).<br> Hier lesen wir davon, dass Jesus seine Leiter besuchte, die zu ihrem alten Beruf als Fischer zurückgekehrt waren. Als sie die wundersame Versorgung mit Fischen wie damals, ein paar Jahre zuvor, erlebten, erkannten sie Jesus.<br> Petrus war aufgeregt, seinen Herrn wiederzusehen. Jesus sprach mit ihm über seine Herzenshingabe. Er fragte Petrus, ob er ihn liebte. Wenn ja, dann sollte er sich um die Dinge kümmern, die Jesus kümmern. Er sollte Menschen leiten, wie Jesus es getan hatte. <br> Petrus wurde wiederhergestellt und gerufen, Jesus nachzufolgen und sein Werk weiterzuführen, “Menschen zu fischen” und für sie zu sorgen. Das war das letzte Mal, dass wir erfahren, dass Petrus fischte."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-16"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply251-i-will"
+      }
+    }
+  ]
+}

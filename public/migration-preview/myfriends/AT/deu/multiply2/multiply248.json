@@ -1,0 +1,249 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply248",
+  "sortOrder": 52,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Johannes 14:1-31",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Habt keine Angst. Ihr vertraut auf Gott, nun vertraut auch auf mich! <sup>2</sup>Es gibt viele Wohnungen im Haus meines Vaters, und ich gehe voraus, um euch einen Platz vorzubereiten. Wenn es nicht so wäre, hätte ich es euch dann so gesagt? <sup>3</sup>Wenn dann alles bereit ist, werde ich kommen und euch holen, damit ihr immer bei mir seid, dort, wo ich bin. <sup>4</sup>Ihr wisst ja, wohin ich gehe und wie ihr dorthin kommen könnt.« <sup>5</sup>»Nein, Herr, das wissen wir nicht«, sagte Thomas. »Wir haben keine Ahnung, wo du hingehst; wie können wir da den Weg kennen?« <sup>6</sup>Jesus sagte zu ihm: »Ich bin der Weg, die Wahrheit und das Leben. Niemand kommt zum Vater außer durch mich. <sup>7</sup>Wenn ihr erkannt habt, wer ich bin, dann habt ihr auch erkannt, wer mein Vater ist. Doch von nun an kennt ihr ihn und habt ihn gesehen!« <sup>8</sup>Philippus sagte: »Herr, zeig uns den Vater, dann sind wir zufrieden.« <sup>9</sup>Jesus erwiderte: »Philippus, weißt du denn nach all der Zeit, die ich bei euch war, noch immer nicht, wer ich bin? Wer mich gesehen hat, hat den Vater gesehen! Warum verlangst du noch, ihn zu sehen? <sup>10</sup>Glaubst du nicht, dass ich im Vater bin und der Vater in mir ist? Die Worte, die ich euch sage, stammen ja nicht von mir, sondern der Vater, der in mir lebt, wirkt durch mich. <sup>11</sup>Glaubt doch, dass ich im Vater bin und der Vater in mir ist. Oder glaubt wenigstens aufgrund von dem, was ich getan habe. <sup>12</sup>Ich versichere euch: Wer an mich glaubt, wird dieselben Dinge tun, die ich getan habe, ja noch größere, denn ich gehe, um beim Vater zu sein. <sup>13</sup>Ihr dürft in meinem Namen um alles bitten, und ich werde eure Bitten erfüllen, weil durch den Sohn der Vater verherrlicht wird. <sup>14</sup>Bittet, um was ihr wollt, in meinem Namen, und ich werde es tun! <h3>Jesus verspricht den Jüngern den Heiligen Geist</h3><sup>15</sup>Wenn ihr mich liebt, werdet ihr meine Gebote halten. <sup>16</sup>Und ich werde den Vater bitten, und er wird euch einen anderen Ratgeber geben, der euch nie verlassen wird. <sup>17</sup>Es ist der Heilige Geist, der in alle Wahrheit führt. Die Welt kann ihn nicht empfangen, denn sie sucht ihn nicht und erkennt ihn nicht. Ihr aber kennt ihn, weil er bei euch bleibt und später in euch sein wird. <sup>18</sup>Nein, ich werde euch nicht verwaist zurücklassen – ich werde zu euch kommen. <sup>19</sup>Die Welt wird mich schon bald nicht mehr sehen, doch ihr werdet es. Denn ich werde leben, und ihr werdet auch leben. <sup>20</sup>Wenn ich wieder zum Leben auferstanden bin, werdet ihr wissen, dass ich in meinem Vater bin und ihr in mir seid und ich in euch. <sup>21</sup>Wer meine Gebote kennt und sie befolgt, der liebt mich. Und weil er mich liebt, wird mein Vater ihn lieben und ich werde ihn lieben. Und ich werde mich ihm persönlich zu erkennen geben.« <sup>22</sup>Judas (nicht Judas Iskariot, sondern der andere Jünger gleichen Namens) sagte zu ihm: »Herr, warum willst du dich nur uns zu erkennen geben und nicht der ganzen Welt?« <sup>23</sup>Jesus erwiderte: »Wer mich liebt, wird tun, was ich sage. Mein Vater wird ihn lieben, und wir werden zu ihm kommen und bei ihm wohnen. <sup>24</sup>Wer mich nicht liebt, wird nicht tun, was ich sage. Vergesst nicht: Meine Worte kommen nicht aus mir selbst, sondern vom Vater, der mich gesandt hat. <sup>25</sup>Ich sage euch all diese Dinge jetzt, solange ich noch bei euch bin. <sup>26</sup>Doch wenn der Vater den Ratgeber als meinen Stellvertreter schickt – und damit meine ich den Heiligen Geist –, wird er euch alles lehren und euch an alles erinnern, was ich euch gesagt habe. <sup>27</sup>Ich lasse euch ein Geschenk zurück – meinen Frieden. Und der Friede, den ich schenke, ist nicht wie der Friede, den die Welt gibt. Deshalb sorgt euch nicht und habt keine Angst. <sup>28</sup>Denkt an das, was ich euch gesagt habe: Ich gehe fort, aber ich werde wieder zu euch kommen. Wenn ihr mich wirklich lieb habt, freut ihr euch für mich, weil ich jetzt zum Vater gehen darf, der größer ist als ich. <sup>29</sup>Ich habe euch all diese Dinge gesagt, ehe sie geschehen, damit ihr, wenn sie eintreffen, glaubt. <sup>30</sup>Mir bleibt nicht mehr viel Zeit, mit euch zu sprechen, weil der Herrscher dieser Welt schon ganz nah ist. Er hat keine Macht über mich; <sup>31</sup>doch ich werde tun, was der Vater von mir will, damit die Welt erkennt, dass ich den Vater liebe. Kommt, lasst uns von hier weggehen. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Johannes%2014:1-31",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Johannes 14",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2215",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2215",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthäus 26:36-46",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>36</sup>Dann nahm Jesus sie mit in einen Olivenhain mit dem Namen Gethsemane. Dort sagte er zu ihnen: »Bleibt hier sitzen, während ich ein Stück weitergehe, um zu beten.« <sup>37</sup>Petrus und die beiden Söhne des Zebedäus, Jakobus und Johannes, nahm er mit. Er war sehr traurig, und schreckliche Angst quälte ihn. <sup>38</sup>Er sagte zu ihnen: »Meine Seele ist zu Tode betrübt. Bleibt hier und wacht mit mir.« <sup>39</sup>Er ging noch ein bisschen weiter, sank zu Boden und betete: »Mein Vater! Wenn es möglich ist, lass den Kelch des Leides an mir vorübergehen. Doch ich will deinen Willen tun, nicht meinen.« <sup>40</sup>Dann kehrte er zu den Jüngern zurück und sah, dass sie eingeschlafen waren. Er sagte zu Petrus: »Konntet ihr nicht wenigstens eine Stunde mit mir wach bleiben? <sup>41</sup>Bleibt wach und betet. Sonst wird euch die Versuchung überwältigen. Denn der Geist ist zwar willig, aber der Körper ist schwach!« <sup>42</sup>Und wieder ließ er sie zurück und betete: »Mein Vater! Wenn dieser Kelch nicht an mir vorübergehen kann, dann geschehe dein Wille.« <sup>43</sup>Wieder ging er zu den Jüngern zurück und sah, dass sie schliefen, denn sie konnten ihre Augen nicht offen halten. <sup>44</sup>Da ging er ein drittes Mal fort, um zu beten, und sprach die gleichen Worte. <sup>45</sup>Dann kehrte er zu den Jüngern zurück und sagte: »Schlaft ihr immer noch? Ruht ihr euch immer noch aus? Nun ist es so weit. Der Menschensohn wird in die Hände der Verbrecher ausgeliefert. <sup>46</sup>Kommt, lasst uns gehen. Seht, mein Verräter ist schon da!« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Matthäus%2026:36-46",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Matthäus 26:36-46",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMatt2522",
+        "source": "arclight",
+        "refId": "6_529-GOMatt2522",
+        "startTime": "start",
+        "endTime": "1:55",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus hatte die letzten paar Jahre damit verbracht, Menschen darüber zu lehren, wie das Leben in Gottes Königreich funktioniert und was es überhaupt ist. An seinem letzten gemeinsamen Abend mit den Jüngern lehrt Jesus zusätzlich über seinen Weggang und das Geschenk des Geistes, der den Jüngern helfen würde, so zu leben, wie Gott es will. Seine Nachfolger waren verwirrt darüber, was passieren sollte, aber Jesus macht ihnen klar, dass er der Mensch gewordene Gott ist. Jesus ist unser perfektes Vorbild für das Leben und den Dienst.<br> Wir verstehen Gott, weil er sich durch das Leben von Jesus offenbart hat. Jesus tat alles durch den Heiligen Geist und durch seine Kraft können wir sein Werk, Jünger zu machen, fortführen."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus modelliert Leiterschaft, die sich dem Vater unterordnet und seinen Willen durch seine Kraft tut. Er erinnert sie an die Grundlagen der Abhängigkeit vom Heiligen Geist: Gebet, dem Plan des Vaters gehorchen, die Priorität des Wortes Gottes (inklusive dem, was Jesus gesagt hat!), den Vater ehren und bewusst in Beziehungen investieren. <br>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-18"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply248-i-will"
+      }
+    }
+  ]
+}

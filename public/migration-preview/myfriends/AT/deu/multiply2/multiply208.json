@@ -1,0 +1,258 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply208",
+  "sortOrder": 10,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Johannes 1:19-51",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>19</sup>Die führenden Männer des jüdischen Volkes schickten Priester und Leviten aus Jerusalem zu Johannes, um ihn zu fragen: »Wer bist du eigentlich?« <sup>20</sup>Johannes schwieg nicht, sondern bekannte klar und deutlich: »Ich bin nicht der Christus .« <sup>21</sup>»Wer bist du dann?«, fragten sie. »Bist du Elia?« »Nein«, erwiderte er. »Bist du der Prophet?« »Nein.« <sup>22</sup>»Wer bist du dann? Sag es uns, damit wir die Antwort denen überbringen können, die uns geschickt haben. Was sagst du selbst, wer du bist?« <sup>23</sup>Johannes antwortete mit den Worten des Propheten Jesaja: »Ich bin eine Stimme, die in der Wüste ruft: ›Ebnet den Weg für das Kommen des Herrn!‹« <sup>24</sup>Darauf fragten ihn die Abgesandten der Pharisäer: <sup>25</sup>»Wenn du weder der Christus noch Elia oder der Prophet bist, mit welchem Recht taufst du dann?« <sup>26</sup>Johannes antwortete ihnen: »Ich taufe nur mit Wasser, doch hier mitten unter euch steht einer, den ihr noch nicht kennt. <sup>27</sup>Er wird aber schon bald nach mir kommen. Ich bin nicht einmal wert, sein Diener zu sein .« <sup>28</sup>Diese Begebenheit ereignete sich in Betanien, einem Dorf am Ostufer des Jordan, wo Johannes taufte. <h3>Jesus, das Lamm Gottes</h3><sup>29</sup>Am nächsten Tag, als Johannes Jesus auf sich zukommen sah, sagte er: »Seht her! Da ist das Lamm Gottes, das die Sünde der Welt wegnimmt! <sup>30</sup>Er ist es, von dem ich sagte: ›Bald nach mir kommt ein Mann, der größer ist als ich, denn er war da, lange bevor es mich gab.‹ <sup>31</sup>Ich kannte ihn nicht. Aber um Israel die Augen für ihn zu öffnen, bin ich gekommen und habe mit Wasser getauft.« <sup>32</sup>Und er fuhr fort: »Ich sah den Heiligen Geist wie eine Taube vom Himmel herabkommen und sich auf ihm niederlassen. <sup>33</sup>Ich kannte ihn nicht, doch Gott, der mir den Auftrag gegeben hat, mit Wasser zu taufen, sagte zu mir: ›Der, auf den du den Heiligen Geist herabkommen und sich niederlassen siehst, ist der, den du suchst. Er ist es, der mit dem Heiligen Geist tauft.‹ <sup>34</sup>Das habe ich nun gesehen und deshalb bezeuge ich, dass dieser Mann der Sohn Gottes ist. « <h3>Die ersten Jünger</h3><sup>35</sup>Am nächsten Tag stand Johannes an der gleichen Stelle und zwei seiner Jünger waren bei ihm. <sup>36</sup>Als Jesus vorüberging, blickte Johannes ihn an und rief aus: »Seht hin! Dieser ist das Lamm Gottes!« <sup>37</sup>Da wandten sich seine beiden Jünger um und folgten Jesus. <sup>38</sup>Jesus schaute sich um und sah, dass sie ihm folgten. »Was wollt ihr?«, fragte er sie. Sie antworteten: »Rabbi« (das bedeutet: Meister), »wo wohnst du?« <sup>39</sup>»Kommt mit, dann werdet ihr es sehen«, sagte er. Es war etwa vier Uhr nachmittags, als sie mit ihm dorthin gingen, und sie blieben für den Rest des Tages dort. <sup>40</sup>Andreas, der Bruder von Simon Petrus, war einer der beiden Männer, die Jesus gefolgt waren, weil sie gehört hatten, was Johannes über ihn sagte. <sup>41</sup>Sofort suchte er seinen Bruder Simon auf und erzählte ihm: »Wir haben den Messias gefunden« (das bedeutet: den Christus ). <sup>42</sup>Dann nahm Andreas Simon mit zu Jesus. Jesus sah ihn aufmerksam an und sagte: »Du bist Simon, der Sohn des Johannes – doch du wirst Kephas genannt werden« (das bedeutet: Petrus ). <sup>43</sup>Als Jesus am nächsten Tag beschloss, nach Galiläa zu gehen, begegnete er Philippus und sagte zu ihm: »Komm mit und folge mir nach.« <sup>44</sup>Philippus stammte aus Betsaida, der Heimatstadt von Andreas und Petrus. <sup>45</sup>Philippus machte sich auf die Suche nach Nathanael und erzählte ihm: »Wir haben den gefunden, von dem Mose und die Propheten geschrieben haben! Es ist Jesus, der Sohn von Josef aus Nazareth.« <sup>46</sup>»Aus Nazareth!«, rief Nathanael aus. »Kann denn aus Nazareth etwas Gutes kommen?« Philippus antwortete: »Komm mit und überzeuge dich selbst.« <sup>47</sup>Als Jesus Nathanael auf sich zukommen sah, sagte er: »Da kommt ein aufrechter Mann – ein wahrer Sohn Israels.« <sup>48</sup>Nathanael fragte: »Woher kennst du mich?« Jesus antwortete: »Ich sah dich unter dem Feigenbaum, noch bevor Philippus dich rief.« <sup>49</sup>Da antwortete Nathanael: »Rabbi, du bist der Sohn Gottes – du bist der König Israels!« <sup>50</sup>Jesus entgegnete: »Glaubst du das jetzt nur, weil ich dir gesagt habe, dass ich dich unter dem Feigenbaum sah? Du wirst viel Größeres sehen.« <sup>51</sup>Und er fuhr fort: »Ich versichere euch: Ihr werdet sehen, dass der Himmel offen steht und die Engel Gottes über dem Menschensohn hinauf- und herabsteigen.« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Johannes%201:19-51",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Johannes 1:19-34",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2201",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2201",
+        "startTime": "3:33",
+        "endTime": "6:24",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Johannes 1:35-51",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2202",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2202",
+        "startTime": "start",
+        "endTime": "2:40",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong id=\"docs-internal-guid-1d6aa0ab-7fff-d0cd-82a5-e4bbed1e2681\">Nach 40 Tagen in der Wildnis startete Jesus seine Mission, Jünger zu machen. Er beginnt damit, einen Lebensstil vorzuleben, der sich Beziehungsnetzwerke zu Nutze macht.</strong>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong id=\"docs-internal-guid-1d6aa0ab-7fff-d0cd-82a5-e4bbed1e2681\">Andreas, Petrus, Johannes, Philipp und Nathanael kannten einander. Er beginnt damit, Menschen zu rufen: “Komm und sieh!”, damit sie mehr über seine Identität herausfinden können. Andreas glaubt, dass Jesus der versprochene Messias ist und erzählt seinem Bruder davon. </strong>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong id=\"docs-internal-guid-1d6aa0ab-7fff-d0cd-82a5-e4bbed1e2681\">Am nächsten Tag ruft er Philippus dazu auf, ihm nachzufolgen.</strong>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong id=\"docs-internal-guid-1d6aa0ab-7fff-d0cd-82a5-e4bbed1e2681\">Wir erkennen zwei kurz aufeinander folgende Rufe von Jesus: zuerst den, ihn kennenzulernen und Zeit mit ihm zu verbringen und dann den Ruf, ihm nachzufolgen.</strong>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-18"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply208-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "site": "myfriends",
+  "country": "AU",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro2",
+  "sortOrder": 15,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "(Crossing Cultural Boundaries) [32-45 AD]"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Summary",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "This period covers about 12 years of growth and ministry. It is marked by new cultural boundaries being crossed as Jesus guides the believers to go outside of Jerusalem to make disciples. Disciple making and church planting spread from Jerusalem, to Judea, to Samaria, and to the Gentile world."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Letters written during this period",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "James, mid- 40’s"
+        ]
+      }
+    }
+  ]
+}

@@ -164,8 +164,14 @@ function handleTextClick(event: MouseEvent): void {
 }
 
 .bible-reference-block__passage-text :deep(h3) {
-    font-size: 1rem;
-    font-weight: 700;
-    margin: 0.75rem 0 0.4rem;
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0.75rem 0 0.4rem;
+}
+
+.bible-reference-block__passage-text :deep(h4) {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0.75rem 0 0.4rem;
 }
 </style>

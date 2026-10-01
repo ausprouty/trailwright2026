@@ -1,0 +1,221 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply237",
+  "sortOrder": 41,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthäus 14:22-33",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>22</sup>Sofort danach schickte Jesus seine Jünger zum Boot zurück und befahl ihnen, ans andere Ufer überzusetzen, während er die Menschen nach Hause entließ. <sup>23</sup>Dann stieg er allein in die Berge hinauf, um dort zu beten. Als es dunkel wurde, war er immer noch allein dort oben. <sup>24</sup>Währenddessen hatte sich das Boot weit vom Ufer entfernt und war in schweren Seegang geraten, denn ein starker Wind war aufgekommen. <sup>25</sup>Gegen drei Uhr morgens kam Jesus über das Wasser zu ihnen. <sup>26</sup>Als ihn die Jünger sahen, schrien sie entsetzt auf, denn sie hielten ihn für einen Geist. <sup>27</sup>Doch Jesus sprach sie sogleich an: »Es ist gut«, sagte er. »Ich bin es! Habt keine Angst.« <sup>28</sup>Da rief Petrus ihm zu: »Herr, wenn du es wirklich bist, befiehl mir, auf dem Wasser zu dir zu kommen.« <sup>29</sup>»Dann komm«, sagte Jesus. Und Petrus stieg aus dem Boot und ging über das Wasser, Jesus entgegen. <sup>30</sup>Als er sich aber umsah und die hohen Wellen erblickte, bekam er Angst und begann zu versinken. »Herr, rette mich!«, schrie er. <sup>31</sup>Sofort streckte Jesus ihm die Hand hin und hielt ihn fest. »Du hast nicht viel Glauben«, sagte Jesus. »Warum hast du gezweifelt?« <sup>32</sup>Als sie schließlich zurück ins Boot stiegen, legte sich der Wind. <sup>33</sup>Da beteten ihn die Jünger an. »Du bist wirklich der Sohn Gottes!«, riefen sie. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Matthäus%2014:22-33",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Matthäus 14:22-33",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMatt2511",
+        "source": "arclight",
+        "refId": "6_529-GOMatt2511",
+        "startTime": "1:35",
+        "endTime": "3:31",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus drängte seine Jünger, im Boot den See zu überqueren, während er allein Zeit mit dem Vater verbrachte. Erstaunlicherweise sandte er sie bewusst in einen Sturm hinein und sah ihnen eine Weile zu, wie sie kämpften. Dann kam er auf dem Wasser zu ihnen. Sie waren müde und verängstigt und begannen zu schreien: “Es ist ein Geist!” Jesus redete mit ihnen und beruhigte sie. Petrus zeigte seinen mutigen Glauben, indem er mit Jesus auf dem Wasser gehen wollte. Das gelang, bis Petrus seine Augen von Jesus abwandte. Als er um Hilfe schrie, rettete Jesus ihn sofort. Die zwölf Apostel wussten, sie waren in der Gegenwart des Sohnes Gottes und beteten ihn an."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-16"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply237-i-will"
+      }
+    }
+  ]
+}

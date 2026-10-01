@@ -1,0 +1,227 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply230",
+  "sortOrder": 34,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lukas 7:18-35",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>18</sup>Johannes der Täufer erfuhr von seinen Jüngern alles, was Jesus tat. Er rief zwei seiner Jünger zu sich <sup>19</sup>und schickte sie zum Herrn, um ihn zu fragen: »Bist du wirklich der, der kommen soll, oder sollen wir auf einen anderen warten?« <sup>20</sup>Die beiden Jünger von Johannes fanden Jesus und sagten zu ihm: »Johannes der Täufer schickt uns, um zu fragen: ›Bist du wirklich der, der kommen soll, oder sollen wir auf einen anderen warten?‹« <sup>21</sup>Während sie bei ihm waren, heilte er viele Menschen von ihren Krankheiten, trieb böse Geister aus und gab Blinden ihr Augenlicht zurück. <sup>22</sup>Er gab den Jüngern des Johannes zur Antwort: »Kehrt zu Johannes zurück und berichtet ihm, was ihr gesehen und gehört habt: Blinde sehen, Gelähmte gehen, Aussätzige werden geheilt, Taube hören, Tote werden auferweckt und den Armen wird die gute Botschaft verkündet. <sup>23</sup>Und sagt ihm auch: ›Glücklich sind die, die keinen Anstoß an mir nehmen .‹« <sup>24</sup>Als sie gegangen waren, wandte Jesus sich an die Menge und sagte über Johannes: »Wer ist dieser Mann in der Wüste, den ihr unbedingt sehen wolltet? Kam er euch schwach vor wie ein Schilfrohr, das im Windhauch hin- und herschwankt? <sup>25</sup>Oder habt ihr einen Mann erwartet, der in kostbare Gewänder gehüllt ist? Nein, Leute mit kostbaren Kleidern und verschwenderischer Lebensart wohnen in Palästen, nicht in der Wüste. <sup>26</sup>Oder habt ihr in ihm einen Propheten vermutet? Ja, das ist er, und er ist sogar noch mehr als das. <sup>27</sup>Johannes ist der Mann, von dem die Schrift sagt: ›Ich sende meinen Boten vor dir her, er wird deine Ankunft vorbereiten.‹ <sup>28</sup>Ich sage euch: Von allen Menschen, die jemals gelebt haben, ist keiner größer als Johannes. Und doch ist noch der Geringste im Reich Gottes größer als er! <sup>29</sup>Und alle, die ihn gehört haben – selbst die Steuereinnehmer –, gaben Gott recht, als sie sich von Johannes taufen ließen. <sup>30</sup>Die Pharisäer und die Schriftgelehrten dagegen lehnten den Plan, den Gott für sie hatte, ab, denn sie ließen sich nicht von Johannes taufen. <sup>31</sup>Wie soll ich die Menschen dieser Generation beschreiben?«, fragte Jesus. »Womit soll ich sie vergleichen? <sup>32</sup>Sie sind wie Kinder, die auf der Straße spielen und sich bei ihren Freunden beklagen: ›Wir haben lustige Lieder gespielt, und ihr wart nicht fröhlich; dann haben wir Klagelieder gespielt, aber ihr wart nicht traurig.‹ <sup>33</sup>Denn Johannes der Täufer trank keinen Wein und fastete oft, und von ihm sagt ihr: ›Er ist von einem Dämon besessen.‹ <sup>34</sup>Der Menschensohn feiert und trinkt, und von ihm sagt ihr: ›Er ist ein Schlemmer und Säufer, und die schlimmsten Leute sind seine Freunde!‹ <sup>35</sup>Doch die Weisheit erweist sich als richtig im Leben derer, die sie befolgen. «<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Lukas%207:18-35",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lukas 7:18-35",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2607",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2607",
+        "startTime": "3:10",
+        "endTime": "6:18",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus wurde oft missverstanden. Johannes der Täufer war seit einiger Zeit im Gefängnis und kämpfte mit Zweifeln darüber, ob Jesus wirklich Gottes Königreich bringen würde. Deswegen sandte er ein paar seiner übrig gebliebenen Jünger zu Jesus, um ihn direkt zu fragen.<br> Jesus sandte die Männer mit einem Zitat aus dem Alten Testament zurück. Es ist dasselbe Zitat aus Jesaja, das er auch in Nazareth gebracht hatte. Er erinnerte Johannes daran, dass er die Werke des Messias tat. Dann lobt er die Leiterschaft des Johannes vor seinen Jüngern. Er stellte es in Gegensatz zu den schlimmen Dingen, die Menschen über Johannes den Täufer und ihn selbst sagten.<br> Selbst nachdem sie Jesus mehr als zwei Jahre beobachtet hatten, beschuldigten sie ihn, von Dämonen besessen zu sein, ein Vielfraß und Trinker. Wir lernen, dass es Teil von Leiterschaft ist, missverstanden zu werden."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-17"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply230-i-will"
+      }
+    }
+  ]
+}

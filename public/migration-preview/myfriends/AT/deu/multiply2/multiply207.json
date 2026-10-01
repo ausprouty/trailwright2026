@@ -1,0 +1,227 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply207",
+  "sortOrder": 9,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lukas 4:1-13",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Vom Heiligen Geist erfüllt, verließ Jesus den Jordan. Der Geist brachte ihn in die Wüste, <sup>2</sup>wo der Teufel ihn vierzig Tage lang in Versuchung führte. Während dieser ganzen Zeit aß er nichts, sodass er schließlich sehr hungrig war. <sup>3</sup>Da sagte der Teufel zu ihm: »Wenn du der Sohn Gottes bist, verwandle doch diesen Stein in Brot.« <sup>4</sup>Aber Jesus erwiderte: »Nein! In der Schrift steht: ›Der Mensch braucht mehr als nur Brot zum Leben.‹ « <sup>5</sup>Da führte der Teufel ihn auf die Höhe und zeigte ihm alle Königreiche der Welt in einem Augenblick. <sup>6</sup>Und er sagte zu ihm: »Ich will dir Macht über diese Länder und all ihre Reichtümer geben, denn ich verfüge über sie und kann sie geben, wem ich will. <sup>7</sup>Das alles werde ich dir schenken, wenn du niederkniest und mich anbetest.« <sup>8</sup>Jesus erwiderte: »In der Schrift steht: ›Du sollst den Herrn, deinen Gott, anbeten und nur ihm allein dienen.‹ « <sup>9</sup>Da versetzte der Teufel ihn nach Jerusalem auf den höchsten Punkt des Tempels und sagte: »Wenn du der Sohn Gottes bist, spring hier hinunter! <sup>10</sup>Denn in der Schrift steht: ›Er befiehlt seinen Engeln, dich zu beschützen und zu bewahren. <sup>11</sup>Sie werden dich auf ihren Händen tragen, damit deine Füße niemals stolpern.‹ « <sup>12</sup>Jesus erwiderte: »In der Schrift steht auch: ›Fordere den Herrn, deinen Gott, nicht heraus.‹ « <sup>13</sup>Als der Teufel aufgehört hatte, Jesus zu versuchen, verließ er ihn für einige Zeit .<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Lukas%204:1-13",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lukas 4:1-13",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2604",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2604",
+        "startTime": "start",
+        "endTime": "1:51",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong id=\"docs-internal-guid-48b8118d-7fff-2e19-7a4b-485d0bea1df6\">Jesus wurde vom Heiligen Geist in die Wüste geführt, um dort von Satan selber versucht zu werden. Nach 40 Tagen Versuchungen aller Art kam der Feind wieder zu Jesus. Jesus war jetzt schwach, müde und sehr, sehr hungrig. Satans Versuchung war eine direkte Attacke auf die Wahrheit von Gottes Worten. Das war seine Strategie von Anfang an! Satan benutzte die gleiche Strategie, als er Adam und Eva versuchte (1.Mose 3). Jesus zeigt hier ein Beispiel davon, wie man Gottes Versprechen als Verteidigung gegen die Angriffe des Feindes verwendet und ausspricht.</strong>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-17"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply207-i-will"
+      }
+    }
+  ]
+}

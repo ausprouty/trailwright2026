@@ -1,0 +1,233 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply209",
+  "sortOrder": 11,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Johannes 2:1-11",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Am übernächsten Tag war die Mutter von Jesus bei einer Hochzeitsfeier in Kana, einem Dorf in Galiläa. <sup>2</sup>Auch Jesus und seine Jünger waren zu der Feier eingeladen. <sup>3</sup>Während des Festes ging der Wein aus, und die Mutter von Jesus machte ihn darauf aufmerksam. »Sie haben keinen Wein mehr«, sagte sie zu ihm. <sup>4</sup>»Was hat das mit mir und dir zu tun?«, fragte Jesus. »Meine Zeit ist noch nicht gekommen.« <sup>5</sup>Doch seine Mutter wies die Diener an: »Tut, was immer er euch befiehlt.« <sup>6</sup>Im Haus gab es sechs steinerne Wasserbehälter, die für die vorgeschriebenen Reinigungshandlungen der Juden verwendet wurden und jeweils rund hundert Liter fassten. <sup>7</sup>Jesus sprach zu den Dienern: »Füllt die Krüge mit Wasser.« Als sie die Krüge bis zum Rand gefüllt hatten, <sup>8</sup>sagte er: »Schöpft daraus und bringt es dem Zeremonienmeister.« Sie folgten seiner Anweisung. <sup>9</sup>Der Zeremonienmeister kostete von dem Wasser, das nun Wein war. Da er nicht wusste, woher der Wein kam – denn nur die Diener, die ihn geschöpft hatten, wussten es –, ließ er den Bräutigam holen. <sup>10</sup>»Eigentlich schenkt ein Gastgeber den besseren Wein zuerst aus«, sagte er. »Später, wenn alle betrunken sind und es ihnen nichts mehr ausmacht, holt er den weniger guten. Du dagegen hast den besten Wein bis jetzt zurückbehalten!« <sup>11</sup>Durch dieses Wunder in Kana in Galiläa zeigte Jesus zum ersten Mal seine Herrlichkeit. Und seine Jünger glaubten an ihn. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Johannes%202:1-11",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Johannes 2:1-11",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2202",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2202",
+        "startTime": "2:49",
+        "endTime": "4:40",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<p dir=\"ltr\"><strong id=\"docs-internal-guid-55633959-7fff-bc3e-0911-5ce6f8122641\">Lies auch Johannes 1,41.</strong></p><p dir=\"ltr\"><strong id=\"docs-internal-guid-55633959-7fff-bc3e-0911-5ce6f8122641\">Jesus war voll und ganz Mensch, mit einer realen Familie, aus einer real existierenden Stadt in Israel. Seine Nachfolger bekamen die Chance, seine Familie kennenzulernen. </strong></p><p dir=\"ltr\"><strong id=\"docs-internal-guid-55633959-7fff-bc3e-0911-5ce6f8122641\">Aber als er Wasser in Wein verwandelte, bekamen sie auch die Chance zu sehen, wie Jesus aus seiner Verbindung mit dem Vater das Reich Gottes auf die Welt brachte. Das war das erste Zeichen, mit dem er seine Herrlichkeit zeigte. </strong></p><p dir=\"ltr\"><strong id=\"docs-internal-guid-55633959-7fff-bc3e-0911-5ce6f8122641\">Als seine Jünger mehr über Jesus wussten und mehr mit ihm erlebten, wuchs auch ihr Glaube an ihn. Durch die viele Zeit, die Jesus mit ihnen verbrachte, wurden sie gestärkt und erzählten dann anderen von ihm.</strong></p>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-18"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply209-i-will"
+      }
+    }
+  ]
+}

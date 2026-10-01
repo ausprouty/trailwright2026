@@ -1,0 +1,221 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply238",
+  "sortOrder": 42,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Markus 7:31-8:9",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>31</sup>Jesus verließ Tyrus und ging nach Sidon; dann kehrte er zurück an den See von Galiläa und in das Gebiet der Zehn Städte. <sup>32</sup>Ein Mann, der taub war und kaum sprechen konnte, wurde zu ihm gebracht. Die Leute baten Jesus, dem Mann die Hände aufzulegen und ihn zu heilen. <sup>33</sup>Jesus führte ihn an einen ruhigen Ort, fort von der Menge. Er legte seine Finger in die Ohren des Mannes. Dann benetzte er die Fingerspitzen mit seinem Speichel und berührte damit die Zunge des Mannes. <sup>34</sup>Schließlich blickte er zum Himmel auf, seufzte und befahl: »Öffne dich !« <sup>35</sup>Und im selben Augenblick konnte der Mann hören und normal sprechen! <sup>36</sup>Jesus ermahnte die Menge, niemandem davon zu erzählen. Doch je mehr er es ihnen verbot, desto rascher verbreiteten sie die Nachricht, <sup>37</sup>weil sie vor Staunen völlig außer sich waren. Wieder und wieder sagten sie: »Es ist alles wunderbar, was er tut. Er heilt sogar die Tauben und Stummen.« <!-- end bible --></div><div></div><!-- end bible --><div><!-- begin bible --><sup>8:1</sup>In diesen Tagen hatte sich erneut eine große Menschenmenge versammelt. Da die Menschen nichts zu essen hatten, rief Jesus seine Jünger zu sich und sagte zu ihnen: <sup>2</sup>»Die Menschen tun mir leid. Sie waren drei Tage hier bei mir, und nun haben sie nichts mehr zu essen. <sup>3</sup>Wenn ich sie ohne Essen heimschicke, könnten sie unterwegs zusammenbrechen, denn einige von ihnen sind von weit her gekommen.« <sup>4</sup>»Wie sollen wir denn hier in dieser einsamen Gegend genug zu essen für sie finden?«, fragten seine Jünger. <sup>5</sup>»Wie viele Brote habt ihr?«, fragte er sie. »Sieben«, antworteten sie. <sup>6</sup>Da forderte Jesus die Menschen auf, sich auf die Erde zu setzen. Dann nahm er die sieben Brote, dankte Gott dafür, brach sie in Stücke und gab sie seinen Jüngern, damit sie das Brot an die Menge austeilten. <sup>7</sup>Sie hatten auch noch einige kleine Fische, und Jesus segnete sie und ließ sie durch seine Jünger verteilen. <sup>8</sup>Alle aßen, bis sie satt waren, und als die Reste eingesammelt wurden, füllten sie sieben große Körbe voll! <sup>9</sup>An diesem Tag waren viertausend Menschen beisammen. Nachdem sie gegessen hatten, entließ er sie nach Hause. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Markus%208:1-9",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Markus 7:31-8:9",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMark1506",
+        "source": "arclight",
+        "refId": "6_529-GOMark1506",
+        "startTime": "4:25",
+        "endTime": "7:37",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus gab dem Training und der Entwicklung seiner zukünftigen Movement-Leiter volle Priorität. Er zieht sich mit ihnen in den Norden zurück, nach Tyrus und Sidon, hinaus aus ihrem Land und weg vom Ministry-Druck. Dann reisten sie zurück in die Region Dekapolis auf der Ostseite des Sees Genezareth. Das war ihr erstes Mal dort, seit der von Dämonen besessene Mann befreit wurde und zu seiner Familie und Freunden gesandt wurde. Was für ein Unterschied! Letztes Mal wurde Jesus gebeten, wegzugehen. Jetzt verbreitete sich die Nachricht, dass er da war und Tausende versammelten sich, um von ihm zu hören und seine Kraft in ihrem Leben zu erleben. Sie gingen nicht einmal nach Hause, um zu essen oder zu schlafen.<br> Nach 3 Tagen brauchte Jesus sein Team wieder, um ihnen sein Erbarmen für alle Menschen und seine Versorgungskraft zu zeigen. Sie lernten, dass das Zeugnis von einem von Jesus veränderten Leben die Tür zu einer ganz neuen Gruppe von Menschen öffnen kann. Die Jünger erleben durch diese Speisung der 4000, dass Jesus Erbarmen für alle Menschen und Nationen hat.<br>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-16"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply238-i-will"
+      }
+    }
+  ]
+}

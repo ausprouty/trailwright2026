@@ -1,0 +1,234 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply236",
+  "sortOrder": 40,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Johannes 6:1-14",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Danach ging Jesus auf die andere Seite des galiläischen Meeres, das auch als See von Tiberias bekannt ist. <sup>2</sup>Eine große Menschenmenge folgte ihm, weil sie seine Wunder sahen, mit denen er die Kranken heilte. <sup>3</sup>Jesus stieg in die Berge hinauf und lagerte dort mit seinen Jüngern. <sup>4</sup>Es war kurz vor dem jährlichen Passahfest, das die Juden feiern. <sup>5</sup>Als Jesus seinen Blick hob, sah er eine große Menschenmenge auf der Suche nach ihm die Berge heraufkommen. Er wandte sich an Philippus und fragte: »Philippus, wo können wir so viel Brot kaufen, dass all diese Menschen zu essen bekommen?« <sup>6</sup>Er stellte Philippus jedoch nur auf die Probe, denn er wusste schon, was er tun würde. <sup>7</sup>Philippus antwortete: »Es würde ein kleines Vermögen kosten, sie mit Nahrung zu versorgen!« <sup>8</sup>Ein anderer Jünger, Andreas, der Bruder von Simon Petrus, meldete sich zu Wort: <sup>9</sup>»Hier ist ein kleiner Junge mit fünf Gerstenbroten und zwei Fischen. Doch was nützt uns das bei so vielen Menschen?« <sup>10</sup>»Sagt den Leuten, sie sollen sich hinsetzen«, befahl Jesus. Da ließen sich alle – allein die Männer zählten schon fünftausend – auf den grasbewachsenen Hängen nieder. <sup>11</sup>Dann nahm Jesus die Brote, dankte Gott und reichte sie den Menschen, wie viel sie auch wollten. Ebenso machte er es mit den Fischen. <sup>12</sup>Und alle aßen, bis sie satt waren. »Sammelt die Reste wieder ein«, wies Jesus seine Jünger an, »damit nichts umkommt.« <sup>13</sup>Am Anfang waren es nur fünf Gerstenbrote gewesen, doch nach dem Essen wurden zwölf Körbe mit den Brotresten gefüllt, die übrig geblieben waren! <sup>14</sup>Als die Leute dieses Wunder sahen, riefen sie aus: »Dieser ist wirklich der Prophet, den wir erwartet haben. Er ist es, der in die Welt kommen soll.« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Johannes%206:1-14",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Johannes 6:1-14",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2206",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2206",
+        "startTime": "start",
+        "endTime": "2:05",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus suchte einen Ort, um sich mit seinen Leitern zurückzuziehen, aber der Vater hatte andere Pläne. Als sie sich dem anderen Ufer näherten, konnte Jesus bereits die große Menschenmenge sehen, die sich dort versammelte, weil sie die Wunder gesehen hatten, die Jesus getan hatte. Jesus war innerlich bewegt und hatte Mitleid mit ihnen, weil sie wie Schafe ohne einen Hirten waren (Markus 6,34). Jesus begann, die riesige Menge von 5000 Männern und zusätzlich Frauen und Kindern zu lehren. Er nutzte die Gelegenheit, um seinen Leitern etwas über Multiplikation und Gottes Versorgung zu lernen, indem er sie herausforderte, Essen für die Menge zu besorgen. Sie lernten:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "hinzuschauen und das Bedürfnis zu sehen",
+                  "es sich zu erlauben, von Mitleid und Erbarmen bewegt zu werden",
+                  "die Ressourcen um sich herum zu sammeln und auch andere zu fragen (den kleinen Jungen), alles zu geben, damit Multiplikation möglich wird",
+                  "zu organisieren und das übernatürliche Eingreifen Gottes zu erwarten",
+                  "alles, was sie haben, Gott im Glauben zu geben und ihm zu danken"
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-16"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply236-i-will"
+      }
+    }
+  ]
+}

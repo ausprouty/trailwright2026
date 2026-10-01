@@ -1,0 +1,246 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply239",
+  "sortOrder": 43,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthäus 16:13-28",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>13</sup>Als Jesus in die Gegend von Cäsarea Philippi kam, fragte er seine Jünger: »Für wen halten die Leute den Menschensohn?« <sup>14</sup>»Nun«, erwiderten sie, »manche sagen, er ist Johannes der Täufer, andere sagen, Elia, und wieder andere halten ihn für Jeremia oder einen der anderen Propheten.« <sup>15</sup>Daraufhin fragte er sie: »Und was meint ihr, wer ich bin?« <sup>16</sup>Simon Petrus antwortete: »Du bist der Christus, der Sohn des lebendigen Gottes.« <sup>17</sup>Da erwiderte Jesus: »Glücklich bist du, Simon, Sohn des Johannes . Denn das hat dir mein Vater im Himmel offenbart. Von einem Menschen konntest du das nicht haben. <sup>18</sup>Von nun an sollst du Petrus heißen. Auf diesen Felsen will ich meine Gemeinde bauen, und alle Mächte der Hölle können ihr nichts anhaben. <sup>19</sup>Ich werde dir die Schlüssel zum Himmelreich geben. Was du auf der Erde bindest, wird auch im Himmel gebunden sein, und was du auf der Erde öffnest, wird auch im Himmel offen sein.« <sup>20</sup>Danach wies er sie streng an, niemandem zu sagen, dass er der Christus sei. <h3>Jesus sagt seinen Tod voraus</h3><sup>21</sup>Von da an sprach Jesus ganz offen mit seinen Jüngern darüber, dass er nach Jerusalem gehen musste und was ihn dort erwartete. Er würde durch die Hand der Ältesten, der obersten Priester und Schriftgelehrten vieles erleiden müssen. Er würde getötet werden und am dritten Tage von den Toten auferstehen. <sup>22</sup>Doch Petrus nahm ihn beiseite und bedrängte ihn: »Das darf nicht sein, Herr«, sagte er. »Das darf auf keinen Fall geschehen!« <sup>23</sup>Jesus drehte sich zu Petrus um und sagte: »Geh weg von mir, Satan! Du willst mich in die Falle locken. Du siehst die Dinge nur mit den Augen der Menschen und nicht, wie Gott sie sieht.« <sup>24</sup>Dann sagte Jesus zu den Jüngern: »Wer von euch mir nachfolgen will, muss sich selbst verleugnen und sein Kreuz auf sich nehmen und mir nachfolgen. <sup>25</sup>Wer versucht, sein Leben zu behalten, wird es verlieren. Doch wer sein Leben für mich aufgibt, wird das wahre Leben finden. <sup>26</sup>Was nützt es, die ganze Welt zu gewinnen und dabei seine Seele zu verlieren? Gibt es etwas Kostbareres als die Seele? <sup>27</sup>Denn der Menschensohn wird mit seinen Engeln in der Herrlichkeit seines Vaters kommen und die Menschen nach ihrem Tun richten. <sup>28</sup>Und ich versichere euch: Einige von euch, die jetzt hier stehen, werden nicht sterben, bevor sie den Menschensohn in seinem Reich kommen sehen.« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Matthäus%2016:13-28",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Matthäus 16:13-20",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMatt2512",
+        "source": "arclight",
+        "refId": "6_529-GOMatt2512",
+        "startTime": "6:16",
+        "endTime": "7:32",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Matthäus 16:21-28",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMatt2513",
+        "source": "arclight",
+        "refId": "6_529-GOMatt2513",
+        "startTime": "start",
+        "endTime": "2:13",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus fährt damit fort, sein Leiterschaftsteam für ihre Mission vorzubereiten. Er lehrte sie über Liebe, Demut, Glaube und ihr Verständnis von Autorität. Jetzt reiste er mit ihnen in eine andere nicht-jüdische Gegend. Jesus begann, seinen Dienst mit ihnen auszuwerten, indem er sie fragt: “Wer sagen die Leute, dass ich bin?” Die Frage betrifft den Kern der Bewegung. Es ist die wichtigste Frage, die wir uns und anderen jemals stellen können."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<br> Nach fast drei Jahren öffentlichen Dienstes und vielen Zeichen, die auf ihn als Messias hinweisen, verstanden es die Menschen immer noch nicht.<br> Danach fragte Jesus die Zwölf, welche Antwort sie geben würden. Petrus sprach für die ganze Gruppe: “Du bist der Christus, der Sohn des lebendigen Gottes.” Sie hatten es verstanden!"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<br> Jesus erinnerte sie gleich daran, dass alles, was wir über ihn verstehen, vom Vater kommt und nicht, weil wir selbst so schlau sind. Außerdem ist es das erste Mal, dass er seine “Gemeinde” erwähnt. Er verspricht, dass er die Gemeinde auf das Fundament der Wahrheit baut, die ER ist, und dass keine Macht der Hölle sie überwältigen kann. Jesus suchte den Moment in dieser heidnischen Gegend aus, um seinen Plan das erste Mal zu erklären. Stell dir vor, wie anders es gewesen wäre, hätte Jesus das Gleiche im Tempel in Jerusalem gesagt!"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-17"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply239-i-will"
+      }
+    }
+  ]
+}

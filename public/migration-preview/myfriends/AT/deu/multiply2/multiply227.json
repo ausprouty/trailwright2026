@@ -1,0 +1,227 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply227",
+  "sortOrder": 31,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lukas 6:20-26",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>20</sup>Dann wandte Jesus sich an seine Jünger und sagte: »Glücklich seid ihr, die ihr in Armut lebt, denn euch wird das Reich Gottes geschenkt. <sup>21</sup>Glücklich seid ihr, die ihr jetzt hungert, denn ihr werdet satt werden. Glücklich seid ihr, die ihr jetzt weint, denn die Zeit wird kommen, in der ihr vor Freude lachen werdet. <sup>22</sup>Glücklich seid ihr, die ihr gehasst und ausgeschlossen und verspottet und verflucht werdet, weil ihr zum Menschensohn gehört. <sup>23</sup>Wenn das geschieht, dann freut euch, springt vor Freude! Denn im Himmel erwartet euch eine große Belohnung. Und denkt daran, dass die Propheten früher von euren Vorfahren genauso behandelt wurden. <h3>Ankündigung künftigen Leids</h3><sup>24</sup>Euch wird es schlimm ergehen, die ihr reich seid, denn ihr habt euren Trost jetzt schon erhalten. <sup>25</sup>Euch wird es schlimm ergehen, die ihr jetzt satt seid, denn ein nagender Hunger steht euch bevor. Euch wird es schlimm ergehen, die ihr unbekümmert lacht, denn euer Lachen wird sich in Traurigkeit und Weinen verwandeln. <sup>26</sup>Euch wird es schlimm ergehen, die ihr von der Menge gerühmt werdet, denn ihre Vorfahren haben auch den falschen Propheten zugejubelt.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Lukas%206:20-26",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lukas 6:20-26",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2606",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2606",
+        "startTime": "3:24",
+        "endTime": "4:25",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Nachdem Jesus die 12 Leiter ausgewählt hatte, lehrte Jesus über die Erwartungen in seinem Königreich. Ein weiteres Schlüsselprinzip für Leiterschaft ist es, Erwartungen klar zu machen. Was charakterisiert das Leben in Gottes Königreich und in wahrer Gemeinschaft?<br> Jesus erklärt eine Liste an Qualitäten, die in krassem Gegensatz zu der Einstellung der Gesellschaft steht. Wir sehen diese Qualitäten auch am Beispiel seines eigenen Lebens. Der Lebensstil der Leiter und der Community an Nachfolgern muss den Charakter und die Prioritäten von Jesus widerspiegeln, nicht diejenigen dieser Welt."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-17"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply227-i-will"
+      }
+    }
+  ]
+}

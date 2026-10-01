@@ -1,0 +1,287 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply216",
+  "sortOrder": 19,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS und ERMUTIGUNG",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Erinnert euch an die Vision, die Jesus uns gegeben hat. Ermutigt euch damit und erinnert euch daran, wer ihr in Jesus seid und wozu Gott euch gerufen hat, indem ihr:"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "- eine Bibelstelle lest, die euch an Gottes Vaterherz und die große Vision erinnert.<br> - über die Veränderungen reflektiert, die Gott in euren Leben bewirkt hat, seit ihr Jesus-Nachfolger geworden seid.<br> - euch an den Auftrag und das Abenteuer erinnert, die Gott für euch bereit hält."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Unsere Vision ist: eine Jesus-zentrierte Community für jedes Umfeld, an jedem Ort, die für jede einzelne Person erreichbar ist!</strong><br>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthäus 4:12-17",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>12</sup>Als Jesus hörte, dass Johannes verhaftet worden war, verließ er Judäa und kehrte nach Galiläa zurück. <sup>13</sup>Doch er ging nicht nach Nazareth, sondern nach Kapernaum am See Genezareth, im Gebiet von Sebulon und Naftali. <sup>14</sup>Auf diese Weise erfüllte sich die Prophezeiung Jesajas: <sup>15</sup>»Im Lande Sebulon und Naftali, am See, jenseits des Jordan, in Galiläa, leben so viele Menschen, die Gott nicht kennen . <sup>16</sup>Dort hat das Volk, das im Dunkel lebt, ein helles Licht gesehen. Und über den Menschen in einem vom Tode überschatteten Land ist ein strahlendes Licht aufgegangen.« <sup>17</sup>Von da an begann Jesus zu predigen: »Hört auf zu sündigen und kehrt um zu Gott, denn das Himmelreich ist nahe .«<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Matthäus%204:12-17",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Matthäus 4:12-17",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMatt2502",
+        "source": "arclight",
+        "refId": "6_529-GOMatt2502",
+        "startTime": "5:16",
+        "endTime": "6:03",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jetzt begann Jesus, seinen Dienst zu verändern. Am Anfang dieser neuen Phase wurde Johannes der Täufer gefangen genommen, was Jesus dazu bewegte, in den Norden nach Galiläa zu ziehen. Dann wurde Jesus in seiner Heimatstadt Nazareth abgewiesen. Er zog um und wählte die Stadt Kapernaum am Ufer des Sees Genezareth als den Ausgangspunkt seines Dienstes. Das war auch eine strategische Entscheidung, weil die Stadt an einer wichtigen internationalen Route dieser Zeit lag. Jesus’ Berühmtheit wuchs und breitete sich aus. Weil Johannes im Gefängnis saß, übernahm Jesus die Leitung darin, die Nachricht von Gottes Königreich zu verbreiten. Jesus begann damit, die gleiche Nachricht zu verkünden, von der Johannes gesprochen hatte: “Kehrt um, denn das Königreich Gottes ist nahe gekommen!”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-17"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Der Motor des MyFriends-Lifestyles",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Der Motor des MyFriends-Lifestyles ist Love, Pray, Care. Wir geben dem Heiligen Geist Raum, in uns und durch uns zu wirken, indem wir…"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "… für andere <strong>BETEN</strong>.<br> Gebet ist das Erste, was wir für die Menschen in unseren Umgebungen tun können (die, mit denen wir das Leben teilen - in der Wohnung und Nachbarschaft, Ausbildung, Arbeit, Freizeit, …). Wenn wir beten, legt es uns Gott oft aufs Herz, seine Liebe in greifbarer Weise zu zeigen."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "… uns um andere <strong>KÜMMERN</strong>.<br> Vielleicht kennst du den Satz: “Menschen kümmern sich nicht darum, wie viel du weißt, bis sie wissen, wie viel du dich kümmerst.” (“People don’t care how much you know until they know how much you care.”) Freundlichkeit und bewusste gute Taten können Wege öffnen, die Gute Nachricht von Jesus zu erzählen. Beim MyFriends-Lifestyle lassen wir uns vom Heiligen Geist leiten und folgen den Impulsen, die wir im Gebet erhalten, wie wir den Menschen um uns herum Gutes tun können."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "… die gute Nachricht mit anderen zu <strong>TEILEN</strong>.<br> Wenn wir für Menschen beten und ihnen Gottes Liebe praktisch demonstrieren, öffnet Gott oft eine Tür für uns, um geistliche Gespräche zu führen. Der ultimative Liebesbeweis ist, die Gute Nachricht von Jesus mit Menschen in unseren Umfeldern zu teilen."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Beim MyFriends-Lifestyle stellen wir die Bedürfnisse und Interessen des Anderen über unsere eigenen, so wie Jesus das mit uns getan hat."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply216-i-will"
+      }
+    }
+  ]
+}

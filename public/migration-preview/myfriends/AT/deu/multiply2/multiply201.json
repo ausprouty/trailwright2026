@@ -1,0 +1,298 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply201",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS und ERMUTIGUNG",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Erinnert euch an die Vision, die Jesus uns gegeben hat. Ermutigt euch damit und erinnert euch daran, wer ihr in Jesus seid und wozu Gott euch gerufen hat, indem ihr:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "eine Bibelstelle lest, die euch an Gottes Vaterherz und die große Vision erinnert.",
+                  "über die Veränderungen reflektiert, die Gott in euren Leben bewirkt hat, seit ihr Jesus-Nachfolger geworden seid.",
+                  "euch an den Auftrag und das Abenteuer erinnert, die Gott für euch bereit hält."
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Unsere Vision ist: eine Jesus-zentrierte Community für jedes Umfeld, an jedem Ort, die für jede einzelne Person erreichbar ist!</strong><br>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Johannes 1:1-14",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Am Anfang war das Wort. Das Wort war bei Gott und das Wort war Gott. <sup>2</sup>Er war am Anfang bei Gott. <sup>3</sup>Durch ihn wurde alles geschaffen, was ist. Es gibt nichts, was er, das Wort, nicht geschaffen hat. <sup>4</sup>Das Leben selbst war in ihm, und dieses Leben schenkt allen Menschen Licht. <sup>5</sup>Das Licht scheint in der Dunkelheit, und die Dunkelheit konnte es nicht auslöschen. <sup>6</sup>Gott sandte Johannes den Täufer, <sup>7</sup>um allen Menschen von dem Licht zu erzählen, damit durch ihn alle daran glauben. <sup>8</sup>Johannes selbst war nicht das Licht; er war nur ein Zeuge für das Licht. <sup>9</sup>Der, der das wahre Licht ist, das alle Menschen erleuchtet, sollte erst noch in die Welt kommen. <sup>10</sup>Doch obwohl die Welt durch ihn geschaffen wurde, erkannte die Welt ihn nicht, als er kam. <sup>11</sup>Er kam in die Welt, die ihm gehört, und sein eigenes Volk nahm ihn nicht auf. <sup>12</sup>All denen aber, die ihn aufnahmen und an seinen Namen glaubten, gab er das Recht, Gottes Kinder zu werden. <sup>13</sup>Sie wurden dies weder durch ihre Abstammung noch durch menschliches Bemühen oder Absicht, sondern dieses neue Leben kommt von Gott. <sup>14</sup>Er, der das Wort ist, wurde Mensch und lebte unter uns. Er war voll Gnade und Wahrheit und wir wurden Zeugen seiner Herrlichkeit, der Herrlichkeit, die der Vater ihm, seinem einzigen Sohn, gegeben hat. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Johannes%201:1-14",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Johannes 1:1-14",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2201",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2201",
+        "startTime": "start",
+        "endTime": "2:47",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong id=\"docs-internal-guid-8ed44018-7fff-ab8b-b1b5-ce77a6cf9e37\">Lies auch Philipper 2,5-11.</strong>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong id=\"docs-internal-guid-8ed44018-7fff-ab8b-b1b5-ce77a6cf9e37\">Der allmächtige Gott wurde Mensch. Er entschied sich dafür, als Baby zu kommen und nicht als erwachsener Mann. Die Bibel sagt, er “verzichtete auf alle seine Vorrechte” (NGÜ) und lebte als Mensch mit uns. Trotzdem hörte er nie auf, ganz Gott zu sein. Er war immer noch allmächtig, allwissend und omnipräsent. Aber er verbarg seine Göttlichkeit und grenzte sich selbst und seine Kraft ein, um ein echter Mensch zu werden.</strong>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-17"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Der Motor des MyFriends Lifestyles",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Der Motor des MyFriends-Lifestyles ist Love, Pray, Care. Wir geben dem Heiligen Geist Raum, in uns und durch uns zu wirken, indem wir…"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "… für andere <strong>BETEN</strong>.<br> Gebet ist das Erste, was wir für die Menschen in unseren Umgebungen tun können (die, mit denen wir das Leben teilen - in der Wohnung und Nachbarschaft, Ausbildung, Arbeit, Freizeit, …). Wenn wir beten, legt es uns Gott oft aufs Herz, seine Liebe in greifbarer Weise zu zeigen."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "… uns um andere <strong>KÜMMERN</strong>.<br> Vielleicht kennst du den Satz: “Menschen kümmern sich nicht darum, wie viel du weißt, bis sie wissen, wie viel du dich kümmerst.” (“People don’t care how much you know until they know how much you care.”) Freundlichkeit und bewusste gute Taten können Wege öffnen, die Gute Nachricht von Jesus zu erzählen. Beim MyFriends-Lifestyle lassen wir uns vom Heiligen Geist leiten und folgen den Impulsen, die wir im Gebet erhalten, wie wir den Menschen um uns herum Gutes tun können."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "… die gute Nachricht mit anderen zu <strong>TEILEN</strong>.<br> Wenn wir für Menschen beten und ihnen Gottes Liebe praktisch demonstrieren, öffnet Gott oft eine Tür für uns, um geistliche Gespräche zu führen. Der ultimative Liebesbeweis ist, die Gute Nachricht von Jesus mit Menschen in unseren Umfeldern zu teilen."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Beim MyFriends-Lifestyle stellen wir die Bedürfnisse und Interessen des Anderen über unsere eigenen, so wie Jesus das mit uns getan hat. <br>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply201-i-will"
+      }
+    }
+  ]
+}

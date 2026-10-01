@@ -1,0 +1,239 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply210",
+  "sortOrder": 12,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Johannes 2:12-25",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>12</sup>Nach der Hochzeit ging er nach Kapernaum, wo er einige Tage mit seiner Mutter, seinen Brüdern und seinen Jüngern verbrachte. <h3>Jesus reinigt den Tempel</h3><sup>13</sup>Das alljährliche Passahfest stand bevor, und Jesus ging nach Jerusalem. <sup>14</sup>Im Hof des Tempels sah er Händler, die Rinder, Schafe und Tauben als Opfertiere zum Verkauf anboten; und er sah Geldwechsler hinter ihren Tischen sitzen. <sup>15</sup>Da machte Jesus aus Stricken eine Peitsche und jagte sie alle aus dem Tempel. Er trieb die Schafe und Rinder hinaus, warf die Münzen der Geldwechsler auf den Boden und stieß ihre Tische um. <sup>16</sup>Dann ging er zu den Taubenverkäufern und befahl ihnen: »Schafft das alles fort. Macht aus dem Haus meines Vaters keinen Marktplatz!« <sup>17</sup>Da erinnerten sich die Jünger an die Prophezeiung aus der Schrift: »Die Leidenschaft für dein Haus brennt in mir.« <sup>18</sup>»Woher nimmst du das Recht, so etwas zu tun?«, fragten die Juden. »Wenn du diese Vollmacht von Gott hast, dann beweise es uns durch ein Wunder.« <sup>19</sup>»Nun gut«, erwiderte Jesus. »Zerstört diesen Tempel, und in drei Tagen werde ich ihn wieder aufbauen.« <sup>20</sup>»Was?«, riefen sie aus. »Es hat sechsundvierzig Jahre gedauert, diesen Tempel zu bauen, und du willst ihn in drei Tagen wieder aufbauen?« <sup>21</sup>Doch Jesus hatte mit »diesem Tempel« seinen eigenen Körper gemeint. <sup>22</sup>Später, als er von den Toten auferstanden war, erinnerten sich die Jünger an das, was Jesus gesagt hatte. Und sie glaubten der Schrift und den Worten von Jesus. <sup>23</sup>Durch die Wunder , die er während des Passahfestes in Jerusalem tat, glaubten viele Menschen an seinen Namen. <sup>24</sup>Aber Jesus vertraute sich ihnen nicht an, denn er kannte sie und wusste, wie es in den Menschen wirklich aussieht. <sup>25</sup>Ihm brauchte über die menschliche Natur niemand etwas zu sagen. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Johannes%202:12-25",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Johannes 2:12-25",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2202",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2202",
+        "startTime": "4:41",
+        "endTime": "7:12",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong id=\"docs-internal-guid-9d5a97a4-7fff-8cf4-1e6e-93080e8b7b8a\">Jesus nimmt seine Nachfolger mit nach Jerusalem, um das Passahfest zu feiern. Das war ein sieben Tage langes Fest, um die Befreiung Israels aus der Sklaverei in Ägypten zu feiern. Wir sehen hier die Leidenschaft Jesu für den Namen des Vaters und seinen Ruf. Er war zornig darüber, dass der Fokus von Menschen von der Anbetung des Vaters weggenommen wurde, um sich stattdessen darauf zu konzentrieren, Menschen zu übervorteilen und Geld von ihnen einzutreiben.</strong>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong id=\"docs-internal-guid-9d5a97a4-7fff-8cf4-1e6e-93080e8b7b8a\">Wir sehen hier reale Emotionen von einem realen, menschlichen Jesus. Wir sehen auch echten Mut von einem echten, göttlichen Jesus. Er liebte den Vater so sehr, dass er es nicht aushielt, als Menschen das Geschenk Gottes für Geld verkauften.</strong>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-18"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply210-i-will"
+      }
+    }
+  ]
+}

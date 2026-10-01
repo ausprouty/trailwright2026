@@ -1,0 +1,227 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply203",
+  "sortOrder": 4,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthäus 2:1-18",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Jesus wurde in der Stadt Bethlehem in Judäa während der Herrschaft von König Herodes geboren. In dieser Zeit kamen einige Sterndeuter aus einem Land im Osten nach Jerusalem und fragten überall: <sup>2</sup>»Wo ist der neugeborene König der Juden? Wir haben seinen Stern aufgehen sehen und sind gekommen, um ihn anzubeten.« <sup>3</sup>Ihre Frage versetzte Herodes in große Unruhe, und alle Einwohner Jerusalems mit ihm. <sup>4</sup>Er berief eine Versammlung der obersten Priester und Schriftgelehrten ein. »Wo soll denn der Christus nach Aussage der Propheten zur Welt kommen?«, fragte er sie. <sup>5</sup>»In Bethlehem«, sagten sie, »denn der Prophet hat geschrieben: <sup>6</sup>›O Bethlehem in Judäa, du bist alles andere als ein unbedeutendes Dorf, denn ein Herrscher wird aus dir hervorgehen, der wie ein Hirte mein Volk Israel führen wird.‹ « <sup>7</sup>Daraufhin sandte Herodes eine geheime Botschaft an die Sterndeuter und bat sie zu sich. Bei dieser Zusammenkunft erfuhr er den genauen Zeitpunkt, an dem sie den Stern zum ersten Mal gesehen hatten. <sup>8</sup>Er sagte zu ihnen: »Geht nach Bethlehem und sucht das Kind. Wenn ihr es gefunden habt, kommt wieder her und erzählt es mir, damit ich auch hingehen kann, um es anzubeten!« <sup>9</sup>Nach diesem Gespräch machten die Sterndeuter sich auf den Weg. Wieder erschien ihnen der Stern und führte sie nach Bethlehem. Er zog ihnen voran und blieb über dem Ort stehen, wo das Kind war. <sup>10</sup>Als sie den Stern sahen, war ihre Freude groß. <sup>11</sup>Sie gingen in das Haus und fanden das Kind mit seiner Mutter Maria, sanken vor ihm auf die Knie und beteten es an. Dann öffneten sie ihre Truhen mit Kostbarkeiten und beschenkten es mit Gold, Weihrauch und Myrrhe. <sup>12</sup>Als es Zeit war, wieder aufzubrechen, zogen sie jedoch auf einem anderen Weg in ihre Heimat zurück, denn Gott hatte sie in einem Traum davor gewarnt, zu Herodes zurückzukehren. <h3>Die Flucht nach Ägypten</h3><sup>13</sup>Nachdem die Sterndeuter gegangen waren, erschien Josef im Traum ein Engel des Herrn. »Steh auf und flieh mit dem Kind und seiner Mutter nach Ägypten«, sagte der Engel. »Bleib dort, bis ich dir sage, dass ihr zurückkehren könnt, denn Herodes will das Kind umbringen.« <sup>14</sup>Noch in derselben Nacht machte sich Josef mit dem Kind und dessen Mutter Maria auf den Weg nach Ägypten. <sup>15</sup>Dort blieben sie bis zum Tod des Herodes. Auf diese Weise erfüllte sich, was der Herr durch den Propheten gesagt hatte: »Ich habe meinen Sohn aus Ägypten gerufen.« <sup>16</sup>Herodes war außer sich vor Zorn, als er erfuhr, dass die Sterndeuter ihn hintergangen hatten. Er schickte Soldaten aus, die in Bethlehem und der ganzen Umgebung alle Jungen im Alter von zwei Jahren und jünger umbringen sollten. Denn die weisen Männer hatten ihm erzählt, dass sie den Stern vor etwa zwei Jahren zum ersten Mal gesehen hatten. <sup>17</sup>Durch diese grausige Tat des Herodes erfüllte sich die Prophezeiung Jeremias: <sup>18</sup>»Ein Schrei der Angst ertönt in der Stadt Rama – das Klagen und Trauern nimmt kein Ende. Rahel weint um ihre Kinder und lässt sich nicht trösten – denn sie sind tot.«<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Matthäus%202:1-18",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Matthäus 2:1-23",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMatt2501",
+        "source": "arclight",
+        "refId": "6_529-GOMatt2501",
+        "startTime": "5:33",
+        "endTime": "9:33",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong id=\"docs-internal-guid-41f3261a-7fff-ce5d-d6f2-23d16deda5a4\">Jesus hatte eine Kindheit, so wie du und ich. Von nicht-jüdischen Sterndeutern wurde er als König erkannt. Sie brachten der Familie wertvolle Geschenke. Jesus musste mit seinen Eltern vor dem König Herodes fliehen. Vielleicht waren die Geschenke dafür da, die Familie auf ihrer Flucht nach Ägypten und darüber hinaus zu versorgen. Gott ließ die Familie auch nicht im Stich, als Jesus aufwuchs. Als es wieder sicher war, leitete Gott sie in ihr Heimatland zurück, worüber wir beim nächsten Treffen mehr erfahren werden.</strong>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-17"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply203-i-will"
+      }
+    }
+  ]
+}

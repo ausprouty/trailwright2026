@@ -1,0 +1,221 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply243",
+  "sortOrder": 47,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lukas 10",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Daraufhin wählte der Herr zweiundsiebzig andere Jünger aus und schickte sie zu zweit voraus in alle Städte und Dörfer, die er aufsuchen wollte. <sup>2</sup>Er gab ihnen folgende Anweisungen: »Die Ernte ist groß, doch die Zahl der Arbeiter ist klein. Betet zum Herrn, der für die Ernte zuständig ist, und bittet ihn, mehr Arbeiter auf seine Felder zu schicken. <sup>3</sup>Nun geht und denkt daran, dass ich euch wie Lämmer unter die Wölfe schicke. <sup>4</sup>Nehmt kein Geld mit, kein Gepäck, keine Sandalen. Und haltet euch unterwegs nicht auf, um jemanden zu grüßen. <sup>5</sup>Wann immer ihr ein Haus betretet, segnet es. <sup>6</sup>Wenn seine Bewohner des Segens würdig sind, wird er bei ihnen bleiben; wenn sie es nicht sind, wird der Segen zu euch zurückkehren. <sup>7</sup>Wenn ihr in eine Stadt kommt, zieht nicht von Haus zu Haus. Bleibt an einem Ort und esst und trinkt, was man euch anbietet. Zögert nicht, Gastfreundschaft anzunehmen, denn wer arbeitet, hat auch Lohn verdient. <sup>8</sup>Wenn eine Stadt euch willkommen heißt, dann esst, was euch vorgesetzt wird, <sup>9</sup>heilt die Kranken und sagt dabei: ›Das Reich Gottes ist nahe bei euch.‹ <sup>10</sup>Doch wenn eine Stadt euch nicht willkommen heißen will, dann geht hinaus auf die Straße und sagt: <sup>11</sup>›Wir schütteln als Zeichen eures Verderbens den Staub eurer Stadt von unseren Füßen. Vergesst nicht, dass das Reich Gottes nahe ist!‹ <sup>12</sup>Ich sage euch, selbst der Stadt Sodom wird es am Tag des Gerichts noch besser ergehen als einer solchen Stadt. <sup>13</sup>Welche Schrecken erwarten euch, Chorazin und Betsaida! Denn wenn die Wunder, die ich bei euch getan habe, in Tyrus und Sidon geschehen wären, hätten ihre Einwohner schon längst ihre Schuld bekannt und sich zum Zeichen ihrer Reue in Säcke gehüllt und Asche auf ihre Häupter gestreut. <sup>14</sup>Ja, Tyrus und Sidon werden am Tag des Gerichts immer noch besser dastehen als ihr. <sup>15</sup>Und ihr Bewohner von Kapernaum, ob ihr wohl an diesem Tag in den Himmel gehoben werdet? Ganz sicher nicht. Ihr werdet vielmehr hinunter ins Reich der Toten geworfen.« <sup>16</sup>Dann sagte er zu den Jüngern: »Wer eure Botschaft annimmt, nimmt auch mich an. Wer euch jedoch ablehnt, lehnt auch mich ab. Und wer mich ablehnt, lehnt Gott ab, der mich gesandt hat.« <sup>17</sup>Als die zweiundsiebzig Jünger zurückkehrten, berichteten sie ihm voller Freude: »Herr, sogar die Dämonen gehorchen uns, wenn wir sie in deinem Namen austreiben!« <sup>18</sup>»Ja«, erklärte er ihnen, »ich sah den Satan wie einen Blitz vom Himmel fallen! <sup>19</sup>Ich habe euch Vollmacht über den Feind gegeben; ihr könnt unter Schlangen und Skorpionen umhergehen und sie zertreten. Nichts und niemand wird euch etwas anhaben können. <sup>20</sup>Aber freut euch nicht darüber, dass böse Geister euch gehorchen, sondern freut euch, dass eure Namen im Himmel aufgeschrieben sind.« <h3>Jesus spricht ein Dankgebet</h3><sup>21</sup>Dann wurde Jesus von der Freude des Heiligen Geistes erfüllt und sagte: »Vater, Herr des Himmels und der Erde, ich danke dir, dass du die Wahrheit vor denen verbirgst, die sich selbst für so klug und weise halten. Ich danke dir, dass du sie stattdessen denen enthüllst, die ein kindliches Gemüt haben. Ja, Vater, so wolltest du es. <sup>22</sup>Mein Vater hat mir Vollmacht über alles gegeben. Niemand außer dem Vater kennt den Sohn wirklich, und niemand kennt den Vater außer dem Sohn und jenen, denen der Sohn den Vater offenbaren will.« <sup>23</sup>Als sie allein waren, wandte er sich an die Jünger und sagte: »Glücklich zu schätzen sind die, deren Augen sehen, was ihr seht. <sup>24</sup>Ich sage euch: Propheten und Könige haben sich danach gesehnt, zu sehen und zu hören, was ihr gesehen und gehört habt, aber sie konnten es nicht.« <h3>Das wichtigste Gebot</h3><sup>25</sup>Ein Mann, der sich im Gesetz Moses besonders gut auskannte, stand eines Tages auf, um Jesus mit folgender Frage auf die Probe zu stellen: »Meister, was muss ich tun, um das ewige Leben zu bekommen?« <sup>26</sup>Jesus erwiderte: »Was steht darüber im Gesetz Moses? Was liest du dort?« <sup>27</sup>Der Mann antwortete: »›Du sollst den Herrn, deinen Gott, von ganzem Herzen, von ganzer Seele, mit deiner ganzen Kraft und all deinen Gedanken lieben.‹ Und: ›Liebe deinen Nächsten wie dich selbst.‹« <sup>28</sup>»Richtig!«, bestätigte Jesus. »Tu das, und du wirst leben!« <sup>29</sup>Der Mann wollte sich rechtfertigen; deshalb fragte er Jesus: »Und wer ist mein Nächster?« <h3>Das Gleichnis vom barmherzigen Samaritaner</h3><sup>30</sup>Jesus antwortete: »Ein Mann befand sich auf der Straße von Jerusalem nach Jericho, als er von Räubern überfallen wurde. Sie raubten ihm seine Kleider und sein Geld, verprügelten ihn und ließen ihn halb tot am Straßenrand liegen. <sup>31</sup>Zufällig kam ein jüdischer Priester vorbei. Doch als er den Mann dort liegen sah, wechselte er auf die andere Straßenseite und ging vorüber. <sup>32</sup>Dann kam ein Tempeldiener und sah ihn ebenfalls dort liegen; doch auch er ging auf der anderen Straßenseite vorüber. <sup>33</sup>Schließlich näherte sich ein Samaritaner. Als er den Mann sah, empfand er tiefes Mitleid mit ihm. <sup>34</sup>Er kniete sich neben ihn, behandelte seine Wunden mit Öl und Wein und verband sie. Dann hob er den Mann auf seinen eigenen Esel und brachte ihn zu einem Gasthaus, wo er ihn versorgte. <sup>35</sup>Am nächsten Tag gab er dem Wirt zwei Denare und bat ihn, gut für den Mann zu sorgen. ›Sollte das Geld nicht ausreichen‹, sagte er, ›dann werde ich dir den Rest bezahlen, wenn ich das nächste Mal herkomme.‹ <sup>36</sup>Wer von den dreien war nun deiner Meinung nach der Nächste für den Mann, der von Räubern überfallen wurde?«, fragte Jesus. <sup>37</sup>Der Mann erwiderte: »Der, der Mitleid hatte und ihm half.« Jesus antwortete: »Ja. Nun geh und mach es genauso.« <h3>Jesus besucht Marta und Maria</h3><sup>38</sup>Auf ihrem Weg nach Jerusalem kamen Jesus und die Jünger auch in ein Dorf, in dem eine Frau mit Namen Marta sie in ihr Haus einlud. <sup>39</sup>Ihre Schwester Maria saß Jesus zu Füßen und hörte ihm aufmerksam zu. <sup>40</sup>Marta dagegen mühte sich mit der Bewirtung der Gäste. Sie kam zu Jesus und sagte: »Herr, ist es nicht ungerecht, dass meine Schwester hier sitzt, während ich die ganze Arbeit tue? Sag ihr, sie soll kommen und mir helfen.« <sup>41</sup>Doch der Herr sagte zu ihr: »Meine liebe Marta, du sorgst dich um so viele Kleinigkeiten! <sup>42</sup>Im Grunde ist doch nur eines wirklich wichtig. Maria hat erkannt, was das ist – und ich werde es ihr nicht nehmen.« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Lukas%2010",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lukas 10",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2611",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2611",
+        "startTime": "start",
+        "endTime": "7:51",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Nach dem Lichterfest reiste Jesus an die andere Seite des Jordan, wo er drei Jahre zuvor getauft worden war. Dort ließ er sich für die nächsten paar Monate nieder. Er ruft 70 weitere Leiter zu sich und beruft sie, wie er das mit den Zwölf getan hatte. Er gibt ihnen die gleichen Anweisungen und sendet sie ebenfalls zu zweit aus, durch die Provinz Peräa. Das ist eine weitere Umstrukturierung seines Dienstes. Jetzt gibt es 35 neue Teams, zusätzlich zu Jesus und den Zwölf. Genau wie die ersten Zwölf wurden sie ohne irgendetwas ausgesandt, weswegen sie dem Vater vertrauen mussten. Er wollte sie mit allem versorgen, was sie brauchten. Die Teams verteilten sich, um alle Städte und Orte aufzusuchen. Sie fanden Häuser des Friedens, indem sie für Menschen beteten, sich um sie kümmerten und vom Königreich Gottes erzählten. <br> Als sie zurückkamen, waren sie begeistert davon, wie Gott sie gebraucht hatte. Jesus rückte die Ergebnisse ihres Einsatzes in die richtige Perspektive, indem er sie erinnerte, dass sie begeistert davon sein sollten, dass ihre Namen im Buch des Lebens stehen.<br> Jesus bricht in freudigen Jubel aus, weil der Plan funktioniert. Denn er wurde vom Vater gesandt, um zwei Dinge zu tun: am Kreuz zu sterben und Jünger zu machen, die Jünger machen, die Jünger machen.<br>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-16"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply243-i-will"
+      }
+    }
+  ]
+}

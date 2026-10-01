@@ -1,0 +1,227 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply224",
+  "sortOrder": 27,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Johannes 5:1-17",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Danach ging Jesus zu einem der jüdischen Feste nach Jerusalem hinauf. <sup>2</sup>Innerhalb der Stadtmauern, in der Nähe des Schaftores, befindet sich ein Teich mit fünf Säulenhallen, der auf Hebräisch Bethesda genannt wird. <sup>34</sup>Scharen von kranken Menschen – Blinde, Gelähmte oder Verkrüppelte – lagen in den Hallen. <sup>5</sup>Einer der Männer, die dort lagen, war seit achtunddreißig Jahren krank. <sup>6</sup>Als Jesus ihn sah und erfuhr, wie lange er schon krank war, fragte er ihn: »Willst du gesund werden?« <sup>7</sup>»Herr, ich kann nicht«, sagte der Kranke, »denn ich habe niemanden, der mich in den Teich trägt, wenn sich das Wasser bewegt. Während ich noch versuche hinzugelangen, steigt immer schon ein anderer vor mir hinein.« <sup>8</sup>Jesus sagt zu ihm: »Steh auf, nimm deine Matte und geh!« <sup>9</sup>Im selben Augenblick war der Mann geheilt! Er rollte die Matte zusammen und begann umherzugehen. Doch dies geschah an einem Sabbat, <sup>10</sup>und das wollten die führenden Männer des jüdischen Volkes nicht dulden. Sie sagten zu dem Mann, der geheilt worden war: »Du darfst am Sabbat nicht arbeiten! Es ist gegen das Gesetz, diese Matte herumzutragen!« <sup>11</sup>Er entgegnete: »Der Mann, der mich geheilt hat, sagte zu mir: ›Nimm deine Matte und geh!‹« <sup>12</sup>»Wer ist dieser Mann, der das zu dir gesagt hat?«, fragten sie. <sup>13</sup>Der geheilte Mann wusste es aber nicht, denn Jesus war in der Menge verschwunden. <sup>14</sup>Später traf Jesus den Mann im Tempel wieder und sagte zu ihm: »Du bist jetzt gesund. Nun höre auf zu sündigen, damit dir nicht noch etwas Schlimmeres widerfährt.« <sup>15</sup>Danach suchte der Mann die führenden Juden wieder auf und berichtete ihnen, dass es Jesus war, der ihn geheilt hatte. <h3>Jesus sagt, dass er Gottes Sohn ist</h3><sup>16</sup>Von da an verfolgten die führenden Juden Jesus, weil er dies an einem Sabbat getan hatte. <sup>17</sup>Doch Jesus entgegnete ihnen: »Mein Vater hat bis heute nicht aufgehört zu wirken und deshalb wirke ich auch.« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Johannes%205:1-17",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Johannes 5:1-17",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2205",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2205",
+        "startTime": "start",
+        "endTime": "3:36",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus machte sich wieder auf den langen Weg nach Jerusalem für ein Fest. Seine letzte Reise hatte in Jerusalem für großen Aufruhr gesorgt. So auch dieses Mal. Der Vater leitete Jesus zu einem Teich gerade außerhalb des Stadttores von Jerusalem, das als Schaftor bekannt war. Viele Kranke lagerten rund um den Teich. Jesus heilte nur den Einen, den der Vater ihm gezeigt hatte. Weil das an einem Sabbath (Ruhetag) geschah, verärgerte Jesus die religiösen Leiter, die begannen, ihn zu verfolgen. Diese Gelegenheit nutzte Jesus, um seine einzigartige Beziehung mit dem Vater zu zeigen. Jesus sagte die Wahrheit, dass er Gott ist. Die Juden verstanden ganz klar, dass er von sich behauptete, Gott gleich zu sein, und von diesem Zeitpunkt an suchten sie nach einer Gelegenheit, ihn zu töten."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-17"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply224-i-will"
+      }
+    }
+  ]
+}

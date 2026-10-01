@@ -1,0 +1,227 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply222",
+  "sortOrder": 25,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lukas 5:17-26",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>17</sup>Eines Tages saßen einige Pharisäer und Schriftgelehrte dabei, als Jesus lehrte. Die Männer waren aus den Dörfern von ganz Galiläa und Judäa und sogar aus Jerusalem hergekommen. Und die heilende Kraft des Herrn ging von Jesus aus. <sup>18</sup>Da trugen ein paar Männer auf einer Matte einen Gelähmten herbei. Sie versuchten, durch die Menge zu Jesus vorzudringen, <sup>19</sup>doch es gelang ihnen nicht. Schließlich stiegen sie auf das Dach, nahmen ein paar Ziegel weg und ließen den Kranken auf der Matte mitten unter die Zuhörer hinab, Jesus direkt vor die Füße. <sup>20</sup>Als Jesus ihren Glauben sah, sagte er zu dem Mann: »Sohn, deine Sünden sind dir vergeben.« <sup>21</sup>»Für wen hält dieser Mann sich?«, sagten die Pharisäer und die Schriftgelehrten zueinander. »Das ist doch Gotteslästerung! Wer außer Gott kann Sünden vergeben?« <sup>22</sup>Jesus wusste, was sie dachten, und fragte sie: »Was macht ihr euch für Gedanken in euren Herzen? <sup>23</sup>Ist es leichter zu sagen: ›Deine Sünden sind dir vergeben‹ oder: ›Steh auf und geh‹? <sup>24</sup>Ich werde euch beweisen, dass der Menschensohn auf Erden die Vollmacht hat, Sünden zu vergeben.« Und er wandte sich an den Gelähmten und sagte: »Steh auf, nimm deine Matte und geh nach Hause!« <sup>25</sup>Da sprang der Mann vor den Augen aller Anwesenden auf die Füße, hob seine Matte auf und ging nach Hause und lobte Gott aus vollem Herzen. <sup>26</sup>Ehrfürchtiges Staunen erfasste die Zuschauer. Sie priesen Gott und sagten immer wieder: »Heute haben wir wirklich Unglaubliches gesehen.«<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Lukas%205:17-26",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lukas 5:17-26",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2605",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2605",
+        "startTime": "3:12",
+        "endTime": "6:03",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Die Bewegung wuchs. Menschenmengen kamen von überall her, um Jesus zu hören und geheilt zu werden. Die Heilung des Aussätzigen hatte Pharisäer und Gesetzeslehrer aus jedem Dorf und jeder Stadt nach Judäa und Jerusalem angelockt. Die Leiter hatten sich versammelt, um mehr über diesen Mann herauszufinden, der einen Mann von seinem Aussatz geheilt hatte. Wieder heilte Jesus viele durch die Kraft des Heiligen Geistes. Vier Freunde fanden einen mutigen und außergewöhnlichen Weg, um ihren gelähmten Freund zu Jesus zu bringen. Dieser nutzte die Gelegenheit, um den religiösen Leitern zu zeigen, wer er wirklich ist. Sie verstanden die Bedeutung dessen, was Jesus sagte und tat. Indem er dem Mann die Sünden vergab, zeigte sich Jesus als Gott gleich. Jeder, der die Heilung sah, gab dem Vater die Ehre."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-17"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply222-i-will"
+      }
+    }
+  ]
+}

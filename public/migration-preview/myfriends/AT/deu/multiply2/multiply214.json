@@ -1,0 +1,227 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply214",
+  "sortOrder": 16,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Johannes 4:43-54",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>43</sup>Nach diesen zwei Tagen setzte Jesus seine Reise nach Galiläa fort. <sup>44</sup>Jesus hatte selbst einmal gesagt: »Ein Prophet wird überall geehrt, nur nicht in seiner eigenen Heimat.« <sup>45</sup>Doch als er dort ankam, nahmen ihn die Galiläer herzlich auf. Denn sie waren beim Passahfest in Jerusalem gewesen und hatten gesehen, was er dort getan hatte. <sup>46</sup>Seine Reise durch Galiläa führte ihn auch wieder in die Stadt Kana, wo er das Wasser in Wein verwandelt hatte. In Kapernaum lebte ein königlicher Beamter, dessen Sohn krank war. <sup>47</sup>Als er hörte, dass Jesus aus Judäa gekommen war und durch Galiläa reiste, brach er nach Kana auf. Er suchte Jesus und bat ihn, mit ihm nach Kapernaum herabzukommen und seinen Sohn zu heilen, der im Sterben lag. <sup>48</sup>Jesus sagte: »Wenn ihr nicht Zeichen und Wunder seht, glaubt ihr nicht an mich.« <sup>49</sup>Doch der Beamte sagte zu ihm: »Herr, bitte komm zu mir herab nach Kapernaum, ehe mein kleiner Junge stirbt.« <sup>50</sup>Da sagte Jesus zu ihm: »Geh zurück nach Hause! Dein Sohn lebt.« Der Mann glaubte dem Wort, das Jesus zu ihm gesagt hatte, und machte sich auf den Heimweg. <sup>51</sup>Unterwegs kamen ihm einige seiner Knechte mit der Nachricht entgegen, dass sein Sohn lebte und gesund war. <sup>52</sup>Er fragte sie, seit wann genau es dem Jungen wieder besser gehe, und sie erwiderten: »Gestern Mittag um ein Uhr verschwand das Fieber!« <sup>53</sup>Da erkannte der Vater, dass es genau der Zeitpunkt gewesen war, an dem Jesus ihm gesagt hatte: »Dein Sohn lebt.« Und der Beamte und sein ganzes Haus glaubten an Jesus. <sup>54</sup>Das war das zweite Wunder von Jesus in Galiläa, nachdem er aus Judäa gekommen war. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Johannes%204:43-54",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Johannes 4:43-54",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2204",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2204",
+        "startTime": "5:59",
+        "endTime": "7:38",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<p dir=\"ltr\"><strong id=\"docs-internal-guid-c2d67505-7fff-5f45-7875-56994496382d\">Jesus reiste in den Norden, in seine Heimatstadt Nazareth in Galiläa. Die Berichte seines Zornausbruches im Tempel in Jerusalem hatten sich verbreitet und die Menschen wunderten sich darüber, wer er war. Während Jesus in Kana auf Besuch war, hörte ein verzweifelter königlicher Beamter aus der großen Stadt Kapernaum von ihm. Dieser Beamte war sehr wahrscheinlich ein Römer, der hoffte, dass Jesus sein Kind heilen konnte. Bis jetzt lesen wir noch nicht davon, dass Jesus jemanden geheilt hatte, aber das hielt den Mann nicht davon ab, seine Hoffnung auf Jesus zu setzen. Als Jesus versprach, dass der Sohn gesund sei, glaubte der königliche Beamte ihm und gehorchte. Das Resultat war, dass sein Sohn geheilt war, seine gesamte Familie glaubte und gerettet wurde. Glaube ist, Jesus beim Wort zu nehmen und dann gehorsam zu tun, was er sagt.</strong></p>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-17"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply214-i-will"
+      }
+    }
+  ]
+}

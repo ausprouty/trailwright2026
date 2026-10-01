@@ -118,6 +118,7 @@ function toggleOpen(): void {
 .bible-passage-block__passage :deep(h3) {
   font-size: 1rem;
   font-weight: 700;
+  line-height: 1.3;
   margin: 0.75rem 0 0.4rem;
 }
 

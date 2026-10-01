@@ -1,0 +1,227 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply219",
+  "sortOrder": 22,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Markus 1:29-39",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>29</sup>Nachdem Jesus und seine Jünger die Synagoge verlassen hatten, gingen sie zum Haus von Simon und Andreas; auch Jakobus und Johannes kamen mit. <sup>30</sup>Simons Schwiegermutter war krank und lag mit hohem Fieber im Bett. Sofort erzählten sie Jesus von ihr. <sup>31</sup>Er trat an ihr Bett, nahm ihre Hand und half ihr, sich aufzusetzen. Da verschwand das Fieber, und sie stand auf und machte ihnen etwas zu essen. <sup>32</sup>Am Abend nach Sonnenuntergang brachte man alle Kranken und von Dämonen besessenen Menschen zu Jesus. <sup>33</sup>Vor dem Haus versammelte sich eine große Menschenmenge, Leute aus ganz Kapernaum waren gekommen. <sup>34</sup>Jesus heilte viele Menschen, die an den verschiedensten Krankheiten litten, und befahl vielen Dämonen, ihre Opfer zu verlassen. Den Dämonen verbot er zu sprechen, denn sie wussten, wer er war. <h3>Jesus predigt in Galiläa</h3><sup>35</sup>Ganz früh, es war noch Nacht, ging Jesus allein an einen einsamen Ort, um zu beten. <sup>36</sup>Später suchten ihn Simon und die anderen. <sup>37</sup>Als sie ihn gefunden hatten, sagten sie zu ihm: »Alle fragen nach dir.« <sup>38</sup>Doch er entgegnete: »Wir müssen auch in die anderen Städte gehen, damit ich auch dort predige; denn dazu bin ich gekommen.« <sup>39</sup>Und so zog er durch das ganze Gebiet von Galiläa, predigte in den Synagogen und trieb bei vielen Menschen Dämonen aus.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Markus%201:29-39",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Markus 1:29-39",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMark1501",
+        "source": "arclight",
+        "refId": "6_529-GOMark1501",
+        "startTime": "5:56",
+        "endTime": "7:55",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Der zweite Einsatz von Jesus war im Haus von Petrus. Er begann am Abend, nach dem Sonnenuntergang, als viele Menschen aus der Region kamen, um den Mann zu sehen, der den Dämon in der Synagoge ausgetrieben hatte. Das war eine spontane Sache, die sehr lange dauerte, bis in die Nacht hinein. Nach einer langen Nacht mit Heilungen und Freisetzungen stand Jesus früh auf und schlich sich aus dem Haus, um alleine Zeit mit dem Vater zu verbringen. Er wollte seine Stimme hören, nächste Schritte für sich und seinen Dienst erfahren und Gemeinschaft genießen. Obwohl jeder wollte, dass Jesus bleiben und einen erfolgreichen Dienst aufbauen würde, verließ Jesus Kapernaum aus Gehorsam gegenüber seinem Vater und um seine Mission zu erfüllen. Er zog durch die Dörfer von ganz Galiläa."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-17"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply219-i-will"
+      }
+    }
+  ]
+}

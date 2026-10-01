@@ -1,0 +1,378 @@
+{
+  "site": "myfriends",
+  "country": "AU",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply349",
+  "sortOrder": 55,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Read a scripture and sing worship songs.</em>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. (Philippians 2:11b; 1 Timothy 2:4-6a)"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Minister to one another’s needs in prayer, biblical counsel and encouragement. </em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
+          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encourage loving accountability to obey Jesus"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Choose a way to cast vision for who they can become in Christ or what God can do through them by:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
+                  "reflecting on the changes in their life since they started following Christ",
+                  "reminding them of what God wants to do through them"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Share BIG vision “A church for every village and community, and the gospel for every person.”</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Context",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask the group to tell the story from last week."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read or watch Acts 25:1-22 two times as others listen."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Acts 25:1-22",
+        "html": "<!-- begin bible --><h3>Paul’s Trial Before Festus</h3><p><sup class=\"versenum\">1 </sup>Three days after arriving in the province, Festus went up from Caesarea to Jerusalem,<sup class=\"versenum\">2 </sup>where the chief priests and the Jewish leaders appeared before him and presented the charges against Paul.<sup class=\"versenum\">3 </sup>They requested Festus, as a favor to them, to have Paul transferred to Jerusalem, for they were preparing an ambush to kill him along the way.<sup class=\"versenum\">4 </sup>Festus answered, “Paul is being held at Caesarea, and I myself am going there soon.<sup class=\"versenum\">5 </sup>Let some of your leaders come with me, and if the man has done anything wrong, they can press charges against him there.”</p><p><sup class=\"versenum\">6 </sup>After spending eight or ten days with them, Festus went down to Caesarea. The next day he convened the court and ordered that Paul be brought before him.<sup class=\"versenum\">7 </sup>When Paul came in, the Jews who had come down from Jerusalem stood around him. They brought many serious charges against him, but they could not prove them.</p><p><sup class=\"versenum\">8 </sup>Then Paul made his defense: “I have done nothing wrong against the Jewish law or against the temple or against Caesar.”</p><p><sup class=\"versenum\">9 </sup>Festus, wishing to do the Jews a favor, said to Paul, “Are you willing to go up to Jerusalem and stand trial before me there on these charges?”</p><p><sup class=\"versenum\">10 </sup>Paul answered: “I am now standing before Caesar’s court, where I ought to be tried. I have not done any wrong to the Jews, as you yourself know very well.<sup class=\"versenum\">11 </sup>If, however, I am guilty of doing anything deserving death, I do not refuse to die. But if the charges brought against me by these Jews are not true, no one has the right to hand me over to them. I appeal to Caesar!”</p><p><sup class=\"versenum\">12 </sup>After Festus had conferred with his council, he declared: “You have appealed to Caesar. To Caesar you will go!”</p><h3>Festus Consults King Agrippa</h3><p><sup class=\"versenum\">13 </sup>A few days later King Agrippa and Bernice arrived at Caesarea to pay their respects to Festus.<sup class=\"versenum\">14 </sup>Since they were spending many days there, Festus discussed Paul’s case with the king. He said: “There is a man here whom Felix left as a prisoner.<sup class=\"versenum\">15 </sup>When I went to Jerusalem, the chief priests and the elders of the Jews brought charges against him and asked that he be condemned.</p><p><sup class=\"versenum\">16 </sup>“I told them that it is not the Roman custom to hand over anyone before they have faced their accusers and have had an opportunity to defend themselves against the charges.<sup class=\"versenum\">17 </sup>When they came here with me, I did not delay the case, but convened the court the next day and ordered the man to be brought in.<sup class=\"versenum\">18 </sup>When his accusers got up to speak, they did not charge him with any of the crimes I had expected.<sup class=\"versenum\">19 </sup>Instead, they had some points of dispute with him about their own religion and about a dead man named Jesus who Paul claimed was alive.<sup class=\"versenum\">20 </sup>I was at a loss how to investigate such matters; so I asked if he would be willing to go to Jerusalem and stand trial there on these charges.<sup class=\"versenum\">21 </sup>But when Paul made his appeal to be held over for the Emperor’s decision, I ordered him held until I could send him to Caesar.”</p><p><sup class=\"versenum\">22 </sup>Then Agrippa said to Festus, “I would like to hear this man myself.”</p><p>He replied, “Tomorrow you will hear him.”</p><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%2025:1-22&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Acts 25:1-12",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7365-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7365-0-0",
+        "startTime": "start",
+        "endTime": "4:33",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Acts 25:13-22",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7366-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7366-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What caught your attention or what did you like best? Why?",
+          "What is new or has developed at this point in the story?",
+          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
+          "How can we live differently now that we know this story?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Additional questions you can use:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "How are Jesus’ followers continuing His work of making disciples and church planting?",
+          "How is the gospel impacting people and society?",
+          "What barriers or obstacles were overcome and how were they overcome?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-22"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Governor Felix kept Paul in prison for two years and passed his case on to the new governor, Festus, to deal with. While Festus visited Jerusalem, the Jewish religious leaders saw an opportunity to finally get Paul. If the trial could be brought back to Jerusalem, they would have another chance to assassinate Paul during the two-day journey. Suspecting their plan, Paul urged the governor to abide by Roman law and not give in to please the Jewish leaders. Having already been unjustly held for two years, he used his right as a Roman citizen to have his case heard before Caesar. Paul argued that following Jesus was consistent with both his identity as a Jew and a loyal citizen of Rome. When King Agrippa and Bernice visited Caesarea, they were interested in hearing from Paul. Jesus is sovereignly guiding all of these circumstances to fulfill His promise that Paul would testify before Caesar."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practice giving and communion here or in the Preparing for Mission section</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparing for Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Practice needed skills or previous topics to help prepare to minister to others:<br> o Prayer, Care, Share<br> o Gospel<br> o Foundational Bible Studies."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Identify people or places you will take the initiative to minister to this week.",
+          "Write “I will by when” statements and share with your small group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-31"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying For the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benediction (optional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply349-i-will"
+      }
+    }
+  ]
+}

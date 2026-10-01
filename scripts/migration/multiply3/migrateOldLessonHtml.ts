@@ -176,18 +176,6 @@ function cleanBibleHtml(rawHtml: string): string {
     $firstParagraph.remove();
   }
 
-  // Normalize Bible passage section headings.
-  $root.find('h4.bible').each((_, el) => {
-    const $el = $(el);
-    $el.replaceWith(`<h3>${$el.html() || ''}</h3>`);
-  });
-
-  // Normalize Bible passage section headings.
-  $root.find('h4.bible').each((_, el) => {
-    const $el = $(el);
-    $el.replaceWith(`<h3>${$el.html() || ''}</h3>`);
-  });
-
   $root.find('br').each((_, el) => {
     const $el = $(el);
     const next = $el.next();
@@ -857,6 +845,70 @@ function normalizeInlineHtml(html: string): string {
 
   return trimNbspEdges(cleaned).trim();
 }
+function normalizeLegacyPopupReferenceLayout($: cheerio.CheerioAPI): void {
+  $('a[href*="javascript:popUp"]').each((_, el) => {
+    const $link = $(el);
+
+    // Already inside normal content: leave it alone.
+    if ($link.closest('p, li').length > 0) {
+      return;
+    }
+
+    /*
+     * Legacy pattern:
+     *
+     * <p>
+     *   text...
+     *   <a popup1>Philippians 2:11</a>;
+     * </p>
+     *
+     * <div class="popup" id="pop1">...</div>
+     *
+     * <a popup2>1 Timothy 2:4-6a</a>)
+     *
+     * <div class="popup" id="pop2">...</div>
+     *
+     * The second reference belongs to the preceding paragraph.
+     */
+
+    let previous = $link.prev();
+
+    // Skip popup divs sitting between the paragraph and this link.
+    while (previous.length && previous.hasClass('popup')) {
+      previous = previous.prev();
+    }
+
+    if (!previous.length || !previous.is('p')) {
+      return;
+    }
+
+    const $paragraph = previous;
+
+    // Preserve text immediately following the standalone link,
+    // such as ")" or punctuation.
+    const linkNode = $link[0];
+    const nextNode = linkNode?.nextSibling;
+
+    let trailingText = '';
+
+    if (nextNode && isText(nextNode)) {
+      trailingText = nextNode.data;
+
+      if (trailingText.trim()) {
+        $(nextNode).remove();
+      } else {
+        trailingText = '';
+      }
+    }
+
+    // Move the actual link into the preceding paragraph.
+    $paragraph.append($link);
+
+    if (trailingText) {
+      $paragraph.append(trailingText);
+    }
+  });
+}
 
 function normalizeTextForEditor(text: string): string {
   if (!text) {
@@ -1021,6 +1073,7 @@ export function migrateOldLessonHtmlToEditorJs(
   const remappedHtml = remapImagePaths(html);
   const repairedHtml = repairMojibakeText(remappedHtml);
   const $ = cheerio.load(repairedHtml);
+  normalizeLegacyPopupReferenceLayout($);
   const popupMap = collectPopupMap($);
 
   const blocks: AnyEditorJsBlock[] = [];

@@ -1,0 +1,227 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply221",
+  "sortOrder": 24,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lukas 5:12-16",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>12</sup>In einem der Dörfer begegnete Jesus einem Aussätzigen, dessen Krankheit schon weit fortgeschritten war. Als der Mann Jesus sah, warf er sich mit dem Gesicht vor ihm in den Staub und flehte ihn an, ihn zu heilen. »Herr«, sagte er, »wenn du willst, kannst du mich gesund machen.« <sup>13</sup>Da streckte Jesus die Hand aus und berührte den Mann. »Ich will es tun«, sagte er, »sei gesund!« Und im gleichen Augenblick verschwand der Aussatz. <sup>14</sup>Jesus wies ihn an, niemandem zu erzählen, was geschehen war. Er sagte: »Geh zum Priester und lass dich von ihm untersuchen. Nimm das Opfer mit, das im Gesetz Moses für diejenigen vorgeschrieben wird, die von Aussatz geheilt sind. Das wird für alle ein Beweis deiner Heilung sein.« <sup>15</sup>Doch trotzdem verbreitete sich das, was er tat, noch schneller, und die Menschen strömten herbei, um ihn predigen zu hören und von ihren Krankheiten geheilt zu werden. <sup>16</sup>Jesus zog sich jedoch immer wieder zum Gebet in die Wüste zurück. <h3>Jesus heilt einen Gelähmten</h3><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Lukas%205:12-16",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lukas 5:12-16",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2605",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2605",
+        "startTime": "1:56",
+        "endTime": "3:10",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Der vierte von Jesus’ Einsätzen führte sie zu den Niedrigen und Ausgestoßenen der Gesellschaft. Jesus und die Jünger reisten von Stadt zu Stadt und Dorf zu Dorf. In einer Stadt trafen sie einen aussätzigen Mann. Aussatz ist eine sehr ansteckende Krankheit und Aussätzige wurden sowohl sozial als auch religiös verstoßen und hatten keine Hoffnung. Sie wurden aus der Gesellschaft verbannt und von Gott verdammt. Nur Gott konnte diese Krankheit heilen. Jesus wurde von Mitleid erfüllt und hatte keine Angst vor dem Aussatz des Mannes. Er zeigte seinen Jüngern, die Ausgestoßenen, Unliebsamen, sozial Verbannten zu lieben, berührte den Mann und heilte ihn. Jesus befahl ihm dann, sich den Priestern zu zeigen, als Zeugnis für diese, dass der Messias gekommen war. Dieser Mann ging herum und begann, überall von Jesus zu erzählen. Das Resultat war, dass Jesus keine Stadt mehr öffentlich betreten konnte (Markus 1,45)."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-17"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply221-i-will"
+      }
+    }
+  ]
+}

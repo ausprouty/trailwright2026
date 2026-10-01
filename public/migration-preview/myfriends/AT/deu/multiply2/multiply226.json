@@ -1,0 +1,269 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply226",
+  "sortOrder": 30,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "LOBPREIS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest einen Psalm oder singt gemeinsam ein Worship-Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCHEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
+          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet füreinander und für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lukas 6:12-19",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>12</sup>Nicht lange danach stieg Jesus auf einen Berg, um zu beten. Er betete die ganze Nacht hindurch zu Gott. <sup>13</sup>Bei Tagesanbruch rief er alle seine Jünger zusammen und wählte zwölf von ihnen aus, die er Apostel nannte. Dies sind ihre Namen: <sup>14</sup>Simon (den er auch Petrus nannte), Andreas (der Bruder von Petrus), Jakobus, Johannes, Philippus, Bartholomäus, <sup>15</sup>Matthäus, Thomas, Jakobus (der Sohn des Alphäus), Simon (der Zelot), <sup>16</sup>Judas (der Sohn des Jakobus) und Judas Iskariot (der ihn später verriet). <h3>Viele Menschen folgen Jesus</h3><sup>17</sup>Als Jesus und die Jünger wieder von dem Berg herunterkamen, befanden sie sich in einer weiten Ebene, umringt von den Anhängern von Jesus und vielen anderen Menschen. Es waren Leute aus ganz Judäa und Jerusalem und von weit her aus den nördlichen Küstengebieten von Tyrus und Sidon. <sup>18</sup>Sie waren gekommen, um ihn predigen zu hören und geheilt zu werden, und Jesus trieb viele böse Geister aus. <sup>19</sup>Alle wollten ihn berühren, weil eine heilende Kraft von ihm ausging, und alle wurden geheilt.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Lukas%206:12-19",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lukas 6:12-19",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2606",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2606",
+        "startTime": "2:05",
+        "endTime": "3:23",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
+          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
+          "Was entdeckst du über Gott?"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "HINTERGRÜNDE",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus startet eine neue Phase in seiner Bewegung. Der Dienst wuchs und das Momentum nahm zu. Menschen aus ganz Israel glaubten, er sei der Messias. An diesem kritischen Moment ruft Jesus seine Jünger zusammen. Während sie sich sammeln, geht Jesus auf den Berg, um zu beten. Hier sehen wir das erste Prinzip von Leiterschaftsentwicklung: Abhängigkeit von Gott.<br> Nach einer ganzen Nacht Gebet kommt Jesus wieder herunter und ruft öffentlich die ersten 12 Movement-Leiter aus der Menge seiner Jünger heraus (vielleicht 100 oder mehr). <br> Er nennt sie Apostel, das heißt Gesandte. Das ist das zweite Prinzip der Leiterschaft: öffentliche Ernennung. Hier werden Leiter aus einer größeren Gruppe an Jüngern ausgewählt, die trainiert waren und die schon Erfahrungen im Menschenfischen hatten. Jesus wählte sie aus, damit sie mit ihm sein konnten (persönliche Entwicklung) und damit er sie aussenden konnte, um die gleichen Dinge wie er selbst zu tun (Autorität für den Dienst)."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-17"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Der Motor des MyFriends-Lifestyles",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Der Motor des MyFriends-Lifestyles ist Love, Pray, Care. Wir geben dem Heiligen Geist Raum, in uns und durch uns zu wirken, indem wir…"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "… für andere <strong>BETEN</strong>.<br> Gebet ist das Erste, was wir für die Menschen in unseren Umgebungen tun können (die, mit denen wir das Leben teilen - in der Wohnung und Nachbarschaft, Ausbildung, Arbeit, Freizeit, …). Wenn wir beten, legt es uns Gott oft aufs Herz, seine Liebe in greifbarer Weise zu zeigen."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "… uns um andere <strong>KÜMMERN</strong>.<br> Vielleicht kennst du den Satz: “Menschen kümmern sich nicht darum, wie viel du weißt, bis sie wissen, wie viel du dich kümmerst.” (“People don’t care how much you know until they know how much you care.”) Freundlichkeit und bewusste gute Taten können Wege öffnen, die Gute Nachricht von Jesus zu erzählen. Beim MyFriends-Lifestyle lassen wir uns vom Heiligen Geist leiten und folgen den Impulsen, die wir im Gebet erhalten, wie wir den Menschen um uns herum Gutes tun können."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "… die gute Nachricht mit anderen zu <strong>TEILEN</strong>.<br> Wenn wir für Menschen beten und ihnen Gottes Liebe praktisch demonstrieren, öffnet Gott oft eine Tür für uns, um geistliche Gespräche zu führen. Der ultimative Liebesbeweis ist, die Gute Nachricht von Jesus mit Menschen in unseren Umfeldern zu teilen."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Beim MyFriends-Lifestyle stellen wir die Bedürfnisse und Interessen des Anderen über unsere eigenen, so wie Jesus das mit uns getan hat."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ANWENDEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply226-i-will"
+      }
+    }
+  ]
+}

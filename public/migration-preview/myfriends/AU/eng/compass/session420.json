@@ -1,0 +1,193 @@
+{
+  "site": "myfriends",
+  "country": "AU",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session420",
+  "sortOrder": 19,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "FLASHBACK",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What did you experience with God this week?",
+          "In the last few days, did you have the opportunity to share an experience with God with someone close to you that doesn’t know Jesus yet? Or could you pray for them or help them practically?",
+          "Do you need God‘s help in an area of your life?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "BIBLE STUDY",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage silently. What words or phrases stick out?",
+          "One person reads the passage out loud.",
+          "One person retells the passage in his/her own words (Bibles closed).",
+          "If necessary, the others complement what was said (Bibles closed)."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthew 5:23-24",
+        "html": "<sup>23</sup>“Therefore, if you are offering your gift at the altar and there remember that your brother or sister has something against you,<sup>24</sup>leave your gift there in front of the altar. First go and be reconciled to them; then come and offer your gift. <p class=\"bible\"><br></p>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%205:23-24&version=TNIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Everyone by themselves: <ul class=\"arrows\"><li>What words or phrases stick out now? Are there any differences to what you noticed before?</li><li>Why do you feel drawn to those words or phrases?</li><li>What can you learn about people?</li><li>What could God be telling you?</li></ul>",
+          "Share in the group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "SPECIFIC QUESTIONS & ACTION STEPS",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "How do you usually react to a conflict? Do you rather ignore or postpone a sensible response or do you tackle it?",
+          "What is Jesus’ advice? Why?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session420-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"unknown\">▶ Are you currently experiencing a conflict in a relationship where you should take initiative? Pray in groups of 2-3 people for courage, wisdom and love so that you can approach the person concerned in the right way. </span>"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "SCRIPTURE COMMENTS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Conflicts are part of life. As lo ng as we are here on earth we can be sure that we’ll face a relational conflict because we humans will always have different style preferences, views and personalities, and we also won‘t always act correctly."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Normally we hesitate to tackle a conflict or postpone a response because we don’t want to place ourselves in an uncomfortable situation. But unaddressed conflicts will always increase and have even more negative effects on our relationships."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus’ advice is to take the initiative. Interestingly, Jesus tells us to take the initiative not only if we hold something against our friend, but also if our friend holds something against us. In both cases Jesus wants us to act and not to wait."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus is not talking about something he hasn’t modeled for us. When Jesus noticed a conflict he tackled it as quickly as possible (e.g. Mark 8:33-34)."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus tells us not to ignore conflicts. Conflicts can’t be avoided, but managed. Here are some examples of people in the Bible who managed conflicts in different ways: Acts 6:1-6 and Genesis 13:1-9."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"unknown\">Some other Bible verses about conflict resolution: </span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Colossians 3:13",
+                  "Romans 12:17-21",
+                  "James 1:19"
+                ]
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

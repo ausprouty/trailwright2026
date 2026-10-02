@@ -1,7 +1,9 @@
 // basics/migrateOldLessonHtml
 
 import * as cheerio from 'cheerio';
+import type { CheerioAPI } from 'cheerio';
 import type { AnyNode } from 'domhandler';
+
 import { isTag, isText } from 'domhandler';
 
 import { ElementType } from 'domelementtype';
@@ -925,10 +927,7 @@ function normalizeTextForEditor(text: string): string {
   return collapsePlainTextWhitespace(decodeHtmlEntities(trimNbspEdges(text)));
 }
 function normalizeVerseSupTags(html: string): string {
-  return html.replace(
-    /<sup>\s*(\d+(?:\/\d+)?)\s*<\/sup>/gi,
-    '<sup>$1</sup>',
-  );
+  return html.replace(/<sup>\s*(\d+(?:\/\d+)?)\s*<\/sup>/gi, '<sup>$1</sup>');
 }
 
 function normalizeVideoLabel(label: string): string {
@@ -1057,6 +1056,23 @@ function windows1252CodePointToByte(codePoint: number): number | null {
 
   return map[codePoint] ?? null;
 }
+function splitBibleSections($: CheerioAPI): void {
+  $('div.bible').each((_: number, element: AnyNode) => {
+    let $currentBible = $(element);
+
+    while ($currentBible.children('p.reference').length > 1) {
+      const $secondReference = $currentBible.children('p.reference').eq(1);
+
+      const $newBible = $('<div class="bible"></div>');
+
+      $secondReference.nextAll().addBack().appendTo($newBible);
+
+      $currentBible.after($newBible);
+
+      $currentBible = $newBible;
+    }
+  });
+}
 
 function trimNbspEdges(text: string): string {
   return text.replace(/^(?:\s|&nbsp;|\u00A0)+/gi, '').replace(/(?:\s|&nbsp;|\u00A0)+$/gi, '');
@@ -1102,6 +1118,7 @@ export function migrateOldLessonHtmlToEditorJs(
   normalizedHtml = normalizeVerseSupTags(normalizedHtml);
 
   const $ = cheerio.load(normalizedHtml);
+  splitBibleSections($);
   normalizeLegacyPopupReferenceLayout($);
   const popupMap = collectPopupMap($);
 

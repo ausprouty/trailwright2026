@@ -1,0 +1,134 @@
+{
+  "site": "myfriends",
+  "country": "AU",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session421",
+  "sortOrder": 20,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "FLASHBACK",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What did you experience with God this week?",
+          "In the last few days, did you have the opportunity to share an experience with God with someone close to you that doesn’t know Jesus yet? Or could you pray for them or help them practically?",
+          "Do you need God‘s help in an area of your life?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "BIBLE STUDY",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage silently. What words or phrases stick out?",
+          "One person reads the passage out loud.",
+          "One person retells the passage in his/her own words (Bibles closed).",
+          "If necessary, the others complement what was said (Bibles closed)."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Acts 16:20-34",
+        "html": "<p class=\"bible\"><sup>20</sup> They brought them before the magistrates and said, “These men are Jews, and are throwing our city into an uproar <sup>21</sup> by advocating customs unlawful for us Romans to accept or practice.” </p><p class=\"bible\"><sup>22</sup>The crowd joined in the attack against Paul and Silas, and the magistrates ordered them to be stripped and beaten with rods.<sup>23</sup>After they had been severely flogged, they were thrown into prison, and the jailer was commanded to guard them carefully.<sup>24</sup>When he received these orders, he put them in the inner cell and fastened their feet in the stocks.</p><p class=\"bible\"><sup>25</sup>About midnight Paul and Silas were praying and singing hymns to God, and the other prisoners were listening to them.<sup>26</sup>Suddenly there was such a violent earthquake that the foundations of the prison were shaken. At once all the prison doors flew open, and everyone’s chains came loose.<sup>27</sup>The jailer woke up, and when he saw the prison doors open, he drew his sword and was about to kill himself because he thought the prisoners had escaped.<sup>28</sup>But Paul shouted, “Don’t harm yourself! We are all here!”</p><p class=\"bible\"><sup>29</sup>The jailer called for lights, rushed in and fell trembling before Paul and Silas.<sup>30</sup>He then brought them out and asked, “Sirs, what must I do to be saved?”</p><p class=\"bible\"><sup>31</sup>They replied, “Believe in the Lord Jesus, and you will be saved—you and your household.”<sup>32</sup>Then they spoke the word of the Lord to him and to all the others in his house.<sup>33</sup>At that hour of the night the jailer took them and washed their wounds; then immediately he and all his household were baptized.<sup>34</sup>The jailer brought them into his house and set a meal before them; he was filled with joy because he had come to believe in God—he and his whole household.</p><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%2016:20-34&version=TNIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Everyone by themselves: <ul class=\"arrows\"><li>What words or phrases stick out now? Are there any differences to what you noticed before?</li><li>Why do you feel drawn to those words or phrases?</li><li>What can you learn about people?</li><li>What could God be telling you?</li></ul>",
+          "Share in the group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "SPECIFIC QUESTIONS & ACTION STEPS",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What consequences does thanksgiving and worship have according to the Bible? Also read Psalm 50:23 and <span class=\"unknown\">Psalm</span>18:4.",
+          "In what areas would you like to experience a spiritual breakthrough (personally, and in your environment)? Also discuss where you would like to witness spiritual breakthrough as a group."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session421-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Take a time of thanksgiving and worship in your group. Focus on areas, where you would like to see breakthroughs in your personal relationships. Also think about where you would like to see breakthroughs in relationships as a group."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    }
+  ]
+}

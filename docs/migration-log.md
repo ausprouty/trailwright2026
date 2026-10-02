@@ -60,3 +60,6 @@ Passage Popups now work in <li>
 ## Sept 17
 Finished:
   Multiply eng
+
+## Oct 2
+  Compass in English has links rather than Bible Popups

@@ -1,0 +1,118 @@
+{
+  "site": "myfriends",
+  "country": "CN",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session431",
+  "sortOrder": 30,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "回顾",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这周你同上帝一起经历了什么？",
+          "在过去的几天里， 你有没有机会同你身边还不知道耶稣基督的人分享一下你与上帝的经历？ 或者是否能够为他们祷告或者在实际生活中帮助他们？",
+          "你生活中的哪些方面需要上帝的帮助？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "学习圣经",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "静静地读经，找出重点词句",
+          "一人朗诵经文",
+          "一人用自己的话复述所读的内容（合上圣经）",
+          "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "使徒行傳 8:1-8",
+        "html": "",
+        "url": "",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "畅所欲言<ul class=\"arrows\"><li>哪些词句比较重要？它们与你之前理解的有所不同吗？</li><li>为什么你会被这些内容吸引？</li><li>神在告诉你什么?</li><li>你对人类有什么新认识？</li></ul>",
+          "组内分享"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "具体问题&实践步骤",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 为受迫害的叙利亚，土耳其，伊拉克，伊朗，巴基斯坦，埃及，阿尔及利亚，突尼斯和摩洛哥的基督徒祈求保护、对信仰的勇气和审慎。 也许你有来自这些国家的其他信息和代祷，或者要为他们提供信息和代祷。 例如：来自Open Doors或类似组织的代祷。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    }
+  ]
+}

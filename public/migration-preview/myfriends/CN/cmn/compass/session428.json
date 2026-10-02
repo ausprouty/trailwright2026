@@ -1,0 +1,169 @@
+{
+  "site": "myfriends",
+  "country": "CN",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session428",
+  "sortOrder": 27,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "回顾",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这周你同上帝一起经历了什么？",
+          "在过去的几天里， 你有没有机会同你身边还不知道耶稣基督的人分享一下你与上帝的经历？ 或者是否能够为他们祷告或者在实际生活中帮助他们？",
+          "你生活中的哪些方面需要上帝的帮助？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "学习圣经",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "静静地读经，找出重点词句",
+          "一人朗诵经文",
+          "一人用自己的话复述所读的内容（合上圣经）",
+          "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "撒母耳紀上 1:1-26; 歌羅西書 4:2-2; 使徒行傳 1:12-14",
+        "html": "",
+        "url": "",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "畅所欲言<ul class=\"arrows\"><li>哪些词句比较重要？它们与你之前理解的有所不同吗？</li><li>为什么你会被这些内容吸引？</li><li>神在告诉你什么?</li><li>你对人类有什么新认识？</li></ul>",
+          "组内分享"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "具体问题&实践步骤",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "<span style=\"background-color: #ffffff;\"> 什么是你花了很长时间祷告跟请求，最后上帝回应了的 </span>？在组内分享。"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session428-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "适合小组的祷文（从下面选择两条）："
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "对于那些让你不悦的事：“<span data-usfm=\"PHP.4.6\"> 在任何事上都不要忧虑；然而要在一切事上，藉着祷告和祈求，以感谢的心把你们所求的告诉神。 </span><span data-usfm=\"PHP.4.7\"> 这样，神的平安——那高过一切理性的平安，就会在基督耶稣里保守你们的心、你们的意念。 </span>“（腓立比书4：6-7）。",
+          "对于希望过上传福音的生活并愿意在校园中投身于上帝王国的基督教学生：然后祂对门徒说：“<span data-usfm=\"MAT.9.37\"><span class=\"unknown\"><span class=\"unknown\">收割的工作</span></span><span class=\"unknown\"><span class=\"unknown\">多，而工人少。</span></span></span><span data-usfm=\"MAT.9.38\"><span class=\"unknown\"><span class=\"unknown\">所以你们要祈求收割</span></span><span class=\"unknown\"><span class=\"unknown\">的主催促工人参与他的收割工作</span></span></span><span class=\"normal\">。”</span><span class=\"normal\">（马太福音9：37-38）。</span>",
+          "对于日常生活中敞开大门，让非信徒目睹你与耶稣的经历：“ 要为我们祷告，求上帝为我们打开传道的门，好传扬基督的奥秘——我就是为此而被囚禁的 <span class=\"normal\">“（歌罗西书4：3）。</span>",
+          "对于需要治愈的人（例如在你的小组中）：“<span class=\"normal\"> 你们中间有病了的呢，他就该请教会的长老来，他们可以奉主的名用油抹他，为他祷告。 </span><span class=\"normal\"> 出于信心的祈祷要救那病人，主必叫他起来，他若犯了罪，也必蒙赦免。” </span><span class=\"normal\">（雅5：14-15）。</span>"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "圣经注释",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "真正的代祷也是基于与上帝相合的愿望，而不仅仅是试图让祂做某件事。当你拥有约翰在最后的晚餐时的同样态度时，代祷就诞生了 - 把我们的头放在他胸前，我们便能感受到他的心跳。我们的心也会开始与祂同步地跳动，祂的心也会深深地感动我们的心。 这就是真正以父之名祈祷的含义。“以耶稣基督的名义”祈祷并不是要简单地说出“耶稣”，而是要与祂合一，并从那里用祂的权柄祷告。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "摘自：收获的愿景，Rick Joyner，1994。"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "site": "myfriends",
+  "country": "CN",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session402",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "回顾",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这周你同上帝一起经历了什么？",
+          "在过去的几天里， 你有没有机会同你身边还不知道耶稣基督的人分享一下你与上帝的经历？ 或者是否能够为他们祷告或者在实际生活中帮助他们？",
+          "你生活中的哪些方面需要上帝的帮助？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "学习圣经",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "静静地读经，找出重点词句",
+          "一人朗诵经文",
+          "一人用自己的话复述所读的内容（合上圣经）",
+          "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "約書亞記 1",
+        "html": "",
+        "url": "",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "畅所欲言<ul class=\"arrows\"><li>哪些词句比较重要？它们与你之前理解的有所不同吗？</li><li>为什么你会被这些内容吸引？</li><li>神在告诉你什么?</li><li>你对人类有什么新认识？</li></ul>",
+          "组内分享"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "具体问题&实践步骤",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "<font class=\"normal\" face=\"宋体\"> 在沙漠中度过 </font><span class=\"normal\">40</span><font class=\"normal\" face=\"宋体\"> 年后，以色列人将要渡过约旦河，征服应许之地。神信守承诺让他们到达。你<span style=\"background-color: #ffffff;\"> 何 </span>时候感受到上帝信守承诺？感恩每一次经历。 </font>",
+          "<font class=\"normal\" face=\"宋体\"> 你也面临为业之地吗？你需要从神那里得到什么（来征服它）？神向你作出怎样的承诺？为了让承诺兑现，你有怎样的责任？（见约书亚记 </font><span class=\"normal\">1</span><font class=\"normal\" face=\"宋体\"> ） </font>",
+          "<font class=\"normal\" face=\"宋体\"> 在约书亚记 </font><span class=\"normal\">1:8</span><font class=\"normal\" face=\"宋体\"> 中，神的挑战对你有什么启示？（“ </font><font class=\"normal\" face=\"宋体\"> 这律法书不可离开你的口 </font><span class=\"normal\">”）</span>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session402-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 每人选择尤其具有鼓舞性的两到三节，将这些承诺用作祷告，在生命中得到宣示（与组内两到三人分享）。"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "圣经注释",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<font face=\"宋体\"> 犹太人大声朗读圣经是因为他们认为律法书不可离口（参考约书亚记 </font>1:8<font face=\"宋体\">）。</font>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<font face=\"宋体\"><span style=\"background-color: #ffffff;\">舊約聖經也被论为法律</span>（如：马太福音 </font>12:5<font face=\"宋体\">以及约翰福音</font><font face=\"Calibri\">10:34</font><font face=\"宋体\">）。</font>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<font face=\"宋体\"> 上帝的话不但由话句组成，还包括他<span style=\"background-color: #ffffff;\"> 国度 </span>的现实存在。其包括了转换的力量（希伯来书 </font>4<font face=\"宋体\">：</font><font face=\"Calibri\">12</font><font face=\"宋体\">）！耶稣将神的话比作种子落在土里（路加福音</font><font face=\"Calibri\">8:12</font><font face=\"宋体\"> ）— <span style=\"background-color: #ffffff;\"> 如果我们能听见（从自己口中）并且堅持不懈的抓牢它 </span>，它就会结出果实。这意味着：它会在<span style=\"background-color: #ffffff;\"> 我们的生命中释放 </span>信仰，坚定，力量和神对我们生命的安排！ </font>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<font face=\"宋体\"> 你可以用以下方式练习听从上帝的话：在接下来的几天，大声朗读你<span style=\"background-color: #ffffff;\"> 自己 </span>写下能够鼓励你的章节。补充经文：诗篇 </font>23:1-5<font face=\"宋体\">；申命记</font><font face=\"Calibri\">31:8</font><font face=\"宋体\">；耶利米书</font><font face=\"Calibri\">29:11</font><font face=\"宋体\">；约书亚记</font><font face=\"Calibri\">1:9</font><font face=\"宋体\">；诗篇</font><font face=\"Calibri\">27:1</font><font face=\"宋体\">）。</font>"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

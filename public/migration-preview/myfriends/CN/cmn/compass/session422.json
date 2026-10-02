@@ -1,0 +1,177 @@
+{
+  "site": "myfriends",
+  "country": "CN",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session422",
+  "sortOrder": 21,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "回顾",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这周你同上帝一起经历了什么？",
+          "在过去的几天里， 你有没有机会同你身边还不知道耶稣基督的人分享一下你与上帝的经历？ 或者是否能够为他们祷告或者在实际生活中帮助他们？",
+          "你生活中的哪些方面需要上帝的帮助？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "学习圣经",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "人死前的遗言常有特殊的含义。经文中，耶稣在进入天堂前也给他的门徒作了最后的重要指示。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "静静地读经，找出重点词句",
+          "一人朗诵经文",
+          "一人用自己的话复述所读的内容（合上圣经）",
+          "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "馬太福音 28:18-20",
+        "html": "",
+        "url": "",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "畅所欲言<ul class=\"arrows\"><li>哪些词句比较重要？它们与你之前理解的有所不同吗？</li><li>为什么你会被这些内容吸引？</li><li>神在告诉你什么?</li><li>你对人类有什么新认识？</li></ul>",
+          "组内分享"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "具体问题&实践步骤",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "根据经文，耶稣遗愿的重点是什么？",
+          "“使万民作我的门徒”实际上意味着什么？从经文中能得到哪些线索？（见经文注解）",
+          "耶稣传道三年教给门徒什么？换言之，耶稣的门徒需要做什么？（参考约翰8:31-32；使徒1:8；约翰10：27；马太25:14-30；马太7:7-8）"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session422-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 你打算在身边传福音了吗？—两人一组，虔诚祈祷大使命是生命第一要义。祈祷自己能够在同学间传道，让他们成为耶稣门徒。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"unknown\"><span class=\"unknown\">▶ 为你祈祷列表上的名字祷告。（见：感动主的祷告）</span></span>"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "圣经注释",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "在19-20节，耶稣并未强调三个步骤：设门徒，洗礼，教训。在希腊原文中：只有“设门徒”是三条中必要的。“洗礼”和“教<span style=\"background-color: #ffffff;\">导</span>”作为分词。所以原文的最佳翻译是：“你们要去使万民作我的门徒，奉父、子、圣灵的名给他们<span class=\"unknown\">施洗</span>。凡我所吩咐你们的，都教<span style=\"background-color: #ffffff;\">导</span>他们遵守。”（英文已是这样翻译，所以注解是多余的。但在其他语言里-比如德语-就需要注解）"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "耶稣并未要求我们设团契或其他活动。他的使命是设门徒，我们要知道团契不仅仅是社团和互助小组，团契能够武装我们成为世界使徒-比如在我们的校园传福音。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "这意味着首先要让他们连接耶稣，如果他们尚未建立起这种联系，就让他们接受洗礼。如果他们是基督徒，就召集他们，叫他们走进神的国的新维度，给他们任务去使人作门徒。"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

@@ -23,6 +23,8 @@ const title = computed(() => {
   return localizeDigits(rawTitle, props.numberSystem ?? 'latn');
 });
 
+const hasHtml = computed(() => Boolean(props.data.html?.trim()));
+
 const localizedHtml = computed(() => {
   return props.data.html
     ? localizeSupVerseNumbers(props.data.html, props.numberSystem ?? 'latn')
@@ -30,27 +32,32 @@ const localizedHtml = computed(() => {
 });
 
 function toggleOpen(): void {
+  if (!hasHtml.value) {
+    return;
+  }
   isOpen.value = !isOpen.value;
 }
 </script>
 
 <template>
   <div class="bible-passage-block">
-    <button type="button" class="bible-passage-block__header" @click="toggleOpen">
+    <button type="button" class="bible-passage-block__header"
+      :class="{ 'bible-passage-block__header--static': !hasHtml }" @click="toggleOpen">
       <span class="bible-passage-block__header-left">
         <span class="bible-passage-block__icon">✟</span>
+
         <span class="bible-passage-block__title">
           {{ title }}
         </span>
       </span>
 
-      <span class="bible-passage-block__toggle">
+      <span v-if="hasHtml" class="bible-passage-block__toggle">
         {{ isOpen ? '−' : '+' }}
       </span>
     </button>
 
-    <div v-if="isOpen" class="bible-passage-block__body">
-      <div v-if="localizedHtml" class="bible-passage-block__passage" v-html="localizedHtml" />
+    <div v-if="hasHtml && isOpen" class="bible-passage-block__body">
+      <div class="bible-passage-block__passage" v-html="localizedHtml" />
 
       <div v-if="data.url" class="bible-passage-block__read-more-wrap">
         <a :href="data.url" target="_blank" rel="noopener noreferrer" class="bible-passage-block__read-more">

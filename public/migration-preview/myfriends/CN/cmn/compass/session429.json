@@ -1,0 +1,183 @@
+{
+  "site": "myfriends",
+  "country": "CN",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session429",
+  "sortOrder": 28,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "回顾",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这周你同上帝一起经历了什么？",
+          "在过去的几天里， 你有没有机会同你身边还不知道耶稣基督的人分享一下你与上帝的经历？ 或者是否能够为他们祷告或者在实际生活中帮助他们？",
+          "你生活中的哪些方面需要上帝的帮助？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "学习圣经",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "静静地读经，找出重点词句",
+          "一人朗诵经文",
+          "一人用自己的话复述所读的内容（合上圣经）",
+          "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "使徒行傳 2:42-47; 希伯來書 10:24-25",
+        "html": "",
+        "url": "",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "畅所欲言<ul class=\"arrows\"><li>哪些词句比较重要？它们与你之前理解的有所不同吗？</li><li>为什么你会被这些内容吸引？</li><li>神在告诉你什么?</li><li>你对人类有什么新认识？</li></ul>",
+          "组内分享"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "具体问题&实践步骤",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "你所在的<span style=\"background-color: #ffffff;\">社团有</span>哪些方面挑战着你？",
+          "你可以为你的小组贡献什么来让它更坚固、强大？（每人写下一两条想法在组内讨论）",
+          "<span style=\"background-color: #ffffff;\">以一个小组</span>，你们该怎样让你的<span style=\"background-color: #ffffff;\">学院</span>和同学知道上帝的存在？<span style=\"background-color: #ffffff;\">有什么活动你们可以一起组织</span>？（见圣经注解）？<span class=\"unknown\">每人写下两到三条想法在组内讨论。</span>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session429-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"unknown\"><span class=\"unknown\">▶ 祈祷你与主的关系和人际关系更紧密。</span></span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 在祈祷中让自己更能为主所用，让主利用你的小组将上帝存在带进你的大学（见圣经注解）。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"unknown\">▶ 为你名单上的人祈祷（见“感动上帝的祈祷”）。</span>"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "圣经注释",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "在六世纪末，由于民族大迁徙，中欧再次被异教徒主导。城市教会在那段时间很难传递福音。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "高隆庞、加卢斯和其他爱尔兰修道士在那时候被上帝召到中欧。他们以氏族为单位，在短时间内建起了几百个修道团体。他们有联系紧密的单层等级制度<span style=\"background-color: #ffffff;\">团体</span>，通过神的王国对社会有着广泛影响。其标志之一就是将可感知的上帝存在带给他人。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "什么是“可感知的上帝存在”？据记载陆续患病的人找到高隆庞，高隆庞“在上帝的帮助下，通过祈祷治好了所有患病的人”。通过这样的氏族团体，整个社会和宗教的人都接受到了福音，从而产生了深远的影响。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "像从前一样，今天的社会也受到了神的国度的影响。我们希望SHINE学生小组不只是一个内向型团体。我们希望这些小组的生活方式能向外延伸闪耀，让其他学生感受到上帝存在。例如：我们组织福音传道聚会并邀请朋友前来。（路加5:27-32）"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

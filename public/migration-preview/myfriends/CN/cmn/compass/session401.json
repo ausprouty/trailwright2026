@@ -1,0 +1,197 @@
+{
+  "site": "myfriends",
+  "country": "CN",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session401",
+  "sortOrder": 0,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "回顾",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这周你同上帝一起经历了什么？",
+          "在过去的几天里， 你有没有机会同你身边还不知道耶稣基督的人分享一下你与上帝的经历？ 或者是否能够为他们祷告或者在实际生活中帮助他们？",
+          "你生活中的哪些方面需要上帝的帮助？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "学习圣经",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "静静地读经，找出重点词句",
+          "一人朗诵经文",
+          "一人用自己的话复述所读的内容（合上圣经）",
+          "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "路加福音 15:11-32",
+        "html": "",
+        "url": "",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "畅所欲言 <ul class=\"arrows\"><li>哪些词句比较重要？它们与你之前理解的有所不同吗？</li><li>为什么你会被这些内容吸引？</li><li>神在告诉你什么?</li><li>你对人类有什么新认识？</li></ul>",
+          "组内分享"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "具体问题&实践步骤",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "问题：小儿子如何看待自己？大儿子又如何看待自己的？",
+          "他们在父亲那里有什么期望？他们都从父亲那里得到想要的了吗？为什么？",
+          "“服侍”和“仆人”两个词出现多次，你能从中读出两个儿子怎样的想法？",
+          "袍子和戒指象征什么？耶稣想要怎样借这个比喻表达天父的心？",
+          "你觉得自己更像上帝的仆人还是子女呢？你有没有在任何情况下感觉被其中一种感受主导过？"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session401-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶你相信天上的神父真的会将你心里所求的赐给你吗？（诗篇37:3-4）在你的生活中有没有让你对此怀疑的地方？用祷告的方式告诉天父你的内心的请求（无声祷告）。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶按照以弗所书3:16-19，两到三人为一组进行祷告。祈求天父给你更多的爱，让你更深地感受他的爱。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 花一些时间做小组祷告，唱赞美之歌，让天父的恩泽感染你。（如《Good Good Father》— Chris Tomlin）"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "圣经注释",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "耶稣通过这个寓言揭示了天父的心；"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "小儿子确信自己不配再当父亲的儿子。从他的角度上看，他的父亲有权利对他说：“是的，这就是你的下场，现在开始学着服侍和干活吧。”"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "而大儿子恰恰相反，他从未做错事。但仍视自己为父亲的仆人。他默默地等着自己忠诚的服侍能够得到认可。这就是一般世俗的角度。我们不难想到：如果你堕落，你就需要赎罪，不管是潜意识地还是有意识地。我们总认为要得到上帝的宠爱，接受和恩泽，就一定要有所付出。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "但父亲纠正了两个儿子的想法。耶稣想让我们知道天国有不同的原则！出乎意料的，这个父亲说：“把那上好的袍子快拿出来给他穿，把戒指戴在他指头上，把鞋穿在他脚上。”他的小儿子可能浑身恶臭，衣衫褴褛，他的父亲并不想让他羞愧地走进屋子。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "天父的心也是如此：他不希望我们感到羞耻。他可能更伟大：我们是被他无条件宠爱、接受和选择的。作为他的儿女，我们能够永久地拥有他在天上的财富：“我所拥有的一切都是你的”（路加福音15:31；以弗所书1:3）。这一切包含了智慧、爱、力量、原谅、欢乐、安慰、希望、信仰和勇气。记住另一条天上的准则：只要我们祈求，神就会给我们美好的礼物！（马太福音7:7-11）"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "在我们接受上帝并认他为救世主的过程中，上帝还给了我们耶稣的灵性权威。戒指就是象征。这是天国的重要准则：如果你内心深知你是天父的儿女，你会得到平静。因此，上帝的存在，爱与力量开始涌现。但如果你怀疑上帝的爱，那么困惑，怀疑，恐惧，失落和忧伤将会填满你的生活。你看待自己是上帝的儿女还是仆人呢？"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

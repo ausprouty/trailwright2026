@@ -8,8 +8,8 @@ import { transformMultiply } from './transformMultiply';
 const PROJECT_ROOT = process.cwd();
 
 const SITE = 'myfriends' as const;
-const COUNTRY = 'AU' as const;
-const LANGUAGE = 'eng' as const;
+const COUNTRY = 'CN' as const;
+const LANGUAGE = 'cmn' as const;
 const SERIES = 'compass' as const;
 
 const SOURCE_DIR = path.join(PROJECT_ROOT, 'data', 'raw', SITE, COUNTRY, LANGUAGE, SERIES);
@@ -59,7 +59,7 @@ function openBrowser(url: string): void {
 }
 
 function isSeriesHtmlFile(fileName: string): boolean {
-  return /\.html$/i.test(fileName);
+  return /\.html$/i.test(fileName) && fileName.toLowerCase() !== 'index.html';
 }
 
 function toJsonFileName(fileName: string): string {

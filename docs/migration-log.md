@@ -63,3 +63,4 @@ Finished:
 
 ## Oct 2
   Compass in English has links rather than Bible Popups
+  Compass in Chinese may have read by System followed by Read in Chinese text

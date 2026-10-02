@@ -1,0 +1,210 @@
+{
+  "site": "myfriends",
+  "country": "CN",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session405",
+  "sortOrder": 4,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "回顾",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这周你同上帝一起经历了什么？",
+          "在过去的几天里， 你有没有机会同你身边还不知道耶稣基督的人分享一下你与上帝的经历？ 或者是否能够为他们祷告或者在实际生活中帮助他们？",
+          "你生活中的哪些方面需要上帝的帮助？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "学习圣经",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "静静地读经，找出重点词句",
+          "一人朗诵经文",
+          "一人用自己的话复述所读的内容（合上圣经）",
+          "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "約翰福音 10:27-28; 使徒行傳 9:10-19",
+        "html": "",
+        "url": "",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "畅所欲言<ul class=\"arrows\"><li>哪些词句比较重要？它们与你之前理解的有所不同吗？</li><li>为什么你会被这些内容吸引？</li><li>神在告诉你什么?</li><li>你对人类有什么新认识？</li></ul>",
+          "组内分享"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "具体问题&实践步骤",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "为什么听从上帝的声音如此重要？",
+          "你相信上帝会<span style=\"background-color: #ffffff;\">亲自</span>与你单独对话吗？",
+          "上帝是如何与你对话的？你的哪些方面阻止了祂与你对话？下面是一些建议："
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session405-i-will"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "把你的灵魂-意志，情感，认知交给圣灵。",
+          "<p> 可能的的疑惑还未得到回答，因为神希望你先迈出信仰的一步，首先你要明白上帝想要你做什么，你就能在祈祷中更清楚地听到上帝的声音。 </p>"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<font face=\"宋体\"><span class=\"unknown\">▶</span>你可以这样祷告： </font>“亲爱的天父，感谢你今天通过圣灵与我对话，我将我的灵魂，意志，情感和才智上交给你的权威。我想与你联系，只做<span style=\"background-color: #ffffff;\"> 符合您 </span>心意的事。让我的心灵与耳目听从<span style=\"background-color: #ffffff;\"> 您 </span>。让我能<span style=\"background-color: #ffffff;\">分辨您</span><span class=\"normal\"> 的声音和我自己的思想，这样我便得以受圣灵引导，而不被私念与周遭所左右。” </span>"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "圣经注释",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "基本原则："
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "<font class=\"normal\" face=\"宋体\"> 上帝的话反映出他具体计划和公意（见马太福音 </font><span class=\"normal\">28:18-20</span><font class=\"normal\" face=\"宋体\"> ） </font><font class=\"normal\" face=\"Calibri\"> . </font>",
+                  "“您的<span style=\"background-color: #ffffff;\">王</span>国降临”（路加福音<font class=\"normal\" face=\"Calibri\"> 11:2 </font><font class=\"normal\" face=\"宋体\"> ）应是我们做决定时的首要思想。 </font>",
+                  "<font class=\"normal\" face=\"宋体\"> 在很多具体的场景下，我们无法在圣经里找到直接答案，所以培养对上帝心意的敏感度十分重要。我们对上帝心意的认知会随着我们与上帝的交流加深（罗马书 </font><font class=\"normal\" face=\"Calibri\"> 12:2 </font><font class=\"normal\" face=\"宋体\"> ）。 </font>"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<font face=\"宋体\"> 耶稣是我们生活各方面的榜样。他照做<span style=\"background-color: #ffffff;\"> 神 </span>父所做的事（约翰福音 </font>5:19<font face=\"宋体\">）</font><font face=\"Calibri\">.</font><font face=\"宋体\">我们也要照做。这对我们听到和领悟上帝的话至关重要。</font>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "真实故事："
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<font face=\"宋体\">格兰迪斯</font>·爱华沃德于<font face=\"Calibri\">1902</font><font face=\"宋体\">年</font><font face=\"Calibri\">2</font><font face=\"宋体\">月</font><font face=\"Calibri\">24</font><font face=\"宋体\">日出生于伦敦，</font><font face=\"Calibri\">1932</font><font face=\"宋体\">年来到中国山西阳城传教。</font>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<font face=\"宋体\">在中日战争期间她收养了很多孤儿。</font>1940<font face=\"宋体\"> 年，形势更加严峻。日本轰炸阳城后，她询问上帝她该如何是好。“她住在被炸毁一半的房间里，带着虔诚的信仰等候上帝指示。她的灵魂不断找寻、倾听”。正如撒母耳说过：“请说，仆人敬听！”（撒母耳记上 </font><font face=\"Calibri\">3:10</font><font face=\"宋体\">）。主发话了，他的灵魂在主的指令下接受信心：“逃走</font><font face=\"Calibri\">...!</font><font face=\"宋体\">”没有一丝犹豫。当神发话，她就得离开。”</font>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<font face=\"宋体\">（译自</font>Mijnders-van Woerden, M.A.: Gladys Aylward <font face=\"宋体\">– </font><font face=\"Calibri\">Die Frau mit dem Buch, p.182</font><font face=\"宋体\">）</font>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "在听从了上帝的话之后，她带着一百多名孩子徒步逃往西安山区。一路上诸多不顺，他们不断地需要上帝指明方向，需要上帝告知如何行动。在途中他们经历了主的指示和保护。"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

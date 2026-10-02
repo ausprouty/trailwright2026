@@ -3,9 +3,7 @@
 import * as cheerio from 'cheerio';
 import type { CheerioAPI } from 'cheerio';
 import type { AnyNode } from 'domhandler';
-
 import { isTag, isText } from 'domhandler';
-
 import { ElementType } from 'domelementtype';
 import type { SectionMarkerBlockData } from 'src/types/content/MigrationTypes';
 import { remapImagePaths } from '../remapImagePaths';
@@ -918,6 +916,142 @@ function normalizeLegacyPopupReferenceLayout($: cheerio.CheerioAPI): void {
     }
   });
 }
+function normalizeLegacyHtmlLists($: CheerioAPI): void {
+  // We don't preserve numbering between separate ordered lists.
+  $('ol').removeAttr('start');
+
+  // Repair UL/OL lists that were incorrectly placed beside an LI
+  // rather than inside the preceding LI.
+  $('ol, ul').each((_, list) => {
+    const $list = $(list);
+
+    $list.children('ul, ol').each((_, nestedList) => {
+      const $nestedList = $(nestedList);
+      const $previousLi = $nestedList.prev('li');
+
+      if ($previousLi.length) {
+        $previousLi.append($nestedList);
+      }
+    });
+  });
+}
+function normalizeReadBibleReference($: CheerioAPI): void {
+  $('ol').each((_, element) => {
+    const $ol = $(element);
+
+    const lastLiText = $ol.children('li').last().text().replace(/\s+/g, ' ').trim();
+
+    // This identifies the "read the Bible" instruction list.
+    if (lastLiText !== '如果有必要，其他人可以补充他/她复述的内容（合上圣经）') {
+      return;
+    }
+
+    let node = element.nextSibling;
+
+    const nodesToRemove: AnyNode[] = [];
+    const referenceParts: string[] = [];
+
+    while (node) {
+      // The next <ol> marks the end of the Bible-reference area.
+      if (isTag(node) && node.name === 'ol') {
+        break;
+      }
+
+      nodesToRemove.push(node);
+
+      if (isText(node)) {
+        const text = node.data.replace(/\s+/g, ' ').trim();
+
+        if (text) {
+          referenceParts.push(text);
+        }
+      } else if (isTag(node)) {
+        // HR and BR are just old formatting.
+        if (node.name !== 'hr' && node.name !== 'br') {
+          const text = $(node).text().replace(/\s+/g, ' ').trim();
+
+          if (text) {
+            referenceParts.push(text);
+          }
+        }
+      }
+
+      node = node.nextSibling;
+    }
+
+    const reference = referenceParts.join(' ').trim();
+
+    if (!reference) {
+      return;
+    }
+
+    const $bible = $('<div class="bible"></div>');
+    const $reference = $('<p class="reference"></p>');
+
+    $reference.text(reference);
+    $bible.append($reference);
+
+    // Insert the standardized Bible block after the reading instructions.
+    $ol.after($bible);
+
+    // Remove the original loose reference, HRs, BRs, paragraphs, etc.
+    for (const oldNode of nodesToRemove) {
+      $(oldNode).remove();
+    }
+  });
+}
+function normalizeStandaloneBibleReferences($: CheerioAPI): void {
+  $('body')
+    .contents()
+    .each((_, node) => {
+      // Plain text:
+      //
+      // 約翰福音 10:27-28; 使徒行傳 9:10-19
+
+      if (isText(node)) {
+        const text = node.data.replace(/\s+/g, ' ').trim();
+
+        if (!looksLikeBibleReference(text)) {
+          return;
+        }
+
+        const $bible = $('<div class="bible"></div>');
+        const $reference = $('<p class="reference"></p>');
+
+        $reference.text(text);
+        $bible.append($reference);
+
+        $(node).replaceWith($bible);
+
+        return;
+      }
+
+      // Paragraph:
+      //
+      // <p>路加福音 15:11-32</p>
+
+      if (isTag(node) && node.name === 'p') {
+        const $p = $(node);
+        const text = $p.text().replace(/\s+/g, ' ').trim();
+
+        if (!looksLikeBibleReference(text)) {
+          return;
+        }
+
+        // Don't alter paragraphs we already classified.
+        if ($p.hasClass('reference')) {
+          return;
+        }
+
+        const $bible = $('<div class="bible"></div>');
+
+        $p.addClass('reference');
+        $bible.append($p);
+
+        $p.replaceWith($bible);
+      }
+    });
+}
 
 function normalizeTextForEditor(text: string): string {
   if (!text) {
@@ -1118,8 +1252,11 @@ export function migrateOldLessonHtmlToEditorJs(
   normalizedHtml = normalizeVerseSupTags(normalizedHtml);
 
   const $ = cheerio.load(normalizedHtml);
+  normalizeReadBibleReference($);
+  normalizeStandaloneBibleReferences($);
   splitBibleSections($);
   normalizeLegacyPopupReferenceLayout($);
+  normalizeLegacyHtmlLists($);
   const popupMap = collectPopupMap($);
 
   const blocks: AnyEditorJsBlock[] = [];

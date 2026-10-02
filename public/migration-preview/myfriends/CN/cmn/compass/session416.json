@@ -1,0 +1,194 @@
+{
+  "site": "myfriends",
+  "country": "CN",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session416",
+  "sortOrder": 15,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "回顾",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这周你同上帝一起经历了什么？",
+          "在过去的几天里， 你有没有机会同你身边还不知道耶稣基督的人分享一下你与上帝的经历？ 或者是否能够为他们祷告或者在实际生活中帮助他们？",
+          "你生活中的哪些方面需要上帝的帮助？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "学习圣经",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "静静地读经，找出重点词句",
+          "一人朗诵经文",
+          "一人用自己的话复述所读的内容（合上圣经）",
+          "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "馬太福音 9:20-22; 馬太福音 9:27-29",
+        "html": "",
+        "url": "",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "畅所欲言<ul class=\"arrows\"><li>哪些词句比较重要？它们与你之前理解的有所不同吗？</li><li>为什么你会被这些内容吸引？</li><li>神在告诉你什么?</li><li>你对人类有什么新认识？</li></ul>",
+          "组内分享"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "具体问题&实践步骤",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "我们从女人和两个瞎子那里能了解到关于信仰的哪些知识？",
+          "上帝会对你的信仰作出回应。你在生活中的哪些状况下需要信仰？",
+          "有信心也意味着行动。 圣灵如何鼓励你采取行动、坚定信心？",
+          "记<span style=\"background-color: #ffffff;\">下</span>你的想法，然后以两到三人为一组分享。"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session416-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 你可以这样祷告：“亲爱的天父，谢谢<span style=\"background-color: #ffffff;\"> 您 </span>，<span style=\"background-color: #ffffff;\">您</span>已经赐给我你的圣灵，教我相信并拥有信心。原谅我曾经相信自己的经验胜过信你的圣言，原谅我曾在怀疑中行事。请<span style=\"background-color: #ffffff;\"> 您 </span>栽培我，这样我才能在信心中成长。我希望无论何时都会从<span style=\"background-color: #ffffff;\"> 您 </span>的角度看事物，专注于精神上发生的事情，而不是可见领域发生的事。请帮助我更深刻地理解你的话语和想法。“"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "圣经注释",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"normal\"> 信心意味着我们接受并宣扬上帝对事物的看法和可能性。因为有信心就意味<span style=\"background-color: #ffffff;\"> 我们明白 </span>可见的领域 - 我们的局限，经验，悲伤 - 并不是唯一现实。精神领域是书写你生活脚本的地方，而可见领域只是屏幕上发生的事情。 亚伯拉罕向我们展示了信仰是什么。他在得到儿子之前等待了很长时间。亚伯拉罕和撒拉生活中的一切都早已表明他们无法得到儿子。但亚伯拉罕坚持并相信上帝和他的应许。 </span>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"normal\"> 对我们来说，神的话语，写下的和活的话语（耶稣），是我们信心成长的关键。因为它传达了真相 </span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "...神是什么样的 - 对我们来说神是无所不能的，他为我们而战，倾听我们心中的呐喊（诗篇34：7），他供养我们，治愈我们，带给我们和平，庇护和智慧，他是万物的起始和终点。",
+                  "...他为我们<span style=\"background-color: #ffffff;\">所做的</span> - 我们被他接受和爱护，我们是他的孩子和使者，他使我们成为国王和牧师，等等。"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "坚定信心的步骤："
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "1.上帝的<span style=\"background-color: #ffffff;\">话语</span>：知道上帝是谁，<span style=\"background-color: #ffffff;\"> 和 </span>他为我们<span style=\"background-color: #ffffff;\">所做的</span>。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "2.祷告：宣告这一点或宣告现在所处的状况（“天父，你是......”和“在你眼中，我是......”）。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "要记住，如果我们听到上帝的话（即使是从我们自己的嘴里听到），就要坚持下去，它终会结出果实。它会让我们对上帝在生命里的计划更有信心（罗马书10:14;路加福音8:15）。"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

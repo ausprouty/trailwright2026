@@ -1,0 +1,383 @@
+{
+  "site": "myfriends",
+  "country": "NZ",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply338",
+  "sortOrder": 43,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Read a scripture and sing worship songs.</em>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. (Philippians 2:11b; 1 Timothy 2:4-6a)"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Minister to one another’s needs in prayer, biblical counsel and encouragement. </em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
+          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encourage loving accountability to obey Jesus"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Choose a way to cast vision for who they can become in Christ or what God can do through them by:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
+                  "reflecting on the changes in their life since they started following Christ",
+                  "reminding them of what God wants to do through them"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Share BIG vision “A church for every village and community, and the gospel for every person.”</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Context",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask the group to tell the story from last week."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read or watch Acts 19: 1-10 two times as others listen."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Acts 19:1-10",
+        "html": "<!-- begin bible --><h3>Paul in Ephesus</h3><p><sup class=\"versenum\">1 </sup>While Apollos was at Corinth, Paul took the road through the interior and arrived at Ephesus. There he found some disciples<sup class=\"versenum\">2 </sup>and asked them, “Did you receive the Holy Spirit when you believed?”</p><p>They answered, “No, we have not even heard that there is a Holy Spirit.”</p><p><sup class=\"versenum\">3 </sup>So Paul asked, “Then what baptism did you receive?”</p><p>“John’s baptism,” they replied.</p><p><sup class=\"versenum\">4 </sup>Paul said, “John’s baptism was a baptism of repentance. He told the people to believe in the one coming after him, that is, in Jesus.”<sup class=\"versenum\">5 </sup>On hearing this, they were baptized in the name of the Lord Jesus.<sup class=\"versenum\">6 </sup>When Paul placed his hands on them, the Holy Spirit came on them, and they spoke in tongues and prophesied.<sup class=\"versenum\">7 </sup>There were about twelve men in all.</p><p><sup class=\"versenum\">8 </sup>Paul entered the synagogue and spoke boldly there for three months, arguing persuasively about the kingdom of God.<sup class=\"versenum\">9 </sup>But some of them became obstinate; they refused to believe and publicly maligned the Way. So Paul left them. He took the disciples with him and had discussions daily in the lecture hall of Tyrannus.<sup class=\"versenum\">10 </sup>This went on for two years, so that all the Jews and Greeks who lived in the province of Asia heard the word of the Lord.</p><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%2019:%201-10&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Acts 19:1-10",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7351-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7351-0-0",
+        "startTime": "start",
+        "endTime": "1:14",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What caught your attention or what did you like best? Why?",
+          "What is new or has developed at this point in the story?",
+          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
+          "How can we live differently now that we know this story?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Additional questions you can use:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "How are Jesus’ followers continuing His work of making disciples and church planting?",
+          "How is the gospel impacting people and society?",
+          "What barriers or obstacles were overcome and how were they overcome?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-21"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "When Paul arrived in Ephesus, he met 12 men who knew John the Baptist’s teaching but did not know about Jesus or the sending of the Holy Spirit. After Paul taught them, they are willing to be identified with Jesus by being baptized in his name. These new believers experienced the Holy Spirit by receiving the gift of prophecy. Even though Aquila and Priscilla had been sharing the gospel in Ephesus, a movement did not start until Paul started teaching there daily. As a result, the gospel spread from the provincial capital to the whole province of Asia (about 8 million people) in only two years. Colossae was one of the cities of the province of Asia that was reached during this time. Read {Colossians 1:3-8}.&nbsp;",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Colossians 1:3-8",
+                    "label": "Colossians 1:3-8",
+                    "passage": "<p><sup class=\"versenum\">3&nbsp;</sup>We always thank God, the Father of our Lord Jesus Christ, when we pray for you,<sup class=\"versenum\">4&nbsp;</sup>because we have heard of your faith in Christ Jesus and of the love you have for all God’s people—<sup class=\"versenum\">5&nbsp;</sup>the faith and love that spring from the hope stored up for you in heaven and about which you have already heard in the true message of the gospel<sup class=\"versenum\">6&nbsp;</sup>that has come to you. In the same way, the gospel is bearing fruit and growing throughout the whole world—just as it has been doing among you since the day you heard it and truly understood God’s grace.<sup class=\"versenum\">7&nbsp;</sup>You learned it from Epaphras, our dear fellow servant, who is a faithful minister of Christ on our behalf,<sup class=\"versenum\">8&nbsp;</sup>and who also told us of your love in the Spirit.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practice giving and communion here or in the Preparing for Mission section</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparing for Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Practice needed skills or previous topics to help prepare to minister to others:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Prayer, Care, Share",
+                  "Gospel",
+                  "Foundational Bible Studies."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Identify people or places you will take the initiative to minister to this week.",
+          "Write “I will by when” statements and share with your small group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-30"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying For the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benediction (optional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply338-i-will"
+      }
+    }
+  ]
+}

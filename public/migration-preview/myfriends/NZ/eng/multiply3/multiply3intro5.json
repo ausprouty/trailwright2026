@@ -1,0 +1,63 @@
+{
+  "site": "myfriends",
+  "country": "NZ",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro5",
+  "sortOrder": 41,
+  "blocks": [
+    {
+      "type": "header",
+      "data": {
+        "text": "3rd Missionary Journey from Antioch",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img alt=\"\" src=\"/content/M2/eng/multiply3/Trip3.png\">"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "[52 -57 AD]"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Summary",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "This period covers about five years. Several movement centers have already been multiplying disciples and churches for over 6 years. During this period, a large mission-sending movement center is established in Ephesus. While church planting work is taking root in Ephesus, leaders are being sent out and existing churches are being coached. The period is marked by daily training, dramatic miracles, letter writing and Kingdom expansion so that the entire Eastern part of the Roman Empire can eventually be reached."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Letters written during this period",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "1 Corinthians, 55 AD",
+          "2 Corinthians, 56 AD",
+          "Romans, 57 AD"
+        ]
+      }
+    }
+  ]
+}

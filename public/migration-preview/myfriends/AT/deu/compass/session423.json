@@ -1,0 +1,183 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session423",
+  "sortOrder": 29,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "RÜCKBLICK",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt?",
+          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
+          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "BIBELSTUDIUM",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Alle lesen den Text leise für sich.",
+          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
+          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
+          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lukas 1, 80",
+        "html": "<p class=\"bible\"><sup>80</sup>Johannes wuchs heran und wurde stark im Geist. Er lebte in der Wüste bis zu dem Tag, an dem er öffentlich in Israel auftrat. </p><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%201:80&version=NGU-DE",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lukas 3, 1-2",
+        "html": "<p class=\"bible\"><sup>1</sup>Es war im fünfzehnten Jahr der Regierung des Kaisers Tiberius; Pontius Pilatus war Gouverneur von Judäa, Herodes regierte als Tetrarch in Galiläa, sein Bruder Philippus in Ituräa und Trachonitis, Lysanias in Abilene;<sup>2</sup>Hohepriester waren Hannas und Kajafas. </p><p class=\"bible\"> Da bekam Johannes, der Sohn des Zacharias, in der Wüste von Gott seinen Auftrag. </p><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%203:1-2&version=NGU-DE",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lukas 6, 12-13",
+        "html": "<p class=\"bible\"><sup>12</sup>In jener Zeit zog sich Jesus auf einen Berg zurück, um zu beten. Die ganze Nacht verbrachte er im Gebet.<sup> 13 </sup>Als es Tag wurde, rief er seine Jünger zu sich und wählte zwölf von ihnen aus, die er Apostel nannte. Es waren: </p><p class=\"bible\"><br></p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%206:12-13&version=NGU-DE",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Allgemeine Fragen:",
+          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "SPEZIFISCHE FRAGEN UND PRAXIS",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was für Gemeinsamkeiten und geistliche Prinzipien findest du in diesen Texten?",
+          "Wann hast du dich das letzte Mal für eine längere Zeit an einen „einsamen Ort“ zurückgezogen, um dich auf Gott zu fokussieren?",
+          "Brauchst du für etwas in deinem Leben Richtung und Weisheit? Plane dir eine längere Zeit ein (z.B. ein bis zwei Tage), um dich zum Gebet, evtl. Fasten und Hören auf Gottes Stimme zurückzuziehen."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session423-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "KOMMENTAR ZUM BIBELTEXT",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Fast alle Propheten des Alten Testaments kamen aus „Wüsten-Erfah-rungen“ heraus, wo sie (neue) Aufträge von Gott empfingen (Lukas 3,1-2; 1. Könige 19,1-16). Die Wüste oder Einsamkeit war der Ort, wo sie sich auf Gott fokussieren konnten."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus wurde gleich nach seiner Taufe vom Heiligen Geist in die judä-ische Wüste geleitet. Lukas 4,4 zeigt uns, was die Wüste mit Jesus machte: Er füllte sich dort mit dem Wort Gottes, dachte drüber nach und bekam eine neuen Perspektive, was Gott in seinem Leben am Tun war. Sein Blick klärte sich und er bekam Richtung für seine Zukunft."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Wenn wir geistliche Bewegungen bauen wollen, brauchen wir auch immer wieder Zeiten, wo wir uns zurückziehen, um Perspektive zu bekommen. Die Evangelien berichten öfter, dass Jesus sich zurückge-zogen hat. Das griechische Wort für Wüste in den Evangelien „eremos“ bedeutet auch „einsamer Ort“. Auch bevor Jesus 12 Jünger auswählte, zog er sich zurück, um von Gott Weisung zu bekommen."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Es ist wichtig, dass wir uns regelmässig Zeit nehmen, um auf Gott zu hören. Ein guter Rhythmus könnte ein Tag pro Monat und mehrere Tage aneinander im Jahr sein."
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "multiply102",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"https://docs.google.com/presentation/d/1sPh_GcYKtLpr4pBKfAtwRwmuz6K3O-aW/edit#slide=id.p4\">Resources for online meetings</a>"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Lobpreis",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Psalm 48:9 “Wir haben seit langem von der Herrlichkeit der Stadt gehört, doch nun haben wir sie mit eigenen Augen gesehen, die Stadt des HERRN, des Allmächtigen. Es ist die Stadt unseres Gottes, durch ihn wird sie für immer bestehen..”"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Lasst uns innehalten und Jesus sagen, wie dankbar wir für seine Liebe sind."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Füreinander da sein",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was lief bei dir gut diese Woche?",
+          "Was war schwierig für dich vergangene Woche?",
+          "Wo brauchst du Gottes Hilfe in deinem Leben?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Gottes Treue feiern",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was konntest du seit unserem letzten Treffen praktisch umsetzen?",
+          "Wie geht es dir mit deiner Gänseblümchen-Kette? <ul><li>Wie oft hast du sie dir letzte Woche angesehen?</li><li>Was hat dir geholfen, dabei erfolgreich zu sein?</li><li>Hat Gott dich geleitet für jemanden aus dem Gänseblümchen zu beten, mit jemandem Kontakt aufzunehmen, jemandem zu helfen oder etwas mit jemandem zu teilen?</li></ul>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-8"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation und Ermutigung",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Wenn wir Christus annehmen, wird unser Leben für immer verändert.. {2. Korinther 5:17}",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "2. Korinther 5:17",
+                    "label": "2. Korinther 5:17",
+                    "passage": "<p><sup class=\"versenum\">17 </sup>„Das bedeutet aber, wer mit Christus lebt, wird ein neuer Mensch. Er ist nicht mehr derselbe, denn sein altes Leben ist vorbei. Ein neues Leben hat begonnen!“</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Kontext",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Die Menschen, auf die man in der Gesellschaft abschätzig blickte (die Ausgestoßenen), reagierten auf die Lehren Jesu. Die religiösen Führer (Pharisäer) und die Lehrer der religiösen Gesetze störten sich daran, dass Jesus sich mit diesen Menschen umgab. So erzählte Jesus die Geschichte vom Verlorenen Sohn, um Gottes Herz gegenüber Sündern zu erklären."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich oder seht euch das Video an.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lukas 15:11-24",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>11</sup>Und Jesus erzählte ihnen auch folgendes Gleichnis: »Ein Mann hatte zwei Söhne. <sup>12</sup>Der jüngere Sohn sagte zu seinem Vater: ›Ich möchte mein Erbteil von deinem Besitz schon jetzt haben.‹ Da erklärte der Vater sich bereit, seinen Besitz zwischen seinen Söhnen aufzuteilen. <sup>13</sup>Einige Tage später packte der jüngere Sohn seine Sachen und ging auf Reisen in ein fernes Land, wo er sein ganzes Geld verprasste. <sup>14</sup>Etwa um die Zeit, als ihm das Geld ausging, brach in jenem Land eine große Hungersnot aus, und er hatte nicht genug zu essen. <sup>15</sup>Da überredete er einen Bauern, ihm Arbeit zu geben, und er durfte seine Schweine hüten. <sup>16</sup>Der junge Mann war so hungrig, dass er die Schoten, die er an die Schweine verfütterte, am liebsten selbst gegessen hätte. Aber niemand gab ihm etwas. <sup>17</sup>Schließlich überlegte er und sagte sich: ›Daheim haben die Tagelöhner mehr als genug zu essen, und ich sterbe hier vor Hunger! <sup>18</sup>Ich will zu meinem Vater nach Hause gehen und sagen: Vater, ich habe gesündigt, gegen den Himmel und auch gegen dich, <sup>19</sup>und ich bin es nicht mehr wert, dein Sohn zu heißen. Bitte stell mich als einen deiner Tagelöhner ein.‹ <sup>20</sup>So kehrte er zu seinem Vater nach Hause zurück. Er war noch weit entfernt, als sein Vater ihn kommen sah. Voller Liebe und Mitleid lief er seinem Sohn entgegen, schloss ihn in die Arme und küsste ihn. <sup>21</sup>Sein Sohn sagte zu ihm: ›Vater, ich habe gesündigt, gegen den Himmel und auch gegen dich, und bin es nicht mehr wert, dein Sohn zu heißen. ‹ <sup>22</sup>Aber sein Vater sagte zu den Dienern: ›Schnell! Bringt die besten Kleider im Haus und zieht sie ihm an. Holt einen Ring für seinen Finger und Sandalen für seine Füße. <sup>23</sup>Und schlachtet das Kalb, das wir im Stall gemästet haben, <sup>24</sup>denn mein Sohn hier war tot und ist ins Leben zurückgekehrt. Er war verloren, aber nun ist er wiedergefunden.‹ Und ein Freudenfest begann. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Lukas%2015:11-24",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lukas 15:11-24",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2616",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2616",
+        "startTime": "start",
+        "endTime": "2:22",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Diskussion zu euren Entdeckungen",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hat eure Aufmerksamkeit geweckt oder was hat dir am besten gefallen? Warum?",
+          "Was sagt dir diese Stelle über die Menschen?",
+          "Was sagt dir diese Stelle über Jesus?",
+          "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden?",
+          "Gibt es: <ul><li>eine Verhaltensweise zu ändern?</li><li>ein Versprechen einzuhalten?</li><li>ein Beispiel zum folgen?</li><li>ein Gebot zu befolgen?</li></ul>",
+          "Wer sollte diese Bibelstelle auch hören?",
+          "Frage Gott, was er von dir als Antwort auf diese Bibelstelle möchte. Schreibe ein „Ich werde…“ Statement auf.",
+          "Teile dieses mit der Gruppe und bitte einen/eine für das nächste Treffen mitzuschreiben."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-20"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Schlüsselprinzipien",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li>Our heavenly Father is willing to forgive the sins of His children. Our sin does not change the fact that God is our Father. But sin does have consequences and it does affect our fellowship with God. We do not enjoy our Father. {1 John 1:9}</li>",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 John 1:9",
+                    "label": "1 John 1:9",
+                    "passage": "<p><sup class=\"versenum\">9 </sup>If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Um das Thema zu vertiefen, lest: Transferable Concept #2: <a href=\"javascript:popUp('pop3')\">How You Can Experience God’s Love and Forgiveness</a> und diskutiert mit einem anderen Gruppenmitglied.",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "How to talk with friends who don't know Jesus",
+        "url": "https://youtu.be/D9TljHre_4g",
+        "source": "youtube",
+        "refId": "",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Ausblick",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Gott hat uns berufen, auf seine Liebe zu antworten, indem wir für andere Menschen beten und uns um sie und ihre Bedürfnisse kümmern."
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Zu zweit: Fragt den Heiligen Geist, für welche zwei Personen eurer Gänseblümchen-Kette ihr jetzt beten sollt.",
+                  "Als Gruppe, in welcher Weise hast du gezeigt, dass du dich um die Menschen kümmerst, die Jesus nicht kennen? <ul><li>physisch</li><li>sozial</li><li>emotional</li><li>mental </li></ul>"
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Unterwegs als Gesandte",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Wir ermutigen dich, deine Gänseblümchen-Kette immer wieder anzuschauen und ein Conversation Quadrants Log zu führen."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Welche Schritte zeigt dir Gott, die du in der kommenden Woche mit ihm und anderen gehen sollst?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-29"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Teile diesen Schritt mit deiner Gruppe und bitte jemanden der Gruppe, für dich zu beten, diesen Schritt in der Kraft des Heiligen Geistes zu tun.",
+          "Betet für die Schritte von jedem. Lasst uns den Herrn um seine Hilfe bitten, dass wir treu sind und uns dazu verwendet, eine Bewegung von Menschen, die den MyFriends-Lifestyle leben, zu starten..."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-multiply102-i-will"
+      }
+    }
+  ]
+}

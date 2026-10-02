@@ -1,0 +1,395 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "multiply101",
+  "sortOrder": 0,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"https://docs.google.com/presentation/d/1sPh_GcYKtLpr4pBKfAtwRwmuz6K3O-aW/edit#slide=id.p4\">Hilfsmittel für Online-Meetings</a>"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Lobpreis",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lies Psalm 118:28 : Du bist mein Gott, ich will dir danken! Du bist mein Gott, ich will dich loben!"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Für was können wir Gott heute danken oder ihn loben?"
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Füreinander da sein",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Wenn das euer erstes Treffen ist, stellt euch gegenseitig vor (wo wohnt ihr, was macht ihr normalerweise zwischen 8 und 17 Uhr…). </em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was lief bei dir gut diese Woche?",
+          "Was war schwierig für dich vergangene Woche?",
+          "Wo brauchst du Gottes Hilfe in deinem Leben?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Gottes Treue feiern",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was konntest du seit unserem letzten Treffen umsetzen?",
+          "Wie hast du Gottes Wirken durch dein Leben diese Woche erlebt?",
+          "War es dir möglich: <ul><li>jemanden zu erzählen, wie Gott in deinem Leben wirkt?</li><li>eine Bibelstelle mit jemanden zu teilen?</li><li>jemandem praktisch zu helfen?</li><li>mit jemanden zu beten?</li></ul>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-9"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation und Ermutigung",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Gott liebt die Menschen! Die Bibel sagt, Gottes Sehnsucht ist es, dass alle Menschen gerettet werden und die Wahrheit erkennen ({1.Timotheus 2:4})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "1.Timotheus 2:4",
+                    "label": "1.Timotheus 2:4",
+                    "passage": "Er möchte, dass jeder gerettet wird und die Wahrheit erkennt."
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Kontext",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Jesus lehrt, dass Er der Gute Hirte ist, der sein Leben für seine Schafe hingibt (V 11). Er sagt außerdem: „Ich kenne meine Schafe und meine Schafe kennen mich“ und „Ich bin gekommen, damit sie das Leben haben und es in Fülle haben“ ({Joh. 10,10}).",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Joh. 10,10",
+                    "label": "Joh. 10,10",
+                    "passage": "Ein Dieb will rauben, morden und zerstören. Ich aber bin gekommen, um ihnen das Leben in ganzer Fülle zu schenken."
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lesen",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich oder seht euch das Video an.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Johannes 10:22-30",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>22</sup>Inzwischen war es Winter. Jesus war zum Fest der Tempelweihe nach Jerusalem gereist. <sup>23</sup>Nun hielt er sich im Tempel auf, in dem Bereich der Säulenhalle Salomos. <sup>24</sup>Da umringten ihn die Juden und fragten: »Wie lange willst du uns noch hinhalten? Wenn du der Christus bist, dann sag es uns offen.« <sup>25</sup>Jesus erwiderte: »Ich habe es euch bereits gesagt, aber ihr glaubt mir nicht. Alles, was ich im Namen meines Vaters tue, beweist, wer ich bin. <sup>26</sup>Aber ihr glaubt mir nicht, weil ihr nicht zu meiner Herde gehört. <sup>27</sup>Meine Schafe hören auf meine Stimme; ich kenne sie, und sie folgen mir. <sup>28</sup>Ich schenke ihnen das ewige Leben, und sie werden niemals umkommen. Niemand wird sie mir entreißen, <sup>29</sup>denn mein Vater hat sie mir gegeben, und er ist mächtiger als alles andere. Und niemand kann sie aus der Hand des Vaters reißen. <sup>30</sup>Der Vater und ich sind eins.« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Johannes%2010:22-30",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Johannes 10:22-30",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2211",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2211",
+        "startTime": "2:50",
+        "endTime": "3:49",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Diskussion zu euren Entdeckungen",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hat eure Aufmerksamkeit geweckt oder was hat dir am besten gefallen? Warum?",
+          "Was sagt dir diese Stelle über die Menschen?",
+          "Was sagt dir diese Stelle über Jesus?",
+          "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden?",
+          "Gibt es: <ul><li>eine Verhaltensweise zu ändern?</li><li>ein Versprechen einzuhalten?</li><li>ein Beispiel zum folgen?</li><li>ein Gebot zu befolgen?</li></ul>",
+          "Frag Gott, was er von dir als Antwort auf diese Bibelstelle möchte. Schreibe ein „Ich werde…“ Statement auf.",
+          "Teile dieses mit der Gruppe und bitte eine/einen für das nächste Treffen mitzuschreiben."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-20"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Schlüsselprinzipien:",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Am Kreuz hat Jesus, der Gute Hirte, sein Leben als Opfer für unsere Sünden gegeben. Er möchte, dass du, als eines seiner Schafe, weißt, dass du das Ewige Leben hast und nicht sterben wirst. Du bist sicher in seinen Händen und niemand, nicht einmal Satan selbst, kann dich davon losreißen.."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Um das Thema zu vertiefen: Lest <a href=\"https://app.mc2.online/content/M2/eng/tc/tc01.html\">Transferable Concept #1: How You Can Be Sure You Are A Christian </a>und diskutiert mit anderen Gruppenmitgliedern.",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ausblick",
+        "level": 2
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "The Daisy Chain",
+        "url": "https://vimeo.com/415015909",
+        "source": "vimeo",
+        "refId": "",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Anleitung für die Gänseblümchen-Kette",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Entwerft eine „Gänseblümchen-Kette“ mit euren sozialen Kontakten."
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Schreibe deinen Namen in die Mitte.",
+                  "Beschrifte jedes Blütenblatt mit dem Namen einer sozialen Gruppe, von der du Teil bist (z.B. engste Familie, Großfamilie, Fußballteam, Arbeit, Nachbarschaft, Gymnasium, etc.).",
+                  "Nenne drei oder vier Personen in jeder Gruppe, von denen du glaubst, dass sie Jesus brauchen oder Personen, die bereits Jesus nachfolgen und dir dabei helfen könnten, diese Leute mit Jesus bekannt zu machen."
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<img class=\"lesson-image\" src=\"/sites/myfriends/images/multiply/Daisy.png\">"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Es nennt sich „Gänseblümchen-Kette“ weil jede Person in deinem Gänseblümchen ihr eigenes Beziehungsnetzwerk haben wird."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bitte Gott, dir zwei oder drei Menschen zu zeigen, für die du während der kommenden Woche beten sollst. Kennzeichne diese Personen in deinem Gänseblümchen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-28"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Teile mit den anderen was du beim Gestalten deines Gänseblümchens gelernt hast:",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dein Gänseblümchen fertig geworden?",
+          "War da ein Blütenblatt, von dem du glaubst, dass Gott von dir will, dass du ihm mehr Aufmerksamkeit schenkst? Warum?",
+          "Wie geht es dir mit der Anzahl der Noch-nicht-Jesus-Nachfolger in deinem Umkreis?",
+          "Welche Fragen hast du zum Gänseblümchen?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Bitte eine Person darum zu beten, dass wir treu im regelmäßigen Gebet für die Menschen werden, die in unserem Gänseblümchen stehen."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-multiply101-i-will"
+      }
+    }
+  ]
+}

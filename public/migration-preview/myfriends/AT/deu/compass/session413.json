@@ -1,0 +1,135 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session413",
+  "sortOrder": 19,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "RÜCKBLICK",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt?",
+          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
+          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "BIBELSTUDIUM",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Alle lesen den Text leise für sich.",
+          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
+          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
+          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Sprueche 3, 1-12",
+        "html": "<p class=\"bible\"><sup>1</sup>Mein Sohn, vergiss nie, was ich dir beigebracht habe! Nimm dir meine Ratschläge zu Herzen und bewahre sie!<sup> 2 </sup>Dann wird es dir gut gehen, ein langes und erfülltes Leben liegt vor dir.<sup>3</sup>An Güte und Treue soll es dir niemals fehlen. Trage sie wie eine Kette um deinen Hals, ja, schreibe sie dir tief in dein Herz!<sup>4</sup>So wirst du Freundschaft und Ansehen bei Gott und Menschen finden. </p><p class=\"bible\"><sup>5</sup>Verlass dich nicht auf deinen eigenen Verstand, sondern vertraue voll und ganz dem <span class=\"small-caps\"> Herrn </span>!<sup>6</sup>Denke bei jedem Schritt an ihn; er zeigt dir den richtigen Weg und krönt dein Handeln mit Erfolg.<sup>7</sup>Halte dich nicht selbst für klug; begegne dem <span class=\"small-caps\"> Herrn </span> mit Ehrfurcht und meide das Böse!<sup>8</sup>Das bringt Heilung für deinen Körper und belebt dich mit neuer Kraft.<sup> 9 </sup>Ehre den <span class=\"small-caps\"> Herrn </span> mit dem, was du hast; schenke ihm das Beste deiner Ernte.<sup> 10 </sup>Dann wird er deine Vorratskammern füllen und deine Weinfässer überfließen lassen. </p><p class=\"bible\"><sup>11</sup>Mein Sohn, wenn der <span class=\"small-caps\"> Herr </span> dich zurechtweist, dann sei nicht entrüstet und sträube dich nicht,<sup>12</sup>denn darin zeigt sich seine Liebe. Wie ein Vater seinen Sohn erzieht, den er liebt, so erzieht dich auch der <span class=\"small-caps\"> Herr. </span></p><p class=\"bible\"><br></p>",
+        "url": "https://biblegateway.com/passage/?search=Proverbs%203:1-12&version=HOF",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Allgemeine Fragen:",
+          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "SPEZIFISCHE FRAGEN UND PRAXIS",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was könnte Vers 9-10 für dich heissen? Was ist für dich zurzeit „das Beste deiner Ernte“?",
+          "Gibt es eine Situation in deinem Leben oder einen Lebensbereich, in dem du ganz besonders Vers 5 anwenden musst?",
+          "Gibt es etwas ganz Konkretes, das du tun solltest und wozu der Heilige Geist dich herausfordert? Schreibe es auf und teile es der Gruppe mit („Ich werde...“)."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session413-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gebet: Sage Gott, dass du ihm für morgen und in allen Dingen, die vor dir liegen, vertrauen willst."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    }
+  ]
+}

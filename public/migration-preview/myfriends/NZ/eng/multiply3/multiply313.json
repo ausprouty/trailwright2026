@@ -1,0 +1,402 @@
+{
+  "site": "myfriends",
+  "country": "NZ",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply313",
+  "sortOrder": 14,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Read a scripture and sing worship songs.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. ({Philippians 2:11}b;",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippians 2:11",
+                    "label": "Philippians 2:11",
+                    "passage": "<p><sup class=\"versenum\">11&nbsp;</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>\n&nbsp;&nbsp;&nbsp;&nbsp;to the glory of God the Father.</p>\n\n<p>&nbsp;<a href=\"javascript:popUp('pop2')\">1 Timothy 2:4-6a)</a></p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Minister to one another’s needs in prayer, biblical counsel and encouragement. </em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
+          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encourage loving accountability to obey Jesus"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Choose a way to cast vision for who they can become in Christ or what God can do through them by:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
+                  "reflecting on the changes in their life since they started following Christ",
+                  "reminding them of what God wants to do through them"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Share BIG vision “A church for every village and community, and the gospel for every person.”</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Context",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask the group to tell the story from last week."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read or watch Acts 7:54-8:3 two times as others listen."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Acts 7:54-8:3",
+        "html": "<!-- begin bible --><p><sup class=\"versenum\">54 </sup>When the members of the Sanhedrin heard this, they were furious and gnashed their teeth at him.<sup class=\"versenum\">55 </sup>But Stephen, full of the Holy Spirit, looked up to heaven and saw the glory of God, and Jesus standing at the right hand of God.<sup class=\"versenum\">56 </sup>“Look,” he said, “I see heaven open and the Son of Man standing at the right hand of God.”</p><p><sup class=\"versenum\">57 </sup>At this they covered their ears and, yelling at the top of their voices, they all rushed at him,<sup class=\"versenum\">58 </sup>dragged him out of the city and began to stone him. Meanwhile, the witnesses laid their coats at the feet of a young man named Saul.</p><p><sup class=\"versenum\">59 </sup>While they were stoning him, Stephen prayed, “Lord Jesus, receive my spirit.”<sup class=\"versenum\">60 </sup>Then he fell on his knees and cried out, “Lord, do not hold this sin against them.” When he had said this, he fell asleep.</p><p><sup class=\"versenum\">8:1 </sup>And Saul approved of their killing him.</p><p>On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria.<sup class=\"versenum\">2 </sup>Godly men buried Stephen and mourned deeply for him.<sup class=\"versenum\">3 </sup>But Saul began to destroy the church. Going from house to house, he dragged off both men and women and put them in prison.</p><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%208:1-3&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Acts 7:54-60",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7318-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7318-0-0",
+        "startTime": "start",
+        "endTime": "5:53",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Acts 8:1-3",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7319-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7319-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What caught your attention or what did you like best? Why?",
+          "What is new or has developed at this point in the story?",
+          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
+          "How can we live differently now that we know this story?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Additional questions you can use:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "How are Jesus’ followers continuing His work of making disciples and church planting?",
+          "How is the gospel impacting people and society?",
+          "What barriers or obstacles were overcome and how were they overcome?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-22"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Stephen showed his skill in handling the Word of God and confronted the leaders with words of truth. He accused them of disobeying God, sinning against the Holy Spirit, the Law, and Jesus the Messiah. When Stephen told them he could see Jesus, “the Son of Man”, the leaders erupted into violence against him. Jesus had taught the disciples that the people who killed them would think they were serving God ({Matthew 10:16-39}).{Acts 7:59-60}).",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Matthew 10:16-39",
+                    "label": "Matthew 10:16-39",
+                    "passage": "<div>\n<p><sup class=\"versenum\">16&nbsp;</sup>“I am sending you out like sheep among wolves. Therefore be as shrewd as snakes and as innocent as doves.<sup class=\"versenum\">17&nbsp;</sup>Be on your guard; you will be handed over to the local councils and be flogged in the synagogues.<sup class=\"versenum\">18&nbsp;</sup>On my account you will be brought before governors and kings as witnesses to them and to the Gentiles.<sup class=\"versenum\">19&nbsp;</sup>But when they arrest you, do not worry about what to say or how to say it. At that time you will be given what to say,<sup class=\"versenum\">20&nbsp;</sup>for it will not be you speaking, but the Spirit of your Father speaking through you.</p>\n\n<p><sup class=\"versenum\">21&nbsp;</sup>“Brother will betray brother to death, and a father his child; children will rebel against their parents and have them put to death.<sup class=\"versenum\">22&nbsp;</sup>You will be hated by everyone because of me, but the one who stands firm to the end will be saved.<sup class=\"versenum\">23&nbsp;</sup>When you are persecuted in one place, flee to another. Truly I tell you, you will not finish going through the towns of Israel before the Son of Man comes.</p>\n\n<p><sup class=\"versenum\">24&nbsp;</sup>“The student is not above the teacher, nor a servant above his master.<sup class=\"versenum\">25&nbsp;</sup>It is enough for students to be like their teachers, and servants like their masters. If the head of the house has been called Beelzebul, how much more the members of his household!</p>\n\n<p><sup class=\"versenum\">26&nbsp;</sup>“So do not be afraid of them, for there is nothing concealed that will not be disclosed, or hidden that will not be made known.<sup class=\"versenum\">27&nbsp;</sup>What I tell you in the dark, speak in the daylight; what is whispered in your ear, proclaim from the roofs.<sup class=\"versenum\">28&nbsp;</sup>Do not be afraid of those who kill the body but cannot kill the soul. Rather, be afraid of the One who can destroy both soul and body in hell.<sup class=\"versenum\">29&nbsp;</sup>Are not two sparrows sold for a penny? Yet not one of them will fall to the ground outside your Father’s care.<sup class=\"versenum\">30&nbsp;</sup>And even the very hairs of your head are all numbered.<sup class=\"versenum\">31&nbsp;</sup>So don’t be afraid; you are worth more than many sparrows.</p>\n\n<p><sup class=\"versenum\">32&nbsp;</sup>“Whoever acknowledges me before others, I will also acknowledge before my Father in heaven.<sup class=\"versenum\">33&nbsp;</sup>But whoever disowns me before others, I will disown before my Father in heaven.</p>\n\n<p><sup class=\"versenum\">34&nbsp;</sup>“Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword.<sup class=\"versenum\">35&nbsp;</sup>For I have come to turn</p>\n\n<p>“‘a man against his father,<br>\n&nbsp;&nbsp;&nbsp;&nbsp;a daughter against her mother,<br>\na daughter-in-law against her mother-in-law—<br>\n<sup class=\"versenum\">36&nbsp;</sup>&nbsp;&nbsp;&nbsp;&nbsp;a man’s enemies will be the members of his own household.’</p>\n</div>\n\n<p><sup class=\"versenum\">37&nbsp;</sup>“Anyone who loves their father or mother more than me is not worthy of me; anyone who loves their son or daughter more than me is not worthy of me.<sup class=\"versenum\">38&nbsp;</sup>Whoever does not take up their cross and follow me is not worthy of me.<sup class=\"versenum\">39&nbsp;</sup>Whoever finds their life will lose it, and whoever loses their life for my sake will find it.</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Acts 7:59-60",
+                    "label": "Acts 7:59-60",
+                    "passage": "<p><sup class=\"versenum\">59&nbsp;</sup>While they were stoning him, Stephen prayed, “Lord Jesus, receive my spirit.”<sup class=\"versenum\">60&nbsp;</sup>Then he fell on his knees and cried out, “Lord, do not hold this sin against them.” When he had said this, he fell asleep.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practice giving and communion here or in the Preparing for Mission section</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparing for Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Practice needed skills or previous topics to help prepare to minister to others:<br> o Prayer, Care, Share<br> o Gospel<br> o Foundational Bible Studies."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Identify people or places you will take the initiative to minister to this week.",
+          "Write “I will by when” statements and share with your small group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-31"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying For the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benediction (optional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply313-i-will"
+      }
+    }
+  ]
+}

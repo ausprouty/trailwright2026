@@ -1,0 +1,377 @@
+{
+  "site": "myfriends",
+  "country": "NZ",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply340",
+  "sortOrder": 45,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Read a scripture and sing worship songs.</em>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. (Philippians 2:11b; 1 Timothy 2:4-6a)"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Minister to one another’s needs in prayer, biblical counsel and encouragement. </em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
+          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encourage loving accountability to obey Jesus"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Choose a way to cast vision for who they can become in Christ or what God can do through them by:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
+                  "reflecting on the changes in their life since they started following Christ",
+                  "reminding them of what God wants to do through them"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Share BIG vision “A church for every village and community, and the gospel for every person.”</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Context",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask the group to tell the story from last week."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read or watch Acts 19:23-41 two times as others listen."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Acts 19:23-41",
+        "html": "<!-- begin bible --><h3>The Riot in Ephesus</h3><p><sup class=\"versenum\">23 </sup>About that time there arose a great disturbance about the Way.<sup class=\"versenum\">24 </sup>A silversmith named Demetrius, who made silver shrines of Artemis, brought in a lot of business for the craftsmen there.<sup class=\"versenum\">25 </sup>He called them together, along with the workers in related trades, and said: “You know, my friends, that we receive a good income from this business.<sup class=\"versenum\">26 </sup>And you see and hear how this fellow Paul has convinced and led astray large numbers of people here in Ephesus and in practically the whole province of Asia. He says that gods made by human hands are no gods at all.<sup class=\"versenum\">27 </sup>There is danger not only that our trade will lose its good name, but also that the temple of the great goddess Artemis will be discredited; and the goddess herself, who is worshiped throughout the province of Asia and the world, will be robbed of her divine majesty.”</p><p><sup class=\"versenum\">28 </sup>When they heard this, they were furious and began shouting: “Great is Artemis of the Ephesians!”<sup class=\"versenum\">29 </sup>Soon the whole city was in an uproar. The people seized Gaius and Aristarchus, Paul’s traveling companions from Macedonia, and all of them rushed into the theater together.<sup class=\"versenum\">30 </sup>Paul wanted to appear before the crowd, but the disciples would not let him.<sup class=\"versenum\">31 </sup>Even some of the officials of the province, friends of Paul, sent him a message begging him not to venture into the theater.</p><p><sup class=\"versenum\">32 </sup>The assembly was in confusion: Some were shouting one thing, some another. Most of the people did not even know why they were there.<sup class=\"versenum\">33 </sup>The Jews in the crowd pushed Alexander to the front, and they shouted instructions to him. He motioned for silence in order to make a defense before the people.<sup class=\"versenum\">34 </sup>But when they realized he was a Jew, they all shouted in unison for about two hours: “Great is Artemis of the Ephesians!”</p><p><sup class=\"versenum\">35 </sup>The city clerk quieted the crowd and said: “Fellow Ephesians, doesn’t all the world know that the city of Ephesus is the guardian of the temple of the great Artemis and of her image, which fell from heaven?<sup class=\"versenum\">36 </sup>Therefore, since these facts are undeniable, you ought to calm down and not do anything rash.<sup class=\"versenum\">37 </sup>You have brought these men here, though they have neither robbed temples nor blasphemed our goddess.<sup class=\"versenum\">38 </sup>If, then, Demetrius and his fellow craftsmen have a grievance against anybody, the courts are open and there are proconsuls. They can press charges.<sup class=\"versenum\">39 </sup>If there is anything further you want to bring up, it must be settled in a legal assembly.<sup class=\"versenum\">40 </sup>As it is, we are in danger of being charged with rioting because of what happened today. In that case we would not be able to account for this commotion, since there is no reason for it.”<sup class=\"versenum\">41 </sup>After he had said this, he dismissed the assembly.</p><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%2019:23-41&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Acts 19:23-41",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7352-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7352-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What caught your attention or what did you like best? Why?",
+          "What is new or has developed at this point in the story?",
+          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
+          "How can we live differently now that we know this story?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Additional questions you can use:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "How are Jesus’ followers continuing His work of making disciples and church planting?",
+          "How is the gospel impacting people and society?",
+          "What barriers or obstacles were overcome and how were they overcome?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-21"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Hundreds of thousands of worshippers and tourist came to Ephesus every year to worship in the magnificent Temple of Artemis, considered one of the seven wonders of the ancient world. So many people were becoming followers of Jesus that those who made their living from selling idols to the worshippers were losing money. A silversmith named Demetrius stirred up the craftsmen, causing a riot against Paul and his message. The civil leaders Paul had befriended during his long stay in Ephesus, helped protect him from the angry crowd. The Lord used the mayor to calm the crowd and to warn them that they were in danger of causing problems for the city with the Emperor in Rome. From this story we learn an important leadership principal: Paul developed leaders by involving them in the ministry. Gaius and Aristarchus came from the harvest in Macedonia and were helping with the growing movement."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<br> The second letter to the church in Corinth can be read here. (<a href=\"https://www.biblegateway.com/passage/?search=2+Corinthians+1&amp;version=NIV\">2 Corinthians</a>)"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practice giving and communion here or in the Preparing for Mission section</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparing for Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Practice needed skills or previous topics to help prepare to minister to others:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Prayer, Care, Share",
+                  "Gospel",
+                  "Foundational Bible Studies."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Identify people or places you will take the initiative to minister to this week.",
+          "Write “I will by when” statements and share with your small group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-30"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying For the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benediction (optional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply340-i-will"
+      }
+    }
+  ]
+}

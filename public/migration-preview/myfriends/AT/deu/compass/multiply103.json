@@ -1,0 +1,319 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "multiply103",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Lobpreis",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Psalm 66:4<br> »Alles auf Erden wird dich anbeten, alle Menschen werden dich ehren und deinen Namen in herrlichen Liedern preisen.«"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Haltet inne und singt Gott ein einfaches Lied."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "AUSTAUSCH",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was lief bei dir gut diese Woche?",
+          "Was war für dich schwierig diese Woche?",
+          "Wo brauchst du Gottes Hilfe in deinem Leben?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "RÜCKBLICK",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was konntest du seit unserem letzten Treffen praktisch umsetzen?",
+          "Welche Art von Gesprächen hattest du mit den Menschen auf deiner Gänseblümchen-Kette? <ul><li>ein lockeres Gespräch</li><li>ein ernsthaftes Gespräch</li><li>ein spirituelles Gespräch</li><li>ein Jesus-Gespräch</li></ul>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Kontext",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Wenn wir unseren Glauben in Jesus setzen, beginnt Gottes Geist in uns zu leben. Er wird Heiliger Geist genannt, der Geist der Wahrheit, unser Helfer. Sein Wirken in unserem Leben ist so wichtig, dass wir uns Zeit nehmen, unsere Beziehung zu Ihm näher zu betrachten."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lesen",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "2 Korinther 2:14-3:3",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>14</sup>Doch ich danke Gott, der uns, die wir zu Christus gehören, immer in seinem Triumphzug mitführt. Wo immer wir jetzt auch hinkommen, setzt er uns ein, um anderen vom Herrn zu erzählen und die gute Botschaft zu verbreiten wie einen wohlriechenden Duft. <sup>15</sup>Unserem ganzen Leben haftet der Wohlgeruch von Christus an; und damit loben wir Gott. Aber dieser Geruch wird von denen, die gerettet werden, anders wahrgenommen als von denen, die verloren gehen. <sup>16</sup>Für die Menschen, die verloren gehen, sind wir der schreckliche Gestank von Tod und Verdammnis. Doch für die Menschen, die gerettet werden, sind wir ein Leben spendender Duft. Wer kann einer solchen Aufgabe gerecht werden? <!-- end bible --><!-- begin bible --><sup>3:1</sup>Fangen wir jetzt wieder an, mit unserer Arbeit anzugeben? Manche Leute müssen Empfehlungsschreiben mitbringen oder euch bitten, ihnen Empfehlungsbriefe zu schreiben. <sup>2</sup>Der einzige Empfehlungsbrief, den wir brauchen, seid ihr selbst! Euer Leben ist wie ein Brief, der in unsere Herzen geschrieben wurde. Jeder kann ihn lesen und erkennen, was wir unter euch getan haben. <sup>3</sup>Ihr seid ein Brief Christi, von uns geschrieben, aber nicht mit Tinte, sondern mit dem Geist des lebendigen Gottes: nicht auf Steintafeln, sondern in die Herzen der Menschen. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/2%20Korinther%203:1-3",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Diskussion zu euren Entdeckungen",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was sticht für dich in dieser Bibelstelle heraus?",
+          "Warum glaubst du, ist diese Stelle wichtig?",
+          "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden? Gibt es: <ul><li>eine Verhaltensweise zu ändern?</li><li>ein Versprechen einzuhalten?</li><li>ein Beispiel zum folgen?</li><li>ein Gebot zu befolgen?</li></ul>",
+          "Frage Gott, was er von dir als Antwort auf diese Bibelstelle möchte.",
+          "Teile dies mit der Gruppe."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-16"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Zusätzliche Einblicke",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Obwohl in allen Christen der Heilige Geist lebt, werden nicht alle von Ihm geführt und befähigt. Wenn wir in unser eigenes Bemühen vertrauen oder selbst unsere Leben kontrollieren, nennt uns die Bibel fleischlich und wir erfahren nicht ein erfülltes und fruchttragendes Leben. Lies Galater 5:22-24."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<img alt=\"\" src=\"https://myfriends.network/sites/myfriends/images/firststeps/TheChristCenteredLife.png\" style=\"width:100%\">"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Ausblick",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Geistliches Atmen (ihr könnt euch auf Englisch Spiritual Breathing anschauen)"
+              }
+            },
+            {
+              "type": "video",
+              "data": {
+                "title": "Spiritual Breathing",
+                "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-0-LeaderImpact_10",
+                "source": "arclight",
+                "refId": "2_529-0-LeaderImpact_10",
+                "startTime": "start",
+                "endTime": "end",
+                "isOpen": false,
+                "isEditing": false
+              }
+            },
+            {
+              "type": "header",
+              "data": {
+                "text": "Review Spiritual Breathing",
+                "level": 2
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "<p class=\"forward\">Ausatmen – unsere Sünden bekennen, bereit sein, unsere Haltung oder Taten zu ändern (1. Johannes 1:9).</p>",
+                  "<p class=\"forward\">Einatmen – übergib Jesus die Kontrolle über dein Leben.</p>"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Wir werden allein durch Glauben vom Heiligen Geist erfüllt. Ehrliches Gebet ist ein Weg, deinen Glauben auszudrücken. Hier ein Gebetsvorschlag:"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<p class=\"forward\">Lieber Vater, Ich brauche Dich. Ich bekenne, dass ich gegen Dich gesündigt habe, weil ich mein Leben selbst in die Hand genommen habe. Ich danke Dir, dass Du mir meine Sünden vergeben hast, durch Jesu Sterben am Kreuz für mich. Ich lade nun Jesus ein, wiederum seinen Platz auf dem Thron meines Lebens einzunehmen. Erfülle mich mit dem Heiligen Geist, so wie du es mir befohlen hast und wie Du es durch dein Wort versprochen hast, wenn ich im Glauben darum bitte. Ich bitte dich in Jesu Namen darum. Ich danke Dir jetzt, dass du mich mit dem Heiligen Geist erfüllt hast und mein Leben führst.</p>"
+              }
+            },
+            {
+              "type": "header",
+              "data": {
+                "text": "Übt diese drei Kreise zu malen und das Prinzip des Geistlichen-Atmens zu lehren.",
+                "level": 3
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Unterwegs als Gesandte",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p class=\"forward\"> Schau dir deine Gänseblümchen-Kette nochmals an.</p>",
+          "<p class=\"forward\">Was zeigt dir Gott für nächste Schritte diese Woche mit ihm und anderen?</p>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-22"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p class=\"forward\">Teilt diesen Schritt mit der Gruppe und bitte jemand, für dich zu beten, während du diesen Schritt in der Kraft des Heiligen Geistes tust.</p>",
+          "<p class=\"forward\">Übergebt alle eure Ziele dem Herrn. Bittet den Herrn uns zu helfen, treu zu sein und uns zu verwenden, eine Bewegung von Menschen zu starten, die diesen MyFriends-Lifestyle leben. </p>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-multiply103-i-will"
+      }
+    }
+  ]
+}

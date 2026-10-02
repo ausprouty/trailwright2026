@@ -1,0 +1,103 @@
+{
+  "site": "myfriends",
+  "country": "NZ",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3end",
+  "sortOrder": 61,
+  "blocks": [
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "During his time in Rome, Paul continued coaching and mentoring believers in Philippi, Colossae and Ephesus through letter writing. Paul also wrote a personal letter to a church leader in Colossae named Philemon. This letter reveals that Paul anticipated being released ({Philemon 1:22}).&nbsp;",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Philemon 1:22",
+            "label": "Philemon 1:22",
+            "passage": "<p><sup class=\"versenum\">22&nbsp;</sup>And one thing more: Prepare a guest room for me, because I hope to be restored to you in answer to your prayers.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "Church history shows us that Paul was indeed released from prison and did more missionary travel ({Titus 3:12},&nbsp;",
+        "references": [
+          {
+            "id": "popup_pop2",
+            "marker": "Titus 3:12",
+            "label": "Titus 3:12",
+            "passage": "<p><sup class=\"versenum\">12&nbsp;</sup>As soon as I send Artemas or Tychicus to you, do your best to come to me at Nicopolis, because I have decided to winter there.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "{2 Timothy 4:20}).&nbsp;",
+        "references": [
+          {
+            "id": "popup_pop3",
+            "marker": "2 Timothy 4:20",
+            "label": "2 Timothy 4:20",
+            "passage": "<p><sup class=\"versenum\">20&nbsp;</sup>Erastus stayed in Corinth, and I left Trophimus sick in Miletus.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "He continued church planting and wrote three more personal letters to leaders he had developed."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br> Letters written after this period"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "First Letter to Timothy, 64-64 AD",
+          "First Letter from Peter, 64-65 AD",
+          "Titus, 64-65 AD",
+          "Second Letter to Timothy, 66-67 AD",
+          "Second Letter from Peter, 66-67 AD",
+          "Letter to the Hebrews, late 60’s",
+          "Letter from Jude, late 60’s"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br> Paul and Peter are both killed around 67 AD after their second letters are written around:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "First Letter from John, 80-95 AD",
+          "Second Letter from John, 80-95 AD",
+          "Third Letter from John, 80-95 AD",
+          "Letter of Revelation, 80-95 AD"
+        ]
+      }
+    }
+  ]
+}

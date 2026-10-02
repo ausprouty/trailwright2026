@@ -1,0 +1,374 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "multiply107",
+  "sortOrder": 6,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"https://docs.google.com/presentation/d/1GQWkThyR8cKdPLfHIhzs3Vi_12xwmFkC/edit?usp=sharing&amp;ouid=112033366382918459101&amp;rtpof=true&amp;sd=true\">Resources for online meetings</a>"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Lobpreis",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Psalm 29:2 „Ehrt den herrlichen Namen des HERRN. Betet den HERRN an in seinem heiligen Glanz.“"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<br> Lasst uns durchatmen und unserem Herrn die Ehre geben, indem wir ihn mit unseren Worten preisen."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Füreinander da sein",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was lief bei dir gut diese Woche?",
+          "Was war schwierig für dich vergangene Woche?",
+          "Wo brauchst du Gottes Hilfe in deinem Leben?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Gottes Treue feiern",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was konntest du seit unserem letzten Treffen praktisch umsetzen?",
+          "Welche Art von Gesprächen hattest du mit den Menschen auf deiner Gänseblümchen-Kette? <ul><li>ein lockeres Gespräch</li><li>ein ernsthaftes Gespräch</li><li>ein spirituelles Gespräch</li><li>ein Jesus-Gespräch</li></ul>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-8"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation und Ermutigung",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Der Herr liebt uns nicht nur, er hat auch eine Vision für uns. Wie schaut diese Vision aus? So zu sein wie Jesus. Römer 8:29 sagt, dass es Gottes Plan ist, Christus gleich zu werden, um den Vater zu erkennen und ihn zu widerspiegeln, so wie Jesus ihn widergespiegelt hat. Die gute Nachricht ist, dass wir nicht aus eigener Anstrengung mehr wie Jesus werden müssen, sondern dass Gott uns Jesus ähnlicher werden lässt.",
+                  "Philipper 1:6 verspricht, dass er, der sein gutes Werk in euch angefangen hat, damit weitermachen und es vollenden wird! Vertraut darauf, dass Gott in euer Leben eingreifen wird, damit ihr wie Christus werdet."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Kontext",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Philippus, ein Nachfolger von Jesus, teilte das Evangelium mit Leuten aus Samarien, einer Provinz in Israel. Gott unterbrach sein Vorhaben und schickte ihn Richtung Süden auf die Straße, die nach Ägypten führte. Als er ankam, traf er auf einen hochrangigen afrikanischen Mann, der auf der Heimreise war. Die folgende Geschichte erzählt uns, was dann passierte."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lesen",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich oder seht euch das Video an.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Apostelgeschichte 8:26-40",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>26</sup>Zu Philippus aber sagte ein Engel des Herrn: »Geh nach Süden auf der einsamen Straße, die von Jerusalem nach Gaza führt.« <sup>27</sup>Philippus ging und begegnete auf dem Weg dem Schatzmeister Äthiopiens, einem Eunuchen der äthiopischen Königin , der großen Einfluss hatte. Er war nach Jerusalem gekommen, um dort anzubeten, <sup>28</sup>und befand sich nun auf dem Heimweg. Er saß in seinem Wagen und las im Buch des Propheten Jesaja. <sup>29</sup>Der Heilige Geist sagte zu Philippus: »Lauf hinüber und geh neben dem Wagen her.« <sup>30</sup>Da lief Philippus hin und hörte, wie der Mann aus dem Propheten Jesaja las. Er fragte ihn: »Verstehst du auch, was du da liest?« <sup>31</sup>Der Mann erwiderte: »Wie soll ich es verstehen, wenn es mir niemand erklärt?« Und er bat Philippus, einzusteigen und sich neben ihn zu setzen. <sup>32</sup>Er hatte gerade folgende Schriftstelle gelesen: »Er wurde wie ein Schaf zum Schlachten geführt. Und wie ein Lamm vor dem Scherer verstummt, so machte er den Mund nicht auf. <sup>33</sup>Er wurde gedemütigt und erfuhr kein gerechtes Urteil. Wer kann von seinen Nachkommen sprechen? Denn sein Leben wurde von der Erde fortgenommen.« <sup>34</sup>Der Hofbeamte fragte Philippus: »Von wem spricht der Prophet? Von sich selbst oder von jemand anderem?« <sup>35</sup>Da begann Philippus bei dieser Schriftstelle und erklärte ihm die gute Botschaft von Jesus. <sup>3637</sup>Unterwegs kamen sie an einem Gewässer vorbei, und der Hofbeamte meinte: »Sieh, da ist Wasser! Kann ich mich nicht hier taufen lassen?« <sup>38</sup>Er ließ den Wagen anhalten. Sie stiegen in das Wasser, und Philippus taufte ihn. <sup>39</sup>Als sie wieder aus dem Wasser herauskamen, nahm der Geist Gottes Philippus fort und der Hofbeamte sah ihn nicht mehr. Aber er setzte seine Reise voller Freude fort. <sup>40</sup>Philippus fand sich in der Stadt Aschdod wieder. Er verkündete die Botschaft Gottes dort und in jeder Stadt auf dem Weg, bis er nach Cäsarea kam. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Apostelgeschichte%208:26-40",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Apostelgeschichte 8:26-40",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7322-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7322-0-0",
+        "startTime": "0",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ENTDECKEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was sticht für dich in dieser Bibelstelle heraus?",
+          "Was gefällt dir und was stört dich an diesem Text?",
+          "Warum glaubst du, ist diese Stelle wichtig?",
+          "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden?<br> Gibt es: <ul><li>eine Verhaltensweise zu ändern?</li><li>ein Versprechen einzuhalten?</li><li>ein Beispiel zu folgen?</li><li>ein Gebot zu befolgen?</li></ul>",
+          "Frage Gott, was er von dir als Antwort auf diese Bibelstelle möchte.",
+          "Teile dies mit der Gruppe."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-20"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Zusätzliche Einblicke",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lest Matthäus 3:13-17."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus selbst wurde getauft und tat dasselbe mit seinen Jüngern. Von Anfang an wurde jeder und jede von denen, die sich für die Jesus-Nachfolge entschieden haben, getauft. Unsere Bereitschaft, uns taufen zu lassen, zeigt anderen, dass es tatsächlich eine große Veränderung in unserem Leben gegeben hat. Es symbolisiert unsere klare Identifikation mit dem Tod und der Auferstehung Jesu (Römer 6:4-5)."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Entscheidung feiern",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Wurdest du schon getauft? Kennst du jemanden, der getauft werden möchte?"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Sprich mit deinem Gruppenleiter darüber."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Oder du richtest dich nach dem folgenden Guide und planst deine eigene Entscheidungs-Party."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Gemeinsames Bibelstudium",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Ich möchte gerne mit anderen Jesus in der Bibel entdecken. Möchtest du dabei sein?</em>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "So kannst du deine Freunde dazu einladen, mit dir in der Bibel zu lesen. Du kannst einfach mit den Lebensprinzipien oder Hoffnungsgeschichten beginnen."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Ausblick",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Der Heilige Geist wirkt im Leben derer, die du kennst, um sie näher zu Jesus zu bringen. Der Heilige Geist möchte die Liebe des Vaters durch dich ausdrücken, damit auch andere Jesus erleben und ihn persönlich kennenlernen. LOVE, PRAY, CARE, also tägliches Beten, sich Kümmern und Teilen, das sind die ersten Schritte in diesem Prozess (Apostelgeschichte 17:27)."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Nutze deine Gänseblümchen-Kette während des kommenden Monats für diese ersten Schritte (LOVE – PRAY – CARE). Schreib auf, was du während dieses Prozesses lernst."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Unterwegs als Gesandte",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Schau dir deine Gänseblümchen-Kette nochmal an",
+          "Welche Schritte zeigt dir Gott, die du in der kommenden Woche mit ihm und anderen gehen sollst?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-28"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Teile den Schritt mit deiner Gruppe und bitte jemanden, für dich zu beten, dass du diesen Schritt in der Kraft des Heiligen Geistes tun kannst.",
+          "Übergebt alle eure Ziele dem Herrn. Bittet den Herrn, uns zu helfen, treu zu sein und dass er uns dazu verwendet, eine Bewegung von Menschen zu starten, die diesen MyFriends-Lifestyle leben"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-multiply107-i-will"
+      }
+    }
+  ]
+}

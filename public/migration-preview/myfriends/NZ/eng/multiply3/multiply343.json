@@ -1,0 +1,417 @@
+{
+  "site": "myfriends",
+  "country": "NZ",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply343",
+  "sortOrder": 49,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Read a scripture and sing worship songs.</em>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. (Philippians 2:11b; 1 Timothy 2:4-6a)"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Minister to one another’s needs in prayer, biblical counsel and encouragement. </em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
+          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encourage loving accountability to obey Jesus"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Choose a way to cast vision for who they can become in Christ or what God can do through them by:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
+                  "reflecting on the changes in their life since they started following Christ",
+                  "reminding them of what God wants to do through them"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Share BIG vision “A church for every village and community, and the gospel for every person.”</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Context",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask the group to tell the story from last week."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read or watch Acts 21:1-26 two times as others listen."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Acts 21:1-26",
+        "html": "<!-- begin bible --><h3>On to Jerusalem</h3><p><sup class=\"versenum\">1 </sup>After we had torn ourselves away from them, we put out to sea and sailed straight to Kos. The next day we went to Rhodes and from there to Patara.<sup class=\"versenum\">2 </sup>We found a ship crossing over to Phoenicia, went on board and set sail.<sup class=\"versenum\">3 </sup>After sighting Cyprus and passing to the south of it, we sailed on to Syria. We landed at Tyre, where our ship was to unload its cargo.<sup class=\"versenum\">4 </sup>We sought out the disciples there and stayed with them seven days. Through the Spirit they urged Paul not to go on to Jerusalem.<sup class=\"versenum\">5 </sup>When it was time to leave, we left and continued on our way. All of them, including wives and children, accompanied us out of the city, and there on the beach we knelt to pray.<sup class=\"versenum\">6 </sup>After saying goodbye to each other, we went aboard the ship, and they returned home.</p><p><sup class=\"versenum\">7 </sup>We continued our voyage from Tyre and landed at Ptolemais, where we greeted the brothers and sisters and stayed with them for a day.<sup class=\"versenum\">8 </sup>Leaving the next day, we reached Caesarea and stayed at the house of Philip the evangelist, one of the Seven.<sup class=\"versenum\">9 </sup>He had four unmarried daughters who prophesied.</p><p><sup class=\"versenum\">10 </sup>After we had been there a number of days, a prophet named Agabus came down from Judea.<sup class=\"versenum\">11 </sup>Coming over to us, he took Paul’s belt, tied his own hands and feet with it and said, “The Holy Spirit says, ‘In this way the Jewish leaders in Jerusalem will bind the owner of this belt and will hand him over to the Gentiles.’”</p><p><sup class=\"versenum\">12 </sup>When we heard this, we and the people there pleaded with Paul not to go up to Jerusalem.<sup class=\"versenum\">13 </sup>Then Paul answered, “Why are you weeping and breaking my heart? I am ready not only to be bound, but also to die in Jerusalem for the name of the Lord Jesus.”<sup class=\"versenum\">14 </sup>When he would not be dissuaded, we gave up and said, “The Lord’s will be done.”</p><p><sup class=\"versenum\">15 </sup>After this, we started on our way up to Jerusalem.<sup class=\"versenum\">16 </sup>Some of the disciples from Caesarea accompanied us and brought us to the home of Mnason, where we were to stay. He was a man from Cyprus and one of the early disciples.</p><h3>Paul’s Arrival at Jerusalem</h3><p><sup class=\"versenum\">17 </sup>When we arrived at Jerusalem, the brothers and sisters received us warmly.<sup class=\"versenum\">18 </sup>The next day Paul and the rest of us went to see James, and all the elders were present.<sup class=\"versenum\">19 </sup>Paul greeted them and reported in detail what God had done among the Gentiles through his ministry.</p><p><sup class=\"versenum\">20 </sup>When they heard this, they praised God. Then they said to Paul: “You see, brother, how many thousands of Jews have believed, and all of them are zealous for the law.<sup class=\"versenum\">21 </sup>They have been informed that you teach all the Jews who live among the Gentiles to turn away from Moses, telling them not to circumcise their children or live according to our customs.<sup class=\"versenum\">22 </sup>What shall we do? They will certainly hear that you have come,<sup class=\"versenum\">23 </sup>so do what we tell you. There are four men with us who have made a vow.<sup class=\"versenum\">24 </sup>Take these men, join in their purification rites and pay their expenses, so that they can have their heads shaved. Then everyone will know there is no truth in these reports about you, but that you yourself are living in obedience to the law.<sup class=\"versenum\">25 </sup>As for the Gentile believers, we have written to them our decision that they should abstain from food sacrificed to idols, from blood, from the meat of strangled animals and from sexual immorality.”</p><p><sup class=\"versenum\">26 </sup>The next day Paul took the men and purified himself along with them. Then he went to the temple to give notice of the date when the days of purification would end and the offering would be made for each of them.</p><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%2021:1-26&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Acts 21:1-16",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7356-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7356-0-0",
+        "startTime": "start",
+        "endTime": "2:24",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Acts 21:17-26",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7357-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7357-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What caught your attention or what did you like best? Why?",
+          "What is new or has developed at this point in the story?",
+          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
+          "How can we live differently now that we know this story?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Additional questions you can use:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "How are Jesus’ followers continuing His work of making disciples and church planting?",
+          "How is the gospel impacting people and society?",
+          "What barriers or obstacles were overcome and how were they overcome?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-22"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Paul was not the only one starting churches. We learn from this story about other communities of believers that had been formed apart from Paul’s work. In Caesarea, they stayed with Philip who witnessed to the Samaritans and the Ethiopian Eunuch ({Acts 8:40}).&nbsp;{Acts 19:21}),&nbsp;\n\n{Acts 20: 22-23}).&nbsp;\n\n{Acts 11}{Acts 15}).&nbsp;\n\n{Romans 14:13-19}.&nbsp;",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Acts 8:40",
+                    "label": "Acts 8:40",
+                    "passage": "<p><sup class=\"versenum\">40&nbsp;</sup>Philip, however, appeared at Azotus and traveled about, preaching the gospel in all the towns until he reached Caesarea.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Acts 19:21",
+                    "label": "Acts 19:21",
+                    "passage": "<p><sup class=\"versenum\">21&nbsp;</sup>After all this had happened, Paul decided to go to Jerusalem, passing through Macedonia and Achaia. “After I have been there,” he said, “I must visit Rome also.”</p>"
+                  },
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Acts 20: 22-23",
+                    "label": "Acts 20: 22-23",
+                    "passage": "<p><sup class=\"versenum\">22&nbsp;</sup>“And now, compelled by the Spirit, I am going to Jerusalem, not knowing what will happen to me there.<sup class=\"versenum\">23&nbsp;</sup>I only know that in every city the Holy Spirit warns me that prison and hardships are facing me.</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Acts 11",
+                    "label": "Acts 11",
+                    "passage": "<h3>Peter Explains His Actions</h3>\n\n<p><sup class=\"versenum\">1 </sup>The apostles and the believers throughout Judea heard that the Gentiles also had received the word of God.<sup class=\"versenum\">2&nbsp;</sup>So when Peter went up to Jerusalem, the circumcised believers criticized him<sup class=\"versenum\">3&nbsp;</sup>and said, “You went into the house of uncircumcised men and ate with them.”</p>\n\n<p><sup class=\"versenum\">4&nbsp;</sup>Starting from the beginning, Peter told them the whole story:<sup class=\"versenum\">5&nbsp;</sup>“I was in the city of Joppa praying, and in a trance I saw a vision. I saw something like a large sheet being let down from heaven by its four corners, and it came down to where I was.<sup class=\"versenum\">6&nbsp;</sup>I looked into it and saw four-footed animals of the earth, wild beasts, reptiles and birds.<sup class=\"versenum\">7&nbsp;</sup>Then I heard a voice telling me, ‘Get up, Peter. Kill and eat.’</p>\n\n<p><sup class=\"versenum\">8&nbsp;</sup>“I replied, ‘Surely not, Lord! Nothing impure or unclean has ever entered my mouth.’</p>\n\n<p><sup class=\"versenum\">9&nbsp;</sup>“The voice spoke from heaven a second time, ‘Do not call anything impure that God has made clean.’<sup class=\"versenum\">10&nbsp;</sup>This happened three times, and then it was all pulled up to heaven again.</p>\n\n<p><sup class=\"versenum\">11&nbsp;</sup>“Right then three men who had been sent to me from Caesarea stopped at the house where I was staying.<sup class=\"versenum\">12&nbsp;</sup>The Spirit told me to have no hesitation about going with them. These six brothers also went with me, and we entered the man’s house.<sup class=\"versenum\">13&nbsp;</sup>He told us how he had seen an angel appear in his house and say, ‘Send to Joppa for Simon who is called Peter.<sup class=\"versenum\">14&nbsp;</sup>He will bring you a message through which you and all your household will be saved.’</p>\n\n<p><sup class=\"versenum\">15&nbsp;</sup>“As I began to speak, the Holy Spirit came on them as he had come on us at the beginning.<sup class=\"versenum\">16&nbsp;</sup>Then I remembered what the Lord had said: ‘John baptized with water, but you will be baptized with the Holy Spirit.’<sup class=\"versenum\">17&nbsp;</sup>So if God gave them the same gift he gave us who believed in the Lord Jesus Christ, who was I to think that I could stand in God’s way?”</p>\n\n<p><sup class=\"versenum\">18&nbsp;</sup>When they heard this, they had no further objections and praised God, saying, “So then, even to Gentiles God has granted repentance that leads to life.”</p>\n\n<p><sup class=\"versenum\">19&nbsp;</sup>Now those who had been scattered by the persecution that broke out when Stephen was killed traveled as far as Phoenicia, Cyprus and Antioch, spreading the word only among Jews.<sup class=\"versenum\">20&nbsp;</sup>Some of them, however, men from Cyprus and Cyrene, went to Antioch and began to speak to Greeks also, telling them the good news about the Lord Jesus.<sup class=\"versenum\">21&nbsp;</sup>The Lord’s hand was with them, and a great number of people believed and turned to the Lord.</p>\n\n<p><sup class=\"versenum\">22&nbsp;</sup>News of this reached the church in Jerusalem, and they sent Barnabas to Antioch.<sup class=\"versenum\">23&nbsp;</sup>When he arrived and saw what the grace of God had done, he was glad and encouraged them all to remain true to the Lord with all their hearts.<sup class=\"versenum\">24&nbsp;</sup>He was a good man, full of the Holy Spirit and faith, and a great number of people were brought to the Lord.</p>\n\n<p><sup class=\"versenum\">25&nbsp;</sup>Then Barnabas went to Tarsus to look for Saul,<sup class=\"versenum\">26&nbsp;</sup>and when he found him, he brought him to Antioch. So for a whole year Barnabas and Saul met with the church and taught great numbers of people. The disciples were called Christians first at Antioch.</p>\n\n<p><sup class=\"versenum\">27&nbsp;</sup>During this time some prophets came down from Jerusalem to Antioch.<sup class=\"versenum\">28&nbsp;</sup>One of them, named Agabus, stood up and through the Spirit predicted that a severe famine would spread over the entire Roman world. (This happened during the reign of Claudius.)<sup class=\"versenum\">29&nbsp;</sup>The disciples, as each one was able, decided to provide help for the brothers and sisters living in Judea.<sup class=\"versenum\">30&nbsp;</sup>This they did, sending their gift to the elders by Barnabas and Saul.</p>"
+                  },
+                  {
+                    "id": "popup_pop5",
+                    "marker": "Acts 15",
+                    "label": "Acts 15",
+                    "passage": "<div>\n<div>\n<h3>The Council at Jerusalem</h3>\n\n<p><sup class=\"versenum\">1 </sup>Certain people came down from Judea to Antioch and were teaching the believers: “Unless you are circumcised, according to the custom taught by Moses, you cannot be saved.”<sup class=\"versenum\">2&nbsp;</sup>This brought Paul and Barnabas into sharp dispute and debate with them. So Paul and Barnabas were appointed, along with some other believers, to go up to Jerusalem to see the apostles and elders about this question.<sup class=\"versenum\">3&nbsp;</sup>The church sent them on their way, and as they traveled through Phoenicia and Samaria, they told how the Gentiles had been converted. This news made all the believers very glad.<sup class=\"versenum\">4&nbsp;</sup>When they came to Jerusalem, they were welcomed by the church and the apostles and elders, to whom they reported everything God had done through them.</p>\n\n<p><sup class=\"versenum\">5&nbsp;</sup>Then some of the believers who belonged to the party of the Pharisees stood up and said, “The Gentiles must be circumcised and required to keep the law of Moses.”</p>\n\n<p><sup class=\"versenum\">6&nbsp;</sup>The apostles and elders met to consider this question.<sup class=\"versenum\">7&nbsp;</sup>After much discussion, Peter got up and addressed them: “Brothers, you know that some time ago God made a choice among you that the Gentiles might hear from my lips the message of the gospel and believe.<sup class=\"versenum\">8&nbsp;</sup>God, who knows the heart, showed that he accepted them by giving the Holy Spirit to them, just as he did to us.<sup class=\"versenum\">9&nbsp;</sup>He did not discriminate between us and them, for he purified their hearts by faith.<sup class=\"versenum\">10&nbsp;</sup>Now then, why do you try to test God by putting on the necks of Gentiles a yoke that neither we nor our ancestors have been able to bear?<sup class=\"versenum\">11&nbsp;</sup>No! We believe it is through the grace of our Lord Jesus that we are saved, just as they are.”</p>\n\n<p><sup class=\"versenum\">12&nbsp;</sup>The whole assembly became silent as they listened to Barnabas and Paul telling about the signs and wonders God had done among the Gentiles through them.<sup class=\"versenum\">13&nbsp;</sup>When they finished, James spoke up. “Brothers,” he said, “listen to me.<sup class=\"versenum\">14&nbsp;</sup>Simon has described to us how God first intervened to choose a people for his name from the Gentiles.<sup class=\"versenum\">15&nbsp;</sup>The words of the prophets are in agreement with this, as it is written:</p>\n\n<p><sup class=\"versenum\">16&nbsp;</sup>“‘After this I will return<br>\n&nbsp;&nbsp;&nbsp;&nbsp;and rebuild David’s fallen tent.<br>\nIts ruins I will rebuild,<br>\n&nbsp;&nbsp;&nbsp;&nbsp;and I will restore it,<br>\n<sup class=\"versenum\">17&nbsp;</sup>that the rest of mankind may seek the Lord,<br>\n&nbsp;&nbsp;&nbsp;&nbsp;even all the Gentiles who bear my name,<br>\nsays the Lord, who does these things’—<br>\n<sup class=\"versenum\">18&nbsp;</sup>&nbsp;&nbsp;&nbsp;&nbsp;things known from long ago.</p>\n</div>\n\n<p><sup class=\"versenum\">19&nbsp;</sup>“It is my judgment, therefore, that we should not make it difficult for the Gentiles who are turning to God.<sup class=\"versenum\">20&nbsp;</sup>Instead we should write to them, telling them to abstain from food polluted by idols, from sexual immorality, from the meat of strangled animals and from blood.<sup class=\"versenum\">21&nbsp;</sup>For the law of Moses has been preached in every city from the earliest times and is read in the synagogues on every Sabbath.”</p>\n\n<h3>The Council’s Letter to Gentile Believers</h3>\n\n<p><sup class=\"versenum\">22&nbsp;</sup>Then the apostles and elders, with the whole church, decided to choose some of their own men and send them to Antioch with Paul and Barnabas. They chose Judas (called Barsabbas) and Silas, men who were leaders among the believers.<sup class=\"versenum\">23&nbsp;</sup>With them they sent the following letter:</p>\n\n<p>The apostles and elders, your brothers,</p>\n\n<p>To the Gentile believers in Antioch, Syria and Cilicia:</p>\n\n<p>Greetings.</p>\n\n<p><sup class=\"versenum\">24&nbsp;</sup>We have heard that some went out from us without our authorization and disturbed you, troubling your minds by what they said.<sup class=\"versenum\">25&nbsp;</sup>So we all agreed to choose some men and send them to you with our dear friends Barnabas and Paul—<sup class=\"versenum\">26&nbsp;</sup>men who have risked their lives for the name of our Lord Jesus Christ.<sup class=\"versenum\">27&nbsp;</sup>Therefore we are sending Judas and Silas to confirm by word of mouth what we are writing.<sup class=\"versenum\">28&nbsp;</sup>It seemed good to the Holy Spirit and to us not to burden you with anything beyond the following requirements:<sup class=\"versenum\">29&nbsp;</sup>You are to abstain from food sacrificed to idols, from blood, from the meat of strangled animals and from sexual immorality. You will do well to avoid these things.</p>\n\n<p>Farewell.</p>\n</div>\n\n<p><sup class=\"versenum\">30&nbsp;</sup>So the men were sent off and went down to Antioch, where they gathered the church together and delivered the letter.<sup class=\"versenum\">31&nbsp;</sup>The people read it and were glad for its encouraging message.<sup class=\"versenum\">32&nbsp;</sup>Judas and Silas, who themselves were prophets, said much to encourage and strengthen the believers.<sup class=\"versenum\">33&nbsp;</sup>After spending some time there, they were sent off by the believers with the blessing of peace to return to those who had sent them.<sup class=\"versenum\">[34]&nbsp;</sup><sup class=\"versenum\">35&nbsp;</sup>But Paul and Barnabas remained in Antioch, where they and many others taught and preached the word of the Lord.</p>\n\n<p><sup class=\"versenum\">36&nbsp;</sup>Some time later Paul said to Barnabas, “Let us go back and visit the believers in all the towns where we preached the word of the Lord and see how they are doing.”<sup class=\"versenum\">37&nbsp;</sup>Barnabas wanted to take John, also called Mark, with them,<sup class=\"versenum\">38&nbsp;</sup>but Paul did not think it wise to take him, because he had deserted them in Pamphylia and had not continued with them in the work.<sup class=\"versenum\">39&nbsp;</sup>They had such a sharp disagreement that they parted company. Barnabas took Mark and sailed for Cyprus,<sup class=\"versenum\">40&nbsp;</sup>but Paul chose Silas and left, commended by the believers to the grace of the Lord.<sup class=\"versenum\">41&nbsp;</sup>He went through Syria and Cilicia, strengthening the churches.</p>"
+                  },
+                  {
+                    "id": "popup_pop6",
+                    "marker": "Romans 14:13-19",
+                    "label": "Romans 14:13-19",
+                    "passage": "<p><sup class=\"versenum\">13&nbsp;</sup>Therefore let us stop passing judgment on one another. Instead, make up your mind not to put any stumbling block or obstacle in the way of a brother or sister.<sup class=\"versenum\">14&nbsp;</sup>I am convinced, being fully persuaded in the Lord Jesus, that nothing is unclean in itself. But if anyone regards something as unclean, then for that person it is unclean.<sup class=\"versenum\">15&nbsp;</sup>If your brother or sister is distressed because of what you eat, you are no longer acting in love. Do not by your eating destroy someone for whom Christ died.<sup class=\"versenum\">16&nbsp;</sup>Therefore do not let what you know is good be spoken of as evil.<sup class=\"versenum\">17&nbsp;</sup>For the kingdom of God is not a matter of eating and drinking, but of righteousness, peace and joy in the Holy Spirit,<sup class=\"versenum\">18&nbsp;</sup>because anyone who serves Christ in this way is pleasing to God and receives human approval.</p>\n\n<p><sup class=\"versenum\">19&nbsp;</sup>Let us therefore make every effort to do what leads to peace and to mutual edification.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practice giving and communion here or in the Preparing for Mission section</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparing for Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Practice needed skills or previous topics to help prepare to minister to others:<br> o Prayer, Care, Share<br> o Gospel<br> o Foundational Bible Studies."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Identify people or places you will take the initiative to minister to this week.",
+          "Write “I will by when” statements and share with your small group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-31"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying For the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benediction (optional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply343-i-will"
+      }
+    }
+  ]
+}

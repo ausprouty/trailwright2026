@@ -1,4 +1,4 @@
-// npx tsx scripts/migration/multiply3/migrate-multiply3-test.ts
+// npx tsx scripts/migration/compass/migrate-compass-test.ts
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
@@ -8,9 +8,9 @@ import { transformMultiply } from './transformMultiply';
 const PROJECT_ROOT = process.cwd();
 
 const SITE = 'myfriends' as const;
-const COUNTRY = 'NZ' as const;
-const LANGUAGE = 'eng' as const;
-const SERIES = 'multiply3' as const;
+const COUNTRY = 'AT' as const;
+const LANGUAGE = 'deu' as const;
+const SERIES = 'compass' as const;
 
 const SOURCE_DIR = path.join(PROJECT_ROOT, 'data', 'raw', SITE, COUNTRY, LANGUAGE, SERIES);
 

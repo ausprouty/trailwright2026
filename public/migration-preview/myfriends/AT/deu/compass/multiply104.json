@@ -1,0 +1,412 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "multiply104",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOK BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Psalm 148:1-5</strong>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>1</sup>Halleluja! Lobt den HERRN im Himmel! Lobt ihn in der Höhe! <sup>2</sup>Lobt ihn, all seine Engel! Lobt ihn, ihr himmlischen Heerscharen! <sup>3</sup>Lobt ihn, Sonne und Mond! Lobt ihn, ihr funkelnden Sterne! <sup>4</sup>Lobt ihn, alle Himmel! Lobt ihn, ihr Wasser, die ihr über dem Himmel seid! <sup>5</sup>Sie sollen den Namen des HERRN loben, denn er hat es befohlen, und alles wurde geschaffen."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lobpreis",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was lief bei dir gut diese Woche?",
+          "Was war für dich schwierig diese Woche?",
+          "Wo brauchst du Gottes Hilfe in deinem Leben?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong>Gottes Treue feiern</strong>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was konntest du seit unserem letzten Treffen umsetzen?",
+          "Wie hast du Gottes Wirken durch dein Leben diese Woche erlebt?",
+          "War es dir möglich: <ul><li>jemandem zu erzählen, wie Gott in deinem Leben wirkt?</li><li>eine Bibelstelle mit jemandem zu teilen?</li><li>jemandem praktisch zu helfen?</li><li>mit jemandem zu beten?</li></ul>",
+          "Frage Gott, was er von dir als Antwort auf diese Bibelstelle möchte.",
+          "Teile dies mit der Gruppe."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-7"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation und Ermutigung",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"nobreak\">\n      {Römer 12:2}\n\n      \n      ermutigt uns, uns von Gott durch Veränderung unserer Denkweise in neue Menschen\n      verwandeln zu lassen. Unsere neue Identität zu verstehen, jetzt wo wir in Christus leben,\n      macht einen Großteil dieser Veränderung aus. Es ist befreiend und zugleich\n      bestärkend, die Wahrheit darüber, wie uns Gott sieht, zu kennen.   \n    </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Römer 12:2",
+                    "label": "Römer 12:2",
+                    "passage": "<sup>2</sup>Deshalb orientiert euch nicht am Verhalten und an den\n        Gewohnheiten dieser Welt, sondern lasst euch von Gott durch Veränderung eurer Denkweise\n        in neue Menschen verwandeln. Dann werdet ihr wissen, was Gott von euch will: Es ist das, was\n        gut ist und ihn freut und seinem Willen vollkommen entspricht."
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOK UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Kontext",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Jesu Tod und Auferstehung ist nicht nur für unsere Rettung, sondern auch für unsere Transformation unglaublich bedeutungsvoll. Wenn sein kostbarer Heiliger Geist uns erfüllt, werden wir auf verschiedenste Weise verändert. Heute werden wir lernen, wie sich unsere Identität, jetzt wo wir in Christus leben, verändert hat."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "LESEN",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Jemand liest den Text laut vor.",
+          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<!-- default BibleBlock -->"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Römer 8:9-17",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>9</sup>Ihr aber werdet nicht mehr von eurer sündigen Natur, sondern vom Geist Gottes beherrscht, wenn Gottes Geist in euch lebt. Wer aber den Geist von Christus nicht hat, der gehört nicht zu Christus. <sup>10</sup>Da Christus in euch lebt, wird zwar euer Körper aufgrund der Sünde sterben, aber durch den Geist empfangt ihr Leben, weil ihr von Gott gerecht gesprochen wurdet. <sup>11</sup>Der Geist Gottes, der Jesus von den Toten auferweckt hat, lebt in euch. Und so wie er Christus von den Toten auferweckte, wird er auch euren sterblichen Körper durch denselben Geist lebendig machen, der in euch lebt. <sup>12</sup>Liebe Brüder, ihr seid also nicht mehr dazu gezwungen, euch von den Wünschen eurer menschlichen Natur beherrschen zu lassen. <sup>13</sup>Denn wenn ihr euch weiter von ihr bestimmen lasst, werdet ihr sterben. Wenn ihr euch aber durch die Kraft des Heiligen Geistes von eurem alten Wesen und den bösen Taten abwendet , werdet ihr leben. <sup>14</sup>Denn alle, die vom Geist Gottes bestimmt werden, sind Kinder Gottes. <sup>15</sup>Deshalb verhaltet euch nicht wie ängstliche Sklaven. Wir sind doch Kinder Gottes geworden und dürfen ihn »Abba, Vater« rufen. <sup>16</sup>Denn der Geist Gottes selbst bestätigt uns tief im Herzen, dass wir Gottes Kinder sind. <sup>17</sup>Und als seine Kinder sind wir auch Miterben an seinem Reichtum – denn alles, was Gott seinem Sohn Christus gibt, gehört auch uns. Doch wenn wir an seiner Herrlichkeit teilhaben wollen, müssen wir auch seine Leiden mit ihm teilen.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Römer%208:9-17",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Diskussion zu euren Entdeckungen",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was sticht für dich in dieser Bibelstelle heraus?",
+          "Was gefällt dir und was stört dich in diesem Text?",
+          "Warum glaubst du, ist diese Stelle wichtig?",
+          "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden? Gibt es: <ul><li>eine Verhaltensweise zu ändern?</li><li>ein Versprechen einzuhalten?</li><li>ein Beispiel zum folgen?</li><li>ein Gebot zu befolgen?</li></ul>",
+          "Frage Gott, was er von dir als Antwort auf diese Bibelstelle möchte.",
+          "Teile dies mit der Gruppe."
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Schlüsselprinzipien",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Diese neue Identität, die uns Jesus durch seinen Heiligen Geist geschenkt hat, ist einfach großartig! Unser sündiges Wesen ist mit Jesus am Kreuz gestorben – so dass wir durch seinen auferstanden Geist verwandelt werden können. Er gibt uns seine Gerechtigkeit (so dass wir vor Gott bestehen können), verwandelt unser Wesen, befähigt uns, im Geist des Lebens und des Friedens zu gehen und schenkt uns das Recht, Kinder Gottes zu heißen."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOK FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Ausblick",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus sagt, dass wir das, was Er uns lehrt, mit anderen teilen sollen. (Matthäus 28:18-20)"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "1. Finde während dieser Woche mehr über deine Identität heraus indem du folgende Bibelstellen liest:"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"forward\">\n      {Johannes 1:12}\n\n      \n    </li>\n    <li class=\"forward\">\n      {Johannes 8:36}\n      \n    </li>\n    <li class=\"forward\">\n      {Johannes 15:15}\n      \n    </li>\n    <li class=\"forward\">\n      {Galater 2:20}\n      \n    </li>\n    <li class=\"forward\">\n      {Galater 3:27}\n      \n    </li>\n    <li class=\"forward\">\n      {Epheser 2:6}\n      \n    </li>\n    <li class=\"forward\">\n      {Epheser 2:19-20}\n      \n    </li>\n    <li class=\"forward\">\n      {Epheser 4:24}\n      \n    </li>\n    <li class=\"forward\">\n      {2. Korinther 5:16-21}\n      \n    </li>\n    <li class=\"forward\">\n      {Philipper 3:20}\n      \n    </li>\n    <li class=\"forward\">\n      {1. Korinther 3:16}\n      \n    </li>\n    <li class=\"forward\">\n      {1. Korinther 12:12-13}\n      \n    </li>\n    <li class=\"forward\">\n      {1. Korinther 12:27}\n      \n    </li>\n    <li class=\"forward\">\n      {2. Korinther 5:21}\n      \n    </li>\n    <li class=\"forward\">\n      {2. Timotheo 1:7}\n      \n    </li>\n    <li class=\"forward\">\n      {1. Johannes 3:1-2}\n      \n    </li>",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Johannes 1:12",
+                    "label": "Johannes 1:12",
+                    "passage": "<sup>12</sup>All denen aber, die ihn aufnahmen und an seinen Namen\n        glaubten, gab er das Recht, Gottes Kinder zu werden."
+                  },
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Johannes 8:36",
+                    "label": "Johannes 8:36",
+                    "passage": "<sup>36</sup>Nur dann, wenn der Sohn euch frei macht, seid ihr wirklich\n        frei."
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Johannes 15:15",
+                    "label": "Johannes 15:15",
+                    "passage": "<sup>15</sup>Ich nenne euch nicht mehr Diener, weil ein Herr seine\n        Diener nicht ins Vertrauen zieht. Ihr seid jetzt meine Freunde, denn ich habe euch alles\n        gesagt, was ich von meinem Vater gehört habe."
+                  },
+                  {
+                    "id": "popup_pop5",
+                    "marker": "Galater 2:20",
+                    "label": "Galater 2:20",
+                    "passage": "<sup>20</sup>Ich lebe, aber nicht mehr ich selbst, sondern Christus lebt\n        in mir. Ich lebe also mein Leben in diesem irdischen Körper im Glauben an den Sohn\n        Gottes, der mich geliebt und sich selbst für mich geopfert hat."
+                  },
+                  {
+                    "id": "popup_pop6",
+                    "marker": "Galater 3:27",
+                    "label": "Galater 3:27",
+                    "passage": "<sup>27</sup>Denn ihr alle, die ihr auf Christus getauft worden seid,\n        gehört nun zu Christus."
+                  },
+                  {
+                    "id": "popup_pop7",
+                    "marker": "Epheser 2:6",
+                    "label": "Epheser 2:6",
+                    "passage": "<sup>6</sup>Denn er hat uns zusammen mit Christus von den Toten\n        auferweckt und wir gehören nun mit Jesus zu seinem himmlischen Reich."
+                  },
+                  {
+                    "id": "popup_pop8",
+                    "marker": "Epheser 2:19-20",
+                    "label": "Epheser 2:19-20",
+                    "passage": "<sup>19</sup>Deshalb seid ihr nicht länger Fremde und ohne\n        Bürgerrecht, sondern ihr gehört zu den Gläubigen , zu Gottes Familie.\n        <sup>20</sup>Wir sind sein Haus, das auf dem Fundament der Apostel und Propheten erbaut ist\n        mit Christus Jesus selbst als Eckstein."
+                  },
+                  {
+                    "id": "popup_pop9",
+                    "marker": "Epheser 4:24",
+                    "label": "Epheser 4:24",
+                    "passage": "<sup>24</sup>Als neue Menschen, geschaffen nach dem Ebenbild Gottes und\n        zur Gerechtigkeit, Heiligkeit und Wahrheit berufen, sollt ihr auch ein neues Wesen annehmen."
+                  },
+                  {
+                    "id": "popup_pop10",
+                    "marker": "2. Korinther 5:16-21",
+                    "label": "2. Korinther 5:16-21",
+                    "passage": "<sup>16</sup>Deshalb haben wir aufgehört, andere nach dem zu\n        beurteilen, was die Welt von ihnen hält. Früher habe ich irrtümlich auch\n        Christus so beurteilt – als sei er nur ein Mensch gewesen. Wie anders sehe ich ihn\n        jetzt! <sup>17</sup>Das bedeutet aber, wer mit Christus lebt, wird ein neuer Mensch. Er ist\n        nicht mehr derselbe, denn sein altes Leben ist vorbei. Ein neues Leben hat begonnen!\n        <sup>18</sup>Dieses neue Leben kommt allein von Gott, der uns durch das, was Christus getan\n        hat, zu sich zurückgeholt hat. Und Gott hat uns zur Aufgabe gemacht, Menschen mit ihm\n        zu versöhnen. <sup>19</sup>Denn Gott war in Christus und versöhnte so die Welt mit\n        sich selbst und rechnete den Menschen ihre Sünden nicht mehr an. Das ist die herrliche\n        Botschaft der Versöhnung, die er uns anvertraut hat, damit wir sie anderen\n        verkünden. <sup>20</sup>So sind wir Botschafter Christi, und Gott gebraucht uns, um\n        durch uns zu sprechen. Wir bitten inständig, so, als würde Christus es\n        persönlich tun: »Lasst euch mit Gott versöhnen!« <sup>21</sup>Denn\n        Gott machte Christus, der nie gesündigt hat, zum Opfer für unsere Sünden,\n        damit wir durch ihn vor Gott gerechtfertigt werden können."
+                  },
+                  {
+                    "id": "popup_pop11",
+                    "marker": "Philipper 3:20",
+                    "label": "Philipper 3:20",
+                    "passage": "<sup>20</sup>Aber unsere Heimat ist der Himmel, wo Jesus Christus, der\n        Herr, lebt. Und wir warten sehnsüchtig auf ihn, auf die Rückkehr unseres\n        Erlösers."
+                  },
+                  {
+                    "id": "popup_pop12",
+                    "marker": "1. Korinther 3:16",
+                    "label": "1. Korinther 3:16",
+                    "passage": "<sup>16</sup>Erkennt ihr denn nicht, dass ihr der Tempel Gottes seid und\n        dass der Geist Gottes in euch wohnt?"
+                  },
+                  {
+                    "id": "popup_pop13",
+                    "marker": "1. Korinther 12:12-13",
+                    "label": "1. Korinther 12:12-13",
+                    "passage": "<sup>12</sup>Der menschliche Körper hat viele Glieder und Organe,\n        doch nur gemeinsam machen die vielen Teile den einen Körper aus. So ist es auch bei\n        Christus und seinem Leib. <sup>13</sup>Einige von uns sind Juden, andere Nichtjuden; einige\n        sind Sklaven, andere frei. Aber wir haben alle denselben Geist empfangen und gehören\n        durch die Taufe zum Leib Christi."
+                  },
+                  {
+                    "id": "popup_pop14",
+                    "marker": "1. Korinther 12:27",
+                    "label": "1. Korinther 12:27",
+                    "passage": "<sup>27</sup>So bildet ihr gemeinsam den Leib von Christus, und jeder\n        Einzelne gehört als ein Teil dazu."
+                  },
+                  {
+                    "id": "popup_pop15",
+                    "marker": "2. Korinther 5:21",
+                    "label": "2. Korinther 5:21",
+                    "passage": "<sup>21</sup>Denn Gott machte Christus, der nie gesündigt hat, zum\n        Opfer für unsere Sünden, damit wir durch ihn vor Gott gerechtfertigt werden\n        können."
+                  },
+                  {
+                    "id": "popup_pop18",
+                    "marker": "2. Timotheo 1:7",
+                    "label": "2. Timotheo 1:7",
+                    "passage": "<sup>7</sup>Und so geschah es. Gott schuf diesen Raum, um die Wasser\n        oberhalb und unterhalb dieses Raumes zu trennen."
+                  },
+                  {
+                    "id": "popup_pop17",
+                    "marker": "1. Johannes 3:1-2",
+                    "label": "1. Johannes 3:1-2",
+                    "passage": "<sup>1</sup>Seht, was für eine Liebe unser himmlischer Vater uns\n        geschenkt hat, nämlich, dass wir seine Kinder genannt werden – und das sind wir\n        auch! Doch die Menschen, die zu dieser Welt gehören, kennen Gott nicht; deshalb\n        verstehen sie auch nicht, dass wir seine Kinder sind. <sup>2</sup>Meine lieben Freunde, wir\n        sind schon jetzt die Kinder Gottes, und wie wir sein werden, wenn Christus wiederkommt, das\n        können wir uns nicht einmal vorstellen. Aber wir wissen, dass wir bei seiner Wiederkehr\n        sein werden wie er, denn wir werden ihn sehen, wie er wirklich ist."
+                  }
+                ],
+                "isOpen": false
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "2. Jetzt wo du mehr über deine neue Identität in Jesus Bescheid weißt – mit wem könntest du deine Erkenntnis diese Woche teilen?<br> Setzt euch paarweise an eure Gänseblümchen-Kette und bittet den Heiligen Geist, ein oder zwei Leute davon hervorzuheben."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Unterwegs als Gesandte",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p class=\"forward\"> Schau dir deine Gänseblumen-Kette nochmals an.</p>",
+          "<p class=\"forward\"> Was zeigt dir Gott für nächste Schritte diese Woche mit Ihm und anderen? </p>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-24"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p class=\"forward\"> Teilt diesen Schritt mit der Gruppe und bitte jemand, für dich zu beten, während du diesen Schritt in der Kraft des Heiligen Geistes tust. </p>",
+          "<p class=\"forward\"> Übergebt alle eure Ziele dem Herrn. Bittet den Herrn uns zu helfen, treu zu sein und uns zu verwenden, eine Bewegung von Menschen zu starten, die diesen MyFriends-Lifestyle leben. </p>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-multiply104-i-will"
+      }
+    }
+  ]
+}

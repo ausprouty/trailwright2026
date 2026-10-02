@@ -1,0 +1,406 @@
+{
+  "site": "myfriends",
+  "country": "NZ",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply320",
+  "sortOrder": 22,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Read a scripture and sing worship songs.</em>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. (Philippians 2:11b; 1 Timothy 2:4-6a)"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Minister to one another’s needs in prayer, biblical counsel and encouragement. </em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
+          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encourage loving accountability to obey Jesus"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Choose a way to cast vision for who they can become in Christ or what God can do through them by:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
+                  "reflecting on the changes in their life since they started following Christ",
+                  "reminding them of what God wants to do through them"
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Share BIG vision “A church for every village and community, and the gospel for every person.”</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Context",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ask the group to tell the story from last week."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read or watch Acts 10:34-48 two times as others listen."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Acts 10:34-48",
+        "html": "<!-- begin bible --><p><sup class=\"versenum\">34 </sup>Then Peter began to speak: “I now realize how true it is that God does not show favoritism<sup class=\"versenum\">35 </sup>but accepts from every nation the one who fears him and does what is right.<sup class=\"versenum\">36 </sup>You know the message God sent to the people of Israel, announcing the good news of peace through Jesus Christ, who is Lord of all.<sup class=\"versenum\">37 </sup>You know what has happened throughout the province of Judea, beginning in Galilee after the baptism that John preached—<sup class=\"versenum\">38 </sup>how God anointed Jesus of Nazareth with the Holy Spirit and power, and how he went around doing good and healing all who were under the power of the devil, because God was with him.</p><p><sup class=\"versenum\">39 </sup>“We are witnesses of everything he did in the country of the Jews and in Jerusalem. They killed him by hanging him on a cross,<sup class=\"versenum\">40 </sup>but God raised him from the dead on the third day and caused him to be seen.<sup class=\"versenum\">41 </sup>He was not seen by all the people, but by witnesses whom God had already chosen—by us who ate and drank with him after he rose from the dead.<sup class=\"versenum\">42 </sup>He commanded us to preach to the people and to testify that he is the one whom God appointed as judge of the living and the dead.<sup class=\"versenum\">43 </sup>All the prophets testify about him that everyone who believes in him receives forgiveness of sins through his name.”</p><p><sup class=\"versenum\">44 </sup>While Peter was still speaking these words, the Holy Spirit came on all who heard the message.<sup class=\"versenum\">45 </sup>The circumcised believers who had come with Peter were astonished that the gift of the Holy Spirit had been poured out even on Gentiles.<sup class=\"versenum\">46 </sup>For they heard them speaking in tongues and praising God.</p><p>Then Peter said,<sup class=\"versenum\">47 </sup>“Surely no one can stand in the way of their being baptized with water. They have received the Holy Spirit just as we have.”<sup class=\"versenum\">48 </sup>So he ordered that they be baptized in the name of Jesus Christ. Then they asked Peter to stay with them for a few days.</p><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%2010:34-48&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Acts 10:34-48",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7328-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7328-0-0",
+        "startTime": "1:35",
+        "endTime": "3:54",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "What caught your attention or what did you like best? Why?",
+          "What is new or has developed at this point in the story?",
+          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
+          "How can we live differently now that we know this story?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Additional questions you can use:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "How are Jesus’ followers continuing His work of making disciples and church planting?",
+          "How is the gospel impacting people and society?",
+          "What barriers or obstacles were overcome and how were they overcome?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-21"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "The Lord uses Peter to bring salvation to Cornelius and his household. This experience also teaches Peter, and the other Jewish believers with him, an important theological truth: the Lord accepts people from every nation and his offer of salvation is the same for all people. As reinforcement of this truth, the Gentiles experience the gift of the Holy Spirit in the same way that the Jews had at Pentecost ({Acts 2:4};&nbsp;{Acts 10:47}).&nbsp;\n\n{Acts 1:8});&nbsp;\n\n{Acts 8}),&nbsp;\n\n{Acts 10}).&nbsp;",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Acts 2:4",
+                    "label": "Acts 2:4",
+                    "passage": "<p><sup class=\"versenum\">4&nbsp;</sup>All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Acts 10:47",
+                    "label": "Acts 10:47",
+                    "passage": "<p><sup class=\"versenum\">47&nbsp;</sup>“Surely no one can stand in the way of their being baptized with water. They have received the Holy Spirit just as we have.”</p>"
+                  },
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Acts 1:8",
+                    "label": "Acts 1:8",
+                    "passage": "<p><sup class=\"versenum\">8&nbsp;</sup>But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Acts 8",
+                    "label": "Acts 8",
+                    "passage": "<div>\n<p><sup class=\"versenum\">1 </sup>And Saul approved of their killing him.</p>\n\n<h3>The Church Persecuted and Scattered</h3>\n\n<p>On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria.<sup class=\"versenum\">2&nbsp;</sup>Godly men buried Stephen and mourned deeply for him.<sup class=\"versenum\">3&nbsp;</sup>But Saul began to destroy the church. Going from house to house, he dragged off both men and women and put them in prison.</p>\n\n<h3>Philip in Samaria</h3>\n\n<p><sup class=\"versenum\">4&nbsp;</sup>Those who had been scattered preached the word wherever they went.<sup class=\"versenum\">5&nbsp;</sup>Philip went down to a city in Samaria and proclaimed the Messiah there.<sup class=\"versenum\">6&nbsp;</sup>When the crowds heard Philip and saw the signs he performed, they all paid close attention to what he said.<sup class=\"versenum\">7&nbsp;</sup>For with shrieks, impure spirits came out of many, and many who were paralyzed or lame were healed.<sup class=\"versenum\">8&nbsp;</sup>So there was great joy in that city.</p>\n\n<h3>Simon the Sorcerer</h3>\n\n<p><sup class=\"versenum\">9&nbsp;</sup>Now for some time a man named Simon had practiced sorcery in the city and amazed all the people of Samaria. He boasted that he was someone great,<sup class=\"versenum\">10&nbsp;</sup>and all the people, both high and low, gave him their attention and exclaimed, “This man is rightly called the Great Power of God.”<sup class=\"versenum\">11&nbsp;</sup>They followed him because he had amazed them for a long time with his sorcery.<sup class=\"versenum\">12&nbsp;</sup>But when they believed Philip as he proclaimed the good news of the kingdom of God and the name of Jesus Christ, they were baptized, both men and women.<sup class=\"versenum\">13&nbsp;</sup>Simon himself believed and was baptized. And he followed Philip everywhere, astonished by the great signs and miracles he saw.</p>\n\n<p><sup class=\"versenum\">14&nbsp;</sup>When the apostles in Jerusalem heard that Samaria had accepted the word of God, they sent Peter and John to Samaria.<sup class=\"versenum\">15&nbsp;</sup>When they arrived, they prayed for the new believers there that they might receive the Holy Spirit,<sup class=\"versenum\">16&nbsp;</sup>because the Holy Spirit had not yet come on any of them; they had simply been baptized in the name of the Lord Jesus.<sup class=\"versenum\">17&nbsp;</sup>Then Peter and John placed their hands on them, and they received the Holy Spirit.</p>\n\n<p><sup class=\"versenum\">18&nbsp;</sup>When Simon saw that the Spirit was given at the laying on of the apostles’ hands, he offered them money<sup class=\"versenum\">19&nbsp;</sup>and said, “Give me also this ability so that everyone on whom I lay my hands may receive the Holy Spirit.”</p>\n\n<p><sup class=\"versenum\">20&nbsp;</sup>Peter answered: “May your money perish with you, because you thought you could buy the gift of God with money!<sup class=\"versenum\">21&nbsp;</sup>You have no part or share in this ministry, because your heart is not right before God.<sup class=\"versenum\">22&nbsp;</sup>Repent of this wickedness and pray to the Lord in the hope that he may forgive you for having such a thought in your heart.<sup class=\"versenum\">23&nbsp;</sup>For I see that you are full of bitterness and captive to sin.”</p>\n\n<p><sup class=\"versenum\">24&nbsp;</sup>Then Simon answered, “Pray to the Lord for me so that nothing you have said may happen to me.”</p>\n\n<p><sup class=\"versenum\">25&nbsp;</sup>After they had further proclaimed the word of the Lord and testified about Jesus, Peter and John returned to Jerusalem, preaching the gospel in many Samaritan villages.</p>\n\n<p><sup class=\"versenum\">26&nbsp;</sup>Now an angel of the Lord said to Philip, “Go south to the road—the desert road—that goes down from Jerusalem to Gaza.”<sup class=\"versenum\">27&nbsp;</sup>So he started out, and on his way he met an Ethiopian eunuch, an important official in charge of all the treasury of the Kandake (which means “queen of the Ethiopians”). This man had gone to Jerusalem to worship,<sup class=\"versenum\">28&nbsp;</sup>and on his way home was sitting in his chariot reading the Book of Isaiah the prophet.<sup class=\"versenum\">29&nbsp;</sup>The Spirit told Philip, “Go to that chariot and stay near it.”</p>\n\n<p><sup class=\"versenum\">30&nbsp;</sup>Then Philip ran up to the chariot and heard the man reading Isaiah the prophet. “Do you understand what you are reading?” Philip asked.</p>\n\n<p><sup class=\"versenum\">31&nbsp;</sup>“How can I,” he said, “unless someone explains it to me?” So he invited Philip to come up and sit with him.</p>\n\n<p><sup class=\"versenum\">32&nbsp;</sup>This is the passage of Scripture the eunuch was reading:</p>\n\n<p>“He was led like a sheep to the slaughter,<br>\n&nbsp;&nbsp;&nbsp;&nbsp;and as a lamb before its shearer is silent,<br>\n&nbsp;&nbsp;&nbsp;&nbsp;so he did not open his mouth.<br>\n<sup class=\"versenum\">33&nbsp;</sup>In his humiliation he was deprived of justice.<br>\n&nbsp;&nbsp;&nbsp;&nbsp;Who can speak of his descendants?<br>\n&nbsp;&nbsp;&nbsp;&nbsp;For his life was taken from the earth.”</p>\n</div>\n\n<p><sup class=\"versenum\">34&nbsp;</sup>The eunuch asked Philip, “Tell me, please, who is the prophet talking about, himself or someone else?”<sup class=\"versenum\">35&nbsp;</sup>Then Philip began with that very passage of Scripture and told him the good news about Jesus.</p>\n\n<p><sup class=\"versenum\">36&nbsp;</sup>As they traveled along the road, they came to some water and the eunuch said, “Look, here is water. What can stand in the way of my being baptized?”<sup class=\"versenum\">[37]&nbsp;</sup><sup class=\"versenum\">38&nbsp;</sup>And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water and Philip baptized him.<sup class=\"versenum\">39&nbsp;</sup>When they came up out of the water, the Spirit of the Lord suddenly took Philip away, and the eunuch did not see him again, but went on his way rejoicing.<sup class=\"versenum\">40&nbsp;</sup>Philip, however, appeared at Azotus and traveled about, preaching the gospel in all the towns until he reached Caesarea.</p>"
+                  },
+                  {
+                    "id": "popup_pop5",
+                    "marker": "Acts 10",
+                    "label": "Acts 10",
+                    "passage": "<h3>Cornelius Calls for Peter</h3>\n\n<p><sup class=\"versenum\">1 </sup>At Caesarea there was a man named Cornelius, a centurion in what was known as the Italian Regiment.<sup class=\"versenum\">2&nbsp;</sup>He and all his family were devout and God-fearing; he gave generously to those in need and prayed to God regularly.<sup class=\"versenum\">3&nbsp;</sup>One day at about three in the afternoon he had a vision. He distinctly saw an angel of God, who came to him and said, “Cornelius!”</p>\n\n<p><sup class=\"versenum\">4&nbsp;</sup>Cornelius stared at him in fear. “What is it, Lord?” he asked.</p>\n\n<p>The angel answered, “Your prayers and gifts to the poor have come up as a memorial offering before God.<sup class=\"versenum\">5&nbsp;</sup>Now send men to Joppa to bring back a man named Simon who is called Peter.<sup class=\"versenum\">6&nbsp;</sup>He is staying with Simon the tanner, whose house is by the sea.”</p>\n\n<p><sup class=\"versenum\">7&nbsp;</sup>When the angel who spoke to him had gone, Cornelius called two of his servants and a devout soldier who was one of his attendants.<sup class=\"versenum\">8&nbsp;</sup>He told them everything that had happened and sent them to Joppa.</p>\n\n<h3>Peter’s Vision</h3>\n\n<p><sup class=\"versenum\">9&nbsp;</sup>About noon the following day as they were on their journey and approaching the city, Peter went up on the roof to pray.<sup class=\"versenum\">10&nbsp;</sup>He became hungry and wanted something to eat, and while the meal was being prepared, he fell into a trance.<sup class=\"versenum\">11&nbsp;</sup>He saw heaven opened and something like a large sheet being let down to earth by its four corners.<sup class=\"versenum\">12&nbsp;</sup>It contained all kinds of four-footed animals, as well as reptiles and birds.<sup class=\"versenum\">13&nbsp;</sup>Then a voice told him, “Get up, Peter. Kill and eat.”</p>\n\n<p><sup class=\"versenum\">14&nbsp;</sup>“Surely not, Lord!” Peter replied. “I have never eaten anything impure or unclean.”</p>\n\n<p><sup class=\"versenum\">15&nbsp;</sup>The voice spoke to him a second time, “Do not call anything impure that God has made clean.”</p>\n\n<p><sup class=\"versenum\">16&nbsp;</sup>This happened three times, and immediately the sheet was taken back to heaven.</p>\n\n<p><sup class=\"versenum\">17&nbsp;</sup>While Peter was wondering about the meaning of the vision, the men sent by Cornelius found out where Simon’s house was and stopped at the gate.<sup class=\"versenum\">18&nbsp;</sup>They called out, asking if Simon who was known as Peter was staying there.</p>\n\n<p><sup class=\"versenum\">19&nbsp;</sup>While Peter was still thinking about the vision, the Spirit said to him, “Simon, three men are looking for you.<sup class=\"versenum\">20&nbsp;</sup>So get up and go downstairs. Do not hesitate to go with them, for I have sent them.”</p>\n\n<p><sup class=\"versenum\">21&nbsp;</sup>Peter went down and said to the men, “I’m the one you’re looking for. Why have you come?”</p>\n\n<p><sup class=\"versenum\">22&nbsp;</sup>The men replied, “We have come from Cornelius the centurion. He is a righteous and God-fearing man, who is respected by all the Jewish people. A holy angel told him to ask you to come to his house so that he could hear what you have to say.”<sup class=\"versenum\">23&nbsp;</sup>Then Peter invited the men into the house to be his guests.</p>\n\n<p>The next day Peter started out with them, and some of the believers from Joppa went along.<sup class=\"versenum\">24&nbsp;</sup>The following day he arrived in Caesarea. Cornelius was expecting them and had called together his relatives and close friends.<sup class=\"versenum\">25&nbsp;</sup>As Peter entered the house, Cornelius met him and fell at his feet in reverence.<sup class=\"versenum\">26&nbsp;</sup>But Peter made him get up. “Stand up,” he said, “I am only a man myself.”</p>\n\n<p><sup class=\"versenum\">27&nbsp;</sup>While talking with him, Peter went inside and found a large gathering of people.<sup class=\"versenum\">28&nbsp;</sup>He said to them: “You are well aware that it is against our law for a Jew to associate with or visit a Gentile. But God has shown me that I should not call anyone impure or unclean.<sup class=\"versenum\">29&nbsp;</sup>So when I was sent for, I came without raising any objection. May I ask why you sent for me?”</p>\n\n<p><sup class=\"versenum\">30&nbsp;</sup>Cornelius answered: “Three days ago I was in my house praying at this hour, at three in the afternoon. Suddenly a man in shining clothes stood before me<sup class=\"versenum\">31&nbsp;</sup>and said, ‘Cornelius, God has heard your prayer and remembered your gifts to the poor.<sup class=\"versenum\">32&nbsp;</sup>Send to Joppa for Simon who is called Peter. He is a guest in the home of Simon the tanner, who lives by the sea.’<sup class=\"versenum\">33&nbsp;</sup>So I sent for you immediately, and it was good of you to come. Now we are all here in the presence of God to listen to everything the Lord has commanded you to tell us.”</p>\n\n<p><sup class=\"versenum\">34&nbsp;</sup>Then Peter began to speak: “I now realize how true it is that God does not show favoritism<sup class=\"versenum\">35&nbsp;</sup>but accepts from every nation the one who fears him and does what is right.<sup class=\"versenum\">36&nbsp;</sup>You know the message God sent to the people of Israel, announcing the good news of peace through Jesus Christ, who is Lord of all.<sup class=\"versenum\">37&nbsp;</sup>You know what has happened throughout the province of Judea, beginning in Galilee after the baptism that John preached—<sup class=\"versenum\">38&nbsp;</sup>how God anointed Jesus of Nazareth with the Holy Spirit and power, and how he went around doing good and healing all who were under the power of the devil, because God was with him.</p>\n\n<p><sup class=\"versenum\">39&nbsp;</sup>“We are witnesses of everything he did in the country of the Jews and in Jerusalem. They killed him by hanging him on a cross,<sup class=\"versenum\">40&nbsp;</sup>but God raised him from the dead on the third day and caused him to be seen.<sup class=\"versenum\">41&nbsp;</sup>He was not seen by all the people, but by witnesses whom God had already chosen—by us who ate and drank with him after he rose from the dead.<sup class=\"versenum\">42&nbsp;</sup>He commanded us to preach to the people and to testify that he is the one whom God appointed as judge of the living and the dead.<sup class=\"versenum\">43&nbsp;</sup>All the prophets testify about him that everyone who believes in him receives forgiveness of sins through his name.”</p>\n\n<p><sup class=\"versenum\">44&nbsp;</sup>While Peter was still speaking these words, the Holy Spirit came on all who heard the message.<sup class=\"versenum\">45&nbsp;</sup>The circumcised believers who had come with Peter were astonished that the gift of the Holy Spirit had been poured out even on Gentiles.<sup class=\"versenum\">46&nbsp;</sup>For they heard them speaking in tongues and praising God.</p>\n\n<p>Then Peter said,<sup class=\"versenum\">47&nbsp;</sup>“Surely no one can stand in the way of their being baptized with water. They have received the Holy Spirit just as we have.”<sup class=\"versenum\">48&nbsp;</sup>So he ordered that they be baptized in the name of Jesus Christ. Then they asked Peter to stay with them for a few days.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practice giving and communion here or in the Preparing for Mission section</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparing for Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Practice needed skills or previous topics to help prepare to minister to others:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Prayer, Care, Share",
+                  "Gospel",
+                  "Foundational Bible Studies."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Identify people or places you will take the initiative to minister to this week.",
+          "Write “I will by when” statements and share with your small group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-30"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying For the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benediction (optional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply320-i-will"
+      }
+    }
+  ]
+}

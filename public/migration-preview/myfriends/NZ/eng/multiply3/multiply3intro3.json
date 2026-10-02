@@ -1,0 +1,48 @@
+{
+  "site": "myfriends",
+  "country": "NZ",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro3",
+  "sortOrder": 26,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "(1st Missionary Journey from Antioch) [46-48 AD]"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Summary",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "This period covers the travel of the first mission team that the Spirit sent from the church in Antioch. It is marked by miracles, teaching in Synagogues, persecution and church planting among new peoples. Examples of making disciples in different context and situations are found in this period."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Letters written during this Period",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Galatians, 48 AD"
+        ]
+      }
+    }
+  ]
+}

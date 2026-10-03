@@ -1,0 +1,179 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session429",
+  "sortOrder": 28,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "FLASHBACK",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué experiencias has tenido con Dios esta semana?",
+          "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?",
+          "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que os ayude en las áreas que cada uno necesite."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque vuestra relación con Dios sea más profunda y se fortalezca."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "ESTUDIO BĺBLICO",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?",
+          "Que alguien lea el pasaje en voz alta."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Hechos 2:42-47",
+        "html": "<div class=\"bible\"><p class=\"bible\"><sup>42</sup>Y perseveraban en la doctrina de los apóstoles, en la comunión unos con otros, en el partimiento del pan y en las oraciones. </p><p class=\"bible\">La vida de los primeros cristianos</p><p class=\"bible\"><sup>43</sup>Y sobrevino temor a toda persona; y muchas maravillas y señales eran hechas por los apóstoles. </p><p class=\"bible\"><sup>44</sup>Todos los que habían creído estaban juntos, y tenían en común todas las cosas; </p><p class=\"bible\"><sup>45</sup>y vendían sus propiedades y sus bienes, y lo repartían a todos según la necesidad de cada uno. </p><p class=\"bible\"><sup>46</sup>Y perseverando unánimes cada día en el templo, y partiendo el pan en las casas, comían juntos con alegría y sencillez de corazón, </p><p class=\"bible\"><sup>47</sup>alabando a Dios, y teniendo favor con todo el pueblo. Y el Señor añadía cada día a la iglesia los que habían de ser salvos. </p></div><br><br>",
+        "url": "https://biblegateway.com/passage/?search=Acts%202:42-47&version=RVR1960",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Hebreos 10:24-25",
+        "html": "<div class=\"bible\"><p class=\"bible\"><sup>24</sup>Y considerémonos unos a otros para estimularnos al amor y a las buenas obras; </p><p class=\"bible\"><sup>25</sup>no dejando de congregarnos, como algunos tienen por costumbre, sino exhortándonos; y tanto más, cuanto veis que aquel día se acerca. </p></div><div class=\"publisher-info-bottom with-single\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) <p class=\"bible\"> Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </p></div><br><br>",
+        "url": "https://biblegateway.com/passage/?search=Hebrews%2010:24-25&version=RVR1960",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Individualmente:<ul class=\"arrows\"><li> ¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes? </li><li>¿Por qué te sientes atraído a esas palabras o frases?</li><li>¿Hay algo que te incomode?</li><li>¿Qué podemos aprender sobre Dios y los principios de su Reino?</li></ul>",
+          "Aplicación:<ul class=\"arrows\"><li>¿Qué podría estar Dios diciéndote?</li></ul>",
+          "Compartid en el grupo."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "PREGUNTAS ESPECÍFICAS Y PUNTOS DE ACCIÓN",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué aspectos de la vida en comunidad os suponen un desafío?",
+          "¿De qué maneras podéis contribuir a fortalecer las relaciones en vuestro grupo y a profundizar en ellas?",
+          "¿Qué podríais hacer como grupo para traer la presencia de Dios a la universidad y a vuestros amigos? ¿Cómo podríais generar movimientos? ¿Qué podríais empezar juntos?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session429-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶Orad porque vuestra amistad con Dios y entre vosotros se fortalezca y sea más profunda."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ En oración, poneos a disposición de Dios, para que Él utilice vuestro grupo cada vez más para traer su presencia de una manera perceptible a vuestra universidad (véase Comentario sobre la Escritura)."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "COMENTARIO SOBRE LA ESCRITURA",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "A finales del siglo VI d.C. Centroeuropa era de nuevo predominantemente pagana a causa de las migraciones germánicas. Las iglesias en las ciudades tenían dificultades para llegar a la gente con el Evangelio.<br><br>San Columbano, San Galo y otros monjes irlandeses fueron enviados por Dios a Centroeuropa durante esa época. Viajaban en clanes y fundaron cientos de comunidades monásticas en un corto período de tiempo. Tenían una jerarquía plana, estaban bien conectados en red y fueron de gran impacto en la sociedad a través del Reino de Dios. Una señal distintiva importante era que traían la presencia de Dios a las personas de una manera perceptible."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "¿Qué queremos decir con «la presencia de Dios de manera perceptible»? Hay testimonios sobre Columbano que relatan cómo la gente le traía «hordas de enfermos» y que «sanaba a todos los que venían a él de su enfermedad a través del remedio de la oración, mientras la ayuda de Dios estaba con él». A través de estas comunidades fuertemente unidas, sociedades y regiones enteras fueron saturadas con el Evangelio, con efectos que perduraron durante siglos."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Queremos ver la sociedad de hoy, como la de antes, saturada del Reino de Dios. Por tanto, es nuestro deseo que los grupos de estudiantes de Q no sean comunidades orientadas hacia dentro. En estos grupos, queremos estar equipados para un estilo de vida que brille y actúa hacia afuera juntos de tal manera que nuestros compañeros puedan experimentar la presencia de Dios. Por ejemplo, organizamos fiestas evangelísticas e invitamos a nuestros amigos a ellas. (Ver Lucas 5,27-32)."
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

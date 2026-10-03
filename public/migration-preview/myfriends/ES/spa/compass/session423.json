@@ -1,0 +1,182 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session423",
+  "sortOrder": 22,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "FLASHBACK",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué experiencias has tenido con Dios esta semana?",
+          "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?",
+          "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que os ayude en las áreas que cada uno necesite."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque vuestra relación con Dios sea más profunda y se fortalezca."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "ESTUDIO BĺBLICO",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?",
+          "Que alguien lea el pasaje en voz alta."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 1:80",
+        "html": "<div class=\"bible\"><div><p class=\"bible\"><sup>80</sup>Y el niño crecía, y se fortalecía en espíritu; y estuvo en lugares desiertos hasta el día de su manifestación a Israel. </p></div></div><br><br>",
+        "url": "https://biblegateway.com/passage/?search=Luke%201:80&version=RVR1960",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 3:1-2",
+        "html": "<div class=\"bible\"><p class=\"bible\"><sup>1</sup>En el año decimoquinto del imperio de Tiberio César, siendo gobernador de Judea Poncio Pilato, y Herodes tetrarca de Galilea, y su hermano Felipe tetrarca de Iturea y de la provincia de Traconite, y Lisanias tetrarca de Abilinia, </p><p class=\"bible\"><sup>2</sup>y siendo sumos sacerdotes Anás y Caifás, vino palabra de Dios a Juan, hijo de Zacarías, en el desierto. </p></div><br><br>",
+        "url": "https://biblegateway.com/passage/?search=Luke%203:1-2&version=RVR1960",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 6:12-13",
+        "html": "<div class=\"bible\"><p class=\"bible\"><sup>12</sup>En aquellos días él fue al monte a orar, y pasó la noche orando a Dios. </p><p class=\"bible\"><sup>13</sup>Y cuando era de día, llamó a sus discípulos, y escogió a doce de ellos, a los cuales también llamó apóstoles: </p></div><div class=\"publisher-info-bottom with-single\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) <p class=\"bible\"> Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </p></div><br><br>",
+        "url": "https://biblegateway.com/passage/?search=Luke%206:12-13&version=RVR1960",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Individualmente:<ul class=\"arrows\"><li> ¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes? </li><li>¿Por qué te sientes atraído a esas palabras o frases?</li><li>¿Hay algo que te incomode?</li><li>¿Qué podemos aprender sobre Dios y los principios de su Reino?</li></ul>",
+          "Aplicación:<ul class=\"arrows\"><li>¿Qué podría estar Dios diciéndote?</li></ul>",
+          "Compartid en el grupo."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "PREGUNTAS ESPECÍFICAS Y PUNTOS DE ACCIÓN",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué similitudes y principios espirituales encontráis en estos pasajes?",
+          "¿Cuándo fue la última vez que te retiraste por un periodo largo a un lugar aislado para centrarte en Dios?",
+          "¿Necesitáis guía y sabiduría para algo en vuestras vidas? Planead tomaros un tiempo más largo de descanso (p. ej. 1-2 días) para pasarlo en oración, quizá ayunando, para escuchar la voz de Dios."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session423-i-will"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "COMENTARIO SOBRE LA ESCRITURA",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Casi todos los profetas del Antiguo Testamento tuvieron «experiencias en el desierto» al recibir el llamado de Dios (Lucas 3:1-2; 1ª Reyes 19:1-16). El desierto, o la soledad, era el sitio en que podían centrarse en Dios."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesús fue guiado al desierto por el Espíritu Santo inmediatamente tras su bautismo. Lucas 4:4 muestra qué ocurrió allí: Él se llenó de la Palabra de Dios, reflexionó en ella y recibió una nueva perspectiva sobre lo que Dios estaba haciendo en su vida. Su visión de futuro se esclareció, obteniendo guía."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Si queremos construir movimientos espirituales, necesitamos momentos de retiro, de vez en cuando, para poder tomar nuevas perspectivas sobre cómo ir adelante. Los evangelios a menudo nos informan de que Jesús se retiraba de la multitud y de sus discípulos. La palabra griega «desierto» utilizada en los evangelios es ἔρημος (erémos), que también significa «lugar apartado». Antes de escoger los doce discípulos, también se retiró para recibir la guía de Dios."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Es importante que también nosotros planeemos retiros así, para escuchar a Dios regularmente. Un buen ritmo podría ser una vez al mes, y diversos días seguidos cada año."
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

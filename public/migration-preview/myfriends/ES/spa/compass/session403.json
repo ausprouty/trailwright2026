@@ -1,0 +1,120 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session403",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "FLASHBACK",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué experiencias has tenido con Dios esta semana?",
+          "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?",
+          "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que os ayude en las áreas que cada uno necesite."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque vuestra relación con Dios sea más profunda y se fortalezca."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "ESTUDIO BĺBLICO",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?",
+          "Que alguien lea el pasaje en voz alta."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Mateo 4:18-22",
+        "html": "<p class=\"bible\"><sup>18</sup>Andando Jesús junto al mar de Galilea, vio a dos hermanos, Simón, llamado Pedro, y Andrés su hermano, que echaban la red en el mar; porque eran pescadores. </p><p class=\"bible\"><sup>19</sup>Y les dijo: Venid en pos de mí, y os haré pescadores de hombres. </p><p class=\"bible\"><sup>20</sup>Ellos entonces, dejando al instante las redes, le siguieron. </p><p class=\"bible\"><sup>21</sup>Pasando de allí, vio a otros dos hermanos, Jacobo hijo de Zebedeo, y Juan su hermano, en la barca con Zebedeo su padre, que remendaban sus redes; y los llamó. </p><p class=\"bible\"><sup>22</sup>Y ellos, dejando al instante la barca y a su padre, le siguieron. </p><p class=\"bible\"><br><br></p>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%204:18-22&version=RVR1960",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1 Reyes 19:19-21",
+        "html": "<div class=\"bible\"><p class=\"bible\"><sup>19</sup>Partiendo él de allí, halló a Eliseo hijo de Safat, que araba con doce yuntas delante de sí, y él tenía la última. Y pasando Elías por delante de él, echó sobre él su manto. </p><p class=\"bible\"><sup>20</sup>Entonces dejando él los bueyes, vino corriendo en pos de Elías, y dijo: Te ruego que me dejes besar a mi padre y a mi madre, y luego te seguiré. Y él le dijo: Ve, vuelve; ¿qué te he hecho yo? </p><p class=\"bible\"><sup>21</sup>Y se volvió, y tomó un par de bueyes y los mató, y con el arado de los bueyes coció la carne, y la dio al pueblo para que comiesen. Después se levantó y fue tras Elías, y le servía. </p></div><div class=\"publisher-info-bottom with-single\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) <p class=\"bible\"> Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </p></div><p class=\"bible\"><br><br></p>",
+        "url": "https://biblegateway.com/passage/?search=1%20Kings%2019:19-21&version=RVR1960",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Individualmente:<ul class=\"arrows\"><li> ¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes? </li><li>¿Por qué te sientes atraído a esas palabras o frases?</li><li>¿Hay algo que te incomode?</li><li>¿Qué podemos aprender sobre Dios y los principios de su Reino?</li></ul>",
+          "Aplicación:<ul class=\"arrows\"><li>¿Qué podría estar Dios diciéndote?</li></ul>",
+          "Compartid en el grupo."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "PREGUNTAS ESPECÍFICAS Y PUNTOS DE ACCIÓN",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    }
+  ]
+}

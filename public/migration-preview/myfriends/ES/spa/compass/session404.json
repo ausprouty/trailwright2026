@@ -1,0 +1,207 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session404",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "FLASHBACK",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué experiencias has tenido con Dios esta semana?",
+          "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?",
+          "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que os ayude en las áreas que cada uno necesite."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque vuestra relación con Dios sea más profunda y se fortalezca."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "ESTUDIO BĺBLICO",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?",
+          "Que alguien lea el pasaje en voz alta."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Efesios 5:8-21",
+        "html": "<div class=\"bible\"><p class=\"bible\"><sup>8</sup>Porque en otro tiempo erais tinieblas, mas ahora sois luz en el Señor; andad como hijos de luz </p><p class=\"bible\"><sup>9</sup>(porque el fruto del Espíritu es en toda bondad, justicia y verdad), </p><p class=\"bible\"><sup>10</sup>comprobando lo que es agradable al Señor. </p><p class=\"bible\"><sup>11</sup>Y no participéis en las obras infructuosas de las tinieblas, sino más bien reprendedlas; </p><p class=\"bible\"><sup>12</sup>porque vergonzoso es aun hablar de lo que ellos hacen en secreto. </p><p class=\"bible\"><sup>13</sup>Mas todas las cosas, cuando son puestas en evidencia por la luz, son hechas manifiestas; porque la luz es lo que manifiesta todo. </p><div class=\"poetry\"><p class=\"bible\"><sup>14</sup>Por lo cual dice:<br> Despiértate, tú que duermes,<br> Y levántate de los muertos, Y te alumbrará Cristo. </p></div><p class=\"bible\"><sup>15</sup>Mirad, pues, con diligencia cómo andéis, no como necios sino como sabios, </p><p class=\"bible\"><sup>16</sup>aprovechando bien el tiempo, porque los días son malos. </p><p class=\"bible\"><sup>17</sup>Por tanto, no seáis insensatos, sino entendidos de cuál sea la voluntad del Señor. </p><p class=\"bible\"><sup>18</sup>No os embriaguéis con vino, en lo cual hay disolución; antes bien sed llenos del Espíritu, </p><p class=\"bible\"><sup>19</sup>hablando entre vosotros con salmos, con himnos y cánticos espirituales, cantando y alabando al Señor en vuestros corazones; </p><p class=\"bible\"><sup>20</sup>dando siempre gracias por todo al Dios y Padre, en el nombre de nuestro Señor Jesucristo. </p><p class=\"bible\">Someteos los unos a los otros</p><p class=\"bible\"><sup>21</sup>Someteos unos a otros en el temor de Dios. </p><div class=\"publisher\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </div><br><br></div>",
+        "url": "https://biblegateway.com/passage/?search=Ephesians%205:8-21&version=RVR1960",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Individualmente:<ul class=\"arrows\"><li> ¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes? </li><li>¿Por qué te sientes atraído a esas palabras o frases?</li><li>¿Hay algo que te incomode?</li><li>¿Qué podemos aprender sobre Dios y los principios de su Reino?</li></ul>",
+          "Aplicación:<ul class=\"arrows\"><li>¿Qué podría estar Dios diciéndote?</li></ul>",
+          "Compartid en el grupo."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "PREGUNTAS ESPECÍFICAS Y PUNTOS DE ACCIÓN",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿A qué estilo de vida llama Pablo a los efesios (v. 8-17)?",
+          "¿Cómo podemos vivir constantemente llenos del Espíritu Santo?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session404-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Jesús nos ha dado la promesa de que el Espíritu Santo fluirá en nuestras vidas como un río de agua viva (Juan 7:37-39). Como cristianos, podemos haber recibido el Espíritu Santo con la conversión y el bautismo, pero no por eso somos llenos automáticamente. Al igual que un fuego mengua ante la ausencia de oxígeno, el Espíritu Santo puede ser sofocado por «aire malo», el pecado no confesado que tenemos en nuestras vidas. «No apaguéis al Espíritu», escribe Pablo en 1ª Tesalonicenses 5:19."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Puede el Espíritu Santo resplandecer en ti libremente?",
+          "¿Qué podría estar obstaculizando esto?",
+          "¿Estás listo para confesar a Dios las áreas en que vives en desacuerdo con Su voluntad, y para arrepentirte de estas actitudes, pensamientos y acciones?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"unknown\"><br></span>¿Estás listo para someterte plenamente a la guía del Espíritu Santo, y a que este te llene de poder? Si estás listo para estas cosas, los siguientes pasos te pueden ser de ayuda. Los llamamos «respiración espiritual»:"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ De manera análoga a la respiración biológica, exhala el «aire malo». Deshazte del aire hediento que ahoga el fuego: confiesa a Dios en qué maneras has actuado y pensado que no están de acuerdo a su voluntad (lo que sea que te venga a la mente). Sométete totalmente, de nuevo, a la guía del Espíritu Santo."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Inhala «aire fresco»: pídele a Dios que te llene de nuevo del Espíritu Santo y te dé su poder."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Puedes usar esta oración: “Espiritu Santo por favor lléname de nuevo, toma control de todas las áreas de mi vida. Elijo confiar en ti y escucharte.”"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Puedes «respirar espiritualmente» en cualquier ocasión. No te sentirás completamente diferente después de cada bocanada espiritual. Aunque las emociones son importantes, no definen qué es verdadero y qué no lo es. Por tanto, es sabio confiar en Dios y en su promesa de que te renovará si se lo pides, incluso si «no lo sientes»."
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "COMENTARIO SOBRE LA ESCRITURA",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Los versículos 18-21 son una frase en el original griego: «sed (constantemente) llenos del Espíritu Santo, hablando entre vosotros… cantad… dad gracias… y someteos los unos a los otros». Los versículos 19-21, por tanto, son acciones específicas que puedes realizar para prepararte para ser lleno del Espíritu."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Además, nos repone de la vida del Señor todopoderoso. Con su amor, sabiduría, paciencia, esperanza, fidelidad, resistencia, paz, alegría, inspiración e ideas nos da la fuerza interna para afrontar los retos valientemente y con fe."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Es más, el Espíritu Santo nos equipa de su don sobrenatural para que podamos lograr los objetivos que Dios tiene para nosotros (Romanos 12:6-8, 1 Cor. 12:8-10, Ef. 4:11, 1 Pe 4:11)."
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

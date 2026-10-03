@@ -1,0 +1,185 @@
+{
+  "site": "myfriends",
+  "country": "DE",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session424",
+  "sortOrder": 23,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "RÜCKBLICK",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt?",
+          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
+          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "BIBELSTUDIUM",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Alle lesen den Text leise für sich.",
+          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
+          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
+          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1 Samuel 18, 5-9",
+        "html": "<p class=\"bible\"><sup>5</sup>David unternahm unter Sauls Befehl verschiedene Feldzüge. Wohin Saul ihn auch schickte, überall war er erfolgreich und kam als Sieger zurück. So machte Saul ihn schließlich zum Oberbefehlshaber seiner Truppen. Im ganzen Volk war David beliebt, und auch alle Untergebenen des Königs schätzten ihn. </p><p class=\"bible\"><sup>6</sup>Als David und die Israeliten nach dem Sieg über die Philister zurückkehrten, zogen Frauen aus allen Städten König Saul entgegen. Sie sangen und tanzten, schlugen die Tamburine und empfingen die Sieger mit Jubel und Musik.<sup> 7 </sup>Immer wieder sangen die Frauen den Vers: </p><div class=\"poetry top-1\"><p class=\"bible\"> »Saul hat tausend Mann erschlagen,David aber zehntausend!« </p></div><p class=\"bible\"><sup>8</sup>Saul hörte dieses Lied nicht gern, er wurde sehr zornig. »David trauen sie zu, dass er zehntausend erschlägt; und sie glauben, dass ich nur mit tausend fertigwerde!«, dachte er voller Missmut. »Jetzt fehlt nur noch, dass sie ihn zum König machen!«<sup> 9 </sup>Seitdem war Saul eifersüchtig auf David. </p><p class=\"bible\"><br><br></p>",
+        "url": "https://biblegateway.com/passage/?search=1%20Samuel%2018:5-9&version=HOF",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthäus 18, 1-5",
+        "html": "<p class=\"bible\"><sup>1</sup>In jener Zeit kamen die Jünger zu Jesus und fragten: »Wer ist eigentlich der Größte im Himmelreich?«<sup> 2 </sup>Jesus rief ein Kind, stellte es in ihre Mitte<sup> 3 </sup>und sagte: »Ich versichere euch: Wenn ihr nicht umkehrt und wie die Kinder werdet, könnt ihr nicht ins Himmelreich kommen.<sup> 4 </sup>Darum: Wer sich selbst erniedrigt und wie dieses Kind wird, der ist der Größte im Himmelreich.<sup>5</sup>Und wer solch ein Kind um meinetwillen aufnimmt, der nimmt mich auf.« </p><p class=\"bible\"><br></p>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%2018:1-5&version=NGU-DE",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Allgemeine Fragen:<ul class=\"arrows\"><li>Ist dir etwas in diesem Text besonders aufgefallen?</li><li>Was gefällt dir an diesem Abschnitt? Was stört dich?</li><li> Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen? </li><li>Was kannst du über die Menschheit lernen?</li></ul>",
+          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "SPEZIFISCHE FRAGEN UND PRAXIS",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was für Folgen hat es, wenn wir uns mit anderen vergleichen?",
+          "Auf wen warst du das letzte Mal neidisch? Wieso?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session424-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Wo treibt dich der eigene Ehrgeiz an anstatt der Heilige Geist (Ga-later 5,16-18)? Bekenne ihm das und dein mangelndes Vertrauen in Gott und unterstelle dich danach wieder ganz der Führung des Heiligen Geistes (jeder für sich)."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Was möchtest du von dem, was du gelesen hast, in den nächsten Tagen anwenden? Schreibe es auf und teile es der Gruppe mit („Ich werde...“)."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Sage es Gott in einem Gebet (bildet dazu 2-3er Gruppen)."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "KOMMENTAR ZUM BIBELTEXT",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Vergleichsdenken kann schnell zu Unsicherheit führen, dass wir weni-ger wert sein könnten als andere. Unser Selbstwertgefühl wird zuneh-mend kleiner. Wir beäugen andere misstrauisch und können uns nicht an ihren Erfolgen freuen, weil wir unterschwellig von unserem Ehrgeiz, unserer Eifersucht und unseren Konkurrenzgedanken bestimmt wer-den. Wir hören in all dem nicht mehr auf Gott, sondern versuchen mit eigenen Mitteln, mehr zu erhalten."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Der Ursprung des Vergleichens liegt im Misstrauen gegenüber Gott, dass er dich wunderbar einzigartig gemacht und auf dein Leben eine Berufung gelegt hat, die du entdecken und in die du reinwachsen sollst. Eine Haltung ständigen Vergleichens bedeutet ein mangelndes Vertrauen in Gott. Doch je mehr dich Gottes Wahrheiten über dein Leben und Denken prägen, desto weniger bist du für Vergleichsdenken empfänglich."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lerne zu denken, wie Gott über dich denkt. Proklamiere regelmässig Gottes Wahrheiten über deinem Leben (Psalm 16,6, 23 und 139,14). Übe Dankbarkeit ein, wer du in Gottes Augen bist und übe dich darin, andere zu segnen, die „besser“ sind als du."
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

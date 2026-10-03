@@ -1,0 +1,186 @@
+{
+  "site": "myfriends",
+  "country": "DE",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session403",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "RÜCKBLICK",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt?",
+          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
+          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "BIBELSTUDIUM",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Alle lesen den Text leise für sich.",
+          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
+          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
+          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthäus 4, 18-22",
+        "html": "<p class=\"bible\"><sup>18</sup>Als Jesus am See von Galiläa entlangging, sah er zwei Fischer, die auf dem See ihr Netz auswarfen. Es waren Brüder, Simon, auch Petrus genannt, und Andreas.<sup> 19 </sup>Jesus sagte zu ihnen: »Kommt, folgt mir nach! Ich will euch zu Menschenfischern machen.«<sup>20</sup>Sofort ließen sie ihre Netze liegen und folgten ihm. </p><p class=\"bible\"><sup>21</sup>Als er von dort weiterging, sah er wieder zwei Brüder, Jakobus, den Sohn des Zebedäus, und Johannes; sie waren mit ihrem Vater Zebedäus im Boot und brachten ihre Netze in Ordnung. Jesus forderte sie auf, mit ihm zu kommen.<sup>22</sup>Und sofort ließen sie das Boot und ihren Vater zurück und folgten Jesus. </p><p class=\"bible\"><br></p>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%204:18-22&version=NGU-DE",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1 Koenige 19, 19-21",
+        "html": "<p class=\"bible\"><sup>19</sup>Als Elia wieder in Israel war, suchte er Elisa, den Sohn von Schafat, auf. Elisa pflügte gerade ein Feld. Vor ihm her gingen elf Knechte mit je einem Ochsengespann, und er selbst führte das zwölfte und letzte Gespann. Elia kam ihm über das Feld entgegen, warf ihm seinen Mantel über die Schultern und ging weiter. </p><p class=\"bible\"><sup>20</sup>Elisa ließ seine Rinder stehen, lief hinter Elia her und bat ihn: »Darf ich mich noch von meinen Eltern verabschieden? Danach will ich mit dir kommen.« Elia antwortete: »Geh nur, ich habe dir ja nichts getan!«<sup>21</sup>Da eilte Elisa nach Hause und bereitete für seine Leute ein Abschiedsessen zu. Er schlachtete die beiden Rinder, mit denen er gepflügt hatte, machte mit dem Holz ihres Jochs ein Feuer und briet das Fleisch daran. Danach schloss er sich Elia an und wurde sein Diener. </p><p class=\"bible\"><br></p>",
+        "url": "https://biblegateway.com/passage/?search=1%20Kings%2019:19-21&version=HOF",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Allgemeine Fragen:<ul class=\"arrows\"><li>Ist dir etwas in diesem Text besonders aufgefallen?</li><li>Was gefällt dir an diesem Abschnitt? Was stört dich?</li><li> Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen? </li><li>Was kannst du über die Menschheit lernen?</li></ul>",
+          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "SPEZIFISCHE FRAGEN UND PRAXIS",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was für Gemeinsamkeiten erkennt ihr in diesen zwei Berufungsge-schichten?",
+          "Wie hat dich Jesus gerufen ihm nachzufolgen? (Erzählt in 3er-Grup-pen eure Geschichten wie Jesus euch berufen und ihr euch ent-schieden habt, ihm nachzufolgen).",
+          "Auf was zielt die Nachfolge von Jesus hier auf der Erde ab? Bist du auch dazu bereit?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session403-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Stilles Gebet (jeder für sich). Frag Jesus, ob es etwas gibt, das dich hindert, ihm ganz zu vertrauen und nachzufolgen (z.B. eine Ge-wohnheit, ein Engagement, eine Haltung, eine Beziehung, eine Denkweise). Bekenne ihm das und plane konkrete Umsetzungs-schritte. Sage es jetzt gleich jemandem in der Gruppe, der auch nachfragen wird, ob du es gemacht hast."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gebet in Gruppen von 2-3 Personen. Drückt eure Hingabe zu Jesus aus, dass ihr ihm an der Hochschule ganz vertrauen und erste Pri-orität einräumen wollt und ihr das tun möchtet, was er euch sagen wird."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Schreibe dir 5 Leute auf, für die du beten möchtest, dass sie sich für Jesus entscheiden und beginnen, ihm nachzufolgen (deine „VIP‘s“). Als Gebetsstütze kannst du zusätzlich z.B. ein Post-it Zettel am Kühlschrank oder Badezimmerspiegel aufhängen, ein Buchzeichen mit den Namen deiner Freunde machen, eine Erinnerung auf deinem Smartphone etc."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Betet in Gruppen von 2-3 Personen für eure VIP‘s."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "KOMMENTAR ZUM BIBELTEXT",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus nachfolgen bedeutet zunächst einmal, sich aus bisherigen Bin-dungen zu lösen und alles hinter sich zu lassen, was aufhält. Es be-deutet, eine Lebensgemeinschaft mit ihm einzugehen, mit ihm zusam-menzusein, sich prägen zu lassen und von ihm zu lernen, sich in den Dimensionen seines Reiches zu bewegen."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Gleichzeitig hat das „Ausbildungsprogramm“ von Jesus auch eine Ziel-richtung: Wir sollen so wie er zu Menschenfischern werden: Menschen mit Jesus verbinden und sie zu seinen Jüngern machen (Matthäus 28, 19-20)."
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

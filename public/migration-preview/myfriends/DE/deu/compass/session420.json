@@ -1,0 +1,112 @@
+{
+  "site": "myfriends",
+  "country": "DE",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session420",
+  "sortOrder": 19,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "RÜCKBLICK",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt?",
+          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
+          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "BIBELSTUDIUM",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Alle lesen den Text leise für sich.",
+          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
+          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
+          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthäus 5, 23-24",
+        "html": "<p class=\"bible\"><sup>23</sup>Wenn du also deine Gabe zum Altar bringst und dir dort einfällt, dass dein Bruder etwas gegen dich hat,<sup> 24 </sup>dann lass deine Gabe dort vor dem Altar; geh und versöhne dich zuerst mit deinem Bruder! Danach komm und bring ´Gott` deine Gabe dar. </p><p class=\"bible\"><br></p>",
+        "url": "https://biblegatewy.com/passage/?search=Matthew%205:23-24&version=NGU-DE",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Allgemeine Fragen:<ul class=\"arrows\"><li>Ist dir etwas in diesem Text besonders aufgefallen?</li><li>Was gefällt dir an diesem Abschnitt? Was stört dich?</li><li> Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen? </li><li>Was kannst du über die Menschheit lernen?</li></ul>",
+          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "SPEZIFISCHE FRAGEN UND PRAXIS",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "site": "myfriends",
+  "country": "NZ",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session406",
+  "sortOrder": 5,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "FLASHBACK",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What did you experience with God this week?",
+          "In the last few days, did you have the opportunity to share an experience with God with someone close to you that doesn’t know Jesus yet? Or could you pray for them or help them practically?",
+          "Do you need God‘s help in an area of your life?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "BIBLE STUDY",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage silently. What words or phrases stick out?",
+          "One person reads the passage out loud.",
+          "One person retells the passage in his/her own words (Bibles closed).",
+          "If necessary, the others complement what was said (Bibles closed)."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luke 5:27-32",
+        "html": "<p class=\"bible\"><sup>27</sup> After this, Jesus went out and saw a tax collector by the name of Levi sitting at his tax booth. “Follow me,” Jesus said to him, <sup>28</sup><span class=\"unknown\"> and Levi got up, left everything and followed him. </span></p><p class=\"bible\"><sup>29</sup>Then Levi held a great banquet for Jesus at his house, and a large crowd of tax collectors and others were eating with them.<sup>30</sup>But the Pharisees and the teachers of the law who belonged to their sect complained to his disciples, “Why do you eat and drink with tax collectors and sinners?” </p><p class=\"bible\"><sup>31</sup>Jesus answered them, “It is not the healthy who need a doctor, but the sick.<sup>32</sup>I have not come to call the righteous, but sinners to repentance.” </p><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%205:27-32&version=TNIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Everyone by themselves:<ul class=\"arrows\"><li> What words or phrases stick out now? Are there any differences to what you noticed before? </li><li>Why do you feel drawn to those words or phrases?</li><li>What could God be telling you?</li><li>What can you learn about mankind?</li></ul>",
+          "Share in the group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "SPECIFIC QUESTIONS & ACTION STEPS",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What kind of an atmosphere do you create amongst your friends that don’t know Jesus yet? How do you see them? How do you treat them?",
+          "Did you ever invite friends or co-eds that don‘t know Jesus yet to a party of yours? What event in the nearby future would be really suitable for that?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session406-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ What could you as a Group organise for such a purpose? Think about it quickly, everyone notes down 2-3 ideas, then discuss these in the group."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Write down 5 people you would like to invite."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray for your VIPs, that your relationship to them strengthens and that you gain mutual trust."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "SCRIPTURE COMMENTS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Birthday parties, Graduation parties, anniversaries or weddings – all these events are great opportunities to invite your friends that don’t know Jesus yet, to honor them and to deepen your relationship with them. Matthew got to know Jesus and immediately threw a party for his fellow tax collectors. He honored them with generosity and gave them an opportunity to get to know Jesus and his disciples themselves. Apparently, Jesus was his role model, since Jesus ate and celebrated often with people that didn’t conform to behavioral standards or even had a shady reputation. Other than with the Pharisees and Sadducees, who continuously pointed out their flaws , people felt very comfortable in Jesus’ company. He showed them with appreciation by regarding and treating them as beloved sons and daughters of God. In such an atmosphere of honor and freedom, people opened up to the truth. This in turn lead them to reflect their actions, to repent and start over (Luke 19:7-8)."
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

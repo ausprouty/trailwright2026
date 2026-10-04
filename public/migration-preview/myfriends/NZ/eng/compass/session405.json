@@ -1,0 +1,210 @@
+{
+  "site": "myfriends",
+  "country": "NZ",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session405",
+  "sortOrder": 4,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "FLASHBACK",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What did you experience with God this week?",
+          "In the last few days, did you have the opportunity to share an experience with God with someone close to you that doesn’t know Jesus yet? Or could you pray for them or help them practically?",
+          "Do you need God‘s help in an area of your life?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "BIBLE STUDY",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage silently. What words or phrases stick out?",
+          "One person reads the passage out loud.",
+          "One person retells the passage in his/her own words (Bibles closed).",
+          "If necessary, the others complement what was said (Bibles closed)."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "John 10:27-28",
+        "html": "<p class=\"bible\"><sup>27</sup><span class=\"unknown\"> My sheep listen to my voice; I know them, and they follow me. </span><sup>28</sup> I give them eternal life, and they shall never perish; no one will snatch them out of my hand. </p><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=John%2010:27-28&version=TNIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Acts 9:10-19",
+        "html": "<p class=\"bible\"><sup>10</sup> In Damascus there was a disciple named Ananias. The Lord called to him in a vision, “Ananias!” </p><p class=\"bible\">“Yes, Lord,” he answered.</p><p class=\"bible\"><sup>11</sup>The Lord told him, “Go to the house of Judas on Straight Street and ask for a man from Tarsus named Saul, for he is praying.<sup>12</sup>In a vision he has seen a man named Ananias come and place his hands on him to restore his sight.” </p><p class=\"bible\"><sup>13</sup>“Lord,” Ananias answered, “I have heard many reports about this man and all the harm he has done to your holy people in Jerusalem.<sup>14</sup>And he has come here with authority from the chief priests to arrest all who call on your name.” </p><p class=\"bible\"><sup>15</sup>But the Lord said to Ananias, “Go! This man is my chosen instrument to proclaim my name to the Gentiles and their kings and to the people of Israel.<sup>16</sup>I will show him how much he must suffer for my name.” </p><p class=\"bible\"><sup>17</sup>Then Ananias went to the house and entered it. Placing his hands on Saul, he said, “Brother Saul, the Lord—Jesus, who appeared to you on the road as you were coming here—has sent me so that you may see again and be filled with the Holy Spirit.”<sup> 18 </sup>Immediately, something like scales fell from Saul’s eyes, and he could see again. He got up and was baptized,<sup>19</sup>and after taking some food, he regained his strength. </p><p class=\"bible\">Saul spent several days with the disciples in Damascus.</p><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%209:10-19&version=TNIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Everyone by themselves:<ul class=\"arrows\"><li> What words or phrases stick out now? Are there any differences to what you noticed before? </li><li>Why do you feel drawn to those words or phrases?</li><li>What could God be telling you?</li><li>What can you learn about mankind?</li></ul>",
+          "Share in the group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "SPECIFIC QUESTIONS & ACTION STEPS",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Why is it so important to hear God’s voice?",
+          "Do you believe, that God can speak to you personally?",
+          "In which area of your life do you need God’s guidance and wisdom? Pause for a second and ask Jesus in a silent prayer. Write down the thoughts/impressions that come into your mind (everyone by themselves). Then share it in the group.",
+          "How did you experience God speaking to you and where did you find yourself hindered to do so? Here are some tips:"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session405-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ This is how you can pray: “Dear heavenly Father, I thank You that You will speak to me today through Your Holy Spirit. I submit my soul and hence my will, my emotions, and my intellect to Your authority. I want to reach out to You and do only what You tell me to do. Make the eyes and ears of my heart sensitive to You. Teach me to discern Your speaking and my thoughts, so that I am lead by the Holy Spirit and not by my own wishful thinking or my surroundings.”"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "SCRIPTURE COMMENTS",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Basic principles:</strong>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "God’s word reveals His specific will and His general will (see Matthew 28:18-20).",
+                  "<span class=\"unknown\">“</span>Your kingdom come” (Luke 11:2) should be our first and foremost thought in decision making.",
+                  "In many specific situations, we do not find a direct answer in the Bible, so it is important to develop sensitivity for God’s will over time. Our recognition of His will grows alongside our familiarity with God (Romans 12:2)."
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus is our role model in everything. He did only what He saw the Father do (John 5:19). We are called to live the same way. Therefore it is vital that we learn to hear and discern God’s voice."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Life Story:</strong>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Gladys Aylward (born on February 24, 1902, in London) came to Yangcheng in the Chinese province of Shanxi in 1932 to tell people about Jesus."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "During the Chinese-Japanese war she took in many orphans. In 1940, the situation worsened. After Japanese aircraft bombed Yangcheng, she asked God what they could do. <span class=\"unknown\">“</span>She is waiting in her halfway destroyed chamber with a profound faith for an order from her King. Her soul is searching out and hearkening, just as Samuel did when he said: “Speak, for your servant is listening” (1 Samuel 3:10). And the Lord speaks, and her soul receives faith in His order: “Flee...!” There was no trace of doubt left. The Lord spoke, therefore she has to leave.”"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "(Translated from: Mijnders-van Woerden, M.A.: Gladys Aylward – Die Frau mit dem Buch, p.182)."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "After hearning God’s word, she and almost a hundred chidren fled by foot over the mountains to Xi’an. On her way they continuously encountered situations, where they needed to ask God for directions and heard from Him what they should do. In doing so, they experienced His guidance and protection."
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

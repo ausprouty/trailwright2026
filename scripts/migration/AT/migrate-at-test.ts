@@ -1,4 +1,4 @@
-// npx tsx scripts/migration/compass/migrate-compass-test.ts
+// npx tsx scripts/migration/at/migrate-at-test.ts
 
 import fs from 'node:fs/promises';
 import path from 'node:path';

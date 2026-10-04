@@ -1,0 +1,141 @@
+{
+  "site": "myfriends",
+  "country": "NZ",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session413",
+  "sortOrder": 12,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "FLASHBACK",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What did you experience with God this week?",
+          "In the last few days, did you have the opportunity to share an experience with God with someone close to you that doesn’t know Jesus yet? Or could you pray for them or help them practically?",
+          "Do you need God‘s help in an area of your life?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "BIBLE STUDY",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage silently. What words or phrases stick out?",
+          "One person reads the passage out loud.",
+          "One person retells the passage in his/her own words (Bibles closed).",
+          "If necessary, the others complement what was said (Bibles closed)."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Proverbs 3:1-12",
+        "html": "<p class=\"bible\"><sup>1</sup>My son, do not forget my teaching, </p> but keep my commands in your heart,<br><sup>2</sup>for they will prolong your life many years<br> and bring you peace and prosperity. <div class=\"poetry top-05\"><p class=\"bible\"><sup>3</sup>Let love and faithfulness never leave you;<br> bind them around your neck,<br> write them on the tablet of your heart.<br><sup>4</sup>Then you will win favor and a good name in the sight of God and man. </p></div><div class=\"poetry top-05\"><p class=\"bible\"><sup>5</sup>Trust in the <span class=\"small-caps\">Lord</span> with all your heart<br> and lean not on your own understanding;<br><sup>6</sup>in all your ways submit to him, and he will make your paths straight. </p></div><div class=\"poetry top-05\"><p class=\"bible\"><sup>7</sup>Do not be wise in your own eyes;<br> fear the <span class=\"small-caps\">Lord</span> and shun evil.<br><sup>8</sup>This will bring health to your body and nourishment to your bones. </p></div><div class=\"poetry top-05\"><p class=\"bible\"><sup>9</sup>Honor the <span class=\"small-caps\">Lord</span> with your wealth,<br> with the firstfruits of all your crops;<br><sup>10</sup>then your barns will be filled to overflowing, and your vats will brim over with new wine. </p></div><div class=\"poetry top-05\"><p class=\"bible\"><sup>11</sup>My son, do not despise the <span class=\"small-caps\">Lord</span>’s discipline,<br> and do not resent his rebuke,<br><sup>12</sup>because the <span class=\"small-caps\">Lord</span> disciplines those he loves, as a father the son he delights in. </p><p class=\"bible\"><br></p></div>",
+        "url": "https://biblegateway.com/passage/?search=Proverbs%203:1-12&version=TNIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Everyone by themselves:<ul class=\"arrows\"><li> What words or phrases stick out now? Are there any differences to what you noticed before? </li><li>Why do you feel drawn to those words or phrases?</li><li>What could God be telling you?</li><li>What can you learn about mankind?</li></ul>",
+          "Share in the group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "SPECIFIC QUESTIONS & ACTION STEPS",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What could verses 9 and 10 mean for you personally? What is <span class=\"unknown\">“</span>the best of your harvest” for you at the moment?",
+          "Is there a situation in your life or an area of your life where you definitely need to apply verse 5?",
+          "What would you like to hold on to from what you‘ve learned today? Is there something specific the Holy Spirit challenges you to do? Write both down and share it with the group"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session413-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Prayer: Tell God that you want to trust Him with your tomorrow and everything that lies ahead of you."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray in groups of 2-3 for your friends (see “The Call”) and for opportunities within the next few days to share an experience with Jesus with them. Pray that you can pray with them, so they can experience God personally."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    }
+  ]
+}

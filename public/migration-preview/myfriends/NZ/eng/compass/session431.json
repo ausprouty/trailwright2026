@@ -1,0 +1,118 @@
+{
+  "site": "myfriends",
+  "country": "NZ",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session431",
+  "sortOrder": 30,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "FLASHBACK",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What did you experience with God this week?",
+          "In the last few days, did you have the opportunity to share an experience with God with someone close to you that doesn’t know Jesus yet? Or could you pray for them or help them practically?",
+          "Do you need God‘s help in an area of your life?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "BIBLE STUDY",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Read the passage silently. What words or phrases stick out?",
+          "One person reads the passage out loud.",
+          "One person retells the passage in his/her own words (Bibles closed).",
+          "If necessary, the others complement what was said (Bibles closed)."
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Acts 8:1-8",
+        "html": "<p class=\"bible\"><sup>1</sup>On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria.<sup>2</sup>Godly men buried Stephen and mourned deeply for him.<sup> 3 </sup>But Saul began to destroy the church. Going from house to house, he dragged off both men and women and put them in prison. </p><p class=\"bible\"><sup>4</sup>Those who had been scattered preached the word wherever they went.<sup>5</sup>Philip went down to a city in Samaria and proclaimed the Messiah there.<sup> 6 </sup>When the crowds heard Philip and saw the signs he performed, they all paid close attention to what he said.<sup>7</sup>For with shrieks, impure spirits came out of many, and many who were paralyzed or lame were healed.<sup>8</sup>So there was great joy in that city. </p><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%208:1-8&version=TNIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Everyone by themselves:<ul class=\"arrows\"><li> What words or phrases stick out now? Are there any differences to what you noticed before? </li><li>Why do you feel drawn to those words or phrases?</li><li>What could God be telling you?</li><li>What can you learn about mankind?</li></ul>",
+          "Share in the group."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "SPECIFIC QUESTIONS & ACTION STEPS",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ Pray for protection, courage of faith and prudence for persecuted Christians in Syria, Turkey, Iraq, Iran, Pakistan, Egypt, Algeria, Tunisia and Morocco. Maybe you have additional information and prayer requests from and for these countries. E.g. from Open Doors or similar organisations."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    }
+  ]
+}

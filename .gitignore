@@ -47,4 +47,7 @@ translator.env
 # Transitonal files
 /data
 
+# Ignore all ZIP files in any directory
+*.zip
+
 

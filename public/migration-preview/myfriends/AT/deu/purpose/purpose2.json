@@ -1,0 +1,142 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "purpose",
+  "lessonId": "purpose2",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ZUSAMMENKOMMEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Wo brauchst du Gottes Hilfe? Wie können wir dir praktisch helfen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreinander.</p>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "purpose-purpose2-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ENTDECKEN"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Epheser 2,9-10",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>9</sup>Ihr werdet also nicht aufgrund eurer guten Taten gerettet, damit sich niemand etwas darauf einbilden kann. <!--]--><!--[--><sup>10</sup>Denn wir sind Gottes Schöpfung. Er hat uns in Christus Jesus neu geschaffen, damit wir die guten Taten ausführen, die er für unser Leben vorbereitet hat.<!--]--><!--[--><h4 class=\"bible\"></h4><!-- end bible --></div><!-- end bible -->",
+        "url": "https://bibleserver.com/NLB/Epheser%202,9-10",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Lest den Text leise für euch und danach laut vor."
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibeln). Wurde etwas weggelassen oder ergänzt?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Was kannst du in diesem Text über Gott und die Menschen lernen?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "purpose-purpose2-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "WEITERGEBEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "In welche Bereiche deines Lebens spricht Gott durch diesen Text? Was wirst du in den nächsten Tagen umsetzen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "icon": "challenges",
+            "text": "Wem wirst du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem wirst du beten?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "purpose-purpose2-i-will"
+      }
+    }
+  ]
+}

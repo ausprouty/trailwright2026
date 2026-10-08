@@ -1,0 +1,142 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "leben",
+  "lessonId": "leben03",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ZUSAMMENKOMMEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Wo brauchst du Gottes Hilfe? Wie können wir dir praktisch helfen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreinander.</p>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "leben-leben03-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ENTDECKEN"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthäus 5: 33-37",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>33</sup>Ihr habt auch gehört, dass es im Gesetz von Mose heißt: ›Du sollst einen Schwur nicht brechen; du sollst die Versprechen, die du vor dem Herrn abgelegt hast, halten.‹ <sup>34</sup>Ich aber sage: Schwört überhaupt nicht! Wenn ihr sagt: ›Beim Himmel!‹, dann ist das ein heiliger Schwur, denn der Himmel ist Gottes Thron. <sup>35</sup>Und wenn ihr sagt: ›Bei der Erde!‹, dann ist auch das ein heiliger Schwur, denn die Erde ist seine Fußbank. Und schwört auch nicht: ›Bei Jerusalem!‹, denn Jerusalem ist die Stadt des großen Königs. <sup>36</sup>Schwört nicht einmal: ›Bei meinem Kopf!‹, denn ihr könnt kein einziges Haar auf eurem Kopf weiß oder schwarz machen. <sup>37</sup>Sagt einfach ›Ja‹ oder ›Nein‹. Jedes Wort darüber hinaus ist vom Bösen.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Matthäus%205:%2033-37",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Lest den Text leise für euch und danach laut vor."
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibeln). Wurde etwas weggelassen oder ergänzt?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Was kannst du in diesem Text über Gott und die Menschen lernen?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "leben-leben03-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "WEITERGEBEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "In welche Bereiche deines Lebens spricht Gott durch diesen Text? Was wirst du in den nächsten Tagen umsetzen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "icon": "challenges",
+            "text": "Wem wirst du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem wirst du beten?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "leben-leben03-i-will"
+      }
+    }
+  ]
+}

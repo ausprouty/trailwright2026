@@ -1,0 +1,155 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "hoffnung",
+  "lessonId": "hoffnung05",
+  "sortOrder": 4,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ZUSAMMENKOMMEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Wo brauchst du Gottes Hilfe? Wie können wir dir praktisch helfen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreinander.</p>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "hoffnung-hoffnung05-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ENTDECKEN"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lukas 18:9-17",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>9</sup>Dann erzählte Jesus ein paar Leuten, die sehr selbstgerecht waren und alle anderen mit Geringschätzung behandelten, folgendes Gleichnis: <sup>10</sup>»Zwei Männer gingen in den Tempel, um zu beten. Der eine war ein Pharisäer, der andere ein Steuereintreiber. <sup>11</sup>Der stolze Pharisäer stand da und betete: ›Ich danke dir, Gott, dass ich kein Sünder bin wie die anderen Menschen, wie die Räuber und die Ungerechten, die Ehebrecher oder besonders wie dieser Steuereintreiber da! Denn ich betrüge niemanden, ich begehe keinen Ehebruch, <sup>12</sup>ich faste zwei Mal in der Woche und gebe dir regelmäßig den zehnten Teil von meinem Einkommen.‹ <sup>13</sup>Der Steuereintreiber dagegen blieb in einigem Abstand stehen und wagte nicht einmal den Blick zu heben, während er betete: ›O Gott, sei mir gnädig, denn ich bin ein Sünder.‹ <sup>14</sup>Ich sage euch, dieser Sünder – und nicht der Pharisäer – kehrte heim als ein vor Gott Gerechtfertigter. Denn die Stolzen werden gedemütigt, die Demütigen aber werden geehrt werden. « <h4 class=\"bible\">Jesus segnet die Kinder</h4><sup>15</sup>Eines Tages brachten Eltern ihre kleinen Kinder zu Jesus. Er sollte ihnen die Hand auflegen und für sie beten. Doch die Jünger fuhren die Leute an, ihn nicht zu belästigen. <sup>16</sup>Da rief Jesus die Kinder zu sich und sagte zu den Jüngern: »Lasst die Kinder doch zu mir kommen. Hindert sie nicht daran! Denn solchen gehört das Reich Gottes. <sup>17</sup>Ich versichere euch: Wer nicht wie ein Kind glaubt, wird nicht ins Reich Gottes kommen.«<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Lukas%2018:9-17",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lukas 18:9-17",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=",
+        "source": "arclight",
+        "refId": "",
+        "startTime": "start",
+        "endTime": "1:46",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Lest den Text leise für euch und danach laut vor."
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibeln). Wurde etwas weggelassen oder ergänzt?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Was kannst du in diesem Text über Gott und die Menschen lernen?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "hoffnung-hoffnung05-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "WEITERGEBEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "In welche Bereiche deines Lebens spricht Gott durch diesen Text? Was wirst du in den nächsten Tagen umsetzen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "icon": "challenges",
+            "text": "Wem wirst du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem wirst du beten?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "hoffnung-hoffnung05-i-will"
+      }
+    }
+  ]
+}

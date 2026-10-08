@@ -1,0 +1,142 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "community",
+  "lessonId": "community7",
+  "sortOrder": 6,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ZUSAMMENKOMMEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Wo brauchst du Gottes Hilfe? Wie können wir dir praktisch helfen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreinander.</p>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "community-community7-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ENTDECKEN"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Epheser 4,31-5,2",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>31</sup>Befreit euch von Bitterkeit und Wut, von Ärger, harten Worten und übler Nachrede sowie jeder Art von Bosheit. <!--]--><!--[--><sup>32</sup>Seid stattdessen freundlich und mitfühlend zueinander und vergebt euch gegenseitig, wie auch Gott euch durch Christus vergeben hat. <!--]--><!--]--><!-- end bible --></div><div><!-- begin bible --><sup>1</sup>Folgt in allem Gottes Beispiel, denn ihr seid seine geliebten Kinder. <!--]--><!--[--><sup>2</sup>Euer Leben soll von Liebe geprägt sein, wie auch Christus uns geliebt hat, denn er hat sich selbst als Gabe und Opfer für unsere Sünden gegeben. Und Gott hatte Gefallen an diesem Opfer, das wie ein wohlriechender Duft zu ihm aufstieg. <!--]--><!--[--><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Ephesians%205:1-2",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Lest den Text leise für euch und danach laut vor."
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibeln). Wurde etwas weggelassen oder ergänzt?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Was kannst du in diesem Text über Gott und die Menschen lernen?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "community-community7-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "WEITERGEBEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "In welche Bereiche deines Lebens spricht Gott durch diesen Text? Was wirst du in den nächsten Tagen umsetzen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "icon": "challenges",
+            "text": "Wem wirst du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem wirst du beten?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "community-community7-i-will"
+      }
+    }
+  ]
+}

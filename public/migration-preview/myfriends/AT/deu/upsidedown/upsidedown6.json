@@ -1,0 +1,226 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "upsidedown",
+  "lessonId": "upsidedown6",
+  "sortOrder": 5,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "AUSTAUSCHEN",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(10 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du diese Woche mit Gott erlebt?",
+          "Wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?",
+          "Betet füreinander."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "RÜCKBLICK",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(10 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?",
+          "Wie geht es den Menschen, welche dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LESEN",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(15 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Lest den Text laut vor.",
+          "Jemand erzählt in eigenen Worten den Text nach, mit Unterstützung der Gruppe.",
+          "Wurde etwas weggelassen oder ergänzt?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthäus 7:1-14",
+        "html": "<!-- begin bible --><div><p><!-- begin bible --><sup>1</sup>Hört auf, andere zu verurteilen, dann werdet auch ihr nicht verurteilt. <!--]--><!--[--><sup>2</sup>Denn andere werden euch so behandeln, wie ihr sie behandelt. Der Maßstab, nach dem ihr andere beurteilt, wird auch an euch angelegt werden, wenn man euch beurteilt.<!--]--><!--[--><sup>3</sup>Warum regst du dich über einen Splitter im Auge deines Nächsten auf, wenn du selbst einen Balken im Auge hast? <!--]--><!--[--><sup>4</sup>Mit welchem Recht sagst du: ›Mein Freund, komm, ich helfe dir, den Splitter aus deinem Auge zu ziehen‹, wenn du doch nicht über den Balken in deinem eigenen Auge hinaussehen kannst?<!--]--><!--[--><sup>5</sup>Du Heuchler! Zieh erst den Balken aus deinem eigenen Auge; dann siehst du vielleicht genug, um dich mit dem Splitter im Auge deines Freundes zu befassen.<!--]--><!--[--><sup>6</sup>Gebt das, was heilig ist, nicht Menschen, denen nichts heilig ist. Werft keine Perlen vor die Säue! Sie zertrampeln die Perlen, drehen sich um und stürzen sich auf euch.</p><p><sup>7</sup>Bittet, und ihr werdet erhalten. Sucht, und ihr werdet finden. Klopft an, und die Tür wird euch geöffnet werden. <!--]--><!--[--><sup>8</sup>Denn wer bittet, wird erhalten. Wer sucht, wird finden. Und die Tür wird jedem geöffnet, der anklopft.<!--]--><!--[--><sup>9</sup>Ihr Eltern – wenn euch eure Kinder um ein Stück Brot bitten, gebt ihr ihnen dann stattdessen einen Stein?<!--]--><!--[--><sup>10</sup>Oder wenn sie euch um einen Fisch bitten, gebt ihr ihnen eine Schlange? Natürlich nicht!<!--]--><!--[--><sup>11</sup>Wenn ihr, die ihr Sünder seid, wisst, wie man seinen Kindern Gutes tut, wie viel mehr wird euer Vater im Himmel denen, die ihn darum bitten, Gutes tun.<!--]--><!--[--></p><p><sup>12</sup>Geht so mit anderen um, wie die anderen mit euch umgehen sollen. In diesem Satz sind das Gesetz und die Propheten zusammengefasst.</p><p><sup>13</sup>Ihr könnt das Reich Gottes nur durch das enge Tor betreten. Die Straße zur Hölle ist breit und ihre Tür steht für die vielen weit offen, die sich für den bequemen Weg entscheiden.<!--]--><!--[--><sup>14</sup>Das Tor zum Leben dagegen ist eng und der Weg dorthin ist schmal, deshalb finden ihn nur wenige. <!--]--><!--[--></p><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Matthäus%207:1-14",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "ENTDECKEN",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(10 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?",
+          "Was kannst du in diesem Text über Gott und über die Menschen lernen?",
+          "Wie bezieht sich diese Geschichte auf das Thema “Upside down”?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "ANWENDEN",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "“ANWENDEN - Warum es mehr ist als ein altes Buch?”",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Wir sind eingeladen und aufgefordert, Gott zu gehorchen. Was wir über ihn oder uns in der Bibel entdecken, hat mit unserem Leben zu tun!"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Wenn Gott dir begegnet, ändern sich Dinge in deinem Leben. Er überrascht uns immer wieder. Manchmal zeigt er dir etwas ganz Neues über sich in einem Bibeltext. Lass dich darauf ein!"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Gemeinsam mit anderen fragst du Gott, was er von dir als Antwort auf deine Entdeckungen möchte. Sei konkret, und wenn du einmal keine Idee hast, können dir vielleicht die anderen in deiner Gruppe weiterhelfen."
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "<strong>TIPP: Formuliere einen Satz: “Ich werde bis…” und setze gleich um, was du dir vorgenommen hast!</strong>",
+                  "<strong>TIPP: Wenn du nach dem Summer Camp mit Freunden die Bibel entdeckst, ist dieser Punkt besonders wichtig. Freu dich darüber, wie Gott heute noch redet und wirkt. Es geht nicht so sehr um Information, sondern darum, Gott kennenzulernen und zu tun, was er sagt.</strong>"
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(15 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Verändert der Text die Art, wie du über Gott denkst, wie du lebst und wie du mit anderen Menschen umgehst?",
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Gibt es: <ul><li>etwas an deinem Verhalten, das du ändern sollst?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du vom Entdeckten bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis…”",
+          "Sag Gott in deinen eigenen Worten, was dich bewegt."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "upsidedown-upsidedown6-i-will"
+      }
+    }
+  ]
+}

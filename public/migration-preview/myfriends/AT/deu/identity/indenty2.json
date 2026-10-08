@@ -1,0 +1,142 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "identity",
+  "lessonId": "indenty2",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ZUSAMMENKOMMEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Wo brauchst du Gottes Hilfe? Wie können wir dir praktisch helfen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreinander.</p>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "identity-indenty2-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ENTDECKEN"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Römer 8,28-39",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>28</sup>Und wir wissen, dass für die, die Gott lieben und nach seinem Willen zu ihm gehören, alles zum Guten zusammenwirkt. <!--]--><!--[--><sup>29</sup>Denn Gott hat sie schon vor Beginn der Zeit auserwählt und hat sie vorbestimmt, seinem Sohn gleich zu werden, damit sein Sohn der Erstgeborene unter vielen Geschwistern werde. <!--]--><!--[--><sup>30</sup>Und da er sie erwählt hat, hat er sie auch berufen, zu ihm zu kommen. Er hat sie gerecht gesprochen und hat ihnen Anteil an seiner Herrlichkeit gegeben. <sup>31</sup>Was kann man dazu noch sagen? Wenn Gott für uns ist, wer kann da noch gegen uns sein? <!--]--><!--[--><sup>32</sup>Gott hat nicht einmal seinen eigenen Sohn verschont, sondern hat ihn für uns alle gegeben. Und wenn Gott uns Christus gab, wird er uns mit ihm dann nicht auch alles andere schenken? <!--]--><!--[--><sup>33</sup>Wer wagt es, gegen die Anklage zu erheben, die von Gott auserwählt wurden? Gott selbst ist ja der, der sie gerecht spricht. <!--]--><!--[--><sup>34</sup>Wer sollte uns verurteilen? Christus Jesus selbst ist ja für uns gestorben. Mehr noch, er ist der Auferstandene. Er sitzt auf dem Ehrenplatz zur rechten Seite Gottes und tritt für uns ein. <!--]--><!--[--><sup>35</sup>Kann uns noch irgendetwas von der Liebe trennen, die Christus zu uns hat? Wenn wir vielleicht in Not oder Angst geraten, verfolgt werden, hungern, frieren, in Gefahr sind oder sogar vom Tod bedroht werden? <!--]--><!--[--><sup>36</sup>Schon in der Schrift heißt es: »Weil wir an dir festhalten, werden wir jeden Tag getötet, wir werden geschlachtet wie Schafe.« <!--]--><!--[--><sup>37</sup>Aber trotz all dem tragen wir einen überwältigenden Sieg davon durch Christus, der uns geliebt hat. <!--]--><!--[--><sup>38</sup>Ich bin überzeugt: Nichts kann uns von seiner Liebe trennen. Weder Tod noch Leben, weder Engel noch Mächte, weder unsere Ängste in der Gegenwart noch unsere Sorgen um die Zukunft, ja nicht einmal die Mächte der Hölle können uns von der Liebe Gottes trennen. <!--]--><!--[--><sup>39</sup>Und wären wir hoch über dem Himmel oder befänden uns in den tiefsten Tiefen des Ozeans, nichts und niemand in der ganzen Schöpfung kann uns von der Liebe Gottes trennen, die in Christus Jesus, unserem Herrn, erschienen ist. <!--]--><!--]--><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Römer%208,28-39",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Lest den Text leise für euch und danach laut vor."
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibeln). Wurde etwas weggelassen oder ergänzt?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Was kannst du in diesem Text über Gott und die Menschen lernen?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "identity-indenty2-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "WEITERGEBEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "In welche Bereiche deines Lebens spricht Gott durch diesen Text? Was wirst du in den nächsten Tagen umsetzen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "icon": "challenges",
+            "text": "Wem wirst du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem wirst du beten?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "identity-indenty2-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "hoffnung",
+  "lessonId": "hoffnung07",
+  "sortOrder": 6,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ZUSAMMENKOMMEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Wo brauchst du Gottes Hilfe? Wie können wir dir praktisch helfen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreinander.</p>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "hoffnung-hoffnung07-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ENTDECKEN"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lukas 15:11-32",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>11</sup>Und Jesus erzählte ihnen auch folgendes Gleichnis: »Ein Mann hatte zwei Söhne. <sup>12</sup>Der jüngere Sohn sagte zu seinem Vater: ›Ich möchte mein Erbteil von deinem Besitz schon jetzt haben.‹ Da erklärte der Vater sich bereit, seinen Besitz zwischen seinen Söhnen aufzuteilen. <sup>13</sup>Einige Tage später packte der jüngere Sohn seine Sachen und ging auf Reisen in ein fernes Land, wo er sein ganzes Geld verprasste. <sup>14</sup>Etwa um die Zeit, als ihm das Geld ausging, brach in jenem Land eine große Hungersnot aus, und er hatte nicht genug zu essen. <sup>15</sup>Da überredete er einen Bauern, ihm Arbeit zu geben, und er durfte seine Schweine hüten. <sup>16</sup>Der junge Mann war so hungrig, dass er die Schoten, die er an die Schweine verfütterte, am liebsten selbst gegessen hätte. Aber niemand gab ihm etwas. <sup>17</sup>Schließlich überlegte er und sagte sich: ›Daheim haben die Tagelöhner mehr als genug zu essen, und ich sterbe hier vor Hunger! <sup>18</sup>Ich will zu meinem Vater nach Hause gehen und sagen: Vater, ich habe gesündigt, gegen den Himmel und auch gegen dich, <sup>19</sup>und ich bin es nicht mehr wert, dein Sohn zu heißen. Bitte stell mich als einen deiner Tagelöhner ein.‹ <sup>20</sup>So kehrte er zu seinem Vater nach Hause zurück. Er war noch weit entfernt, als sein Vater ihn kommen sah. Voller Liebe und Mitleid lief er seinem Sohn entgegen, schloss ihn in die Arme und küsste ihn. <sup>21</sup>Sein Sohn sagte zu ihm: ›Vater, ich habe gesündigt, gegen den Himmel und auch gegen dich, und bin es nicht mehr wert, dein Sohn zu heißen. ‹ <sup>22</sup>Aber sein Vater sagte zu den Dienern: ›Schnell! Bringt die besten Kleider im Haus und zieht sie ihm an. Holt einen Ring für seinen Finger und Sandalen für seine Füße. <sup>23</sup>Und schlachtet das Kalb, das wir im Stall gemästet haben, <sup>24</sup>denn mein Sohn hier war tot und ist ins Leben zurückgekehrt. Er war verloren, aber nun ist er wiedergefunden.‹ Und ein Freudenfest begann. <sup>25</sup>Währenddessen war der ältere Sohn draußen auf den Feldern und arbeitete. Als er heimkam, hörte er Musik und Tanz im Haus <sup>26</sup>und fragte einen der Diener, was da los sei. <sup>27</sup>›Dein Bruder ist wieder da‹, erfuhr er, ›und dein Vater hat das Kalb geschlachtet, das wir gemästet hatten, und gibt nun ein großes Fest. Wir feiern, dass er wohlbehalten zurückgekehrt ist.‹ <sup>28</sup>Da wurde der ältere Bruder zornig und wollte nicht ins Haus gehen. Sein Vater kam heraus und redete ihm zu, <sup>29</sup>aber er sagte: ›All die Jahre habe ich schwer für dich gearbeitet und dir nicht ein einziges Mal widersprochen, wenn du mir etwas aufgetragen hast. Und in dieser ganzen Zeit hast du mir nicht einmal eine junge Ziege gegeben, um mit meinen Freunden ein Fest zu feiern. <sup>30</sup>Doch jetzt, wenn dein Sohn daherkommt, nachdem er dein Geld mit Huren durchgebracht hat, feierst du und schlachtest unser bestes Kalb.‹ <sup>31</sup>Sein Vater sagte zu ihm: ›Sieh, mein lieber Sohn, du und ich, wir stehen uns sehr nahe, und alles, was ich habe, gehört dir. <sup>32</sup>Wir mussten diesen Freudentag feiern, denn dein Bruder war tot und ist ins Leben zurückgekehrt! Er war verloren, aber jetzt ist er wiedergefunden!‹« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Lukas%2015:11-32",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lukas 15:11-32",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_1106-GOLuke2616",
+        "source": "arclight",
+        "refId": "6_1106-GOLuke2616",
+        "startTime": "start",
+        "endTime": "3:50",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Lest den Text leise für euch und danach laut vor."
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibeln). Wurde etwas weggelassen oder ergänzt?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Was kannst du in diesem Text über Gott und die Menschen lernen?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "hoffnung-hoffnung07-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "WEITERGEBEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "In welche Bereiche deines Lebens spricht Gott durch diesen Text? Was wirst du in den nächsten Tagen umsetzen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "icon": "challenges",
+            "text": "Wem wirst du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem wirst du beten?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "hoffnung-hoffnung07-i-will"
+      }
+    }
+  ]
+}

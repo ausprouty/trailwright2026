@@ -1,0 +1,155 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "hoffnung",
+  "lessonId": "hoffnung03",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ZUSAMMENKOMMEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Wo brauchst du Gottes Hilfe? Wie können wir dir praktisch helfen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreinander.</p>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "hoffnung-hoffnung03-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ENTDECKEN"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Johannes 4:1-26",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Jesus hörte, was den Pharisäern berichtet wurde: »Jesus macht mehr Menschen zu Jüngern und tauft mehr als Johannes.« <sup>2</sup>Allerdings taufte Jesus nicht selbst, sondern seine Jünger. <sup>3</sup>Da verließ er Judäa und ging wieder zurück nach Galiläa. <sup>4</sup>Sein Weg führte ihn durch Samarien. <sup>5</sup>Er kam zu der samaritanischen Stadt Sychar, in der Nähe des Feldes, das Jakob seinem Sohn Josef gegeben hatte. <sup>6</sup>Dort befand sich der Jakobsbrunnen. Erschöpft von der langen Wanderung setzte Jesus sich um die Mittagszeit an den Brunnen. <sup>7</sup>Kurz darauf kam eine Samaritanerin, um Wasser zu schöpfen. Jesus sagte zu ihr: »Bitte, gib mir zu trinken.« <sup>8</sup>Er war zu diesem Zeitpunkt allein, denn seine Jünger waren ins Dorf gegangen, um etwas zu essen zu kaufen. <sup>9</sup>Die Frau war überrascht, denn sonst wollen die Juden nichts mit den Samaritanern zu tun haben. Sie erwiderte: »Du bist ein Jude und ich bin eine Samaritanerin. Warum bittest du mich, dir zu trinken zu geben?« <sup>10</sup>Jesus antwortete: »Wenn du wüsstest, welche Gabe Gott für dich bereithält und wer der ist, der zu dir sagt: ›Gib mir zu trinken‹, dann wärst du diejenige, die ihn bittet, und er würde dir lebendiges Wasser geben.« <sup>11</sup>»Aber, Herr, du hast weder ein Seil noch einen Eimer«, entgegnete sie, »und dieser Brunnen ist sehr tief. Woher willst du denn dieses lebendige Wasser nehmen? <sup>12</sup>Bist du etwa größer als unser Vater Jakob, der uns diesen Brunnen hinterließ? Wie kannst du besseres Wasser versprechen, als er und seine Söhne und sein Vieh hatten?« <sup>13</sup>Jesus erwiderte: »Wenn die Menschen dieses Wasser getrunken haben, werden sie schon nach kurzer Zeit wieder durstig. <sup>14</sup>Wer aber von dem Wasser trinkt, das ich ihm geben werde, der wird niemals mehr Durst haben. Das Wasser, das ich ihm gebe, wird in ihm zu einer nie versiegenden Quelle, die unaufhörlich bis ins ewige Leben fließt.« <sup>15</sup>»Bitte, Herr«, sagte die Frau, »gib mir von diesem Wasser! Dann werde ich nie wieder durstig und brauche nicht mehr herzukommen, um Wasser zu schöpfen.« <sup>16</sup>»Geh, rufe deinen Mann und komm mit ihm hierher«, sagte Jesus zu ihr. <sup>17</sup>»Ich habe keinen Mann«, entgegnete die Frau. Jesus sagte: »Das stimmt! Du hast keinen Mann. <sup>18</sup>Du hattest fünf Ehemänner, und mit dem Mann, mit dem du jetzt zusammenlebst, bist du nicht verheiratet. Das hast du richtig gesagt.« <sup>19</sup>»Herr«, sagte die Frau, »ich sehe, dass du ein Prophet bist. <sup>20</sup>Sage mir doch, warum ihr Juden darauf besteht, dass Jerusalem der einzige Ort ist, um Gott anzubeten. Wir Samaritaner dagegen behaupten, dass es dieser Berg hier ist, wo unsere Vorfahren gebetet haben.« <sup>21</sup>Jesus erwiderte: »Glaube mir, es kommt die Zeit, in der es keine Rolle mehr spielt, ob ihr den Vater hier oder in Jerusalem anbetet. <sup>22</sup>Ihr Samaritaner wisst wenig über den, den ihr anbetet – wir Juden dagegen kennen ihn, denn die Erlösung kommt durch die Juden. <sup>23</sup>Aber die Zeit kommt, ja sie ist schon da, in der die wahren Anbeter den Vater im Geist und in der Wahrheit anbeten. Der Vater sucht Menschen, die ihn so anbeten. <sup>24</sup>Denn Gott ist Geist; deshalb müssen die, die ihn anbeten wollen, ihn im Geist und in der Wahrheit anbeten.« <sup>25</sup>Die Frau sagte: »Ich weiß, dass der Messias kommen wird – der, den man den Christus nennt. Wenn er kommt, wird er uns alle diese Dinge erklären.« <sup>26</sup>Da sagte Jesus zu ihr: »Ich bin es, der mit dir spricht!« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Johannes%204:1-26",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Johannes 4:1-26",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_1106-GOJohn2204",
+        "source": "arclight",
+        "refId": "6_1106-GOJohn2204",
+        "startTime": "start",
+        "endTime": "3:44",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Lest den Text leise für euch und danach laut vor."
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibeln). Wurde etwas weggelassen oder ergänzt?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Was kannst du in diesem Text über Gott und die Menschen lernen?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "hoffnung-hoffnung03-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "WEITERGEBEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "In welche Bereiche deines Lebens spricht Gott durch diesen Text? Was wirst du in den nächsten Tagen umsetzen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "icon": "challenges",
+            "text": "Wem wirst du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem wirst du beten?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "hoffnung-hoffnung03-i-will"
+      }
+    }
+  ]
+}

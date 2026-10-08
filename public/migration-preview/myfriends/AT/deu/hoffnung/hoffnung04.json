@@ -1,0 +1,155 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "hoffnung",
+  "lessonId": "hoffnung04",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ZUSAMMENKOMMEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Wo brauchst du Gottes Hilfe? Wie können wir dir praktisch helfen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreinander.</p>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "hoffnung-hoffnung04-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ENTDECKEN"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lukas 7:1-10",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Nachdem Jesus das alles gesagt hatte, ging er wieder nach Kapernaum. <sup>2</sup>Dort lebte ein römischer Hauptmann, der einen Diener hatte, den er sehr schätzte. Nun war dieser Diener schwer erkrankt und lag im Sterben. <sup>3</sup>Als der Hauptmann von Jesus hörte, schickte er einige angesehene Männer aus dem jüdischen Volk zu ihm und bat ihn, zu kommen und seinen Sklaven zu heilen. <sup>4</sup>Diese baten Jesus inständig, mitzukommen und dem Hauptmann zu helfen. »Wenn jemand deine Hilfe verdient, dann er«, sagten sie, <sup>5</sup>»denn er liebt die Juden und hat uns sogar die Synagoge gebaut.« <sup>6</sup>Da ging Jesus mit ihnen. Doch kurz bevor sie das Haus erreichten, schickte der Hauptmann ihm ein paar Freunde entgegen und ließ ihm ausrichten: »Herr, mach dir nicht die Mühe, in mein Haus zu kommen, denn eine solche Ehre verdiene ich nicht. <sup>7</sup>Ich bin nicht einmal würdig genug, selbst zu dir zu kommen. Sprich einfach ein Wort, und mein Diener wird gesund werden. <sup>8</sup>Ich weiß das, weil ich dem Befehl von Vorgesetzten unterstehe und auch selbst Soldaten befehlige. Ich brauche nur zu einem von ihnen zu sagen: ›Geh‹, dann geht er, oder: ›Komm‹, dann kommt er. Und wenn ich zu meinem Diener sage: ›Tu dies‹, dann tut er es.« <sup>9</sup>Als Jesus das hörte, staunte er. Er wandte sich zu der Menge und sagte: »Ich sage euch, einen solchen Glauben habe ich in ganz Israel nicht erlebt!« <sup>10</sup>Und als die Freunde des Hauptmanns in sein Haus zurückkehrten, fanden sie den Diener gesund.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Lukas%207:1-10",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lukas 7:1-10",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2607",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2607",
+        "startTime": "start",
+        "endTime": "1:55",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Lest den Text leise für euch und danach laut vor."
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibeln). Wurde etwas weggelassen oder ergänzt?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Was kannst du in diesem Text über Gott und die Menschen lernen?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "hoffnung-hoffnung04-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "WEITERGEBEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "In welche Bereiche deines Lebens spricht Gott durch diesen Text? Was wirst du in den nächsten Tagen umsetzen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "icon": "challenges",
+            "text": "Wem wirst du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem wirst du beten?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "hoffnung-hoffnung04-i-will"
+      }
+    }
+  ]
+}

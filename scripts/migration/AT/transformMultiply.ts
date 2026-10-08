@@ -17,6 +17,8 @@ export function transformMultiply(html: string, context: TransformContext) {
   const json = migrateOldLessonHtmlToEditorJs(html, {
     includeTime: true,
     includeVersion: true,
+    series: context.series,
+    lessonId: context.lessonId,
   });
 
   const baseName = context.sourceFile.replace(/\.html$/i, '');

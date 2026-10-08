@@ -1,0 +1,231 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "upsidedown",
+  "lessonId": "upsidedown2",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "AUSTAUSCHEN",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Warum starten wir mit AUSTAUSCH?",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Du triffst dich mit anderen, um die Bibel zu entdecken. Jeder hat verschiedene Erfahrungen gemacht, und es ist gut, einander zuzuhören und offen zu sein, mehr über die anderen herauszufinden."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Außerdem kannst du hier deine Dankbarkeit mitteilen. Egal ob du an Gott glaubst oder nicht, es gibt höchstwahrscheinlich Gründe, dankbar zu sein! Startet mit etwas, wofür ihr dankbar seid, bevor ihr zu den nächsten Fragen kommt."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Die nächsten Fragen helfen euch, füreinander da zu sein. Wo brauchst du Gottes Hilfe? Tauscht kurz darüber aus."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Auch praktische Hilfe ist wichtig! Wir wollen uns umeinander kümmern. Für Gott sind unsere Anliegen ebenso wichtig. Betet deshalb am Ende des Austausches füreinander."
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "<strong>TIPP: Versuche für Austausch und Rückblick nicht zu lange zu brauchen, damit für die anderen Punkte noch genügend Zeit übrig ist!</strong>"
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(10 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du gestern mit Gott erlebt?",
+          "Wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?",
+          "Betet füreinander."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "RÜCKBLICK",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(10 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?",
+          "Wie geht es den Menschen, welche dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LESEN",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(15 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Lest den Text laut vor.",
+          "Jemand erzählt in eigenen Worten den Text nach, mit Unterstützung der Gruppe.",
+          "Wurde etwas weggelassen oder ergänzt?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthäus 5:1-12",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Eines Tages, als sich immer mehr Menschen um Jesus sammelten, stieg er mit seinen Jüngern auf einen Berg und setzte sich dort hin, um sie zu unterrichten.<br><sup>2</sup>Und das lehrte er sie:<!--]--><!--[--><sup>3</sup>»Glücklich sind die, die erkennen, dass sie Gott brauchen, denn ihnen wird das Himmelreich geschenkt. <!--]--><!--[--><sup>4</sup>Glücklich sind die, die traurig sind, denn sie werden getröstet werden. <!--]--><!--[--><sup>5</sup>Glücklich sind die Freundlichen und Bescheidenen, denn ihnen wird die ganze Erde gehören. <!--]--><!--[--><sup>6</sup>Glücklich sind die, die nach Gerechtigkeit hungern und dürsten, denn sie werden sie im Überfluss erhalten. <!--]--><!--[--><sup>7</sup>Glücklich sind die Barmherzigen, denn sie werden Barmherzigkeit erfahren. <!--]--><!--[--><sup>8</sup>Glücklich sind die, die ein reines Herz haben, denn sie werden Gott sehen. <!--]--><!--[--><sup>9</sup>Glücklich sind die, die sich um Frieden bemühen, denn sie werden Kinder Gottes genannt werden. <!--]--><!--[--><sup>10</sup>Glücklich sind die, die verfolgt werden, weil sie in Gottes Gerechtigkeit leben, denn das Himmelreich wird ihnen gehören. <!--]--><!--[--><sup>11</sup>Glücklich seid ihr, wenn ihr verspottet und verfolgt werdet und wenn Lügen über euch verbreitet werden, weil ihr mir nachfolgt. <!--]--><!--[--><sup>12</sup>Freut euch darüber! Jubelt! Denn im Himmel erwartet euch eine große Belohnung. Und denkt daran, auch die Propheten sind einst verfolgt worden. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Matthäus%205:1-12",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "ENTDECKEN",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(10 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?",
+          "Was kannst du in diesem Text über Gott und über die Menschen lernen?",
+          "Wie bezieht sich diese Geschichte auf das Thema “Upside down”?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "ANWENDEN",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(15 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Verändert der Text die Art, wie du über Gott denkst, wie du lebst und wie du mit anderen Menschen umgehst?",
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Gibt es: <ul><li>etwas an deinem Verhalten, das du ändern sollst?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du vom Entdeckten bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis…”",
+          "Sag Gott in deinen eigenen Worten, was dich bewegt."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "upsidedown-upsidedown2-i-will"
+      }
+    }
+  ]
+}

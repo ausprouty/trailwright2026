@@ -1,0 +1,142 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "identity",
+  "lessonId": "indenty5",
+  "sortOrder": 4,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ZUSAMMENKOMMEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Wo brauchst du Gottes Hilfe? Wie können wir dir praktisch helfen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreinander.</p>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "identity-indenty5-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ENTDECKEN"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1 Johannes 3,1-10",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Seht, was für eine Liebe unser himmlischer Vater uns geschenkt hat, nämlich, dass wir seine Kinder genannt werden – und das sind wir auch! Doch die Menschen, die zu dieser Welt gehören, kennen Gott nicht; deshalb verstehen sie auch nicht, dass wir seine Kinder sind. <!--]--><!--[--><sup>2</sup>Meine lieben Freunde, wir sind schon jetzt die Kinder Gottes, und wie wir sein werden, wenn Christus wiederkommt, das können wir uns nicht einmal vorstellen. Aber wir wissen, dass wir bei seiner Wiederkehr sein werden wie er, denn wir werden ihn sehen, wie er wirklich ist. <!--]--><!--[--><sup>3</sup>Und jeder, der diese Hoffnung hat, achtet darauf, dass er rein bleibt, so wie Christus rein ist.<!--]--><!--[--><sup>4</sup>Wer sündigt, missachtet das Gesetz Gottes, denn Sünde bedeutet immer Auflehnung gegen Gottes Gesetz. <!--]--><!--[--><sup>5</sup>Und ihr wisst, dass Jesus kam, um die Sünden der Menschen wegzunehmen, denn er ist ohne Sünde. <!--]--><!--[--><sup>6</sup>Wer also mit ihm lebt, sündigt nicht. Wer aber weiter sündigt, hat ihn nicht erkannt oder nicht begriffen, wer er ist. <!--]--><!--[--><sup>7</sup>Liebe Kinder, lasst euch von niemandem verführen! Wer handelt, wie es dem Willen Gottes entspricht, ist gerecht, wie Christus gerecht ist.<!--]--><!--[--><sup>8</sup>Aber wenn Menschen sündigen, zeigt das, dass sie zum Machtbereich des Teufels gehören, der von Anfang an gesündigt hat. Doch der Sohn Gottes kam, um die Taten des Teufels zu vernichten. <!--]--><!--[--><sup>9</sup>Wer zu Gott gehört, sündigt nicht, weil Gottes Leben in ihm ist. Deshalb kann er nicht mehr sündigen, denn er ist von Gott geboren. <!--]--><!--[--><sup>10</sup>Daran ist erkennbar, wer ein Kind Gottes und wer ein Kind des Teufels ist. Wer nicht nach Gottes Willen handelt und seinen Nächsten nicht liebt, der gehört nicht zu Gott. <!--]--><!--[--><h4 class=\"bible\"></h4><!-- end bible --></div><!-- end bible -->",
+        "url": "https://bibleserver.com/NLB/1%20Johannes%203,1-10",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Lest den Text leise für euch und danach laut vor."
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibeln). Wurde etwas weggelassen oder ergänzt?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Was kannst du in diesem Text über Gott und die Menschen lernen?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "identity-indenty5-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "WEITERGEBEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "In welche Bereiche deines Lebens spricht Gott durch diesen Text? Was wirst du in den nächsten Tagen umsetzen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "icon": "challenges",
+            "text": "Wem wirst du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem wirst du beten?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "identity-indenty5-i-will"
+      }
+    }
+  ]
+}

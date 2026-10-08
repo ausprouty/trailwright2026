@@ -1,0 +1,155 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "hoffnung",
+  "lessonId": "hoffnung09",
+  "sortOrder": 8,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ZUSAMMENKOMMEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Wo brauchst du Gottes Hilfe? Wie können wir dir praktisch helfen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreinander.</p>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "hoffnung-hoffnung09-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ENTDECKEN"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lukas 7:36-50",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>36</sup>Einer der Pharisäer lud Jesus zum Essen in sein Haus ein. Jesus nahm die Einladung an und setzte sich zu Tisch. <sup>37</sup>In dem Ort gab es eine Frau, die ihr Leben – wie man wusste – nicht nach Gottes Willen führte. Als sie erfuhr, dass er da war, brachte sie ein Gefäß mit kostbarem Salböl. <sup>38</sup>Sie kniete vor Jesus nieder und weinte. Ihre Tränen fielen auf seine Füße, und sie trocknete sie mit ihren Haaren. Dann küsste sie ihm wieder und wieder die Füße und salbte sie mit dem Öl. <sup>39</sup>Als der Gastgeber sah, was da vorging und wer die Frau war, sagte er sich: »Das beweist, dass Jesus kein Prophet ist. Wäre er wirklich von Gott gesandt, dann wüsste er, was für eine Frau ihn da berührt. Eine Sünderin!« <sup>40</sup>Jesus wusste, was er dachte, und sagte zu dem Pharisäer: »Simon, ich habe dir etwas zu sagen.« Simon nickte: »Ja, Meister, sprich nur.« <sup>41</sup>Darauf erzählte Jesus: »Ein Mann lieh zwei Leuten Geld – dem einen fünfhundert Denare und dem anderen fünfzig. <sup>42</sup>Als keiner der beiden ihm das Geld zurückzahlen konnte, erließ er ihnen ihre Schulden. Wer von den beiden liebte ihn danach wohl mehr?« <sup>43</sup>Simon antwortete: »Ich nehme an, derjenige, dem er die größere Schuld erließ.« Jesus sagte ihm: »Das stimmt.« <sup>44</sup>Dann wandte er sich der Frau zu und sagte zu Simon: »Schau dir die Frau an, die da kniet. Als ich dein Haus betrat, hast du mir kein Wasser angeboten, um mir den Staub von den Füßen zu waschen; sie hat meine Füße mit ihren Tränen gewaschen und mit ihrem Haar getrocknet. <sup>45</sup>Du hast mir keinen Begrüßungskuss gegeben; sie hat mir unaufhörlich die Füße geküsst, seit ich hereingekommen bin. <sup>46</sup>Du hast es versäumt, mir Gastfreundschaft zu erweisen und mir den Kopf mit Olivenöl zu salben; sie hat meine Füße mit kostbarem Salböl gesalbt. <sup>47</sup>Ich sage dir, ihre Sünden – und es sind viele – sind ihr vergeben; also hat sie mir viel Liebe erwiesen. Ein Mensch jedoch, dem nur wenig vergeben wurde, zeigt nur wenig Liebe.« <sup>48</sup>Dann sagte Jesus zu der Frau: »Deine Sünden sind dir vergeben.« <sup>49</sup>Die anderen Männer am Tisch sagten zueinander: »Für wen hält sich dieser Mann, dass er Sünden vergibt?« <sup>50</sup>Und Jesus sagte zu der Frau: »Dein Glaube hat dich gerettet; geh in Frieden.« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Lukas%207:36-50",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lukas 7:36-50",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_1106-GOLuke2607",
+        "source": "arclight",
+        "refId": "6_1106-GOLuke2607",
+        "startTime": "6:25",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Lest den Text leise für euch und danach laut vor."
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibeln). Wurde etwas weggelassen oder ergänzt?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Was kannst du in diesem Text über Gott und die Menschen lernen?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "hoffnung-hoffnung09-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "WEITERGEBEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "In welche Bereiche deines Lebens spricht Gott durch diesen Text? Was wirst du in den nächsten Tagen umsetzen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "icon": "challenges",
+            "text": "Wem wirst du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem wirst du beten?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "hoffnung-hoffnung09-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "hoffnung",
+  "lessonId": "hoffnung06",
+  "sortOrder": 5,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ZUSAMMENKOMMEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Wo brauchst du Gottes Hilfe? Wie können wir dir praktisch helfen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreinander.</p>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "hoffnung-hoffnung06-look-up"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ENTDECKEN"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Markus 5:21-34",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>21</sup>Als Jesus auf die andere Seite des Sees zurückkehrte, versammelte sich eine große Menge am Ufer um ihn. <sup>22</sup>Einer der Vorsteher der örtlichen Synagoge, ein Mann namens Jaïrus, kam zu ihm, fiel vor ihm nieder <sup>23</sup>und bat ihn inständig, seine kleine Tochter zu heilen. »Sie liegt im Sterben«, sagte er verzweifelt. »Bitte, komm und lege ihr deine Hände auf; mach sie gesund, damit sie am Leben bleibt.« <sup>24</sup>Jesus ging mit ihm, gefolgt von einer dichten Menschenmenge. <sup>25</sup>In der Menge war auch eine Frau, die seit zwölf Jahren an Blutungen litt. <sup>26</sup>Sie hatte in dieser Zeit bei vielen Ärzten Schlimmes durchgemacht. Ihr ganzes Vermögen hatte sie eingebüßt, um sie zu bezahlen, ohne dass es ihr besser ging. Es war sogar schlimmer geworden. <sup>27</sup>Diese Frau hatte von Jesus gehört. Sie kämpfte sich durch die Menge in seine Nähe und berührte den Saum seines Gewandes. <sup>28</sup>Denn sie sagte sich: »Wenn ich nur seine Kleider berühre, werde ich gesund.« <sup>29</sup>Und im selben Augenblick hörte die Blutung auf, und sie spürte, dass sie geheilt war! <sup>30</sup>Jesus merkte sofort, dass eine heilende Kraft von ihm ausgegangen war. Er wandte sich um und fragte: »Wer hat meine Kleider berührt?« <sup>31</sup>Seine Jünger sagten zu ihm: »Die Menschen umdrängen dich von allen Seiten, wie kannst du da fragen: ›Wer hat mich berührt?‹« <sup>32</sup>Aber er schaute weiter umher, um festzustellen, wer es gewesen war. <sup>33</sup>Zitternd vor Angst trat die Frau auf ihn zu, denn sie wusste, was mit ihr geschehen war. Sie warf sich ihm zu Füßen und sagte ihm, was sie getan hatte. <sup>34</sup>Und er sagte zu ihr: »Tochter, dein Glaube hat dich gesund gemacht. Geh in Frieden. Du bist geheilt.« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Markus%205:21-34",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Markus 5:21-34",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_1106-GOMark1504",
+        "source": "arclight",
+        "refId": "6_1106-GOMark1504",
+        "startTime": "3:05",
+        "endTime": "4:58",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Lest den Text leise für euch und danach laut vor."
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibeln). Wurde etwas weggelassen oder ergänzt?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?"
+          },
+          {
+            "icon": "sharing-life",
+            "text": "Was kannst du in diesem Text über Gott und die Menschen lernen?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "hoffnung-hoffnung06-look-forward"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "WEITERGEBEN"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "In welche Bereiche deines Lebens spricht Gott durch diesen Text? Was wirst du in den nächsten Tagen umsetzen?"
+          },
+          {
+            "icon": "challenges",
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "icon": "challenges",
+            "text": "Wem wirst du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem wirst du beten?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "hoffnung-hoffnung06-i-will"
+      }
+    }
+  ]
+}

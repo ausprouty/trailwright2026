@@ -1,0 +1,225 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "upsidedown",
+  "lessonId": "upsidedown3",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "AUSTAUSCHEN",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(10 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du gestern mit Gott erlebt?",
+          "Wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?",
+          "Betet füreinander."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "RÜCKBLICK",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Warum ist der RÜCKBLICK wichtig?",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Der Rückblick hilft euch, an bestimmten Themen dranzubleiben, und euch daran zu erinnern, dass ihr umsetzen wollt, was ihr entdeckt. Wenn wir gehorsam sind, werden wir immer wieder Gott erleben. Das wollen wir feiern!"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Wir beten auch dafür, dass andere Menschen Gottes Liebe erleben. Wenn wir über sie austauschen und Gott fragen, wie er ihnen begegnen möchte, lernen wir auf ihn zu hören. Es ist natürlich, dass man das, was einen begeistert, auch weitererzählt. Gleichzeitig sehen andere, dass auch sie mit Gott reden oder ihn erleben können. So kann auch in ihrem Umfeld eine Atmosphäre entstehen, dass sie offen werden, Jesus näher kennenzulernen."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Am Ende beten wir für die erwähnten Personen. Gott liebt sie und wir wollen sie auch lieben."
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "<strong>TIPP: Versuche für Austausch und Rückblick nicht zu viel Zeit zu brauchen, damit für die anderen Punkte noch genügend Zeit übrig ist!</strong>"
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(10 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?",
+          "Wie geht es den Menschen, welche dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LESEN",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(15 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Lest den Text laut vor.",
+          "Jemand erzählt in eigenen Worten den Text nach, mit Unterstützung der Gruppe.",
+          "Wurde etwas weggelassen oder ergänzt?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Johannes 13:1-20",
+        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Vor dem Passahfest wusste Jesus, dass für ihn die Zeit gekommen war, diese Welt zu verlassen und zu seinem Vater zurückzukehren. Nun bewies er seinen Jüngern das ganze Ausmaß seiner Liebe. <!--]--><!--[--><sup>2</sup>Es war Zeit für das Abendessen, und der Teufel hatte Judas, den Sohn des Simon Iskariot, schon dazu verleitet, seinen Plan wahr zu machen und Jesus zu verraten. <!--]--><!--[--><sup>3</sup>Jesus aber wusste, dass der Vater ihm uneingeschränkte Macht über alles gegeben hatte und dass er von Gott gekommen war und zu Gott zurückkehren würde.<!--]--><!--[--><sup>4</sup>Er stand vom Tisch auf, zog sein Obergewand aus, band sich ein Handtuch um die Hüften <!--]--><!--[--><sup>5</sup>und goss Wasser in eine Schale. Dann begann er, seinen Jüngern die Füße zu waschen und sie mit dem Handtuch abzutrocknen, das er sich umgebunden hatte. <!--]--><!--[--><sup>6</sup>Als er zu Simon Petrus kam, sagte Petrus zu ihm: »Herr, warum willst du mir die Füße waschen?«<!--]--><!--[--><sup>7</sup>Jesus antwortete: »Du verstehst jetzt nicht, warum ich das tue; eines Tages wirst du es verstehen.«<!--]--><!--[--><sup>8</sup>»Nein«, protestierte Petrus. »Du sollst mir niemals die Füße waschen!« Jesus erwiderte: »Wenn ich dich nicht wasche, gehörst du nicht zu mir.« <!--]--><!--[--><sup>9</sup>Da rief Simon Petrus: »Dann wasche mir auch die Hände und den Kopf, Herr, und nicht nur die Füße!«<!--]--><!--[--><sup>10</sup>Jesus erwiderte: »Wer gebadet hat, braucht sich – ausgenommen die Füße – nicht zu waschen, um völlig rein zu sein. Ihr seid rein, allerdings nicht jeder hier.« <!--]--><!--[--><sup>11</sup>Denn Jesus wusste, wer ihn verraten würde. Das meinte er mit dem Satz: »Nicht jeder hier von euch ist rein.« <!--]--><!--[--><sup>12</sup>Nachdem er ihnen die Füße gewaschen hatte, zog Jesus sein Obergewand wieder an, setzte sich und fragte: »Versteht ihr, was ich getan habe?<!--]--><!--[--><sup>13</sup>Ihr nennt mich ›Meister‹ und ›Herr‹ und damit habt ihr recht, denn das bin ich. <!--]--><!--[--><sup>14</sup>Und weil ich, der Herr und Meister, euch die Füße gewaschen habe, sollt auch ihr einander die Füße waschen. <!--]--><!--[--><sup>15</sup>Ich habe euch ein Beispiel gegeben, dem ihr folgen sollt. Tut, was ich für euch getan habe. <!--]--><!--[--><sup>16</sup>Es ist nur zu wahr: Ein Diener ist nicht größer als sein Herr. Genauso sind die Boten nicht wichtiger als der, der sie gesandt hat.<!--]--><!--[--><sup>17</sup>Ihr wisst das alles – nun handelt auch danach. Das ist der Weg zu eurem Glück!<br><br><sup>18</sup>Ich sage diese Dinge nicht zu euch allen; denn ich kenne jeden Einzelnen von euch, die ich erwählt habe, ganz genau. In der Schrift steht: ›Der, mit dem ich mein Brot geteilt habe, hat sich gegen mich gewandt‹, und das wird sich bald erfüllen. <!--]--><!--[--><sup>19</sup>Ich sage euch das jetzt, damit ihr, wenn es eintrifft, erkennt, dass ich der Christus bin.<!--]--><!--[--><sup>20</sup>Ich versichere euch: Wer meinen Boten willkommen heißt, der heißt mich willkommen, und wer mich willkommen heißt, der heißt meinen Vater willkommen, der mich gesandt hat.« <!--]--><!--[--><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Johannes%2013:1-20",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "ENTDECKEN",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(10 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?",
+          "Was kannst du in diesem Text über Gott und über die Menschen lernen?",
+          "Wie bezieht sich diese Geschichte auf das Thema “Upside down”?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "ANWENDEN",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(15 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Verändert der Text die Art, wie du über Gott denkst, wie du lebst und wie du mit anderen Menschen umgehst?",
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Gibt es: <ul><li>etwas an deinem Verhalten, das du ändern sollst?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du vom Entdeckten bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis…”",
+          "Sag Gott in deinen eigenen Worten, was dich bewegt."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "upsidedown-upsidedown3-i-will"
+      }
+    }
+  ]
+}

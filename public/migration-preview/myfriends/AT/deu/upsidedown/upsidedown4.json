@@ -1,0 +1,219 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "upsidedown",
+  "lessonId": "upsidedown4",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "AUSTAUSCHEN",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(10 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du gestern mit Gott erlebt?",
+          "Wofür bist du dankbar?",
+          "Wo brauchst du Gottes Hilfe?",
+          "Wie kann dir praktisch geholfen werden?",
+          "Betet füreinander."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "RÜCKBLICK",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(10 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Was hast du seit dem letzten Treffen vom Entdeckten umgesetzt?",
+          "Wie geht es den Menschen, welche dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
+          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
+          "Betet für die erwähnten Personen."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LESEN",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Warum LESEN wir den Text auf diese Art und Weise?",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Das Wort Gottes entdecken bedeutet auch, es selbst zu lesen. Und es von jemand anderem zu hören. Damit du sicher sein kannst, dass du es verstanden hast, erzählt ihr es gemeinsam als Gruppe nach oder lasst einen nacherzählen und ergänzt, was er oder sie ausgelassen hat."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Hier geht es nicht um eine Prüfung, sondern darum, im Kopf zu behalten, was ihr gelesen habt."
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "<p>TIPP: Bleibt bei der Bibelstelle, die ihr gelesen habt. Erzählt in eigenen Worten nach, was ihr gelesen habt. </p>"
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(15 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Jeder liest den Text für sich.",
+          "Lest den Text laut vor.",
+          "Jemand erzählt in eigenen Worten den Text nach, mit Unterstützung der Gruppe.",
+          "Wurde etwas weggelassen oder ergänzt?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthäus 8:1-13",
+        "html": "<!-- begin bible --><div><p><!-- begin bible --><sup>1</sup>Viele Menschen folgten Jesus, als er den Berg hinuntergestiegen war.<!--]--><!--[--><sup>2</sup>Da trat ihm ein Aussätziger in den Weg. Er fiel vor ihm nieder und sagte: »Herr, wenn du willst, kannst du mich gesund machen.«<!--]--><!--[--><sup>3</sup>Jesus berührte ihn. »Ich will es tun«, sagte er. »Sei gesund!« Und im selben Augenblick war der Mann von seiner Krankheit geheilt.<!--]--><!--[--><sup>4</sup>Daraufhin sagte Jesus zu ihm: »Geh zum Priester und lass dich von ihm untersuchen. Sprich unterwegs mit niemandem darüber. Aber nimm das Opfer mit, das Mose für die Heilung von Aussatz vorgeschrieben hat. Das soll für alle ein Beweis deiner Heilung sein.«</p><sup>5</sup>Als Jesus in Kapernaum eintraf, kam ein römischer Offizier zu ihm und bat ihn um Hilfe: <!--]--><!--[--><sup>6</sup>Er sagte: »Herr, mein junger Diener liegt im Bett, er ist gelähmt und hat große Schmerzen.«<!--]--><!--[--><sup>7</sup>Jesus antwortete: »Ich werde kommen und ihn heilen.«<!--]--><!--[--><sup>8</sup>Da sagte der Offizier: »Ach Herr, ich bin es nicht wert, dass du in mein Haus kommst. Sprich nur einfach ein Wort, und mein Diener wird gesund! <!--]--><!--[--><sup>9</sup>Ich weiß das, weil ich selbst vorgesetzte Offiziere habe und auch mir Soldaten unterstellt sind. Ich brauche nur zu sagen: ›Geht‹, und sie gehen, oder ›Kommt‹, und sie kommen. Und wenn ich zu meinem Sklaven sage: ›Tu dies oder tu das‹, dann tut er es.«<!--]--><!--[--><sup>10</sup>Als Jesus das hörte, war er tief beeindruckt. Er wandte sich an die Menge und sagte: »Ich versichere euch: Einen solchen Glauben habe ich bisher in ganz Israel noch nicht erlebt! <!--]--><!--[--><sup>11</sup>Und ich sage euch: Viele Menschen werden aus der ganzen Welt herbeiströmen und mit Abraham, Isaak und Jakob im Himmelreich zu Tisch sitzen.<!--]--><!--[--><sup>12</sup>Viele Israeliten dagegen – für die das Reich Gottes eigentlich bestimmt war – werden in die tiefste Dunkelheit hinausgestoßen, wo sie weinen und mit den Zähnen knirschen werden.«<!--]--><!--[--><sup>13</sup>Dann sagte Jesus zu dem römischen Offizier: »Geh wieder nach Hause. Was du geglaubt hast, ist eingetroffen.« Und der junge Diener wurde noch in derselben Stunde wieder gesund.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "url": "https://bibleserver.com/NLB/Matthäus%208:1-13",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "discover",
+        "title": "ENTDECKEN",
+        "icon": "discover"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(10 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich?",
+          "Was kannst du in diesem Text über Gott und über die Menschen lernen?",
+          "Wie bezieht sich diese Geschichte auf das Thema “Upside down”?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "ANWENDEN",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>(15 Minuten)</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Verändert der Text die Art, wie du über Gott denkst, wie du lebst und wie du mit anderen Menschen umgehst?",
+          "Frage Gott, wie du auf diesen Text reagieren sollst. Gibt es: <ul><li>etwas an deinem Verhalten, das du ändern sollst?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
+          "Was wirst du vom Entdeckten bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis…”",
+          "Sag Gott in deinen eigenen Worten, was dich bewegt."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "upsidedown-upsidedown4-i-will"
+      }
+    }
+  ]
+}

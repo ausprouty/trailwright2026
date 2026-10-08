@@ -1,7 +1,7 @@
 // basics/migrateOldLessonHtml
 
 import * as cheerio from 'cheerio';
-import type { CheerioAPI } from 'cheerio';
+import type { Cheerio, CheerioAPI } from 'cheerio';
 import type { AnyNode } from 'domhandler';
 import { isTag, isText } from 'domhandler';
 import { ElementType } from 'domelementtype';
@@ -16,6 +16,8 @@ import { extractInlineBibleRefs, type BibleRef } from '../shared/extractInlineBi
 type MigrateOptions = {
   includeTime?: boolean;
   includeVersion?: boolean;
+  series: string;
+  lessonId: string;
 };
 
 function buildBiblePassageBlock(reference: string, html: string, url: string): AnyEditorJsBlock {
@@ -318,6 +320,48 @@ function elementHasPopupReferences($element: cheerio.Cheerio<AnyNode>): boolean 
     $element.find('a[href^="javascript:popUp("]').length > 0 || $element.find('.popup').length > 0
   );
 }
+function ensureIWillBlock(
+  blocks: AnyEditorJsBlock[],
+  series: string,
+  lessonId: string,
+): AnyEditorJsBlock[] {
+  const result: AnyEditorJsBlock[] = [];
+
+  let inForwardSection = false;
+  let inserted = false;
+
+  for (const block of blocks) {
+    if (block.type === 'sectionMarker') {
+      if (inForwardSection && !inserted) {
+        result.push({
+          type: 'iWill',
+          data: {
+            storageKey: `${series}-${lessonId}-i-will`,
+          },
+        });
+
+        inserted = true;
+      }
+
+      inForwardSection = block.data?.theme === 'forward';
+    }
+
+    result.push(block);
+  }
+
+  // If WEITERGEBEN is the last section in the study,
+  // append the iWill block at the end.
+  if (inForwardSection && !inserted) {
+    result.push({
+      type: 'iWill',
+      data: {
+        storageKey: `${series}-${lessonId}-i-will`,
+      },
+    });
+  }
+
+  return result;
+}
 
 function extractBibleReference($container: cheerio.Cheerio<AnyNode>): string {
   const explicitReference = $container
@@ -548,6 +592,37 @@ function extractVideoField($container: cheerio.Cheerio<AnyNode>, labelPattern: R
   return value;
 }
 
+function getIconListItem(block: AnyEditorJsBlock): { icon: string; text: string } | null {
+  if (block.type !== 'paragraph') {
+    return null;
+  }
+
+  const text = block.data?.text;
+
+  if (typeof text !== 'string') {
+    return null;
+  }
+
+  const match = text.match(/^\s*<img\s+[^>]*src=["']([^"']+)["'][^>]*>\s*(.*)$/is);
+
+  if (!match) {
+    return null;
+  }
+
+  const rawIcon = match[1] ?? '';
+  const itemText = match[2] ?? '';
+
+  const icon = normalizeIconName(rawIcon);
+
+  if (!icon) {
+    return null;
+  }
+
+  return {
+    icon,
+    text: itemText.trim(),
+  };
+}
 function getNextCollapsedDiv(
   $: cheerio.CheerioAPI,
   $el: cheerio.Cheerio<AnyNode>,
@@ -821,7 +896,16 @@ function normalizeArtificialSpaces(html: string): string {
     .replace(/&#x20;/gi, ' ')
     .replace(/&nbsp;/gi, ' ');
 }
+function normalizeIconName(icon: string): string | null {
+  const map: Record<string, string> = {
+    'sharing-life': 'sharing-life',
+    'bible-study': 'bible-study',
+    challenge: 'challenges',
+    challenges: 'challenges',
+  };
 
+  return map[icon] ?? null;
+}
 function normalizeInlineHtml(html: string): string {
   if (!html) {
     return '';
@@ -933,6 +1017,13 @@ function normalizeLegacyHtmlLists($: CheerioAPI): void {
         $previousLi.append($nestedList);
       }
     });
+  });
+}
+function normalizeLessonSubsections($: CheerioAPI): void {
+  $('div.lesson-subsection').each((_, element) => {
+    const $element = $(element);
+
+    $element.replaceWith($element.contents());
   });
 }
 function normalizeReadBibleReference($: CheerioAPI): void {
@@ -1141,6 +1232,265 @@ function looksLikeMojibake(value: string): boolean {
   return /(?:æ|ä|è|é|å|ç|ã|ï|Â|â)/.test(value);
 }
 
+function normalizeGoogleDocsMarkup($: CheerioAPI): void {
+  // Remove Google Docs internal IDs.
+  $('[id^="docs-internal-guid-"]').removeAttr('id');
+
+  // Remove Google Docs list metadata.
+  $('[aria-level]').removeAttr('aria-level');
+
+  // German content does not need explicit LTR attributes.
+  $('[dir="ltr"]').removeAttr('dir');
+
+  // Remove <strong> wrappers from paragraphs.
+  //
+  // Google Docs frequently uses <strong> as a formatting wrapper around
+  // the entire paragraph or around the icon. We do not want that formatting
+  // preserved in the migrated lesson.
+  $('p strong').each((_, element) => {
+    const $strong = $(element);
+    $strong.replaceWith($strong.contents());
+  });
+
+  // Remove simple black-text span wrappers inserted by Google Docs.
+  $('span[style]').each((_, element) => {
+    const $span = $(element);
+    const style = $span.attr('style') ?? '';
+
+    if (/^\s*color\s*:\s*#000000\s*;?\s*$/i.test(style)) {
+      $span.replaceWith($span.contents());
+    }
+  });
+
+  // Remove empty paragraphs.
+  $('p').each((_, element) => {
+    const $p = $(element);
+
+    const text = $p
+      .text()
+      .replace(/\u00a0/g, '')
+      .trim();
+
+    if (!text && $p.find('img').length === 0) {
+      $p.remove();
+    }
+  });
+}
+
+function normalizeIconLists(blocks: AnyEditorJsBlock[]): AnyEditorJsBlock[] {
+  const result: AnyEditorJsBlock[] = [];
+
+  let index = 0;
+
+  while (index < blocks.length) {
+    const block = blocks[index];
+    if (!block) {
+      break;
+    }
+
+    const firstItem = getIconListItem(block);
+
+    if (!firstItem) {
+      result.push(block);
+      index++;
+      continue;
+    }
+
+    const items = [firstItem];
+    index++;
+
+    // Collect consecutive icon paragraphs.
+    while (index < blocks.length) {
+      const nextBlock = blocks[index];
+
+      if (!nextBlock) {
+        break;
+      }
+
+      const nextItem = getIconListItem(nextBlock);
+      if (!nextItem) {
+        break;
+      }
+
+      items.push(nextItem);
+      index++;
+    }
+
+    result.push({
+      type: 'iconList',
+      data: {
+        items,
+      },
+    });
+  }
+
+  return result;
+}
+
+function normalizeLessonHeaders($: CheerioAPI): void {
+  $('.lesson-subtitle').each((_, subtitleElement) => {
+    const $subtitle = $(subtitleElement);
+    const $lesson = $subtitle.closest('.lesson');
+
+    if (!$lesson.length) {
+      return;
+    }
+
+    // First look for an icon already inside this lesson.
+    let $icon = $lesson.find('img.lesson-icon').first();
+
+    if ($icon.length) {
+      const $parent = $icon.parent();
+
+      // Old editor often wrapped the lesson icon in <p>.
+      if ($parent.is('p')) {
+        const iconHtml = $.html($icon);
+
+        $parent.remove();
+
+        // Put the icon directly before the subtitle.
+        $subtitle.before(iconHtml);
+      }
+
+      return;
+    }
+
+    /*
+     * Some old files put the icon at the end of the previous
+     * content block, e.g. the RÜCKBLICK icon.
+     */
+    let $previous = $lesson.prev();
+
+    while ($previous.length) {
+      const $candidateIcon = $previous.find('img.lesson-icon').last();
+
+      if ($candidateIcon.length) {
+        $icon = $candidateIcon;
+        break;
+      }
+
+      $previous = $previous.prev();
+    }
+
+    if (!$icon.length) {
+      return;
+    }
+
+    const $iconParent = $icon.parent();
+
+    const iconHtml = $.html($icon);
+    // Remove the original icon.
+    $icon.remove();
+
+    // Remove an empty <p> left behind after taking the icon.
+    if ($iconParent.is('p') && !$iconParent.text().trim() && !$iconParent.children().length) {
+      $iconParent.remove();
+    }
+
+    // Icon belongs directly before its subtitle.
+    $subtitle.before(iconHtml);
+  });
+}
+
+function normalizeMyFriendsGoogleImages($: CheerioAPI): void {
+  type MyFriendsIcon = 'sharing-life' | 'bible-study' | 'challenge';
+
+  const imageMap: Record<string, MyFriendsIcon> = {
+    // DISCUSS
+    'AD_4nXf4hC2s9d5eBEMCRpmUPnoYXn3eGmv0Qk3Zzpue_0Fif-TLt51PIQijJRN7YUZoiduJXpw5KYvsKVBs9Tj-At3XMnc3wessrD3y3LpLsFeodpV69tHmaWYPyXzBZ2Poq8fEX_rt4g':
+      'sharing-life',
+
+    'AD_4nXeUOl2kntW0T7RECPjEhlxAxaAWWTipGWmkbik_jARij6lB79EyLPAX_TVroa_lDfvswt_XHsrXdMCnsODFwb9q7UnXkcnEgFURNTXAI_IXXr4vNY-Kkret2j-w41ShUw87M5wJ-A':
+      'sharing-life',
+
+    'AD_4nXefVczrt3jOMG_7iQeIHC8zlCTB5pJPEOiG0NcPc4SPJrBn35ivkSE0aT26PFTvr1D7M8M2Kpw7k4zMqEGJFZ2ydMRvLDB-4U9U1q5UF19XYE7i2FoL-_hs_EfvIDMoZ1sKvFm08A':
+      'sharing-life',
+
+    'AD_4nXfggh03XiElDqSU5jadeVY93u8gC3uuDX_yf_c9ALgprvNHxLkqwMvF4ToujrPxQyIOgctK5Bdw69RhoO3b-k_tBFO4vbweWN5r23jotXLRIpMlv1Fe3A_UiWAWakiUsW7CcIFKTQ':
+      'sharing-life',
+
+    'AD_4nXdUjU9YiUaA2Uz-H3Rej2LFq5tvI5tY1yrWj9EkcYX9_WWDPMhiqW7kZfMD9UxrCe_OP1Sz65EzMksSj3cxbEqXfwBhs0LVyRwjfnpxQiYSsv3M8sIFGRa4qLBnRnjn8FGTpjLYug':
+      'sharing-life',
+
+    // APPLY
+    'AD_4nXctSzTha10XvIHRj-Ly2kRb9SoqJgNqNgT9eahoPGd4bWRe9b67GLa9uA9oXxfMuryMJwleGR1f826z-b0BbYMPZmLUuCIt_T5ybzS-JJ5Zt0AMhuwuEelt-9w8_or6odOlrtlT':
+      'challenge',
+
+    'AD_4nXfWcGOgXx0ggTm41N9VvmTTtiW_Pn0f_I4c7ArhYxvRT3vwgP8Fcdq5IVhofzZwsCvCavgWH3iP2AhNtGvnDVuF2uSiuzWZUlt3II7aqnob-xuEWDc1RA8HttQcbACxwAu6-Oz6CQ?key=rgit5VDQSFg5NQnu8rIwPcfJ':
+      'challenge',
+
+    'AD_4nXcC0FJwhNmJZPTcyO_6LOtOgH12T1Yi2E5sqPx_-WNMMyzyDf1XKYipDUXKy83_GwJsagPFqF6dR0OvTi8ow5arUWEQZO80oFU6rqRjCeyFZSPwdi8bKDsizrkxs_eEUIKo5L5EXg':
+      'challenge',
+
+    'AD_4nXeBed_kIVZ9eqBjaboeDcH3H72_YLCeEpzGdTb8pAhHzqfZeLhkjNCVNp4sFsGi9poOlB0rmm9wjapbyT3dtkjVBQDrF5q864pLqYPLjJ6Y0hI6YYgkOrOuvsmfeF-vp00AJMrZcQ':
+      'challenge',
+
+    // BIBLE
+    'AD_4nXdx7b_YFbzBHttPpgSVYQUpHvTH1uvrPUAbHiLjxcWnjdxNIpuup02llrly0A0WKnbX_eUaW_VGLAAmw-62FnPMajcXZSWDkvGliKl236M-3N6Fslvz3kFly2OqqShgsdCWs0OG5A':
+      'bible-study',
+  };
+  $('img[src*="googleusercontent.com"]').each((_, element) => {
+    const $img = $(element);
+    const src = $img.attr('src') ?? '';
+
+    for (const [marker, localPath] of Object.entries(imageMap)) {
+      if (!src.includes(marker)) {
+        continue;
+      }
+
+      $img.attr('src', localPath);
+      $img.removeAttr('style');
+      $img.attr('alt', '');
+      $img.addClass('myfriends-icon');
+
+      break;
+    }
+  });
+}
+function normalizeSectionMarkers(blocks: AnyEditorJsBlock[]): AnyEditorJsBlock[] {
+  return blocks.map((block) => {
+    if (block.type !== 'paragraph') {
+      return block;
+    }
+
+    const text = block.data?.text;
+
+    if (typeof text !== 'string') {
+      return block;
+    }
+
+    const normalizedText = text.trim();
+
+    const sectionMap: Record<string, { theme: SectionTheme; title: string }> = {
+      '<strong>ZUSAMMENKOMMEN</strong>': {
+        theme: 'back',
+        title: 'ZUSAMMENKOMMEN',
+      },
+
+      '<strong>ENTDECKEN</strong>': {
+        theme: 'up',
+        title: 'ENTDECKEN',
+      },
+
+      '<strong>WEITERGEBEN</strong>': {
+        theme: 'forward',
+        title: 'WEITERGEBEN',
+      },
+    };
+
+    const section = sectionMap[normalizedText];
+
+    if (!section) {
+      return block;
+    }
+
+    return {
+      type: 'sectionMarker',
+      data: section,
+    };
+  });
+}
+
 function windows1252CodePointToByte(codePoint: number): number | null {
   // ASCII
   if (codePoint >= 0x00 && codePoint <= 0x7f) {
@@ -1242,7 +1592,10 @@ function unwrapRedundantSpans($: cheerio.CheerioAPI, $root: cheerio.Cheerio<AnyN
 
 export function migrateOldLessonHtmlToEditorJs(
   html: string,
-  options: MigrateOptions = {},
+  options: MigrateOptions = {
+    series: '',
+    lessonId: '',
+  },
 ): EditorJsContent {
   const remappedHtml = remapImagePaths(html);
 
@@ -1252,6 +1605,13 @@ export function migrateOldLessonHtmlToEditorJs(
   normalizedHtml = normalizeVerseSupTags(normalizedHtml);
 
   const $ = cheerio.load(normalizedHtml);
+  normalizeGoogleDocsMarkup($);
+  normalizeMyFriendsGoogleImages($);
+
+  // Fix malformed legacy lesson header/icon structure first.
+  normalizeLessonHeaders($);
+  normalizeLessonSubsections($);
+
   normalizeReadBibleReference($);
   normalizeStandaloneBibleReferences($);
   splitBibleSections($);
@@ -1767,8 +2127,12 @@ export function migrateOldLessonHtmlToEditorJs(
     blocks.shift();
   }
 
+  let normalizedBlocks = normalizeIconLists(blocks);
+  normalizedBlocks = normalizeSectionMarkers(normalizedBlocks);
+  normalizedBlocks = ensureIWillBlock(normalizedBlocks, options.series, options.lessonId);
+
   const content: EditorJsContent = {
-    blocks,
+    blocks: normalizedBlocks,
   };
 
   if (options.includeTime) {

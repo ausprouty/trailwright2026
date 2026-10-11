@@ -1,0 +1,130 @@
+{
+  "site": "myfriends",
+  "country": "EG",
+  "language": "arb",
+  "htmlLang": "ar",
+  "direction": "rtl",
+  "numberSystem": "arab",
+  "series": "firststeps",
+  "lessonId": "step1",
+  "sortOrder": 0,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "راجع نفسك."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ما هو الشيئ الممتنّ لأجله هذا الأسبوع ؟",
+          "ما الأمر الـَّذي تعاني منه وكيف يمكننا المساعدة ؟",
+          "ما هو الإحتياج الـَّذي لاحظته في مجتمعنا \\ حرم الجامعة \\ المدرسة ؟"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"point rtl\" src=\"/sites/myfriends/images/firststeps/pray.png\">جيّدٌ رفع الصلاة من أجل بعضنا البعض بخصوص هذه الإحتياجات."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "إبحث عن"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"rtl yellow\">ألنقطة 1:</span> ألله يحبّك وخلقك لتعرفه بصفة شخصيّة."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"rtl yellow\">ألنقطة 2:</span> نحن منفصلون عن الله بسبب خطايانا، لهذا لا نستطيع معرفته أو إختبار محبّته."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"rtl yellow\">ألنقطة 3:</span> يسوع هو حلّ الله الوحيد لخطايانا. فقط من خلاله يمكننا أن نعرف الله ونحظى على محبّته وغفرانه."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"rtl yellow\">ألنقطة 4:</span> يتعين على كل فردٍ أن يتجاوب مع يسوع من خلال وضع ثقتنا فيه كمخلص لنا وربّ. عندها فقط نستطيع أن نعرف الله بطريقة شخصيّة."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "شهادتي",
+        "level": 3
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "حياتي قبل التعرُّف على يسوع",
+          "كيف تقابلت مع يسوع",
+          "كيف تغيّرت حياتي منذ لقائي بيسوع."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "نتطلـَّع"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "ألأمر الأهمّ هو كيفية نطبيق ما نتعلمه، لهذا نريد مساعدة بعضنا البعض إيجاد سبل أخرى للقيام بذلك. بعض الأسئلة لمساعدتنا القيام بذلك:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "كيف يمكن لهذه تغيير طريقتك في العيش ؟ مع الله، مع الذات ومع الآخرين ؟",
+          "ما الشيء الواحد الذي تودّ أن تطبِّقه لحياتك نتيجة مناقشة هذا الأسبوع ؟ ما الـَّذي ستفعله لأجل تتميم ذاك التغيير ؟",
+          "مع من ستشارك ما تعلمته هذا الأسبوع ؟ بما ستشارك ؟"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step1-i-will"
+      }
+    }
+  ]
+}

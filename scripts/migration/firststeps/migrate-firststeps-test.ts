@@ -8,8 +8,8 @@ import { transformMultiply } from './transformMultiply';
 const PROJECT_ROOT = process.cwd();
 
 const SITE = 'myfriends' as const;
-const COUNTRY = 'CN' as const;
-const LANGUAGE = 'cmn' as const;
+const COUNTRY = 'EG' as const;
+const LANGUAGE = 'arb' as const;
 const SERIES = 'firststeps' as const;
 
 const SOURCE_DIR = path.join(PROJECT_ROOT, 'data', 'raw', SITE, COUNTRY, LANGUAGE, SERIES);

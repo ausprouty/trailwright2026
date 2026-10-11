@@ -265,10 +265,6 @@ function convertPopupLinksToBibleReferenceBlock(
     const popupId = getPopUpIdFromHref(href);
 
     if (!popupId) return;
-    console.log('popupId:', popupId);
-    console.log('popupMap keys:', Array.from(popupMap.keys()));
-    console.log('passage:', popupMap.get(popupId));
-
     const label = $link.text().trim();
     const marker = label;
     const passage = popupMap.get(popupId) || '';
@@ -873,11 +869,22 @@ function normalizeFirststepsBibleContainers($: CheerioAPI): void {
       .attr('src', '/images/firststeps/bible.png');
 
     // Normalize Bible reference classes for all languages.
-    // Examples: eng-verse, por-verse, zh-s-verse.
+    // Examples: eng-verse, por-verse, zh-s-verse, arb-verse.
     $container
-      .find('p.read span[class$="-verse"]')
-      .removeClass()
-      .addClass('eng-verse');
+      .find('p.read span')
+      .filter((_, element) => {
+        const classes = ($(element).attr('class') ?? '').split(/\s+/);
+        return classes.some((className) => className.endsWith('-verse'));
+      })
+      .each((_, element) => {
+        const $span = $(element);
+
+        const verseClasses = ($span.attr('class') ?? '')
+          .split(/\s+/)
+          .filter((className) => className.endsWith('-verse'));
+
+        $span.removeClass(verseClasses.join(' ')).addClass('eng-verse');
+      });
 
     // Collect the outermost Bible passage container.
     const $bible = $container.find('div.bible').first();
@@ -885,7 +892,12 @@ function normalizeFirststepsBibleContainers($: CheerioAPI): void {
     if ($bible.length) {
       // Remove empty paragraphs.
       $bible.find('p').each((_, p) => {
-        if (!$(p).text().replace(/\u00a0/g, '').trim()) {
+        if (
+          !$(p)
+            .text()
+            .replace(/\u00a0/g, '')
+            .trim()
+        ) {
           $(p).remove();
         }
       });
@@ -921,13 +933,14 @@ function normalizeFirststepsBibleLinks($: CheerioAPI): void {
 }
 function normalizeFirststepsBibleVerseNumbers($: CheerioAPI): void {
   // Convert verse-number spans into superscripts.
-  $('div.bible-container div.bible span.versenum, div.bible-container div.bible span.verse')
-    .each((_, element) => {
+  $('div.bible-container div.bible span.versenum, div.bible-container div.bible span.verse').each(
+    (_, element) => {
       const $verse = $(element);
       const number = $verse.text().trim();
 
       $verse.replaceWith(`<sup>${number}</sup>`);
-    });
+    },
+  );
 
   // Remove unnecessary styling spans surrounding Scripture text.
   $('div.bible-container div.bible span.bible').each((_, element) => {
@@ -972,50 +985,56 @@ function normalizeFirststepsSatisfiedLink($: CheerioAPI): void {
 
     const text = $link.html()?.trim() ?? '';
 
-    $container.replaceWith(
-      `<p><a href="./satisfied">${text}</a></p>`
-    );
+    $container.replaceWith(`<p><a href="./satisfied">${text}</a></p>`);
   });
 }
 function normalizeFirststepsSectionHeadings($: CheerioAPI): void {
-  // Format 1: Existing English FirstSteps headings.
-  $('div.lesson > .lesson-lookback').addClass('lesson-section back');
-  $('div.lesson > .lesson-lookup').addClass('lesson-section up');
-  $('div.lesson > .lesson-lookforward').addClass('lesson-section forward');
-
-  // Format 2: Chinese headings identified by their icon images.
+  // Map icon filenames to standard section classes.
+  // Supports Chinese (underscores) and Arabic (hyphens).
   const iconMap: Record<string, string> = {
-    'look_back.png': 'lesson-lookback',
-    'look_up.png': 'lesson-lookup',
-    'look_forward.png': 'lesson-lookforward',
+    'look_back.png': 'back',
+    'look_up.png': 'up',
+    'look_forward.png': 'forward',
+    'look-back.png': 'back',
+    'look-up.png': 'up',
+    'look-forward.png': 'forward',
+  };
+
+  // Map existing heading classes (English and Arabic).
+  const headingMap: Record<string, string> = {
+    'lesson-lookback': 'back',
+    'lesson-lookup': 'up',
+    'lesson-lookforward': 'forward',
   };
 
   $('div.lesson').each((_, element) => {
     const $lesson = $(element);
-    const $icon = $lesson.children('img.lesson-icon').first();
-    const $subtitle = $lesson.children('div.lesson-subtitle').first();
 
-    if (!$icon.length || !$subtitle.length) {
-      return;
+    // Find the heading, regardless of language.
+    const $heading = $lesson
+      .children('.lesson-lookback, .lesson-lookup, .lesson-lookforward, .lesson-subtitle')
+      .first();
+
+    if (!$heading.length) return;
+
+    // First identify the section from the existing heading class.
+    const existingClass = Object.keys(headingMap).find((className) => $heading.hasClass(className));
+
+    let section = existingClass ? headingMap[existingClass] : undefined;
+
+    // If the heading is a Chinese-style subtitle, use its icon.
+    if (!section) {
+      const $icon = $lesson.children('img').first();
+      const filename = ($icon.attr('src') ?? '').split('/').pop() ?? '';
+
+      section = iconMap[filename];
     }
 
-    const filename = ($icon.attr('src') ?? '').split('/').pop() ?? '';
-    const headingClass = iconMap[filename];
+    if (!section) return;
 
-    if (!headingClass) {
-      return;
-    }
-
-    // Give Chinese headings the same class as English headings.
-    $subtitle.removeClass('lesson-subtitle').addClass(headingClass);
-
-    // Keep the icon for now, matching the English HTML structure.
+    // Remove old heading classes but retain other classes (e.g. rtl).
+    $heading.attr('class', `lesson-section ${section}`);
   });
-
-  // Apply the standard section-marker classes to both formats.
-  $('div.lesson > .lesson-lookback').addClass('lesson-section back');
-  $('div.lesson > .lesson-lookup').addClass('lesson-section up');
-  $('div.lesson > .lesson-lookforward').addClass('lesson-section forward');
 }
 function normalizeFirststepsImageContainers($: CheerioAPI): void {
   $('div.thumbnail').each((_, element) => {
@@ -1522,6 +1541,11 @@ export function migrateOldLessonHtmlToEditorJs(
 
   removeFirststepsPrintLink($);
   normalizeFirststepsSectionHeadings($);
+  console.log(
+    $('div.lesson > .lesson-section')
+      .map((_, el) => $.html(el))
+      .get(),
+  );
   normalizeFirststepsConclusionHeadings($);
   normalizeFirststepsTopHeadings($);
   normalizeFirststepsImageContainers($);
@@ -1672,9 +1696,17 @@ export function migrateOldLessonHtmlToEditorJs(
 
       return;
     }
-    if (isSectionMarkerLesson($el)) {
-      const title = getSectionTitle($el);
-      const theme = getSectionTheme($el);
+    if ($el.is('div.lesson') && $el.children('.lesson-section').length > 0) {
+      const $heading = $el.children('.lesson-section').first();
+
+      const title = normalizeTextForEditor($heading.text());
+
+      const theme: SectionTheme = $heading.hasClass('back')
+        ? 'back'
+        : $heading.hasClass('up')
+          ? 'up'
+          : 'forward';
+
       const icon = getSectionIconKey($el);
 
       if (title) {

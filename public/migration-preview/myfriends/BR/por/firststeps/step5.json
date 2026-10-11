@@ -10,6 +10,14 @@
   "sortOrder": 4,
   "blocks": [
     {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhe para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
       "type": "list",
       "data": {
         "style": "ordered",
@@ -21,9 +29,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/pray.png\">Seria bom nós orarmos uns pelos outros em relação a estas necessidades."
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "Seria bom nós orarmos uns pelos outros em relação a estas necessidades."
+          }
+        ]
       }
     },
     {
@@ -37,36 +50,49 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "notesArea",
       "data": {
-        "text": "<span class=\"key-span\"><img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/question.png\">Pergunta chave:</span> Como podemos continuar a crescer em nosso relacionamento com Jesus?"
+        "notes": "",
+        "storageKey": "note"
       }
     },
     {
-      "type": "paragraph",
+      "type": "sectionMarker",
       "data": {
-        "text": "<span class=\"statement-span\"><img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/statement.png\">Declaração:</span> Como em qualquer relacionamento, comunicação é essencial. Deus quer se comunicar conosco e quer que nos comuniquemos com Ele."
+        "theme": "up",
+        "title": "Olhe para cima",
+        "icon": "arrow-up"
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<img class=\"read\" src=\"/sites/myfriends/images/firststeps/bible.png\"><span class=\"por-verse\">Atos 2:42-47</span>"
+        "items": [
+          {
+            "icon": "discover",
+            "text": "Pergunta chave: Como podemos continuar a crescer em nosso relacionamento com Jesus?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "Declaração: Como em qualquer relacionamento, comunicação é essencial. Deus quer se comunicar conosco e quer que nos comuniquemos com Ele."
+          }
+        ]
       }
     },
     {
       "type": "biblePassage",
       "data": {
-        "reference": "Bible",
-        "html": "<p><span class=\"versenum\" dir=\"ltr\">42</span><span class=\"bible\" dir=\"ltr\">E perseveravam na doutrina dos apóstolos, e na comunhão, e no partir do pão, e nas orações. </span><span class=\"versenum\" dir=\"ltr\">43</span><span class=\"bible\" dir=\"ltr\">E em toda a alma havia temor, e muitas maravilhas e sinais se faziam pelos apóstolos. </span><span class=\"versenum\" dir=\"ltr\">44</span><span class=\"bible\" dir=\"ltr\">E todos os que criam estavam juntos, e tinham tudo em comum. </span><span class=\"versenum\" dir=\"ltr\">45</span><span class=\"bible\" dir=\"ltr\">E vendiam as suas propriedades e fazendas, e repartiam com todos, segundo cada um necessitasse. </span><span class=\"versenum\" dir=\"ltr\">46</span><span class=\"bible\" dir=\"ltr\">E, perseverando unânimes, todos os dias, no templo, e partindo o pão em casa, comiam juntos com alegria e singeleza de coração, </span><span class=\"versenum\" dir=\"ltr\">47</span><span class=\"bible\" dir=\"ltr\">Louvando a Deus e caindo na graça de todo o povo. E todos os dias acrescentava o Senhor, à igreja, aqueles que se haviam de salvar. </span></p>",
-        "url": "",
+        "reference": "Atos 2:42-47",
+        "html": "<p><sup>42</sup>E perseveravam na doutrina dos apóstolos, e na comunhão, e no partir do pão, e nas orações. <sup>43</sup>E em toda a alma havia temor, e muitas maravilhas e sinais se faziam pelos apóstolos. <sup>44</sup>E todos os que criam estavam juntos, e tinham tudo em comum. <sup>45</sup>E vendiam as suas propriedades e fazendas, e repartiam com todos, segundo cada um necessitasse. <sup>46</sup>E, perseverando unânimes, todos os dias, no templo, e partindo o pão em casa, comiam juntos com alegria e singeleza de coração, <sup>47</sup>Louvando a Deus e caindo na graça de todo o povo. E todos os dias acrescentava o Senhor, à igreja, aqueles que se haviam de salvar. </p>",
+        "url": "https://www.biblegateway.com/passage/?search=Atos+2%3A42-49&version=NVI-PT",
         "isOpen": false
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<a class=\"readmore\" target=\"_blank\" href=\"https://www.biblegateway.com/passage/?search=Atos+2%3A42-49&amp;version=NVI-PT\">Leia mais</a>"
       }
     },
     {
@@ -85,15 +111,31 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "header",
       "data": {
-        "text": "Conclusão:"
+        "text": "Conclusão:",
+        "level": 3
       }
     },
     {
       "type": "paragraph",
       "data": {
         "text": "Ao falarmos com Deus através da oração, ouvirmos dele através da Bíblia e nos reunirmos com outros cristãos, nós podemos crescer em nosso relacionamento com Jesus e podemos conhecê-lo melhor."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhe para a frente",
+        "icon": "arrow-right"
       }
     },
     {
@@ -114,9 +156,9 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iWill",
       "data": {
-        "text": "<a target=\"_blank\" href=\"https://firststepswithgod.com/por/print/5\">Baixar lição</a><br> firststepswithgod.com/por/print/5"
+        "storageKey": "firststeps-step5-i-will"
       }
     }
   ]

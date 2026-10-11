@@ -10,6 +10,14 @@
   "sortOrder": 6,
   "blocks": [
     {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhe para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
       "type": "list",
       "data": {
         "style": "ordered",
@@ -21,9 +29,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/pray.png\">Seria bom nós orarmos uns pelos outros em relação a estas necessidades."
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "Seria bom nós orarmos uns pelos outros em relação a estas necessidades."
+          }
+        ]
       }
     },
     {
@@ -37,21 +50,46 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "notesArea",
       "data": {
-        "text": "<span class=\"key\"><img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/question.png\">Pergunta chave:</span> “Como vivemos a vida cristã quando ela parece ser tão difícil de ser vivida?”"
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhe para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "Pergunta chave: “Como vivemos a vida cristã quando ela parece ser tão difícil de ser vivida?”"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "Declaração: Pela nossa própria força não podemos viver da maneira que Deus quer, mas com Sua ajuda, através do Espírito Santo, temos o poder para viver da maneira que Deus quer que vivamos."
+          }
+        ]
       }
     },
     {
       "type": "paragraph",
       "data": {
-        "text": "<span class=\"bold\"><img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/statement.png\">Declaração:</span> Pela nossa própria força não podemos viver da maneira que Deus quer, mas com Sua ajuda, através do Espírito Santo, temos o poder para viver da maneira que Deus quer que vivamos."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<img class=\"read\" src=\"/sites/myfriends/images/firststeps/bible.png\"><a id=\"Return1\" href=\"#\" onclick=\"goToPageAndSetReturn('../firststeps/satisfied.html', '#Return1');\">Há alguma coisa nesse estudo que é significativo para você?</a>"
+        "text": "<a href=\"./satisfied\">Há alguma coisa nesse estudo que é significativo para você?</a>"
       }
     },
     {
@@ -68,9 +106,10 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "header",
       "data": {
-        "text": "Conclusão:"
+        "text": "Conclusão:",
+        "level": 3
       }
     },
     {
@@ -83,6 +122,21 @@
       "type": "paragraph",
       "data": {
         "text": "Como aprendemos antes, uma ferramenta útil que nos capacitará a fazer isso é uma simples ilustração sobre a respiração. Assim como inalamos oxigênio e exalamos gás carbônico, também podemos respirar espiritualmente. Respiração espiritual é simplesmente exalar nosso pecado, através da confissão (sobre o que falamos há algumas semanas atrás) e então inalamos ao nos apropriarmos do poder disponível pelo Espírito Santo. Fazendo isso, você será capaz de viver a vida que Deus quer que você viva."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhe para a frente",
+        "icon": "arrow-right"
       }
     },
     {
@@ -103,9 +157,9 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iWill",
       "data": {
-        "text": "<a target=\"_blank\" href=\"https://firststepswithgod.com/por/print/7\">Baixar lição</a><br> firststepswithgod.com/por/print/7"
+        "storageKey": "firststeps-step7-i-will"
       }
     }
   ]

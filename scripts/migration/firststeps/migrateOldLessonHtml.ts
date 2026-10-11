@@ -859,7 +859,7 @@ function normalizeArtificialSpaces(html: string): string {
     .replace(/&nbsp;/gi, ' ');
 }
 function normalizeFirststepsBibleContainers($: CheerioAPI): void {
-  $('div.bible_container').each((_, element) => {
+  $('div.bible_container, div.bible-container').each((_, element) => {
     const $container = $(element);
 
     // Normalize the outer container.
@@ -867,13 +867,17 @@ function normalizeFirststepsBibleContainers($: CheerioAPI): void {
 
     // Normalize the Bible icon.
     $container
-      .find('img.journey-read')
+      .find('img.journey-read, img.read')
       .removeClass('journey-read')
       .addClass('read')
       .attr('src', '/images/firststeps/bible.png');
 
-    // Normalize the reference class without changing its language or text.
-    $container.find('span.zh-s-verse').removeClass('zh-s-verse').addClass('eng-verse');
+    // Normalize Bible reference classes for all languages.
+    // Examples: eng-verse, por-verse, zh-s-verse.
+    $container
+      .find('p.read span[class$="-verse"]')
+      .removeClass()
+      .addClass('eng-verse');
 
     // Collect the outermost Bible passage container.
     const $bible = $container.find('div.bible').first();
@@ -881,12 +885,7 @@ function normalizeFirststepsBibleContainers($: CheerioAPI): void {
     if ($bible.length) {
       // Remove empty paragraphs.
       $bible.find('p').each((_, p) => {
-        if (
-          !$(p)
-            .text()
-            .replace(/\u00a0/g, '')
-            .trim()
-        ) {
+        if (!$(p).text().replace(/\u00a0/g, '').trim()) {
           $(p).remove();
         }
       });
@@ -896,7 +895,6 @@ function normalizeFirststepsBibleContainers($: CheerioAPI): void {
         $(nested).replaceWith($(nested).contents());
       });
 
-      // Remove stray whitespace-only nodes.
       // Remove stray whitespace-only text nodes.
       $bible.contents().each((_, node) => {
         if (isText(node) && !node.data.replace(/\u00a0/g, '').trim()) {
@@ -919,6 +917,21 @@ function normalizeFirststepsBibleLinks($: CheerioAPI): void {
     $paragraph.find('img.read').removeClass('read');
 
     $paragraph.replaceWith(`<p>${$paragraph.html() ?? ''}</p>`);
+  });
+}
+function normalizeFirststepsBibleVerseNumbers($: CheerioAPI): void {
+  // Convert verse-number spans into superscripts.
+  $('div.bible-container div.bible span.versenum, div.bible-container div.bible span.verse')
+    .each((_, element) => {
+      const $verse = $(element);
+      const number = $verse.text().trim();
+
+      $verse.replaceWith(`<sup>${number}</sup>`);
+    });
+
+  // Remove unnecessary styling spans surrounding Scripture text.
+  $('div.bible-container div.bible span.bible').each((_, element) => {
+    $(element).replaceWith($(element).contents());
   });
 }
 function normalizeFirststepsConclusionHeadings($: CheerioAPI): void {
@@ -1516,6 +1529,7 @@ export function migrateOldLessonHtmlToEditorJs(
   normalizeFirststepsOpeningImages($);
   normalizeFirststepsSatisfiedLink($);
   normalizeFirststepsBibleContainers($);
+  normalizeFirststepsBibleVerseNumbers($);
   normalizeReadBibleReference($);
   normalizeFirststepsBibleLinks($);
   normalizeStandaloneBibleReferences($);

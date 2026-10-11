@@ -10,6 +10,14 @@
   "sortOrder": 1,
   "blocks": [
     {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhe para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
       "type": "list",
       "data": {
         "style": "ordered",
@@ -21,9 +29,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/pray.png\">Seria bom nós orarmos uns pelos outros em relação a estas necessidades."
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "Seria bom nós orarmos uns pelos outros em relação a estas necessidades."
+          }
+        ]
       }
     },
     {
@@ -37,36 +50,49 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "notesArea",
       "data": {
-        "text": "<span class=\"key-span\"><img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/question.png\">Pergunta chave:</span> Como uma pessoa que recebeu Jesus pode saber com certeza que vai passar a eternidade com Deus?"
+        "notes": "",
+        "storageKey": "note"
       }
     },
     {
-      "type": "paragraph",
+      "type": "sectionMarker",
       "data": {
-        "text": "<span class=\"statement-span\"><img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/statement.png\">Declaração:</span> Você pode saber que tem um relacionamento pessoal e garantido com Deus?"
+        "theme": "up",
+        "title": "Olhe para cima",
+        "icon": "arrow-up"
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<img class=\"read\" src=\"/sites/myfriends/images/firststeps/bible.png\"><span class=\"por-verse\">João 10:7-30</span>"
+        "items": [
+          {
+            "icon": "discover",
+            "text": "Pergunta chave: Como uma pessoa que recebeu Jesus pode saber com certeza que vai passar a eternidade com Deus?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "Declaração: Você pode saber que tem um relacionamento pessoal e garantido com Deus?"
+          }
+        ]
       }
     },
     {
       "type": "biblePassage",
       "data": {
-        "reference": "Bible",
-        "html": "<p><span class=\"versenum\" dir=\"ltr\">7</span><span class=\"bible\" dir=\"ltr\">Tornou, pois, Jesus a dizer-lhes: Em verdade vos digo que eu sou a porta das ovelhas. </span><span class=\"versenum\" dir=\"ltr\">8</span><span class=\"bible\" dir=\"ltr\">Todos quantos vieram antes de mim são ladrões e salteadores; mas as ovelhas não os ouviram. </span><span class=\"versenum\" dir=\"ltr\">9</span><span class=\"bible\" dir=\"ltr\">Eu sou a porta: se alguém entrar por mim, salvar-se-á, e entrará, e sairá, e achará pastagens. </span><span class=\"versenum\" dir=\"ltr\">10</span><span class=\"bible\" dir=\"ltr\">O ladrão não vem senão a roubar, a matar e a destruir: eu vim para que tenham vida, e a tenham com abundância. </span><span class=\"versenum\" dir=\"ltr\">11</span><span class=\"bible\" dir=\"ltr\">Eu sou o bom Pastor: o bom Pastor dá a sua vida pelas ovelhas. </span><span class=\"versenum\" dir=\"ltr\">12</span><span class=\"bible\" dir=\"ltr\">Mas, o mercenário, e o que não é pastor, de quem não são as ovelhas, vê vir o lobo, e deixa as ovelhas e foge; e o lobo as arrebata e dispersa. </span><span class=\"versenum\" dir=\"ltr\">13</span><span class=\"bible\" dir=\"ltr\">Ora o mercenário foge, porque é mercenário, e não tem cuidado das ovelhas. </span><span class=\"versenum\" dir=\"ltr\">14</span><span class=\"bible\" dir=\"ltr\">Eu sou o bom Pastor, e conheço as minhas ovelhas, e das minhas sou conhecido. </span><span class=\"versenum\" dir=\"ltr\">15</span><span class=\"bible\" dir=\"ltr\">Assim como o Pai me conhece a mim, também eu conheço o Pai, e dou a minha vida pelas ovelhas. </span><span class=\"versenum\" dir=\"ltr\">16</span><span class=\"bible\" dir=\"ltr\">Ainda tenho outras ovelhas que não são deste aprisco; também me convém agregar estas, e elas ouvirão a minha voz, e haverá um rebanho e um Pastor, </span><span class=\"versenum\" dir=\"ltr\">17</span><span class=\"bible\" dir=\"ltr\">Por isto o Pai me ama, porque dou a minha vida para tornar a tomá-la. </span><span class=\"versenum\" dir=\"ltr\">18</span><span class=\"bible\" dir=\"ltr\">Ninguém ma tira de mim, mas eu, de mim mesmo, a dou; tenho poder para a dar, e poder para tornar a tomá-la. Este mandamento recebi do meu Pai. </span><span class=\"versenum\" dir=\"ltr\">19</span><span class=\"bible\" dir=\"ltr\">Tornou, pois, a haver divisão entre os judeus, por causa destas palavras. </span><span class=\"versenum\" dir=\"ltr\">20</span><span class=\"bible\" dir=\"ltr\">E muitos deles diziam: Tem demónio, e está fora de si; por que o ouvis? </span><span class=\"versenum\" dir=\"ltr\">21</span><span class=\"bible\" dir=\"ltr\">Diziam outros: Estas palavras não são de endemoninhado; pode, porventura, um demónio abrir os olhos aos cegos? </span><span class=\"versenum\" dir=\"ltr\">22</span><span class=\"bible\" dir=\"ltr\">E em Jerusalém havia a festa da dedicação, e era Inverno. </span><span class=\"versenum\" dir=\"ltr\">23</span><span class=\"bible\" dir=\"ltr\">E Jesus andava passeando no templo, no alpendre de Salomão. </span><span class=\"versenum\" dir=\"ltr\">24</span><span class=\"bible\" dir=\"ltr\">Rodearam-no, pois, os judeus, e disseram-lhe: Até quando terás a nossa alma suspensa? Se tu és o Cristo, dize-no-lo abertamente. </span><span class=\"versenum\" dir=\"ltr\">25</span><span class=\"bible\" dir=\"ltr\">Respondeu-lhes Jesus: Já vo-lo tenho dito, e não o credes. As obras que eu faço, em nome de meu Pai, essas testificam de mim. </span><span class=\"versenum\" dir=\"ltr\">26</span><span class=\"bible\" dir=\"ltr\">Mas vós não credes, porque não sois das minhas ovelhas, como já vo-lo tenho dito. </span><span class=\"versenum\" dir=\"ltr\">27</span><span class=\"bible\" dir=\"ltr\">As minhas ovelhas ouvem a minha voz, e eu conheço-as, e elas me seguem; </span><span class=\"versenum\" dir=\"ltr\">28</span><span class=\"bible\" dir=\"ltr\">E dou-lhes a vida eterna, e nunca hão-de perecer, e ninguém as arrebatará da minha mão. </span><span class=\"versenum\" dir=\"ltr\">29</span><span class=\"bible\" dir=\"ltr\">Meu Pai, que mas deu, é maior do que todos; e ninguém pode arrebatá-las da mão do meu Pai. </span><span class=\"versenum\" dir=\"ltr\">30</span><span class=\"bible\" dir=\"ltr\">Eu e o Pai somos um. </span></p>",
-        "url": "",
+        "reference": "João 10:7-30",
+        "html": "<p><sup>7</sup>Tornou, pois, Jesus a dizer-lhes: Em verdade vos digo que eu sou a porta das ovelhas. <sup>8</sup>Todos quantos vieram antes de mim são ladrões e salteadores; mas as ovelhas não os ouviram. <sup>9</sup>Eu sou a porta: se alguém entrar por mim, salvar-se-á, e entrará, e sairá, e achará pastagens. <sup>10</sup>O ladrão não vem senão a roubar, a matar e a destruir: eu vim para que tenham vida, e a tenham com abundância. <sup>11</sup>Eu sou o bom Pastor: o bom Pastor dá a sua vida pelas ovelhas. <sup>12</sup>Mas, o mercenário, e o que não é pastor, de quem não são as ovelhas, vê vir o lobo, e deixa as ovelhas e foge; e o lobo as arrebata e dispersa. <sup>13</sup>Ora o mercenário foge, porque é mercenário, e não tem cuidado das ovelhas. <sup>14</sup>Eu sou o bom Pastor, e conheço as minhas ovelhas, e das minhas sou conhecido. <sup>15</sup>Assim como o Pai me conhece a mim, também eu conheço o Pai, e dou a minha vida pelas ovelhas. <sup>16</sup>Ainda tenho outras ovelhas que não são deste aprisco; também me convém agregar estas, e elas ouvirão a minha voz, e haverá um rebanho e um Pastor, <sup>17</sup>Por isto o Pai me ama, porque dou a minha vida para tornar a tomá-la. <sup>18</sup>Ninguém ma tira de mim, mas eu, de mim mesmo, a dou; tenho poder para a dar, e poder para tornar a tomá-la. Este mandamento recebi do meu Pai. <sup>19</sup>Tornou, pois, a haver divisão entre os judeus, por causa destas palavras. <sup>20</sup>E muitos deles diziam: Tem demónio, e está fora de si; por que o ouvis? <sup>21</sup>Diziam outros: Estas palavras não são de endemoninhado; pode, porventura, um demónio abrir os olhos aos cegos? <sup>22</sup>E em Jerusalém havia a festa da dedicação, e era Inverno. <sup>23</sup>E Jesus andava passeando no templo, no alpendre de Salomão. <sup>24</sup>Rodearam-no, pois, os judeus, e disseram-lhe: Até quando terás a nossa alma suspensa? Se tu és o Cristo, dize-no-lo abertamente. <sup>25</sup>Respondeu-lhes Jesus: Já vo-lo tenho dito, e não o credes. As obras que eu faço, em nome de meu Pai, essas testificam de mim. <sup>26</sup>Mas vós não credes, porque não sois das minhas ovelhas, como já vo-lo tenho dito. <sup>27</sup>As minhas ovelhas ouvem a minha voz, e eu conheço-as, e elas me seguem; <sup>28</sup>E dou-lhes a vida eterna, e nunca hão-de perecer, e ninguém as arrebatará da minha mão. <sup>29</sup>Meu Pai, que mas deu, é maior do que todos; e ninguém pode arrebatá-las da mão do meu Pai. <sup>30</sup>Eu e o Pai somos um. </p>",
+        "url": "https://www.biblegateway.com/passage/?search=Jo%C3%A3o+10%3A7-30&version=NVI-PT",
         "isOpen": false
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<a class=\"readmore\" target=\"_blank\" href=\"https://www.biblegateway.com/passage/?search=Jo%C3%A3o+10%3A7-30&amp;version=NVI-PT\">Leia mais</a>"
       }
     },
     {
@@ -85,36 +111,40 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "header",
       "data": {
-        "text": "Conclusão:"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<img class=\"read\" src=\"/sites/myfriends/images/firststeps/bible.png\"><span class=\"por-verse\">1 João 5:11-13</span>"
+        "text": "Conclusão:",
+        "level": 3
       }
     },
     {
       "type": "biblePassage",
       "data": {
-        "reference": "Bible",
-        "html": "<p><span class=\"versenum\" dir=\"ltr\">11</span><span class=\"bible\" dir=\"ltr\">E o testemunho é este: que Deus nos deu a vida eterna; e esta vida está no seu Filho. </span><span class=\"versenum\" dir=\"ltr\">12</span><span class=\"bible\" dir=\"ltr\">Quem tem o Filho tem a vida; quem não tem o Filho de Deus não tem a vida. </span><span class=\"versenum\" dir=\"ltr\">13</span><span class=\"bible\" dir=\"ltr\">Estas coisas vos escrevi, para que saibais que tendes a vida eterna, e para que creiais no nome do Filho de Deus. </span></p>",
-        "url": "",
+        "reference": "1 João 5:11-13",
+        "html": "<p><sup>11</sup>E o testemunho é este: que Deus nos deu a vida eterna; e esta vida está no seu Filho. <sup>12</sup>Quem tem o Filho tem a vida; quem não tem o Filho de Deus não tem a vida. <sup>13</sup>Estas coisas vos escrevi, para que saibais que tendes a vida eterna, e para que creiais no nome do Filho de Deus. </p>",
+        "url": "https://www.biblegateway.com/passage/?search=1+Jo%C3%A3o+5%3A11-13&version=NVI-PT",
         "isOpen": false
       }
     },
     {
       "type": "paragraph",
       "data": {
-        "text": "<a class=\"readmore\" target=\"_blank\" href=\"https://www.biblegateway.com/passage/?search=1+Jo%C3%A3o+5%3A11-13&amp;version=NVI-PT\">Leia mais</a>"
+        "text": "Na cruz, Jesus, o Bom Pastor, deu sua vida como sacrifício por nossos pecados. Quando colocamos nossa fé em Jesus como nosso Senhor e Salvador, tornamo-nos uma de suas ovelhas e começamos a segui-lo. Ele quer que saibamos que temos a vida eterna e que nada pode tirar isso de nós. Você tem certeza que recebeu Jesus em sua vida? Você tem certeza que tem a vida eterna?"
       }
     },
     {
-      "type": "paragraph",
+      "type": "notesArea",
       "data": {
-        "text": "Na cruz, Jesus, o Bom Pastor, deu sua vida como sacrifício por nossos pecados. Quando colocamos nossa fé em Jesus como nosso Senhor e Salvador, tornamo-nos uma de suas ovelhas e começamos a segui-lo. Ele quer que saibamos que temos a vida eterna e que nada pode tirar isso de nós. Você tem certeza que recebeu Jesus em sua vida? Você tem certeza que tem a vida eterna?"
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhe para a frente",
+        "icon": "arrow-right"
       }
     },
     {
@@ -135,9 +165,9 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iWill",
       "data": {
-        "text": "<a target=\"_blank\" href=\"https://firststepswithgod.com/por/print/2\">Baixar lição</a><br> firststepswithgod.com/por/print/2"
+        "storageKey": "firststeps-step2-i-will"
       }
     }
   ]

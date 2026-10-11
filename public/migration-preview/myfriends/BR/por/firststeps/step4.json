@@ -10,6 +10,14 @@
   "sortOrder": 3,
   "blocks": [
     {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhe para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
       "type": "list",
       "data": {
         "style": "ordered",
@@ -21,9 +29,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/pray.png\">Seria bom nós orarmos uns pelos outros em relação a estas necessidades."
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "Seria bom nós orarmos uns pelos outros em relação a estas necessidades."
+          }
+        ]
       }
     },
     {
@@ -37,28 +50,47 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "notesArea",
       "data": {
-        "text": "<span class=\"key-span\"><img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/question.png\">Pergunta chave:</span> Se ter um relacionamento com Jesus é uma notícia tão boa, como podemos falar para outros sobre essa boa notícia?"
+        "notes": "",
+        "storageKey": "note"
       }
     },
     {
-      "type": "paragraph",
+      "type": "sectionMarker",
       "data": {
-        "text": "<span class=\"statement-span\"><img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/statement.png\">Declaração:</span> Qualquer um que teve um encontro com Jesus pode compartilhar com outros sobre sua experiência, para que eles também possam encontrar Jesus. Assim como você foi capaz de articular seu testemunho em nossa primeira semana, hoje vamos escutar sobre como um testemunho foi usado para impactar não só uma pessoa, mas toda uma cidade!"
+        "theme": "up",
+        "title": "Olhe para cima",
+        "icon": "arrow-up"
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<img class=\"read\" src=\"/sites/myfriends/images/firststeps/bible.png\"><span class=\"por-verse\">João 4:1-42</span>"
+        "items": [
+          {
+            "icon": "discover",
+            "text": "Pergunta chave: Se ter um relacionamento com Jesus é uma notícia tão boa, como podemos falar para outros sobre essa boa notícia?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "Declaração: Qualquer um que teve um encontro com Jesus pode compartilhar com outros sobre sua experiência, para que eles também possam encontrar Jesus. Assim como você foi capaz de articular seu testemunho em nossa primeira semana, hoje vamos escutar sobre como um testemunho foi usado para impactar não só uma pessoa, mas toda uma cidade!"
+          }
+        ]
       }
     },
     {
       "type": "biblePassage",
       "data": {
-        "reference": "Bible",
-        "html": "<p><span class=\"versenum\" dir=\"ltr\">1</span><span class=\"bible\" dir=\"ltr\">E QUANDO o Senhor entendeu que os fariseus tinham ouvido que Jesus fazia e baptizava mais discípulos do que João, </span><span class=\"versenum\" dir=\"ltr\">2</span><span class=\"bible\" dir=\"ltr\">(Ainda que Jesus mesmo não baptizava, mas os seus discípulos), </span><span class=\"versenum\" dir=\"ltr\">3</span><span class=\"bible\" dir=\"ltr\">Deixou a Judeia, e foi outra vez para a Galileia. </span><span class=\"versenum\" dir=\"ltr\">4</span><span class=\"bible\" dir=\"ltr\">E era-lhe necessário passar por Samaria. </span><span class=\"versenum\" dir=\"ltr\">5</span><span class=\"bible\" dir=\"ltr\">Foi, pois, a uma cidade de Samaria, chamada Sicar, junto da herdade que Jacob tinha dado ao seu filho José. </span><span class=\"versenum\" dir=\"ltr\">6</span><span class=\"bible\" dir=\"ltr\">E estava ali a fonte de Jacob. Jesus, pois, cansado do caminho, assentou-se assim, junto da fonte. Era isto quase à hora sexta. </span><span class=\"versenum\" dir=\"ltr\">7</span><span class=\"bible\" dir=\"ltr\">Veio uma mulher de Samaria tirar água. Disse-lhe Jesus: Dá-me de beber. </span><span class=\"versenum\" dir=\"ltr\">8</span><span class=\"bible\" dir=\"ltr\">Porque os seus discípulos tinham ido à cidade comprar comida. </span><span class=\"versenum\" dir=\"ltr\">9</span><span class=\"bible\" dir=\"ltr\">Disse, pois, a mulher samaritana: Como, sendo tu judeu, me pedes de beber a mim, que sou mulher samaritana? (porque os judeus não se comunicam com os samaritanos). </span><span class=\"versenum\" dir=\"ltr\">10</span><span class=\"bible\" dir=\"ltr\">Jesus respondeu, e disse-lhe: Se tu conheceras o dom de Deus, e quem é o que te diz — Dá-me de beber, tu lhe pedirias, e ele te daria água viva. </span><span class=\"versenum\" dir=\"ltr\">11</span><span class=\"bible\" dir=\"ltr\">Disse-lhe a mulher; Senhor, tu não tens com que a tirar, e o poço é fundo; onde, pois, tens a água viva? </span><span class=\"versenum\" dir=\"ltr\">12</span><span class=\"bible\" dir=\"ltr\">És tu maior do que o nosso pai Jacob, que nos deu o poço, bebendo ele próprio dele, e os seus filhos e o seu gado? </span><span class=\"versenum\" dir=\"ltr\">13</span><span class=\"bible\" dir=\"ltr\">Jesus respondeu, e disse-lhe: Qualquer que beber desta água tornará a ter sede; </span><span class=\"versenum\" dir=\"ltr\">14</span><span class=\"bible\" dir=\"ltr\">Mas aquele que beber da água que eu lhe der nunca terá sede, porque a água que eu lhe der se fará nele uma fonte de água que salte para a vida eterna. </span><span class=\"versenum\" dir=\"ltr\">15</span><span class=\"bible\" dir=\"ltr\">Disse-lhe a mulher: Senhor, dá-me dessa água, para que não mais tenha sede, e não venha aqui tirá-la. </span><span class=\"versenum\" dir=\"ltr\">16</span><span class=\"bible\" dir=\"ltr\">Disse-lhe Jesus: Vai, chama o teu marido, e vem cá. </span><span class=\"versenum\" dir=\"ltr\">17</span><span class=\"bible\" dir=\"ltr\">A mulher respondeu, e disse: Não tenho marido. Disse-lhe Jesus: Disseste bem: Não tenho marido; </span><span class=\"versenum\" dir=\"ltr\">18</span><span class=\"bible\" dir=\"ltr\">Porque tiveste cinco maridos, e o que agora tens não é teu marido; isto disseste com verdade. </span><span class=\"versenum\" dir=\"ltr\">19</span><span class=\"bible\" dir=\"ltr\">Disse-lhe a mulher: Senhor, vejo que és profeta. </span><span class=\"versenum\" dir=\"ltr\">20</span><span class=\"bible\" dir=\"ltr\">Nossos pais adoraram neste monte, e vós dizeis que é em Jerusalém o lugar onde se deve adorar. </span><span class=\"versenum\" dir=\"ltr\">21</span><span class=\"bible\" dir=\"ltr\">Disse-lhe Jesus: Mulher, crê-me que a hora vem, em que, nem neste monte, nem em Jerusalém, adorareis o Pai. </span><span class=\"versenum\" dir=\"ltr\">22</span><span class=\"bible\" dir=\"ltr\">Vós adorais o que não sabeis; nós adoramos o que sabemos, porque a salvação vem dos judeus. </span><span class=\"versenum\" dir=\"ltr\">23</span><span class=\"bible\" dir=\"ltr\">Mas a hora vem, e agora é, em que os verdadeiros adoradores adorarão o Pai em espírito e em verdade; porque o Pai procura a tais que assim o adorem. </span><span class=\"versenum\" dir=\"ltr\">24</span><span class=\"bible\" dir=\"ltr\">Deus é Espírito, e importa que os que o adoram o adorem em espírito e em verdade. </span><span class=\"versenum\" dir=\"ltr\">25</span><span class=\"bible\" dir=\"ltr\">A mulher disse-lhe: Eu sei que o Messias (que se chama o Cristo) vem; quando ele vier, nos anunciará tudo. </span><span class=\"versenum\" dir=\"ltr\">26</span><span class=\"bible\" dir=\"ltr\">Jesus disse-lhe: Eu o sou, eu, que falo contigo. </span><span class=\"versenum\" dir=\"ltr\">27</span><span class=\"bible\" dir=\"ltr\">E nisto vieram os seus discípulos, e maravilharam-se de que estivesse falando com uma mulher; todavia, nenhum lhe disse: Que perguntas? ou: Por que falas com ela? </span><span class=\"versenum\" dir=\"ltr\">28</span><span class=\"bible\" dir=\"ltr\">Deixou, pois, a mulher o seu cântaro, e foi à cidade, e disse àqueles homens: </span><span class=\"versenum\" dir=\"ltr\">29</span><span class=\"bible\" dir=\"ltr\">Vinde, vede um homem que me disse tudo quanto tenho feito: porventura não é este o Cristo? </span><span class=\"versenum\" dir=\"ltr\">30</span><span class=\"bible\" dir=\"ltr\">Saíram pois da cidade, e foram ter com ele. </span><span class=\"versenum\" dir=\"ltr\">31</span><span class=\"bible\" dir=\"ltr\">E, entretanto, os seus discípulos lhe rogaram, dizendo: Rabi, come. </span><span class=\"versenum\" dir=\"ltr\">32</span><span class=\"bible\" dir=\"ltr\">Porém ele lhes disse: Uma comida tenho para comer, que vós não conheceis. </span><span class=\"versenum\" dir=\"ltr\">33</span><span class=\"bible\" dir=\"ltr\">Então os discípulos diziam uns aos outros: Trouxe-lhe, porventura, alguém de comer? </span><span class=\"versenum\" dir=\"ltr\">34</span><span class=\"bible\" dir=\"ltr\">Jesus disse-lhes: A minha comida é fazer a vontade daquele que me enviou, e realizar a sua obra. </span><span class=\"versenum\" dir=\"ltr\">35</span><span class=\"bible\" dir=\"ltr\">Não dizeis vós que ainda há quatro meses até que venha a ceifa? Eis que eu vos digo: Levantai os vossos olhos, e vede as terras, que já estão brancas para a ceifa. </span><span class=\"versenum\" dir=\"ltr\">36</span><span class=\"bible\" dir=\"ltr\">E o que ceifa recebe galardão, e ajunta fruto para a vida eterna; para que, assim, o que semeia, como o que ceifa, ambos se regozijem. </span><span class=\"versenum\" dir=\"ltr\">37</span><span class=\"bible\" dir=\"ltr\">Porque nisto é verdadeiro o ditado: que um é o que semeia, e outro o que ceifa. </span><span class=\"versenum\" dir=\"ltr\">38</span><span class=\"bible\" dir=\"ltr\">Eu vos enviei a ceifar onde vós não trabalhastes; outros trabalharam e vós entrastes no seu trabalho. </span><span class=\"versenum\" dir=\"ltr\">39</span><span class=\"bible\" dir=\"ltr\">E muitos dos samaritanos daquela cidade creram nele, pela palavra da mulher, que testificou: Disse-me tudo quanto tenho feito. </span><span class=\"versenum\" dir=\"ltr\">40</span><span class=\"bible\" dir=\"ltr\">Indo, pois, ter com ele os samaritanos, rogaram-lhe que ficasse com eles; e ficou ali dois dias. </span><span class=\"versenum\" dir=\"ltr\">41</span><span class=\"bible\" dir=\"ltr\">E muitos mais creram nele, por causa da sua palavra; </span><span class=\"versenum\" dir=\"ltr\">42</span><span class=\"bible\" dir=\"ltr\">E diziam à mulher: já não é pelo teu dito que nós cremos; porque nós mesmos o temos ouvido, e sabemos que este é, verdadeiramente, o Cristo, o Salvador do mundo. </span></p><p></p>",
+        "reference": "João 4:1-42",
+        "html": "<p><sup>1</sup>E QUANDO o Senhor entendeu que os fariseus tinham ouvido que Jesus fazia e baptizava mais discípulos do que João, <sup>2</sup>(Ainda que Jesus mesmo não baptizava, mas os seus discípulos), <sup>3</sup>Deixou a Judeia, e foi outra vez para a Galileia. <sup>4</sup>E era-lhe necessário passar por Samaria. <sup>5</sup>Foi, pois, a uma cidade de Samaria, chamada Sicar, junto da herdade que Jacob tinha dado ao seu filho José. <sup>6</sup>E estava ali a fonte de Jacob. Jesus, pois, cansado do caminho, assentou-se assim, junto da fonte. Era isto quase à hora sexta. <sup>7</sup>Veio uma mulher de Samaria tirar água. Disse-lhe Jesus: Dá-me de beber. <sup>8</sup>Porque os seus discípulos tinham ido à cidade comprar comida. <sup>9</sup>Disse, pois, a mulher samaritana: Como, sendo tu judeu, me pedes de beber a mim, que sou mulher samaritana? (porque os judeus não se comunicam com os samaritanos). <sup>10</sup>Jesus respondeu, e disse-lhe: Se tu conheceras o dom de Deus, e quem é o que te diz — Dá-me de beber, tu lhe pedirias, e ele te daria água viva. <sup>11</sup>Disse-lhe a mulher; Senhor, tu não tens com que a tirar, e o poço é fundo; onde, pois, tens a água viva? <sup>12</sup>És tu maior do que o nosso pai Jacob, que nos deu o poço, bebendo ele próprio dele, e os seus filhos e o seu gado? <sup>13</sup>Jesus respondeu, e disse-lhe: Qualquer que beber desta água tornará a ter sede; <sup>14</sup>Mas aquele que beber da água que eu lhe der nunca terá sede, porque a água que eu lhe der se fará nele uma fonte de água que salte para a vida eterna. <sup>15</sup>Disse-lhe a mulher: Senhor, dá-me dessa água, para que não mais tenha sede, e não venha aqui tirá-la. <sup>16</sup>Disse-lhe Jesus: Vai, chama o teu marido, e vem cá. <sup>17</sup>A mulher respondeu, e disse: Não tenho marido. Disse-lhe Jesus: Disseste bem: Não tenho marido; <sup>18</sup>Porque tiveste cinco maridos, e o que agora tens não é teu marido; isto disseste com verdade. <sup>19</sup>Disse-lhe a mulher: Senhor, vejo que és profeta. <sup>20</sup>Nossos pais adoraram neste monte, e vós dizeis que é em Jerusalém o lugar onde se deve adorar. <sup>21</sup>Disse-lhe Jesus: Mulher, crê-me que a hora vem, em que, nem neste monte, nem em Jerusalém, adorareis o Pai. <sup>22</sup>Vós adorais o que não sabeis; nós adoramos o que sabemos, porque a salvação vem dos judeus. <sup>23</sup>Mas a hora vem, e agora é, em que os verdadeiros adoradores adorarão o Pai em espírito e em verdade; porque o Pai procura a tais que assim o adorem. <sup>24</sup>Deus é Espírito, e importa que os que o adoram o adorem em espírito e em verdade. <sup>25</sup>A mulher disse-lhe: Eu sei que o Messias (que se chama o Cristo) vem; quando ele vier, nos anunciará tudo. <sup>26</sup>Jesus disse-lhe: Eu o sou, eu, que falo contigo. <sup>27</sup>E nisto vieram os seus discípulos, e maravilharam-se de que estivesse falando com uma mulher; todavia, nenhum lhe disse: Que perguntas? ou: Por que falas com ela? <sup>28</sup>Deixou, pois, a mulher o seu cântaro, e foi à cidade, e disse àqueles homens: <sup>29</sup>Vinde, vede um homem que me disse tudo quanto tenho feito: porventura não é este o Cristo? <sup>30</sup>Saíram pois da cidade, e foram ter com ele. <sup>31</sup>E, entretanto, os seus discípulos lhe rogaram, dizendo: Rabi, come. <sup>32</sup>Porém ele lhes disse: Uma comida tenho para comer, que vós não conheceis. <sup>33</sup>Então os discípulos diziam uns aos outros: Trouxe-lhe, porventura, alguém de comer? <sup>34</sup>Jesus disse-lhes: A minha comida é fazer a vontade daquele que me enviou, e realizar a sua obra. <sup>35</sup>Não dizeis vós que ainda há quatro meses até que venha a ceifa? Eis que eu vos digo: Levantai os vossos olhos, e vede as terras, que já estão brancas para a ceifa. <sup>36</sup>E o que ceifa recebe galardão, e ajunta fruto para a vida eterna; para que, assim, o que semeia, como o que ceifa, ambos se regozijem. <sup>37</sup>Porque nisto é verdadeiro o ditado: que um é o que semeia, e outro o que ceifa. <sup>38</sup>Eu vos enviei a ceifar onde vós não trabalhastes; outros trabalharam e vós entrastes no seu trabalho. <sup>39</sup>E muitos dos samaritanos daquela cidade creram nele, pela palavra da mulher, que testificou: Disse-me tudo quanto tenho feito. <sup>40</sup>Indo, pois, ter com ele os samaritanos, rogaram-lhe que ficasse com eles; e ficou ali dois dias. <sup>41</sup>E muitos mais creram nele, por causa da sua palavra; <sup>42</sup>E diziam à mulher: já não é pelo teu dito que nós cremos; porque nós mesmos o temos ouvido, e sabemos que este é, verdadeiramente, o Cristo, o Salvador do mundo. </p><p></p>",
         "url": "https://www.biblegateway.com/passage/?search=Jo%C3%A3o+4%3A1-42&version=NVI-PT",
         "isOpen": false
       }
@@ -75,15 +107,31 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "header",
       "data": {
-        "text": "Conclusão:"
+        "text": "Conclusão:",
+        "level": 3
       }
     },
     {
       "type": "paragraph",
       "data": {
         "text": "Como você acha que essa passagem se relaciona à pergunta feita anteriormente?<span class=\"italics\">\"Como podemos contar aos outros sobre Jesus?\"</span>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhe para a frente",
+        "icon": "arrow-right"
       }
     },
     {
@@ -104,9 +152,9 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iWill",
       "data": {
-        "text": "<a target=\"_blank\" href=\"https://firststepswithgod.com/por/print/4\">Baixar lição</a><br> firststepswithgod.com/por/print/4"
+        "storageKey": "firststeps-step4-i-will"
       }
     }
   ]

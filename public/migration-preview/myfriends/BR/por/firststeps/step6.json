@@ -10,6 +10,14 @@
   "sortOrder": 5,
   "blocks": [
     {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhe para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
       "type": "list",
       "data": {
         "style": "ordered",
@@ -21,9 +29,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/pray.png\">Seria bom nós orarmos uns pelos outros em relação a estas necessidades."
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "Seria bom nós orarmos uns pelos outros em relação a estas necessidades."
+          }
+        ]
       }
     },
     {
@@ -37,28 +50,47 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "notesArea",
       "data": {
-        "text": "<span class=\"key-span\"><img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/question.png\">Pergunta chave:</span> Quem nos ajuda a entender e a experimentar as coisas sobre as quais temos falado nessas últimas semanas?"
+        "notes": "",
+        "storageKey": "note"
       }
     },
     {
-      "type": "paragraph",
+      "type": "sectionMarker",
       "data": {
-        "text": "<span class=\"statement-span\"><img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/statement.png\">Declaração: O Espírito Santo está sempre disposto a nos ajudar a entender e a experimentar a vida cristã.</span>"
+        "theme": "up",
+        "title": "Olhe para cima",
+        "icon": "arrow-up"
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<img class=\"read\" src=\"/sites/myfriends/images/firststeps/bible.png\"><span class=\"por-verse\">João 14:15-27</span>"
+        "items": [
+          {
+            "icon": "discover",
+            "text": "Pergunta chave: Quem nos ajuda a entender e a experimentar as coisas sobre as quais temos falado nessas últimas semanas?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "Declaração: O Espírito Santo está sempre disposto a nos ajudar a entender e a experimentar a vida cristã."
+          }
+        ]
       }
     },
     {
       "type": "biblePassage",
       "data": {
-        "reference": "Bible",
-        "html": "<p><span class=\"versenum\" dir=\"ltr\">15</span><span class=\"bible\" dir=\"ltr\">Se me amardes, guardareis os meus mandamentos. </span><span class=\"versenum\" dir=\"ltr\">16</span><span class=\"bible\" dir=\"ltr\">E eu rogarei ao Pai, e ele vos dará outro Consolador, para que fique convosco para sempre; </span><span class=\"versenum\" dir=\"ltr\">17</span><span class=\"bible\" dir=\"ltr\">O Espírito de verdade, que o mundo não pode receber, porque não o vê nem o conhece; mas vós o conheceis, porque habita convosco, e estará em vós. </span><span class=\"versenum\" dir=\"ltr\">18</span><span class=\"bible\" dir=\"ltr\">Não vos deixarei órfãos; voltarei para vós. </span><span class=\"versenum\" dir=\"ltr\">19</span><span class=\"bible\" dir=\"ltr\">Ainda um pouco, e o mundo não me verá mais, mas vós me vereis; porque eu vivo, e vós vivereis. </span><span class=\"versenum\" dir=\"ltr\">20</span><span class=\"bible\" dir=\"ltr\">Naquele dia, conhecereis que estou em meu Pai, e vós em mim, e eu em vós. </span><span class=\"versenum\" dir=\"ltr\">21</span><span class=\"bible\" dir=\"ltr\">Aquele que tem os meus mandamentos, e os guarda, esse é o que me ama; e, aquele que me ama, será amado de meu Pai, e eu o amarei, e me manifestarei a ele. </span><span class=\"versenum\" dir=\"ltr\">22</span><span class=\"bible\" dir=\"ltr\">Disse-lhe Judas (não o Iscariotes): Senhor, de onde vem que te hás-de manifestar a nós, e não ao mundo? </span><span class=\"versenum\" dir=\"ltr\">23</span><span class=\"bible\" dir=\"ltr\">Jesus respondeu, e disse-lhe: Se alguém me ama, guardará a minha palavra, e meu Pai o amará, e viremos para ele, e faremos nele morada. </span><span class=\"versenum\" dir=\"ltr\">24</span><span class=\"bible\" dir=\"ltr\">Quem me não ama não guarda as minhas palavras; ora, a palavra que ouvistes não é minha, mas do Pai que me enviou. </span><span class=\"versenum\" dir=\"ltr\">25</span><span class=\"bible\" dir=\"ltr\">Tenho-vos dito isto, estando convosco. </span><span class=\"versenum\" dir=\"ltr\">26</span><span class=\"bible\" dir=\"ltr\">Mas, aquele Consolador, o Espírito Santo, que o Pai enviará em meu nome, esse vos ensinará todas as coisas, e vos fará lembrar de tudo quanto vos tenho dito. </span><span class=\"versenum\" dir=\"ltr\">27</span><span class=\"bible\" dir=\"ltr\">Deixo-vos a paz, a minha paz vos dou; não vo-la dou como o mundo a dá. Não se turbe o vosso coração, nem se atemorize. </span></p><p></p>",
+        "reference": "João 14:15-27",
+        "html": "<p><sup>15</sup>Se me amardes, guardareis os meus mandamentos. <sup>16</sup>E eu rogarei ao Pai, e ele vos dará outro Consolador, para que fique convosco para sempre; <sup>17</sup>O Espírito de verdade, que o mundo não pode receber, porque não o vê nem o conhece; mas vós o conheceis, porque habita convosco, e estará em vós. <sup>18</sup>Não vos deixarei órfãos; voltarei para vós. <sup>19</sup>Ainda um pouco, e o mundo não me verá mais, mas vós me vereis; porque eu vivo, e vós vivereis. <sup>20</sup>Naquele dia, conhecereis que estou em meu Pai, e vós em mim, e eu em vós. <sup>21</sup>Aquele que tem os meus mandamentos, e os guarda, esse é o que me ama; e, aquele que me ama, será amado de meu Pai, e eu o amarei, e me manifestarei a ele. <sup>22</sup>Disse-lhe Judas (não o Iscariotes): Senhor, de onde vem que te hás-de manifestar a nós, e não ao mundo? <sup>23</sup>Jesus respondeu, e disse-lhe: Se alguém me ama, guardará a minha palavra, e meu Pai o amará, e viremos para ele, e faremos nele morada. <sup>24</sup>Quem me não ama não guarda as minhas palavras; ora, a palavra que ouvistes não é minha, mas do Pai que me enviou. <sup>25</sup>Tenho-vos dito isto, estando convosco. <sup>26</sup>Mas, aquele Consolador, o Espírito Santo, que o Pai enviará em meu nome, esse vos ensinará todas as coisas, e vos fará lembrar de tudo quanto vos tenho dito. <sup>27</sup>Deixo-vos a paz, a minha paz vos dou; não vo-la dou como o mundo a dá. Não se turbe o vosso coração, nem se atemorize. </p><p></p>",
         "url": "https://www.biblegateway.com/passage/?search=Jo%C3%A3o+14%3A15-27&version=NVI-PT",
         "isOpen": false
       }
@@ -79,15 +111,31 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "header",
       "data": {
-        "text": "Conclusão:"
+        "text": "Conclusão:",
+        "level": 3
       }
     },
     {
       "type": "paragraph",
       "data": {
         "text": "É através do Espírito Santo que Deus nos ajuda a entender e a experimentar o que significa viver a vida cristã. O Espírito Santo sempre está conosco e nos ajuda a lembrar das coisas que Deus tem nos ensinado e a nos lembrar da presença de Deus conosco."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhe para a frente",
+        "icon": "arrow-right"
       }
     },
     {
@@ -114,66 +162,36 @@
       }
     },
     {
-      "type": "paragraph",
-      "data": {
-        "text": "<img class=\"read\" src=\"/sites/myfriends/images/firststeps/bible.png\"><span class=\"por-verse\">Gálatas 5:16-26</span>"
-      }
-    },
-    {
       "type": "biblePassage",
       "data": {
-        "reference": "Bible",
-        "html": "<p><span class=\"versenum\" dir=\"ltr\">16</span><span class=\"bible\" dir=\"ltr\">Digo, porém: Andai em Espírito, e não cumprireis a concupiscência da carne. </span><span class=\"versenum\" dir=\"ltr\">17</span><span class=\"bible\" dir=\"ltr\">Porque a carne cobiça contra o Espírito, e o Espírito contra a carne; e estes opõem-se um ao outro, para que não façais o que quereis. </span><span class=\"versenum\" dir=\"ltr\">18</span><span class=\"bible\" dir=\"ltr\">Mas, se sois guiados pelo Espírito, não estais debaixo da lei. </span><span class=\"versenum\" dir=\"ltr\">19</span><span class=\"bible\" dir=\"ltr\">Porque as obras da carne são manifestas, as quais são: Prostituição, impureza, lascívia, </span><span class=\"versenum\" dir=\"ltr\">20</span><span class=\"bible\" dir=\"ltr\">Idolatria, feitiçarias, inimizades, porfias, emulações, iras, pelejas, dissensões, heresias, </span><span class=\"versenum\" dir=\"ltr\">21</span><span class=\"bible\" dir=\"ltr\">Invejas, homicídios, bebedices, glutonarias, e coisas semelhantes a estas, acerca das quais declaro, como já, antes, vos disse, que os que cometem tais coisas não herdarão o reino de Deus. </span><span class=\"versenum\" dir=\"ltr\">22</span><span class=\"bible\" dir=\"ltr\">Mas o fruto do Espírito é: amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão, temperança. </span><span class=\"versenum\" dir=\"ltr\">23</span><span class=\"bible\" dir=\"ltr\">Contra estas coisas não há lei. </span><span class=\"versenum\" dir=\"ltr\">24</span><span class=\"bible\" dir=\"ltr\">E os que são de Cristo crucificaram a carne com as suas paixões e concupiscências. </span><span class=\"versenum\" dir=\"ltr\">25</span><span class=\"bible\" dir=\"ltr\">Se vivemos no Espírito, andemos também no Espírito. </span><span class=\"versenum\" dir=\"ltr\">26</span><span class=\"bible\" dir=\"ltr\">Não sejamos cobiçosos de vanglórias, irritando-nos uns aos outros, invejando-nos uns aos outros. </span></p><p></p>",
+        "reference": "Gálatas 5:16-26",
+        "html": "<p><sup>16</sup>Digo, porém: Andai em Espírito, e não cumprireis a concupiscência da carne. <sup>17</sup>Porque a carne cobiça contra o Espírito, e o Espírito contra a carne; e estes opõem-se um ao outro, para que não façais o que quereis. <sup>18</sup>Mas, se sois guiados pelo Espírito, não estais debaixo da lei. <sup>19</sup>Porque as obras da carne são manifestas, as quais são: Prostituição, impureza, lascívia, <sup>20</sup>Idolatria, feitiçarias, inimizades, porfias, emulações, iras, pelejas, dissensões, heresias, <sup>21</sup>Invejas, homicídios, bebedices, glutonarias, e coisas semelhantes a estas, acerca das quais declaro, como já, antes, vos disse, que os que cometem tais coisas não herdarão o reino de Deus. <sup>22</sup>Mas o fruto do Espírito é: amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão, temperança. <sup>23</sup>Contra estas coisas não há lei. <sup>24</sup>E os que são de Cristo crucificaram a carne com as suas paixões e concupiscências. <sup>25</sup>Se vivemos no Espírito, andemos também no Espírito. <sup>26</sup>Não sejamos cobiçosos de vanglórias, irritando-nos uns aos outros, invejando-nos uns aos outros. </p><p></p>",
         "url": "https://www.biblegateway.com/passage/?search=G%C3%A1latas+5%3A16-26&version=NVI-PT",
         "isOpen": false
       }
     },
     {
-      "type": "paragraph",
+      "type": "biblePassage",
       "data": {
-        "text": "<img class=\"read\" src=\"/sites/myfriends/images/firststeps/bible.png\"><span class=\"por-verse\">Efésios 5:15-18</span>"
+        "reference": "Efésios 5:15-18",
+        "html": "<p><sup>15</sup>Portanto, vede, prudentemente, como andais, não como néscios, mas como sábios, <sup>16</sup>Remindo o tempo, porquanto os dias são maus. <sup>17</sup>Pelo que, não sejais insensatos, mas entendei qual seja a vontade do Senhor. <sup>18</sup>E não vos embriagueis com vinho, em que há contenda, mas enchei-vos do Espírito; </p>",
+        "url": "https://www.biblegateway.com/passage/?search=Ef%C3%A9sios+5%3A15-18&version=NVI-PT",
+        "isOpen": false
       }
     },
     {
       "type": "biblePassage",
       "data": {
-        "reference": "Bible",
-        "html": "<p><span class=\"versenum\" dir=\"ltr\">15</span><span class=\"bible\" dir=\"ltr\">Portanto, vede, prudentemente, como andais, não como néscios, mas como sábios, </span><span class=\"versenum\" dir=\"ltr\">16</span><span class=\"bible\" dir=\"ltr\">Remindo o tempo, porquanto os dias são maus. </span><span class=\"versenum\" dir=\"ltr\">17</span><span class=\"bible\" dir=\"ltr\">Pelo que, não sejais insensatos, mas entendei qual seja a vontade do Senhor. </span><span class=\"versenum\" dir=\"ltr\">18</span><span class=\"bible\" dir=\"ltr\">E não vos embriagueis com vinho, em que há contenda, mas enchei-vos do Espírito; </span></p>",
-        "url": "",
+        "reference": "1 Coríntios 2:9 - 3:3",
+        "html": "<p><sup>9</sup>Mas, como está escrito: As coisas que o olho não viu, e o ouvido não ouviu, e não subiram ao coração do homem, são as que Deus preparou para os que o amam. <sup>10</sup>Mas Deus no-las revelou pelo seu Espírito; porque o Espírito penetra todas as coisas, ainda as profundezas de Deus. <sup>11</sup>Porque, qual dos homens sabe as coisas do homem, senão o espírito do homem, que nele está? Assim, também, ninguém sabe as coisas de Deus, senão o Espírito de Deus. <sup>12</sup>Mas nós não recebemos o espírito do mundo, mas o Espírito que provém de Deus, para que pudéssemos conhecer o que nos é dado gratuitamente por Deus. <sup>13</sup>As quais também falamos, não com palavras de sabedoria humana, mas com as que o Espírito Santo ensina, comparando as coisas espirituais com as espirituais. <sup>14</sup>Ora o homem natural não compreende as coisas do Espírito de Deus, porque lhe parecem loucura; e não pode entendê-las, porque elas se discernem espiritualmente. <sup>15</sup>Mas o que é espiritual discerne bem tudo, e ele de ninguém é discernido. <sup>16</sup>Porque, quem conheceu a mente do Senhor, para que possa instruí-lo? Mas nós temos a mente de Cristo. </p><p><sup>1</sup>E EU, irmãos, não vos pude falar como a espirituais, mas como a carnais, como a meninos em Cristo. <sup>2</sup>Com leite vos criei, e não com manjar, porque ainda não podíeis, nem, tão-pouco, ainda agora podeis, <sup>3</sup>Porque ainda sois carnais; pois, havendo entre vós inveja, contendas e dissensões, não sois, porventura, carnais, e não andais segundo os homens? </p>",
+        "url": "https://www.biblegateway.com/passage/?search=1+Cor%C3%ADntios+2%3A9-3%3A3&version=NVI-PT",
         "isOpen": false
       }
     },
     {
-      "type": "paragraph",
+      "type": "iWill",
       "data": {
-        "text": "<a class=\"readmore\" target=\"_blank\" href=\"https://www.biblegateway.com/passage/?search=Ef%C3%A9sios+5%3A15-18&amp;version=NVI-PT\">Leia mais</a>"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<img class=\"read\" src=\"/sites/myfriends/images/firststeps/bible.png\"><span class=\"por-verse\">1 Coríntios 2:9 - 3:3</span>"
-      }
-    },
-    {
-      "type": "biblePassage",
-      "data": {
-        "reference": "Bible",
-        "html": "<p><span class=\"versenum\" dir=\"ltr\">9</span><span class=\"bible\" dir=\"ltr\">Mas, como está escrito: As coisas que o olho não viu, e o ouvido não ouviu, e não subiram ao coração do homem, são as que Deus preparou para os que o amam. </span><span class=\"versenum\" dir=\"ltr\">10</span><span class=\"bible\" dir=\"ltr\">Mas Deus no-las revelou pelo seu Espírito; porque o Espírito penetra todas as coisas, ainda as profundezas de Deus. </span><span class=\"versenum\" dir=\"ltr\">11</span><span class=\"bible\" dir=\"ltr\">Porque, qual dos homens sabe as coisas do homem, senão o espírito do homem, que nele está? Assim, também, ninguém sabe as coisas de Deus, senão o Espírito de Deus. </span><span class=\"versenum\" dir=\"ltr\">12</span><span class=\"bible\" dir=\"ltr\">Mas nós não recebemos o espírito do mundo, mas o Espírito que provém de Deus, para que pudéssemos conhecer o que nos é dado gratuitamente por Deus. </span><span class=\"versenum\" dir=\"ltr\">13</span><span class=\"bible\" dir=\"ltr\">As quais também falamos, não com palavras de sabedoria humana, mas com as que o Espírito Santo ensina, comparando as coisas espirituais com as espirituais. </span><span class=\"versenum\" dir=\"ltr\">14</span><span class=\"bible\" dir=\"ltr\">Ora o homem natural não compreende as coisas do Espírito de Deus, porque lhe parecem loucura; e não pode entendê-las, porque elas se discernem espiritualmente. </span><span class=\"versenum\" dir=\"ltr\">15</span><span class=\"bible\" dir=\"ltr\">Mas o que é espiritual discerne bem tudo, e ele de ninguém é discernido. </span><span class=\"versenum\" dir=\"ltr\">16</span><span class=\"bible\" dir=\"ltr\">Porque, quem conheceu a mente do Senhor, para que possa instruí-lo? Mas nós temos a mente de Cristo. </span></p><p><span class=\"versenum\" dir=\"ltr\">1</span><span class=\"bible\" dir=\"ltr\">E EU, irmãos, não vos pude falar como a espirituais, mas como a carnais, como a meninos em Cristo. </span><span class=\"versenum\" dir=\"ltr\">2</span><span class=\"bible\" dir=\"ltr\">Com leite vos criei, e não com manjar, porque ainda não podíeis, nem, tão-pouco, ainda agora podeis, </span><span class=\"versenum\" dir=\"ltr\">3</span><span class=\"bible\" dir=\"ltr\">Porque ainda sois carnais; pois, havendo entre vós inveja, contendas e dissensões, não sois, porventura, carnais, e não andais segundo os homens? </span></p>",
-        "url": "",
-        "isOpen": false
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<a class=\"readmore\" target=\"_blank\" href=\"https://www.biblegateway.com/passage/?search=1+Cor%C3%ADntios+2%3A9-3%3A3&amp;version=NVI-PT\">Leia mais</a>"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<a target=\"_blank\" href=\"https://firststepswithgod.com/por/print/6\">Baixar lição</a><br> firststepswithgod.com/por/print/6"
+        "storageKey": "firststeps-step6-i-will"
       }
     }
   ]

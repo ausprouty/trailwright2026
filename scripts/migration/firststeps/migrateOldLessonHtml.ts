@@ -602,7 +602,12 @@ function getPopUpIdFromHref(href: string): string | undefined {
 }
 
 function getSectionIconKey($el: cheerio.Cheerio<AnyNode>): string | undefined {
-  const imageSrc = ($el.find('img.lesson-icon').first().attr('src') || '').toLowerCase();
+  // Support English, Chinese, and Arabic lesson icons.
+  const imageSrc = ($el.find('img.lesson-icon, img.study').first().attr('src') || '').toLowerCase();
+
+  // Determine direction from the HTML.
+  const isRtl =
+    $el.hasClass('rtl') || $el.attr('dir') === 'rtl' || $el.closest('[dir="rtl"], .rtl').length > 0;
 
   if (
     imageSrc.includes('look-back') ||
@@ -611,7 +616,7 @@ function getSectionIconKey($el: cheerio.Cheerio<AnyNode>): string | undefined {
     imageSrc.includes('arrow-left') ||
     imageSrc.includes('arrow_left')
   ) {
-    return 'arrow-left';
+    return isRtl ? 'arrow-right' : 'arrow-left';
   }
 
   if (
@@ -621,7 +626,7 @@ function getSectionIconKey($el: cheerio.Cheerio<AnyNode>): string | undefined {
     imageSrc.includes('arrow-right') ||
     imageSrc.includes('arrow_right')
   ) {
-    return 'arrow-right';
+    return isRtl ? 'arrow-left' : 'arrow-right';
   }
 
   if (
@@ -634,29 +639,13 @@ function getSectionIconKey($el: cheerio.Cheerio<AnyNode>): string | undefined {
     return 'arrow-up';
   }
 
-  if (imageSrc.includes('background')) {
-    return 'background';
-  }
+  if (imageSrc.includes('background')) return 'background';
+  if (imageSrc.includes('bible-study')) return 'bible-study';
+  if (imageSrc.includes('challenges')) return 'challenges';
+  if (imageSrc.includes('discover')) return 'discover';
+  if (imageSrc.includes('review')) return 'review';
+  if (imageSrc.includes('sharing-life')) return 'sharing-life';
 
-  if (imageSrc.includes('bible-study')) {
-    return 'bible-study';
-  }
-
-  if (imageSrc.includes('challenges')) {
-    return 'challenges';
-  }
-
-  if (imageSrc.includes('discover')) {
-    return 'discover';
-  }
-
-  if (imageSrc.includes('review')) {
-    return 'review';
-  }
-
-  if (imageSrc.includes('sharing-life')) {
-    return 'sharing-life';
-  }
   return undefined;
 }
 
@@ -1873,9 +1862,12 @@ export function migrateOldLessonHtmlToEditorJs(
     // 5. Ordinary content blocks
 
     // Firststeps paragraphs with a lesson-point icon.
-    if ($el.is('p') && $el.find('img.lesson-point').length > 0) {
+    // Supports English, Chinese, and Arabic.
+    if ($el.is('p') && $el.find('img.lesson-point, img.point').length > 0) {
       const $clone = $el.clone();
-      const src = $clone.find('img.lesson-point').first().attr('src') || '';
+
+      const $icon = $clone.find('img.lesson-point, img.point').first();
+      const src = $icon.attr('src') || '';
       const iconName = lessonIconKeyFromSrc(src).toLowerCase();
 
       const iconMap: Record<string, string> = {
@@ -1887,7 +1879,7 @@ export function migrateOldLessonHtmlToEditorJs(
       const icon = iconMap[iconName];
 
       if (icon) {
-        $clone.find('img.lesson-point').remove();
+        $icon.remove();
 
         const text = normalizeTextForEditor($clone.text());
 

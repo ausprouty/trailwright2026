@@ -1,4 +1,4 @@
-## python scripts/repair_arabic.py "data/raw/myfriends/EG/arb/firststeps/next.html"
+## python scripts/repair_arabic.py "data/raw/myfriends/EG/arb/firststeps/tips.html"
 
 
 from pathlib import Path

@@ -13,7 +13,8 @@
       "type": "sectionMarker",
       "data": {
         "theme": "back",
-        "title": "راجع نفسك."
+        "title": "راجع نفسك.",
+        "icon": "arrow-right"
       }
     },
     {
@@ -28,9 +29,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<img class=\"point rtl\" src=\"/sites/myfriends/images/firststeps/pray.png\">جيّدٌ رفع الصلاة من أجل بعضنا البعض بخصوص هذه الإحتياجات."
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "جيّدٌ رفع الصلاة من أجل بعضنا البعض بخصوص هذه الإحتياجات."
+          }
+        ]
       }
     },
     {
@@ -44,7 +50,8 @@
       "type": "sectionMarker",
       "data": {
         "theme": "up",
-        "title": "إبحث عن"
+        "title": "إبحث عن",
+        "icon": "arrow-up"
       }
     },
     {
@@ -100,7 +107,8 @@
       "type": "sectionMarker",
       "data": {
         "theme": "forward",
-        "title": "نتطلـَّع"
+        "title": "نتطلـَّع",
+        "icon": "arrow-left"
       }
     },
     {

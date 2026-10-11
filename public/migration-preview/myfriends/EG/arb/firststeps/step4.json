@@ -10,22 +10,11 @@
   "sortOrder": 3,
   "blocks": [
     {
-      "type": "paragraph",
-      "data": {
-        "text": "٤."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "ألمشاركة مع الآخرين عن يسوع"
-      }
-    },
-    {
       "type": "sectionMarker",
       "data": {
         "theme": "back",
-        "title": "راجع نفسك."
+        "title": "راجع نفسك.",
+        "icon": "arrow-right"
       }
     },
     {
@@ -40,9 +29,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<img class=\"point rtl\" src=\"/sites/myfriends/images/firststeps/pray.png\">جيّدٌ رفع الصلاة من أجل بعضنا البعض بخصوص هذه الإحتياجات."
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "جيّدٌ رفع الصلاة من أجل بعضنا البعض بخصوص هذه الإحتياجات."
+          }
+        ]
       }
     },
     {
@@ -66,19 +60,30 @@
       "type": "sectionMarker",
       "data": {
         "theme": "up",
-        "title": "إبحث عن"
+        "title": "إبحث عن",
+        "icon": "arrow-up"
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<span class=\"key rtl\"><img class=\"point rtl\" src=\"/sites/myfriends/images/firststeps/question.png\">ألسؤال الرئيسي: </span> إن كانت العلاقة مع يسوع هي حقـّا ً أخبارا ً سارّة، كيف يمكننا إخبار الآخرين عن هذه الأخبار السارَّة ؟"
+        "items": [
+          {
+            "icon": "discover",
+            "text": "ألسؤال الرئيسي: إن كانت العلاقة مع يسوع هي حقـّا ً أخبارا ً سارّة، كيف يمكننا إخبار الآخرين عن هذه الأخبار السارَّة ؟"
+          }
+        ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<span class=\"rtl statement\"><img class=\"point rtl\" src=\"/sites/myfriends/images/firststeps/statement.png\">بيان: </span> يمكن لأي شخص صادف يسوع أن يشارك مع الآخرين عن اختباره، بحيث أنهم هم أيضا يتعرفوا بيسوع. تماما ً كما استطعت تطوير شهادتك في أسبوعنا الأول، سوف نسمع اليوم كيف تمَّ استخدام شهادة للتأثير ليس فقط شخص آخر، بل مدينة بأكملها !"
+        "items": [
+          {
+            "icon": "information",
+            "text": "بيان: يمكن لأي شخص صادف يسوع أن يشارك مع الآخرين عن اختباره، بحيث أنهم هم أيضا يتعرفوا بيسوع. تماما ً كما استطعت تطوير شهادتك في أسبوعنا الأول، سوف نسمع اليوم كيف تمَّ استخدام شهادة للتأثير ليس فقط شخص آخر، بل مدينة بأكملها !"
+          }
+        ]
       }
     },
     {
@@ -125,7 +130,8 @@
       "type": "sectionMarker",
       "data": {
         "theme": "forward",
-        "title": "نتطلـَّع"
+        "title": "نتطلـَّع",
+        "icon": "arrow-left"
       }
     },
     {

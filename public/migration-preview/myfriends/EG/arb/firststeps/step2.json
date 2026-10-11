@@ -13,7 +13,8 @@
       "type": "sectionMarker",
       "data": {
         "theme": "back",
-        "title": "راجع نفسك."
+        "title": "راجع نفسك.",
+        "icon": "arrow-right"
       }
     },
     {
@@ -28,9 +29,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<img class=\"point rtl\" src=\"/sites/myfriends/images/firststeps/pray.png\">جيّدٌ رفع الصلاة من أجل بعضنا البعض بخصوص هذه الإحتياجات."
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "جيّدٌ رفع الصلاة من أجل بعضنا البعض بخصوص هذه الإحتياجات."
+          }
+        ]
       }
     },
     {
@@ -54,19 +60,30 @@
       "type": "sectionMarker",
       "data": {
         "theme": "up",
-        "title": "إبحث عن"
+        "title": "إبحث عن",
+        "icon": "arrow-up"
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<span class=\"key rtl\"><img class=\"point rtl\" src=\"/sites/myfriends/images/firststeps/question.png\">ألسؤال الرئيسي:</span> كيف يستطيع شخص قـَبـِل يسوع التأكـّد أنـَّه سيمضي الأبديّة مع الله ؟"
+        "items": [
+          {
+            "icon": "discover",
+            "text": "ألسؤال الرئيسي: كيف يستطيع شخص قـَبـِل يسوع التأكـّد أنـَّه سيمضي الأبديّة مع الله ؟"
+          }
+        ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<span class=\"rtl statement\"><img class=\"point rtl\" src=\"/sites/myfriends/images/firststeps/statement.png\">بيان:</span> يمكنك أن تعلم أنـَّه لديك علاقة شخصية مضمونة مع الله"
+        "items": [
+          {
+            "icon": "information",
+            "text": "بيان: يمكنك أن تعلم أنـَّه لديك علاقة شخصية مضمونة مع الله"
+          }
+        ]
       }
     },
     {
@@ -126,7 +143,8 @@
       "type": "sectionMarker",
       "data": {
         "theme": "forward",
-        "title": "نتطلـَّع"
+        "title": "نتطلـَّع",
+        "icon": "arrow-left"
       }
     },
     {

@@ -10,22 +10,11 @@
   "sortOrder": 4,
   "blocks": [
     {
-      "type": "paragraph",
-      "data": {
-        "text": "٥."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "ألنمو الروحيّ"
-      }
-    },
-    {
       "type": "sectionMarker",
       "data": {
         "theme": "back",
-        "title": "راجع نفسك."
+        "title": "راجع نفسك.",
+        "icon": "arrow-right"
       }
     },
     {
@@ -40,9 +29,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<img class=\"point rtl\" src=\"/sites/myfriends/images/firststeps/pray.png\">جيّدٌ رفع الصلاة من أجل بعضنا البعض بخصوص هذه الإحتياجات."
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "جيّدٌ رفع الصلاة من أجل بعضنا البعض بخصوص هذه الإحتياجات."
+          }
+        ]
       }
     },
     {
@@ -66,19 +60,30 @@
       "type": "sectionMarker",
       "data": {
         "theme": "up",
-        "title": "إبحث عن"
+        "title": "إبحث عن",
+        "icon": "arrow-up"
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<span class=\"key rtl\"><img class=\"point rtl\" src=\"/sites/myfriends/images/firststeps/question.png\">ألسؤال الرئيسي:</span> كيف يمكننا متابعة نموّنا في العلاقة مع يسوع ؟"
+        "items": [
+          {
+            "icon": "discover",
+            "text": "ألسؤال الرئيسي: كيف يمكننا متابعة نموّنا في العلاقة مع يسوع ؟"
+          }
+        ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<span class=\"rtl statement\"><img class=\"point rtl\" src=\"/sites/myfriends/images/firststeps/statement.png\">بيان:</span> كما هو الحال في أيّ علاقة، ألإتصال هو المفتاح. الله يريد التواصل معنا وعلينا نحن التواصل معه."
+        "items": [
+          {
+            "icon": "information",
+            "text": "بيان: كما هو الحال في أيّ علاقة، ألإتصال هو المفتاح. الله يريد التواصل معنا وعلينا نحن التواصل معه."
+          }
+        ]
       }
     },
     {
@@ -129,7 +134,8 @@
       "type": "sectionMarker",
       "data": {
         "theme": "forward",
-        "title": "نتطلـَّع"
+        "title": "نتطلـَّع",
+        "icon": "arrow-left"
       }
     },
     {

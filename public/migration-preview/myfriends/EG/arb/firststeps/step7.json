@@ -10,22 +10,11 @@
   "sortOrder": 6,
   "blocks": [
     {
-      "type": "paragraph",
-      "data": {
-        "text": "٧."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "ألعيش بقوَّة الله"
-      }
-    },
-    {
       "type": "sectionMarker",
       "data": {
         "theme": "back",
-        "title": "راجع نفسك."
+        "title": "راجع نفسك.",
+        "icon": "arrow-right"
       }
     },
     {
@@ -40,9 +29,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<img class=\"point rtl\" src=\"/sites/myfriends/images/firststeps/pray.png\">جيّدٌ رفع الصلاة من أجل بعضنا البعض بخصوص هذه الإحتياجات."
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "جيّدٌ رفع الصلاة من أجل بعضنا البعض بخصوص هذه الإحتياجات."
+          }
+        ]
       }
     },
     {
@@ -66,19 +60,30 @@
       "type": "sectionMarker",
       "data": {
         "theme": "up",
-        "title": "إبحث عن"
+        "title": "إبحث عن",
+        "icon": "arrow-up"
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<span class=\"key rtl\"><img class=\"point rtl\" src=\"/sites/myfriends/images/firststeps/question.png\">ألسؤال الرئيسي:{' '} </span> كيف نعيش الحياة المسيحيّة وهي بالظاهر قد تكون صعبة جدّا ً ؟"
+        "items": [
+          {
+            "icon": "discover",
+            "text": "ألسؤال الرئيسي:{' '} كيف نعيش الحياة المسيحيّة وهي بالظاهر قد تكون صعبة جدّا ً ؟"
+          }
+        ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<span class=\"rtl statement\"><img class=\"point rtl\" src=\"/sites/myfriends/images/firststeps/statement.png\">بيان:{' '} </span> بقوّتنا، لا نستطيع أن نعيش بالطريقة الـَّتي يريدنا الله أن نحيا، ولكن بمساعدته من خلال الروح القدس، يكون لدينا القدرة على العيش بالطريقة الـَّتي يريدنا الله أن نحيا بها."
+        "items": [
+          {
+            "icon": "information",
+            "text": "بيان:{' '} بقوّتنا، لا نستطيع أن نعيش بالطريقة الـَّتي يريدنا الله أن نحيا، ولكن بمساعدته من خلال الروح القدس، يكون لدينا القدرة على العيش بالطريقة الـَّتي يريدنا الله أن نحيا بها."
+          }
+        ]
       }
     },
     {
@@ -136,7 +141,8 @@
       "type": "sectionMarker",
       "data": {
         "theme": "forward",
-        "title": "نتطلـَّع"
+        "title": "نتطلـَّع",
+        "icon": "arrow-left"
       }
     },
     {

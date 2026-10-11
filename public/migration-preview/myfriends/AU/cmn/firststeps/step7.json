@@ -1,0 +1,166 @@
+{
+  "site": "myfriends",
+  "country": "AU",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step7",
+  "sortOrder": 6,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "回望",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这周发生了哪些事情使你觉得需要感谢上帝？",
+          "目前你有什么困难之处吗？我们能怎样帮助你？",
+          "我们周围有哪些是我们可以帮忙做的？"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "我们应该互相为对方的需要而祈祷。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "你是怎样将上周学到的东西用在实际生活中的？",
+          "你跟谁分享了这个故事？他们的反应是怎么样的？"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "关键问题: 我们如何活出基督徒的生命，看起来是如此困难"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "陈述: 若靠我们自己的力量，我们不能活出神期望我们生活的方式，但借着圣灵的帮助，我们有能力活出神期望我们生活的方式。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"./satisfied\">这经文对你有什么的意义？</a>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "有没有难懂的地方？",
+          "今天的经文告诉我们有关神的事情？关于人？关于我们与神的关系？",
+          "你觉得这经文与我们前面讨论的问题有关:<span class=\"italics\"> “我们如何活出基督徒的生活？” </span>",
+          "你对这经文有任何其他问题或意见吗？",
+          "你今天学到了什么？"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "结论:",
+        "level": 3
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "透过向圣灵的支取力量，我们能够活出神希望我们活出的生命。如果我们试图用我们自己的力量去活出这生命，我们将不能结出许多果子，亦不能活出神期望我们活出的生命。我们每天都需要依靠圣灵而活。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "正如我们之前所学的，一个简单的呼吸示范能够帮助我们明白。正如我们呼入氧气和呼出二氧化碳一样，我们属灵也需要呼吸。而属灵的呼吸就是这么简单:我们呼出我们的罪，透过认罪（我们在几个星期前已提及），然后我们透过圣灵吸入足够力量。如果你经常这样做，你就能够活出神期望你过生活。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "展望",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "最重要的是我们怎样将我们所学的应用到实际生活中，这样我们能够找到办法帮助别人。以下这些问题能帮我们实现目标:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这能够怎样改变你的生活哪？怎样影响你与上帝，自我及他人的关系哪？",
+          "这周的讨论中哪一点是你想应用到你的生活中去的? 你打算怎样实现目标？",
+          "你打算跟谁分享这周学到东西？分享哪些内容？"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step7-i-will"
+      }
+    }
+  ]
+}

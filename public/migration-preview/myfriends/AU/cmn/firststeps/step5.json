@@ -1,0 +1,165 @@
+{
+  "site": "myfriends",
+  "country": "AU",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step5",
+  "sortOrder": 4,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "回望",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这周发生了哪些事情使你觉得需要感谢上帝？",
+          "目前你有什么困难之处吗？我们能怎样帮助你？",
+          "我们周围有哪些是我们可以帮忙做的？"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "我们应该互相为对方的需要而祈祷。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "你是怎样将上周学到的东西用在实际生活中的？",
+          "你跟谁分享了这个故事？他们的反应是怎么样的？"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "关键问题: 我们如何继续与耶稣的关系成长？"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "陈述: 在任何关系中，沟通是关键。神希望与我们沟通，我们也乐意与他沟通。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "使 徒 行 傳 2:42-47",
+        "html": "<sup>42</sup>他 们 把 时 间 都 花 在 倾 听 他 们 的 教 导 、 同 分 享 、 同 吃 和 祷 告 上 。 <p>信 徒 同 分 享</p><p><sup>43</sup>使 徒 们 又 行 了 很 多 奇 事 神 迹 ， 每 个 人 的 心 里 都 生 出 敬 畏 之 情 。 <sup>44</sup>信 徒 们 呆 在 一 起 ， 分 享 他 们 的 所 有 。 <sup>45</sup>他 们 卖 掉 财 物 和 家 产 ， 把 它 们 分 给 所 需 要 的 人 。 <sup>46</sup>每 天 ， 他 们 都 在 大 殿 院 里 聚 会 ， 在 家 里 同 吃 ， 并 带 着 快 乐 与 真 挚 的 心 享 用 ， <sup>47</sup>他 们 赞 美 上 帝 ， 深 得 所 有 人 的 好 感 。 每 天 主 都 增 加 人 到 得 救 的 人 的 行 列 里 去 。</p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%202:42-49&version=ERV-ZH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这段中有哪些内容是对你有意义的？",
+          "有没有难懂的地方？",
+          "从今天的内容中我们了解到哪些关于上帝的事情？哪些关于人的事情？上帝与人的关系是怎样的？",
+          "这段文章跟前面提到的关键问题有哪些关联？<span class=\"italics\"> “我们如何继续在与耶稣的关系中成长？”</span>",
+          "关于这段内容你还有没有其它问题或想法？",
+          "你今天学到了什么？",
+          "这段内容被记录下来的时代跟今天有相似之处吗？"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "结论:",
+        "level": 3
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "透过祷告与神交谈，透过圣经听神的说话，并与其他基督徒聚会，这样我们可以在与耶稣的关系不断成长，更深入的了解耶稣基督。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "展望",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "最重要的是我们怎样将我们所学的应用到实际生活中，这样我们能够找到办法帮助别人。以下这些问题能帮我们实现目标:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这能够怎样改变你的生活哪？怎样影响你与上帝，自我及他人的关系哪？",
+          "这周的讨论中哪一点是你想应用到你的生活中去的? 你打算怎样实现目标？",
+          "你打算跟谁分享这周学到东西？分享哪些内容？"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step5-i-will"
+      }
+    }
+  ]
+}

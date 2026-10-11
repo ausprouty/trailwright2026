@@ -1,0 +1,135 @@
+{
+  "site": "myfriends",
+  "country": "BR",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step3",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Pelo que você é grato nesta semana que passou?",
+          "Com que você está lutando e como nós podemos ajudar?",
+          "Que tipo de necessidades você tem observado em nossa comunidade/faculdade/escola?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/pray.png\">Seria bom nós orarmos uns pelos outros em relação a estas necessidades."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "De que forma você colocou em prática a lição da semana passada?",
+          "Com quem você compartilhou a história e como a pessoa reagiu?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"key-span\"><img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/question.png\">Pergunta chave:</span> Como podemos experimentar constantemente um relacionamento íntimo com Deus?"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"statement-span\"><img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/statement.png\">Declaração:</span> O pecado afeta nossa comunhão (ou proximidade) com Deus, mas nosso relacionamento permanece garantido."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"read\" src=\"/sites/myfriends/images/firststeps/bible.png\"><span class=\"por-verse\">Lucas 15:11-24</span>"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Bible",
+        "html": "<p><span class=\"versenum\" dir=\"ltr\">11</span><span class=\"bible\" dir=\"ltr\">E disse: Um certo homem tinha dois filhos; </span><span class=\"versenum\" dir=\"ltr\">12</span><span class=\"bible\" dir=\"ltr\">E o mais moço deles disse ao pai: Pai, dá-me a parte da fazenda que me pertence. E ele repartiu por eles a fazenda. </span><span class=\"versenum\" dir=\"ltr\">13</span><span class=\"bible\" dir=\"ltr\">E, poucos dias depois, o filho mais novo, ajuntando tudo, partiu para uma terra longínqua, e ali desperdiçou a sua fazenda, vivendo dissolutamente. </span><span class=\"versenum\" dir=\"ltr\">14</span><span class=\"bible\" dir=\"ltr\">E, havendo ele gastado tudo, houve naquela terra uma grande fome, e começou a padecer necessidades. </span><span class=\"versenum\" dir=\"ltr\">15</span><span class=\"bible\" dir=\"ltr\">E foi, e chegou-se a um dos cidadãos daquela terra, o qual o mandou para os seus campos, a apascentar porcos. </span><span class=\"versenum\" dir=\"ltr\">16</span><span class=\"bible\" dir=\"ltr\">E desejava encher o seu estômago com as bolotas que os porcos comiam, e ninguém lhe dava nada. </span><span class=\"versenum\" dir=\"ltr\">17</span><span class=\"bible\" dir=\"ltr\">E, tornando em si, disse: Quantos jornaleiros do meu pai têm abundância de pão, e eu, aqui, pereço de fome! </span><span class=\"versenum\" dir=\"ltr\">18</span><span class=\"bible\" dir=\"ltr\">Levantar-me-ei, e irei ter com meu pai, e dir-lhe-ei: Pai, pequei contra o céu e perante ti; </span><span class=\"versenum\" dir=\"ltr\">19</span><span class=\"bible\" dir=\"ltr\">Já não sou digno de ser chamado teu filho; faze-me como um dos teus jornaleiros. </span><span class=\"versenum\" dir=\"ltr\">20</span><span class=\"bible\" dir=\"ltr\">E, levantando-se, foi para seu pai; e, quando ainda estava longe, viu-o seu pai, e se moveu de íntima compaixão, e, correndo, lançou-se-lhe ao pescoço e o beijou. </span><span class=\"versenum\" dir=\"ltr\">21</span><span class=\"bible\" dir=\"ltr\">E o filho lhe disse: Pai, pequei contra o céu e perante ti, e já não sou digno de ser chamado teu filho. </span><span class=\"versenum\" dir=\"ltr\">22</span><span class=\"bible\" dir=\"ltr\">Mas o pai disse aos seus servos: Trazei depressa o melhor vestido e vesti-lho, e ponde-lhe um anel na mão e alparcas nos pés; </span><span class=\"versenum\" dir=\"ltr\">23</span><span class=\"bible\" dir=\"ltr\">E trazei o bezerro cevado e matai-o; e comamos e alegremo-nos; </span><span class=\"versenum\" dir=\"ltr\">24</span><span class=\"bible\" dir=\"ltr\">Porque este meu filho estava morto e reviveu, tinha-se perdido e foi achado. E começaram a alegrar-se. </span></p><p></p>",
+        "url": "https://www.biblegateway.com/passage/?search=Lucas+15%3A11-24&version=NVI-PT",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Alguma parte desta passagem é significativa para você?",
+          "Alguma parte da lição foi difícil para você entender?",
+          "O que a passagem de hoje nos ensina sobre Deus? Sobre as pessoas? Sobre o relacionamento de Deus conosco?",
+          "Como você acha que essa passagem se relaciona à pergunta feita anteriormente?<span class=\"italics\"> \"Como podemos constantemente experimentar um relacionamento íntimo com Deus?\"</span>"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Conclusão:"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"read\" src=\"/sites/myfriends/images/firststeps/bible.png\"><span class=\"por-verse\">1 João 1:9</span>"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Bible",
+        "html": "<p><span class=\"versenum\" dir=\"ltr\">9</span><span class=\"bible\" dir=\"ltr\">Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados, e nos purificar de toda a injustiça.</span></p><p></p>",
+        "url": "https://www.biblegateway.com/passage/?search=1+Jo%C3%A3o+1%3A9&version=NVI-PT",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confissão é simplesmente dizer a Deus que você fez algo errado e então pedir que Ele lhe perdoe. Deus promete que se confessarmos nosso pecado, Ele nos perdoará."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Quando você se voltar para Deus e deixar o pecado para trás, você experimentará o amor e o perdão de Deus que foi possibilitado pela morte de Jesus na cruz. Então, ao invés de ter culpa, condenação e punição, sua comunhão (proximidade) com Deus será restaurada."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "O mais importante é como nós podemos colocar em prática o que aprendemos, por isso queremos ajudar uns aos outros a encontrar meios de fazer isso. Estas são algumas perguntas que poderão nos ajudar:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Como isso poderia mudar ou muda a forma como você vive? Com Deus, consigo e com outros?",
+          "Existe alguma coisa que você gostaria de colocar em prática em sua vida a partir do que discutimos nesta semana? O que você vai fazer para mudar?",
+          "Com quem você vai compartilhar o que você aprendeu nesta semana? O que você vai compartilhar?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a target=\"_blank\" href=\"https://firststepswithgod.com/por/print/3\">Baixar lição</a><br> firststepswithgod.com/por/print/3"
+      }
+    }
+  ]
+}

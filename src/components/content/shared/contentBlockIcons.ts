@@ -279,6 +279,24 @@ export const contentBlockIcons = {
     </svg>
   `,
   },
+  important: {
+    label: 'Important',
+    preview: '❗',
+    svg: `<svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
+    <circle cx="50" cy="50" r="48" fill="#000" stroke="#000" stroke-width="5" />
+
+    <path
+      d="M50 24 V59"
+      fill="none"
+      stroke="#fff"
+      stroke-width="9"
+      stroke-linecap="round"
+    />
+
+    <circle cx="50" cy="75" r="5" fill="#fff" />
+  </svg>
+    `,
+  },
 
   information: {
     label: 'Information',
@@ -292,6 +310,42 @@ export const contentBlockIcons = {
       <rect x="40" y="66" width="20" height="6" fill="#fff" />
     </svg>
   `,
+  },
+  prayer: {
+    label: 'Prayer',
+    preview: '✝',
+    svg: `<svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
+      <circle cx="50" cy="50" r="48" fill="#000" stroke="#000" stroke-width="5" />
+
+      <path
+        d="M50 24 V77 M33 42 H67"
+        fill="none"
+        stroke="#fff"
+        stroke-width="9"
+        stroke-linecap="square"
+      />
+    </svg>
+    `,
+  },
+  question: {
+    label: 'Question',
+    preview: '❓',
+    svg: `<svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
+    <circle cx="50" cy="50" r="48" fill="#000" stroke="#000" stroke-width="5" />
+
+    <path
+      d="M34 35
+        C34 17 66 17 66 35
+        C66 46 50 48 50 59"
+      fill="none"
+      stroke="#fff"
+      stroke-width="9"
+      stroke-linecap="round"
+    />
+
+    <circle cx="50" cy="75" r="5" fill="#fff" />
+  </svg>
+    `,
   },
 
   review: {

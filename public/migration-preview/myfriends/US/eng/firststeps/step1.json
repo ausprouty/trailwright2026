@@ -1,0 +1,138 @@
+{
+  "site": "myfriends",
+  "country": "US",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step1",
+  "sortOrder": 0,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Look Back",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What are you thankful for this week?",
+          "What are you struggling with and how can we help?",
+          "What needs have you noticed in our community/campus/school?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "It\nwould be good to pray for each other around these needs."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Look Up",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">POINT 1:</span> God loves you and created you to know him personally."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">POINT 2:</span> We are separated from God by our sin, so we cannot know him or experience his love."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">POINT 3:</span> Jesus is God's only solution for our sin. Only through him can we know God and receive his love and forgiveness."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">POINT 4:</span> We must each respond to Jesus by placing our trust in him as our Saviour and Lord. Only then can we know God personally."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "My Testimony",
+        "level": 3
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "My life before I met Jesus",
+          "How I met Jesus",
+          "How my life has changed since meeting Jesus"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Look Forward",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "The most important thing will be how we apply what we learn, and so we want to help each other find ways to do that. Some questions to help us do that:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "How could this or does this change how you will live? With God, self and others?",
+          "What is one thing you would like to apply to your life from this week's discussion? What will you do to make that change?",
+          "With whom will you share what you learned this week? What will you share?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step1-i-will"
+      }
+    }
+  ]
+}

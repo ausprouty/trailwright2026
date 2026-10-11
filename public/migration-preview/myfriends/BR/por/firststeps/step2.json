@@ -1,0 +1,144 @@
+{
+  "site": "myfriends",
+  "country": "BR",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step2",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Pelo que você é grato nesta semana que passou?",
+          "Com que você está lutando e como nós podemos ajudar?",
+          "Que tipo de necessidades você tem observado em nossa comunidade/faculdade/escola?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/pray.png\">Seria bom nós orarmos uns pelos outros em relação a estas necessidades."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "De que forma você colocou em prática a lição da semana passada?",
+          "Com quem você compartilhou a história e como a pessoa reagiu?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"key-span\"><img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/question.png\">Pergunta chave:</span> Como uma pessoa que recebeu Jesus pode saber com certeza que vai passar a eternidade com Deus?"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"statement-span\"><img class=\"lesson-point\" src=\"/sites/myfriends/images/firststeps/statement.png\">Declaração:</span> Você pode saber que tem um relacionamento pessoal e garantido com Deus?"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"read\" src=\"/sites/myfriends/images/firststeps/bible.png\"><span class=\"por-verse\">João 10:7-30</span>"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Bible",
+        "html": "<p><span class=\"versenum\" dir=\"ltr\">7</span><span class=\"bible\" dir=\"ltr\">Tornou, pois, Jesus a dizer-lhes: Em verdade vos digo que eu sou a porta das ovelhas. </span><span class=\"versenum\" dir=\"ltr\">8</span><span class=\"bible\" dir=\"ltr\">Todos quantos vieram antes de mim são ladrões e salteadores; mas as ovelhas não os ouviram. </span><span class=\"versenum\" dir=\"ltr\">9</span><span class=\"bible\" dir=\"ltr\">Eu sou a porta: se alguém entrar por mim, salvar-se-á, e entrará, e sairá, e achará pastagens. </span><span class=\"versenum\" dir=\"ltr\">10</span><span class=\"bible\" dir=\"ltr\">O ladrão não vem senão a roubar, a matar e a destruir: eu vim para que tenham vida, e a tenham com abundância. </span><span class=\"versenum\" dir=\"ltr\">11</span><span class=\"bible\" dir=\"ltr\">Eu sou o bom Pastor: o bom Pastor dá a sua vida pelas ovelhas. </span><span class=\"versenum\" dir=\"ltr\">12</span><span class=\"bible\" dir=\"ltr\">Mas, o mercenário, e o que não é pastor, de quem não são as ovelhas, vê vir o lobo, e deixa as ovelhas e foge; e o lobo as arrebata e dispersa. </span><span class=\"versenum\" dir=\"ltr\">13</span><span class=\"bible\" dir=\"ltr\">Ora o mercenário foge, porque é mercenário, e não tem cuidado das ovelhas. </span><span class=\"versenum\" dir=\"ltr\">14</span><span class=\"bible\" dir=\"ltr\">Eu sou o bom Pastor, e conheço as minhas ovelhas, e das minhas sou conhecido. </span><span class=\"versenum\" dir=\"ltr\">15</span><span class=\"bible\" dir=\"ltr\">Assim como o Pai me conhece a mim, também eu conheço o Pai, e dou a minha vida pelas ovelhas. </span><span class=\"versenum\" dir=\"ltr\">16</span><span class=\"bible\" dir=\"ltr\">Ainda tenho outras ovelhas que não são deste aprisco; também me convém agregar estas, e elas ouvirão a minha voz, e haverá um rebanho e um Pastor, </span><span class=\"versenum\" dir=\"ltr\">17</span><span class=\"bible\" dir=\"ltr\">Por isto o Pai me ama, porque dou a minha vida para tornar a tomá-la. </span><span class=\"versenum\" dir=\"ltr\">18</span><span class=\"bible\" dir=\"ltr\">Ninguém ma tira de mim, mas eu, de mim mesmo, a dou; tenho poder para a dar, e poder para tornar a tomá-la. Este mandamento recebi do meu Pai. </span><span class=\"versenum\" dir=\"ltr\">19</span><span class=\"bible\" dir=\"ltr\">Tornou, pois, a haver divisão entre os judeus, por causa destas palavras. </span><span class=\"versenum\" dir=\"ltr\">20</span><span class=\"bible\" dir=\"ltr\">E muitos deles diziam: Tem demónio, e está fora de si; por que o ouvis? </span><span class=\"versenum\" dir=\"ltr\">21</span><span class=\"bible\" dir=\"ltr\">Diziam outros: Estas palavras não são de endemoninhado; pode, porventura, um demónio abrir os olhos aos cegos? </span><span class=\"versenum\" dir=\"ltr\">22</span><span class=\"bible\" dir=\"ltr\">E em Jerusalém havia a festa da dedicação, e era Inverno. </span><span class=\"versenum\" dir=\"ltr\">23</span><span class=\"bible\" dir=\"ltr\">E Jesus andava passeando no templo, no alpendre de Salomão. </span><span class=\"versenum\" dir=\"ltr\">24</span><span class=\"bible\" dir=\"ltr\">Rodearam-no, pois, os judeus, e disseram-lhe: Até quando terás a nossa alma suspensa? Se tu és o Cristo, dize-no-lo abertamente. </span><span class=\"versenum\" dir=\"ltr\">25</span><span class=\"bible\" dir=\"ltr\">Respondeu-lhes Jesus: Já vo-lo tenho dito, e não o credes. As obras que eu faço, em nome de meu Pai, essas testificam de mim. </span><span class=\"versenum\" dir=\"ltr\">26</span><span class=\"bible\" dir=\"ltr\">Mas vós não credes, porque não sois das minhas ovelhas, como já vo-lo tenho dito. </span><span class=\"versenum\" dir=\"ltr\">27</span><span class=\"bible\" dir=\"ltr\">As minhas ovelhas ouvem a minha voz, e eu conheço-as, e elas me seguem; </span><span class=\"versenum\" dir=\"ltr\">28</span><span class=\"bible\" dir=\"ltr\">E dou-lhes a vida eterna, e nunca hão-de perecer, e ninguém as arrebatará da minha mão. </span><span class=\"versenum\" dir=\"ltr\">29</span><span class=\"bible\" dir=\"ltr\">Meu Pai, que mas deu, é maior do que todos; e ninguém pode arrebatá-las da mão do meu Pai. </span><span class=\"versenum\" dir=\"ltr\">30</span><span class=\"bible\" dir=\"ltr\">Eu e o Pai somos um. </span></p>",
+        "url": "",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a class=\"readmore\" target=\"_blank\" href=\"https://www.biblegateway.com/passage/?search=Jo%C3%A3o+10%3A7-30&amp;version=NVI-PT\">Leia mais</a>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Alguma parte desta passagem é significativa para você?",
+          "Alguma parte da lição foi difícil para você entender?",
+          "O que a passagem de hoje nos ensina sobre Deus? Sobre as pessoas? Sobre o relacionamento de Deus conosco?",
+          "Como você acha que essa passagem se relaciona à pergunta feita anteriormente?<span class=\"italics\"> \"Como pode uma pessoa que tenha recebido Jesus sabe com certeza que ele vai passar a eternidade com Deus?\"</span>",
+          "Você tem alguma pergunta ou comentário a fazer sobre a esta passagem?",
+          "Como você resumiria o que nós aprendemos hoje?",
+          "Existe qualquer semelhança entre o que estava acontecendo na época em que esta passagem foi escrita e o que nós vemos em nossa comunidade, em nossa família ou em nossas amizades hoje em dia?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Conclusão:"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"read\" src=\"/sites/myfriends/images/firststeps/bible.png\"><span class=\"por-verse\">1 João 5:11-13</span>"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Bible",
+        "html": "<p><span class=\"versenum\" dir=\"ltr\">11</span><span class=\"bible\" dir=\"ltr\">E o testemunho é este: que Deus nos deu a vida eterna; e esta vida está no seu Filho. </span><span class=\"versenum\" dir=\"ltr\">12</span><span class=\"bible\" dir=\"ltr\">Quem tem o Filho tem a vida; quem não tem o Filho de Deus não tem a vida. </span><span class=\"versenum\" dir=\"ltr\">13</span><span class=\"bible\" dir=\"ltr\">Estas coisas vos escrevi, para que saibais que tendes a vida eterna, e para que creiais no nome do Filho de Deus. </span></p>",
+        "url": "",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a class=\"readmore\" target=\"_blank\" href=\"https://www.biblegateway.com/passage/?search=1+Jo%C3%A3o+5%3A11-13&amp;version=NVI-PT\">Leia mais</a>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Na cruz, Jesus, o Bom Pastor, deu sua vida como sacrifício por nossos pecados. Quando colocamos nossa fé em Jesus como nosso Senhor e Salvador, tornamo-nos uma de suas ovelhas e começamos a segui-lo. Ele quer que saibamos que temos a vida eterna e que nada pode tirar isso de nós. Você tem certeza que recebeu Jesus em sua vida? Você tem certeza que tem a vida eterna?"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "O mais importante é como nós podemos colocar em prática o que aprendemos, por isso queremos ajudar uns aos outros a encontrar meios de fazer isso. Estas são algumas perguntas que poderão nos ajudar:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Como isso poderia mudar ou muda a forma como você vive? Com Deus, consigo e com outros?",
+          "Existe alguma coisa que você gostaria de colocar em prática em sua vida a partir do que discutimos nesta semana? O que você vai fazer para mudar?",
+          "Com quem você vai compartilhar o que você aprendeu nesta semana? O que você vai compartilhar?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a target=\"_blank\" href=\"https://firststepswithgod.com/por/print/2\">Baixar lição</a><br> firststepswithgod.com/por/print/2"
+      }
+    }
+  ]
+}

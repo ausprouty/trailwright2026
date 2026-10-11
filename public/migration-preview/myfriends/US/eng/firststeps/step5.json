@@ -1,0 +1,165 @@
+{
+  "site": "myfriends",
+  "country": "US",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step5",
+  "sortOrder": 4,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Look Back",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What are you thankful for this week?",
+          "What are you struggling with and how can we help?",
+          "What needs have you noticed in our community/campus/school?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "It would be good to pray for each other around these needs."
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "How did you apply the lesson from last week?",
+          "Who did you share the story with, and what was their response?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Look Up",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "Key Question: How can we continue to grow in relationship with Jesus?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "Statement: As in any relationship, communication is key. God wants to communicate with us and for us to communicate with him."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Acts 2:42-47",
+        "html": "<p><sup>42</sup>They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer. <sup>43</sup>Everyone was filled with awe at the many wonders and signs performed by the apostles. <sup>44</sup>All the believers were together and had everything in common. <sup>45</sup>They sold property and possessions to give to anyone who had need. <sup>46</sup>Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts, <sup>47</sup>praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved.</p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%20%202:42-49&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Is there anything in this passage that is meaningful to you?",
+          "Was anything difficult to understand?",
+          "What does today's passage tell us about God? About people? About God's relationship with us?",
+          "How do you think this passage relates to the question we discussed earlier:<span class=\"italics\"> “How do we continue to grow in relationship with Jesus?”</span>",
+          "Do you have any other questions or comments about this passage?",
+          "How would you summarise what we have learned today?",
+          "Can we see any similarities about what was going on at the time this passage was written to what we see in our community, families or friendships today?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Conclusion:",
+        "level": 3
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "By talking to God through prayer, hearing from him through the Bible and gathering with other Christians, we can continue to grow in relationship with Jesus and get to know him better."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Look Forward",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "The most important thing will be how we apply what we learn, and so we want to help each other find ways to do that. Some questions to help us do that:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "How could this or does this change how you will live? With God, self and others?",
+          "What is one thing you would like to apply to your life from this week's discussion? What will you do to make that change?",
+          "With whom will you share what you learned this week? What will you share?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step5-i-will"
+      }
+    }
+  ]
+}

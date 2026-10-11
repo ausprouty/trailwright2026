@@ -1,0 +1,65 @@
+{
+  "site": "myfriends",
+  "country": "BR",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "tips",
+  "sortOrder": 10,
+  "blocks": [
+    {
+      "type": "header",
+      "data": {
+        "text": "Bíblia",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Um dos objetivos do Primeiros Passos é ajudar os participantes a lerem a bíblia por si mesmos. Essa é uma das principais razões porque adotamos a abordagem de uma passagem em nossas sessões, para que eles aprendam a ler uma história por vez, ao invés de passear por toda a bíblia. Uma ótima maneira de ajudar os participantes a conhecerem a bíblia é certificar-se de que eles têm uma bíblia e sempre que possível fazê-los ler nessa bíblia durante as sessões. Ajude-os a encontrar a passagem cada semana e faça-os acompanhar em suas próprias bíblias."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Comunidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Uma ótima maneira de ajudar a alicerçar um novo convertido em sua fé é conectá-lo a uma comunidade cristã. Certifique-se de que você não é o único cristão que ele conhece; apresente-o a seus amigos cristãos e convide-o para ir à igreja com você. Se sua igreja não der certo para ele, ofereça-se para ir a alguma igreja local com ele."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Esclareça o\nEntendimento",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Não podemos presumir nada quando trabalhamos com novos convertidos. Talvez essa seja a primeira vez que eles leram a bíblia ou escutaram uma história bíblica e a primeira vez que eles foram expostos à linguagem que usamos como cristãos. Tenha isso em mente ao interagir com eles. Sempre cheque para esclarecer as coisas perguntando-lhes se eles já haviam ouvido antes sobre certos conceitos ou palavras, ou sugira que eles expliquem coisas com suas próprias palavras. Dê-lhes espaço para expressar o fato de que não entendem algo simplesmente mudando a sua pergunta de “Isso faz sentido?” para “O que não faz sentido no que acabamos de falar?” Isso é especialmente importante de lembrar se estivermos interagindo com pessoas para quem português não é a primeira língua."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "O Evangelho",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "É importante que tudo o que comunicamos fale do Evangelho, ao invés de um conjunto de regras que devem ser seguidas. Coloque tudo no contexto de um relacionamento com Deus."
+      }
+    }
+  ]
+}

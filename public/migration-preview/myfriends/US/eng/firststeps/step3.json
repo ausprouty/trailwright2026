@@ -1,0 +1,177 @@
+{
+  "site": "myfriends",
+  "country": "US",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step3",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Look Back",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "What are you thankful for this week?",
+          "What are you struggling with and how can we help?",
+          "What needs have you noticed in our community/campus/school?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "It would be good to pray for each other around these needs."
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "How did you apply the lesson from last week?",
+          "Who did you share the story with, and what was their response?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Look Up",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "Key Question: How can we constantly experience a close relationship with God?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "Statement: Sin affects our fellowship (or closeness) with God, but our relationship stays secure."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luke 15:11-24",
+        "html": "<p><sup>11</sup>Jesus continued: “There was a man who had two sons. <sup>12</sup>The younger one said to his father, ‘Father, give me my share of the estate.’ So he divided his property between them.</p><p><sup>13</sup>“Not long after that, the younger son got together all he had, set off for a distant country and there squandered his wealth in wild living. <sup>14</sup>After he had spent everything, there was a severe famine in that whole country, and he began to be in need. <sup>15</sup>So he went and hired himself out to a citizen of that country, who sent him to his fields to feed pigs. <sup>16</sup>He longed to fill his stomach with the pods that the pigs were eating, but no one gave him anything.</p><p><sup>17</sup>“When he came to his senses, he said, ‘How many of my father’s hired servants have food to spare, and here I am starving to death! <sup>18</sup>I will set out and go back to my father and say to him: Father, I have sinned against heaven and against you. <sup>19</sup>I am no longer worthy to be called your son; make me like one of your hired servants.’ <sup>20</sup>So he got up and went to his father.</p><p>“But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.</p><p><sup>21</sup>“The son said to him, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’</p><p><sup>22</sup>“But the father said to his servants, ‘Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet. <sup>23</sup>Bring the fattened calf and kill it. Let’s have a feast and celebrate. <sup>24</sup>For this son of mine was dead and is alive again; he was lost and is found.’ So they began to celebrate.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%20%2015:11-24&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Is there anything in this passage that is meaningful to you?",
+          "Was anything difficult to understand?",
+          "What does today's passage tell us about God? About people? About God's relationship with us?",
+          "How do you think this passage relates to the question we discussed earlier:<span class=\"italics\"> “How can we constantly experience a close relationship with God?”</span>"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Conclusion:",
+        "level": 3
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1 John 1:9",
+        "html": "<p><sup>9</sup>If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.</p>",
+        "url": "https://biblegateway.com/passage/?search=1John%20%201:9-9&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confession is simply telling God that you’ve done the wrong thing by him and asking him to forgive you. God promises that if we do confess our sin, that he will forgive our sin."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "By turning back to God and away from your sin, you will experience his love and forgiveness that was provided by Jesus’ death on the cross. Instead of guilt, condemnation and punishment, your fellowship (closeness) with God will be restored."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Look Forward",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "The most important thing will be how we apply what we learn, and so we want to help each other find ways to do that. Some questions to help us do that:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "How could this or does this change how you will live? With God, self and others?",
+          "What is one thing you would like to apply to your life from this week's discussion? What will you do to make that change?",
+          "With whom will you share what you learned this week? What will you share?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step3-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "site": "myfriends",
+  "country": "FR",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step1",
+  "sortOrder": 0,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarde en arrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qu'est-ce que vous êtes reconnaissants pour cette semaine?",
+          "Que faites-vous aux prises avec et comment pouvons-nous aider?",
+          "Quels besoins avez-vous remarqué dans notre communauté / campus / école?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "Il serait bon de prier les uns pour les autres autour de ces besoins."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Chercher",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">POINT 1:</span> Dieu vous aime et que vous avez créé pour le connaître personnellement."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">POINT 2:</span> Nous sommes séparés de Dieu par notre péché, nous ne pouvons pas le connaître ou de découvrir son amour."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">POINT 3:</span> Jésus est la seule solution de Dieu pour notre péché. Seulement à travers lui que nous pouvons connaître Dieu et de recevoir son amour et le pardon."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">POINT 4:</span> Nous devons tous répondre à Jésus en plaçant notre confiance en lui comme notre Sauveur et Seigneur. Alors seulement nous pouvons connaître Dieu personnellement."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Mon témoignage",
+        "level": 3
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Ma vie avant de rencontrer Jésus",
+          "Comment ai rencontré Jésus",
+          "Comment ma vie a changé depuis la rencontre avec Jésus"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Avoir hâte",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "La chose la plus importante sera de savoir comment nous appliquons ce que nous apprenons, et nous voulons aider les uns les autres manières de trouvaille pour le faire. Quelques questions pour nous aider à faire ce qui suit:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Comment cela pourrait-il ou ne ce changement comment vous allez vivre? Avec Dieu, soi-même et les autres?",
+          "Qu'est-ce une chose que vous souhaitez appliquer à votre vie de la discussion de cette semaine? Que ferez-vous de faire ce changement?",
+          "Avec qui allez-vous partager ce que vous avez appris cette semaine? Que ferez-vous partager?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step1-i-will"
+      }
+    }
+  ]
+}

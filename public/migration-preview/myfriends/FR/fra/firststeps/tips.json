@@ -1,0 +1,65 @@
+{
+  "site": "myfriends",
+  "country": "FR",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "tips",
+  "sortOrder": 10,
+  "blocks": [
+    {
+      "type": "header",
+      "data": {
+        "text": "Bible",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "L'un des objectifs de First Steps est d'aider les participants à lire la Bible pour eux-mêmes. C'est l'une des raisons principales pour adopter une approche à un passage de nos séances, afin qu'ils apprennent à lire une histoire à la fois, plutôt que de feuilleter la Bible. Une excellente façon d'aider les participants à apprendre à connaître la Bible est de s'assurer qu'ils ont une Bible eux-mêmes et chaque fois que possible les amener à lire de cette Bible au cours des sessions. Aidez-les à trouver le passage chaque semaine et ensuite à les lire dans leur propre Bible."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Communauté",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Une excellente façon d'aider à la terre d'un nouveau chrétien dans leur foi est de les relier à une communauté chrétienne. Assurez-vous que vous n'êtes pas le seul chrétien qu'ils connaissent, alors profitez de l'occasion pour les présenter à vos amis chrétiens, et les inviter à l'église. Si votre église ne fonctionnait pas pour eux, offrir à assister à une église locale avec eux."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Clarifier la\ncompréhension",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Nous ne devons rien supposer quand nous travaillons avec un nouveau chrétien. Ce pourrait être la première fois qu'ils ont jamais lu une Bible ou entendu des histoires de la Bible, et la première fois qu'ils ont rencontré une partie de la langue que nous utilisons comme chrétiens. Gardez cela à l'esprit lorsque vous interagissez avec eux. En tout temps, vérifiez pour clarifier la compréhension en leur demandant s'ils ont déjà entendu parler de certains concepts ou des mots avant ou suggèrent de mettre les choses dans leurs propres mots. Donnez-leur la possibilité d'exprimer le fait qu'ils ne comprennent pas quelque chose, ce qui peut être aussi simple que de changer votre question de «Est-ce que cela a du sens?» À «Qu'est-ce qui n'a pas de sens dans ce dont nous venons de parler? Gardez à l'esprit quand nous interagissons avec des personnes pour qui l'anglais n'est pas leur première langue."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Le gospel",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Il est important que tout ce que vous communiquez parle de l'Evangile, plutôt que d'un ensemble de règles qui doivent être suivies. Mettez tout dans le contexte d'une relation avec Dieu."
+      }
+    }
+  ]
+}

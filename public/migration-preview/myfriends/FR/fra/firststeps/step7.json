@@ -1,0 +1,166 @@
+{
+  "site": "myfriends",
+  "country": "FR",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step7",
+  "sortOrder": 6,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarde en arrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qu'est-ce que vous êtes reconnaissants pour cette semaine?",
+          "Que faites-vous aux prises avec et comment pouvons-nous aider?",
+          "Quels besoins avez-vous remarqué dans notre communauté / campus / école?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "Il\nserait bon de prier les uns pour les autres autour de ces besoins."
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Comment avez-vous appliqué la leçon de la semaine dernière?",
+          "Qui avez-vous partager l'histoire avec, et ce qui a été leur réponse?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Chercher",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "Question clé: Comment vivons-nous la vie chrétienne quand il peut sembler difficile\nà certains moments?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "Déclaration: Dans notre propre force, nous ne pouvons pas vivre la façon dont Dieu\nveut que nous vivions, mais avec son aide par l'Esprit Saint, nous avons\nle pouvoir de vivre la façon dont Dieu veut que nous vivions."
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"./satisfied\">Y a-t-il quelque chose dans cet article qui vous interpelle particulièrement ?</a>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "quoi que ce soit difficile à comprendre était?",
+          "Qu'est-ce que l'article d'aujourd'hui nous parler de Dieu? À propos des gens? A propos de la relation de Dieu avec nous?",
+          "Comment pensez-vous que cet article se rapporte à la question, nous avons discuté plus tôt:<span class=\"italics\"> \"Comment vivons-nous la vie chrétienne?\"</span>",
+          "Avez-vous d'autres questions ou commentaires à propos de cet article?",
+          "Comment résumeriez-vous ce que nous avons appris aujourd'hui?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Conclusion:",
+        "level": 3
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "En puisant dans la puissance disponible à nous par le Saint-Esprit, nous sommes en mesure de vivre la façon dont Dieu nous a destinés à vivre. Si nous essayons de vivre cette vie dans notre propre force, nous ne serons pas en mesure de porter beaucoup de fruits et de vivre la façon dont Dieu veut que nous vivions. Nous devons compter sur le Saint-Esprit chaque jour."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Comme nous l'avons appris plus tôt, un outil utile qui nous permettra de le faire est une illustration simple autour de la respiration. Tout comme nous respirons en oxygène et souffle de dioxyde de carbone, de même que nous pouvons respirer spirituellement. La respiration spirituelle est simplement ceci: Nous respirons notre péché, par la confession (qui nous avons abordé quelques semaines), puis nous souffle par l'appropriation de la puissance disponible à nous par le Saint-Esprit. Si vous faites cela régulièrement, vous serez en mesure de vivre la vie que Dieu veut que vous viviez."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Avoir hâte",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "La chose la plus importante sera de savoir comment nous appliquons ce que nous apprenons, et nous voulons aider les uns les autres manières de trouvaille pour le faire. Quelques questions pour nous aider à faire ce qui suit:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Comment cela pourrait-il ou ne ce changement comment vous allez vivre? Avec Dieu, soi-même et les autres?",
+          "Qu'est-ce une chose que vous souhaitez appliquer à votre vie de la discussion de cette semaine? Que ferez-vous de faire ce changement?",
+          "Avec qui allez-vous partager ce que vous avez appris cette semaine? Que ferez-vous partager?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step7-i-will"
+      }
+    }
+  ]
+}

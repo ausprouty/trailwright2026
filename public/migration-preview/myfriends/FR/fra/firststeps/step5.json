@@ -1,0 +1,165 @@
+{
+  "site": "myfriends",
+  "country": "FR",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step5",
+  "sortOrder": 4,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarde en arrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qu'est-ce que vous êtes reconnaissants pour cette semaine?",
+          "Que faites-vous aux prises avec et comment pouvons-nous aider?",
+          "Quels besoins avez-vous remarqué dans notre communauté / campus / école?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "Il serait bon de prier les uns pour les autres autour de ces besoins."
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Comment avez-vous appliqué la leçon de la semaine dernière?",
+          "Qui avez-vous partager l'histoire avec, et ce qui a été leur réponse?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Chercher",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "Question clé: Comment pouvons-nous continuer à croître en relation avec Jésus?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "Déclaration: Comme dans toute relation, la communication est essentielle. Dieu veut communiquer avec nous et pour nous de communiquer avec lui."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Actes 2:42-47",
+        "html": "<sup>42</sup>Ils persévéraient dans l'enseignement des apôtres, dans la communion fraternelle, dans la fraction du pain, et dans les prières. <p><sup>43</sup>La crainte s'emparait de chacun, et il se faisait beaucoup de prodiges et de miracles par les apôtres.</p><p><sup>44</sup>Tous ceux qui croyaient étaient dans le même lieu, et ils avaient tout en commun.</p><p><sup>45</sup>Ils vendaient leurs propriétés et leurs biens, et ils en partageaient le produit entre tous, selon les besoins de chacun.</p><p><sup>46</sup>Ils étaient chaque jour tous ensemble assidus au temple, ils rompaient le pain dans les maisons, et prenaient leur nourriture avec joie et simplicité de coeur,</p><p><sup>47</sup>louant Dieu, et trouvant grâce auprès de tout le peuple. Et le Seigneur ajoutait chaque jour à l'Église ceux qui étaient sauvés.</p><p></p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%202:42-49&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Y at-il dans ce passage qui est significatif pour vous?",
+          "quoi que ce soit difficile à comprendre était?",
+          "Qu'est-ce que le passage d'aujourd'hui nous parler de Dieu? À propos des gens? A propos de la relation de Dieu avec nous?",
+          "Comment pensez-vous que ce passage se rapporte à la question, nous avons discuté plus tôt:<span class=\"italics\"> \"Comment pouvons-nous continuer à croître en relation avec Jésus?\"</span>",
+          "Avez-vous d'autres questions ou commentaires au sujet de ce passage?",
+          "Comment résumeriez-vous ce que nous avons appris aujourd'hui?",
+          "Peut-on voir des similitudes au sujet de ce qui se passait au moment où ce passage a été écrit à ce que nous voyons dans nos collectivités, des familles ou des amitiés aujourd'hui?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Conclusion:",
+        "level": 3
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "En parlant à Dieu par la prière, l'audition de lui à travers la Bible et de la cueillette avec d'autres chrétiens, nous pouvons continuer à croître en relation avec Jésus et d'apprendre à mieux le connaître."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Avoir hâte",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "La chose la plus importante sera de savoir comment nous appliquons ce que nous apprenons, et nous voulons aider les uns les autres manières de trouvaille pour le faire. Quelques questions pour nous aider à faire ce qui suit:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Comment cela pourrait-il ou ne ce changement comment vous allez vivre? Avec Dieu, soi-même et les autres?",
+          "Qu'est-ce une chose que vous souhaitez appliquer à votre vie de la discussion de cette semaine? Que ferez-vous de faire ce changement?",
+          "Avec qui allez-vous partager ce que vous avez appris cette semaine? Que ferez-vous partager?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step5-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "site": "myfriends",
+  "country": "FR",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step3",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarde en arrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qu'est-ce que vous êtes reconnaissants pour cette semaine?",
+          "Que faites-vous aux prises avec et comment pouvons-nous aider?",
+          "Quels besoins avez-vous remarqué dans notre communauté / campus / école?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "Il serait bon de prier les uns pour les autres autour de ces besoins."
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Comment avez-vous appliqué la leçon de la semaine dernière?",
+          "Qui avez-vous partager l'histoire avec, et ce qui a été leur réponse?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Chercher",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "Question clé: Comment pouvons-nous vivre en permanence une relation étroite avec Dieu?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "Déclaration: Sin affecte notre communion (ou de proximité) avec Dieu, mais notre relation reste sécurisé."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luc 15:11-24",
+        "html": "<sup>11</sup>Il dit encore: Un homme avait deux fils. <p><sup>12</sup>Le plus jeune dit à son père: Mon père, donne-moi la part de bien qui doit me revenir. Et le père leur partagea son bien.</p><p><sup>13</sup>Peu de jours après, le plus jeune fils, ayant tout ramassé, partit pour un pays éloigné, où il dissipa son bien en vivant dans la débauche.</p><p><sup>14</sup>Lorsqu'il eut tout dépensé, une grande famine survint dans ce pays, et il commença à se trouver dans le besoin.</p><p><sup>15</sup>Il alla se mettre au service d'un des habitants du pays, qui l'envoya dans ses champs garder les pourceaux.</p><p><sup>16</sup>Il aurait bien voulu se rassasier des carouges que mangeaient les pourceaux, mais personne ne lui en donnait.</p><p><sup>17</sup>Étant rentré en lui-même, il se dit: Combien de mercenaires chez mon père ont du pain en abondance, et moi, ici, je meurs de faim!</p><p><sup>18</sup>Je me lèverai, j'irai vers mon père, et je lui dirai: Mon père, j'ai péché contre le ciel et contre toi,</p><p><sup>19</sup>je ne suis plus digne d'être appelé ton fils; traite-moi comme l'un de tes mercenaires.</p><p><sup>20</sup>Et il se leva, et alla vers son père. Comme il était encore loin, son père le vit et fut ému de compassion, il courut se jeter à son cou et le baisa.</p><p><sup>21</sup>Le fils lui dit: Mon père, j'ai péché contre le ciel et contre toi, je ne suis plus digne d'être appelé ton fils.</p><p><sup>22</sup>Mais le père dit à ses serviteurs: Apportez vite la plus belle robe, et l'en revêtez; mettez-lui un anneau au doigt, et des souliers aux pieds.</p><p><sup>23</sup>Amenez le veau gras, et tuez-le. Mangeons et réjouissons-nous;</p><p><sup>24</sup>car mon fils que voici était mort, et il est revenu à la vie; il était perdu, et il est retrouvé. Et ils commencèrent à se réjouir.</p><p></p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%2015:11-24&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Y at-il dans ce passage qui est significatif pour vous?",
+          "quoi que ce soit difficile à comprendre était?",
+          "Qu'est-ce que le passage d'aujourd'hui nous parler de Dieu? À propos des gens? A propos de la relation de Dieu avec nous?",
+          "Comment pensez-vous que ce passage se rapporte à la question, nous avons discuté plus tôt:<span class=\"italics\"> \"Comment pouvons-nous vivre en permanence une relation étroite avec Dieu?\"</span>"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Conclusion:",
+        "level": 3
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1 Jean 1:9",
+        "html": "<p><sup>9</sup>Si nous confessons nos péchés, il est fidèle et juste pour nous les pardonner, et pour nous purifier de toute iniquité.</p><p></p>",
+        "url": "https://biblegateway.com/passage/?search=1%20John%201:9&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confession est simplement dit à Dieu que vous avez fait la bonne chose en lui et en lui demandant de vous pardonner. Dieu promet que si nous ne confessons notre péché, qu'il pardonne nos péchés."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "En tournant le dos à Dieu et loin de votre péché, vous ferez l'expérience de son amour et de pardon qui a été fourni par la mort de Jésus sur la croix. Au lieu de la culpabilité, la condamnation et la peine, votre communion (proximité) avec Dieu sera restauré."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Avoir hâte",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "La chose la plus importante sera de savoir comment nous appliquons ce que nous apprenons, et nous voulons aider les uns les autres manières de trouvaille pour le faire. Quelques questions pour nous aider à faire ce qui suit:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Comment cela pourrait-il ou ne ce changement comment vous allez vivre? Avec Dieu, soi-même et les autres?",
+          "Qu'est-ce une chose que vous souhaitez appliquer à votre vie de la discussion de cette semaine? Que ferez-vous de faire ce changement?",
+          "Avec qui allez-vous partager ce que vous avez appris cette semaine? Que ferez-vous partager?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step3-i-will"
+      }
+    }
+  ]
+}

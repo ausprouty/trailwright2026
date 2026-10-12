@@ -1,0 +1,161 @@
+{
+  "site": "myfriends",
+  "country": "FR",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step4",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarde en arrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qu'est-ce que vous êtes reconnaissants pour cette semaine?",
+          "Que faites-vous aux prises avec et comment pouvons-nous aider?",
+          "Quels besoins avez-vous remarqué dans notre communauté / campus / école?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "Il serait bon de prier les uns pour les autres autour de ces besoins."
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Comment avez-vous appliqué la leçon de la semaine dernière?",
+          "Qui avez-vous partager l'histoire avec, et ce qui a été leur réponse?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Chercher",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "Question clé: Si avoir une relation avec Jésus est si bonnes nouvelles, comment pouvons-nous dire aux autres de ces bonnes nouvelles?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "Déclaration: Toute personne qui a rencontré Jésus peut partager avec d'autres sur leur expérience, afin qu'ils puissent aussi rencontrer Jésus. Tout comme vous étiez en mesure de développer votre témoignage dans notre première semaine, aujourd'hui, nous allons entendre comment un témoignage a été utilisé pour avoir un impact non seulement une autre personne, mais toute une ville!"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Jean 4:1-42",
+        "html": "Le Seigneur sut que les pharisiens avaient appris qu'il faisait et baptisait plus de disciples que Jean. <p><sup>2</sup>Toutefois Jésus ne baptisait pas lui-même, mais c'étaient ses disciples.</p><p><sup>3</sup>Alors il quitta la Judée, et retourna en Galilée.</p><p><sup>4</sup>Comme il fallait qu'il passât par la Samarie,</p><p><sup>5</sup>il arriva dans une ville de Samarie, nommée Sychar, près du champ que Jacob avait donné à Joseph, son fils.</p><p><sup>6</sup>Là se trouvait le puits de Jacob. Jésus, fatigué du voyage, était assis au bord du puits. C'était environ la sixième heure.</p><p><sup>7</sup>Une femme de Samarie vint puiser de l'eau. Jésus lui dit: Donne-moi à boire.</p><p><sup>8</sup>Car ses disciples étaient allés à la ville pour acheter des vivres.</p><p><sup>9</sup>La femme samaritaine lui dit: Comment toi, qui es Juif, me demandes-tu à boire, à moi qui suis une femme samaritaine? -Les Juifs, en effet, n'ont pas de relations avec les Samaritains. -</p><p><sup>10</sup>Jésus lui répondit: Si tu connaissais le don de Dieu et qui est celui qui te dit: Donne-moi à boire! tu lui aurais toi-même demandé à boire, et il t'aurait donné de l'eau vive.</p><p><sup>11</sup>Seigneur, lui dit la femme, tu n'as rien pour puiser, et le puits est profond; d'où aurais-tu donc cette eau vive?</p><p><sup>12</sup>Es-tu plus grand que notre père Jacob, qui nous a donné ce puits, et qui en a bu lui-même, ainsi que ses fils et ses troupeaux?</p><p><sup>13</sup>Jésus lui répondit: Quiconque boit de cette eau aura encore soif;</p><p><sup>14</sup>mais celui qui boira de l'eau que je lui donnerai n'aura jamais soif, et l'eau que je lui donnerai deviendra en lui une source d'eau qui jaillira jusque dans la vie éternelle.</p><p><sup>15</sup>La femme lui dit: Seigneur, donne-moi cette eau, afin que je n'aie plus soif, et que je ne vienne plus puiser ici.</p><p><sup>16</sup>Va, lui dit Jésus, appelle ton mari, et viens ici.</p><p><sup>17</sup>La femme répondit: Je n'ai point de mari. Jésus lui dit: Tu as eu raison de dire: Je n'ai point de mari.</p><p><sup>18</sup>Car tu as eu cinq maris, et celui que tu as maintenant n'est pas ton mari. En cela tu as dit vrai.</p><p><sup>19</sup>Seigneur, lui dit la femme, je vois que tu es prophète.</p><p><sup>20</sup>Nos pères ont adoré sur cette montagne; et vous dites, vous, que le lieu où il faut adorer est à Jérusalem.</p><p><sup>21</sup>Femme, lui dit Jésus, crois-moi, l'heure vient où ce ne sera ni sur cette montagne ni à Jérusalem que vous adorerez le Père.</p><p><sup>22</sup>Vous adorez ce que vous ne connaissez pas; nous, nous adorons ce que nous connaissons, car le salut vient des Juifs.</p><p><sup>23</sup>Mais l'heure vient, et elle est déjà venue, où les vrais adorateurs adoreront le Père en esprit et en vérité; car ce sont là les adorateurs que le Père demande.</p><p><sup>24</sup>Dieu est Esprit, et il faut que ceux qui l'adorent l'adorent en esprit et en vérité.</p><p><sup>25</sup>La femme lui dit: Je sais que le Messie doit venir (celui qu'on appelle Christ); quand il sera venu, il nous annoncera toutes choses.</p><p><sup>26</sup>Jésus lui dit: Je le suis, moi qui te parle.</p><p><sup>27</sup>Là-dessus arrivèrent ses disciples, qui furent étonnés de ce qu'il parlait avec une femme. Toutefois aucun ne dit: Que demandes-tu? ou: De quoi parles-tu avec elle?</p><p><sup>28</sup>Alors la femme, ayant laissé sa cruche, s'en alla dans la ville, et dit aux gens:</p><p><sup>29</sup>Venez voir un homme qui m'a dit tout ce que j'ai fait; ne serait-ce point le Christ?</p><p><sup>30</sup>Ils sortirent de la ville, et ils vinrent vers lui.</p><p><sup>31</sup>Pendant ce temps, les disciples le pressaient de manger, disant: Rabbi, mange.</p><p><sup>32</sup>Mais il leur dit: J'ai à manger une nourriture que vous ne connaissez pas.</p><p><sup>33</sup>Les disciples se disaient donc les uns aux autres: Quelqu'un lui aurait-il apporté à manger?</p><p><sup>34</sup>Jésus leur dit: Ma nourriture est de faire la volonté de celui qui m'a envoyé, et d'accomplir son oeuvre.</p><p><sup>35</sup>Ne dites-vous pas qu'il y a encore quatre mois jusqu'à la moisson? Voici, je vous le dis, levez les yeux, et regardez les champs qui déjà blanchissent pour la moisson.</p><p><sup>36</sup>Celui qui moissonne reçoit un salaire, et amasse des fruits pour la vie éternelle, afin que celui qui sème et celui qui moissonne se réjouissent ensemble.</p><p><sup>37</sup>Car en ceci ce qu'on dit est vrai: Autre est celui qui sème, et autre celui qui moissonne.</p><p><sup>38</sup>Je vous ai envoyés moissonner ce que vous n'avez pas travaillé; d'autres ont travaillé, et vous êtes entrés dans leur travail.</p><p><sup>39</sup>Plusieurs Samaritains de cette ville crurent en Jésus à cause de cette déclaration formelle de la femme: Il m'a dit tout ce que j'ai fait.</p><p><sup>40</sup>Aussi, quand les Samaritains vinrent le trouver, ils le prièrent de rester auprès d'eux. Et il resta là deux jours.</p><p><sup>41</sup>Un beaucoup plus grand nombre crurent à cause de sa parole;</p><p><sup>42</sup>et ils disaient à la femme: Ce n'est plus à cause de ce que tu as dit que nous croyons; car nous l'avons entendu nous-mêmes, et nous savons qu'il est vraiment le Sauveur du monde.</p><p></p>",
+        "url": "https://biblegateway.com/passage/?search=John%204:1-42&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Y at-il dans ce passage qui est significatif pour vous?",
+          "quoi que ce soit difficile à comprendre était?",
+          "Qu'est-ce que le passage d'aujourd'hui nous parler de Dieu? À propos des gens? A propos de la relation de Dieu avec nous?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Conclusion:",
+        "level": 3
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Comment pensez-vous que ce passage se rapporte à la question, nous avons discuté plus tôt:<span class=\"italics\">\"Comment pouvons-nous dire d'autres au sujet de Jésus?\"</span>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Avoir hâte",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "La chose la plus importante sera de savoir comment nous appliquons ce que nous apprenons, et nous voulons aider les uns les autres manières de trouvaille pour le faire. Quelques questions pour nous aider à faire ce qui suit:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Comment cela pourrait-il ou ne ce changement comment vous allez vivre? Avec Dieu, soi-même et les autres?",
+          "Qu'est-ce une chose que vous souhaitez appliquer à votre vie de la discussion de cette semaine? Que ferez-vous de faire ce changement?",
+          "Avec qui allez-vous partager ce que vous avez appris cette semaine? Que ferez-vous partager?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step4-i-will"
+      }
+    }
+  ]
+}

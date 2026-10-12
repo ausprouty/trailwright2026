@@ -65,3 +65,4 @@ Finished:
   Compass in English has links rather than Bible Popups
   Compass in Chinese may have read by System followed by Read in Chinese text
   Compass Spanish 402 is not finished
+  FirstSteps Oromo is missing some pages (used Amharic)

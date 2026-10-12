@@ -9,7 +9,7 @@ const PROJECT_ROOT = process.cwd();
 
 const SITE = 'myfriends' as const;
 const COUNTRY = 'ET' as const;
-const LANGUAGE = 'amh' as const;
+const LANGUAGE = 'gaz' as const;
 const SERIES = 'firststeps' as const;
 
 const SOURCE_DIR = path.join(PROJECT_ROOT, 'data', 'raw', SITE, COUNTRY, LANGUAGE, SERIES);

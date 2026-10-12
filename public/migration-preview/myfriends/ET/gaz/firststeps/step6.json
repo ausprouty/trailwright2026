@@ -1,0 +1,198 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "gaz",
+  "htmlLang": "gaz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step6",
+  "sortOrder": 5,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Keessa Deebii",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Torbee kana akka galateeffattu kan si godhan maal fa’aa?",
+          "Waanti si rakkise maalidha? Akkamittiin si gargaaruu dandeenya?",
+          "Hawaasa/Mooraa/mana baruumsaa keenya keessatti maaltu barbaachisa jettee yaadda?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "Wantoota barbaachisan kana hundumaa irratti walii walii keenyaaf kadhachuun gaariidha."
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qo’annaa torbee darbee akkamitti hojiirra oolchite?",
+          "Seenicha eenyu fa’aaf hirtee? Deebiin isaaniihoo maal ture?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Xiyyeeffannoo",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "Gaaffii Ijoo: Torbeewwan darban wanti waliin haasa’aa turre hundi akka nuuf galuu fi itti jiraannu kan nu gargaaru eenyudha?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "Ibsa: Hafuurri Qulqulluun nu gargaaruudhaaf, akkasumas jireenya Kiristiyaanummaa akka jiraannuuf yeroo hundumaa nu wajjin jira."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Yohannis 14:15-27",
+        "html": "<p><sup>15</sup> Yesus itti fufee, Isin yoo na jaallattan abboommota koo in eegdu. <sup>16</sup> Ani abbaa nan kadhadha, inni bara baraan isin bira haa jiraatuuf, kan biraa kan isiniif dubbatu, isiniif in kenna. <sup>17</sup> Inni isiniif dubbatu kun, hafuura dhugaa ti; biyyi lafaa waan isa hin argineef isa hin beekneefis, isa fudhachuu hin danda'u. Isin garuu, inni isinii wajjin waan turuuf, isin keessas waan jiraatuuf isa beekuuf jirtu. <sup>18</sup> Ani kophaatti is in hin dhiisu, gara keessan nan dhufa. <sup>19</sup> Yeroo gabaabduu booddee biyyi lafaa deebi'ee ana hin argu, isin garuu ani waanan jiraadhuuf, isinis immoo jiraachuuf waan jirtaniif na argitu. <sup>20</sup> Gaafas ani abbaa koo keessa, isin immoo ana keessa, anis isin keessa akkan jiru beekuuf jirtu. <sup>21</sup> Namni abboommii koo qabu, inni isa raawwatus, isa kan na jaallatu; nama na jaallatu immoo abbaan koo isa jaallachuuf jira, anis isa nan jaalladha, ofii koos isatti mul'isuufan jira jedhe.</p><p><sup>22</sup> Yihudaa nama biyya Keriyot utuu hin ta'in, Yihudaa inni tokko, Gooftaa, attamitti ati biyya lafaatti utuu hin ta'in nutti of mul'ifta ree? ittiin jedhe. <sup>23</sup> Yesus deebisee, Eenyu illee yoo na jaallate dubbii koo in raawwata, abbaan koo immoo isa in jaallata; nuyis isa bira in dhufna, iddoo jireenyaas isa bira in godhanna. <sup>24</sup> Namni ana hin jaallanne immoo dubbii koo hundumaa hin raawwatu, dubbiin isin dhageessan kunis kan abbicha isa na ergee ti malee, kan koo miti jedheen.</p><p><sup>25</sup> Yesus ammoo, Kana hundumaa utuun isin bira jiruu isinitti himeera. <sup>26</sup> Inni isiniif dubbatu hafuurri qulqulluun, inni abbaan maqaa kootiin ergu garuu, waan hundumaa isin in barsiisa, waanan isinitti hime hundumaas isin in yaadachiisa. <sup>27</sup> Nagaa isin biratti nan hambisa, nagaa koo isiniif nan kenna; ani akka biyyi lafaa kennuttan isiniif kenna miti, garaan keessan hin raafamin, hin sodaatinis!</p>",
+        "url": "https://play.google.com/store/apps/details?id=com.nippt.oromo.bible&hl=en",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Kutaa kana keessaa wanti siif hiika qabuu jira?",
+          "Hubachuudhaaf wanti sitti ulfaate tureeyyu?",
+          "Kutaan har’aa waa’ee Waaqayyoo maal nutti hima? Waa’ee namootaa hoo? Waa’ee walitti dhufeenya Waaqayyo nu wajjin qabuuhoo?",
+          "Kutaan kun akkamitti gaaffii sana wajjin wal qabata jettee jettee yaadda:<span class=\"italics\"> \"Torbeewwan darban wanti waliin haasa’aa turre hundi akka nuuf galuu fi itti jiraannu kan nu gargaaru eenyudha?\"</span>",
+          "Waa’ee kutaa kanaa yaada yookiin gaaffii qabda?",
+          "Wanta har’a baranne akkamittiin ibsita (guduunfita)?",
+          "Wanti yeroo Kutaan kun barreeffame ta’aa turee fi wanti amma hawaasa, maatii fi hiriyoota keenya gidduutti ta’aa jiru faana wal fakkaataadha?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Guduunfaa:",
+        "level": 3
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Hafuurri Qulqulluun karaa Waaqayyo akka jireenya Kristyaanummaa hubannuu fi itti jiraachuu dandeenyu nu gargaarudha. Hafuurri Qulqulluun yeroo hundumaa nu wajjin ta’uudhaan waan Waaqayyo nu barsiise nu yaadachiisa; Nu wajjin jiraachuu Waaqayyoos nuuf mirkaneessa."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Hojiirra Oolchuu (Raawwachuu)",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Wanti baay’ee barbaachisaan isa baranne akkamitti akka hojiirra oolchinudha. Kana raawwachuudhaaf tokko tokkoon keenya wal gargaaruu qabna. Gaaffileen kun nu fayyaduu danda’u:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Kun akkamittiin ta’uu danda’aa yookiin geeddaruumsa kana akkamittiin jiraatta? Waaqayyo wajjin, ofiikeefi warra kaan faana akkamittiin jiraatta?",
+          "Marii torbee kanaa booda jireenya kee keessatti maal raawwatta? Akkamittiin jijjiirama kana fiduu dandeessa?",
+          "Wanta torbee kana baranne eenyu faana hirmaatta (haasofta)? Waa’ee maalii hirmaatta?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Torbee dhuftu keessatti, kutaalee dabalataa kana yeroo fudhadhuutii ilaali."
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Galaatiyaa 5:16-26",
+        "html": "<p><sup>16</sup> Ani garuu, Hafuuraan geggeeffamaa jiraadhaa malee, fedha foonii hin raawwatinaa! nan jedha. <sup>17</sup> Fedhi foonii hafuuraan in morma; hafuurris fooniin in morma; isin waanuma jaallattan akka hin gooneef, isaan kun lamaan waliin in mormu. <sup>18</sup> Hafuurichaan yoo geggeeffamtan garuu, isin seericha jala hin jirtan.</p><p><sup>19</sup> Hojiin foonii mul'ataa dha. Isaanis halalummaa, xuraa'ummaa, jireenya gad-dhiisii, <sup>20</sup> waaqayyolii tolfaman waaqessuu, qoricha namatti gochuu, diinummaa, qoccolloo, hinaaffaa, dheekkamsa, ofittummaa, yaadaan gargar ba'uu, barsiisaan gargar cabuu, <sup>21</sup> weennoo, machii, albaadhummaa, wanta kana fakkaatus. Akkuma ani kanaan dura isinitti himee ture, warri wanta akkasii hojjetan mootummaa Waaqayyootti galuu akka hin dandeenye ammas isinitti nan hima.</p><p><sup>22</sup> Iji hojii hafuuraa immoo, jaalala, gammachuu, nagaa, obsa, gaarummaa, arjummaa, amanamummaa, <sup>23</sup> garraamummaa dha, of dhowwuu dhas; egaa seerri isaan kanaan mormu hin jiru. <sup>24</sup> Warri kan Kristos Yesus ta'an immoo yaada foonii, hawwa isaa, fedha isaas fannisaniiru. <sup>25</sup> Nuyi jireenya hafuuraatti yoo jiraanne, hafuura kana duukaa bu'uu keenya. <sup>26</sup> Egaa kottaa of-dhiibduu, walitti naqxuu, walitti hinaaftuu ta'uu in dhiifnaa!</p>",
+        "url": "",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Efesoon 5:15-18",
+        "html": "<p><sup>15</sup> Egaa attamitti akka deddeebitan haleelaa ilaalladhaa! Akka warra ogeessotaatti malee, akka warra ogeessota hin ta'iniitti hin jiraatinaa! <sup>16</sup> Guyyoonni kun guyyoota gadhee waan ta'aniif, yeroo isiniif kenname utuu hin dabarsin itti hojjedhaa! <sup>17</sup> Kanaaf jaalalli gooftaa maal akka ta'e hubadhaa malee, wallaalota hin ta'inaa! <sup>18</sup> Dhugaatiidhaan machooftanii of hin wallaalinaa, isaanis of hin balleessinaa! Qooda kanaa hafuura qulqulluudhaan guutamaa!</p>",
+        "url": "https://play.google.com/store/apps/details?id=com.nippt.oromo.bible&hl=en",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Qorontos Isa Duraa 2:9-3:3",
+        "html": "<p><sup>9</sup> Caaffata qulqullaa'oo keessatti,<br> † Waan Waaqayyo warra isa jaallataniif qopheesse,<br> † iji namaa hin argine, gurri namaa hin dhageenye, † yaadni namaas bira hin geenye in jedha.</p><p><sup>10</sup> Waaqayyo garuu hafuura qulqulluudhaan isa kana nutti mul'se; hafuurri qulqulluun waan hundmaa, yaada Waaqayyoo isa gad fagoo iyyuu qoree bira in ga'a. <sup>11</sup> Waan yaada namaa keessa jiru, hafuuruma namicha keessa jirutu beeka malee, namni biraa beekuu hin danda'u; akkasumas hafuura Waaqayyoo malee, eenyu illee yaada Waaqayyoo hin hubatu. <sup>12</sup> Ammas nuyi kennaa isa Waaqayyo biraa nuuf kenname beekuudhaaf, hafuura isa Waaqayyo biraa dhufe fudhanne malee, hafuura biyya lafa kanaa hin fudhanne.</p><p><sup>13</sup> Kanaafis nuyi dubbii hafuuraa warra hafuuricha argataniif waan hiiknuuf, isa dubbannu barsiisa hafuurichaatiin malee, barsiisa ogummaa namaatiin hin dubbannu. <sup>14</sup> Namni hafuuricha hin argatin, kennaa hafuura Waaqayyoo hin fudhatu; kennaan sun isatti gowwummaa dha. Kennicha gargar baasee shallaguudhaaf iyyuu hafuuricha qabaachuu waan barbaachisuuf, isa hubachuu hin danda'u. <sup>15</sup> Namni hafuuraa waan hundumaa shallaga, isa garuu namni tokko iyyuu hin shallagu. <sup>16</sup> Caaffanni qulqullaa'aan,</p><p>†Eenyutu yaada gooftichaa beeka? Eenyutus isa gorsuu danda'a? jedha.<br><br> †Nuyi garuu yaada Kristos qabna. </p><p><sup>1</sup> Ani yaa obboloota ko, akka warra yaada foonii duukaa bu'anii, Kristositti immoo xobbee akka mucoolii ta'aniittan isinitti dubbadhe malee, akka warra yaada hafuuraa duukaa bu'aniitti isinitti dubbachuu hin dandeenye. <sup>2</sup> Ani aannan akka dhugdaniif isiniif kenneera; isin nyaata jabaadhaaf hin geenye turtan, ammuma iyyuu hin ga'in jirtu. <sup>3</sup> Isinoo amma iyyuu akka warra yaada foonii duukaa bu'anii ti; hinaafuunii fi wal qoccoluun erga isin gidduu jiraatee, isin warra yaada foonii duukaa buutan mitii ree? Akka yaada namaatti jiraattu mitii ree?</p>",
+        "url": "https://play.google.com/store/apps/details?id=com.nippt.oromo.bible&hl=en",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step6-i-will"
+      }
+    }
+  ]
+}

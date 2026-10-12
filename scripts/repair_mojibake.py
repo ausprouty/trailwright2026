@@ -1,4 +1,4 @@
-## python scripts/repair_mojibake.py "data/raw/myfriends/ET/amh/firststeps/next.html"
+## python scripts/repair_mojibake.py "data/raw/myfriends/ET/gaz/firststeps/next.html"
 
 
 

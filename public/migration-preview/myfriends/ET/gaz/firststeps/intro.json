@@ -1,0 +1,183 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "gaz",
+  "htmlLang": "gaz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "intro",
+  "sortOrder": 9,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Sadarkaan keenya inni duraa kiristaana haaraaf ijaarsa hundee kiristummaa isa ta’e kadhata isaanii keessatti, fi tarkaanfii isaan jalqaba hariiroo waaqayyo waliin fudhachuu qabanii dha. Fedhiin keenya kiristaanota haaraan eenyummaan isaanii gooftaa keessatti akka ta’uuf akkasumas gargaarsa qophii nuti goonuuf akka isaan amantaa isaanii namoota biroof waliif hiraniifii dha."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Sadarkaa inni duraa karaa namoota baayeen barachuu danda’aniif meeshaalee ga’aa ta’anii qopheessuu dha: <br>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Namoota biroon wal quunnamsiisuu",
+          "Mataa duree ijoo ta’ani irratti Walliin dudubachuu fi waliif hiruu dhaan",
+          "Seenaa jireenya isaanii giddugala godhachuu dhaan",
+          "Gocha dhuunfaa isaanii adda baafachuu dhaan"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Kaayyoon tokkoo tokkoo kutaa barruu kanaa kallattii dhaan dhimma barruu Macaafa qulqulluu irratti dudubachuuf. Kaayyoon kee akka geggeessaaa garee kanaatti garee kana hogganuu tokkummaa dhaan akka dhugaa akka argataniif, siif barsiisaan yookaan barsiisaan Macaafa qulqulluu biro si hin barbaachisu."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Seerri gaariin qajeelfama kana keessatti kiristiyaanni lubbuu haaraan tokko ofii isaatii 70% akka dubbatu gochuu fi 30% ofii keessanii dubbachuu dha. Ga’een kee akka geggeessaa tokkootti hafuura qulqullluu hafeeruu dha akka inni isaan gargaaree dubbii macaafichaa hubataniifi."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Yoo bakka tokkotti haasaa dheeraa jiraateef yookaan gareen suni yeroo dabalataa barbaadu yaadi rime (ijoo dubbichaa) argachuuf barnooticha bakka lamatti gargar cabsuun gaarii dha akka torbee lamaaf irratti hojjetaniifi."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Toora yeroo barnootaa hundeessuu",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Tooftaa inni ijoon jalqaba raawwatamu qabu tooftaa tokko sadeedha. Kutaawwan sadeen kuini ‘Garra booddee ilaaluu’, ‘Gara olii ilaali’,’ Gara duraa ilaaluu’. ijaarsi kuni ijaarsa caasaa isa ijoo ta’ee kan salphaatti ibsuuf nama gargaaruu akkasumas namoota biroof illee haala salphaan ibsuuf kan nama gargaaruu dha .<br>"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Gara booddee Ilaaluu",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Bakki kuni iddoo gareen kuni itti yeroo isaanii itti walqunnamsiisanii dha, yeroo itti wal hubatan fi mata duree darbe irratti hubannoo argatan waliif hiranii dha. Gareen walii isaaniif yeroo wal kunuunsan fi yeroo itti haala itti gaafatamummaa baranii dha. Waanti ijoo barbaachisaa ta’e asitti godhamuu qabu miseensi garee kamuu carraa yaada waliif hiruu argachuu qaba."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br> Erga yaada wal jijjiiranii booda miseensi garee walii walii isaaniif akka waliikadhata gochuu, yookan ati waanta namootni waliif hiran barreessitee lafa kaa’uufii sana booda waliin kadhachuu. Yeroo jalqabaaf namootni waliin kadhachuudhaaf fedhii hin qaban kanaaf namoota kana akka isaan gara kanatti deemaniif jajjabeessuu akkuma yeroon isaaniif kennaa deemuun waan ofitti amanaa deemaniif ati ofii keen kadhachuufii hin qabdu."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br> Akkuma hiramaa deemaniin , yoo karaan jiraateef gareen gargaarsaa fi tumsa mullataa ni godhu. Mee namootni kana haa raawwatan. waan mara gareef hin raawwatin, gareen biroo fo danda’anii dhabatanii garee biro fi hawwaasaaf ho’ina qaban haa agarsiisanii."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br> Gaaffi baayee barbaachisoo ta’ani sadarkaa kanatti:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Erga yeroo darbe wal agarree asitti haalli jiru mal fakkaata?",
+          "Waan irratti siif kadhatamuu barbaaddu qabdaa?",
+          "Waan irratti rakkoon si mudatee Deggersi akka siif godhamu barbaaddu jiraa?",
+          "Hawwaasa keessatti, Maatii yookaan hiriyyoota keessan gidduutti fedhii akkamii argitani? Dhimma kana irratti Ani/Nu’i karaa si gargaarru qabnaa?",
+          "Gochoota jiran raawwachuuf yeroo wal argee keenya darbe asitti haalli maal fakkaata?",
+          "Barnoota keenya yeroo darbee eenyuuf qooddani/hirtan/hirmaachiistan?",
+          "Waan yeroo darbe barumsaan agartan keessatti eessatti akka deggersi isiniif godhamu barbaaddu?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Gara olii ilaali",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Oliilaaluun gara waaqayyoo fi sagalee waqayyoo ilaaluu dha. Gara Boqonnaa macaafa qulqulluu yookaan gara ijoo yaadaa isa ta’e do’achuu fi maal akka jedhu maal jechuu akka ta’ee iddoo tokkotti ni bartu. Dursaan garichaa ijoo kutaa barumsichaa irratti ibsa kennuu dhaan kan eegalamu. boqonnaa macaafa qulqulluu irra deddeebi’anii dubbisuun barbaachisaa dha. Yeroo jalqabaaf namotni akka dhaga’an yommuu ta’u jechoota hin barbaachisne ibsuu dhaan carra akka argatan gochuu dha itti aansuu dhaan immoo isa dhaga’an akka jabeeffatan gochuu dha. yeroo lammaffaa yeroo namootaaf dubbisnu callisanii dhageeffachuun isaanii irra guddeessa gaarii dha."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br> Kiristaanota haaraa mataa isaaniin qayyabanaa macaafa qulqulluu akka godhan barsiisuu, boqonnoota irratti gaaffi waliigalaa itti fuffiinsaan akka gaafataniif tumsa ni goona. Gaafileen muraasni kunis:-"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Hubannoof waan sin rakkise jiraa?",
+          "Keeyyata kana keessa kan hiikoo siif qabu jiraa?",
+          "Mata dureen harraa waa’ee waaqayyoo maal nutty dubbate? Waa’ee namootaa ho? Waa’ee waaqayyo hariiroo nu waliin qabu hoo?",
+          "Maal yaadda gaaffii ijoo yeroo jalqabaa keeyyata (barruu) kana ilaalchise ka’eef ?",
+          "Yaada yookan gaaffii barruu kana irratti ni qabdaa?",
+          "Akkamitti barnoota hanga ammaatti harra barre cuunfuu dandeessa?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Gara duraa ilaaluu",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Gara olii ilaaluun kutaa qaama barumsichaa ta’ee gara waaqaayyoo fi dubbii isaa ilaaluu jecchuu dha. Akka isaan irratti yaadaniif Carraa isaanii laachuu akkasumas waan baratan eenyuu waliin akka waliif qoqqodan baratutu. Namootni furtuu isa ta’ee boqonnaarratti waan hunda’anii fi achirratti waan argan irratti waan waliin mari’ataniif, gaaffilee waan waliif deebisaniif yaada hubannoo isaanii waan waliif hiraniif qabxii gocha (raawwii gochaan) qabu gara olii ilaaluu dhaan barumsa kutaa itti aanu akkanni ta’u abdii godhachuu. Kutaan barumsaa kan gochaa kiristaanonni haraan akka amantii isa haaraa keessaniitti kutaa dhugaatti isin cimsu waan ta’eef jabaannee xumuruu inbarbaanna. gochawwan yaadaa sasalphoon kan safaramuu danda’u dhugaa kan of keessa qabuu fi yeroo dhaan kan ittifame gaarii (SMART) ta’uu qaba. Kunis ifaa ta’uutu irra jira yeroo ittaanuu gareen yeroo wal argu ingoona waan jedhan gochuu danda’uu isaanii kan dandeesisu baayee waan ifaa ta’e qabaachuu qaba. Gaaffileen armaan gaditti dhiyaatan gaaffii namootni gocha mataa isaanii ittiin adda baafachuuf isaan gargaaranii dha."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "“Ani nan raawwadha” gaalee jettu yeroo mara kutaa barnootaa gara dhumaa irratti yeroo mara fayyadamuu fi namootni “Ani nan raawwadha” gaalee jettu namootni hordoftoota isaaniif akka qoodan gaafachuu. <ul><li>Ani guyyaa dhaa guyyaan fayyina inni naaf godheef waaqayyoon nan galateeffadha.</li><li>Hiriyoota koo /jaallewwan koo/ jireenya isaanii keessatti waaqayyo fedhii keessa isaaniitti guutuu barbaadu akka natti mullisuuf waaqayyoon guyyaa dhaa guyyaatti nan kadhadha. </li></ul>",
+          "HUbannoo mata duree barnootaaharraa irraa argatan barreessaa.",
+          "Barnoota harra baratan eenyu waliin akka waliif qooddan adda baasaa.<br>"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "kutaa barnoota isa dhumaa"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Akka waliigalaatti, barumsicha cuunfi. Achumaan walii walii isaaniif kadhachuun xumursiisi, sanumaan waan baratan hojjiirra oolchaa haa deemanii, akkasumas seenicha namoota biroon waliif hiraa haa deemanii. Yeroo fi iddoo yeroo itti aanu wal agartan qabadhaa akkasumas isaan yaadachisuu hin irraanfatini akka isaan namoota biro gara garee kanaatti afeeran akkasumasi ofii isaaniitiimmoo biliisummaan (birmadummaa) akka qabaatan gochuu."
+      }
+    }
+  ]
+}

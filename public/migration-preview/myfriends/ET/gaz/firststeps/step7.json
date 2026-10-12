@@ -1,0 +1,166 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "gaz",
+  "htmlLang": "gaz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step7",
+  "sortOrder": 6,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Keessa Deebii",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Torbee kana akka galateeffattu kan si godhan maal fa’aa?",
+          "Waanti si rakkise maalidha? Akkamittiin si gargaaruu dandeenya?",
+          "Hawaasa/Mooraa/mana baruumsaa keenya keessatti maaltu barbaachisa jettee yaadda?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "Wantoota barbaachisan kana hundumaa irratti walii walii keenyaaf kadhachuun gaariidha."
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qo’annaa torbee darbee akkamitti hojiirra oolchite?",
+          "Seenicha eenyu fa’aaf hirtee? Deebiin isaaniihoo maal ture?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Xiyyeeffannoo",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "Gaaffii Ijoo: Haala baay’ee ulfaataa fakkaatu keessatti Jireenya Kristiyaanummaa akkamittiin jiraachuu dandeenya?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "Ibsa: Jabina ofii keenyaatiin jireenya Waaqayyo barbaadu jiraachuu hin dandeenyu; Garuu karaa gargaarsa Hafuura Qulqulluutiin jireenya Waaqayyo nurraa barbaadu jiraachuuf humna (jabina) arganna."
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"./satisfied\">Barreeffama kana keessaa jireenya keetiif wanti hiika qabu jira?</a>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Hubachuudhaaf wanti sitti ulfaate tureeyyu?",
+          "Barreeffamni har’aa waa’ee Waaqayyoo maal nutti hima? Waa’ee namootaa hoo? Waa’ee walitti dhufeenya Waaqayyo wajjin qabnuuhoo?",
+          "Barreefamni kun gaaffilee armaan dura kaasne wajjin akkamitti walitti dhufa jettee yaadda?<span class=\"italics\"> \"Haala baay’ee ulfaataa fakkaatu keessatti Jireenya Kristiyaanummaa akkamittiin jiraachuu dandeenya?\"</span>",
+          "Barreeffama kana irratti gaaffii yookiin yaada qabda?",
+          "Wanta har’a baranne akkamittiin ibsita (guduunfita)?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Guduunfaa:",
+        "level": 3
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Humna Hafuura Qulqulluutiin nuuf kennamu irratti hirkachuun, jireenya Waaqayyo nurraa barbaaduu fi isa gammachiisu jiraachuu ni dandeenya. Jireenya kana jabina keenyaan yoo yaalle, ija godhachuu, jireenya Waaqayyo nurraa barbaadus jiraachuu hin dandeenyu. Kanaaf guyyaa hundumaa Hafuura Qulqulluutti hirkachuu, irratti of gatuus qabna."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Akkuma jalqabaa kaasnee baranne, fakkeenyi baay’ee nu gargaaaru hafuura baafachuu (harganuudha). Akkuma Oksiijiinii (qilleensa qulqulluu) gara keessaatti, Kaarboondaaayoksaayidii (qilleensa gubataa) immoo gara alaatti hargannu, jireenyi hafuuraas hargansuudha. Hargansuun hafuuraa akka kana: cubbuu keenya himachuudhaan (torbeewwan darban keessa ilaallee turre) gara alaatti harganna; humna Hafuura Qulqulluu irraa argamutti of kennuun gara keessaatti harganna. Yeroo hundumaa kana yoo goote jireenya Waaqayyo sirraa barbaadu jiraachuu in dandeessa."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Hojiirra Oolchuu (Raawwachuu)",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Wanti baay’ee barbaachisaan isa baranne akkamitti akka hojiirra oolchinudha. Kana raawwachuudhaaf tokko tokkoon keenya wal gargaaruu qabna. Gaaffileen kun nu fayyaduu danda’u:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Kun akkamittiin ta’uu danda’aa yookiin geeddaruumsa kana akkamittiin jiraatta? Waaqayyo wajjin, ofiikeefi warra kaan faana akkamittiin jiraatta?",
+          "Marii torbee kanaa booda jireenya kee keessatti maal raawwatta? Akkamittiin jijjiirama kana fiduu dandeessa?",
+          "Wanta torbee kana baranne eenyu faana hirmaatta (haasofta)? Waa’ee maalii hirmaatta?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step7-i-will"
+      }
+    }
+  ]
+}

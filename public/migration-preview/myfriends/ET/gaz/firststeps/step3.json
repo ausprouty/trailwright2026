@@ -1,0 +1,177 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "gaz",
+  "htmlLang": "gaz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step3",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Keessa Deebii",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Torbee kana akka galateeffattu kan si godhan maal fa’aa?",
+          "Waanti si rakkise maalidha? Akkamittiin si gargaaruu dandeenya?",
+          "Hawaasa/Mooraa/mana baruumsaa keenya keessatti maaltu barbaachisa jettee yaadda?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "Wantoota barbaachisan kana hundumaa irratti walii walii keenyaaf kadhachuun gaariidha."
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qo’annaa torbee darbee akkamitti hojiirra oolchite?",
+          "Seenicha eenyu fa’aaf hirtee? Deebiin isaaniihoo maal ture?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Xiyyeeffannoo",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "Gaaffii Ijoo: Waaqayyo wajjin walitti dhufeenya dhaabbataa fi gaarii ta’e akkamitti shaakaluu dandeenya?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "Ibsa: Cubbuun walitti dhufeenya nuti Waaqayyo wajjin qabnu miidha(huba), garuu walitti dhufeenyi keenya jabaatee dhabbata."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luqaas 15:11-24",
+        "html": "<p><sup>11</sup> Gaaf tokko immoo Yesus Namni tokko ilmaan lama qaba ture. <sup>12</sup> Inni quxisuun abbaa isaatiin, 'Yaa abbaa ko qabeenya kee keessaa kan na ga'u hirmaata koo naa kenni!' jennaan abbaan isaanii waan qabu hundumaa ilmaan isaa lamaaniif hire, <sup>13</sup> Guyyaa baay'ee utuu hin turin ilmi namichaa inni quxisuun, kan isa ga'e hundumaa calleeffatee, mana abbaa isaatii ba'ee biyya fagoo dhaqe; achitti akka malee jiraachuu isaatiin horii isaa hundumaa akkasumaan bittimse. <sup>14</sup> Yeroo inni waan qabu hundumaa fixetti, beelli jabaan isaa biyya sanatti bu'e, kanaafis baay'ee rakkate. <sup>15</sup> Warra biyyasii keessaa gara isa tokkoo dhaqee itti of gate; namichis waan godhu dhabnaan, booyyee haa tiksuuf lafa darabaa isaatiitti isa erge. <sup>16</sup> Baay'ina beela isaa irraa kan ka'es qola booyyeen nyaatuun illee garaa isaa guuttachuu in kajeela ture, garuu isuma iyyuu argachuu hin dandeenye.</p><p><sup>17</sup> Yommus gurbichi yaada isaa naanneefatee, 'Hojjetoonni guyyaa abbaa kootiif hojjetanii buddeenni isaan irraa hafu nama meeqa? Ani garuu asitti beelaanan badduu ba'a. <sup>18</sup> Ka'ee gara abbaa koo dhaqeetan, Yaa abbaa ko, Waaqayyoon, sis yakkeera; <sup>19</sup> si'achis ilma kee jedhamuun anaaf hin ta'u, hojjetoota kee keessaa akka isa tokkoo na godhadhu' jedhaan. <sup>20</sup> Ka'ees gara abbaa isaa dhaquudhaaf karaa irra bu'e; amma illees fagoodhaa utuu inni dhufuutti jiruu, abbaan isaa fuulleetti isa argee garaan isaa mooga'e; itti fiigees ilma isaatti marmee dhungates. <sup>21</sup> Ilmi isaa garuu, 'Yaa abbaa ko, ani Waaqayyoon, sis yakkeera, si'achis ilma kee jedhamuun anaaf hin ta'u' jedheen. <sup>22</sup> Abbaan isaa garuu ergamtuu isaatiin, 'Dafaatii uffata isa keessaa caalu fidaatii itti uffisaa, amartii warqees quba isaatti kaa'aa, kophees miilla isaatti kaa'aa. <sup>23</sup> Tuntunicha isa coomaa sana fidaatii qalaa, in nyaanna in gammannas. <sup>24</sup> Ilmi koo kun du'eedhuma ture deebi'ee jiraate, badee ture in argames jedhe; hundumtinuus itti gammadan.</p>",
+        "url": "https://play.google.com/store/apps/details?id=com.nippt.oromo.bible&hl=en",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Kutaa kana keessaa wanti siif hiika qabuu jira?",
+          "Hubachuudhaaf wanti sitti ulfaate tureeyyu?",
+          "Kutaan har’aa waa’ee Waaqayyoo maal nutti hima? Waa’ee namootaa hoo? Waa’ee walitti dhufeenya Waaqayyo nu wajjin qabuuhoo?",
+          "Kutaan kun akkamitti gaaffii sana wajjin wal qabata jettee jettee yaadda:<span class=\"italics\"> \"Waaqayyo wajjin walitti dhufeenya dhaabbataa fi gaarii ta’e akkamitti shaakaluu dandeenya?\"</span>"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Guduunfaa:",
+        "level": 3
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Yohannis Isa Duraa 1:9",
+        "html": "<p><sup>9</sup> Cubbuu keenya yoo isatti himanne, inni amanamaa fi qajeelaa waan ta'eef, cubbuu keenya nuuf in dhiisa, jal'ina keenya hundumaattiis nu qulleessa.</p>",
+        "url": "https://play.google.com/store/apps/details?id=com.nippt.oromo.bible&hl=en",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Cubbuu himachuun wanta hamaa hojjenne Waaqayyotti himnee araara isa kadhachuudha. Waaqayyommoo cubbuu keenya yoo isatti himanne akka nuuf dhiisu waadaa nuuf galeera."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Cubbuu keenya dhiifnee gara Waaqayyootti deebi’uudhaan jaalalaa fi araara isaa isa Yesuus fannoo irratti du’uun nuuf kenne shaakaluu dandeenya. Qooda jal’aa jedhamuu, hadheeffamuu fi adabamuu, walitti dhufeenyi Waaqayyo wajjin qabdu in haareffama."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Hojiirra Oolchuu (Raawwachuu)",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Wanti baay’ee barbaachisaan isa baranne akkamitti akka hojiirra oolchinudha. Kana raawwachuudhaaf tokko tokkoon keenya wal gargaaruu qabna. Gaaffileen kun nu fayyaduu danda’u:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Kun akkamittiin ta’uu danda’aa yookiin geeddaruumsa kana akkamittiin jiraatta? Waaqayyo wajjin, ofiikeefi warra kaan faana akkamittiin jiraatta?",
+          "Marii torbee kanaa booda jireenya kee keessatti maal raawwatta? Akkamittiin jijjiirama kana fiduu dandeessa?",
+          "Wanta torbee kana baranne eenyu faana hirmaatta (haasofta)? Waa’ee maalii hirmaatta?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step3-i-will"
+      }
+    }
+  ]
+}

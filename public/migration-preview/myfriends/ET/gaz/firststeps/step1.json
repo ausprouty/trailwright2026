@@ -1,0 +1,138 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "gaz",
+  "htmlLang": "gaz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step1",
+  "sortOrder": 0,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Keessa Deebii",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Torbee kana akka galateeffattu kan si godhan maal fa’aa?",
+          "Waanti si rakkise maalidha? Akkamittiin si gargaaruu dandeenya?",
+          "Hawaasa/Mooraa/mana baruumsaa keenya keessatti maaltu barbaachisa jettee yaadda?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "Wantoota barbaachisan kana hundumaa irratti walii walii keenyaaf kadhachuun gaariidha."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Xiyyeeffannoo",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">Qabxii 1:</span> Waaqayyo si jaallata, dhuunfaa keetti akka isa beektus in barbaada."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">Qabxii 2:</span> Cubbuu keenyarraa kan ka’e nuti Waaqayyorraa gargar baaneerra; Kanaaf Waaqayyoon beekuu, jaalala isaas mi’eeffachuu hin dandeenyu."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">Qabxii 3:</span> Furmaatni cubbuu keenyaaf Waaqayyo kenne Yesuus qofaadha. Karaa isaa qofaadha Waaqayyoon beekuu, jaalalaa fi araara isaa argachuu kan dandeenyu."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">Qabxii 4:</span> Nuti hundi dhuunfaa keenyatti Yesuusiif deebii kennuu qabna, Fayyisaa fi Gooftaa keenya goonee amanuudhaan. Yoo kana goone duwwaa Waaqayyoon dhuunfaa keenyatti beekuu dandeenya."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Dhugaa ba’uumsa koo",
+        "level": 3
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Jireenya koo osoon Yesuusiin hin amaniin dura",
+          "Akkaataan ittiin Yesuus amane",
+          "Ergan Yesuus amanee akka jireenyi koo itti jijjiirame"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Hojiirra Oolchuu (Raawwachuu)",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Wanti baay’ee barbaachisaan isa baranne akkamitti akka hojiirra oolchinudha. Kana raawwachuudhaaf tokko tokkoon keenya wal gargaaruu qabna. Gaaffileen kun nu fayyaduu danda’u:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Kun akkamittiin ta’uu danda’aa yookiin geeddaruumsa kana akkamittiin jiraatta? Waaqayyo wajjin, ofiikeefi warra kaan faana akkamittiin jiraatta?",
+          "Marii torbee kanaa booda jireenya kee keessatti maal raawwatta? Akkamittiin jijjiirama kana fiduu dandeessa?",
+          "Wanta torbee kana baranne eenyu faana hirmaatta (haasofta)? Waa’ee maalii hirmaatta?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step1-i-will"
+      }
+    }
+  ]
+}

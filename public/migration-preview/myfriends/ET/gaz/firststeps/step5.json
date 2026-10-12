@@ -1,0 +1,165 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "gaz",
+  "htmlLang": "gaz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step5",
+  "sortOrder": 4,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Keessa Deebii",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Torbee kana akka galateeffattu kan si godhan maal fa’aa?",
+          "Waanti si rakkise maalidha? Akkamittiin si gargaaruu dandeenya?",
+          "Hawaasa/Mooraa/mana baruumsaa keenya keessatti maaltu barbaachisa jettee yaadda?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "Wantoota barbaachisan kana hundumaa irratti walii walii keenyaaf kadhachuun gaariidha."
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qo’annaa torbee darbee akkamitti hojiirra oolchite?",
+          "Seenicha eenyu fa’aaf hirtee? Deebiin isaaniihoo maal ture?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Xiyyeeffannoo",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "Gaaffii Ijoo: Walitti dhufeenya Yesuus wajjin qabnutti guddachuu akkamitti itti fufuu dandeenya?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "Ibsa: Walitti dhufeenya kamiyyuu keessatti waliin haasa’uun furtuudha. Waaqayyo nu wajjin haasa’uu ni barbaada; nutis isa wajjin haasa’uu qabna."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Hojii Ergamootaa 2:42-47",
+        "html": "<p><sup>42</sup> Amantoonnis barsiisa ergamootaatti, tokkummaa isaanii cimsachuutti, buddeena cabsachuutti, kadhata godhachuuttis qabamanii jiraatan. <sup>43</sup> Dinqiinii fi milikkinni baay'een harka ergamootaatiin in godhamu, namoonni hundinuus Waaqayyoon in sodaatu turan. <sup>44</sup> Kan amanan hundinuu walii wajjin iddoodhuma tokko turan, kan isaan qaban hundinuus qixxee ture. <sup>45</sup> Araddaa isaaniitii fi qabeenya isaanii gurguranii, horii isaas hundumaafuu, akka isa barbaachisetti in hiru turan. <sup>46</sup> Guyyaa guyyaatti yaada tokkoon mana qulqullummaatti deddeebi'anii, manuma mana isaaniittis buddeena cabsatanii, gammachuudhaan, garaa qulqulluudhaanis nyaata isaanii waliin ga'anii in nyaatu turan. <sup>47</sup> Isaan Waaqayyoon in galateeffatan, saba hundumaa durattis ayyaana argatan; gooftaanis guyyaa guyyaatti warra fayyan amantootatti in dabale.</p>",
+        "url": "https://play.google.com/store/apps/details?id=com.nippt.oromo.bible&hl=en",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Kutaa kana keessaa wanti siif hiika qabuu jira?",
+          "Hubachuudhaaf wanti sitti ulfaate tureeyyu?",
+          "Kutaan har’aa waa’ee Waaqayyoo maal nutti hima? Waa’ee namootaa hoo? Waa’ee walitti dhufeenya Waaqayyo nu wajjin qabuuhoo?",
+          "Kutaan kun akkamitti gaaffii sana wajjin wal qabata jettee jettee yaadda:<span class=\"italics\"> \"Walitti dhufeenya Yesuus wajjin qabnutti guddachuu akkamitti itti fufuu dandeenya?\"</span>",
+          "Waa’ee kutaa kanaa yaada yookiin gaaffii qabda?",
+          "Wanta har’a baranne akkamittiin ibsita (guduunfita)?",
+          "Wanti yeroo Kutaan kun barreeffame ta’aa turee fi wanti amma hawaasa, maatii fi hiriyoota keenya gidduutti ta’aa jiru faana wal fakkaataadha?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Guduunfaa:",
+        "level": 3
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Kadhannaadhaan Waaqayyotti dubbachuun, Karaa Macaafa Qulqulluu fi Kristiyaanota wajjin walitti qabamuun isa dhaga’uudhaan walitti dhufeenya Yesuus wajjin qabnutti guddachuu dandeenya. Akkasitti sirriitti isa beekuus ni dandeenya."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Hojiirra Oolchuu (Raawwachuu)",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Wanti baay’ee barbaachisaan isa baranne akkamitti akka hojiirra oolchinudha. Kana raawwachuudhaaf tokko tokkoon keenya wal gargaaruu qabna. Gaaffileen kun nu fayyaduu danda’u:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Kun akkamittiin ta’uu danda’aa yookiin geeddaruumsa kana akkamittiin jiraatta? Waaqayyo wajjin, ofiikeefi warra kaan faana akkamittiin jiraatta?",
+          "Marii torbee kanaa booda jireenya kee keessatti maal raawwatta? Akkamittiin jijjiirama kana fiduu dandeessa?",
+          "Wanta torbee kana baranne eenyu faana hirmaatta (haasofta)? Waa’ee maalii hirmaatta?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step5-i-will"
+      }
+    }
+  ]
+}

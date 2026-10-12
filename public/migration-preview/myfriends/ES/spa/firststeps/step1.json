@@ -1,0 +1,138 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step1",
+  "sortOrder": 0,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirar atrás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿De qué estás agradecido esta semana?",
+          "¿Con qué estás luchando y cómo podemos ayudarte?",
+          "¿Cuáles son las necesidades que has notado en nuestra comunidad / escuela / colegio?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "Sería\nbueno orar los unos por los otros en torno a estas necesidades."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Buscar",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">Punto 1:</span> Dios te ama y te creó para conocerlo a él."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">Punto 2:</span> Estamos separados de Dios por nuestro pecado, por lo que no podemos conocer ni experimentar su amor."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">Punto 3:</span> Jesús es la única solución de Dios para nuestro pecado. Solo a través de él podemos conocer a Dios y recibir su amor y perdón."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">Punto 4:</span> Cada uno debe responder a Jesús poniendo su confianza en él como su Salvador y Señor. Solo entonces podemos conocer a Dios personalmente."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Mi testimonio",
+        "level": 3
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Mi vida antes de conocer a Jesús",
+          "Cómo conocí a Jesús",
+          "Cómo ha cambiado mi vida desde conocer a Jesús"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Esperar",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Lo más importante será cómo aplicamos lo que aprendemos, y así ayudarnos los unos a los otros a encontrar maneras de hacer eso. Algunas preguntas que nos ayudarán a hacerlo son las siguientes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Cómo puede cambiar tu modo de vida lo que aprendimos? Con Dios, contigo mismo y con los demás?",
+          "¿Cuál es una cosa que te gustaría aplicar a tu vida a partir de la discusión de esta semana? ¿Qué vas a hacer para llevar a cabo ese cambio?",
+          "¿Con quién vas a compartir lo que has aprendido esta semana? ¿Qué vas a compartir?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step1-i-will"
+      }
+    }
+  ]
+}

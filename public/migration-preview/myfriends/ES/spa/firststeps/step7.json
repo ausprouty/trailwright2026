@@ -1,0 +1,166 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step7",
+  "sortOrder": 6,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirar atrás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿De qué estás agradecido esta semana?",
+          "¿Con qué estás luchando y cómo podemos ayudarte?",
+          "¿Cuáles son las necesidades que has notado en nuestra comunidad / escuela / colegio?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "Sería\nbueno orar los unos por los otros en torno a estas necesidades."
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Cómo aplicar la lección de la semana pasada?",
+          "¿Con quién compartiste la historia, y cuál fue su respuesta?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Buscar",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "Pregunta clave: ¿Cómo vivimos la vida cristiana cuando puede parecer tan difícil a\nveces?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "Declaración: En nuestra propia fuerza, no podemos vivir como Dios quiere que\nvivamos, pero con su ayuda por medio del Espíritu Santo, tenemos el poder\npara vivir como Dios quiere que vivamos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"./satisfied\">¿Hay algo en este artículo que sea significativo para ti?</a>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Hubo algo difícil de entender?",
+          "¿Qué nos dice el artículo de hoy acerca de Dios? ¿Sobre personas? Acerca de la relación de Dios con nosotros?",
+          "¿Cómo cree que este artículo se refiere a la cuestión hemos comentado anteriormente:<span class=\"italics\"> \"¿Cómo vivimos la vida cristiana?\"</span>",
+          "¿Tiene alguna otra pregunta o comentario sobre este artículo?",
+          "¿Cómo resumiría lo que hemos aprendido hoy?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Conclusión:",
+        "level": 3
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Usando el poder disponible a nosotros por medio del Espíritu Santo, podemos vivir de la manera en que Dios desea que vivamos. Si intentamos vivir esta vida con nuestra propia fuerza, no podremos llevar mucho fruto y vivir de la manera en que Dios quiere que vivamos. Necesitamos depender del Espíritu Santo cada día."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Como aprendimos anteriormente, una herramienta útil que nos ayudará a llevar esto a cabo es una metáfora de la respiración. Al igual que respiramos oxígeno y expiramos dióxido de carbono, también podemos respirar espiritualmente. La respiración espiritual es simplemente esto: expiramos nuestro pecado por medio de la confesión (lo cual cubrimos hace un par de semanas), y respiramos mediante el poder que nos está disponible por medio del Espíritu Santo. Si haces esto regularmente, podrás vivir la vida que Dios quiere que vivas."
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Esperar",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Lo más importante será cómo aplicamos lo que aprendemos, y así ayudarnos los unos a los otros a encontrar maneras de hacer eso. Algunas preguntas que nos ayudarán a hacerlo son las siguientes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Cómo puede cambiar tu modo de vida lo que aprendimos? Con Dios, contigo mismo y con los demás?",
+          "¿Cuál es una cosa que te gustaría aplicar a tu vida a partir de la discusión de esta semana? ¿Qué vas a hacer para llevar a cabo ese cambio?",
+          "¿Con quién vas a compartir lo que has aprendido esta semana? ¿Qué vas a compartir?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step7-i-will"
+      }
+    }
+  ]
+}

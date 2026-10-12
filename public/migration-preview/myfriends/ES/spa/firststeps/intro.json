@@ -1,0 +1,170 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "intro",
+  "sortOrder": 9,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "El programa de los Primeros Pasos consiste dmateriales de discipulado para ayudar a los nuevos cristianos establacerse en su fe, dando sus primeros pasos en su relación con Dios. Nuestro deseo es confirmar los nuevos cristianos en su identidad en Cristo y prepararrles para compartir su fe con otros."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Los materiales están diseñados para tomar en cuenta la manera de aprender de la mayoría de las personasoo:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Conectando con otros,",
+          "Placticando y compartiendo aspectos de un tema clave",
+          "Tomando en cuenta sus propias experienxcias en la vida",
+          "Buscando aplicación personal,"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "El objetivo de cada sesión es ofrecer una conversación dirigida sobre un pasaje clave de las escrituras. Su papel como líder es guiar al grupo en descubrir la verdad en equipo. No necesita ser maestro o experto en la Biblia."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Por lo general, los nuevos cristianos hablaran el 70% del tiempo y el lideralr el 30% del tiempo. Su papel como líder es permitir que el Espíritu Santo les ayuda a descubrir lo que está enseñando la cita Biblica."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Si hay mucha plactica en algunas cosas o el grupo necesita más tiempo para explorar un concepto particular, es aceptable dividir la sesión en dos partes y hacerlo en dos semanas."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Formato de la sesión",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "El armazón del programa de los Primeros pasos utiliza un método conocido como tres tercios. Estas tres secciones son <span class=\"color-back\">'Mira hacia atras'</span>, <span class=\"color-up\">Mira hacia arriba'</span>, <span class=\"color-forward\"> 'Mira hacia adelante'</span>. Estos forman la estructura básica de cada sesión y hacen fácil de recordar y explicar a los demás."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Mira hacia atrás",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "En esta parte de la sesion el grupo pasa el tiempo conectandose, poniendose al corriente y compartiendo cómo las cosas han pasado desde la sesión anterior. Los miembros del grupo lpuedan demonmostrarsu afecto por los demás y aprender lo que significa ser responsable. Es importante asegurar que todos los miembros del grupo tienen oportunidad de participar."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Mientras la gente comparta, si hay manera de que el grupo puede ayudar con las necesidades que se presentan, permiten que las personas ofrecen su ayuda. No todotodo para el grupo. Deja que otros mienros del grupo demuestran su vompasion para los sus compañero y comunidad. Algunas preguntas útiles para esta etapa son:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "¿Qué ha estado sucediendo para usted desde la ultima vez que reunimos?",
+          "¿Hay algima peticion de oración ?",
+          "¿Está sucediendo algo con que podríamos ayudar?",
+          "¿Qué necesidad han notado en nuestra comunidad, en familia o entre tus amigos recientemente? ¿Hay algo que podríamos hacer para ayudar?",
+          "¿Cómo van con la aplicación de nuestra última sesión?",
+          "¿Que han compartido sobre lo que han aprendido en nuestra última sesión?",
+          "¿Pudo ayudar con cualquier necesidad que había notado y comparte en nuestra última sesión?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Mira hacia Arriba",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "En esta seccion miramos a Dios y a su Palabra. Ver a un versiculo de las escritura o repasar conceptos básicos juntos y explorar lo que significan. Empieza explicando el versiculo clave de la sesión, que puede encontrarse al principio de las notas de la sesión. También necesitará leer la cita Biblica de un par de veces. La primera vez es para que lagente puede escucharla y tener la oportunidad de aclarar palabras desconocidas y la segunda vez es ayudar a reforzar lo que se ha escuchado. Puede ser útil la segunda vez si las personas simplemente 'escuchan'."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Para ayudar a nuevos cristianos aprender a estudiar la Biblia por su propia,cuenta, tratamos a conseguirles hacer un conjunto de preguntas generales. Algunas de estas preguntas son:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "¿Fue algo difícil de entender?",
+          "¿Hay algo en este pasaje que es significate para usted?",
+          "¿Que nos dice el versiculo de hoy acerca de Dios? ¿De la gente? ¿Sobre la relación de Dios y nosotros?",
+          "¿Cómo cree que este versiculo se refiere a la pregunta tópica al principio?",
+          "¿Tienes otras preguntas o comentarios sobre este pasaje?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Mira hacia Adelaante",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Esta es la parte de la sesión donde el grupo de aclara puntos de aplicación del pasaje. También se les dan la oportunidad de pensar con quien pueden compartir lo que están aprendiendo. Puntos de aplicación deben fluir naturalmente de la sección de 'Mira hacia areriba',"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Uso de una connstrucción 'Voy a'. Al final de cada sesión pidiendo a todos a compartir una declaración de 'Voy a'. por ejemplo, <ul><li> \"Voy a agradecer a Dios diariamente por la seguridad de mi salvación.\" </li><li> ‘I will ask God each day to show me what need I can meet in the life of a loved one/friend’. </li></ul>",
+          "Escriba una lección aprendida en la sesión de hoy.",
+          "Identifica lo que comparten sobre lo que se ha aprendido hoy."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Cierre la sesión"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "En conclusión, haga resumen la lección. A continuación, finaliza co la oración de unos por los otros; que se aplicará; y que han aprendido paraser capaces de compartir la historia con otras personas. Kay que fijar la hora y el lugar para la próxima reunión y recordarles que no dude en invitar a otros a unirse al grupo."
+      }
+    }
+  ]
+}

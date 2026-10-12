@@ -1,0 +1,174 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "firststeps",
+  "lessonId": "step2",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirar atrás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿De qué estás agradecido esta semana?",
+          "¿Con qué estás luchando y cómo podemos ayudarte?",
+          "¿Cuáles son las necesidades que has notado en nuestra comunidad / escuela / colegio?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "Sería bueno orar los unos por los otros en torno a estas necesidades."
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Cómo aplicar la lección de la semana pasada?",
+          "¿Con quién compartiste la historia, y cuál fue su respuesta?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Buscar",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "Pregunta clave: ¿Cómo puede alguien que ha recibido a Jesús saber con seguridad que pasará la eternidad con Dios?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "Declaración: ¿Puedes saber que tienes una relación personal segura con Dios?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Juan 10:7-30",
+        "html": "<p><sup>7</sup>Volvió, pues, Jesús a decirles: De cierto, de cierto os digo: Yo soy la puerta de las ovejas.</p><p><sup>8</sup>Todos los que antes de mí vinieron, ladrones son y salteadores; pero no los oyeron las ovejas.</p><p><sup>9</sup>Yo soy la puerta; el que por mí entrare, será salvo; y entrará, y saldrá, y hallará pastos.</p><p><sup>10</sup>El ladrón no viene sino para hurtar y matar y destruir; yo he venido para que tengan vida, y para que la tengan en abundancia.</p><p><sup>11</sup>Yo soy el buen pastor; el buen pastor su vida da por las ovejas.</p><p><sup>12</sup>Mas el asalariado, y que no es el pastor, de quien no son propias las ovejas, ve venir al lobo y deja las ovejas y huye, y el lobo arrebata las ovejas y las dispersa.</p><p><sup>13</sup>Así que el asalariado huye, porque es asalariado, y no le importan las ovejas.</p><p><sup>14</sup>Yo soy el buen pastor; y conozco mis ovejas, y las mías me conocen,</p><p><sup>15</sup>así como el Padre me conoce, y yo conozco al Padre; y pongo mi vida por las ovejas.</p><p><sup>16</sup>También tengo otras ovejas que no son de este redil; aquéllas también debo traer, y oirán mi voz; y habrá un rebaño, y un pastor.</p><p><sup>17</sup>Por eso me ama el Padre, porque yo pongo mi vida, para volverla a tomar.</p><p><sup>18</sup>Nadie me la quita, sino que yo de mí mismo la pongo. Tengo poder para ponerla, y tengo poder para volverla a tomar. Este mandamiento recibí de mi Padre.</p><p><sup>19</sup>Volvió a haber disensión entre los judíos por estas palabras.</p><p><sup>20</sup>Muchos de ellos decían: Demonio tiene, y está fuera de sí; ¿por qué le oís?</p><p><sup>21</sup>Decían otros: Estas palabras no son de endemoniado. ¿Puede acaso el demonio abrir los ojos de los ciegos?</p><p>Los judíos rechazan a Jesús</p><p><sup>22</sup>Celebrábase en Jerusalén la fiesta de la dedicación. Era invierno,</p><p><sup>23</sup>y Jesús andaba en el templo por el pórtico de Salomón.</p><p><sup>24</sup>Y le rodearon los judíos y le dijeron: ¿Hasta cuándo nos turbarás el alma? Si tú eres el Cristo, dínoslo abiertamente.</p><p><sup>25</sup>Jesús les respondió: Os lo he dicho, y no creéis; las obras que yo hago en nombre de mi Padre, ellas dan testimonio de mí;</p><p><sup>26</sup>pero vosotros no creéis, porque no sois de mis ovejas, como os he dicho.</p><p><sup>27</sup>Mis ovejas oyen mi voz, y yo las conozco, y me siguen,</p><p><sup>28</sup>y yo les doy vida eterna; y no perecerán jamás, ni nadie las arrebatará de mi mano.</p><p><sup>29</sup>Mi Padre que me las dio, es mayor que todos, y nadie las puede arrebatar de la mano de mi Padre.</p><p><sup>30</sup>Yo y el Padre uno somos.</p><!-- begin publisher --><div class=\"publisher\"></div>",
+        "url": "https://biblegateway.com/passage/?search=John%2010:7-30&version=RVR1960",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Hay algo en este pasaje que es significativo para ti?",
+          "Hubo algo difícil de entender?",
+          "¿Qué nos dice el pasaje de hoy acerca de Dios? ¿Sobre personas? Acerca de la relación de Dios con nosotros?",
+          "¿Cómo crees que este pasaje se refiere a la cuestión que hemos comentado anteriormente::<span class=\"italics\"> \"¿Cómo puede una persona que ha recibido a Jesús saber con certeza que va a pasar la eternidad con Dios?\"</span>",
+          "¿Tiene alguna otra pregunta o comentario acerca de este pasaje?",
+          "¿Cómo resumiría lo que hemos aprendido hoy?",
+          "¿Podemos ver alguna similitud entre lo que estaba ocurriendo en el momento en que este pasaje fue escrito y lo que vemos en nuestras comunidades, familias o amistades hoy?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Conclusión:",
+        "level": 3
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1 Juan 5:11-13",
+        "html": "<p><sup>11</sup>Y este es el testimonio: que Dios nos ha dado vida eterna; y esta vida está en su Hijo.</p><p><sup>12</sup>El que tiene al Hijo, tiene la vida; el que no tiene al Hijo de Dios no tiene la vida.</p><p><sup>13</sup>Estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna, y para que creáis en el nombre del Hijo de Dios.</p><!-- begin publisher --><div class=\"publisher\"></div>",
+        "url": "https://biblegateway.com/passage/?search=1%20John%205:11-13&version=RVR1960",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "En la cruz, Jesús, el Buen Pastor, rindió su vida como sacrificio por nuestros pecados. Cuando pusimos nuestra fe en Jesús como nuestro Señor y Salvador, fuimos hechos corderos suyos y comenzamos a seguirlo. Él quiere que sepamos que tenemos vida eterna y que nada nos la quitará. ¿Estás seguro de que has recibido a Jesús en tu vida? ¿Sabes con seguridad que tienes vida eterna?"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Esperar",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Lo más importante será cómo aplicamos lo que aprendemos, y así ayudarnos los unos a los otros a encontrar maneras de hacer eso. Algunas preguntas que nos ayudarán a hacerlo son las siguientes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Cómo puede cambiar tu modo de vida lo que aprendimos? Con Dios, contigo mismo y con los demás?",
+          "¿Cuál es una cosa que te gustaría aplicar a tu vida a partir de la discusión de esta semana? ¿Qué vas a hacer para llevar a cabo ese cambio?",
+          "¿Con quién vas a compartir lo que has aprendido esta semana? ¿Qué vas a compartir?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step2-i-will"
+      }
+    }
+  ]
+}

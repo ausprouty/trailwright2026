@@ -1,0 +1,198 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "amh",
+  "htmlLang": "am",
+  "direction": "ltr",
+  "numberSystem": "ethi",
+  "series": "firststeps",
+  "lessonId": "step6",
+  "sortOrder": 5,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ክለሳ",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ባለፈው ሳምንት እንድታመሰግን ያደረጉ ምን ምን ነበሩ?",
+          "ያስቸገረህ/ሽ ነገር አለ? እንዴት እንርዳህ/ሽ?",
+          "ለህብረተሰባችን/ለግቢያችን/ለትምህርት ቤታችን ያስፈልጋሉ ብለህ/ሽ የምታስበው/ቢው ነገር አለ?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "በሚያስፈልጉት ነገሮች ሁሉ ላይ ለርስ በርሳችን መፀለይ አስፈላጊ ነው::"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "የባለፈው ሳምንት ጥናታችን እንዴት አተገበርከው?",
+          "ታርኩን ለማን አካፈልከው? ምላሻቸውስ ምን ነበር?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ትኩረት",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "ቁልፍ ጥያቄ: ባለፉት ሳምንታት ስንወያይ የነበረው እንዲገባንና በሱ እንድንኖር ያገዘን ማነው?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "መግለጫ: መንፈስ ቅዱስ ልረዳን: እንዲሁም የክርስትናን ህይወት እንድንኖር ልያግዘን ሁል ጊዜ ከኛ ጋር አለ::"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "ዮሐ 14:15-27",
+        "html": "<div class=\"p\"><span class=\"bible_rtl\" dir=\"ltr\"><span class=\"bible_rtl\" dir=\"ltr\"><span class=\"verse\"><sup>15</sup><span class=\"wj\">“ብትወዱኝ ትእዛዜን ትጠብቃላችሁ።</span></span><span class=\"verse\"><sup>16</sup><span class=\"wj\">እኔ አብን እለምናለሁ፤ እርሱም ከእናንተ ጋር ለዘላለም የሚኖር ሌላ አጽናኝ ይሰጣችኋል፤</span></span><span class=\"verse\"><sup>17</sup><span class=\"wj\">እርሱም የእውነት መንፈስ ነው፤ ዓለም ስለማያየውና ስለማያውቀው ሊቀበለው አይችልም። እናንተ ግን፣ አብሮአችሁ ስለሚኖርና በውስጣችሁ ስለሚሆን</span><span class=\"wj\">ታውቁታላችሁ።</span></span><span class=\"verse\"><sup>18</sup><span class=\"wj\">ወላጅ እንደሌላቸው ልጆች አልተዋችሁም፤ ወደ እናንተ እመጣለሁ።</span></span><span class=\"verse\"><sup>19</sup><span class=\"wj\">ከጥቂት ጊዜ በኋላ፣ ዓለም ከቶ አያየኝም፤ እናንተ ግን ታዩኛላችሁ። እኔ ሕያው ስለ ሆንሁ እናንተም ሕያዋን ትሆናላችሁ።</span></span><span class=\"verse\"><sup>20</sup><span class=\"wj\">እኔ በአባቴ እንዳለሁ፣ እናንተም በእኔ እንዳላችሁ፣ እኔም ደግሞ በእናንተ እንዳለሁ በዚያ ቀን ትረዳላችሁ።</span></span><span class=\"verse\"><sup>21</sup><span class=\"wj\">የሚወደኝ ትእዛዜን ተቀብሎ የሚጠብቅ ነው፤ የሚወደኝንም አባቴ ይወደዋል፤ እኔም እወደዋለሁ፤ ራሴንም እገልጥለታለሁ።”</span></span></span></span></div><div class=\"p\"><span class=\"verse\"><sup>22</sup>ከዚያም የአስቆሮቱ ያልሆነው ይሁዳ፣ “ጌታ ሆይ፣ ታዲያ፣ ለዓለም ሳይሆን ራስህን ለእኛ የምትገልጠው እንዴት ነው?” አለው።</span></div><div class=\"p\"><span class=\"verse\"><sup>23</sup>ኢየሱስም እንዲህ አለው፤ <span class=\"wj\">“የሚወደኝ ቢኖር ቃሌን ይጠብቃል፤ አባቴም ይወደዋል፤ ወደ እርሱ እንመጣለን፤ ከእርሱም ጋር እንኖራለን።</span></span><span class=\"verse\"><sup>24</sup><span class=\"wj\">የማይወደኝ ቃሌን አይጠብቅም። ይህ የምትሰሙት ቃል የላከኝ የአብ ነው እንጂ የእኔ አይደለም።</span></span></div><div class=\"p\"><span class=\"verse\"><sup>25</sup><span class=\"wj\">“አሁን ከእናንተ ጋር እያለሁ ይህን ሁሉ ነግሬአችኋለሁ፤</span></span><span class=\"verse\"><sup>26</sup><span class=\"wj\">አብ በስሜ የሚልከው አጽናኙ መንፈስ ቅዱስ ግን ሁሉን ነገር ያስተምራችኋል፤ እኔ የነገርኋችሁንም ሁሉ ያሳስባችኋል።</span></span><span class=\"verse\"><sup>27</sup><span class=\"wj\">ሰላምን እተውላችኋለሁ፤ ሰላሜን እሰጣችኋለሁ፤ እኔ የምሰጣችሁ ዓለም እንደሚሰጣችሁ አይደለም። ልባችሁ አይጨነቅ፤ አይፍራም።</span></span></div>",
+        "url": "https://www.bible.com/bible/1260/jhn.14.nasv",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ከዚህ ክፍል ውስጥ ላንተ/ቺ ትርጉም ያለው ነገር አለ?",
+          "ለመረዳት የከበደህ/ሽ ነገር ነበር?",
+          "የዛሬው ክፍል ስለእግዝአብሔር ምን ይነግረናል? ስለሰዎችስ? በእግዝአብሔር እና በእኛ መካከል ያለው ስላለው ግንኙነትስ?",
+          "ይህ ጽሑፍ እንዴት ከዛህ ጥያቄ ጋር ይመሳሰላል ብለህ ታስባለህ?<span class=\"italics\"> \"ማን ለመረዳት እና የክርስትና ሕይወት መምራት እንድንችል ይረዳናል?\"</span>",
+          "ስለዚህ ክፍል ጥያቄ ወይም አስተያየት አለክ/ሽ?",
+          "ዛሬ የተማርነውን ነገር እንዴት ታጠቃልላለህ/ሽ?",
+          "ይህ ክፍል በተጻፈበት ግዜ የነበረ እና አሁን በህብረተሰባችን; በቤተሰባችንና በጓደኞቻችን መካከል እየሆነ ያለው ነገር ተመሳሳይነት አለው?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ማጠቃለያ:",
+        "level": 3
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "የክርስትናን ህይወት ተረድተን እንድንኖር እግዝአብሔር የምረዳን በመንፈስ ቅዱስ ነው:: መንፈስ ቅዱስ ሁል ጊዜ ከኛ ጋር በመሆን እግዝአብሔር ያስተማረንን ነገር ያስታውሰናል: የእግዝአብሔር አብሮነትም ያረጋግጥልናል::"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "ትግበራ (ወደ ስራ መቀየር)",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "በጣም አስፈላጊ ነገር የተማርነውን ስራ ላይ ማዋልነው:: ይህን ለማድረግ ሁላችንም መረዳዳት አለብን:: እነኚ ጥያቄዎች ልረዱን ይችላሉ::"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ይህ እንዴት ልሆን ይችላል ወይስ በዚህ ለውጥ እንዴት ልትኖር/ሪ ትችላለህ/ሽ? ከእግዝአብሔር ከራስህ እና ከሌሎቹ ጋር እንዴት ትኖራለህ/ሽ?",
+          "ከዚህ ሳምንት ውይዪት በኋላ በህይወትህ ውስጥ ምን ትሰራለህ/ሽ?",
+          "በዝህ ሳምንት የተማርነውን ከማን ጋር ትካፈላለህ? ስለ ምን ትካፈላለህ/ሽ?"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "በሚመጣው ሳምንት ግዜ በመስጠት እነኚን ተጨማሪ ክፍሎች ተመልከት::"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "ገላትያ 5:16-26",
+        "html": "<div class=\"p\"><span class=\"bible_rtl\" dir=\"ltr\"><span class=\"bible_rtl\" dir=\"ltr\"><span class=\"verse\"><sup>16</sup>እንግዲህ በመንፈስ ኑሩ እላለሁ፤ የሥጋንም ምኞት አትፈጽሙም። </span><span class=\"verse\"><sup>17</sup>ሥጋ መንፈስ የማይፈልገውን፣ መንፈስም ሥጋ የማይፈልገውን ይመኛልና፤ እነዚህ እርስ በርሳቸው ስለሚጋጩ፣ የምትፈልጉትን አታደርጉም። </span><span class=\"verse\"><sup>18</sup>በመንፈስ ብትመሩ ግን፣ ከሕግ በታች አይደላችሁም።</span></span></span></div><div class=\"p\"><span class=\"verse\"><sup>19</sup>የሥጋ ሥራ ግልጽ ነው፦ ይኸውም ዝሙት፣ ርኵሰት፣ መዳራት፣ </span><span class=\"verse\"><sup>20</sup>ጣዖትን ማምለክ፣ ሟርት፣ ጥላቻ፣ ጠብ፣ ቅናት፣ ቊጣ፣ ራስ ወዳድነት፣ መለያየት፣ አድመኝነት፤ </span><span class=\"verse\"><sup>21</sup>ምቀኝነት፣ ስካር፣ ዘፋኝነት፣ እንዲሁም እነዚህን የመሰለው ነው። አስቀድሜ እንዳልሁ፣ አሁንም አስጠነቅቃችኋለሁ፤ በእንዲህ ሁኔታ የሚኖሩ ሁሉ የእግዚአብሔርን መንግሥት አይወርሱም።</span></div><div class=\"p\"><span class=\"verse\"><sup>22</sup>የመንፈስ ፍሬ ግን ፍቅር፣ ደስታ፣ ሰላም፣ ትዕግሥት፣ ቸርነት፣ በጎነት፣ ታማኝነት፣ </span><span class=\"verse\"><sup>23</sup>ገርነት፣ ራስን መግዛት ነው። እንደነዚህ ያሉትንም የሚከለክል ሕግ የለም። </span><span class=\"verse\"><sup>24</sup>የክርስቶስ ኢየሱስ የሆኑት ሥጋን ከክፉ ምኞቱና መሻቱ ጋር ሰቅለውታል። </span><span class=\"verse\"><sup>25</sup>በመንፈስ የምንኖር ከሆን፣ በመንፈስ እንመላለስ። </span><span class=\"verse\"><sup>26</sup>እርስ በርሳችን እየተጎነታተልንና እየተቀናናን በከንቱ ውዳሴ አንመካ።</span></div>",
+        "url": "https://www.bible.com/bible/1260/gal.5.nasv",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "ኤፌሶን 5:15-18",
+        "html": "<div class=\"p\"><span class=\"bible_rtl\" dir=\"ltr\"><span class=\"verse\"><sup>15</sup>እንግዲህ ጥበብ እንደሌላቸው ሳይሆን እንደ ጥበበኞች እንዴት እንደምትኖሩ ተጠንቀቁ። </span><span class=\"verse\"><sup>16</sup>ቀኖቹ ክፉ ናቸውና ዘመኑን በሚገባ ዋጁ። </span><span class=\"verse\"><sup>17</sup>ስለዚህ ሞኞች አትሁኑ፤ የጌታ ፈቃድ ምን እንደሆነ አስተውሉ እንጂ። </span><span class=\"verse\"><sup>18</sup>በመንፈስ ተሞሉ እንጂ በወይን ጠጅ አትስከሩ፤ ይህ ብክነት ነውና። </span></span></div>",
+        "url": "https://www.bible.com/bible/1260/eph.5.nasv",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1 ቆሮንቶስ 2:9-3:3",
+        "html": "<div class=\"p\"><span class=\"bible_rtl\" dir=\"ltr\"><span class=\"bible_rtl\" dir=\"ltr\"><span class=\"verse\"><sup>9</sup>ይሁን እንጂ፣ እንደ ተጻፈው፣</span></span></span></div><div class=\"q1\"><span class=\"verse\">“ዐይን ያላየውን፣</span></div><div class=\"q2\"><span class=\"verse\">ጆሮ ያልሰማውን፣</span></div><div class=\"q1\"><span class=\"verse\">የሰውም ልብ ያላሰበውን፣</span></div><div class=\"q2\"><span class=\"verse\">እግዚአብሔር ለሚወዱት አዘጋጅቶአል፤”</span></div><div class=\"m\"><span class=\"verse\"><sup>10</sup>እግዚአብሔር ግን ይህን በመንፈሱ አማካይነት ለእኛ ገልጦልናል።</span></div><div class=\"p\"><span class=\"verse\">መንፈስም የእግዚአብሔርን ጥልቅ ነገር እንኳ ሳይቀር ሁሉን ይመረምራል። </span><span class=\"verse\"><sup>11</sup>በውስጡ ካለው ከራሱ መንፈስ በስተቀር ከሰው መካከል የአንድን ሰው ሐሳብ የሚያውቅ ማን አለ? እንደዚሁም ከእግዚአብሔር መንፈስ በስተቀር፣ የእግዚአብሔርን ሐሳብ የሚያውቅ ማንም የለም። </span><span class=\"verse\"><sup>12</sup>ከእግዚአብሔር የሆነውን መንፈስ እንጂ፣ የዓለምን መንፈስ አልተቀበልንምና፤ ይህም እግዚአብሔር በነጻ የሰጠንን እናውቅ ዘንድ ነው። </span><span class=\"verse\"><sup>13</sup>እኛ የምንናገረው ይህን ነው፤ ከሰው ጥበብ በተማር ነው ቃል ሳይሆን፣ ከመንፈስ በተማር ነው ቃል እንናገራለን፤ መንፈሳዊ እውነትንም የምንገልጸው በመንፈሳዊ ቃል ነው።</span><span class=\"verse\"><sup>14</sup>መንፈሳዊ ያልሆነ ሰው ከእግዚአብሔር መንፈስ የሆነውን ነገር ሊቀበል አይችልም፤ ምክንያቱም እንዲህ ያለው ነገር ለእርሱ ሞኝነት ነው፤ በመንፈስም የሚመረመር ስለ ሆነ፣ ሊረዳው አይችልም። </span><span class=\"verse\"><sup>15</sup>መንፈሳዊ ሰው ግን ሁሉንም ነገር ይመረምራል፤ ራሱ ግን በማንም አይመረመርም።</span></div><div class=\"q1\"><span class=\"verse\"><sup>16</sup>“ያስተምረው ዘንድ፣</span></div><div class=\"q2\"><span class=\"verse\">የጌታን ልብ ማን ዐወቀው?”</span></div><div class=\"m\"><span class=\"verse\">እኛ ግን የክርስቶስ ልብ አለን።</span></div><p><span class=\"bible_rtl\" dir=\"ltr\"><span class=\"verse\"><sup>1</sup>ወንድሞች ሆይ፤ በክርስቶስ ገና ሕፃናት እንደመሆናችሁ፣ እንደ ሥጋውያን እንጂ እንደ መንፈሳውያን ልናገራችሁ አልቻልሁም። </span><span class=\"verse\"><sup>2</sup>ገና ስላልጠነከራችሁ ወተት እንጂ ጠንካራ ምግብ አልመገብኋችሁም፤ አሁንም ቢሆን ገና ናችሁ። </span><span class=\"verse\"><sup>3</sup>አሁንም ሥጋውያን ናችሁ፤ በመካከላችሁ ቅናትና ክርክር አለ፤ ታዲያ፣ ሥጋውያን መሆናችሁ አይደለምን? ተግባራችሁስ እንደ ማንኛውም ሰው ተግባር መሆኑ አይደለምን? </span></span></p>",
+        "url": "https://www.bible.com/bible/1260/1co.2.nasv",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step6-i-will"
+      }
+    }
+  ]
+}

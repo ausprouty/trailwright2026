@@ -1,0 +1,161 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "amh",
+  "htmlLang": "am",
+  "direction": "ltr",
+  "numberSystem": "ethi",
+  "series": "firststeps",
+  "lessonId": "step4",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ክለሳ",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ባለፈው ሳምንት እንድታመሰግን ያደረጉ ምን ምን ነበሩ?",
+          "ያስቸገረህ/ሽ ነገር አለ? እንዴት እንርዳህ/ሽ?",
+          "ለህብረተሰባችን/ለግቢያችን/ለትምህርት ቤታችን ያስፈልጋሉ ብለህ/ሽ የምታስበው/ቢው ነገር አለ?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "በሚያስፈልጉት\nነገሮች ሁሉ ላይ ለርስ በርሳችን መፀለይ አስፈላጊ ነው::"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "የባለፈው ሳምንት ጥናታችን እንዴት አተገበርከው?",
+          "ታርኩን ለማን አካፈልከው? ምላሻቸውስ ምን ነበር?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ትኩረት",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "ቁልፍ\nጥያቄ:\nኢየሱስን ተቀብለው ከሆነ እሰዮ ነው:: ይህንን የምስራች ግን እንዴት ለሌሎች መንገር እንችላለን?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "መግለጫ:\nኢየሱስን የተቀበለ ማንኛውም ሰው ልምዱን ለሌሎች ኢየሱስን እንዲቀበሉ መንገር ይችላል:: እንደ\nባለፈው ሳምንት ምስክርነትህ: ዛሬም ምስክርነቱ ለሌላ ሰው ብቻ ሳይሆን በመላው ከተማ ላይ ተፅዕኖ እንዳመጣ እንሰማለን::"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "ዮሐ 4:1-42",
+        "html": "<div class=\"p\"><span class=\"bible_rtl\" dir=\"ltr\"><span class=\"bible_rtl\" dir=\"ltr\"><span class=\"verse\"><sup>1</sup> ፈሪሳውያን ከዮሐንስ ይልቅ ኢየሱስ ብዙ ደቀ መዛሙርትን እንዳፈራና እንዳጠመቀ ሰሙ፤ </span><span class=\"verse\"><sup>2</sup> ዳሩ ግን ያጠመቀው ኢየሱስ ሳይሆን ደቀ መዛሙርቱ ነበሩ። </span><span class=\"verse\"><sup>3</sup> ጌታም ይህን እንዳወቀ ይሁዳን ለቆ ወደ ገሊላ ተመልሶ ሄደ። </span></span></span></div><div class=\"p\"><span class=\"verse\"><sup>4</sup> በሰማርያም በኩል ማለፍ ነበረበት። </span><span class=\"verse\"><sup>5</sup> ስለዚህ በሰማርያ፣ ያዕቆብ ለልጁ ለዮሴፍ በሰጠው ቦታ አጠገብ ወደ ነበረች፣ ሲካር ወደምትባል ከተማ መጣ። </span><span class=\"verse\"><sup>6</sup> በዚያም የያዕቆብ የውሃ ጒድጓድ ነበረ፤ ኢየሱስም ከጒዞው የተነሣ ደክሞት ስለ ነበር በውሃው ጒድጓድ አጠገብ ተቀመጠ፤ ጊዜውም ከቀኑ ስድስት ሰዓት አካባቢ ነበር። </span></div><div class=\"p\"><span class=\"verse\"><sup>7</sup> አንዲት ሳምራዊት ሴት ውሃ ለመቅዳት ስትመጣ ኢየሱስ፣ <span class=\"wj\"> “እባክሽ የምጠጣው ስጪኝ” </span> አላት፤ </span><span class=\"verse\"><sup>8</sup> ደቀ መዛሙርቱ ምግብ ለመግዛት ወደ ከተማ ሄደው ነበር። </span></div><div class=\"p\"><span class=\"verse\"><sup>9</sup> ሳምራዊቷም፣ “አንተ አይሁዳዊ ሆነህ፣ እኔን ሳምራዊቷን እንዴት ውሃ አጠጪኝ ትላለህ?” አለችው፤ ይህን ማለቷ አይሁድ ከሳምራውያን ጋር ስለማይተባበሩ ነው። <span class=\"note f\"><span class=\" body\"><span class=\"fqa\"></span></span></span></span></div><div class=\"p\"><span class=\"verse\"><sup>10</sup> ኢየሱስም፣ <span class=\"wj\"> “የእግዚአብሔርን ስጦታ ብታውቂና ውሃ አጠጪኝ የሚልሽ ማን መሆኑን ብትረጂ ኖሮ፣ አንቺው በጠየቅሽው፣ እርሱም የሕይወትን ውሃ በሰጠሽ ነበር” </span> ሲል መለሰላት። </span></div><div class=\"p\"><span class=\"verse\"><sup>11</sup> ሴትዮዋም እንዲህ አለችው፤ “ጌታዬ፣ መቅጃ የለህም፤ ጒድጓዱም ጥልቅ ነው፤ ታዲያ ይህን የሕይወት ውሃ ከየት ታገኛለህ? </span><span class=\"verse\"><sup>12</sup> ለመሆኑ አንተ፣ ይህን ጒድጓድ ከሰጠን፣ ከአባታችን ከያዕቆብ ትበልጣለህን? እርሱ ራሱና ልጆቹ፣ እንስሳቱም ከዚሁ ጒድጓድ ጠጥተዋል።” </span></div><div class=\"p\"><span class=\"verse\"><sup>13</sup> ኢየሱስም እንዲህ ሲል መለሰላት፤ <span class=\"wj\"> “ከዚህ ውሃ የሚጠጣ እንደ ገና ይጠማል፤ </span></span><span class=\"verse\"><sup>14</sup><span class=\"wj\"> እኔ ከምሰጠው ውሃ የሚጠጣ ግን ከቶ አይጠማም፤ እኔ የምሰጠው ውሃ በውስጡ የሚፈልቅ የዘላለም ሕይወት ውሃ ምንጭ ይሆናል።” </span></span></div><div class=\"p\"><span class=\"verse\"><sup>15</sup> ሴትዮዋም፣ “ጌታዬ፤ እንዳልጠማና ውሃ ለመቅዳት እንዳልመላለስ፣ እባክህ ይህን ውሃ ስጠኝ” አለችው። </span></div><div class=\"p\"><span class=\"verse\"><sup>16</sup> እርሱም፣ <span class=\"wj\"> “ሂጂና ባልሽን ጠርተሽ ወደዚህ ተመለሽ” </span> አላት። </span></div><div class=\"p\"><span class=\"verse\"><sup>17</sup> ሴትዮዋም፣ “ባል የለኝም” ብላ መለሰች። </span></div><div class=\"p\"><span class=\"verse\"> ኢየሱስም፣ እንዲህ አላት፤ <span class=\"wj\"> “ባል የለኝም ማለትሽ ትክክል ነው፤ </span></span><span class=\"verse\"><sup>18</sup><span class=\"wj\"> በርግጥ አምስት ባሎች ነበሩሽ፤ አሁን ከአንቺ ጋር ያለውም ባልሽ ስላልሆነ፣ የተናገርሽው እውነት ነው።” </span></span></div><div class=\"p\"><span class=\"verse\"><sup>19</sup> ሴትዮዋም እንዲህ አለችው፤ “ጌታዬ፣ አንተ ነቢይ እንደሆንህ አያለሁ፤ </span><span class=\"verse\"><sup>20</sup> አባቶቻችን በዚህ ተራራ ላይ ሰገዱ፤ እናንተ አይሁድ ግን ሰው መስገድ ያለበት በኢየሩሳሌም ነው ትላላችሁ” አለችው። </span></div><div class=\"p\"><span class=\"verse\"><sup>21</sup> ኢየሱስም እንዲህ አላት፤ <span class=\"wj\"> “አንቺ ሴት፤ በዚህ ተራራም ሆነ በኢየሩሳሌም ለአብ የማትሰግዱበት ጊዜ እንደሚመጣ እመኚኝ። </span></span><span class=\"verse\"><sup>22</sup><span class=\"wj\"> እናንተ ሳምራውያን ለማታውቁት ትሰግዳላችሁ፤ እኛ ግን ድነት ከአይሁድ ስለ ሆነ ለምናውቀው እንሰግዳለን። </span></span><span class=\"verse\"><sup>23</sup><span class=\"wj\"> በእውነት የሚሰግዱ ለአብ በመንፈስና በእውነት የሚሰግዱበት ጊዜ ይመጣል፤ አሁንም መጥቶአል፤ አብም እንደዚህ በእውነት የሚሰግዱለትን ይፈልጋል። </span></span><span class=\"verse\"><sup>24</sup><span class=\"wj\"> እግዚአብሔር መንፈስ ነው፤ የሚሰግዱለትም በመንፈስና በእውነት ሊሰግዱለት ይገባል።” </span></span></div><div class=\"p\"><span class=\"verse\"><sup>25</sup> ሴትዮዋም፣ “ክርስቶስ የተባለ መሲሕ እንደሚመጣ ዐውቃለሁ፤ እርሱ ሲመጣ ሁሉን ነገር ይነግረናል” አለችው። </span></div><div class=\"p\"><span class=\"verse\"><sup>26</sup> ኢየሱስም፣ <span class=\"wj\"> “የማነጋግርሽ እኮ እኔ እርሱ ነኝ” </span> ሲል ገልጦ ነገራት። </span></div><div class=\"s1\"><span class=\"heading\">ደቀ መዛሙርቱ ተመልሰው መጡ</span></div><div class=\"p\"><span class=\"verse\"><sup>27</sup> በዚህ ጊዜ ደቀ መዛሙርቱ ተመልሰው መጡ፤ ከሴት ጋር ሲነጋገር በማግኘታቸው ተደነቁ፤ ሆኖም ግን፤ “ምን ፈለግህ?” ወይም፣ “ከእርሷ ጋር የምትነጋገረው ለምንድን ነው?” ብሎ የጠየቀው ማንም አልነበረም። </span></div><div class=\"p\"><span class=\"verse\"><sup>28</sup> ሴትዮዋም እንስራዋን ትታ ወደ ከተማ ተመለሰች፤ ለሕዝቡም፣ </span><span class=\"verse\"><sup>29</sup> “ያደረግሁትን ሁሉ የነገረኝን ሰው ኑና እዩ፤ እርሱ ክርስቶስ ይሆን እንዴ?” አለች፤ </span><span class=\"verse\"><sup>30</sup> እነርሱም ከከተማ ወጥተው እርሱ ወዳለበት አመሩ። </span></div><div class=\"p\"><span class=\"verse\"><sup>31</sup> በዚህ ጊዜ ደቀ መዛሙርቱ፣ “ረቢ፣ እህል ቅመስ እንጂ” አሉት። </span></div><div class=\"p\"><span class=\"verse\"><sup>32</sup> እርሱ ግን፣ <span class=\"wj\"> “እናንተ የማታውቁት፣ የምበላው ምግብ አለኝ” </span> አላቸው። </span></div><div class=\"p\"><span class=\"verse\"><sup>33</sup> ደቀ መዛሙርቱም፣ “ሰው ምግብ አምጥቶለት ይሆን እንዴ?” ተባባሉ። </span></div><div class=\"p\"><span class=\"verse\"><sup>34</sup> ኢየሱስም እንዲህ አላቸው፤ <span class=\"wj\"> “የእኔ ምግብ የላከኝን ፈቃድ ማድረግና ሥራውን መፈጸም ነው፤ </span></span><span class=\"verse\"><sup>35</sup><span class=\"wj\"> እናንተ፣ ‘ከአራት ወር በኋላ መከር ይደርሳል’ ትሉ የለምን? እነሆ፣ አዝመራው ለመከር እንደ ደረሰ ቀና ብላችሁ ማሳውን ተመልከቱ እላችኋለሁ። </span></span><span class=\"verse\"><sup>36</sup><span class=\"wj\"> አጫጁ አሁንም ቢሆን እንኳ ደመወዙን እየተቀበለ ነው፤ ለዘላለም ሕይወት ይሆን ዘንድ አዝመራውን ይሰበስባል፤ ይህም ዘሪውና አጫጁ በጋራ ደስ እንዲላቸው ነው። </span></span><span class=\"verse\"><sup>37</sup><span class=\"wj\"> ስለዚህ፣ ‘አንዱ ይዘራል፤ ሌላውም ያጭዳል’ የተባለው ምሳሌ እውነት ነው። </span></span><span class=\"verse\"><sup>38</sup><span class=\"wj\"> ያልደከማችሁበትን እንድታጭዱ ላክኋችሁ፤ አድካሚውን ሥራ ሌሎች ሠሩ፤ እናንተም የድካማቸውን ፍሬ ሰበሰባችሁ።” </span></span></div><div class=\"s1\"><span class=\"heading\">ብዙ ሳምራውያን አመኑ</span></div><div class=\"p\"><span class=\"verse\"><sup>39</sup> ሴትዮዋ፣ “ያደረግሁትን ሁሉ ነገረኝ” ብላ ስለ መሰከረች፣ ከዚያች ከተማ ብዙ ሳምራውያን በእርሱ አመኑ። </span><span class=\"verse\"><sup>40</sup> ስለዚህ፣ ሳምራውያኑ ወደ እርሱ በመጡ ጊዜ አብሮአቸው እንዲቈይ አጥብቀው ለመኑት፤ እዚያም ሁለት ቀን ቈየ። </span><span class=\"verse\"><sup>41</sup> ከቃሉም የተነሣ ሌሎች ብዙዎች አመኑ። </span></div><div class=\"p\"><span class=\"verse\"><sup>42</sup> ሴትዮዋንም፣ “ከእንግዲህ የምናምነው አንቺ ስለ ነገርሽን ብቻ አይደለም፤ እኛ ራሳችን ሰምተነዋል፤ ይህ ሰው በእውነት የዓለም አዳኝ እንደሆነ እናውቃለን” አሏት። </span></div><div class=\"s1\"><span class=\"heading\">ኢየሱስ የሹሙን ልጅ ፈወሰ</span></div>",
+        "url": "https://www.bible.com/bible/1260/jhn.4.nasv",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ከዚህ ክፍል ውስጥ ላንተ/ቺ ትርጉም ያለው ነገር አለ?",
+          "ለመረዳት የከበደህ/ሽ ነገር ነበር?",
+          "የዛሬው ክፍል ስለእግዝአብሔር ምን ይነግረናል? ስለሰዎችስ? በእግዝአብሔር እና በእኛ መካከል ያለው ስላለው ግንኙነትስ?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ማጠቃለያ:",
+        "level": 3
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "ይህ ጽሑፍ እንዴት ከዛህ ጥያቄ ጋር ይመሳሰላል ብለህ ታስባለህ?<span class=\"italics\"> \"እንዴት ነው ስለ ኢየሱስ ለሌሎች መናገር ነው?\" </span>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "ትግበራ (ወደ ስራ መቀየር)",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "በጣም አስፈላጊ ነገር የተማርነውን ስራ ላይ ማዋልነው:: ይህን ለማድረግ ሁላችንም መረዳዳት አለብን:: እነኚ ጥያቄዎች ልረዱን ይችላሉ::"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ይህ እንዴት ልሆን ይችላል ወይስ በዚህ ለውጥ እንዴት ልትኖር/ሪ ትችላለህ/ሽ? ከእግዝአብሔር ከራስህ እና ከሌሎቹ ጋር እንዴት ትኖራለህ/ሽ?",
+          "ከዚህ ሳምንት ውይዪት በኋላ በህይወትህ ውስጥ ምን ትሰራለህ/ሽ?",
+          "በዝህ ሳምንት የተማርነውን ከማን ጋር ትካፈላለህ? ስለ ምን ትካፈላለህ/ሽ?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step4-i-will"
+      }
+    }
+  ]
+}

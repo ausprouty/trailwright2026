@@ -1,0 +1,177 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "amh",
+  "htmlLang": "am",
+  "direction": "ltr",
+  "numberSystem": "ethi",
+  "series": "firststeps",
+  "lessonId": "step3",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ክለሳ",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ባለፈው ሳምንት እንድታመሰግን ያደረጉ ምን ምን ነበሩ?",
+          "ያስቸገረህ/ሽ ነገር አለ? እንዴት እንርዳህ/ሽ?",
+          "ለህብረተሰባችን/ለግቢያችን/ለትምህርት ቤታችን ያስፈልጋሉ ብለህ/ሽ የምታስበው/ቢው ነገር አለ?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "በሚያስፈልጉት ነገሮች ሁሉ ላይ ለርስ በርሳችን መፀለይ አስፈላጊ ነው::"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "የባለፈው ሳምንት ጥናታችን እንዴት አተገበርከው?",
+          "ታርኩን ለማን አካፈልከው? ምላሻቸውስ ምን ነበር?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ትኩረት",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "ቁልፍ ጥያቄ: ከእግዝአብሔር ጋር ጥሩ እና ቀጣይነት ያለው ግንኙነት እንዴት መለማመድ እንችላለን?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "መግለጫ: ኃጥአታችን ከእግዝአብሔር ጋር ያለንን ግንኙነታችን ይጎዳል: ከርሱ ጋር ያለን ግንኙነት ግን ፀንቶ ይኖራል::"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "ሉቃ 15:11-24",
+        "html": "<div class=\"p\"><span class=\"bible_rtl\" dir=\"ltr\"><span class=\"bible_rtl\" dir=\"ltr\"><span class=\"verse\"><sup>11</sup>ደግሞም ኢየሱስ እንዲህ አላቸው፤ <span class=\"wj\">“አንድ ሰው ሁለት ልጆች ነበሩት።</span></span><span class=\"verse\"><sup>12</sup><span class=\"wj\">ከእነርሱም ታናሹ ልጅ አባቱን፣ ‘አባቴ ሆይ፤ ከሀብትህ ድርሻዬን ስጠኝ’ አለው፤ አባትየውም ሀብቱን ለልጆቹ አካፈላቸው።</span></span></span></span></div><div class=\"p\"><span class=\"verse\"><sup>13</sup><span class=\"wj\">“ብዙም ቀን ሳይቈይ፣ ታናሹ ልጅ ድርሻውን ሁሉ ጠቅልሎ ወደ ሩቅ አገር ሄደ፤ በዚያም በማጋጣነት ንብረቱን አባከነ።</span></span><span class=\"verse\"><sup>14</sup><span class=\"wj\">እርሱም ያለውን ሁሉ ከጨረሰ በኋላ፣ በዚያ አገር ሁሉ ጽኑ ራብ ሆነ፤ ይቸገርም ጀመር።</span></span><span class=\"verse\"><sup>15</sup><span class=\"wj\">ስለዚህ ከዚያ አገር ነዋሪዎች አንዱን ተጠጋ፤ ሰውየውም ዐሣማ እንዲቀልብለት ወደ ዕርሻው ላከው።</span></span><span class=\"verse\"><sup>16</sup><span class=\"wj\">ዐሣማዎቹ የሚመገቡትን ዐሠር እንኳ ለመብላት ይመኝ ነበር፤ ነገር ግን ይህን እንኳ የሚሰጠው ሰው አልነበረም።</span></span></div><div class=\"p\"><span class=\"verse\"><sup>17</sup><span class=\"wj\">“ልብ በገዛ ጊዜ ግን እንዲህ አለ፤ ‘ስንቱ የአባቴ ሠራተኛ ምግብ ተርፎታል፤ እኔ ግን እዚህ በራብ ልሞት ተቃርቤአለሁ</span></span><span class=\"verse\"><sup>18</sup><span class=\"wj\">ተነሥቼ ወደ አባቴ ልሂድና፣ እንዲህ ልበለው፤ “አባቴ ሆይ፤ በሰማይና በአንተ ፊት በድያለሁ፤</span></span><span class=\"verse\"><sup>19</sup><span class=\"wj\">ከእንግዲህ ልጅህ ተብዬ ልጠራ አይገባኝም፤ ከተቀጠሩት አገልጋዮችህ እንደ አንዱ ቍጠረኝ።’</span></span><span class=\"verse\"><sup>20</sup><span class=\"wj\">ስለዚህም ተነሥቶ ወደ አባቱ ሄደ።</span></span></div><div class=\"p\"><span class=\"verse\"><span class=\"wj\">“ነገር ግን፣ እርሱ ገና ሩቅ ሳለ፣ አባቱ አይቶት ራራለት፤ ወደ እርሱም እየሮጠ ሄዶ ዐቅፎ ሳመው።</span></span></div><div class=\"p\"><span class=\"verse\"><sup>21</sup><span class=\"wj\">“ልጁም፣ ‘አባቴ ሆይ፤ በሰማይና በአንተ ፊት በድያለሁ፤ ከእንግዲህ ልጅህ ተብዬ ልጠራ አይገባኝም’ አለው።</span><span class=\"note f\"><span class=\" body\"><span class=\"ft\"></span></span></span></span></div><div class=\"p\"><span class=\"verse\"><sup>22</sup><span class=\"wj\">“አባቱ ግን አገልጋዮቹን እንዲህ አላቸው፤ ‘ፈጥናችሁ ከሁሉ ምርጥ የሆነውን ልብስ አምጡና አልብሱት፤ ለጣቱቀለበት፣ ለእግሩም ጫማ አድርጉለት፤</span></span><span class=\"verse\"><sup>23</sup><span class=\"wj\">የሰባውንም ፍሪዳ አምጡና ዕረዱ፤ እንብላ፤ እንደሰት፤</span></span><span class=\"verse\"><sup>24</sup><span class=\"wj\">ይህ ልጄ ሞቶ ነበር፤ አሁን ግን ሕያው ሆኖአል፤ ጠፍቶም ነበር፤ ተገኝቶአል።” ከዚያም ይደሰቱ ጀመር።</span></span></div>",
+        "url": "https://www.bible.com/bible/1260/luk.15.nasv",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ከዚህ ክፍል ውስጥ ላንተ/ቺ ትርጉም ያለው ነገር አለ?",
+          "ለመረዳት የከበደህ/ሽ ነገር ነበር?",
+          "የዛሬው ክፍል ስለእግዝአብሔር ምን ይነግረናል? ስለሰዎችስ? በእግዝአብሔር እና በእኛ መካከል ያለው ስላለው ግንኙነትስ?",
+          "ይህ ጽሑፍ እንዴት ከዛህ ጥያቄ ጋር ይመሳሰላል ብለህ ታስባለህ?<span class=\"italics\"> \"እንዴት ሁልጊዜ ከአምላክ ጋር የቀረበ ዝምድና ማግኘት ትችላለህ?\"</span>"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ማጠቃለያ:",
+        "level": 3
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1 ዮሐ 1:9",
+        "html": "<div class=\"p\"><span class=\"bible_rtl\" dir=\"ltr\"><span class=\"verse\"><sup>9</sup>ኀጢአታችንን ብንናዘዝ ኀጢአታችንን ይቅር ሊለን፣ ከዐመፃ ሁሉ ሊያነጻን እርሱ ታማኝና ጻድቅ ነው። </span></span></div>",
+        "url": "https://www.bible.com/bible/1260/1jn.1.nasv",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "ኃጥአታችን መናዘዝ የሰራነውን መጥፎ ነገር ለእግዝአብሔር ነግረን ይቅርታ (ምህረት) መለመን ነው:: እግዝአብሔር ደግሞ ኃጥአታችን ለርሱ ከነገርን ይቅር እንደሚለን ቃል ገብቶልናል::"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "ኃጥአታችን ትተን ወደ እግዝአብሔር በመመለስ ኢየሱስ ለኛ እንድሞት በሰጠን በዚያ ፍቅርና ምህረት መለማመድ እንችላለን:: ክፉ የመባል: የመነቀፍ እና የመቀጣት ፋንታ ከእግዝአብሔር ጋር ያለን ግንኙነት ይታደሳል::"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "ትግበራ (ወደ ስራ መቀየር)",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "በጣም አስፈላጊ ነገር የተማርነውን ስራ ላይ ማዋልነው:: ይህን ለማድረግ ሁላችንም መረዳዳት አለብን:: እነኚ ጥያቄዎች ልረዱን ይችላሉ::"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ይህ እንዴት ልሆን ይችላል ወይስ በዚህ ለውጥ እንዴት ልትኖር/ሪ ትችላለህ/ሽ? ከእግዝአብሔር ከራስህ እና ከሌሎቹ ጋር እንዴት ትኖራለህ/ሽ?",
+          "ከዚህ ሳምንት ውይዪት በኋላ በህይወትህ ውስጥ ምን ትሰራለህ/ሽ?",
+          "በዝህ ሳምንት የተማርነውን ከማን ጋር ትካፈላለህ? ስለ ምን ትካፈላለህ/ሽ?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step3-i-will"
+      }
+    }
+  ]
+}

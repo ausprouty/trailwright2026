@@ -921,15 +921,13 @@ function normalizeFirststepsBibleLinks($: CheerioAPI): void {
   });
 }
 function normalizeFirststepsBibleVerseNumbers($: CheerioAPI): void {
-  // Convert verse-number spans into superscripts.
-  $('div.bible-container div.bible span.versenum, div.bible-container div.bible span.verse').each(
-    (_, element) => {
-      const $verse = $(element);
-      const number = $verse.text().trim();
+  // Convert only verse-number spans into superscripts.
+  $('div.bible-container div.bible span.versenum').each((_, element) => {
+    const $number = $(element);
+    const number = $number.text().trim();
 
-      $verse.replaceWith(`<sup>${number}</sup>`);
-    },
-  );
+    $number.replaceWith(`<sup>${number}</sup>`);
+  });
 
   // Remove unnecessary styling spans surrounding Scripture text.
   $('div.bible-container div.bible span.bible').each((_, element) => {
@@ -1072,6 +1070,7 @@ function normalizeFirststepsTopHeadings($: CheerioAPI): void {
     $(element).replaceWith(`<h2>${$(element).html() ?? ''}</h2>`);
   });
 }
+
 
 function normalizeInlineHtml(html: string): string {
   if (!html) {

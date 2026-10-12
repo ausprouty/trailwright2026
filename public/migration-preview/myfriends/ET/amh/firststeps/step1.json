@@ -1,0 +1,138 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "amh",
+  "htmlLang": "am",
+  "direction": "ltr",
+  "numberSystem": "ethi",
+  "series": "firststeps",
+  "lessonId": "step1",
+  "sortOrder": 0,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ክለሳ",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ባለፈው ሳምንት እንድታመሰግን ያደረጉ ምን ምን ነበሩ?",
+          "ያስቸገረህ/ሽ ነገር አለ? እንዴት እንርዳህ/ሽ?",
+          "ለህብረተሰባችን/ለግቢያችን/ለትምህርት ቤታችን ያስፈልጋሉ ብለህ/ሽ የምታስበው/ቢው ነገር አለ?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "በሚያስፈልጉት ነገሮች ሁሉ ላይ ለርስ በርሳችን መፀለይ አስፈላጊ ነው::"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ትኩረት",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">ነጥብ 1:</span> እግዝአብሔር ይወድሃል/ሻል እርሱ የፈጠረህ/ሽ በግልህ/ሽ እርሱን እንድታውቅ/ቂ ነው::"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">ነጥብ 2:</span> በኃጥአታችን ምክንያት ከእግዝአብሔር ስለተለየን: እርሱን ማወቅ እና ፍቅሩን መለማመድ አንችልም::"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">ነጥብ 3:</span> ከእግዝአብሔር ለኃጥአታችን የተሰጠን ብቸኛ መፍትሄ ኢየሱስ ነው:: ከርሱ በስተቀር እግዝአብሔርን ማወቅ: ፍቅሩንና ምህረቱንም መቀበል አንችልም::"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"color-yellow\">ነጥብ 4:</span> አዳኛችን እና ጌታችን አድርገን በማመን ለኢየሱስ መልስ መስጠት ወይም መቀበል አለብን:: ያኔ ብቻ ነው እግዝአብሔርን በግላችን ማወቅ የምንችለው::"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "የህይወቴ ምስክርነት",
+        "level": 3
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "ህይወቴ ኢየሱስን ከመቀበሌ በፊት",
+          "ኢየሱስን እንዴት እንደ ተቀበልኩ",
+          "ኢየሱስን ከተቀበልኩት ህይወቴ እንዴት እንደ ተቀየረ"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "ትግበራ (ወደ ስራ መቀየር)",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "በጣም አስፈላጊ ነገር የተማርነውን ስራ ላይ ማዋልነው:: ይህን ለማድረግ ሁላችንም መረዳዳት አለብን:: እነኚ ጥያቄዎች ልረዱን ይችላሉ::"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ይህ እንዴት ልሆን ይችላል ወይስ በዚህ ለውጥ እንዴት ልትኖር/ሪ ትችላለህ/ሽ? ከእግዝአብሔር ከራስህ እና ከሌሎቹ ጋር እንዴት ትኖራለህ/ሽ?",
+          "ከዚህ ሳምንት ውይዪት በኋላ በህይወትህ ውስጥ ምን ትሰራለህ/ሽ?",
+          "በዝህ ሳምንት የተማርነውን ከማን ጋር ትካፈላለህ? ስለ ምን ትካፈላለህ/ሽ?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step1-i-will"
+      }
+    }
+  ]
+}

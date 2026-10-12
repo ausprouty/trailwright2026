@@ -1,0 +1,174 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "amh",
+  "htmlLang": "am",
+  "direction": "ltr",
+  "numberSystem": "ethi",
+  "series": "firststeps",
+  "lessonId": "step2",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ክለሳ",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ባለፈው ሳምንት እንድታመሰግን ያደረጉ ምን ምን ነበሩ?",
+          "ያስቸገረህ/ሽ ነገር አለ? እንዴት እንርዳህ/ሽ?",
+          "ለህብረተሰባችን/ለግቢያችን/ለትምህርት ቤታችን ያስፈልጋሉ ብለህ/ሽ የምታስበው/ቢው ነገር አለ?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "በሚያስፈልጉት\nነገሮች ሁሉ ላይ ለርስ በርሳችን መፀለይ አስፈላጊ ነው::"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "የባለፈው ሳምንት ጥናታችን እንዴት አተገበርከው?",
+          "ታርኩን ለማን አካፈልከው? ምላሻቸውስ ምን ነበር?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ትኩረት",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "ቁልፍ\nጥያቄ:\nኢየሱስን የተቀበለ ሰው ከእግዝአብሔር ጋር ለዘላለም እንደሚኖር እንዴት ማወቅ ይችላል?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "መግለጫ:\nከእግዝአብሔር ጋር ግንኙነት እንዳለህ/ሽ ማወቅ ትችላለህ/ሽ::"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "ዮሐ 10:7-30",
+        "html": "<div class=\"p\"><span class=\"bible_rtl\" dir=\"ltr\"><span class=\"bible_rtl\" dir=\"ltr\"><span class=\"verse\"><sup>7</sup> ስለዚህ ኢየሱስ ዳግም እንዲህ አላቸው፤ <span class=\"wj\"> “እውነት እላችኋለሁ፤ የበጎች በር እኔ ነኝ። </span></span><span class=\"verse\"><sup>8</sup><span class=\"wj\"> ከእኔ በፊት የመጡት ሁሉ ሌቦችና ቀማኞች ነበሩ፤ በጎቹ ግን አልሰሟቸውም። </span></span><span class=\"verse\"><sup>9</sup><span class=\"wj\"> በሩ እኔ ነኝ፤ በእኔ በኩል የሚገባ ሁሉ ይድናል </span><span class=\"wj\"> ፤ ይገባል፤ ይወጣልም፤ መሰማሪያም ያገኛል። </span></span><span class=\"verse\"><sup>10</sup><span class=\"wj\"> ሌባው ሊሰርቅ፣ ሊገድልና ሊያጠፋ ብቻ ይመጣል፤ እኔ ግን ሕይወት እንዲኖራቸውና እንዲትረፈረፍላቸው መጥቻለሁ።” </span></span></span></span><div class=\"p\"><span class=\"verse\"><sup>11</sup><span class=\"wj\"> “መልካም እረኛ እኔ ነኝ፤ መልካም እረኛ ሕይወቱን ስለ በጎቹ አሳልፎ ይሰጣል፤ </span></span><span class=\"verse\"><sup>12</sup><span class=\"wj\"> ተቀጣሪው እረኛ ግን በጎቹ የእርሱ ስላልሆኑ፣ ተኵላ ሲመጣ ጥሎአቸው ይሸሻል፤ ተኵላውም በጎቹን ይነጥቃል፤ ይበትናቸዋልም። </span></span><span class=\"verse\"><sup>13</sup><span class=\"wj\"> የሚሸሸውም ተቀጣሪ ስለ ሆነና ለበጎቹ ደንታ ስለሌለው ነው። </span></span></div><div class=\"p\"><span class=\"verse\"><sup>14</sup><span class=\"wj\"> “መልካም እረኛ እኔ ነኝ፤ በጎቼን ዐውቃለሁ፤ እነርሱም ያውቁኛል፤ </span></span><span class=\"verse\"><sup>15</sup><span class=\"wj\"> ይህም አብ እኔን እንደሚያውቀኝ እኔም አብን እንደማውቀው ነው። ሕይወቴንም ስለ በጎቼ አሳልፌ እሰጣለሁ። </span></span><span class=\"verse\"><sup>16</sup><span class=\"wj\"> ከዚህ ጒረኖ ያልሆኑ ሌሎች በጎች አሉኝ፤ እነርሱንም ማምጣት አለብኝ። እነርሱም ድምፄን ይሰማሉ፤ አንድ መንጋም ይሆናሉ፤ እረኛውም አንድ። </span></span><span class=\"verse\"><sup>17</sup><span class=\"wj\"> መልሼ ለማንሣት ሕይወቴን አሳልፌ ስለምሰጥ አባቴ ይወደኛል። </span></span><span class=\"verse\"><sup>18</sup><span class=\"wj\"> ሕይወቴን በራሴ ፈቃድ አሳልፌ እሰጣለሁ እንጂ ከእኔ ማንም አይወስዳትም፤ አሳልፌ ለመስጠትም ሆነ ለማንሣት ሥልጣን አለኝ፤ ይህን ትእዛዝ የተቀበልሁትም ከአባቴ ነው።” </span></span></div><div class=\"p\"><span class=\"verse\"><sup>19</sup> ከዚህም ቃል የተነሣ በአይሁድ መካከል እንደ ገና መለያየት ተፈጠረ። </span><span class=\"verse\"><sup>20</sup> ብዙዎቹም፣ “ጋኔን ያደረበት እብድ ነው፤ ለምን ትሰሙ ታለችሁ?” አሉ። </span></div><div class=\"p\"><span class=\"verse\"><sup>21</sup> ሌሎች ግን፣ “ይህ ጋኔን ያደረበት ሰው ንግግር አይደለም፤ ጋኔን የዐይነ ስውርን ዐይን መክፈት ይችላልን?” አሉ። </span></div><div class=\"p\"><span class=\"verse\"><sup>22</sup> በኢየሩሳሌምም የቤተ መቅደስ መታደስ በዓል ሆነ፤ ጊዜውም ክረምት ነበረ፤ </span><span class=\"verse\"><sup>23</sup> ኢየሱስም በቤተ መቅደስ ግቢ፣ በሰሎሞን መመላለሻ ያልፍ ነበር፤ </span><span class=\"verse\"><sup>24</sup> አይሁድም ከበውት፣ “እስከ መቼ ልባችንን አንጠልጥለህ ታቈየናለህ? አንተ ክርስቶስ ከሆንህ በግልጽ ንገረን” አሉት። </span></div><div class=\"p\"><span class=\"verse\"><sup>25</sup> ኢየሱስም እንዲህ ሲል መለሳላቸው፤ <span class=\"wj\"> “እኔ ነግሬአችሁ ነበር፤ እናንተ ግን አታምኑም፤ በአባቴ ስም የማደርጋቸው ታምራትም ስለ እኔ ይናገራሉ፤ </span></span><span class=\"verse\"><sup>26</sup><span class=\"wj\"> እናንተ ግን በጎቼ ስላልሆናችሁ አታምኑም፤ </span></span><span class=\"verse\"><sup>27</sup><span class=\"wj\"> በጎቼ ድምፄን ይሰማሉ፤ እኔ ዐውቃቸዋለሁ፤ እነርሱም ይከተሉኛል፤ </span></span><span class=\"verse\"><sup>28</sup><span class=\"wj\"> እኔ የዘላለም ሕይወት እሰጣቸዋለሁ፤ ከቶ አይጠፉም፤ ከእጄም ሊነጥቃቸው የሚችል ማንም የለም። </span></span><span class=\"verse\"><sup>29</sup><span class=\"wj\"> እነርሱን የሰጠኝ አባቴ ከሁሉ ይበልጣል </span><span class=\"wj\"> ፤ ከአባቴም እጅ ማንም ሊነጥቃቸው አይችልም። </span></span><span class=\"verse\"><sup>30</sup><span class=\"wj\"> እኔና አብ አንድ ነን።” </span></span></div></div>",
+        "url": "https://www.bible.com/bible/1260/jhn.10.nasv",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ከዚህ ክፍል ውስጥ ላንተ/ቺ ትርጉም ያለው ነገር አለ?",
+          "ለመረዳት የከበደህ/ሽ ነገር ነበር?",
+          "የዛሬው ክፍል ስለእግዝአብሔር ምን ይነግረናል? ስለሰዎችስ? በእግዝአብሔር እና በእኛ መካከል ያለው ስላለው ግንኙነትስ?",
+          "ይህ ጽሑፍ እንዴት ከዛህ ጥያቄ ጋር ይመሳሰላል ብለህ ታስባለህ?<span class=\"italics\"> \"እንዴት የተቀበለ አንድ ሰው ኢየሱስ ከእግዚአብሔር ጋር ለዘላለም ይኖራሉ ብለን በእርግጠኝነት ማወቅ የምንችለው እንዴት ነው?\" </span>",
+          "ስለዚህ ክፍል ጥያቄ ወይም አስተያየት አለክ/ሽ?",
+          "ዛሬ የተማርነውን ነገር እንዴት ታጠቃልላለህ/ሽ?",
+          "ይህ ክፍል በተጻፈበት ግዜ የነበረ እና አሁን በህብረተሰባችን; በቤተሰባችንና በጓደኞቻችን መካከል እየሆነ ያለው ነገር ተመሳሳይነት አለው?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ማጠቃለያ:",
+        "level": 3
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1 ዮሐ 5:11-13",
+        "html": "<div class=\"p\"><span class=\"bible_rtl\" dir=\"ltr\"><span class=\"bible_rtl\" dir=\"ltr\"><span class=\"verse\"><sup>11</sup> ምስክርነቱም ይህ ነው፤ እግዚአብሔር የዘላለምን ሕይወት ሰጠን፤ ይህም ሕይወት ያለው በልጁ ነው። </span><span class=\"verse\"><sup>12</sup> ልጁ ያለው ሕይወት አለው፤ የእግዚአብሔር ልጅ የሌለው ሕይወት የለውም። </span></span></span><span class=\"verse\"><sup>13</sup> በእግዚአብሔር ልጅ ስም የምታምኑ እናንተ፣ የዘላለም ሕይወት እንዳላችሁ ታውቁ ዘንድ ይህን እጽፍላችኋለሁ፤ </span></div>",
+        "url": "https://www.bible.com/bible/1260/1jn.5.nasv",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "መልካም እረኛ የሆነ ኢየሱስ ስለ ኃጥአታችን ነፍሱን በመስቀል ላይ መስዋዕት አደረገ:: ኢየሱስን ጌታችን አና አዳኛችን ስናደርግ እርሱን የሚከተሉ በጎቹ እንሆናለን::እርሱ ማንም ልወስድብን የማይችል የዘላለም ህይወት እንዳለን እንድናውቅ ይፈልጋል:: ኢየሱስን በህይወትህ/ሽ ውስጥ እንደ ተቀበልክ/ሽ ታቀዋለህ/ሽ? የዘላለም ህይወት እንዳለህ በእችግጠኝነት ታቀዋለህ/ሽ?"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "ትግበራ (ወደ ስራ መቀየር)",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "በጣም አስፈላጊ ነገር የተማርነውን ስራ ላይ ማዋልነው:: ይህን ለማድረግ ሁላችንም መረዳዳት አለብን:: እነኚ ጥያቄዎች ልረዱን ይችላሉ::"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ይህ እንዴት ልሆን ይችላል ወይስ በዚህ ለውጥ እንዴት ልትኖር/ሪ ትችላለህ/ሽ? ከእግዝአብሔር ከራስህ እና ከሌሎቹ ጋር እንዴት ትኖራለህ/ሽ?",
+          "ከዚህ ሳምንት ውይዪት በኋላ በህይወትህ ውስጥ ምን ትሰራለህ/ሽ?",
+          "በዝህ ሳምንት የተማርነውን ከማን ጋር ትካፈላለህ? ስለ ምን ትካፈላለህ/ሽ?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step2-i-will"
+      }
+    }
+  ]
+}

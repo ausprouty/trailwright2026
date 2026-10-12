@@ -1,0 +1,165 @@
+{
+  "site": "myfriends",
+  "country": "ET",
+  "language": "amh",
+  "htmlLang": "am",
+  "direction": "ltr",
+  "numberSystem": "ethi",
+  "series": "firststeps",
+  "lessonId": "step5",
+  "sortOrder": 4,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ክለሳ",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ባለፈው ሳምንት እንድታመሰግን ያደረጉ ምን ምን ነበሩ?",
+          "ያስቸገረህ/ሽ ነገር አለ? እንዴት እንርዳህ/ሽ?",
+          "ለህብረተሰባችን/ለግቢያችን/ለትምህርት ቤታችን ያስፈልጋሉ ብለህ/ሽ የምታስበው/ቢው ነገር አለ?"
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "prayer",
+            "text": "በሚያስፈልጉት ነገሮች ሁሉ ላይ ለርስ በርሳችን መፀለይ አስፈላጊ ነው::"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "የባለፈው ሳምንት ጥናታችን እንዴት አተገበርከው?",
+          "ታርኩን ለማን አካፈልከው? ምላሻቸውስ ምን ነበር?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ትኩረት",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "discover",
+            "text": "ቁልፍ ጥያቄ: ከኢየሱስ ጋር ባለን ግንኙነት ማደግን እንዴት ማስቀጠል እንችላለን?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "information",
+            "text": "መግለጫ: በማንኛውም ግንኙነት ውስጥ መነጋገር ወሳኝ ነው:: እግዝአብሔር ከኛ ጋር ማውራት ይፈልጋል: እኛም ከርሱ ጋር ማውራት አለብን::"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "የሐዋ 2:42-47",
+        "html": "<div class=\"p\"><span class=\"bible_rtl\" dir=\"ltr\"><span class=\"verse\"><sup>42</sup>እነርሱም በሐዋርያት ትምህርትና በኅብረት፣ እንጀራውንም በመቍረስና በጸሎት ይተጉ ነበር። </span><span class=\"verse\"><sup>43</sup>በሐዋርያት እጅ ብዙ ድንቅና ታምራት ይደረግ ስለ ነበር፣ ሰው ሁሉ ፍርሀት አደረበት። </span><span class=\"verse\"><sup>44</sup>ያመኑት ሁሉ በአንድነት ነበሩ፤ ያላቸውንም ሁሉ የጋራ አደረጉ። </span><span class=\"verse\"><sup>45</sup>ሀብታቸውንና ንብረታቸውንም እየሸጡ ለእያንዳንዱ ሰው የሚያስፈልገውን ያህል ይሰጡት ነበር። </span><span class=\"verse\"><sup>46</sup>በየዕለቱ በቤተ መቅደስ በአንድነት እየተገናኙ፣ በቤታቸውም እንጀራ እየቈረሱ በደስታና በቀና ልብ ይመገቡ ነበር፤ </span><span class=\"verse\"><sup>47</sup>እግዚአብሔርንም እያመሰገኑ፣ በሕዝቡ ሁሉ ፊት ሞገስ ነበራቸው፤ ጌታም የሚድኑትን በቍጥራቸው ላይ ዕለት በዕለት ይጨምር ነበር።</span></span></div>",
+        "url": "https://www.bible.com/bible/1260/act.2.nasv",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ከዚህ ክፍል ውስጥ ላንተ/ቺ ትርጉም ያለው ነገር አለ?",
+          "ለመረዳት የከበደህ/ሽ ነገር ነበር?",
+          "የዛሬው ክፍል ስለእግዝአብሔር ምን ይነግረናል? ስለሰዎችስ? በእግዝአብሔር እና በእኛ መካከል ያለው ስላለው ግንኙነትስ?",
+          "ይህ ጽሑፍ እንዴት ከዛህ ጥያቄ ጋር ይመሳሰላል ብለህ ታስባለህ?<span class=\"italics\"> \"እንዴት ከኢየሱስ ጋር ግንኙነት እያደገ መቀጠል ለምንድን ነው?\"</span>",
+          "ስለዚህ ክፍል ጥያቄ ወይም አስተያየት አለክ/ሽ?",
+          "ዛሬ የተማርነውን ነገር እንዴት ታጠቃልላለህ/ሽ?",
+          "ይህ ክፍል በተጻፈበት ግዜ የነበረ እና አሁን በህብረተሰባችን; በቤተሰባችንና በጓደኞቻችን መካከል እየሆነ ያለው ነገር ተመሳሳይነት አለው?"
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ማጠቃለያ:",
+        "level": 3
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "በፀሎት ከእግዝአብሔር ጋር በመነጋገር: በመጽሓፍ ቅዱስ እና ከክርስትያኖች ጋር በመገናኘት እርሱን በመስማት ከኢየሱስ ጋር ባለን ግንኙነት ማደግ እንችላለን:: እንዲህ እርሱን ማወቅ እንችላለን::"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "ትግበራ (ወደ ስራ መቀየር)",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "በጣም አስፈላጊ ነገር የተማርነውን ስራ ላይ ማዋልነው:: ይህን ለማድረግ ሁላችንም መረዳዳት አለብን:: እነኚ ጥያቄዎች ልረዱን ይችላሉ::"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "ይህ እንዴት ልሆን ይችላል ወይስ በዚህ ለውጥ እንዴት ልትኖር/ሪ ትችላለህ/ሽ? ከእግዝአብሔር ከራስህ እና ከሌሎቹ ጋር እንዴት ትኖራለህ/ሽ?",
+          "ከዚህ ሳምንት ውይዪት በኋላ በህይወትህ ውስጥ ምን ትሰራለህ/ሽ?",
+          "በዝህ ሳምንት የተማርነውን ከማን ጋር ትካፈላለህ? ስለ ምን ትካፈላለህ/ሽ?"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "firststeps-step5-i-will"
+      }
+    }
+  ]
+}

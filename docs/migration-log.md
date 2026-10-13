@@ -66,3 +66,4 @@ Finished:
   Compass in Chinese may have read by System followed by Read in Chinese text
   Compass Spanish 402 is not finished
   FirstSteps Oromo is missing some pages (used Amharic)
+  FirstSteps Tamil is missing some pages (used English)

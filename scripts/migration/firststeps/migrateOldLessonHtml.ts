@@ -921,17 +921,29 @@ function normalizeFirststepsBibleLinks($: CheerioAPI): void {
   });
 }
 function normalizeFirststepsBibleVerseNumbers($: CheerioAPI): void {
-  // Convert only verse-number spans into superscripts.
-  $('div.bible-container div.bible span.versenum').each((_, element) => {
-    const $number = $(element);
-    const number = $number.text().trim();
+  const $bibles = $('div.bible-container div.bible');
 
-    $number.replaceWith(`<sup>${number}</sup>`);
+  // Convert verse numbers to superscripts.
+  $bibles.find('span.versenum, span.verse').each((_, element) => {
+    const $verse = $(element);
+    const number = $verse.text().trim();
+
+    $verse.replaceWith(`<sup>${number}</sup>`);
   });
 
-  // Remove unnecessary styling spans surrounding Scripture text.
-  $('div.bible-container div.bible span.bible').each((_, element) => {
+  // Remove unnecessary styling spans while retaining their contents.
+  $bibles.find('span.bible, span.bible_rtl').each((_, element) => {
     $(element).replaceWith($(element).contents());
+  });
+
+  // Preserve RTL direction on the outer Bible container.
+  $bibles.each((_, element) => {
+    const $bible = $(element);
+
+    if ($bible.is('[dir="rtl"]') || $bible.find('[dir="rtl"]').length) {
+      $bible.attr('dir', 'rtl');
+      $bible.find('[dir]').removeAttr('dir');
+    }
   });
 }
 function normalizeFirststepsConclusionHeadings($: CheerioAPI): void {

@@ -1,0 +1,159 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "pages",
+  "lessonId": "community",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "Compartir",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Cómo has experimentado a Dios esta semana?",
+          "¿De qué estas agradecido?",
+          "¿Para qué necesitas la ayuda de Dios?",
+          "¿Cómo podemos ayudarlo con sus necesidades?",
+          "Ora por los demás."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "REVISIÓN",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué has puesto en práctica desde nuestra última reunión?",
+          "¿Mo van las personas que estás cuidando? ¿Qué los ayudaría más?",
+          "¿Do compartir una experiencia de Dios con alguien? Oraste con ellos?",
+          "Ora por estas personas."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LEER",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lee el pasaje en voz alta dos veces.",
+          "Haga que una persona vuelva a contar el pasaje en sus propias palabras con la ayuda del grupo.",
+          "¿Hubo algo perdido o agregado?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Bible",
+        "html": "<strong><a target=\"_blank\" href=\"https://www.biblegateway.com/quicksearch/?quicksearch=Luke&amp;qs_version=RVR1960\">SELECCIONE UN PASAJE BÍBLICO </a></strong>",
+        "url": "",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "DESCUBRA",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "¿Qué te destaca en este pasaje?",
+          "¿Qué te gusta y qué te molesta en este pasaje?",
+          "¿Qué te dice este pasaje acerca de Dios y la gente?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "APLICA",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Pregúntele a Dios qué quiere que haga en respuesta al pasaje. Esta ahí: <ul><li>¿Un comportamiento para cambiar?</li><li>¿Una promesa de reclamar?</li><li>¿Un ejemplo a seguir?</li><li>¿Una orden para obedecer?</li></ul>",
+          "Comparte esto con el grupo."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "pages-community-i-will"
+      }
+    }
+  ]
+}

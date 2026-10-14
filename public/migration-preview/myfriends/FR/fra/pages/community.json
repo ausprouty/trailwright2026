@@ -1,0 +1,165 @@
+{
+  "site": "myfriends",
+  "country": "FR",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "pages",
+  "lessonId": "community",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Concevez votre propre voyage. La foi est destinée à être vécue en communauté. Voici un aperçu que vous pouvez suivre avec n'importe quel passage biblique une fois que vous avez terminé Journey One."
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "PARTAGER",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Comment as-tu expérimenté Dieu cette semaine?",
+          "De quoi es-tu reconnaissant?",
+          "Pour quoi as-tu besoin de l'aide de Dieu?",
+          "Comment pouvons-nous vous aider avec vos besoins?",
+          "Priez l'un pour l'autre"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "review",
+        "title": "LA REVUE",
+        "icon": "review"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qu'avez-vous mis en pratique depuis notre dernière rencontre?",
+          "Comment vont les gens que tu prends? Qu'est-ce qui les aiderait le plus?",
+          "Avez-vous pu partager une expérience de Dieu avec quelqu'un? Avez-vous prié avec eux?",
+          "Priez pour ces personnes"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "LIS",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Lisez le passage à haute voix deux fois.",
+          "Demandez à une personne de raconter le passage dans ses propres mots avec l'aide du groupe.",
+          "Y at-il quelque chose manqué ou ajouté?"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Bible",
+        "html": "<strong><a target=\"_blank\" href=\"https://www.biblegateway.com/quicksearch/?quicksearch=Luke&amp;qs_version=LSG\">SÉLECTIONNEZ UN PASSAGE BIBLIQUE </a></strong>",
+        "url": "",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "DÉCOUVRIR",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Qu'est- ce qui se distingue pour vous dans ce passage?",
+          "Qu'est-ce que tu aimes et qu'est-ce qui te dérange dans ce passage?",
+          "Qu'est-ce que ce passage vous dit sur Dieu et les gens?"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "APPLIQUER",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Demandez à Dieu ce qu'il veut que vous fassiez en réponse au passage. Y a-t-il: <ul><li>Un comportement à changer?</li><li>Une promesse de réclamer?</li><li>Un exemple à suivre?</li><li>Une commande pour obéir?</li></ul>",
+          "Partagez cela avec le groupe"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "pages-community-i-will"
+      }
+    }
+  ]
+}

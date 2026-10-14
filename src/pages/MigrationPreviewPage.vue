@@ -99,37 +99,77 @@ const seriesOptions = computed(() => {
   }));
 });
 
+async function goToPreview(
+  targetCountry: string,
+  targetLanguage: string,
+  targetSeries: string,
+): Promise<void> {
+  const indexUrl =
+    `/migration-preview/${site.value}/${targetCountry}/${targetLanguage}/${targetSeries}/index.json`;
+
+  try {
+    const response = await fetch(indexUrl, { cache: 'no-store' });
+
+    if (!response.ok) {
+      throw new Error(`Could not load index: ${indexUrl}`);
+    }
+
+    const lessons: unknown = await response.json();
+
+    if (!Array.isArray(lessons)) {
+      throw new Error(`Invalid lesson index: ${indexUrl}`);
+    }
+
+    const firstLesson = lessons.find(
+      (item): item is string => typeof item === 'string',
+    );
+
+    if (!firstLesson) {
+      throw new Error(`No lessons found: ${indexUrl}`);
+    }
+
+    await router.push({
+      path: `/migration-preview/${site.value}/${targetCountry}/${targetLanguage}/${targetSeries}/${firstLesson}`,
+    });
+  } catch (error) {
+    console.error('Preview navigation failed:', error);
+    errorMessage.value =
+      error instanceof Error ? error.message : 'Preview navigation failed';
+  }
+}
+
 const selectedCountry = computed({
   get: () => country.value,
   set: (targetCountry: string) => {
     const languages = previewTree.value[targetCountry] ?? {};
-    const targetLanguage = Object.keys(languages)[0] ?? language.value;
-    const targetSeries = languages[targetLanguage]?.[0] ?? series.value;
+    const targetLanguage = Object.keys(languages)[0];
 
-    void router.push({
-      path: `/migration-preview/${site.value}/${targetCountry}/${targetLanguage}/${targetSeries}/${lesson.value}`,
-    });
+    if (!targetLanguage) return;
+
+    const targetSeries = languages[targetLanguage]?.[0];
+
+    if (!targetSeries) return;
+
+    void goToPreview(targetCountry, targetLanguage, targetSeries);
   },
 });
 
 const selectedLanguage = computed({
   get: () => language.value,
   set: (targetLanguage: string) => {
-    const seriesList = previewTree.value[country.value]?.[targetLanguage] ?? [];
-    const targetSeries = seriesList[0] ?? series.value;
+    const targetSeries =
+      previewTree.value[country.value]?.[targetLanguage]?.[0];
 
-    void router.push({
-      path: `/migration-preview/${site.value}/${country.value}/${targetLanguage}/${targetSeries}/${lesson.value}`,
-    });
+    if (!targetSeries) return;
+
+    void goToPreview(country.value, targetLanguage, targetSeries);
   },
 });
 
 const selectedSeries = computed({
   get: () => series.value,
   set: (targetSeries: string) => {
-    void router.push({
-      path: `/migration-preview/${site.value}/${country.value}/${language.value}/${targetSeries}/${lesson.value}`,
-    });
+    void goToPreview(country.value, language.value, targetSeries);
   },
 });
 

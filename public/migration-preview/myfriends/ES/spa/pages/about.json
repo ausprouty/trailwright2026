@@ -1,0 +1,96 @@
+{
+  "site": "myfriends",
+  "country": "ES",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "pages",
+  "lessonId": "about",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "El Viaje de Mis Amigos te ayuda a ti y a tus amigos a construir lazos más fuertes entre ellos y conDios."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "El viaje se construye sobre la base de:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "<strong>Cuidando tus amigos.</strong> Conozca lo que realmente está sucediendo en el mundo de su amigo. Esto implica ir más allá de \"¿Cómo estás?\" y sabiendo la respuesta a \"¿Cómo estás realmente?\"",
+          "<strong>Mostrar amor.</strong> En mis Amigos no nos referimos a las ideas sentimentales o románticas que ves en la televisión Amar significa poner las necesidades de tus amigos por encima de tus propias necesidades. Está actuando en sus mejores intereses, incluso cuando eso sea inconveniente.",
+          "<strong>Oración.</strong> La oración es la forma en que nos conectamos con Dios. Muchos de nuestros problemas son demasiado grandes para nosotros para resolver por nuestra cuenta."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Para ver un cambio que refleje necesitamos ver a Dios cambiar actitudes o circunstancias. Si Dios es importante para ti aquí hay cuatro acciones que quizás quieras tomar. Estas cosas pueden ser nuevo para ti Eso está bien. Este es un viaje y en el viaje mejorarás con estos acciones."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Si sientes que Dios está muy lejos de ti o no piensas que está haciendo algo en tu vida, puedes pasar este set Tal vez uno de tus amigos estará compartiendo contigo lo que Dios está haciendo en su vida. Escucha. Hacer preguntas Recuerda que ellos son tus amigos No tienes que estar de acuerdo con todo lo que dicen."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "<strong>Comparte lo que Dios está haciendo en tu vida.</strong> Se específico. Comparte tus historias que tienen algo en común con las experiencias de sus amigos y que les será fácil identificar con. Tus amigos seguirán mejor tu historia si incluyen comentarios sobre tus emociones.",
+          "<strong>Deja que tus amigos experimenten a Dios.</strong> Cuando tengan necesidades, pregúnteles si pueden orar por ellos. Mantén tus ojos abiertos cuando ores. Use palabras cotidianas que todos entiendan. Ora en el nombre de Jesús. Si la situación lo permite, permita que su amigo ore después de usted. Luego pregúnteles si vieron a Dios hacer cualquier respuesta a la oración.",
+          "<strong>Conecta a tu amigo con Dios.</strong> Ayúdelos a entender que Él no está lejos y que Dios está esperando que se conecten con él. Es posible que desee decirles cómo se convierte en un seguidor de Jesús. Si quieren aprender a hacerse amigos de Dios, <a id=\"Return1\" href=\"#\" onclick=\"goToPageAndSetReturn('../basics/gospel.html', '#Return1');\"> pueden mostrar ellos este esquema </a> o <a target=\"_blank\" href=\"https://www.youtube.com/watch?v=NYU-a2wIbxc\">dibuja esta imagen. </a>",
+          "<strong>Lanzamiento.</strong>Aliente a su amigo a decirles a sus amigos cómo pueden hacerse amigos de Dios."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Una vez que dos o más de tus amigos quieran descubrir la historia de Dios juntos:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "<strong>Forma un grupo.</strong> Pregúntales a tus amigos si quieren reunirse regularmente para habla de Dios Puede reunirse semanalmente, quincenalmente o para eventos especiales. Sugerimos usar el esquemas para <a id=\"Return2\" href=\"#\" onclick=\"goToPageAndSetReturn('../life/index.html', '#Return2');\">Turismo: Cuestiones de la vida</a>",
+          "<strong>Descubre los conceptos básicos.</strong> Una vez que tienes un grupo de tres a siete personas que quieren ir a través de la historia de Dios juntos, puedes empezar a pasar por <a id=\"Return3\" href=\"#\" onclick=\"goToPageAndSetReturn('../basics/index.html', '#Return3');\"> Viaje Uno: The Basics. </a>",
+          "<strong>Celebra.</strong> Las decisiones importantes en nuestras vidas se celebran con las personas que están nos importa La decisión de seguir a Jesús se celebra en el bautismo. Aquí hay algunas ideas sobre cómo organizar una fiesta de bautismo donde puedes invitar a tu familia, amigos y comunidad",
+          "<strong>Comunidad vivo.</strong> La fe se vive mejor haciendo vida junto con amigos que están compartiendo el mismo viaje. Aquí hay un bosquejo que puedes seguir con cualquier Biblia pasaje una vez que hayas completado el Viaje Uno."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Aquí hay una moneda que puede servir como un recordatorio de los pasos en este viaje"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"myfriends-opening\" src=\"/sites/myfriends/images/chip/chip-eng.png\">"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Para más información sobre MyFriends Journey<a target=\"_blank\" href=\"https://myfriends.life\"> visite nuestro sitio web</a>"
+      }
+    }
+  ]
+}

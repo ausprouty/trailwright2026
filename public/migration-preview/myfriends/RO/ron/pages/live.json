@@ -1,0 +1,106 @@
+{
+  "site": "myfriends",
+  "country": "RO",
+  "language": "ron",
+  "htmlLang": "ron",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "pages",
+  "lessonId": "live",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Design your own journey. Faith is meant to be lived out in community. Here is an outline that you can follow with any Bible passage once you have completed Journey One."
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "PRIVIȚI ÎNAPOI"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Ce experiență ai trăit săptămâna asta cu Dumnezeu, și pentru ce ești recunoscător?",
+          "În ce aspect al vieții tale ai nevoie de ajutorul lui Dumnezeu? Cum te putem noi ajuta practic?",
+          "Ce ai pus în practică din ce ți-a vorbit Dumnezeu ultima dată?",
+          "Rugați-vă unii pentru alții."
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "DESCOPERIȚI BIBLIA"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Bible",
+        "html": "<strong><a href=\"https://www.biblegateway.com/quicksearch/?quicksearch=Luke&amp;qs_version=NIV\" target=\"a_blank\">[ALEGE UN PASAJ BIBLIC] </a></strong>",
+        "url": "",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Citiți textul pentru voi și apoi cu voce tare.",
+          "Cineva dintre voi povestește textul cu ajutorul grupului (cu Biblia închisă). S-a adăugat ceva în plus sau s-a pierdut ceva din vedere?",
+          "Ți-a sărit ceva în ochi? Ce-ți place la text și ce nu?",
+          "Ce poți să înveți despre Dumnezeu și oameni?<br>"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "PRIVIȚI ÎNAINTE"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "În ce aspecte ale vieții tale îți vorbește Dumnezeu prin textul ăsta?",
+          "Ce vei pune în practică din asta?",
+          "Cum le merge oamenilor pe care i-ai la inimă? Întreabă-l pe Dumnezeu cum vrea El să le arate dragostea Lui prin tine.",
+          "Cui îi vei povesti despre o experiență a ta cu Dumnezeu sau din ce ți-a vorbit El? Cu cine te vei ruga?",
+          "Rugați-vă unii pentru alții și pentru persoanele amintite."
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "pages-live-i-will"
+      }
+    }
+  ]
+}

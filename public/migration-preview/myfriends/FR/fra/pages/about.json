@@ -1,0 +1,96 @@
+{
+  "site": "myfriends",
+  "country": "FR",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "pages",
+  "lessonId": "about",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "MyFriends Journey vous aide, vous et vos amis, à tisser des liens plus forts entre vous et avec Dieu."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Le voyage repose sur la fondation de:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "<strong>Prendre soin de vos amis. </strong> Apprenez à savoir ce qui se passe réellement dans le monde de votre ami. Cela implique d'aller au-delà de \"Comment allez-vous?\" et connaissant la réponse à \"Comment allez-vous vraiment?\"",
+          "<strong>Montrer de l'amour.</strong>. Dans MyFriends, nous ne parlons pas des idées sentimentales ou romantiques que vous voyez à la télévision. L'amour signifie mettre les besoins de vos amis au-dessus de vos propres besoins. Il agit dans leur meilleur intérêt, même lorsque cela ne convient pas.",
+          "<strong>Prière.</strong> La prière est la manière dont nous nous connectons avec Dieu. Beaucoup de nos problèmes sont trop importants pour que nous les résolvions seuls. Pour voir un changement durable, nous devons voir Dieu changer les attitudes ou les circonstances."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Si Dieu est important pour vous, voici quatre actions que vous pourriez vouloir prendre. Ces choses peuvent être nouvelles pour vous. C'est OK. C'est un voyage et sur le voyage vous obtiendrez mieux avec ces actions."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Si vous sentez que Dieu est très éloigné de vous ou que vous ne pensez pas qu'Il fait quelque chose dans votre vie, vous pouvez transmettre cet ensemble. Peut-être que l'un de vos amis partagera avec vous ce que Dieu fait dans sa vie. Écoute Poser des questions. Rappelez-vous qu'ils sont votre ami. Vous n'êtes pas obligé d'être d'accord avec tout ce qu'ils disent."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "<strong>Partagez ce que Dieu fait dans votre vie.</strong> Être spécifique. Partagez vos histoires qui ont quelque chose en commun avec les expériences de vos amis et avec lesquelles ils s'identifieront facilement. Vos amis suivront votre histoire mieux si inclure des commentaires sur vos émotions.",
+          "<strong>Laissez vos amis faire l'expérience de Dieu.</strong> Quand ils ont des besoins, demandez si vous pouvez prier pour eux. Gardez les yeux ouverts lorsque vous priez. Utilisez des mots de tous les jours que tout le monde comprendra. Priez au nom de Jésus. Si la situation le permet, laissez votre ami prier après vous. Puis demandez-leur s'ils ont vu Dieu faire quelque chose pour répondre à la prière.",
+          "<strong>Connectez votre ami à Dieu.</strong> Aidez-les à comprendre qu'Il n'est pas loin et que Dieu attend qu'ils se connectent avec Lui. Vous voudrez peut-être leur dire comment vous êtes devenu un disciple de Jésus. S'ils veulent apprendre comment devenir un ami de Dieu,<a id=\"Return1\" href=\"#\" onclick=\"goToPageAndSetReturn('../basics/gospel.html', '#Return1');\"> vous pouvez leur montrer ce plan </a> ou <a target=\"_blank\" href=\"https://www.youtube.com/watch?v=NYU-a2wIbxc\"> dessiner cette image.</a>",
+          "<strong>Relâchez.</strong> Encouragez votre ami à dire à ses amis comment il peut devenir un ami de Dieu."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Une fois que deux de vos amis ou plus veulent découvrir l'histoire de Dieu ensemble:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "<strong>Formez un groupe.</strong> Demandez à vos amis s'ils veulent se réunir régulièrement pour parler de Dieu. Vous pourriez vous rencontrer chaque semaine, chaque quinzaine ou pour des événements spéciaux. Nous vous suggérons d'utiliser les grandes lignes de <a id=\"Return2\" href=\"#\" onclick=\"goToPageAndSetReturn('../life/index.html', '#Return2');\"> Life Issues</a>",
+          "<strong>Découvrez les bases.</strong> Une fois que vous avez un groupe de trois à sept personnes qui veulent passer en revue l'histoire de Dieu ensemble, vous pouvez commencer à passer par <a id=\"Return3\" href=\"#\" onclick=\"goToPageAndSetReturn('../basics/index.html', '#Return3');\"> The Basics. </a>",
+          "<strong>Célébrez. </strong>. Les décisions importantes dans nos vies sont célébrées avec les personnes qui comptent pour nous. La décision de suivre Jésus est célébrée dans le baptême. Voici quelques idées sur la façon d'organiser une fête de baptême où vous pouvez inviter votre famille, vos amis et votre communauté.",
+          "<strong>Communauté en direct: .</strong>Voici un aperçu que vous pouvez suivre avec n'importe quel passage de la Bible une fois que vous avez terminé le Voyage One. Voici une pièce qui peut vous rappeler les étapes de ce voyage"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Here is a coin which can serve as a reminder of the steps in this journey"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"myfriends-opening\" src=\"/sites/myfriends/images/chip/chip-eng.png\">"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Pour plus d'informations sur MyFriends Journey,<a target=\"_blank\" href=\"https://myfriends.life\"> visitez notre site Web.</a>"
+      }
+    }
+  ]
+}

@@ -8,7 +8,7 @@
       "identity",
       "leben",
       "life",
-      "multiply",
+      "multiply1",
       "multiply2",
       "pages",
       "purpose",
@@ -18,7 +18,6 @@
   "AU": {
     "cmn": [
       "basics",
-      "compass",
       "firststeps",
       "life",
       "pages"
@@ -26,15 +25,11 @@
     "eng": [
       "basics",
       "compass",
-      "current",
-      "first_steps",
       "life",
       "multiply",
       "multiply2",
       "multiply3",
-      "pages",
-      "principles",
-      "youth-basics"
+      "pages"
     ]
   },
   "BR": {
@@ -47,7 +42,7 @@
   },
   "CH": {
     "deu": [
-      "compass",
+      "basics",
       "pages"
     ]
   },
@@ -71,7 +66,6 @@
   "EG": {
     "arb": [
       "basics",
-      "compass",
       "firststeps",
       "life",
       "pages"
@@ -81,7 +75,6 @@
     "spa": [
       "basics",
       "compass",
-      "first_steps",
       "firststeps",
       "pages"
     ]
@@ -112,12 +105,6 @@
       "pages"
     ]
   },
-  "HD": {
-    "eng": [
-      "help-1",
-      "pages"
-    ]
-  },
   "IN": {
     "hin": [
       "basics",
@@ -134,8 +121,7 @@
   },
   "NZ": {
     "cmn": [
-      "life",
-      "pages"
+      "life"
     ],
     "eng": [
       "basics",
@@ -169,7 +155,6 @@
   "US": {
     "eng": [
       "basics",
-      "compass",
       "firststeps",
       "multiply",
       "pages"

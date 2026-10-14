@@ -1,0 +1,192 @@
+{
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "pages",
+  "lessonId": "children",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Tipps:",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  "Wenn du etwas nicht verstehst, lies weiter und schau, was du sonst entdeckst.",
+                  "Lade deine Freunde ein, mitzumachen.",
+                  "Welche Bibelstellen kann ich lesen? Die <a href=\"https://myfriends.network/content/AT/deu/hoffnung/index.html\">Hoffnungsgeschichten </a>(unter Lebensthemen) eignen sich gut für Bible Discovery mit Kindern.",
+                  "Wenn ihr Zeit habt, könnt ihr gemeinsam ein kleines Schauspiel oder ein Lied zum Thema der Geschichte einüben und aufführen oder vortragen."
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Austausch"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Wofür bist du dankbar?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Worum möchtest du Gott bitten?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "<strong>Betet miteinander</strong>"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Entdecken"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Bible",
+        "html": "<strong><a href=\"https://www.bibleserver.com/NLB/Lukas1\" target=\"a_blank\">EINE BIBELSTELLE WÄHLEN </a></strong>",
+        "url": "",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Lies den Text einmal leise."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Einer liest den Text laut vor."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "bible-study",
+            "text": "Erzählt die Bibelstelle gemeinsam nach."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was gefällt dir und was stört dich?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "sharing-life",
+            "text": "Was lernst du über Gott und die Menschen?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Weitergeben"
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "Was willst du von der Bibelstelle in den nächsten Tagen tun?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "Wem willst du das Gelernte erzählen?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iconList",
+      "data": {
+        "items": [
+          {
+            "icon": "challenges",
+            "text": "Wem willst du etwas Gutes tun?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          "Bete für deine Freunde!"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "site": "myfriends",
+  "country": "BR",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "pages",
+  "lessonId": "about",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "A Jornada de MeusAmigos ajuda-o a si e a seus amigos a construir laços mais fortes entre vós e Deus."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "A jornada constroe-se na fundação de:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "<strong>Cuidar</strong> de seus amigos. Tente saber o que se está a passar na vida deles. Isto involve ir além do “Como estão?” e saber a resposta de “Como é que está a vossa vida?”",
+          "Mostrar <strong>Amor</strong>. Em MeusAmigos não nos estamos a referir a ideias sentimentais ou românticas como se vê na televisão. O amor significa pôr as necessidades dos seus amigos acima das suas. É agir no melhor interesse dos seus amigos, mesmo quando isso é incoveniente.",
+          "<strong>Oração</strong>. A oração é a maneira como nós comunicamos com Deus. Muitos dos nossos problemas são grandes demais para os resolvermos sozinhos. Para vermos mudancas permanentes, temos que ver Deus mudar atitudes e circunstâncias."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Se Deus é importante para si, a seguir estão quatro ações que deverá ter em consideração. Estas poderão ser novas para si. Mas isso não tem problema. Esta é uma jornada, e ao segui-la vai progredir e melhorar as suas ações."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Se sentir que Deus está longe de si ou que Ele não está a fazer nada na sua vida, ignore as ações abaixo indicadas. Talvez um dos seus amigos vá compartilhar consigo o que Deus está a fazer na vida deles. Ouça. Faça perguntas. Lembre-se de que eles são seus amigos. Não tem de concordar com tudo o que eles estão a dizer."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "<strong>Compartilhe o que Deus está a fazer na sua vida.</strong> Seja específico. Compartilhe as suas histórias que têm algo em comum com as experiências dos seus amigos e com as quais eles se poderão identificar facilmente. Os seus amigos vão seguir a sua história melhor se incluir as suas emoções.",
+          "<strong>5. Deixe os seus amigos experimentar Deus.</strong> Quando eles têm necessidades, pergunte se pode orar por eles. Mantenha os seus olhos abertos durante a oração. Use palavras simples que todos possam compreender. Ore em nome de Jesus. Se a situacão permitir, deixe os seus amigos orar depois de si. Depois pergunte se eles viram Deus fazer algo em resposta à oração.",
+          "<strong>Ligue os seus amigos a Deus.</strong> Ajude-os a perceber que Ele não está longe e que Deus está à espera de que eles se aproximem d’Ele. Pode querer contar-lhes como se tornou um seguidor de Jesus. Se eles quiserem saber mais sobre como se podem tornar amigos de Deus, pode mostrar-lhes <a href=\"#\" id=\"Return1\" onclick=\"goToPageAndSetReturn('../basics/gospel.html', '#Return1');\"> este sumário </a> oou <a href=\"https://www.youtube.com/watch?v=NYU-a2wIbxc\" target=\"_blank\"> este desenho.</a>",
+          "<strong>Solte.</strong> Encourage o seu amigo a contar aos seus amigos, como eles se podem tornar amigos de Deus."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Uma vez que dois ou mais amigos queiram descobrir a história de Deus juntos:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "<strong>Forme um grupo.</strong> Pergunte aos seus amigos se eles se querem encontrar regularmente para falarem sobre Deus. Poder-se-ão encontrar semanalmente, de quinze em quinze dias, ou para eventos especiais. Sugerimos que usem esboços para escolher: <a href=\"#\" id=\"Return2\" onclick=\"goToPageAndSetReturn('../life/index.html', '#Return2');\">Problemas da Vida.</a>",
+          "<strong>1Descubra o Básico.</strong> Uma vez que tenha um grupo de três a sete pessoas que queiram seguir a história de Deus juntos, pode começar a cobrir a <a href=\"#\" id=\"Return3\" onclick=\"goToPageAndSetReturn('../basics/index.html', '#Return3');\"> Primeira Jornada: O Básico.</a>",
+          "<strong>Celebre.</strong>. As nossas decisões marcantes são celebradas com as pessoas que são importantes nas nossas vidas. A decisão de seguir a Cristo é celebrada através do batismo. Aqui estão algumas ideias <a href=\"#\" id=\"Return4\" onclick=\"goToPageAndSetReturn('../basics/celebrate.html', '#Return4');\">de como organizar uma festa de batismo, </a> para a qual pode convidar a sua família, amigos e comunidade.",
+          "<strong>Viva na Comunidade:. </strong>A fé é melhor vivida junto com amigos que compartilham a mesma jornada. Aqui está um esboço <a href=\"#\" id=\"Return5\" onclick=\"goToPageAndSetReturn('../basics/community.html', '#Return5');\">que podem seguir com qualquer passagem bíblica, uma vez que completem a Primeira Jornada.</a>que podem seguir com qualquer passagem bíblica, uma vez que completem a Primeira Jornada."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Aqui está uma moeda que vos pode ajudar a lembrar dos passos nesta jornada"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"myfriends-opening\" src=\"/sites/myfriends/images/chip/chip-por.png\">"
+      }
+    }
+  ]
+}

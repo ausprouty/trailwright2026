@@ -122,6 +122,7 @@ export const myFriendsCountries = [
   'AT',
   'AU',
   'BR',
+  'CH',
   'CN',
   'DE',
   'EG',

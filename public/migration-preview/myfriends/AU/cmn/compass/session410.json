@@ -1,0 +1,193 @@
+{
+  "site": "myfriends",
+  "country": "AU",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session410",
+  "sortOrder": 9,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "回顾",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这周你同上帝一起经历了什么？",
+          "在过去的几天里， 你有没有机会同你身边还不知道耶稣基督的人分享一下你与上帝的经历？ 或者是否能够为他们祷告或者在实际生活中帮助他们？",
+          "你生活中的哪些方面需要上帝的帮助？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "学习圣经",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "静静地读经，找出重点词句",
+          "一人朗诵经文",
+          "一人用自己的话复述所读的内容（合上圣经）",
+          "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "路 加 福 音 3:21-22",
+        "html": "<p class=\"bible\"><sup>21</sup> 众 人 都 受 了 洗 ， 耶 稣 也 接 受 了 洗 礼 。 祂 正 在 祷 告 的 时 候 ， 天 开 了 ， <sup>22</sup> 圣 灵 像 鸽 子 一 样 降 在 祂 身 上 ， 又 有 声 音 从 天 上 传 来 ： “ 你 是 我 的 爱 子 ， 我 甚 喜 悦 你 。 ” </p><p class=\"bible\"><br></p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%203:21-22&version=CCB",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "路 加 福 音 4:1-4",
+        "html": "<p class=\"bible\"><sup>1</sup>耶稣被圣灵充满， 从约旦河回来后， 随圣灵的引导来到旷野，<sup>2</sup> 在 那 里 受 魔 鬼 的 试 探 四 十 天 。 那 些 日 子 耶 稣 什 么 也 没 吃 。 那 段 日 子 过 后 ， 祂 饿 了 。 <sup>3</sup> 魔 鬼 对 祂 说 ： “ 如 果 你 是 上 帝 的 儿 子 ， 可 以 把 这 块 石 头 变 成 食 物 来 吃 啊 。 ” </p><p class=\"bible\"><sup>4</sup>耶稣回答说： “圣经上说， ‘人活着不是单靠食物。’” </p><p class=\"bible\"><br><br></p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%204:1-4&version=CCB",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "路 加 福 音 4:14",
+        "html": "<p class=\"bible\"><sup>14</sup> 耶 稣 带 着 圣 灵 的 能 力 回 到 加 利 利 ， 祂 的 名 声 传 遍 了 周 围 地 区 。 </p><p class=\"bible\"><br></p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%204:14&version=CCB",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "使 徒 行 传 1:4-8",
+        "html": "<p class=\"bible\"><sup>4</sup> 有 一 次 ， 耶 稣 和 他 们 在 一 起 吃 饭 的 时 候 ， 叮 嘱 他 们 ： “ 你 们 不 要 离 开 耶 路 撒 冷 ， 要 在 那 里 等 候 我 对 你 们 说 过 的 天 父 的 应 许 。 <sup>5</sup> 因 为 从 前 约 翰 用 水 给 你 们 施 洗 ， 但 再 过 几 天 ， 你 们 要 受 圣 灵 的 洗 。 ” </p><p class=\"bible\"><sup>6</sup>他们跟耶稣在一起的时候问祂： “主啊， 你要在这时候复兴以色列国吗？” <sup>7</sup>耶稣回答说： “天父照祂的权柄定下的时间、 日期不是你们可以知道的。 <sup>8</sup>但圣灵降临在你们身上后， 你们必得到能力， 在耶路撒冷、 犹太全境和撒玛利亚， 直到地极， 做我的见证人。” </p><p class=\"bible\"><br></p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%201:4-8&version=CCB",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "畅所欲言<ul class=\"arrows\"><li>哪些词句比较重要？它们与你之前理解的有所不同吗？</li><li>为什么你会被这些内容吸引？</li><li>神在告诉你什么?</li><li>你对人类有什么新认识？</li></ul>",
+          "组内分享"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "具体问题&实践步骤",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "<font class=\"normal\" face=\"宋体\"> 为什么耶稣在使徒行传 </font><span class=\"normal\">1,4</span><font class=\"normal\" face=\"宋体\"> 中强调“等候”这个词？ </font>",
+          "这四篇道有什么联系？",
+          "<font class=\"normal\" face=\"宋体\"> 圣灵在司提反生命中扮演怎样的角色？阅读使徒行传 </font><span class=\"normal\">6:5-10.</span>",
+          "<font class=\"normal\" face=\"宋体\"> 你准备好完全接受圣灵指引，让它给你力量吗？学习灵性呼吸能够帮助你做到这一点（<span style=\"background-color: #ffffff;\"> 读 </span></font><span class=\"normal\">“充满”）。</span>"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session410-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 呼气：当你的行为和思考违背他的意愿时向神忏悔。把自己完全交付给神。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 吸气：请求神将圣灵充满你，给你力量。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 祈祷神将爱充满你的同学。祈求智慧与勇气，与还不知道耶稣的人分享你与神的经历。祈求你可以为他们祷告，这样他们便可以感受到神。"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "圣经注释",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span style=\"background-color: #ffffff;\"> 没有圣灵，我们无法成为耶稣真正的见证人 </span>，因为<span style=\"background-color: #ffffff;\">是</span>圣灵给<span style=\"background-color: #ffffff;\"> 予 </span>我们力量和权威。是他像精神领域宣告我们<span style=\"background-color: #ffffff;\"> 代表着 </span>耶稣王。在这个世界，耶稣是人神合一的。<span style=\"background-color: #ffffff;\"> 耶稣完全的屈服於圣灵，他戒絕了所有来自人体的欲望 </span>。因为他的经历，他成了我们的榜样，告诉我们如何生活。"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

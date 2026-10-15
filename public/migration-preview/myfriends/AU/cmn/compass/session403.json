@@ -1,0 +1,182 @@
+{
+  "site": "myfriends",
+  "country": "AU",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session403",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "回顾",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这周你同上帝一起经历了什么？",
+          "在过去的几天里， 你有没有机会同你身边还不知道耶稣基督的人分享一下你与上帝的经历？ 或者是否能够为他们祷告或者在实际生活中帮助他们？",
+          "你生活中的哪些方面需要上帝的帮助？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "学习圣经",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "静静地读经，找出重点词句",
+          "一人朗诵经文",
+          "一人用自己的话复述所读的内容（合上圣经）",
+          "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "马 太 福 音 4:18-22",
+        "html": "<p class=\"bible\"><sup>18</sup> 耶 稣 沿 着 加 利 利 湖 边 行 走 的 时 候 ， 看 见 被 称 为 彼 得 的 西 门 和 安 得 烈 两 兄 弟 正 在 撒 网 打 鱼 ， 他 们 是 渔 夫 。 <sup>19</sup> 耶 稣 对 他 们 说 ： “ 来 跟 从 我 ！ 我 要 使 你 们 成 为 得 人 的 渔 夫 。 ” <sup>20</sup><span class=\"unknown\">他 们 立 刻 撇 下 渔 网 ， 跟 从 了 耶 稣 。 </span><sup>21</sup> 耶 稣 再 往 前 走 ， 又 看 见 雅 各 和 约 翰 两 兄 弟 正 和 父 亲 西 庇 太 一 起 在 船 上 补 渔 网 。 耶 稣 呼 召 他 们 ， <sup>22</sup><span class=\"unknown\"> 他 们 马 上 离 开 渔 船 ， 辞 别 父 亲 ， 跟 从 了 耶 稣 。 </span></p><p class=\"bible\"></p><p class=\"bible\"></p>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%204:18-22&version=CCB",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "列 王 纪 上 19:19-21",
+        "html": "<p class=\"bible\"><sup>19</sup> 于 是 ， 以 利 亚 离 开 那 里 ， 找 到 沙 法 的 儿 子 以 利 沙 ， 他 正 在 耕 田 。 他 前 面 有 十 二 对 牛 ， 他 正 赶 着 第 十 二 对 。 以 利 亚 走 过 以 利 沙 身 边 时 ， 将 自 己 的 外 袍 搭 在 他 身 上 。 <sup>20</sup> 以 利 沙 就 撇 下 牛 ， 追 上 以 利 亚 说 ： “ 请 你 让 我 先 回 去 与 父 母 亲 吻 道 别 ， 再 跟 你 走 吧 。 ” 以 利 亚 说 ： “ 你 回 去 吧 ， 别 忘 了 我 刚 才 对 你 做 的 事 。 ” <sup>21</sup> 以 利 沙 就 回 去 了 。 他 宰 了 两 头 耕 牛 ， 用 耕 具 作 柴 煮 肉 分 给 众 人 ， 然 后 去 跟 随 以 利 亚 ， 服 侍 他 。 </p><div class=\"publisher-info-bottom\"><p class=\"bible\"></p></div>",
+        "url": "https://biblegateway.com/passage/?search=1%20Kings%2019:19-21&version=CCB",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "畅所欲言 <ul class=\"arrows\"><li>哪些词句比较重要？它们与你之前理解的有所不同吗？</li><li>为什么你会被这些内容吸引？</li><li>神在告诉你什么?</li><li>你对人类有什么新认识？</li></ul>",
+          "组内分享"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "具体问题&实践步骤",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这两个故事中的呼召有什么共同点？",
+          "耶稣是如何呼召你跟从他的？（在 三人小 组内分享耶稣呼召你以及你如何回应他的经历）",
+          "成为门徒意味着什么？阅读马太福音10:24-25.",
+          "你在校园/ 大学里时，有怎样的跟随耶稣的经历？",
+          "我们跟随耶稣的目的到底是什么？你准备好把自己交付给他了吗？"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session403-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 单独无声祈祷。询问耶稣有什么 人事物在 阻挡你完全的相信和跟随他。（比如：习惯、 假性的信奉 、态度、人际关系、思考 模 式。）立刻与组员分享，并允许他 / 她负责看顾你。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 两到三人为一组祷告。倾述出你对耶稣的忠诚，在校园也会完全信任他。表明他对你而言高于一切，你将按照他的 引导 行事。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 写出五个你想为之祷告的名字，让他们 将生命交给耶稣并开始跟随他 。为了协助祷告，把他们的名字写在便利贴上，贴在浴室镜子或者冰箱上，或者写在书签上，设置手机提示等等。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 两到三人一组为他们祷告。"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "圣经注释",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "跟随耶稣首先我们必须打破 所有的 障碍。这意味要建立与他的关系，与他同在，受他指引，向他学习，学习如何 迈向他的国度 。我们作为门徒的 “锻炼”也有一个明确的目的：我们应该成为得人的渔夫。我们要助其他人跟随耶稣，成为他的门徒。（马太福音 28:19-20 ）"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

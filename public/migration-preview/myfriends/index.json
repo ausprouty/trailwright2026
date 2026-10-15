@@ -16,154 +16,69 @@
     ]
   },
   "AU": {
-    "cmn": [
-      "basics",
-      "firststeps",
-      "life",
-      "pages"
-    ],
-    "eng": [
-      "basics",
-      "compass",
-      "life",
-      "multiply",
-      "multiply2",
-      "multiply3",
-      "pages"
-    ]
+    "cmn": ["basics", "compass", "firststeps", "life", "pages"],
+    "eng": ["basics", "compass", "life", "multiply1", "multiply2", "multiply3", "pages"]
   },
   "BR": {
-    "por": [
-      "basics",
-      "firststeps",
-      "life",
-      "pages"
-    ]
+    "por": ["basics", "firststeps", "life", "pages"]
   },
   "CH": {
-    "deu": [
-      "basics",
-      "pages"
-    ]
+    "deu": ["basics", "pages"]
   },
   "CN": {
-    "cmn": [
-      "basics",
-      "compass",
-      "firststeps",
-      "life",
-      "pages"
-    ]
+    "cmn": ["basics", "compass", "firststeps", "life", "pages"]
   },
   "DE": {
-    "deu": [
-      "basics",
-      "compass",
-      "life",
-      "pages"
-    ]
+    "deu": ["basics", "compass", "life", "pages"]
   },
   "EG": {
-    "arb": [
-      "basics",
-      "firststeps",
-      "life",
-      "pages"
-    ]
+    "arb": ["basics", "firststeps", "life", "pages"]
   },
   "ES": {
-    "spa": [
-      "basics",
-      "compass",
-      "firststeps",
-      "pages"
-    ]
+    "spa": ["basics", "compass", "firststeps", "pages"]
   },
   "ET": {
-    "amh": [
-      "basics",
-      "firststeps",
-      "pages"
-    ],
-    "gaz": [
-      "basics",
-      "firststeps",
-      "pages"
-    ]
+    "amh": ["basics", "firststeps", "pages"],
+    "gaz": ["basics", "firststeps", "pages"]
   },
   "FI": {
-    "fin": [
-      "basics",
-      "life",
-      "pages"
-    ]
+    "fin": ["basics", "life", "pages"]
   },
   "FR": {
-    "fra": [
-      "basics",
-      "firststeps",
-      "pages"
-    ]
+    "fra": ["basics", "firststeps", "pages"]
   },
   "IN": {
-    "hin": [
-      "basics",
-      "firststeps",
-      "pages"
-    ]
+    "hin": ["basics", "firststeps", "pages"]
   },
   "LK": {
-    "tam": [
-      "basics",
-      "firststeps",
-      "pages"
-    ]
+    "tam": ["basics", "firststeps", "pages"]
   },
   "NZ": {
-    "cmn": [
-      "life"
-    ],
+    "cmn": ["life"],
     "eng": [
       "basics",
       "compass",
       "firststeps",
       "life",
-      "multiply",
+      "multiply1",
       "multiply2",
       "multiply3",
       "pages"
     ]
   },
   "PK": {
-    "urd": [
-      "basics",
-      "firststeps",
-      "life",
-      "pages"
-    ]
+    "urd": ["basics", "firststeps", "life", "pages"]
   },
   "PT": {
-    "por": [
-      "basics"
-    ]
+    "por": ["basics"]
   },
   "RO": {
-    "ron": [
-      "pages"
-    ]
+    "ron": ["pages"]
   },
   "US": {
-    "eng": [
-      "basics",
-      "firststeps",
-      "multiply",
-      "pages"
-    ]
+    "eng": ["basics", "firststeps", "multiply1", "pages"]
   },
   "YT": {
-    "eng": [
-      "basics",
-      "life"
-    ]
+    "eng": ["basics", "life"]
   }
 }

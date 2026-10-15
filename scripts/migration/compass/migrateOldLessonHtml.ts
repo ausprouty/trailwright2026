@@ -708,7 +708,12 @@ function isBackgroundNoteWrapper($el: cheerio.Cheerio<AnyNode>): boolean {
   return $el.is('#background_note');
 }
 function isBibleContainer($el: cheerio.Cheerio<AnyNode>): boolean {
-  return $el.hasClass('bible_container') || $el.hasClass('bible') || $el.is('#bible');
+  return (
+    $el.hasClass('bible-container') ||
+    $el.hasClass('bible_container') ||
+    $el.hasClass('bible') ||
+    $el.is('#bible')
+  );
 }
 function isBibleReveal($el: cheerio.Cheerio<AnyNode>): boolean {
   return $el.is('div.reveal.bible');
@@ -820,6 +825,48 @@ function normalizeArtificialSpaces(html: string): string {
     .replace(/\{\s*'\s+'\s*\}/g, ' ')
     .replace(/&#x20;/gi, ' ')
     .replace(/&nbsp;/gi, ' ');
+}
+function normalizeCompassBibleContainers($: CheerioAPI): void {
+  $('div.bible').each((_, element) => {
+    const $div = $(element);
+
+    // Only change a Bible div whose first element child
+    // is a paragraph containing the Scripture reference.
+    if ($div.children().first().is('p.reference')) {
+      $div.removeClass('bible').addClass('bible-container');
+    }
+  });
+}
+function normalizeChineseBibleSpacing($: CheerioAPI): void {
+  $('div.bible-container p.bible').each((_, element) => {
+    const $paragraph = $(element);
+
+    $paragraph.contents().each((_, node) => {
+      if (!isText(node)) return;
+
+      let text = node.data;
+
+      // Remove spaces between Chinese characters.
+      text = text.replace(
+        /([\u3400-\u9FFF])\s+(?=[\u3400-\u9FFF])/g,
+        '$1',
+      );
+
+      // Remove spaces immediately before punctuation.
+      text = text.replace(/\s+([，。！？；：、])/g, '$1');
+
+      // Remove spaces after opening quotation marks.
+      text = text.replace(/([“‘])\s+/g, '$1');
+
+      // Remove spaces before closing quotation marks.
+      text = text.replace(/\s+([”’])/g, '$1');
+
+      // Keep a single space after punctuation when one exists.
+      text = text.replace(/([，。！？；：、])\s+/g, '$1 ');
+
+      node.data = text;
+    });
+  });
 }
 
 function normalizeInlineHtml(html: string): string {
@@ -952,9 +999,16 @@ function normalizeReadBibleReference($: CheerioAPI): void {
     const referenceParts: string[] = [];
 
     while (node) {
-      // The next <ol> marks the end of the Bible-reference area.
-      if (isTag(node) && node.name === 'ol') {
-        break;
+      if (isTag(node)) {
+        const $node = $(node);
+
+        // Stop at the next list or an existing Bible passage.
+        if (
+          $node.is('ol') ||
+          $node.is('div.bible, div.bible-container, div.bible_container, #bible')
+        ) {
+          break;
+        }
       }
 
       nodesToRemove.push(node);
@@ -981,7 +1035,7 @@ function normalizeReadBibleReference($: CheerioAPI): void {
 
     const reference = referenceParts.join(' ').trim();
 
-    if (!reference) {
+    if (!reference || !looksLikeBibleReference(reference)) {
       return;
     }
 
@@ -1255,6 +1309,9 @@ export function migrateOldLessonHtmlToEditorJs(
   normalizeReadBibleReference($);
   normalizeStandaloneBibleReferences($);
   splitBibleSections($);
+  normalizeCompassBibleContainers($);
+  normalizeChineseBibleSpacing($);
+
   normalizeLegacyPopupReferenceLayout($);
   normalizeLegacyHtmlLists($);
   const popupMap = collectPopupMap($);

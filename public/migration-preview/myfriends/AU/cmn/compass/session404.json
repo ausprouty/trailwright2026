@@ -1,0 +1,217 @@
+{
+  "site": "myfriends",
+  "country": "AU",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "compass",
+  "lessonId": "session404",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "sharing-life",
+        "title": "回顾",
+        "icon": "sharing-life"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "这周你同上帝一起经历了什么？",
+          "在过去的几天里， 你有没有机会同你身边还不知道耶稣基督的人分享一下你与上帝的经历？ 或者是否能够为他们祷告或者在实际生活中帮助他们？",
+          "你生活中的哪些方面需要上帝的帮助？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "bible-study",
+        "title": "学习圣经",
+        "icon": "bible-study"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "静静地读经，找出重点词句",
+          "一人朗诵经文",
+          "一人用自己的话复述所读的内容（合上圣经）",
+          "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "以 弗 所 书 5:8-21",
+        "html": "<p class=\"bible\"><sup>8</sup> 你 们 从 前 活 在 黑 暗 中 ， 现 在 既 然 活 在 主 的 光 明 中 ， 行 事 为 人 就 该 像 光 明 的 儿 女 。 <sup>9</sup><span class=\"unknown\"> 光 明 总 是 结 出 良 善 、 公 义 和 真 理 的 果 子 。 </span><sup>10</sup><span class=\"unknown\">你 们 要 察 验 什 么 是 主 所 喜 悦 的 事 ， </span><sup>11</sup><span class=\"unknown\"> 不 可 参 与 那 些 黑 暗 无 益 的 事 ， 反 要 揭 发 斥 责 ， </span><sup>12</sup> 因 为 那 些 人 暗 地 里 做 的 事 就 是 提 起 来 都 觉 得 可 耻 。 <sup>13</sup><span class=\"unknown\"> 然 而 ， 一 切 的 事 被 光 一 照 ， 都 会 真 相 大 白 ， </span><sup>14</sup><span class=\"unknown\"> 因 为 光 能 使 一 切 显 明 出 来 。 因 此 有 人 说 ： </span></p><div class=\"poetry top-1\"><p class=\"bible\">“沉睡的人啊， 醒来吧！<br> 从死人中起来吧， 基督要光照你了！”</p></div><p class=\"bible\"><sup>15</sup>因此， 你们要注意自己的生活， 不要像愚昧人， 要像有智慧的人。 <sup>16</sup>要爱惜光阴， 因为现今是个邪恶的世代。 <sup>17</sup>所以， 不要做糊涂人， 要明白主的旨意。 <sup>18</sup>不要醉酒， 醉酒会使人放荡， 要被圣灵充满。 <sup>19</sup>要用诗篇、 圣乐、 灵歌互相激励， 从心底唱出赞美主的旋律。 <sup>20</sup>凡事总要奉我们主耶稣基督的名感谢父上帝。</p><p class=\"bible\">夫妇之道</p><p class=\"bible\"><sup>21</sup>你们要存敬畏基督的心彼此顺服。</p><div class=\"publisher-info-bottom\"></div>",
+        "url": "https://biblegateway.com/passage/?search=Ephesians%205:8-21&version=CCB",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "畅所欲言 <ul class=\"arrows\"><li>哪些词句比较重要？它们与你之前理解的有所不同吗？</li><li>为什么你会被这些内容吸引？</li><li>神在告诉你什么?</li><li>你对人类有什么新认识？</li></ul>",
+          "组内分享"
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "具体问题&实践步骤",
+        "icon": "challenges"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "保罗鼓励以弗所的圣徒 以什么样的方式生活{' '} ？（8-17）",
+          "为什么保罗提到了圣灵？",
+          "为什么保罗将被圣灵充满的生活与被酒精填满的生活相比较？",
+          "你能够看到圣灵在你生活上的影响吗？（见圣经注释）",
+          "你被圣灵带领还是被其他事物带领着？你的弟兄姊妹们是怎样的看法？"
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-session404-i-will"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "耶稣向我们承诺，只要我们有信心，圣灵就 在我们生命里犹如{' '} 流出活水的江河来（约翰福音7:37-39）。我们在跟随耶稣后会得到圣灵感动，然而我们并不是主动就被圣灵填满。就像空气缺乏氧气，火苗也会暗淡，圣灵也会被污浊的空气浇熄，比如生命中未悔改的罪。不要让圣灵熄灭——保罗在帖撒罗尼迦前书5:19中写道。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "圣灵如何才能在你里面流动？什么会阻碍它？",
+          "你内心有哪些挣扎？",
+          "你准备好将自己的期望，理想，态度，努力甚至挫败和短处交给上帝了吗？"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "如果是，向神发问，如何才能让圣灵 填{' '} 满我们。接下两步会帮助到你。我们称之为“灵性呼吸”。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 和生理呼吸相似，呼出废气。驱散压制火焰的脏气：向神忏悔你和他意愿相悖的行为和想法（你所能想到的一切）。把自己完全交给他，重新接受圣灵的指引。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "▶ 吸入新鲜空气：请求神再次用圣灵将你填满，给你力量。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "祷告词：“圣灵，请重新充满我的身体，掌控我生活的点点滴滴，我 决定{' '} 相信你，听从您。”"
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "你可以在任何时候进行灵性呼吸。每次呼吸过后你并不会完全改变。 虽然{' '} 人的感情也很重要，感情并不总是准确的。因此相信上帝是明智的选择。相信只要你向他请求，他就会按照承诺去改变你， 就算有时候我们的感受并不一致。"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "圣经注释",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "18-21 是源自希腊语：“乃要被圣灵充满。当用诗章、颂词、灵歌彼此对说，口唱心和地赞美主。凡事要奉我们主耶稣基督的名常常感谢父神。又当存敬畏基督的心，彼此顺服。” 19-21 是帮助你自我定位，让圣灵充满的具体方法。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "圣灵帮助你认识上帝，理解圣经（哥林多前书2:14-16 ）。他与我们对话（使徒前传 14:26 ）将一切的事指教你们（约翰福音 14:26 ）。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "不仅如此，他用来自全能神的爱，智慧，耐性，希望，毅力，顽强，和平，欢乐，灵感，想法赐予我们的生命，给予我们内在力量勇敢忠实地面对挑战。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "圣灵用超自然的礼物武装我们，我们得以完成上帝给我们的任务（罗马书{' '} 12:6-8；科林多前书 12:8-10 ；以弗所书 4 ： 11 ；彼得前书 4:11 ）。"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    }
+  ]
+}

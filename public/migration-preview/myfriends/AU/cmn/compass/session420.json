@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -77,7 +80,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "馬太福音 5:23-24",
-        "html": "<div><p><sup>23</sup>“所以，你在祭坛前献祭的时候，要是想起有弟兄和你有过节，<sup class=\"versenum\">24 </sup>就该把祭物留在祭坛前，先去跟他和好，然后再来献祭。</p><p></p></div><!-- end bible --><p></p>",
+        "html": "<div><p><sup>23</sup>“所以，你在祭坛前献祭的时候，要是想起有弟兄和你有过节，<sup>24</sup>就该把祭物留在祭坛前，先去跟他和好，然后再来献祭。</p></div><!-- end bible -->",
         "url": "https://biblegateway.com/passage/?search=Matthew%205:23-24&version=CCB",
         "isOpen": false
       }
@@ -124,9 +127,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 你目前是否面临人际关系冲突，但又需要采取积极主动的态度?以两到三人为一组为勇气，智慧和爱祈祷，以便你的人际关系步入正轨。."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "你目前是否面临人际关系冲突，但又需要采取积极主动的态度?以两到三人为一组为勇气，智慧和爱祈祷，以便你的人际关系步入正轨。."
+          }
+        ]
       }
     },
     {

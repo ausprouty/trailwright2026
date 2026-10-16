@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -65,15 +68,6 @@
           "一人用自己的话复述所读的内容（合上圣经）",
           "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
         ]
-      }
-    },
-    {
-      "type": "biblePassage",
-      "data": {
-        "reference": "箴言 3:1-12",
-        "html": "",
-        "url": "",
-        "isOpen": false
       }
     },
     {
@@ -118,22 +112,24 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 今天学的内容里，你将坚持哪一点？圣灵有没有给你具体的挑战？把这两点写下来，组内分享。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "今天学的内容里，你将坚持哪一点？圣灵有没有给你具体的挑战？把这两点写下来，组内分享。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祷告：告诉上帝，你在明天和未来的每一天都会相信祂。"
+          }
+        ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iWill",
       "data": {
-        "text": "▶ 祷告：告诉上帝，你在明天和未来的每一天都会相信祂。"
-      }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "note"
+        "storageKey": "compass-session413-i-will"
       }
     }
   ]

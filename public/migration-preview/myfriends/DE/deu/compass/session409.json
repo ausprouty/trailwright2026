@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft\nund eure Freundschaft zu Gott stärker und tiefer wird."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 6, 25-34",
-        "html": "<p class=\"bible\"><sup>25</sup>»Deshalb sage ich euch: Macht euch keine Sorgen um das, was ihr an Essen und Trinken zum Leben und an Kleidung für euren Körper braucht. Ist das Leben nicht wichtiger als die Nahrung, und ist der Körper nicht wichtiger als die Kleidung?<sup>26</sup>Seht euch die Vögel an! Sie säen nicht, sie ernten nicht, sie sammeln keine Vorräte, und euer Vater im Himmel ernährt sie doch. Seid ihr nicht viel mehr wert als sie?<sup>27</sup>Wer von euch kann dadurch, dass er sich Sorgen macht, sein Leben auch nur um eine einzige Stunde verlängern?<sup>28</sup>Und warum macht ihr euch Sorgen um eure Kleidung? Seht euch die Lilien auf dem Feld an und lernt von ihnen! Sie wachsen, ohne sich abzumühen und ohne zu spinnen ´und zu weben`.<sup>29</sup>Und doch sage ich euch: Sogar Salomo in all seiner Pracht war nicht so schön gekleidet wie eine von ihnen.<sup>30</sup>Wenn Gott die Feldblumen, die heute blühen und morgen ins Feuer geworfen werden, so herrlich kleidet, wird er sich dann nicht erst recht um euch kümmern, ihr Kleingläubigen?<sup>31</sup>Macht euch also keine Sorgen! Fragt nicht: Was sollen wir essen? Was sollen wir trinken? Was sollen wir anziehen?<sup>32</sup>Denn um diese Dinge geht es den Heiden, ´die Gott nicht kennen`. Euer Vater im Himmel aber weiß, dass ihr das alles braucht.<sup>33</sup>Es soll euch zuerst um Gottes Reich und Gottes Gerechtigkeit gehen, dann wird euch das Übrige alles dazugegeben.<sup>34</sup>Macht euch keine Sorgen um den nächsten Tag! Der nächste Tag wird für sich selbst sorgen. Es genügt, dass jeder Tag seine eigene Last mit sich bringt.« </p><p class=\"bible\"><br><br></p>",
+        "html": "<p><sup>25</sup>»Deshalb sage ich euch: Macht euch keine Sorgen um das, was ihr an Essen und Trinken zum Leben und an Kleidung für euren Körper braucht. Ist das Leben nicht wichtiger als die Nahrung, und ist der Körper nicht wichtiger als die Kleidung?<sup>26</sup>Seht euch die Vögel an! Sie säen nicht, sie ernten nicht, sie sammeln keine Vorräte, und euer Vater im Himmel ernährt sie doch. Seid ihr nicht viel mehr wert als sie?<sup>27</sup>Wer von euch kann dadurch, dass er sich Sorgen macht, sein Leben auch nur um eine einzige Stunde verlängern?<sup>28</sup>Und warum macht ihr euch Sorgen um eure Kleidung? Seht euch die Lilien auf dem Feld an und lernt von ihnen! Sie wachsen, ohne sich abzumühen und ohne zu spinnen ´und zu weben`.<sup>29</sup>Und doch sage ich euch: Sogar Salomo in all seiner Pracht war nicht so schön gekleidet wie eine von ihnen.<sup>30</sup>Wenn Gott die Feldblumen, die heute blühen und morgen ins Feuer geworfen werden, so herrlich kleidet, wird er sich dann nicht erst recht um euch kümmern, ihr Kleingläubigen?<sup>31</sup>Macht euch also keine Sorgen! Fragt nicht: Was sollen wir essen? Was sollen wir trinken? Was sollen wir anziehen?<sup>32</sup>Denn um diese Dinge geht es den Heiden, ´die Gott nicht kennen`. Euer Vater im Himmel aber weiß, dass ihr das alles braucht.<sup>33</sup>Es soll euch zuerst um Gottes Reich und Gottes Gerechtigkeit gehen, dann wird euch das Übrige alles dazugegeben.<sup>34</sup>Macht euch keine Sorgen um den nächsten Tag! Der nächste Tag wird für sich selbst sorgen. Es genügt, dass jeder Tag seine eigene Last mit sich bringt.« </p>",
         "url": "https://biblegateway.com/passage/?search=Matthew%206:25-34&version=NGU-DE",
         "isOpen": false
       }
@@ -102,21 +105,28 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Drücke dein Vertrauen gegenüber dem himmlischen Vater (neu) aus, dass er dich (auch dein Herz!) versorgen wird (siehe Psalm 37,3-4 und 1. Petrus 5,7). Sage ihm in einem Gebet, was du brauchst (jeder für sich)."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Drücke dein Vertrauen gegenüber dem himmlischen Vater (neu) aus, dass er\ndich (auch dein Herz!) versorgen wird (siehe Psalm 37,3-4 und 1. Petrus\n5,7). Sage ihm in einem Gebet, was du brauchst (jeder für sich)."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Welche gezielten Schritte kannst du tun, um dein Herz ans Reich Gottes zu\nbinden? Musst du vielleicht deine Prioritäten neu setzen und z.B. mit etwas\naufhören (einer Aktivität, ein Engagement, einer Beziehung)? Sprecht zu\nzweit darüber und sagt es Gott in einem Gebet."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Bitte den himmlischen Vater, dass er deinem Herzen noch mehr offenbart,\nwie er ist und wie über dich denkt."
+          }
+        ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iWill",
       "data": {
-        "text": "▶ Welche gezielten Schritte kannst du tun, um dein Herz ans Reich Gottes zu binden? Musst du vielleicht deine Prioritäten neu setzen und z.B. mit etwas aufhören (einer Aktivität, ein Engagement, einer Beziehung)? Sprecht zu zweit darüber und sagt es Gott in einem Gebet."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Bitte den himmlischen Vater, dass er deinem Herzen noch mehr offenbart, wie er ist und wie über dich denkt."
+        "storageKey": "compass-session409-i-will"
       }
     },
     {
@@ -139,21 +149,22 @@
               }
             },
             {
-              "type": "paragraph",
+              "type": "iconList",
               "data": {
-                "text": "▶ Proklamiere regelmässig über deinem Leben, wer Gott für dich ist. Halte dich daran fest, wie die Bibel bzw. Jesus, Gott vorstellt."
-              }
-            },
-            {
-              "type": "paragraph",
-              "data": {
-                "text": "▶ Bitte Gott glaubens- und erwartungsvoll um das, was du brauchst, anstatt dich zu sorgen (Philipper 4,6-7; Jakobus 1,5-6)."
-              }
-            },
-            {
-              "type": "paragraph",
-              "data": {
-                "text": "▶ Räume seinem Reich erste Priorität ein und investiere dort deine Schätze (Zeit, Energie, Geld). Lies dazu Lukas 12,32-34."
+                "items": [
+                  {
+                    "icon": "triangle-right",
+                    "text": "Proklamiere regelmässig über deinem Leben, wer Gott für dich ist. Halte\ndich daran fest, wie die Bibel bzw. Jesus, Gott vorstellt."
+                  },
+                  {
+                    "icon": "triangle-right",
+                    "text": "Bitte Gott glaubens- und erwartungsvoll um das, was du brauchst, anstatt\ndich zu sorgen (Philipper 4,6-7; Jakobus 1,5-6)."
+                  },
+                  {
+                    "icon": "triangle-right",
+                    "text": "Räume seinem Reich erste Priorität ein und investiere dort deine Schätze\n(Zeit, Energie, Geld). Lies dazu Lukas 12,32-34."
+                  }
+                ]
               }
             },
             {

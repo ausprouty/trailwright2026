@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft\nund eure Freundschaft zu Gott stärker und tiefer wird."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "1 Samuel 18, 5-9",
-        "html": "<p class=\"bible\"><sup>5</sup>David unternahm unter Sauls Befehl verschiedene Feldzüge. Wohin Saul ihn auch schickte, überall war er erfolgreich und kam als Sieger zurück. So machte Saul ihn schließlich zum Oberbefehlshaber seiner Truppen. Im ganzen Volk war David beliebt, und auch alle Untergebenen des Königs schätzten ihn. </p><p class=\"bible\"><sup>6</sup>Als David und die Israeliten nach dem Sieg über die Philister zurückkehrten, zogen Frauen aus allen Städten König Saul entgegen. Sie sangen und tanzten, schlugen die Tamburine und empfingen die Sieger mit Jubel und Musik.<sup> 7 </sup>Immer wieder sangen die Frauen den Vers: </p><div class=\"poetry top-1\"><p class=\"bible\"> »Saul hat tausend Mann erschlagen,David aber zehntausend!« </p></div><p class=\"bible\"><sup>8</sup>Saul hörte dieses Lied nicht gern, er wurde sehr zornig. »David trauen sie zu, dass er zehntausend erschlägt; und sie glauben, dass ich nur mit tausend fertigwerde!«, dachte er voller Missmut. »Jetzt fehlt nur noch, dass sie ihn zum König machen!«<sup> 9 </sup>Seitdem war Saul eifersüchtig auf David. </p><p class=\"bible\"><br><br></p>",
+        "html": "<p><sup>5</sup>David unternahm unter Sauls Befehl verschiedene Feldzüge. Wohin Saul ihn auch schickte, überall war er erfolgreich und kam als Sieger zurück. So machte Saul ihn schließlich zum Oberbefehlshaber seiner Truppen. Im ganzen Volk war David beliebt, und auch alle Untergebenen des Königs schätzten ihn. </p><p><sup>6</sup>Als David und die Israeliten nach dem Sieg über die Philister zurückkehrten, zogen Frauen aus allen Städten König Saul entgegen. Sie sangen und tanzten, schlugen die Tamburine und empfingen die Sieger mit Jubel und Musik.<sup> 7 </sup>Immer wieder sangen die Frauen den Vers: </p><div class=\"poetry top-1\"><p> »Saul hat tausend Mann erschlagen,David aber zehntausend!« </p></div><p><sup>8</sup>Saul hörte dieses Lied nicht gern, er wurde sehr zornig. »David trauen sie zu, dass er zehntausend erschlägt; und sie glauben, dass ich nur mit tausend fertigwerde!«, dachte er voller Missmut. »Jetzt fehlt nur noch, dass sie ihn zum König machen!«<sup> 9 </sup>Seitdem war Saul eifersüchtig auf David. </p>",
         "url": "https://biblegateway.com/passage/?search=1%20Samuel%2018:5-9&version=HOF",
         "isOpen": false
       }
@@ -80,7 +83,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 18, 1-5",
-        "html": "<p class=\"bible\"><sup>1</sup>In jener Zeit kamen die Jünger zu Jesus und fragten: »Wer ist eigentlich der Größte im Himmelreich?«<sup> 2 </sup>Jesus rief ein Kind, stellte es in ihre Mitte<sup> 3 </sup>und sagte: »Ich versichere euch: Wenn ihr nicht umkehrt und wie die Kinder werdet, könnt ihr nicht ins Himmelreich kommen.<sup> 4 </sup>Darum: Wer sich selbst erniedrigt und wie dieses Kind wird, der ist der Größte im Himmelreich.<sup>5</sup>Und wer solch ein Kind um meinetwillen aufnimmt, der nimmt mich auf.« </p><p class=\"bible\"><br></p>",
+        "html": "<p><sup>1</sup>In jener Zeit kamen die Jünger zu Jesus und fragten: »Wer ist eigentlich der Größte im Himmelreich?«<sup> 2 </sup>Jesus rief ein Kind, stellte es in ihre Mitte<sup> 3 </sup>und sagte: »Ich versichere euch: Wenn ihr nicht umkehrt und wie die Kinder werdet, könnt ihr nicht ins Himmelreich kommen.<sup> 4 </sup>Darum: Wer sich selbst erniedrigt und wie dieses Kind wird, der ist der Größte im Himmelreich.<sup>5</sup>Und wer solch ein Kind um meinetwillen aufnimmt, der nimmt mich auf.« </p>",
         "url": "https://biblegateway.com/passage/?search=Matthew%2018:1-5&version=NGU-DE",
         "isOpen": false
       }
@@ -127,21 +130,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Wo treibt dich der eigene Ehrgeiz an anstatt der Heilige Geist (Ga-later 5,16-18)? Bekenne ihm das und dein mangelndes Vertrauen in Gott und unterstelle dich danach wieder ganz der Führung des Heiligen Geistes (jeder für sich)."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Was möchtest du von dem, was du gelesen hast, in den nächsten Tagen anwenden? Schreibe es auf und teile es der Gruppe mit („Ich werde...“)."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Sage es Gott in einem Gebet (bildet dazu 2-3er Gruppen)."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Wo treibt dich der eigene Ehrgeiz an anstatt der Heilige Geist (Ga-later\n5,16-18)? Bekenne ihm das und dein mangelndes Vertrauen in Gott und\nunterstelle dich danach wieder ganz der Führung des Heiligen Geistes (jeder\nfür sich)."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Was möchtest du von dem, was du gelesen hast, in den nächsten Tagen\nanwenden? Schreibe es auf und teile es der Gruppe mit („Ich werde...“)."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Sage es Gott in einem Gebet (bildet dazu 2-3er Gruppen)."
+          }
+        ]
       }
     },
     {

@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where you need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Luke 5:27-32",
-        "html": "<p class=\"bible\"><sup>27</sup> After this, Jesus went out and saw a tax collector by the name of Levi sitting at his tax booth. “Follow me,” Jesus said to him, <sup>28</sup><span class=\"unknown\"> and Levi got up, left everything and followed him. </span></p><p class=\"bible\"><sup>29</sup>Then Levi held a great banquet for Jesus at his house, and a large crowd of tax collectors and others were eating with them.<sup>30</sup>But the Pharisees and the teachers of the law who belonged to their sect complained to his disciples, “Why do you eat and drink with tax collectors and sinners?”</p><p class=\"bible\"><sup>31</sup>Jesus answered them, “It is not the healthy who need a doctor, but the sick.<sup>32</sup>I have not come to call the righteous, but sinners to repentance.”</p><p class=\"bible\"></p>",
+        "html": "<p><sup>27</sup> After this, Jesus went out and saw a tax collector by the name of Levi sitting at his tax booth. “Follow me,” Jesus said to him, <sup>28</sup> and Levi got up, left everything and followed him. </p><p><sup>29</sup>Then Levi held a great banquet for Jesus at his house, and a large crowd of tax collectors and others were eating with them.<sup>30</sup>But the Pharisees and the teachers of the law who belonged to their sect complained to his disciples, “Why do you eat and drink with tax collectors and sinners?”</p><p><sup>31</sup>Jesus answered them, “It is not the healthy who need a doctor, but the sick.<sup>32</sup>I have not come to call the righteous, but sinners to repentance.”</p>",
         "url": "https://biblegateway.com/passage/?search=Luke%205:27-32&version=TNIV",
         "isOpen": false
       }
@@ -118,21 +121,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ What could you as a Group organise for such a purpose? Think about it quickly, everyone notes down 2-3 ideas, then discuss these in the group."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Write down 5 people you would like to invite."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray for your VIPs, that your relationship to them strengthens and that you gain mutual trust."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "What could you as a Group organise for such a purpose? Think about it quickly, everyone notes down 2-3 ideas, then discuss these in the group."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Write down 5 people you would like to invite."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray for your VIPs, that your relationship to them strengthens and that you gain mutual trust."
+          }
+        ]
       }
     },
     {

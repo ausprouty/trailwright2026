@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft\nund eure Freundschaft zu Gott stärker und tiefer wird."
+          }
+        ]
       }
     },
     {
@@ -77,7 +80,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 28, 18-20",
-        "html": "<p class=\"bible\"><sup>18</sup>Jesus trat auf sie zu und sagte: »Mir ist alle Macht im Himmel und auf der Erde gegeben.<sup> 19 </sup>Darum geht zu allen Völkern und macht die Menschen zu meinen Jüngern; tauft sie auf den Namen des Vaters, des Sohnes und des Heiligen Geistes<sup>20</sup>und lehrt sie, alles zu befolgen, was ich euch geboten habe. Und seid gewiss: Ich bin jeden Tag bei euch, bis zum Ende der Welt.« </p><p class=\"bible\"><br></p>",
+        "html": "<p><sup>18</sup>Jesus trat auf sie zu und sagte: »Mir ist alle Macht im Himmel und auf der Erde gegeben.<sup> 19 </sup>Darum geht zu allen Völkern und macht die Menschen zu meinen Jüngern; tauft sie auf den Namen des Vaters, des Sohnes und des Heiligen Geistes<sup>20</sup>und lehrt sie, alles zu befolgen, was ich euch geboten habe. Und seid gewiss: Ich bin jeden Tag bei euch, bis zum Ende der Welt.« </p>",
         "url": "https://biblegateway.com/passage/?search=Matthew%2028:18-20&version=NGU-DE",
         "isOpen": false
       }
@@ -126,15 +129,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Schreibt euch je 5 Leute auf, für die ihr beten möchtet, dass sie sich für Jesus entscheiden (siehe Kapitel „Gebet, das Gott bewegt“)."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Bist du bereit, loszugehen und Menschen in deinem Umfeld zu Jün-gern von Jesus zu machen? Betet ehrlich zu zweit miteinander, dass ihr den Auftrag von Jesus jeden Tag vor Augen haben könnt und stellt euch zur Verfügung, Menschen in eurem Studienalltag zu ge-winnen und zu Jüngern von Jesus auszubilden. Betet für eure VIP‘s."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Schreibt euch je 5 Leute auf, für die ihr beten möchtet, dass sie sich für\nJesus entscheiden (siehe Kapitel „Gebet, das Gott bewegt“)."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Bist du bereit, loszugehen und Menschen in deinem Umfeld zu Jün-gern von\nJesus zu machen? Betet ehrlich zu zweit miteinander, dass ihr den Auftrag\nvon Jesus jeden Tag vor Augen haben könnt und stellt euch zur Verfügung,\nMenschen in eurem Studienalltag zu ge-winnen und zu Jüngern von Jesus\nauszubilden. Betet für eure VIP‘s."
+          }
+        ]
       }
     },
     {

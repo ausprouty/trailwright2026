@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where you need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthew 9:20-22, 27-29",
-        "html": "<p class=\"bible\"><sup>20</sup> Just then a woman who had been subject to bleeding for twelve years came up behind him and touched the edge of his cloak. <sup>21</sup> She said to herself, “If I only touch his cloak, I will be healed.” </p><p class=\"bible\"><sup>22</sup>Jesus turned and saw her. “Take heart, daughter,” he said, “your faith has healed you.” And the woman was healed at that moment.</p><p class=\"bible\"><sup>27</sup> As Jesus went on from there, two blind men followed him, calling out, “Have mercy on us, Son of David!” </p><p class=\"bible\"><sup>28</sup>When he had gone indoors, the blind men came to him, and he asked them, “Do you believe that I am able to do this?”</p><p class=\"bible\">“Yes, Lord,” they replied.</p><p class=\"bible\"><sup>29</sup>Then he touched their eyes and said, “According to your faith let it be done to you”;</p><p class=\"bible\"></p>",
+        "html": "<p><sup>20</sup> Just then a woman who had been subject to bleeding for twelve years came up behind him and touched the edge of his cloak. <sup>21</sup> She said to herself, “If I only touch his cloak, I will be healed.” </p><p><sup>22</sup>Jesus turned and saw her. “Take heart, daughter,” he said, “your faith has healed you.” And the woman was healed at that moment.</p><p><sup>27</sup> As Jesus went on from there, two blind men followed him, calling out, “Have mercy on us, Son of David!” </p><p><sup>28</sup>When he had gone indoors, the blind men came to him, and he asked them, “Do you believe that I am able to do this?”</p><p>“Yes, Lord,” they replied.</p><p><sup>29</sup>Then he touched their eyes and said, “According to your faith let it be done to you”;</p>",
         "url": "https://biblegateway.com/passage/?search=Matthew%209:27-29&version=TNIV",
         "isOpen": false
       }
@@ -120,9 +123,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ You can pray the following prayer: “Thank you, dear Heavenly Father, that You have given me Your Holy Spirit, who teaches me to trust and have faith. Forgive me, where I trusted my experiences more than Your Word and thus have acted in unbelief. Train me so I can grow in faith. I want to learn to see things from Your perspective in every situation, to focus on what happens in the spiritual realm and not the visible realm. Help me to understand Your Word and Your perspective more and more.”"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "You can pray the following prayer: “Thank you, dear Heavenly Father, that You have given me Your Holy Spirit, who teaches me to trust and have faith. Forgive me, where I trusted my experiences more than Your Word and thus have acted in unbelief. Train me so I can grow in faith. I want to learn to see things from Your perspective in every situation, to focus on what happens in the spiritual realm and not the visible realm. Help me to understand Your Word and Your perspective more and more.”"
+          }
+        ]
       }
     },
     {

@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -77,7 +80,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "马 太 福 音 28:18-20",
-        "html": "<sup>18</sup>耶 稣 上 前 对 门 徒 说 ： <p class=\"bible\"> “天上地下所有的权柄都交给我了。 <sup>19</sup>所以， 你们要去使万民做我的门徒， 奉父、 子、 圣灵的名给他们施洗， <sup>20</sup>教导他们遵守我吩咐你们的一切。 记住， 我必常与你们同在， 一直到世界的末了。” </p><p class=\"bible\"><br></p>",
+        "html": "<sup>18</sup>耶 稣 上 前 对 门 徒 说 ： <p> “天上地下所有的权柄都交给我了。 <sup>19</sup>所以， 你们要去使万民做我的门徒， 奉父、 子、 圣灵的名给他们施洗， <sup>20</sup>教导他们遵守我吩咐你们的一切。 记住， 我必常与你们同在， 一直到世界的末了。” </p>",
         "url": "https://biblegateway.com/passage/?search=Matthew%2028:18-20&version=CCB",
         "isOpen": false
       }
@@ -125,15 +128,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 你打算在身边传福音了吗？—两人一组，虔诚祈祷大使命是生命第一要义。祈祷自己能够在同学间传道，让他们成为耶稣门徒。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<span class=\"unknown\"><span class=\"unknown\"> ▶ 为你祈祷列表上的名字祷告。（见：感动主的祷告） </span></span>"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "你打算在身边传福音了吗？—两人一组，虔诚祈祷大使命是生命第一要义。祈祷自己能够在同学间传道，让他们成为耶稣门徒。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "为你祈祷列表上的名字祷告。（见：感动主的祷告）"
+          }
+        ]
       }
     },
     {

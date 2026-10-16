@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where you need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthew 4:18-220",
-        "html": "<p class=\"bible\"><sup>18</sup> As Jesus was walking beside the Sea of Galilee, he saw two brothers, Simon called Peter and his brother Andrew. They were casting a net into the lake, for they were fishermen. <sup>19</sup> “Come, follow me,” Jesus said, “and I will send you out to fish for people.” <sup>20</sup><span class=\"unknown\"> At once they left their nets and followed him. </span></p><p class=\"bible\"><sup>21</sup>Going on from there, he saw two other brothers, James son of Zebedee and his brother John. They were in a boat with their father Zebedee, preparing their nets. Jesus called them,<sup>22</sup>and immediately they left the boat and their father and followed him.</p><p class=\"bible\"></p>",
+        "html": "<p><sup>18</sup> As Jesus was walking beside the Sea of Galilee, he saw two brothers, Simon called Peter and his brother Andrew. They were casting a net into the lake, for they were fishermen. <sup>19</sup> “Come, follow me,” Jesus said, “and I will send you out to fish for people.” <sup>20</sup> At once they left their nets and followed him. </p><p><sup>21</sup>Going on from there, he saw two other brothers, James son of Zebedee and his brother John. They were in a boat with their father Zebedee, preparing their nets. Jesus called them,<sup>22</sup>and immediately they left the boat and their father and followed him.</p>",
         "url": "https://biblegateway.com/passage/?search=Matthew%204:18-22&version=TNIV",
         "isOpen": false
       }
@@ -80,7 +83,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "1 Kings 19:19-21",
-        "html": "<p class=\"bible\"><sup>19</sup> So Elijah went from there and found Elisha son of Shaphat. He was plowing with twelve yoke of oxen, and he himself was driving the twelfth pair. Elijah went up to him and threw his cloak around him. <sup>20</sup> Elisha then left his oxen and ran after Elijah. “Let me kiss my father and mother goodbye,” he said, “and then I will come with you.” </p><p class=\"bible\">“Go back,” Elijah replied. “What have I done to you?”</p><p class=\"bible\"><sup>21</sup>So Elisha left him and went back. He took his yoke of oxen and slaughtered them. He burned the plowing equipment to cook the meat and gave it to the people, and they ate. Then he set out to follow Elijah and became his servant.</p><p class=\"bible\"></p>",
+        "html": "<p><sup>19</sup> So Elijah went from there and found Elisha son of Shaphat. He was plowing with twelve yoke of oxen, and he himself was driving the twelfth pair. Elijah went up to him and threw his cloak around him. <sup>20</sup> Elisha then left his oxen and ran after Elijah. “Let me kiss my father and mother goodbye,” he said, “and then I will come with you.” </p><p>“Go back,” Elijah replied. “What have I done to you?”</p><p><sup>21</sup>So Elisha left him and went back. He took his yoke of oxen and slaughtered them. He burned the plowing equipment to cook the meat and gave it to the people, and they ate. Then he set out to follow Elijah and became his servant.</p>",
         "url": "https://biblegateway.com/passage/?search=1%20Kings%2019:19-21&version=TNIV",
         "isOpen": false
       }
@@ -130,27 +133,26 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Silent prayer (everyone for themselves). Ask Jesus whether there is something that keeps you from fully trusting and following him (e.g. a habit, a false commitment, an attitude, a relationship, a certain way of thinking). Share it with someone in the group right now and give him/her permission to hold you accountable."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray in groups of 2-3. Express your devotion to Jesus that you trust him fully also on your campus, university or community. Proclaim that he is your number one priority and that you want to do what he will tell you."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Write down 5 people you want to pray for, so they give their life to Christ and start following him. As a praying aid, write their names on post-it notes and put them on your bathroom mirror, the frigde, etc, or you can write them on a bookmark, set a reminder on your smartphone, etc."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray in groups of 2-3 for these people."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Silent prayer (everyone for themselves). Ask Jesus whether there is something that keeps you from fully trusting and following him (e.g. a habit, a false commitment, an attitude, a relationship, a certain way of thinking). Share it with someone in the group right now and give him/her permission to hold you accountable."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray in groups of 2-3. Express your devotion to Jesus that you trust him fully also on your campus, university or community. Proclaim that he is your number one priority and that you want to do what he will tell you."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Write down 5 people you want to pray for, so they give their life to Christ and start following him. As a praying aid, write their names on post-it notes and put them on your bathroom mirror, the frigde, etc, or you can write them on a bookmark, set a reminder on your smartphone, etc."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray in groups of 2-3 for these people."
+          }
+        ]
       }
     },
     {

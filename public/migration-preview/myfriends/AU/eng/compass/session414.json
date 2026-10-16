@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where you need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "2 Timothy 4:9-17",
-        "html": "<p class=\"bible\"><sup>9</sup>Do your best to come to me quickly,<sup>10</sup>for Demas, because he loved this world, has deserted me and has gone to Thessalonica. Crescens has gone to Galatia, and Titus to Dalmatia.<sup>11</sup>Only Luke is with me. Get Mark and bring him with you, because he is helpful to me in my ministry.<sup>12</sup>I sent Tychicus to Ephesus.<sup>13</sup>When you come, bring the cloak that I left with Carpus at Troas, and my scrolls, especially the parchments.</p><p class=\"bible\"><sup>14</sup>Alexander the metalworker did me a great deal of harm. The Lord will repay him for what he has done.<sup>15</sup>You too should be on your guard against him, because he strongly opposed our message.</p><p class=\"bible\"><sup>16</sup>At my first defense, no one came to my support, but everyone deserted me. May it not be held against them.<sup>17</sup>But the Lord stood at my side and gave me strength, so that through me the message might be fully proclaimed and all the Gentiles might hear it. And I was delivered from the lion’s mouth.</p><p class=\"bible\"></p>",
+        "html": "<p><sup>9</sup>Do your best to come to me quickly,<sup>10</sup>for Demas, because he loved this world, has deserted me and has gone to Thessalonica. Crescens has gone to Galatia, and Titus to Dalmatia.<sup>11</sup>Only Luke is with me. Get Mark and bring him with you, because he is helpful to me in my ministry.<sup>12</sup>I sent Tychicus to Ephesus.<sup>13</sup>When you come, bring the cloak that I left with Carpus at Troas, and my scrolls, especially the parchments.</p><p><sup>14</sup>Alexander the metalworker did me a great deal of harm. The Lord will repay him for what he has done.<sup>15</sup>You too should be on your guard against him, because he strongly opposed our message.</p><p><sup>16</sup>At my first defense, no one came to my support, but everyone deserted me. May it not be held against them.<sup>17</sup>But the Lord stood at my side and gave me strength, so that through me the message might be fully proclaimed and all the Gentiles might hear it. And I was delivered from the lion’s mouth.</p>",
         "url": "https://biblegateway.com/passage/?search=2%20Timothy%204:9-17&version=TNIV",
         "isOpen": false
       }
@@ -80,7 +83,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Ephesians 4:31-32",
-        "html": "<p class=\"bible\"><sup>31</sup>Get rid of all bitterness, rage and anger, brawling and slander, along with every form of malice.<sup>32</sup>Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.</p><p class=\"bible\"></p>",
+        "html": "<p><sup>31</sup>Get rid of all bitterness, rage and anger, brawling and slander, along with every form of malice.<sup>32</sup>Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.</p>",
         "url": "https://biblegateway.com/passage/?search=Ephesians%204:31-32&version=TNIV",
         "isOpen": false
       }
@@ -116,7 +119,7 @@
         "style": "ordered",
         "items": [
           "Do you remember a situation, where you were left behind? Or where someone treated you in a way you didn’t deserve? Ask the Holy Spirit to show you situations (everyone by themselves).",
-          "What is the <span class=\"unknown\">“</span>fruit” in our lives, if we don’t forgive people who sinned against us? (Ephesians 4:31)",
+          "What is the “fruit” in our lives, if we don’t forgive people who sinned against us? (Ephesians 4:31)",
           "Can you observe such fruit in your life?",
           "How did Paul deal with people who did him wrong? Read the scripture comments after talking about this question."
         ]
@@ -135,21 +138,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ <strong>Identify:</strong> Take time to note on a piece of paper the names of a few people who have hurt you. Also list what kind of reaction/emotions (anger, fear, retreat, and so on) you had as a result of their actions. Now you can read these notes to God in a prayer. You can pray like this: “Heavenly father, I confess now what ___________ did to me.” (call out the name and the injury). It is important that we first identify what happened to us before we move on to the next step."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶<strong>Forgive:</strong> Then you can forgive this person. You can pray like this: “Heavenly father, I forgive ___________ (enter name). I give him/her into Your hand. I bless him/her and decide to hold no grudge against him/her.”"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶<strong> Receive:</strong> Let yourself be <em>filled</em> anew with God’s love: Pray according to Ephesians 3:17-19 – in groups of two or three – that God will fill you anew with His love and the Holy Spirit."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Identify: Take time to note on a piece of paper the names of a few people who have hurt you. Also list what kind of reaction/emotions (anger, fear, retreat, and so on) you had as a result of their actions. Now you can read these notes to God in a prayer. You can pray like this: “Heavenly father, I confess now what ___________ did to me.” (call out the name and the injury). It is important that we first identify what happened to us before we move on to the next step."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Forgive: Then you can forgive this person. You can pray like this: “Heavenly father, I forgive ___________ (enter name). I give him/her into Your hand. I bless him/her and decide to hold no grudge against him/her.”"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Receive: Let yourself be filled anew with God’s love: Pray according to Ephesians 3:17-19 – in groups of two or three – that God will fill you anew with His love and the Holy Spirit."
+          }
+        ]
       }
     },
     {
@@ -162,13 +166,13 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "Forgive people who sinned against you. This step is important, because we are not made to deal with guilt and sin. It does not matter whether it is our own sin, or situations where people sinned against us.<br> When we forgive, it doesn’t mean we approve of what has been done and say that it was <span class=\"unknown\">“OK</span>”. Rather, we hand over the right for redemption to Jesus."
+                "text": "Forgive people who sinned against you. This step is important, because we are not made to deal with guilt and sin. It does not matter whether it is our own sin, or situations where people sinned against us.<br> When we forgive, it doesn’t mean we approve of what has been done and say that it was “OK”. Rather, we hand over the right for redemption to Jesus."
               }
             },
             {
               "type": "paragraph",
               "data": {
-                "text": "Sin always needs to be brought to the cross! Unforgiveness will always bind us to a person. Only forgiveness cuts that bond and will make you truly free! Forgiveness opens the gates of heaven over you so that you can be blessed. It disrupts destructive influences and frees you to live a life in the power and authority of the Lord. Also, don’t forget that forgiveness starts in the will, not emotions. So you don’t have to <span class=\"unknown\">“</span>feel like” you want to forgive. Just forgive. Emotions often follow later."
+                "text": "Sin always needs to be brought to the cross! Unforgiveness will always bind us to a person. Only forgiveness cuts that bond and will make you truly free! Forgiveness opens the gates of heaven over you so that you can be blessed. It disrupts destructive influences and frees you to live a life in the power and authority of the Lord. Also, don’t forget that forgiveness starts in the will, not emotions. So you don’t have to “feel like” you want to forgive. Just forgive. Emotions often follow later."
               }
             },
             {

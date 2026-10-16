@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -65,15 +68,6 @@
           "一人用自己的话复述所读的内容（合上圣经）",
           "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
         ]
-      }
-    },
-    {
-      "type": "biblePassage",
-      "data": {
-        "reference": "使徒行傳 2:42-47; 希伯來書 10:24-25",
-        "html": "",
-        "url": "",
-        "isOpen": false
       }
     },
     {
@@ -108,7 +102,7 @@
         "items": [
           "你所在的<span style=\"background-color: #ffffff;\">社团有</span>哪些方面挑战着你？",
           "你可以为你的小组贡献什么来让它更坚固、强大？（每人写下一两条想法在组内讨论）",
-          "<span style=\"background-color: #ffffff;\">以一个小组</span>，你们该怎样让你的<span style=\"background-color: #ffffff;\">学院</span>和同学知道上帝的存在？<span style=\"background-color: #ffffff;\">有什么活动你们可以一起组织</span>？（见圣经注解）？<span class=\"unknown\">每人写下两到三条想法在组内讨论。</span>"
+          "<span style=\"background-color: #ffffff;\">以一个小组</span>，你们该怎样让你的<span style=\"background-color: #ffffff;\">学院</span>和同学知道上帝的存在？<span style=\"background-color: #ffffff;\">有什么活动你们可以一起组织</span>？（见圣经注解）？每人写下两到三条想法在组内讨论。"
         ]
       }
     },
@@ -119,21 +113,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<span class=\"unknown\"><span class=\"unknown\">▶ 祈祷你与主的关系和人际关系更紧密。</span></span>"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 在祈祷中让自己更能为主所用，让主利用你的小组将上帝存在带进你的大学（见圣经注解）。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<span class=\"unknown\">▶ 为你名单上的人祈祷（见“感动上帝的祈祷”）。</span>"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "祈祷你与主的关系和人际关系更紧密。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "在祈祷中让自己更能为主所用，让主利用你的小组将上帝存在带进你的大学（见圣经注解）。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "为你名单上的人祈祷（见“感动上帝的祈祷”）。"
+          }
+        ]
       }
     },
     {

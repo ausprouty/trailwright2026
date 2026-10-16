@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where you need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -77,7 +80,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Daniel 6:1-17",
-        "html": "<p class=\"bible\"><sup>1</sup>It pleased Darius to appoint 120 satraps to rule throughout the kingdom, <sup>2</sup> with three administrators over them, one of whom was Daniel. The satraps were made accountable to them so that the king might not suffer loss. <sup>3</sup> Now Daniel so distinguished himself among the administrators and the satraps by his exceptional qualities that the king planned to set him over the whole kingdom. <sup>4</sup> At this, the administrators and the satraps tried to find grounds for charges against Daniel in his conduct of government affairs, but they were unable to do so. They could find no corruption in him, because he was trustworthy and neither corrupt nor negligent. <sup>5</sup> Finally these men said, “We will never find any basis for charges against this man Daniel unless it has something to do with the law of his God.” </p><p class=\"bible\"><sup>6</sup>So these administrators and satraps went as a group to the king and said: “May King Darius live forever! <sup>7</sup>The royal administrators, prefects, satraps, advisers and governors have all agreed that the king should issue an edict and enforce the decree that anyone who prays to any god or human being during the next thirty days, except to you, Your Majesty, shall be thrown into the lions’ den. <sup>8</sup>Now, Your Majesty, issue the decree and put it in writing so that it cannot be altered—in accordance with the law of the Medes and Persians, which cannot be repealed.”<sup>9</sup>So King Darius put the decree in writing.</p><p class=\"bible\"><sup>10</sup>Now when Daniel learned that the decree had been published, he went home to his upstairs room where the windows opened toward Jerusalem. Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before.<sup>11</sup>Then these men went as a group and found Daniel praying and asking God for help.<sup>12</sup>So they went to the king and spoke to him about his royal decree: “Did you not publish a decree that during the next thirty days anyone who prays to any god or human being except to you, Your Majesty, would be thrown into the lions’ den?”</p><p class=\"bible\">The king answered, “The decree stands—in accordance with the law of the Medes and Persians, which cannot be repealed.”</p><p class=\"bible\"><sup>13</sup>Then they said to the king, “Daniel, who is one of the exiles from Judah, pays no attention to you, Your Majesty, or to the decree you put in writing. He still prays three times a day.”<sup>14</sup>When the king heard this, he was greatly distressed; he was determined to rescue Daniel and made every effort until sundown to save him.</p><p class=\"bible\"><sup>15</sup>Then the men went as a group to King Darius and said to him, “Remember, Your Majesty, that according to the law of the Medes and Persians no decree or edict that the king issues can be changed.”</p><p class=\"bible\"><sup>16</sup>So the king gave the order, and they brought Daniel and threw him into the lions’ den. The king said to Daniel, “May your God, whom you serve continually, rescue you!”</p><p class=\"bible\"><sup>17</sup>A stone was brought and placed over the mouth of the den, and the king sealed it with his own signet ring and with the rings of his nobles, so that Daniel’s situation might not be changed.</p><p class=\"bible\"></p>",
+        "html": "<p><sup>1</sup>It pleased Darius to appoint 120 satraps to rule throughout the kingdom, <sup>2</sup> with three administrators over them, one of whom was Daniel. The satraps were made accountable to them so that the king might not suffer loss. <sup>3</sup> Now Daniel so distinguished himself among the administrators and the satraps by his exceptional qualities that the king planned to set him over the whole kingdom. <sup>4</sup> At this, the administrators and the satraps tried to find grounds for charges against Daniel in his conduct of government affairs, but they were unable to do so. They could find no corruption in him, because he was trustworthy and neither corrupt nor negligent. <sup>5</sup> Finally these men said, “We will never find any basis for charges against this man Daniel unless it has something to do with the law of his God.” </p><p><sup>6</sup>So these administrators and satraps went as a group to the king and said: “May King Darius live forever! <sup>7</sup>The royal administrators, prefects, satraps, advisers and governors have all agreed that the king should issue an edict and enforce the decree that anyone who prays to any god or human being during the next thirty days, except to you, Your Majesty, shall be thrown into the lions’ den. <sup>8</sup>Now, Your Majesty, issue the decree and put it in writing so that it cannot be altered—in accordance with the law of the Medes and Persians, which cannot be repealed.”<sup>9</sup>So King Darius put the decree in writing.</p><p><sup>10</sup>Now when Daniel learned that the decree had been published, he went home to his upstairs room where the windows opened toward Jerusalem. Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before.<sup>11</sup>Then these men went as a group and found Daniel praying and asking God for help.<sup>12</sup>So they went to the king and spoke to him about his royal decree: “Did you not publish a decree that during the next thirty days anyone who prays to any god or human being except to you, Your Majesty, would be thrown into the lions’ den?”</p><p>The king answered, “The decree stands—in accordance with the law of the Medes and Persians, which cannot be repealed.”</p><p><sup>13</sup>Then they said to the king, “Daniel, who is one of the exiles from Judah, pays no attention to you, Your Majesty, or to the decree you put in writing. He still prays three times a day.”<sup>14</sup>When the king heard this, he was greatly distressed; he was determined to rescue Daniel and made every effort until sundown to save him.</p><p><sup>15</sup>Then the men went as a group to King Darius and said to him, “Remember, Your Majesty, that according to the law of the Medes and Persians no decree or edict that the king issues can be changed.”</p><p><sup>16</sup>So the king gave the order, and they brought Daniel and threw him into the lions’ den. The king said to Daniel, “May your God, whom you serve continually, rescue you!”</p><p><sup>17</sup>A stone was brought and placed over the mouth of the den, and the king sealed it with his own signet ring and with the rings of his nobles, so that Daniel’s situation might not be changed.</p>",
         "url": "https://biblegateway.com/passage/?search=Daniel%206:1-17&version=TNIV",
         "isOpen": false
       }
@@ -124,15 +127,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray (in groups of two to three people) for courage and faith to be obedient to God in all situations, where you work, study and relax."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray that each of you can better hear the Holy Spirit’s voice in everyday situations."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray (in groups of two to three people) for courage and faith to be obedient to God in all situations, where you work, study and relax."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray that each of you can better hear the Holy Spirit’s voice in everyday situations."
+          }
+        ]
       }
     },
     {
@@ -145,7 +151,7 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "Daniel was probably still a teenager (maybe 15 or 16 years old) when he was brought to the Babylonian court. Even at this young age the Babylonian program for re-education did not work on him and his group (see Daniel 1:1-16)! They remained faithful to the God of Israel and His values. The only thing the Babylonians could change were their names: Daniel (<span class=\"unknown\"> “ </span>God is my judge”) was named Belteshazzar (<span class=\"unknown\"> “ </span>Bel to protect the King”), Mishael (<span class=\"unknown\">“</span>Who is like God?”) was named Mesach (<span class=\"unknown\">“</span>Who is like Aku – the God of the moon?”), Hananiah (<span class=\"unknown\">“</span>God is gracious”) was named Shadrach (<span class=\"unknown\">“</span>command of Aku”), Asarja (<span class=\"unknown\">“</span>Jahwe will help”) was named Abed-Nego (<span class=\"unknown\">“</span>Nebo’s Slave”)."
+                "text": "Daniel was probably still a teenager (maybe 15 or 16 years old) when he was brought to the Babylonian court. Even at this young age the Babylonian program for re-education did not work on him and his group (see Daniel 1:1-16)! They remained faithful to the God of Israel and His values. The only thing the Babylonians could change were their names: Daniel ( “ God is my judge”) was named Belteshazzar ( “ Bel to protect the King”), Mishael (“Who is like God?”) was named Mesach (“Who is like Aku – the God of the moon?”), Hananiah (“God is gracious”) was named Shadrach (“command of Aku”), Asarja (“Jahwe will help”) was named Abed-Nego (“Nebo’s Slave”)."
               }
             },
             {

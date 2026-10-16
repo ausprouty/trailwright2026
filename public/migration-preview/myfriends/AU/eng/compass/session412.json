@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where you need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Luke 8:5-6",
-        "html": "<p class=\"bible\"><sup>5</sup> “A farmer went out to sow his seed. As he was scattering the seed, some fell along the path; it was trampled on, and the birds ate it up. <sup>6</sup> Some fell on rocky ground, and when it came up, the plants withered because they had no moisture. </p><p class=\"bible\"></p>",
+        "html": "<p><sup>5</sup> “A farmer went out to sow his seed. As he was scattering the seed, some fell along the path; it was trampled on, and the birds ate it up. <sup>6</sup> Some fell on rocky ground, and when it came up, the plants withered because they had no moisture. </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%208:5-6&version=TNIV",
         "isOpen": false
       }
@@ -80,7 +83,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Luke 8:11-15",
-        "html": "<p class=\"bible\"><sup>11</sup> “This is the meaning of the parable: The seed is the word of God. <sup>12</sup> Those along the path are the ones who hear, and then the devil comes and takes away the word from their hearts, so that they may not believe and be saved. <sup>13</sup> Those on the rocky ground are the ones who receive the word with joy when they hear it, but they have no root. They believe for a while, but in the time of testing they fall away. <sup>14</sup> The seed that fell among thorns stands for those who hear, but as they go on their way they are choked by life’s worries, riches and pleasures, and they do not mature. <sup>15</sup> But the seed on good soil stands for those with a noble and good heart, who hear the word, retain it, and by persevering produce a crop. </p><p class=\"bible\"></p>",
+        "html": "<p><sup>11</sup> “This is the meaning of the parable: The seed is the word of God. <sup>12</sup> Those along the path are the ones who hear, and then the devil comes and takes away the word from their hearts, so that they may not believe and be saved. <sup>13</sup> Those on the rocky ground are the ones who receive the word with joy when they hear it, but they have no root. They believe for a while, but in the time of testing they fall away. <sup>14</sup> The seed that fell among thorns stands for those who hear, but as they go on their way they are choked by life’s worries, riches and pleasures, and they do not mature. <sup>15</sup> But the seed on good soil stands for those with a noble and good heart, who hear the word, retain it, and by persevering produce a crop. </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%208:11-15&version=TNIV",
         "isOpen": false
       }
@@ -128,15 +131,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Do you meet these requirements? What would you like to hold on to from what you‘ve learned today? Note this down individually, then present it in the whole group"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Tell it God in a prayer (in groups of two or three)."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Do you meet these requirements? What would you like to hold on to from what you‘ve learned today? Note this down individually, then present it in the whole group"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Tell it God in a prayer (in groups of two or three)."
+          }
+        ]
       }
     },
     {
@@ -149,13 +155,13 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "The Word of God is the written (Bible), but also the living Word (Jesus). It is the essence which I discover while reading the Bible, but also when the Holy Spirit speaks to me.<br> The Word of God is compared to a seed. Similar to a seed, all the essentials are encompassed in the Word of God, including the necessary power to grow (Hebrews 4:12: <span class=\"unknown\">“</span>For the word of God is alive and active.”)."
+                "text": "The Word of God is the written (Bible), but also the living Word (Jesus). It is the essence which I discover while reading the Bible, but also when the Holy Spirit speaks to me.<br> The Word of God is compared to a seed. Similar to a seed, all the essentials are encompassed in the Word of God, including the necessary power to grow (Hebrews 4:12: “For the word of God is alive and active.”)."
               }
             },
             {
               "type": "paragraph",
               "data": {
-                "text": "Jesus tells another parable relating to seed: Mark 4:26-29. The man is completely clueless how the seed grows exactly. It <span class=\"unknown\">“</span>simply happens” after the seed was sown. Many Christians try hard to grow spiritually. But the New Testament teaches us that the Holy Spirit will provide growth, if we are faithful in our part of the equation:"
+                "text": "Jesus tells another parable relating to seed: Mark 4:26-29. The man is completely clueless how the seed grows exactly. It “simply happens” after the seed was sown. Many Christians try hard to grow spiritually. But the New Testament teaches us that the Holy Spirit will provide growth, if we are faithful in our part of the equation:"
               }
             },
             {

@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "马 太 福 音 9:20-22; 27-29",
-        "html": "<p class=\"bible\"><sup>20</sup>途中， 有一个患了十二年血漏病的女人挤到耶稣的背后， 摸了一下祂衣服的穗边， <sup>21</sup>因为她心想： “我只要摸到祂的衣服， 病就会好。” <sup>22</sup>耶稣转过头来， 看见她， 就说： “女儿， 放心吧， 你的信心救了你。” 就在那一刻， 她的顽疾痊愈了。 </p><p class=\"bible\"><sup>27</sup>耶稣从那里往前走， 有两个瞎子跟着祂， 高声呼叫： “大卫的后裔啊， 可怜我们吧！” </p><p class=\"bible\"><sup>28</sup>耶稣进了房子， 那两个瞎子来到祂面前。 耶稣问他们： “你们相信我能做这事吗？” 他们说： “主啊， 我们相信。” </p><p class=\"bible\"><sup>29</sup>于是， 耶稣摸他们的眼睛， 并说： “照你们的信心成全你们吧。” </p><div class=\"publisher-info-bottom\"></div><p class=\"bible\"><!-- begin publisher --></p><div class=\"publisher\"></div>",
+        "html": "<p><sup>20</sup>途中， 有一个患了十二年血漏病的女人挤到耶稣的背后， 摸了一下祂衣服的穗边， <sup>21</sup>因为她心想： “我只要摸到祂的衣服， 病就会好。” <sup>22</sup>耶稣转过头来， 看见她， 就说： “女儿， 放心吧， 你的信心救了你。” 就在那一刻， 她的顽疾痊愈了。 </p><p><sup>27</sup>耶稣从那里往前走， 有两个瞎子跟着祂， 高声呼叫： “大卫的后裔啊， 可怜我们吧！” </p><p><sup>28</sup>耶稣进了房子， 那两个瞎子来到祂面前。 耶稣问他们： “你们相信我能做这事吗？” 他们说： “主啊， 我们相信。” </p><p><sup>29</sup>于是， 耶稣摸他们的眼睛， 并说： “照你们的信心成全你们吧。” </p><div class=\"publisher-info-bottom\"></div><div class=\"publisher\"></div>",
         "url": "https://biblegateway.com/passage/?search=Matthew%209:27-29&version=CCB",
         "isOpen": false
       }
@@ -120,9 +123,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 你可以这样祷告：“亲爱的天父，谢谢<span style=\"background-color: #ffffff;\">您</span>，<span style=\"background-color: #ffffff;\">您</span>已经赐给我你的圣灵，教我相信并拥有信心。原谅我曾经相信自己的经验胜过信你的圣言，原谅我曾在怀疑中行事。请<span style=\"background-color: #ffffff;\">您</span>栽培我，这样我才能在信心中成长。我希望无论何时都会从<span style=\"background-color: #ffffff;\">您</span>的角度看事物，专注于精神上发生的事情，而不是可见领域发生的事。请帮助我更深刻地理解你的话语和想法。“"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "你可以这样祷告：“亲爱的天父，谢谢您，您已经赐给我你的圣灵，教我相信并拥有信心。原谅我曾经相信自己的经验胜过信你的圣言，原谅我曾在怀疑中行事。请您栽培我，这样我才能在信心中成长。我希望无论何时都会从您的角度看事物，专注于精神上发生的事情，而不是可见领域发生的事。请帮助我更深刻地理解你的话语和想法。“"
+          }
+        ]
       }
     },
     {

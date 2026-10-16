@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -71,15 +74,6 @@
           "一人用自己的话复述所读的内容（合上圣经）",
           "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
         ]
-      }
-    },
-    {
-      "type": "biblePassage",
-      "data": {
-        "reference": "但以理書 6:1-17",
-        "html": "",
-        "url": "",
-        "isOpen": false
       }
     },
     {
@@ -124,15 +118,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 以两到三人为一组祈祷，祈求在各种情况下（工作，生活，休闲）<span style=\"background-color: #ffffff;\">拥有</span>遵从上帝的勇气和信心。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷每个人都能在任何时刻更<span style=\"background-color: #ffffff;\">明确</span>地听见圣灵的声音。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "以两到三人为一组祈祷，祈求在各种情况下（工作，生活，休闲）拥有遵从上帝的勇气和信心。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷每个人都能在任何时刻更明确地听见圣灵的声音。"
+          }
+        ]
       }
     },
     {

@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -58,7 +61,7 @@
     {
       "type": "paragraph",
       "data": {
-        "text": "背景：彼得和约翰当时正在向众人宣讲基督的复活。因为守殿官和撒都该人被他们的讲道冒犯了，他们 <span class=\"unknown\">随后被犹太公会逮捕并审问</span> 。公会威胁他们如果再次谈到耶稣就<span style=\"background-color: #ffffff;\"> 必须面对严重 </span>后果，<span style=\"background-color: #ffffff;\">之后他们</span>就被释放了。"
+        "text": "背景：彼得和约翰当时正在向众人宣讲基督的复活。因为守殿官和撒都该人被他们的讲道冒犯了，他们 随后被犹太公会逮捕并审问 。公会威胁他们如果再次谈到耶稣就<span style=\"background-color: #ffffff;\"> 必须面对严重 </span>后果，<span style=\"background-color: #ffffff;\">之后他们</span>就被释放了。"
       }
     },
     {
@@ -71,15 +74,6 @@
           "一人用自己的话复述所读的内容（合上圣经）",
           "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
         ]
-      }
-    },
-    {
-      "type": "biblePassage",
-      "data": {
-        "reference": "使徒行傳 4:23-31",
-        "html": "",
-        "url": "",
-        "isOpen": false
       }
     },
     {
@@ -124,22 +118,24 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 祷告时将这些告诉耶稣（两三人一组）。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "祷告时将这些告诉耶稣（两三人一组）。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷被圣灵充满，祈祷自己变得勇敢无畏，并且在你的（学生）朋友中，你生命中与耶稣的联系更加可见。"
+          }
+        ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iWill",
       "data": {
-        "text": "▶ 祈祷被圣灵充满，祈祷自己变得勇敢无畏，并且在你的（学生）朋友中，你生命中与耶稣的联系更加可见。"
-      }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "note"
+        "storageKey": "compass-session427-i-will"
       }
     }
   ]

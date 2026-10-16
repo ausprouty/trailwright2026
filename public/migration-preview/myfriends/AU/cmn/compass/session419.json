@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "马 可 福 音 3:13-19",
-        "html": "<p class=\"bible\"><sup>13</sup>耶稣上了山， 把合自己心意的人召集到跟前， <sup>14</sup>从中选出十二个人， 设立他们为使徒， 让他们跟随自己， 并且差遣他们出去传道， <sup>15</sup>赐他们赶鬼的权柄。</p><p class=\"bible\"><sup>16</sup>这十二位使徒是： 西门 — — 耶稣给他取名叫彼得、 <sup>17</sup>西庇太的儿子雅各和雅各的兄弟约翰 — — 耶稣给他们取名叫 “半尼其”， 就是 “雷霆之子” 的意思、 <sup>18</sup>安得烈、 腓力、 巴多罗买、 马太、 多马、 亚勒腓的儿子雅各、 达太、 激进党人西门、{' '} <sup>19</sup>及后来出卖耶稣的加略人犹大。</p><div class=\"publisher-info-bottom\"><p class=\"bible\"></p></div>",
+        "html": "<p><sup>13</sup>耶稣上了山， 把合自己心意的人召集到跟前， <sup>14</sup>从中选出十二个人， 设立他们为使徒， 让他们跟随自己， 并且差遣他们出去传道， <sup>15</sup>赐他们赶鬼的权柄。</p><p><sup>16</sup>这十二位使徒是： 西门 — — 耶稣给他取名叫彼得、 <sup>17</sup>西庇太的儿子雅各和雅各的兄弟约翰 — — 耶稣给他们取名叫 “半尼其”， 就是 “雷霆之子” 的意思、 <sup>18</sup>安得烈、 腓力、 巴多罗买、 马太、 多马、 亚勒腓的儿子雅各、 达太、 激进党人西门、{' '} <sup>19</sup>及后来出卖耶稣的加略人犹大。</p><div class=\"publisher-info-bottom\"></div>",
         "url": "https://biblegateway.com/passage/?search=Mark%203:13-19&version=CCB",
         "isOpen": false
       }
@@ -122,15 +125,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一同祈祷，让自己成为一名使徒。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 请求上帝让圣灵充满你（你可以练习“充满”那一节的步骤）"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一同祈祷，让自己成为一名使徒。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "请求上帝让圣灵充满你（你可以练习“充满”那一节的步骤）"
+          }
+        ]
       }
     },
     {

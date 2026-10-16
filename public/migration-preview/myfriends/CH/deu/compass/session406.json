@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft\nund eure Freundschaft zu Gott stärker und tiefer wird."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 5, 27-32",
-        "html": "<p class=\"bible\"><sup>27</sup>Als Jesus danach weiterging und am Zollhaus vorbeikam, sah er dort einen Zolleinnehmer sitzen, einen Mann namens Levi. Jesus sagte zu ihm: »Folge mir nach!«<sup>28</sup>Da stand Levi auf, ließ alles zurück und folgte Jesus. </p><p class=\"bible\"><sup>29</sup>Levi gab Jesus zu Ehren in seinem Haus ein großes Fest. Zusammen mit Jesus und seinen Jüngern nahmen zahlreiche Zolleinnehmer und andere ´Leute von zweifelhaftem Ruf` an dem Essen teil.<sup> 30 </sup>Die Pharisäer und ihre Anhänger unter den Schriftgelehrten waren darüber empört und stellten die Jünger zur Rede. »Wie könnt ihr nur zusammen mit Zolleinnehmern und Sündern essen und trinken?«, sagten sie.<sup> 31 </sup>Jesus selbst gab ihnen die Antwort: »Nicht die Gesunden brauchen den Arzt, sondern die Kranken.<sup>32</sup>Ich bin nicht gekommen, um Gerechte zu rufen; ich bin gekommen, um Sünder zur Umkehr zu rufen.« </p><p class=\"bible\"><br></p>",
+        "html": "<p><sup>27</sup>Als Jesus danach weiterging und am Zollhaus vorbeikam, sah er dort einen Zolleinnehmer sitzen, einen Mann namens Levi. Jesus sagte zu ihm: »Folge mir nach!«<sup>28</sup>Da stand Levi auf, ließ alles zurück und folgte Jesus. </p><p><sup>29</sup>Levi gab Jesus zu Ehren in seinem Haus ein großes Fest. Zusammen mit Jesus und seinen Jüngern nahmen zahlreiche Zolleinnehmer und andere ´Leute von zweifelhaftem Ruf` an dem Essen teil.<sup> 30 </sup>Die Pharisäer und ihre Anhänger unter den Schriftgelehrten waren darüber empört und stellten die Jünger zur Rede. »Wie könnt ihr nur zusammen mit Zolleinnehmern und Sündern essen und trinken?«, sagten sie.<sup> 31 </sup>Jesus selbst gab ihnen die Antwort: »Nicht die Gesunden brauchen den Arzt, sondern die Kranken.<sup>32</sup>Ich bin nicht gekommen, um Gerechte zu rufen; ich bin gekommen, um Sünder zur Umkehr zu rufen.« </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%205:27-32&version=NGU-DE",
         "isOpen": false
       }
@@ -118,21 +121,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Was könnt ihr gemeinsam als Gruppe diesbezüglich auf die Beine stellen bzw. organisieren? Jeder schreibt sich 2-3 Ideen auf, dann sprecht in der Gruppe darüber."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Schreibe dir 5 Leute auf, die du einladen möchtest."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Betet für eure VIP’s, dass sich ihre Beziehungen zu euch vertiefen und sie Vertrauen in euch fassen."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Was könnt ihr gemeinsam als Gruppe diesbezüglich auf die Beine stellen\nbzw. organisieren? Jeder schreibt sich 2-3 Ideen auf, dann sprecht in der\nGruppe darüber."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Schreibe dir 5 Leute auf, die du einladen möchtest."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Betet für eure VIP’s, dass sich ihre Beziehungen zu euch vertiefen und sie\nVertrauen in euch fassen."
+          }
+        ]
       }
     },
     {

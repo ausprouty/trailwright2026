@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -65,15 +68,6 @@
           "一人用自己的话复述所读的内容（合上圣经）",
           "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
         ]
-      }
-    },
-    {
-      "type": "biblePassage",
-      "data": {
-        "reference": "路加福音 5:27-32",
-        "html": "",
-        "url": "",
-        "isOpen": false
       }
     },
     {
@@ -118,21 +112,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶<span style=\"background-color: #ffffff;\"><span style=\"background-color: #ffffff;\">作为</span>一个小组你们可以如何<span style=\"background-color: #ffffff;\">以</span></span>这个<span style=\"background-color: #ffffff;\">为</span>目的组办活动？快速思考，每人写下<font face=\"Calibri\">2-3</font><font face=\"宋体\">个想法，在组内讨论。</font>"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 写下五个你想邀请的朋友。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 为这五个人祈祷<span style=\"background-color: #ffffff;\">，</span>你和他们的关系<span style=\"background-color: #ffffff;\">会增强</span>，<span style=\"background-color: #ffffff;\">并</span><span style=\"background-color: #ffffff;\">建立彼此的信任</span>。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "作为一个小组你们可以如何以这个为目的组办活动？快速思考，每人写下2-3个想法，在组内讨论。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "写下五个你想邀请的朋友。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "为这五个人祈祷，你和他们的关系会增强，并建立彼此的信任。"
+          }
+        ]
       }
     },
     {

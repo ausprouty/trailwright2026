@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft\nund eure Freundschaft zu Gott stärker und tiefer wird."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 9, 20-22",
-        "html": "<p class=\"bible\"><sup>20</sup>Unterwegs drängte sich eine Frau, die seit zwölf Jahren an schweren Blutungen litt, von hinten an Jesus heran und berührte den Saum seines Gewandes,<sup>21</sup>denn sie sagte sich: »Wenn ich auch nur sein Gewand berühre, werde ich gesund.«<sup> 22 </sup>Jesus wandte sich um; er sah die Frau an und sagte zu ihr: »Du brauchst dich nicht zu fürchten, meine Tochter! Dein Glaube hat dich gerettet.« Von dem Augenblick an war die Frau gesund. </p><p class=\"bible\"><br></p>",
+        "html": "<p><sup>20</sup>Unterwegs drängte sich eine Frau, die seit zwölf Jahren an schweren Blutungen litt, von hinten an Jesus heran und berührte den Saum seines Gewandes,<sup>21</sup>denn sie sagte sich: »Wenn ich auch nur sein Gewand berühre, werde ich gesund.«<sup> 22 </sup>Jesus wandte sich um; er sah die Frau an und sagte zu ihr: »Du brauchst dich nicht zu fürchten, meine Tochter! Dein Glaube hat dich gerettet.« Von dem Augenblick an war die Frau gesund. </p>",
         "url": "https://biblegateway.com/passage/?search=Matthew%209:20-22&version=NGU-DE",
         "isOpen": false
       }
@@ -80,7 +83,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 9, 27-29",
-        "html": "<p class=\"bible\"><sup>27</sup>Als Jesus von dort weiterging, folgten ihm zwei Blinde und riefen: »Hab Erbarmen mit uns, Sohn Davids!«<sup> 28 </sup>Sowie er zu Hause angelangt war, traten sie näher. Er fragte sie: »Glaubt ihr denn, dass ich euch helfen kann?« – »Ja, Herr«, antworteten sie.<sup>29</sup>Darauf berührte er ihre Augen und sagte: »Was ihr geglaubt habt, soll geschehen.« </p><p class=\"bible\"><br><br></p>",
+        "html": "<p><sup>27</sup>Als Jesus von dort weiterging, folgten ihm zwei Blinde und riefen: »Hab Erbarmen mit uns, Sohn Davids!«<sup> 28 </sup>Sowie er zu Hause angelangt war, traten sie näher. Er fragte sie: »Glaubt ihr denn, dass ich euch helfen kann?« – »Ja, Herr«, antworteten sie.<sup>29</sup>Darauf berührte er ihre Augen und sagte: »Was ihr geglaubt habt, soll geschehen.« </p>",
         "url": "https://biblegateway.com/passage/?search=Matthew%209:27-29&version=NGU-DE",
         "isOpen": false
       }
@@ -128,9 +131,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Dieses Gebet kannst du sprechen „Danke, lieber Vater im Himmel, dass du mir den Heiligen Geist gegeben hast, der mich lehrt zu glau-ben und zu vertrauen. Vergib mir, wo ich meinen Erfahrungen mehr geglaubt habe als deinem Wort und somit im Unglauben handelte. Trainiere mich, dass ich im Glauben wachsen kann. Ich will lernen, dass ich mir in allen Situationen vor Augen halte, was du darüber denkst und nicht, was in der sichtbaren Welt abgeht. Hilf mir, dein Wort und deine Sichtweise immer besser zu verstehen.“"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Dieses Gebet kannst du sprechen „Danke, lieber Vater im Himmel, dass du\nmir den Heiligen Geist gegeben hast, der mich lehrt zu glau-ben und zu\nvertrauen. Vergib mir, wo ich meinen Erfahrungen mehr geglaubt habe als\ndeinem Wort und somit im Unglauben handelte. Trainiere mich, dass ich im\nGlauben wachsen kann. Ich will lernen, dass ich mir in allen Situationen vor\nAugen halte, was du darüber denkst und nicht, was in der sichtbaren Welt\nabgeht. Hilf mir, dein Wort und deine Sichtweise immer besser zu verstehen.“"
+          }
+        ]
       }
     },
     {

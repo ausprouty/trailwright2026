@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "路 加 福 音 1:80",
-        "html": "<div class=\"bible\"><sup>80</sup>那 孩 子 渐 渐 长 大 ， 心 灵 强 健 ， 在 向 以 色 列 人 公 开 露 面 之 前 ， 一 直 住 在 旷 野 。</div><div class=\"publisher-info-bottom\"></div><p class=\"bible\"></p>",
+        "html": "<div class=\"bible\"><sup>80</sup>那 孩 子 渐 渐 长 大 ， 心 灵 强 健 ， 在 向 以 色 列 人 公 开 露 面 之 前 ， 一 直 住 在 旷 野 。</div><div class=\"publisher-info-bottom\"></div>",
         "url": "https://biblegateway.com/passage/?search=Luke%201:80&version=CCB",
         "isOpen": false
       }
@@ -80,7 +83,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "路 加 福 音 3:1-2",
-        "html": "<p class=\"bible\"><sup>1</sup>凯撒提庇留执政第十五年， 本丢 · 彼拉多任犹太总督， 希律做加利利的分封王， 他的弟弟腓力做以土利亚和特拉可尼两地的分封王， 吕撒聂做亚比利尼的分封王， <sup>2</sup>亚那和该亚法当大祭司。 当时， 撒迦利亚的儿子约翰住在旷野， 上帝向他说话。</p><div class=\"publisher-info-bottom\"><div class=\"publisher-info-bottom\"><p class=\"bible\"></p><p class=\"bible\"><sup>12</sup>一天， 耶稣到山上整夜向上帝祷告。 <sup>13</sup>天明时分， 祂召集门徒， 从中选出十二人立为使徒。</p><div class=\"publisher-info-bottom\"><p class=\"bible\"><br></p></div></div></div>",
+        "html": "<p><sup>1</sup>凯撒提庇留执政第十五年， 本丢 · 彼拉多任犹太总督， 希律做加利利的分封王， 他的弟弟腓力做以土利亚和特拉可尼两地的分封王， 吕撒聂做亚比利尼的分封王， <sup>2</sup>亚那和该亚法当大祭司。 当时， 撒迦利亚的儿子约翰住在旷野， 上帝向他说话。</p><div class=\"publisher-info-bottom\"><div class=\"publisher-info-bottom\"><p><sup>12</sup>一天， 耶稣到山上整夜向上帝祷告。 <sup>13</sup>天明时分， 祂召集门徒， 从中选出十二人立为使徒。</p><div class=\"publisher-info-bottom\"></div></div></div>",
         "url": "https://biblegateway.com/passage/?search=Luke%203:1-2&version=CCB",
         "isOpen": false
       }

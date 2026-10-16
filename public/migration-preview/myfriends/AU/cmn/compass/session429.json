@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "使 徒 行 传 2:42-47",
-        "html": "<p class=\"bible\"><sup>42</sup>他们都一心遵守使徒的教导， 一起团契、 掰饼、 祷告。 </p><p class=\"bible\"><sup>43</sup>大家都满心敬畏上帝。 使徒又行了很多神迹奇事。 <sup>44</sup>信徒聚在一起， 共用所有的东西。 <sup>45</sup>他们把田产家业变卖了， 按照各人的需要把钱分给大家。 <sup>46</sup>他们天天同心合意地聚集在圣殿里敬拜上帝， 又在各人家中掰饼聚会， 以欢喜、 慷慨的心分享食物， <sup>47</sup>赞美上帝， 受到众人的喜爱。 主使得救的人数与日俱增。 </p><div class=\"publisher-info-bottom\"></div><p class=\"bible\"><br></p>",
+        "html": "<p><sup>42</sup>他们都一心遵守使徒的教导， 一起团契、 掰饼、 祷告。 </p><p><sup>43</sup>大家都满心敬畏上帝。 使徒又行了很多神迹奇事。 <sup>44</sup>信徒聚在一起， 共用所有的东西。 <sup>45</sup>他们把田产家业变卖了， 按照各人的需要把钱分给大家。 <sup>46</sup>他们天天同心合意地聚集在圣殿里敬拜上帝， 又在各人家中掰饼聚会， 以欢喜、 慷慨的心分享食物， <sup>47</sup>赞美上帝， 受到众人的喜爱。 主使得救的人数与日俱增。 </p><div class=\"publisher-info-bottom\"></div>",
         "url": "https://biblegateway.com/passage/?search=Acts%202:42-47&version=CCB",
         "isOpen": false
       }
@@ -80,7 +83,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "希 伯 来 书 10:24-25",
-        "html": "<p class=\"bible\"><sup>24 </sup>我 们 要 想 办 法 彼 此 相 顾 ， 激 发 爱 心 ， 勉 励 行 善 。 <sup>25 </sup>不 要 停 止 聚 会 ， 像 那 些 停 止 惯 了 的 人 ， 要 互 相 鼓 励 ， 特 别 是 你 们 知 道 主 再 来 的 日 子 近 了 。 </p><div class=\"publisher-info-bottom\"></div><p class=\"bible\"><!-- begin publisher --></p><div class=\"publisher\"></div>",
+        "html": "<p><sup>24 </sup>我 们 要 想 办 法 彼 此 相 顾 ， 激 发 爱 心 ， 勉 励 行 善 。 <sup>25 </sup>不 要 停 止 聚 会 ， 像 那 些 停 止 惯 了 的 人 ， 要 互 相 鼓 励 ， 特 别 是 你 们 知 道 主 再 来 的 日 子 近 了 。 </p><div class=\"publisher-info-bottom\"></div><div class=\"publisher\"></div>",
         "url": "https://biblegateway.com/passage/?search=Hebrews%2010:24-25&version=CCB",
         "isOpen": false
       }
@@ -128,21 +131,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<span class=\"unknown\"><span class=\"unknown\">▶ 祈祷你与主的关系和人际关系更紧密。</span></span>"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 在祈祷中让自己更能为主所用，让主利用你的小组将上帝存在带进你的大学（见圣经注解）。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<span class=\"unknown\">▶ 为你名单上的人祈祷（见“感动上帝的祈祷”）。</span>"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "祈祷你与主的关系和人际关系更紧密。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "在祈祷中让自己更能为主所用，让主利用你的小组将上帝存在带进你的大学（见圣经注解）。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "为你名单上的人祈祷（见“感动上帝的祈祷”）。"
+          }
+        ]
       }
     },
     {

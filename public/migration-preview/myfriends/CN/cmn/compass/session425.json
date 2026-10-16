@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -71,15 +74,6 @@
           "一人用自己的话复述所读的内容（合上圣经）",
           "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
         ]
-      }
-    },
-    {
-      "type": "biblePassage",
-      "data": {
-        "reference": "以斯帖紀 3:12-4:17",
-        "html": "",
-        "url": "",
-        "isOpen": false
       }
     },
     {
@@ -125,9 +119,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<span class=\"unknown\">▶</span>上帝派这个年轻的女人来拯救众人，上帝<span style=\"background-color: #ffffff;\">最爱重用普通人</span>。神能依靠你吗？你可以这样祈祷：“天上的父，我承认此时此刻<span style=\"background-color: #ffffff;\">我并不在上课</span>绝非偶然之事，你给我联系和天赋也不是毫无理由。请打开<span style=\"background-color: #ffffff;\">我的</span>双眼，<span style=\"background-color: #ffffff;\">让我</span>看到你的差遣。我在这里，助你建造你的王国。”（以赛亚书6:8）"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "上帝派这个年轻的女人来拯救众人，上帝最爱重用普通人。神能依靠你吗？你可以这样祈祷：“天上的父，我承认此时此刻我并不在上课绝非偶然之事，你给我联系和天赋也不是毫无理由。请打开我的双眼，让我看到你的差遣。我在这里，助你建造你的王国。”（以赛亚书6:8）"
+          }
+        ]
       }
     },
     {

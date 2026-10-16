@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where you need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthew 14:3-13, 23",
-        "html": "<p class=\"bible\"><sup>3</sup> Now Herod had arrested John and bound him and put him in prison because of Herodias, his brother Philip’s wife, <sup>4</sup> for John had been saying to him: “It is not lawful for you to have her.” <sup>5</sup> Herod wanted to kill John, but he was afraid of the people, because they considered John a prophet. </p><p class=\"bible\"><sup>6</sup>On Herod’s birthday the daughter of Herodias danced for the guests and pleased Herod so much<sup>7</sup>that he promised with an oath to give her whatever she asked.<sup>8</sup>Prompted by her mother, she said, “Give me here on a platter the head of John the Baptist.”<sup>9</sup>The king was distressed, but because of his oaths and his dinner guests, he ordered that her request be granted<sup>10</sup>and had John beheaded in the prison.<sup>11</sup>His head was brought in on a platter and given to the girl, who carried it to her mother.<sup>12</sup>John’s disciples came and took his body and buried it. Then they went and told Jesus.</p><p class=\"bible\"><sup>13</sup>When Jesus heard what had happened, he withdrew by boat privately to a solitary place. Hearing of this, the crowds followed him on foot from the towns.</p><p class=\"bible\"><sup>23</sup> After he had dismissed them, he went up on a mountainside by himself to pray. Later that night, he was there alone, </p><p class=\"bible\"></p>",
+        "html": "<p><sup>3</sup> Now Herod had arrested John and bound him and put him in prison because of Herodias, his brother Philip’s wife, <sup>4</sup> for John had been saying to him: “It is not lawful for you to have her.” <sup>5</sup> Herod wanted to kill John, but he was afraid of the people, because they considered John a prophet. </p><p><sup>6</sup>On Herod’s birthday the daughter of Herodias danced for the guests and pleased Herod so much<sup>7</sup>that he promised with an oath to give her whatever she asked.<sup>8</sup>Prompted by her mother, she said, “Give me here on a platter the head of John the Baptist.”<sup>9</sup>The king was distressed, but because of his oaths and his dinner guests, he ordered that her request be granted<sup>10</sup>and had John beheaded in the prison.<sup>11</sup>His head was brought in on a platter and given to the girl, who carried it to her mother.<sup>12</sup>John’s disciples came and took his body and buried it. Then they went and told Jesus.</p><p><sup>13</sup>When Jesus heard what had happened, he withdrew by boat privately to a solitary place. Hearing of this, the crowds followed him on foot from the towns.</p><p><sup>23</sup> After he had dismissed them, he went up on a mountainside by himself to pray. Later that night, he was there alone, </p>",
         "url": "https://biblegateway.com/passage/?search=Matthew%2014:23&version=TNIV",
         "isOpen": false
       }
@@ -119,21 +122,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ If you were disappointed by other people, forgive them. Only forgiveness truly frees you from harmful bonds to other people! If you know you should forgive someone, continue according the steps we suggest in Lesson “Growth through Forgiveness” (everyone by themselves)."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Prayer in groups of 2 or 3: Bring your disappointment to God (describe your emotions to him) and hand over all rights to fully understand why it happened. Then ask him to fill you with his love and peace (again)."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray for one another that you can have a fresh encounter with the heavenly Father (see also the scripture comments)."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "If you were disappointed by other people, forgive them. Only forgiveness truly frees you from harmful bonds to other people! If you know you should forgive someone, continue according the steps we suggest in Lesson “Growth through Forgiveness” (everyone by themselves)."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Prayer in groups of 2 or 3: Bring your disappointment to God (describe your emotions to him) and hand over all rights to fully understand why it happened. Then ask him to fill you with his love and peace (again)."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray for one another that you can have a fresh encounter with the heavenly Father (see also the scripture comments)."
+          }
+        ]
       }
     },
     {
@@ -164,7 +168,7 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "In another difficult situation we see that He surrounded himself with His three best friends (Matthew 26, 36-38).<br> If we try to understand why God didn’t do anything in a certain situation, our hearts will simply be filled with turmoil and discontent. Only rarely will God answer the question, <span class=\"unknown\">“</span>Why”."
+                "text": "In another difficult situation we see that He surrounded himself with His three best friends (Matthew 26, 36-38).<br> If we try to understand why God didn’t do anything in a certain situation, our hearts will simply be filled with turmoil and discontent. Only rarely will God answer the question, “Why”."
               }
             },
             {

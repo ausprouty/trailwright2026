@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -65,15 +68,6 @@
           "一人用自己的话复述所读的内容（合上圣经）",
           "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
         ]
-      }
-    },
-    {
-      "type": "biblePassage",
-      "data": {
-        "reference": "馬太福音 9:20-22; 馬太福音 9:27-29",
-        "html": "",
-        "url": "",
-        "isOpen": false
       }
     },
     {
@@ -120,9 +114,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 你可以这样祷告：“亲爱的天父，谢谢<span style=\"background-color: #ffffff;\"> 您 </span>，<span style=\"background-color: #ffffff;\">您</span>已经赐给我你的圣灵，教我相信并拥有信心。原谅我曾经相信自己的经验胜过信你的圣言，原谅我曾在怀疑中行事。请<span style=\"background-color: #ffffff;\"> 您 </span>栽培我，这样我才能在信心中成长。我希望无论何时都会从<span style=\"background-color: #ffffff;\"> 您 </span>的角度看事物，专注于精神上发生的事情，而不是可见领域发生的事。请帮助我更深刻地理解你的话语和想法。“"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "你可以这样祷告：“亲爱的天父，谢谢\n您 ，您已经赐给我你的圣灵，教我相信并拥有信心。原谅我曾经相信自己的经验胜过信你的圣言，原谅我曾在怀疑中行事。请\n您 栽培我，这样我才能在信心中成长。我希望无论何时都会从\n您 的角度看事物，专注于精神上发生的事情，而不是可见领域发生的事。请帮助我更深刻地理解你的话语和想法。“"
+          }
+        ]
       }
     },
     {

@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "使 徒 行 传 8:1-8",
-        "html": "<p class=\"bible\"><sup>1</sup>当 时 ， 扫 罗 也 赞 成 杀 死 司 提 凡 。 从 那 天 起 ， 耶 路 撒 冷 的 教 会 开 始 遭 到 极 大 的 迫 害 。 除 了 使 徒 之 外 ， 门 徒 都 分 散 到 犹 太 和 撒 玛 利 亚 各 地 。{' '} <sup>2</sup><span class=\"unknown\"> 有 些 虔 诚 人 将 司 提 凡 埋 葬 了 ， 为 他 大 声 痛 哭 。 </span></p><p class=\"bible\"><sup>3</sup>扫罗却在摧毁教会， 他挨家挨户搜寻， 把男女信徒抓进监里。</p><p class=\"bible\"><sup>4</sup>但那些逃往各地的信徒逃到哪里， 就将福音传到哪里。 <sup>5</sup>腓利来到撒玛利亚城宣讲基督。{' '} <sup>6</sup>城里的人耳闻目睹他所行的神迹， 都聚精会神地听他讲道。 <sup>7</sup>当时有许多人被污鬼附身， 那些污鬼大声喊叫着被赶了出来。 还有不少瘫子和瘸子也被医好了。 <sup>8</sup>城里洋溢着欢乐的气氛。</p><div class=\"publisher-info-bottom\"><div class=\"publisher\"></div></div>",
+        "html": "<p><sup>1</sup>当 时 ， 扫 罗 也 赞 成 杀 死 司 提 凡 。 从 那 天 起 ， 耶 路 撒 冷 的 教 会 开 始 遭 到 极 大 的 迫 害 。 除 了 使 徒 之 外 ， 门 徒 都 分 散 到 犹 太 和 撒 玛 利 亚 各 地 。{' '} <sup>2</sup><span class=\"unknown\"> 有 些 虔 诚 人 将 司 提 凡 埋 葬 了 ， 为 他 大 声 痛 哭 。 </span></p><p><sup>3</sup>扫罗却在摧毁教会， 他挨家挨户搜寻， 把男女信徒抓进监里。</p><p><sup>4</sup>但那些逃往各地的信徒逃到哪里， 就将福音传到哪里。 <sup>5</sup>腓利来到撒玛利亚城宣讲基督。{' '} <sup>6</sup>城里的人耳闻目睹他所行的神迹， 都聚精会神地听他讲道。 <sup>7</sup>当时有许多人被污鬼附身， 那些污鬼大声喊叫着被赶了出来。 还有不少瘫子和瘸子也被医好了。 <sup>8</sup>城里洋溢着欢乐的气氛。</p><div class=\"publisher-info-bottom\"><div class=\"publisher\"></div></div>",
         "url": "https://biblegateway.com/passage/?search=Acts%208:1-8&version=CCB",
         "isOpen": false
       }
@@ -102,16 +105,20 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 为受迫害的叙利亚，土耳其，伊拉克，伊朗，巴基斯坦，埃及，阿尔及利亚，突尼斯和摩洛哥的基督徒祈求保护、对信仰的勇气和审慎。 也许你有来自这些国家的其他信息和代祷，或者要为他们提供信息和代祷。 例如：来自Open Doors或类似组织的代祷。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "为受迫害的叙利亚，土耳其，伊拉克，伊朗，巴基斯坦，埃及，阿尔及利亚，突尼斯和摩洛哥的基督徒祈求保护、对信仰的勇气和审慎。 也许你有来自这些国家的其他信息和代祷，或者要为他们提供信息和代祷。 例如：来自Open Doors或类似组织的代祷。"
+          }
+        ]
       }
     },
     {
-      "type": "notesArea",
+      "type": "iWill",
       "data": {
-        "notes": "",
-        "storageKey": "note"
+        "storageKey": "compass-session431-i-will"
       }
     }
   ]

@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -58,7 +61,7 @@
     {
       "type": "paragraph",
       "data": {
-        "text": "保罗于公元前66-68年被囚禁于罗马时给提摩太写信，这是保罗<span class=\"unknown\"> 流传给我们的 </span>最后一封信。"
+        "text": "保罗于公元前66-68年被囚禁于罗马时给提摩太写信，这是保罗 流传给我们的 最后一封信。"
       }
     },
     {
@@ -123,21 +126,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶<strong>认知:</strong> 将伤害过你的<span style=\"background-color: #ffffff;\"> 人的 </span>名字写在纸上。写下他们行为给你带来的情绪<font face=\"Calibri\">/</font><font face=\"宋体\"> 反应（愤怒、恐惧、退缩等）。你可以在祈祷中向上帝宣读你的笔记。你可以这样祈祷：“亲爱的天父，我向你坦白 </font><font face=\"Calibri\">___________</font><font face=\"宋体\"> 曾对我做的事。”（说出那个人的名字和你的遭遇）在我们进行下一步之前，了解自己的经历是十分重要的。 </font>"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶<strong>原谅:</strong> 接下来你便原谅他们。你可以这样祈祷：“在天上的神父，我原谅<font face=\"Calibri\"> ___________ </font><font face=\"宋体\">（人名）。我将他</font><font face=\"Calibri\">/</font><font face=\"宋体\"> 她交到主的手里。我<span style=\"background-color: #ffffff;\">祝福</span>他 </font><font face=\"Calibri\">/</font><font face=\"宋体\">她，不再对他</font><font face=\"Calibri\">/</font><font face=\"宋体\">她充满怨恨。”</font>"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶<strong>接受:</strong> 让自己再次被主的爱充满：依照以弗所书<font face=\"Calibri\"> 3:17-19 </font><font face=\"宋体\">祈祷—以两到三人一组—主将爱与圣灵充满你。</font>"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "认知: 将伤害过你的\n人的 名字写在纸上。写下他们行为给你带来的情绪/\n反应（愤怒、恐惧、退缩等）。你可以在祈祷中向上帝宣读你的笔记。你可以这样祈祷：“亲爱的天父，我向你坦白\n___________\n曾对我做的事。”（说出那个人的名字和你的遭遇）在我们进行下一步之前，了解自己的经历是十分重要的。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "原谅: 接下来你便原谅他们。你可以这样祈祷：“在天上的神父，我原谅\n___________\n（人名）。我将他\n/\n她交到主的手里。我祝福他\n/\n她，不再对他\n/\n她充满怨恨。”"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "接受: 让自己再次被主的爱充满：依照以弗所书\n3:17-19\n祈祷—以两到三人一组—主将爱与圣灵充满你。"
+          }
+        ]
       }
     },
     {

@@ -373,35 +373,63 @@ export const contentBlockIcons = {
     label: 'Sharing Life',
     preview: '💬',
     svg: `<svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
-  <circle cx="50" cy="50" r="48" fill="#000" stroke="#000" stroke-width="5" />
+      <circle cx="50" cy="50" r="48" fill="#000" stroke="#000" stroke-width="5" />
 
-  <path
-    d="M56 25
-       C72 25 84 37 84 52
-       C84 59 81 65 76 70
-       L80 82
-       L66 75
-       C63 76 60 77 56 77
-       C40 77 28 65 28 52
-       C28 37 40 25 56 25Z"
-    fill="#fff"
-  />
+      <path
+        d="M56 25
+          C72 25 84 37 84 52
+          C84 59 81 65 76 70
+          L80 82
+          L66 75
+          C63 76 60 77 56 77
+          C40 77 28 65 28 52
+          C28 37 40 25 56 25Z"
+        fill="#fff"
+      />
 
-  <path
-    d="M36 45
-       C48 45 58 54 58 65
-       C58 76 48 85 36 85
-       C32 85 29 84 26 83
-       L14 89
-       L18 78
-       C15 74 14 70 14 65
-       C14 54 24 45 36 45Z"
-    fill="#fff"
-    stroke="#000"
-    stroke-width="5"
-    stroke-linejoin="round"
-  />
-</svg>
-  `,
+      <path
+        d="M36 45
+          C48 45 58 54 58 65
+          C58 76 48 85 36 85
+          C32 85 29 84 26 83
+          L14 89
+          L18 78
+          C15 74 14 70 14 65
+          C14 54 24 45 36 45Z"
+        fill="#fff"
+        stroke="#000"
+        stroke-width="5"
+        stroke-linejoin="round"
+      />
+    </svg>
+    `,
+  },
+  'triangle-left': {
+      label: 'Previous',
+      preview: '◀️',
+      svg: `
+      <svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
+        <circle cx="50" cy="50" r="48" fill="#000" />
+
+        <path
+          d="M62 28 L34 50 L62 72 Z"
+          fill="#fff"
+        />
+      </svg>
+    `,
+  },
+  'triangle-right': {
+        label: 'Next',
+        preview: '▶️',
+        svg: `
+      <svg class="icon-list-icon" viewBox="0 0 100 100" aria-hidden="true">
+        <circle cx="50" cy="50" r="48" fill="#000" />
+
+        <path
+          d="M38 28 L66 50 L38 72 Z"
+          fill="#fff"
+        />
+      </svg>
+    `,
   },
 };

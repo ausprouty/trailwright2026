@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft\nund eure Freundschaft zu Gott stärker und tiefer wird."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Apostelgeschichte 8, 1-8",
-        "html": "<p class=\"bible\"><sup>1</sup>Saulus aber war mit dieser Hinrichtung voll und ganz einverstanden. </p><p class=\"bible\"> Noch am selben Tag brach über die Gemeinde in Jerusalem eine schwere Verfolgung herein. Alle, ´die an Jesus glaubten,` flohen und zerstreuten sich über das ganze Gebiet von Judäa und Samarien; nur die Apostel blieben in Jerusalem zurück. </p><p class=\"bible\"><sup>2</sup>Einige fromme Männer bestatteten Stephanus und hielten eine feierliche Totenklage.<sup>3</sup>Saulus jedoch setzte alles daran, die Gemeinde auszurotten. Er durchsuchte Haus für Haus, und ´wo er Christen fand,` ließ er sie abführen – Männer wie Frauen – und ließ sie ins Gefängnis bringen. </p><p class=\"bible\"><sup>4</sup>Die ´Christen`, die aus Jerusalem geflohen waren, machten überall, wo sie hinkamen, das Evangelium bekannt.<sup> 5 </sup>Unter ihnen war auch Philippus. Er ging in die ´bedeutendste` Stadt von Samarien und verkündete dort, dass Jesus der Messias ist.<sup> 6 </sup>Scharen von Menschen hörten ihm mit ungeteilter Aufmerksamkeit zu; sie waren beeindruckt von dem, was er sagte, und das umso mehr, als sie die Wunder miterlebten, die durch ihn geschahen.<sup> 7 </sup>Bei vielen Besessenen fuhren die bösen Geister aus; sie verließen ihre Opfer mit lautem Geschrei. Auch zahlreiche Gelähmte und Verkrüppelte wurden geheilt.<sup>8</sup>In der ganzen Stadt herrschte große Freude. </p><p class=\"bible\"><br><br></p>",
+        "html": "<p><sup>1</sup>Saulus aber war mit dieser Hinrichtung voll und ganz einverstanden. </p><p> Noch am selben Tag brach über die Gemeinde in Jerusalem eine schwere Verfolgung herein. Alle, ´die an Jesus glaubten,` flohen und zerstreuten sich über das ganze Gebiet von Judäa und Samarien; nur die Apostel blieben in Jerusalem zurück. </p><p><sup>2</sup>Einige fromme Männer bestatteten Stephanus und hielten eine feierliche Totenklage.<sup>3</sup>Saulus jedoch setzte alles daran, die Gemeinde auszurotten. Er durchsuchte Haus für Haus, und ´wo er Christen fand,` ließ er sie abführen – Männer wie Frauen – und ließ sie ins Gefängnis bringen. </p><p><sup>4</sup>Die ´Christen`, die aus Jerusalem geflohen waren, machten überall, wo sie hinkamen, das Evangelium bekannt.<sup> 5 </sup>Unter ihnen war auch Philippus. Er ging in die ´bedeutendste` Stadt von Samarien und verkündete dort, dass Jesus der Messias ist.<sup> 6 </sup>Scharen von Menschen hörten ihm mit ungeteilter Aufmerksamkeit zu; sie waren beeindruckt von dem, was er sagte, und das umso mehr, als sie die Wunder miterlebten, die durch ihn geschahen.<sup> 7 </sup>Bei vielen Besessenen fuhren die bösen Geister aus; sie verließen ihre Opfer mit lautem Geschrei. Auch zahlreiche Gelähmte und Verkrüppelte wurden geheilt.<sup>8</sup>In der ganzen Stadt herrschte große Freude. </p>",
         "url": "https://biblegateway.com/passage/?search=Acts%208:1-8&version=NGU-DE",
         "isOpen": false
       }
@@ -102,16 +105,20 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Betet um Schutz, Glaubensmut und Besonnenheit für die bedrängten Christen in Syrien, der Türkei, Irak, Iran, Pakistan, Ägypten, Algerien, Tunesien und Marokko. Vielleicht habt ihr noch zusätzlich Informatio-nen und Gebetsanliegen für diese Länder, z.B. von Open Doors oder AVC."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Betet um Schutz, Glaubensmut und Besonnenheit für die bedrängten Christen\nin Syrien, der Türkei, Irak, Iran, Pakistan, Ägypten, Algerien, Tunesien und\nMarokko. Vielleicht habt ihr noch zusätzlich Informatio-nen und\nGebetsanliegen für diese Länder, z.B. von Open Doors oder AVC."
+          }
+        ]
       }
     },
     {
-      "type": "notesArea",
+      "type": "iWill",
       "data": {
-        "notes": "",
-        "storageKey": "note"
+        "storageKey": "compass-session431-i-will"
       }
     }
   ]

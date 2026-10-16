@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft\nund eure Freundschaft zu Gott stärker und tiefer wird."
+          }
+        ]
       }
     },
     {
@@ -83,7 +86,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "1 Mose 39",
-        "html": "<p class=\"bible\"><sup>1</sup>Die Ismaeliter hatten Josef nach Ägypten gebracht. Dort war er an den Ägypter Potifar verkauft worden, den Hofbeamten des Pharaos und Oberbefehlshaber der königlichen Leibwache.<sup> 2 </sup>Der<span class=\"small-caps\">Herr </span>half Josef, so dass ihm alles glückte, was er unternahm. Er durfte im Haus arbeiten,<sup> 3 </sup>und auch Potifar merkte bald, dass der <span class=\"small-caps\">Herr </span>auf seiner Seite stand und ihm großen Erfolg schenkte.<sup>4</sup>Deshalb bevorzugte er ihn vor allen anderen Sklaven und machte ihn zu seinem persönlichen Diener. Er setzte Josef zum Hausverwalter ein und vertraute ihm seinen ganzen Besitz an.<sup>5</sup>Von da an segnete der <span class=\"small-caps\">Herr </span>Potifar und ließ es ihm Josef zuliebe gut gehen. Die Arbeiten im Haus waren erfolgreich, es gab eine gute Ernte, und die Viehherden vergrößerten sich.<sup>6</sup>Potifars Vertrauen wuchs: Er ließ Josef freie Hand und kümmerte sich selbst um nichts mehr, außer um seine eigenen Speisen. </p><p class=\"bible\"> Josef sah sehr gut aus.<sup>7</sup>Darum hatte auch Potifars Frau mittlerweile ein Auge auf ihn geworfen. »Schlaf mit mir!«, forderte sie ihn auf.<sup>8</sup>Aber Josef weigerte sich: »Du weißt doch: Mein Herr braucht sich im Haus um nichts zu kümmern – alles hat er mir anvertraut.<sup>9</sup>Ich habe genauso viel Macht wie er. Nur dich hat er mir vorenthalten, weil du seine Frau bist. Wie könnte ich da ein so großes Unrecht tun und gegen Gott sündigen?« </p><p class=\"bible\"><sup>10</sup>Potifars Frau ließ nicht locker. Jeden Tag redete sie auf Josef ein, er aber hörte nicht darauf und ließ sich nicht von ihr verführen. </p><p class=\"bible\"><sup>11</sup>Einmal kam Josef ins Haus, um wie gewöhnlich seine Arbeit zu tun. Von den Sklaven war gerade niemand anwesend.<sup> 12 </sup>Da packte sie ihn am Gewand. »Komm mit mir ins Bett!«, drängte sie. Josef riss sich los, ließ sein Gewand in ihrer Hand und floh nach draußen.<sup> 13/14 </sup>Potifars Frau schrie auf, rief nach ihren Dienern und zeigte ihnen Josefs Gewand. »Seht«, rief sie, »mein Mann hat uns einen Hebräer ins Haus gebracht, der jetzt mit uns umspringt, wie er will! Er wollte mich vergewaltigen, aber ich habe laut geschrien.<sup> 15 </sup>Da lief er schnell davon, doch dieses Gewand hat er bei mir zurückgelassen!«<sup>16</sup>Sie behielt Josefs Gewand und wartete, bis ihr Mann nach Hause kam.<sup> 17 </sup>Ihm erzählte sie dieselbe Geschichte und hielt ihm vor: »Dieser hebräische Sklave, den du ins Haus geholt hast, kam zu mir und wollte seinen Spaß mit mir haben.<sup>18</sup>Als ich laut zu schreien anfing, ließ er von mir ab und rannte hinaus. Doch sein Gewand blieb bei mir liegen – schau her!« </p><p class=\"bible\"><sup>19</sup><span class=\"normal\">Als Potifar das hörte, geriet er in Zorn</span><sup>20</sup><span class=\"normal\">und ließ Josef ins Staatsgefängnis werfen.</span><sup>21</sup><span class=\"normal\">Aber der </span><span class=\"small-caps\">Herr </span>hielt weiterhin zu Josef. Er stand ihm bei und sorgte dafür, dass der Gefängnisverwalter ihm wohlgesinnt war.<sup> 22 </sup>Josef wurde bald darauf von ihm zum Aufseher über die Gefangenen ernannt; er war nun verantwortlich für alles, was im Gefängnis geschah.<sup> 23 </sup>Der Verwalter brauchte sich um nichts mehr zu kümmern. Er vertraute Josef völlig, weil er sah, dass der <span class=\"small-caps\">Herr </span>ihm half und ihm Erfolg schenkte. </p><p class=\"bible\"><br></p>",
+        "html": "<p><sup>1</sup>Die Ismaeliter hatten Josef nach Ägypten gebracht. Dort war er an den Ägypter Potifar verkauft worden, den Hofbeamten des Pharaos und Oberbefehlshaber der königlichen Leibwache.<sup> 2 </sup>Der<span class=\"small-caps\">Herr </span>half Josef, so dass ihm alles glückte, was er unternahm. Er durfte im Haus arbeiten,<sup> 3 </sup>und auch Potifar merkte bald, dass der <span class=\"small-caps\">Herr </span>auf seiner Seite stand und ihm großen Erfolg schenkte.<sup>4</sup>Deshalb bevorzugte er ihn vor allen anderen Sklaven und machte ihn zu seinem persönlichen Diener. Er setzte Josef zum Hausverwalter ein und vertraute ihm seinen ganzen Besitz an.<sup>5</sup>Von da an segnete der <span class=\"small-caps\">Herr </span>Potifar und ließ es ihm Josef zuliebe gut gehen. Die Arbeiten im Haus waren erfolgreich, es gab eine gute Ernte, und die Viehherden vergrößerten sich.<sup>6</sup>Potifars Vertrauen wuchs: Er ließ Josef freie Hand und kümmerte sich selbst um nichts mehr, außer um seine eigenen Speisen. </p><p> Josef sah sehr gut aus.<sup>7</sup>Darum hatte auch Potifars Frau mittlerweile ein Auge auf ihn geworfen. »Schlaf mit mir!«, forderte sie ihn auf.<sup>8</sup>Aber Josef weigerte sich: »Du weißt doch: Mein Herr braucht sich im Haus um nichts zu kümmern – alles hat er mir anvertraut.<sup>9</sup>Ich habe genauso viel Macht wie er. Nur dich hat er mir vorenthalten, weil du seine Frau bist. Wie könnte ich da ein so großes Unrecht tun und gegen Gott sündigen?« </p><p><sup>10</sup>Potifars Frau ließ nicht locker. Jeden Tag redete sie auf Josef ein, er aber hörte nicht darauf und ließ sich nicht von ihr verführen. </p><p><sup>11</sup>Einmal kam Josef ins Haus, um wie gewöhnlich seine Arbeit zu tun. Von den Sklaven war gerade niemand anwesend.<sup> 12 </sup>Da packte sie ihn am Gewand. »Komm mit mir ins Bett!«, drängte sie. Josef riss sich los, ließ sein Gewand in ihrer Hand und floh nach draußen.<sup> 13/14 </sup>Potifars Frau schrie auf, rief nach ihren Dienern und zeigte ihnen Josefs Gewand. »Seht«, rief sie, »mein Mann hat uns einen Hebräer ins Haus gebracht, der jetzt mit uns umspringt, wie er will! Er wollte mich vergewaltigen, aber ich habe laut geschrien.<sup> 15 </sup>Da lief er schnell davon, doch dieses Gewand hat er bei mir zurückgelassen!«<sup>16</sup>Sie behielt Josefs Gewand und wartete, bis ihr Mann nach Hause kam.<sup> 17 </sup>Ihm erzählte sie dieselbe Geschichte und hielt ihm vor: »Dieser hebräische Sklave, den du ins Haus geholt hast, kam zu mir und wollte seinen Spaß mit mir haben.<sup>18</sup>Als ich laut zu schreien anfing, ließ er von mir ab und rannte hinaus. Doch sein Gewand blieb bei mir liegen – schau her!« </p><p><sup>19</sup><span class=\"normal\">Als Potifar das hörte, geriet er in Zorn</span><sup>20</sup><span class=\"normal\">und ließ Josef ins Staatsgefängnis werfen.</span><sup>21</sup><span class=\"normal\">Aber der </span><span class=\"small-caps\">Herr </span>hielt weiterhin zu Josef. Er stand ihm bei und sorgte dafür, dass der Gefängnisverwalter ihm wohlgesinnt war.<sup> 22 </sup>Josef wurde bald darauf von ihm zum Aufseher über die Gefangenen ernannt; er war nun verantwortlich für alles, was im Gefängnis geschah.<sup> 23 </sup>Der Verwalter brauchte sich um nichts mehr zu kümmern. Er vertraute Josef völlig, weil er sah, dass der <span class=\"small-caps\">Herr </span>ihm half und ihm Erfolg schenkte. </p>",
         "url": "https://biblegateway.com/passage/?search=Genesis%2039:1-23&version=HOF",
         "isOpen": false
       }
@@ -92,7 +95,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "1 Petrus 1, 6-7",
-        "html": "<sup>6</sup>Ihr habt also allen Grund, euch zu freuen und zu jubeln, auch wenn ihr jetzt ´nach Gottes Plan` für eine kurze Zeit Prüfungen verschiedenster Art durchmachen müsst und manches Schwere erleidet.<sup>7</sup>Denn diese Prüfungen geben euch Gelegenheit, euch in eurem Glauben zu bewähren. Genauso, wie das vergängliche Gold im Feuer des Schmelzofens gereinigt wird, muss auch euer Glaube, der ja unvergleichlich viel wertvoller ist, auf seine Echtheit geprüft werden. Und wenn dann Jesus Christus ´in seiner Herrlichkeit` erscheint, wird ´eure Standhaftigkeit` euch Lob, Ruhm und Ehre einbringen. <p class=\"bible\"><br><br></p>",
+        "html": "<sup>6</sup>Ihr habt also allen Grund, euch zu freuen und zu jubeln, auch wenn ihr jetzt ´nach Gottes Plan` für eine kurze Zeit Prüfungen verschiedenster Art durchmachen müsst und manches Schwere erleidet.<sup>7</sup>Denn diese Prüfungen geben euch Gelegenheit, euch in eurem Glauben zu bewähren. Genauso, wie das vergängliche Gold im Feuer des Schmelzofens gereinigt wird, muss auch euer Glaube, der ja unvergleichlich viel wertvoller ist, auf seine Echtheit geprüft werden. Und wenn dann Jesus Christus ´in seiner Herrlichkeit` erscheint, wird ´eure Standhaftigkeit` euch Lob, Ruhm und Ehre einbringen.",
         "url": "https://biblegateway.com/passage/?search=1%20Peter%201:6-7&version=NGU-DE",
         "isOpen": false
       }
@@ -141,15 +144,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Erzählt einander, was ihr in den nächsten Tagen umsetzen wollt."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Betet zum Schluss in 2er-Gruppen miteinander und drückt mit dem, was ihr gelesen habt und an dem ihr festhalten wollt, euer Vertrauen in Gott aus."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Erzählt einander, was ihr in den nächsten Tagen umsetzen wollt."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Betet zum Schluss in 2er-Gruppen miteinander und drückt mit dem, was ihr\ngelesen habt und an dem ihr festhalten wollt, euer Vertrauen in Gott aus."
+          }
+        ]
       }
     },
     {

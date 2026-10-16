@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 15, 11-32",
-        "html": "<div class=\"bible\"><p class=\"bible\"><sup>11</sup>Jesus fuhr fort: »Ein Mann hatte zwei Söhne.<sup>12</sup>Der jüngere sagte zu ihm: ›Vater, gib mir den Anteil am Erbe, der mir zusteht!‹ Da teilte der Vater das Vermögen unter die beiden auf.<sup>13</sup>Wenige Tage später hatte der jüngere Sohn seinen ganzen Anteil verkauft und zog mit dem Erlös in ein fernes Land. Dort lebte er in Saus und Braus und brachte sein Vermögen durch.</p><p class=\"bible\"><sup>14</sup>Als er alles aufgebraucht hatte, wurde jenes Land von einer großen Hungersnot heimgesucht. Da geriet auch er in Schwierigkeiten.<sup>15</sup>In seiner Not wandte er sich an einen Bürger des Landes, und dieser schickte ihn zum Schweinehüten auf seine Felder.<sup>16</sup>Er wäre froh gewesen, wenn er seinen Hunger mit den Schoten, die die Schweine fraßen, hätte stillen dürfen, doch selbst davon wollte ihm keiner etwas geben.</p><p class=\"bible\"><sup>17</sup>Jetzt kam er zur Besinnung. Er sagte sich: ›Wie viele Tagelöhner hat mein Vater, und alle haben mehr als genug zu essen! Ich dagegen komme hier vor Hunger um.<sup>18</sup>Ich will mich aufmachen und zu meinem Vater gehen und zu ihm sagen: Vater, ich habe mich gegen den Himmel und gegen dich versündigt;<sup>19</sup>ich bin es nicht mehr wert, dein Sohn genannt zu werden. Mach mich zu einem deiner Tagelöhner!‹</p><p class=\"bible\"><sup>20</sup>So machte er sich auf den Weg zu seinem Vater. Dieser sah ihn schon von weitem kommen; voller Mitleid lief er ihm entgegen, fiel ihm um den Hals und küsste ihn.<sup>21</sup>›Vater‹, sagte der Sohn zu ihm, ›ich habe mich gegen den Himmel und gegen dich versündigt; ich bin es nicht mehr wert, dein Sohn genannt zu werden.‹<sup>22</sup>Doch der Vater befahl seinen Dienern: ›Schnell, holt das beste Gewand und zieht es ihm an, steckt ihm einen Ring an den Finger und bringt ihm ein Paar Sandalen!<sup>23</sup>Holt das Mastkalb und schlachtet es; wir wollen ein Fest feiern und fröhlich sein.<sup>24</sup>Denn mein Sohn war tot, und nun lebt er wieder; er war verloren, und nun ist er wiedergefunden.‹ Und sie begannen zu feiern.</p><p class=\"bible\"><sup>25</sup>Der ältere Sohn war auf dem Feld gewesen. Als er jetzt zurückkam, hörte er schon von weitem den Lärm von Musik und Tanz.<sup>26</sup>Er rief einen Knecht und erkundigte sich, was das zu bedeuten habe.<sup>27</sup>›Dein Bruder ist zurückgekommen‹, lautete die Antwort, ›und dein Vater hat das Mastkalb schlachten lassen, weil er ihn wohlbehalten wiederhat.‹<sup>28</sup>Der ältere Bruder wurde zornig und wollte nicht ins Haus hineingehen. Da kam sein Vater heraus und redete ihm gut zu.<sup>29</sup>Aber er hielt seinem Vater vor: ›So viele Jahre diene ich dir jetzt schon und habe mich nie deinen Anordnungen widersetzt. Und doch hast du mir nie auch nur einen Ziegenbock gegeben, sodass ich mit meinen Freunden hätte feiern können!<sup>30</sup>Und nun kommt dieser Mensch da zurück, dein Sohn, der dein Vermögen mit Huren durchgebracht hat, und du lässt das Mastkalb für ihn schlachten!‹ –<sup>31</sup>›Kind‹, sagte der Vater zu ihm, ›du bist immer bei mir, und alles, was mir gehört, gehört auch dir.<sup>32</sup>Aber jetzt mussten wir doch feiern und uns freuen; denn dieser hier, dein Bruder, war tot, und nun lebt er wieder; er war verloren, und nun ist er wiedergefunden.‹«</p><p class=\"bible\"></p></div>",
+        "html": "<p><sup>11</sup>Jesus fuhr fort: »Ein Mann hatte zwei Söhne.<sup>12</sup>Der jüngere sagte zu ihm: ›Vater, gib mir den Anteil am Erbe, der mir zusteht!‹ Da teilte der Vater das Vermögen unter die beiden auf.<sup>13</sup>Wenige Tage später hatte der jüngere Sohn seinen ganzen Anteil verkauft und zog mit dem Erlös in ein fernes Land. Dort lebte er in Saus und Braus und brachte sein Vermögen durch.</p><p><sup>14</sup>Als er alles aufgebraucht hatte, wurde jenes Land von einer großen Hungersnot heimgesucht. Da geriet auch er in Schwierigkeiten.<sup>15</sup>In seiner Not wandte er sich an einen Bürger des Landes, und dieser schickte ihn zum Schweinehüten auf seine Felder.<sup>16</sup>Er wäre froh gewesen, wenn er seinen Hunger mit den Schoten, die die Schweine fraßen, hätte stillen dürfen, doch selbst davon wollte ihm keiner etwas geben.</p><p><sup>17</sup>Jetzt kam er zur Besinnung. Er sagte sich: ›Wie viele Tagelöhner hat mein Vater, und alle haben mehr als genug zu essen! Ich dagegen komme hier vor Hunger um.<sup>18</sup>Ich will mich aufmachen und zu meinem Vater gehen und zu ihm sagen: Vater, ich habe mich gegen den Himmel und gegen dich versündigt;<sup>19</sup>ich bin es nicht mehr wert, dein Sohn genannt zu werden. Mach mich zu einem deiner Tagelöhner!‹</p><p><sup>20</sup>So machte er sich auf den Weg zu seinem Vater. Dieser sah ihn schon von weitem kommen; voller Mitleid lief er ihm entgegen, fiel ihm um den Hals und küsste ihn.<sup>21</sup>›Vater‹, sagte der Sohn zu ihm, ›ich habe mich gegen den Himmel und gegen dich versündigt; ich bin es nicht mehr wert, dein Sohn genannt zu werden.‹<sup>22</sup>Doch der Vater befahl seinen Dienern: ›Schnell, holt das beste Gewand und zieht es ihm an, steckt ihm einen Ring an den Finger und bringt ihm ein Paar Sandalen!<sup>23</sup>Holt das Mastkalb und schlachtet es; wir wollen ein Fest feiern und fröhlich sein.<sup>24</sup>Denn mein Sohn war tot, und nun lebt er wieder; er war verloren, und nun ist er wiedergefunden.‹ Und sie begannen zu feiern.</p><p><sup>25</sup>Der ältere Sohn war auf dem Feld gewesen. Als er jetzt zurückkam, hörte er schon von weitem den Lärm von Musik und Tanz.<sup>26</sup>Er rief einen Knecht und erkundigte sich, was das zu bedeuten habe.<sup>27</sup>›Dein Bruder ist zurückgekommen‹, lautete die Antwort, ›und dein Vater hat das Mastkalb schlachten lassen, weil er ihn wohlbehalten wiederhat.‹<sup>28</sup>Der ältere Bruder wurde zornig und wollte nicht ins Haus hineingehen. Da kam sein Vater heraus und redete ihm gut zu.<sup>29</sup>Aber er hielt seinem Vater vor: ›So viele Jahre diene ich dir jetzt schon und habe mich nie deinen Anordnungen widersetzt. Und doch hast du mir nie auch nur einen Ziegenbock gegeben, sodass ich mit meinen Freunden hätte feiern können!<sup>30</sup>Und nun kommt dieser Mensch da zurück, dein Sohn, der dein Vermögen mit Huren durchgebracht hat, und du lässt das Mastkalb für ihn schlachten!‹ –<sup>31</sup>›Kind‹, sagte der Vater zu ihm, ›du bist immer bei mir, und alles, was mir gehört, gehört auch dir.<sup>32</sup>Aber jetzt mussten wir doch feiern und uns freuen; denn dieser hier, dein Bruder, war tot, und nun lebt er wieder; er war verloren, und nun ist er wiedergefunden.‹«</p>",
         "url": "https://biblegateway.com/passage/?search=Luke%2015:11-32&version=NGU-DE",
         "isOpen": false
       }
@@ -120,21 +123,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Glaubst du, dass der himmlische Vater dir gerne gibt, nach was du dich (von Herzen) sehnst? (Psalm 37,3-4). Gibt es Bereiche in deinem Leben, wo du daran zweifelst? Sage ihm in einem Gebet, was du brauchst (jeder für sich)."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Betet gemäss Epheser 3,16-19 in Gruppen von 2-3 Personen, dass der Vater im Himmel euch noch mehr mit seiner Liebe und tieferem Verständnis seiner Liebe erfüllt."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Nehmt euch eine Zeit der Anbetung in der Gruppe. Singt gemeinsam Lieder, die Gottes Liebe zu euch ausdrücken und lasst euch von Got-tes Gnade berühren! (Z.B. „Good Good Father”)."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Glaubst du, dass der himmlische Vater dir gerne gibt, nach was du dich (von Herzen) sehnst? (Psalm 37,3-4). Gibt es Bereiche in deinem Leben, wo du daran zweifelst? Sage ihm in einem Gebet, was du brauchst (jeder für sich)."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Betet gemäss Epheser 3,16-19 in Gruppen von 2-3 Personen, dass der Vater im Himmel euch noch mehr mit seiner Liebe und tieferem Verständnis seiner Liebe erfüllt."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Nehmt euch eine Zeit der Anbetung in der Gruppe. Singt gemeinsam Lieder, die Gottes Liebe zu euch ausdrücken und lasst euch von Got-tes Gnade berühren! (Z.B. „Good Good Father”)."
+          }
+        ]
       }
     },
     {

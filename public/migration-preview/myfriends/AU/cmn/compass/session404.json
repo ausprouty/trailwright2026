@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "以 弗 所 书 5:8-21",
-        "html": "<p class=\"bible\"><sup>8</sup> 你 们 从 前 活 在 黑 暗 中 ， 现 在 既 然 活 在 主 的 光 明 中 ， 行 事 为 人 就 该 像 光 明 的 儿 女 。 <sup>9</sup><span class=\"unknown\"> 光 明 总 是 结 出 良 善 、 公 义 和 真 理 的 果 子 。 </span><sup>10</sup><span class=\"unknown\">你 们 要 察 验 什 么 是 主 所 喜 悦 的 事 ， </span><sup>11</sup><span class=\"unknown\"> 不 可 参 与 那 些 黑 暗 无 益 的 事 ， 反 要 揭 发 斥 责 ， </span><sup>12</sup> 因 为 那 些 人 暗 地 里 做 的 事 就 是 提 起 来 都 觉 得 可 耻 。 <sup>13</sup><span class=\"unknown\"> 然 而 ， 一 切 的 事 被 光 一 照 ， 都 会 真 相 大 白 ， </span><sup>14</sup><span class=\"unknown\"> 因 为 光 能 使 一 切 显 明 出 来 。 因 此 有 人 说 ： </span></p><div class=\"poetry top-1\"><p class=\"bible\">“沉睡的人啊， 醒来吧！<br> 从死人中起来吧， 基督要光照你了！”</p></div><p class=\"bible\"><sup>15</sup>因此， 你们要注意自己的生活， 不要像愚昧人， 要像有智慧的人。 <sup>16</sup>要爱惜光阴， 因为现今是个邪恶的世代。 <sup>17</sup>所以， 不要做糊涂人， 要明白主的旨意。 <sup>18</sup>不要醉酒， 醉酒会使人放荡， 要被圣灵充满。 <sup>19</sup>要用诗篇、 圣乐、 灵歌互相激励， 从心底唱出赞美主的旋律。 <sup>20</sup>凡事总要奉我们主耶稣基督的名感谢父上帝。</p><p class=\"bible\">夫妇之道</p><p class=\"bible\"><sup>21</sup>你们要存敬畏基督的心彼此顺服。</p><div class=\"publisher-info-bottom\"></div>",
+        "html": "<p><sup>8</sup> 你 们 从 前 活 在 黑 暗 中 ， 现 在 既 然 活 在 主 的 光 明 中 ， 行 事 为 人 就 该 像 光 明 的 儿 女 。 <sup>9</sup><span class=\"unknown\"> 光 明 总 是 结 出 良 善 、 公 义 和 真 理 的 果 子 。 </span><sup>10</sup><span class=\"unknown\">你 们 要 察 验 什 么 是 主 所 喜 悦 的 事 ， </span><sup>11</sup><span class=\"unknown\"> 不 可 参 与 那 些 黑 暗 无 益 的 事 ， 反 要 揭 发 斥 责 ， </span><sup>12</sup> 因 为 那 些 人 暗 地 里 做 的 事 就 是 提 起 来 都 觉 得 可 耻 。 <sup>13</sup><span class=\"unknown\"> 然 而 ， 一 切 的 事 被 光 一 照 ， 都 会 真 相 大 白 ， </span><sup>14</sup><span class=\"unknown\"> 因 为 光 能 使 一 切 显 明 出 来 。 因 此 有 人 说 ： </span></p><div class=\"poetry top-1\"><p>“沉睡的人啊， 醒来吧！<br> 从死人中起来吧， 基督要光照你了！”</p></div><p><sup>15</sup>因此， 你们要注意自己的生活， 不要像愚昧人， 要像有智慧的人。 <sup>16</sup>要爱惜光阴， 因为现今是个邪恶的世代。 <sup>17</sup>所以， 不要做糊涂人， 要明白主的旨意。 <sup>18</sup>不要醉酒， 醉酒会使人放荡， 要被圣灵充满。 <sup>19</sup>要用诗篇、 圣乐、 灵歌互相激励， 从心底唱出赞美主的旋律。 <sup>20</sup>凡事总要奉我们主耶稣基督的名感谢父上帝。</p><p>夫妇之道</p><p><sup>21</sup>你们要存敬畏基督的心彼此顺服。</p><div class=\"publisher-info-bottom\"></div>",
         "url": "https://biblegateway.com/passage/?search=Ephesians%205:8-21&version=CCB",
         "isOpen": false
       }
@@ -144,15 +147,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 和生理呼吸相似，呼出废气。驱散压制火焰的脏气：向神忏悔你和他意愿相悖的行为和想法（你所能想到的一切）。把自己完全交给他，重新接受圣灵的指引。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 吸入新鲜空气：请求神再次用圣灵将你填满，给你力量。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "和生理呼吸相似，呼出废气。驱散压制火焰的脏气：向神忏悔你和他意愿相悖的行为和想法（你所能想到的一切）。把自己完全交给他，重新接受圣灵的指引。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "吸入新鲜空气：请求神再次用圣灵将你填满，给你力量。"
+          }
+        ]
       }
     },
     {

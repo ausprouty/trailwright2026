@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where you need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthew 5:23-24",
-        "html": "<sup>23</sup>“Therefore, if you are offering your gift at the altar and there remember that your brother or sister has something against you,<sup>24</sup>leave your gift there in front of the altar. First go and be reconciled to them; then come and offer your gift. <p class=\"bible\"><br></p>",
+        "html": "<sup>23</sup>“Therefore, if you are offering your gift at the altar and there remember that your brother or sister has something against you,<sup>24</sup>leave your gift there in front of the altar. First go and be reconciled to them; then come and offer your gift.",
         "url": "https://biblegateway.com/passage/?search=Matthew%205:23-24&version=TNIV",
         "isOpen": false
       }
@@ -118,9 +121,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<span class=\"unknown\">▶ Are you currently experiencing a conflict in a relationship where you should take initiative? Pray in groups of 2-3 people for courage, wisdom and love so that you can approach the person concerned in the right way. </span>"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Are you currently experiencing a conflict in a relationship where you should take initiative? Pray in groups of 2-3 people for courage, wisdom and love so that you can approach the person concerned in the right way."
+          }
+        ]
       }
     },
     {
@@ -163,7 +171,7 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "<span class=\"unknown\">Some other Bible verses about conflict resolution: </span>"
+                "text": "Some other Bible verses about conflict resolution:"
               }
             },
             {

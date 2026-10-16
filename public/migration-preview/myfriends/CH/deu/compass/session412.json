@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft\nund eure Freundschaft zu Gott stärker und tiefer wird."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 8, 5-6",
-        "html": "<p class=\"bible\"><sup>5</sup>»Ein Bauer ging aufs Feld, um zu säen. Beim Ausstreuen der Saat fiel einiges auf den Weg, wo es zertreten und von den Vögeln aufgepickt wurde.<sup>6</sup>Einiges fiel auf felsigen Boden. Die Saat ging zwar auf, verdorrte aber bald, weil die nötige Feuchtigkeit fehlte. </p><p class=\"bible\"></p>",
+        "html": "<p><sup>5</sup>»Ein Bauer ging aufs Feld, um zu säen. Beim Ausstreuen der Saat fiel einiges auf den Weg, wo es zertreten und von den Vögeln aufgepickt wurde.<sup>6</sup>Einiges fiel auf felsigen Boden. Die Saat ging zwar auf, verdorrte aber bald, weil die nötige Feuchtigkeit fehlte. </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%208:5-6&version=NGU-DE",
         "isOpen": false
       }
@@ -80,7 +83,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 8, 11-15",
-        "html": "<p class=\"bible\"><sup>11</sup>Das Gleichnis bedeutet Folgendes:Die Saat ist das Wort Gottes.<sup>12</sup>Bei einigen, die es hören, ist es wie mit der Saat, die auf den Weg fällt. Der Teufel kommt und nimmt das Wort wieder aus ihrem Herzen weg, sodass sie nicht glauben und daher auch nicht gerettet werden.<sup>13</sup>Bei anderen ist es wie mit der Saat, die auf felsigen Boden fällt. Wenn sie das Wort hören, nehmen sie es mit Freuden auf. Aber sie sind wie Pflanzen ohne Wurzeln; zunächst glauben sie, doch wenn eine Zeit der Prüfung kommt, wenden sie sich wieder ab.<sup>14</sup>Wieder bei anderen ist es wie mit der Saat, die ins Dorngestrüpp fällt. Sie hören das Wort, doch im Lauf der Zeit wird es von den Sorgen, dem Reichtum und den Freuden, die das Leben bietet, verdrängt, sodass keine Frucht reifen kann.<sup>15</sup>Bei anderen jedoch ist es wie mit der Saat, die auf guten Boden fällt. Mit aufrichtigem und bereitwilligem Herzen hören sie das Wort; sie halten daran fest, lassen sich nicht entmutigen und bringen Frucht.« </p><p class=\"bible\"><br></p>",
+        "html": "<p><sup>11</sup>Das Gleichnis bedeutet Folgendes:Die Saat ist das Wort Gottes.<sup>12</sup>Bei einigen, die es hören, ist es wie mit der Saat, die auf den Weg fällt. Der Teufel kommt und nimmt das Wort wieder aus ihrem Herzen weg, sodass sie nicht glauben und daher auch nicht gerettet werden.<sup>13</sup>Bei anderen ist es wie mit der Saat, die auf felsigen Boden fällt. Wenn sie das Wort hören, nehmen sie es mit Freuden auf. Aber sie sind wie Pflanzen ohne Wurzeln; zunächst glauben sie, doch wenn eine Zeit der Prüfung kommt, wenden sie sich wieder ab.<sup>14</sup>Wieder bei anderen ist es wie mit der Saat, die ins Dorngestrüpp fällt. Sie hören das Wort, doch im Lauf der Zeit wird es von den Sorgen, dem Reichtum und den Freuden, die das Leben bietet, verdrängt, sodass keine Frucht reifen kann.<sup>15</sup>Bei anderen jedoch ist es wie mit der Saat, die auf guten Boden fällt. Mit aufrichtigem und bereitwilligem Herzen hören sie das Wort; sie halten daran fest, lassen sich nicht entmutigen und bringen Frucht.« </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%208:11-15&version=NGU-DE",
         "isOpen": false
       }
@@ -129,15 +132,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Was möchtest du von dem, was du gelesen hast, in der nächsten Woche anwenden? Schreibe es dir auf und teile es der Gruppe mit. („Ich werde...“)."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Sag es Gott in einem Gebet (bildet dazu 2-3er Gruppen)."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Was möchtest du von dem, was du gelesen hast, in der nächsten Woche\nanwenden? Schreibe es dir auf und teile es der Gruppe mit. („Ich werde...“)."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Sag es Gott in einem Gebet (bildet dazu 2-3er Gruppen)."
+          }
+        ]
       }
     },
     {

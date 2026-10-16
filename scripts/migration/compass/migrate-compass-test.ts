@@ -8,7 +8,7 @@ import { transformMultiply } from './transformMultiply';
 const PROJECT_ROOT = process.cwd();
 
 const SITE = 'myfriends' as const;
-const COUNTRY = 'CH' as const;
+const COUNTRY = 'DE' as const;
 const LANGUAGE = 'deu' as const;
 const SERIES = 'compass' as const;
 

@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft\nund eure Freundschaft zu Gott stärker und tiefer wird."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Johannes 10, 27-28",
-        "html": "<p class=\"bible\"><sup>27</sup>Meine Schafe hören auf meine Stimme. Ich kenne sie, und sie folgen mir,<sup>28</sup>und ich gebe ihnen das ewige Leben. Sie werden niemals verloren gehen, und niemand wird sie aus meiner Hand reißen. </p><p class=\"bible\"></p>",
+        "html": "<p><sup>27</sup>Meine Schafe hören auf meine Stimme. Ich kenne sie, und sie folgen mir,<sup>28</sup>und ich gebe ihnen das ewige Leben. Sie werden niemals verloren gehen, und niemand wird sie aus meiner Hand reißen. </p>",
         "url": "https://biblegateway.com/passage/?search=John%2010:27-28&version=NGU-DE",
         "isOpen": false
       }
@@ -80,7 +83,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Apostelgeschichte 9, 10-19",
-        "html": "<p class=\"bible\"><sup>10</sup>In Damaskus lebte ein Jünger ´Jesu` namens Hananias. Zu ihm sagte der Herr in einer Vision: »Hananias!« – »Ja, Herr?«, erwiderte Hananias.<sup>11</sup>»Geh in die Gerade Straße«, befahl ihm der Herr, »und frage im Haus des Judas nach einem Saulus aus Tarsus. Du musst Folgendes wissen: Saulus betet,<sup>12</sup>und in einer Vision hat er gesehen, wie ein Mann namens Hananias in sein Zimmer tritt und ihm die Hände auflegt, damit er wieder sehen kann.« </p><p class=\"bible\"><sup>13</sup>»Herr«, entgegnete Hananias, »von den verschiedensten Seiten habe ich erfahren, wie viel schreckliche Dinge dieser Mann in Jerusalem denen angetan hat, die zu deiner Gemeinde gehören.<sup>14</sup>Außerdem ist er von den führenden Priestern dazu ermächtigt, hier in Damaskus alle zu verhaften, die sich zu deinem Namen bekennen.« </p><p class=\"bible\"><sup>15</sup>Aber der Herr sagte: »Geh ´trotzdem` zu ihm! Denn gerade ihn habe ich mir als Werkzeug ausgewählt, damit er meinen Namen ´in aller Welt` bekannt macht – bei den nichtjüdischen Völkern und ihren Herrschern ebenso wie bei den Israeliten.<sup>16</sup>Und ich will ihm zeigen, wie viel er ´von jetzt an` um meines Namens willen leiden muss.« </p><p class=\"bible\"><sup>17</sup>Da machte sich Hananias auf den Weg und ging in jenes Haus. Er legte Saulus die Hände auf und sagte: »Saul, mein Bruder! Der Herr selbst – Jesus, der dir auf deiner Reise hierher erschienen ist – hat mich geschickt. Er möchte, dass du wieder sehen kannst und mit dem Heiligen Geist erfüllt wirst.«<sup>18</sup>Im selben Augenblick war es, als würden Schuppen von Saulus’ Augen fallen: Er konnte wieder sehen! Saulus stand auf und ließ sich taufen.<sup>19</sup>Und nachdem er etwas gegessen hatte, kehrten seine Kräfte zurück. </p><p class=\"bible\"></p>",
+        "html": "<p><sup>10</sup>In Damaskus lebte ein Jünger ´Jesu` namens Hananias. Zu ihm sagte der Herr in einer Vision: »Hananias!« – »Ja, Herr?«, erwiderte Hananias.<sup>11</sup>»Geh in die Gerade Straße«, befahl ihm der Herr, »und frage im Haus des Judas nach einem Saulus aus Tarsus. Du musst Folgendes wissen: Saulus betet,<sup>12</sup>und in einer Vision hat er gesehen, wie ein Mann namens Hananias in sein Zimmer tritt und ihm die Hände auflegt, damit er wieder sehen kann.« </p><p><sup>13</sup>»Herr«, entgegnete Hananias, »von den verschiedensten Seiten habe ich erfahren, wie viel schreckliche Dinge dieser Mann in Jerusalem denen angetan hat, die zu deiner Gemeinde gehören.<sup>14</sup>Außerdem ist er von den führenden Priestern dazu ermächtigt, hier in Damaskus alle zu verhaften, die sich zu deinem Namen bekennen.« </p><p><sup>15</sup>Aber der Herr sagte: »Geh ´trotzdem` zu ihm! Denn gerade ihn habe ich mir als Werkzeug ausgewählt, damit er meinen Namen ´in aller Welt` bekannt macht – bei den nichtjüdischen Völkern und ihren Herrschern ebenso wie bei den Israeliten.<sup>16</sup>Und ich will ihm zeigen, wie viel er ´von jetzt an` um meines Namens willen leiden muss.« </p><p><sup>17</sup>Da machte sich Hananias auf den Weg und ging in jenes Haus. Er legte Saulus die Hände auf und sagte: »Saul, mein Bruder! Der Herr selbst – Jesus, der dir auf deiner Reise hierher erschienen ist – hat mich geschickt. Er möchte, dass du wieder sehen kannst und mit dem Heiligen Geist erfüllt wirst.«<sup>18</sup>Im selben Augenblick war es, als würden Schuppen von Saulus’ Augen fallen: Er konnte wieder sehen! Saulus stand auf und ließ sich taufen.<sup>19</sup>Und nachdem er etwas gegessen hatte, kehrten seine Kräfte zurück. </p>",
         "url": "https://biblegateway.com/passage/?search=Acts%209:10-19&version=NGU-DE",
         "isOpen": false
       }
@@ -129,9 +132,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ So kannst du beten: „Lieber Vater, ich danke dir, dass du auch heute noch durch den Heiligen Geist zu mir sprichst. Ich stelle meine Seele und somit meinen Willen, meine Gefühle und meinen Ver-stand unter deine Herrschaft. Ich möchte mich nach dir ausstrecken und nur das tun, was du mir sagst. Mach meine Herzensaugen und Herzensohren sensibel. Lehre mich ausserdem zu unterscheiden, was dein Reden und was meine eigenen Gedanken sind. Damit ich durch den Heiligen Geist und nicht von meinen eigenen Wunschvorstellun-gen oder meinem Umfeld getrieben bin.“ (Römer 8,14)"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "So kannst du beten: „Lieber Vater, ich danke dir, dass du auch heute noch\ndurch den Heiligen Geist zu mir sprichst. Ich stelle meine Seele und somit\nmeinen Willen, meine Gefühle und meinen Ver-stand unter deine Herrschaft.\nIch möchte mich nach dir ausstrecken und nur das tun, was du mir sagst. Mach\nmeine Herzensaugen und Herzensohren sensibel. Lehre mich ausserdem zu\nunterscheiden, was dein Reden und was meine eigenen Gedanken sind. Damit ich\ndurch den Heiligen Geist und nicht von meinen eigenen Wunschvorstellun-gen\noder meinem Umfeld getrieben bin.“ (Römer 8,14)"
+          }
+        ]
       }
     },
     {

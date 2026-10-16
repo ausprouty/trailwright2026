@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -65,15 +68,6 @@
           "一人用自己的话复述所读的内容（合上圣经）",
           "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
         ]
-      }
-    },
-    {
-      "type": "biblePassage",
-      "data": {
-        "reference": "馬可福音 3:13-19",
-        "html": "",
-        "url": "",
-        "isOpen": false
       }
     },
     {
@@ -122,15 +116,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一同祈祷，让自己成为一名使徒。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 请求上帝让圣灵充满你（你可以练习“充满”那一节的步骤）"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一同祈祷，让自己成为一名使徒。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "请求上帝让圣灵充满你（你可以练习“充满”那一节的步骤）"
+          }
+        ]
       }
     },
     {

@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -71,15 +74,6 @@
           "一人用自己的话复述所读的内容（合上圣经）",
           "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
         ]
-      }
-    },
-    {
-      "type": "biblePassage",
-      "data": {
-        "reference": "馬太福音 28:18-20",
-        "html": "",
-        "url": "",
-        "isOpen": false
       }
     },
     {
@@ -125,15 +119,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 你打算在身边传福音了吗？—两人一组，虔诚祈祷大使命是生命第一要义。祈祷自己能够在同学间传道，让他们成为耶稣门徒。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<span class=\"unknown\"><span class=\"unknown\">▶ 为你祈祷列表上的名字祷告。（见：感动主的祷告）</span></span>"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "你打算在身边传福音了吗？—两人一组，虔诚祈祷大使命是生命第一要义。祈祷自己能够在同学间传道，让他们成为耶稣门徒。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "为你祈祷列表上的名字祷告。（见：感动主的祷告）"
+          }
+        ]
       }
     },
     {
@@ -146,7 +143,7 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "在19-20节，耶稣并未强调三个步骤：设门徒，洗礼，教训。在希腊原文中：只有“设门徒”是三条中必要的。“洗礼”和“教<span style=\"background-color: #ffffff;\">导</span>”作为分词。所以原文的最佳翻译是：“你们要去使万民作我的门徒，奉父、子、圣灵的名给他们<span class=\"unknown\">施洗</span>。凡我所吩咐你们的，都教<span style=\"background-color: #ffffff;\">导</span>他们遵守。”（英文已是这样翻译，所以注解是多余的。但在其他语言里-比如德语-就需要注解）"
+                "text": "在19-20节，耶稣并未强调三个步骤：设门徒，洗礼，教训。在希腊原文中：只有“设门徒”是三条中必要的。“洗礼”和“教<span style=\"background-color: #ffffff;\">导</span>”作为分词。所以原文的最佳翻译是：“你们要去使万民作我的门徒，奉父、子、圣灵的名给他们施洗。凡我所吩咐你们的，都教<span style=\"background-color: #ffffff;\">导</span>他们遵守。”（英文已是这样翻译，所以注解是多余的。但在其他语言里-比如德语-就需要注解）"
               }
             },
             {

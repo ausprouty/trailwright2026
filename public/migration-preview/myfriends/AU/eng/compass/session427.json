@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where you need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -77,7 +80,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 4:23-31",
-        "html": "<p class=\"bible\"><sup>23</sup> On their release, Peter and John went back to their own people and reported all that the chief priests and the elders had said to them. <sup>24</sup> When they heard this, they raised their voices together in prayer to God. “Sovereign Lord,” they said, “you made the heavens and the earth and the sea, and everything in them. <sup>25</sup> You spoke by the Holy Spirit through the mouth of your servant, our father David: </p><div class=\"poetry top-05\"><p class=\"bible\">“‘Why do the nations rage<br> and the peoples plot in vain?<br><sup>26</sup>The kings of the earth rise up<br> and the rulers band together<br> against the Lord and against his anointed one.’</p></div><p class=\"bible\"><sup>27</sup>Indeed Herod and Pontius Pilate met together with the Gentiles and the people of Israel in this city to conspire against your holy servant Jesus, whom you anointed.<sup>28</sup>They did what your power and will had decided beforehand should happen.<sup>29</sup>Now, Lord, consider their threats and enable your servants to speak your word with great boldness.<sup>30</sup>Stretch out your hand to heal and perform signs and wonders through the name of your holy servant Jesus.”</p><p class=\"bible\"><sup>31</sup>After they prayed, the place where they were meeting was shaken. And they were all filled with the Holy Spirit and spoke the word of God boldly.</p><p class=\"bible\"></p>",
+        "html": "<p><sup>23</sup> On their release, Peter and John went back to their own people and reported all that the chief priests and the elders had said to them. <sup>24</sup> When they heard this, they raised their voices together in prayer to God. “Sovereign Lord,” they said, “you made the heavens and the earth and the sea, and everything in them. <sup>25</sup> You spoke by the Holy Spirit through the mouth of your servant, our father David: </p><div class=\"poetry top-05\"><p>“‘Why do the nations rage<br> and the peoples plot in vain?<br><sup>26</sup>The kings of the earth rise up<br> and the rulers band together<br> against the Lord and against his anointed one.’</p></div><p><sup>27</sup>Indeed Herod and Pontius Pilate met together with the Gentiles and the people of Israel in this city to conspire against your holy servant Jesus, whom you anointed.<sup>28</sup>They did what your power and will had decided beforehand should happen.<sup>29</sup>Now, Lord, consider their threats and enable your servants to speak your word with great boldness.<sup>30</sup>Stretch out your hand to heal and perform signs and wonders through the name of your holy servant Jesus.”</p><p><sup>31</sup>After they prayed, the place where they were meeting was shaken. And they were all filled with the Holy Spirit and spoke the word of God boldly.</p>",
         "url": "https://biblegateway.com/passage/?search=Acts%204:23-31&version=TNIV",
         "isOpen": false
       }
@@ -124,22 +127,24 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Tell it to Jesus in prayer (in groups of two or three)."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Tell it to Jesus in prayer (in groups of two or three)."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray to be filled with the Holy Spirit, for courage and daring and that your life with Jesus becomes visible among your (student) friends."
+          }
+        ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iWill",
       "data": {
-        "text": "▶ Pray to be filled with the Holy Spirit, for courage and daring and that your life with Jesus becomes visible among your (student) friends."
-      }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "note"
+        "storageKey": "compass-session427-i-will"
       }
     }
   ]

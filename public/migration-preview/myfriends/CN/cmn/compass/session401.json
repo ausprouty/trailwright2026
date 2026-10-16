@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -68,12 +71,9 @@
       }
     },
     {
-      "type": "biblePassage",
+      "type": "paragraph",
       "data": {
-        "reference": "路加福音 15:11-32",
-        "html": "",
-        "url": "",
-        "isOpen": false
+        "text": "路加福音 15:11-32"
       }
     },
     {
@@ -121,21 +121,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶你相信天上的神父真的会将你心里所求的赐给你吗？（诗篇37:3-4）在你的生活中有没有让你对此怀疑的地方？用祷告的方式告诉天父你的内心的请求（无声祷告）。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶按照以弗所书3:16-19，两到三人为一组进行祷告。祈求天父给你更多的爱，让你更深地感受他的爱。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 花一些时间做小组祷告，唱赞美之歌，让天父的恩泽感染你。（如《Good Good Father》— Chris Tomlin）"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "你相信天上的神父真的会将你心里所求的赐给你吗？（诗篇37:3-4）在你的生活中有没有让你对此怀疑的地方？用祷告的方式告诉天父你的内心的请求（无声祷告）。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "按照以弗所书3:16-19，两到三人为一组进行祷告。祈求天父给你更多的爱，让你更深地感受他的爱。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "花一些时间做小组祷告，唱赞美之歌，让天父的恩泽感染你。（如《Good Good Father》— Chris Tomlin）"
+          }
+        ]
       }
     },
     {

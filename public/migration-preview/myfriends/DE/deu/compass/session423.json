@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft\nund eure Freundschaft zu Gott stärker und tiefer wird."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 1, 80",
-        "html": "<p class=\"bible\"><sup>80</sup>Johannes wuchs heran und wurde stark im Geist. Er lebte in der Wüste bis zu dem Tag, an dem er öffentlich in Israel auftrat. </p><p class=\"bible\"><br></p>",
+        "html": "<p><sup>80</sup>Johannes wuchs heran und wurde stark im Geist. Er lebte in der Wüste bis zu dem Tag, an dem er öffentlich in Israel auftrat. </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%201:80&version=NGU-DE",
         "isOpen": false
       }
@@ -80,7 +83,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 3, 1-2",
-        "html": "<p class=\"bible\"><sup>1</sup>Es war im fünfzehnten Jahr der Regierung des Kaisers Tiberius; Pontius Pilatus war Gouverneur von Judäa, Herodes regierte als Tetrarch in Galiläa, sein Bruder Philippus in Ituräa und Trachonitis, Lysanias in Abilene;<sup>2</sup>Hohepriester waren Hannas und Kajafas. </p><p class=\"bible\"> Da bekam Johannes, der Sohn des Zacharias, in der Wüste von Gott seinen Auftrag. </p><p class=\"bible\"><br></p>",
+        "html": "<p><sup>1</sup>Es war im fünfzehnten Jahr der Regierung des Kaisers Tiberius; Pontius Pilatus war Gouverneur von Judäa, Herodes regierte als Tetrarch in Galiläa, sein Bruder Philippus in Ituräa und Trachonitis, Lysanias in Abilene;<sup>2</sup>Hohepriester waren Hannas und Kajafas. </p><p> Da bekam Johannes, der Sohn des Zacharias, in der Wüste von Gott seinen Auftrag. </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%203:1-2&version=NGU-DE",
         "isOpen": false
       }
@@ -89,7 +92,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 6, 12-13",
-        "html": "<p class=\"bible\"><sup>12</sup>In jener Zeit zog sich Jesus auf einen Berg zurück, um zu beten. Die ganze Nacht verbrachte er im Gebet.<sup> 13 </sup>Als es Tag wurde, rief er seine Jünger zu sich und wählte zwölf von ihnen aus, die er Apostel nannte. Es waren: </p><p class=\"bible\"><br></p>",
+        "html": "<p><sup>12</sup>In jener Zeit zog sich Jesus auf einen Berg zurück, um zu beten. Die ganze Nacht verbrachte er im Gebet.<sup> 13 </sup>Als es Tag wurde, rief er seine Jünger zu sich und wählte zwölf von ihnen aus, die er Apostel nannte. Es waren: </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%206:12-13&version=NGU-DE",
         "isOpen": false
       }

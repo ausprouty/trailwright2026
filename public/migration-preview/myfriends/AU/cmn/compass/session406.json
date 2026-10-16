@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "路 加 福 音 5:27-32",
-        "html": "<sup>27</sup>后 来 耶 稣 外 出 时 ， 看 见 一 个 名 叫 利 未 的 税 吏 坐 在 收 税 站 里 ， 就 对 他 说 ： “ 跟 从 我 ！ ” <sup>28</sup>利 未 就 起 来 ， 撇 下 一 切 跟 从 了 耶 稣 。 <p class=\"bible\"><sup>29</sup>随后， 他在家设宴款待耶稣， 赴宴的人中有许多税吏和其他人。 <sup>30</sup>法利赛人和律法教师就向耶稣的门徒抱怨说： “你们为什么跟税吏和罪人一起吃喝呢？” </p><p class=\"bible\"><sup>31</sup>耶稣答道： “健康的人不需要医生， 有病的人才需要。 <sup>32</sup>我来不是要召义人悔改， 乃是召罪人悔改。” </p><div class=\"publisher\"></div><p class=\"bible\"></p>",
+        "html": "<sup>27</sup>后 来 耶 稣 外 出 时 ， 看 见 一 个 名 叫 利 未 的 税 吏 坐 在 收 税 站 里 ， 就 对 他 说 ： “ 跟 从 我 ！ ” <sup>28</sup>利 未 就 起 来 ， 撇 下 一 切 跟 从 了 耶 稣 。 <p><sup>29</sup>随后， 他在家设宴款待耶稣， 赴宴的人中有许多税吏和其他人。 <sup>30</sup>法利赛人和律法教师就向耶稣的门徒抱怨说： “你们为什么跟税吏和罪人一起吃喝呢？” </p><p><sup>31</sup>耶稣答道： “健康的人不需要医生， 有病的人才需要。 <sup>32</sup>我来不是要召义人悔改， 乃是召罪人悔改。” </p><div class=\"publisher\"></div>",
         "url": "https://biblegateway.com/passage/?search=Luke%205:27-32&version=CCB",
         "isOpen": false
       }
@@ -118,21 +121,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶<span style=\"background-color: #ffffff;\"><span style=\"background-color: #ffffff;\">作为</span>一个小组你们可以如何<span style=\"background-color: #ffffff;\"> 以 </span></span>这个<span style=\"background-color: #ffffff;\">为</span>目的组办活动？快速思考，每人写下<font face=\"Calibri\"> 2-3 </font><font face=\"宋体\">个想法，在组内讨论。</font>"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 写下五个你想邀请的朋友。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 为这五个人祈祷<span style=\"background-color: #ffffff;\">，</span>你和他们的关系<span style=\"background-color: #ffffff;\"> 会增强 </span>，<span style=\"background-color: #ffffff;\">并</span><span style=\"background-color: #ffffff;\">建立彼此的信任</span>。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "作为一个小组你们可以如何\n以\n这个为目的组办活动？快速思考，每人写下\n2-3\n个想法，在组内讨论。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "写下五个你想邀请的朋友。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "为这五个人祈祷，你和他们的关系\n会增强\n，并\n建立彼此的信任。"
+          }
+        ]
       }
     },
     {

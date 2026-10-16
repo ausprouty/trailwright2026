@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -71,15 +74,6 @@
           "一人用自己的话复述所读的内容（合上圣经）",
           "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
         ]
-      }
-    },
-    {
-      "type": "biblePassage",
-      "data": {
-        "reference": "雅各書 1:2-4",
-        "html": "",
-        "url": "",
-        "isOpen": false
       }
     },
     {
@@ -126,15 +120,24 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<span class=\"unknown\">▶</span> 在纸上写下今天学习到，并且以后要坚持的内容。组内分享"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "在纸上写下今天学习到，并且以后要坚持的内容。组内分享"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "两到三人为一组祈祷：将心完全依附于上帝。将你的意志和情感交付与他。"
+          }
+        ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iWill",
       "data": {
-        "text": "▶ 两到三人为一组祈祷：将心完全依附于上帝。将你的意志和情感<span style=\"background-color: #ffffff;\">交付</span>与他。"
+        "storageKey": "compass-session430-i-will"
       }
     },
     {

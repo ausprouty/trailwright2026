@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -65,15 +68,6 @@
           "一人用自己的话复述所读的内容（合上圣经）",
           "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
         ]
-      }
-    },
-    {
-      "type": "biblePassage",
-      "data": {
-        "reference": "約翰福音 15:1-16; 耶利米書 17:5-8",
-        "html": "",
-        "url": "",
-        "isOpen": false
       }
     },
     {
@@ -120,22 +114,24 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 为了再次与耶稣相联系，<span style=\"background-color: #ffffff;\">有没有你需要</span>停止做的一些事情？你的生命里有过和耶稣脱离的时候吗？如果有，各自在祈祷中坦白。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "为了再次与耶稣相联系，有没有你需要停止做的一些事情？你的生命里有过和耶稣脱离的时候吗？如果有，各自在祈祷中坦白。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "你有要允许上帝在你生命中做的事吗？有没有你明知道上帝为你准备好，你却迟迟不肯接受的事物？两到三人为一组祷告。请求耶稣引导你的生活，规划你的未来，请求他用圣灵填满你，你便会硕果累累。在“填满”那一章找到具体步骤。"
+          }
+        ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iWill",
       "data": {
-        "text": "▶ 你有要允许上帝在你生命中做的事吗？有没有你明知道上帝为你准备好，你却迟迟不肯接受的事物？两到三人为一组祷告。请求耶稣引导你的生活，规划你的未来，请求他用圣灵<span style=\"background-color: #ffffff;\">填</span>满你，你便会硕果累累。在“<span style=\"background-color: #ffffff;\">填</span>满”那一章找到具体步骤。"
-      }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "note"
+        "storageKey": "compass-session432-i-will"
       }
     }
   ]

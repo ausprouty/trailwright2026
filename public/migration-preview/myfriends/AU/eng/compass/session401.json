@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where you need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Luke 15:11-32",
-        "html": "<p class=\"bible\"><sup>11</sup><span class=\"unknown\"> Jesus continued: “There was a man who had two sons. </span><sup>12</sup> The younger one said to his father, ‘Father, give me my share of the estate.’ So he divided his property between them. </p><p class=\"bible\"><sup>13</sup>“Not long after that, the younger son got together all he had, set off for a distant country and there squandered his wealth in wild living.<sup>14</sup>After he had spent everything, there was a severe famine in that whole country, and he began to be in need.<sup>15</sup>So he went and hired himself out to a citizen of that country, who sent him to his fields to feed pigs.<sup>16</sup>He longed to fill his stomach with the pods that the pigs were eating, but no one gave him anything.</p><p class=\"bible\"><sup>17</sup>“When he came to his senses, he said, ‘How many of my father’s hired servants have food to spare, and here I am starving to death!<sup>18</sup>I will set out and go back to my father and say to him: Father, I have sinned against heaven and against you.<sup>19</sup>I am no longer worthy to be called your son; make me like one of your hired servants.’<sup>20</sup>So he got up and went to his father.</p><p class=\"bible\">“But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.</p><p class=\"bible\"><sup>21</sup>“The son said to him, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’</p><p class=\"bible\"><sup>22</sup>“But the father said to his servants, ‘Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet.<sup>23</sup>Bring the fattened calf and kill it. Let’s have a feast and celebrate.<sup>24</sup>For this son of mine was dead and is alive again; he was lost and is found.’ So they began to celebrate.</p><p class=\"bible\"><sup>25</sup>“Meanwhile, the older son was in the field. When he came near the house, he heard music and dancing.<sup>26</sup>So he called one of the servants and asked him what was going on.<sup>27</sup>‘Your brother has come,’ he replied, ‘and your father has killed the fattened calf because he has him back safe and sound.’</p><p class=\"bible\"><sup>28</sup>“The older brother became angry and refused to go in. So his father went out and pleaded with him.<sup>29</sup>But he answered his father, ‘Look! All these years I’ve been slaving for you and never disobeyed your orders. Yet you never gave me even a young goat so I could celebrate with my friends.<sup>30</sup>But when this son of yours who has squandered your property with prostitutes comes home, you kill the fattened calf for him!’</p><p class=\"bible\"><sup>31</sup>“‘My son,’ the father said, ‘you are always with me, and everything I have is yours.<sup>32</sup>But we had to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”</p><p class=\"bible\"></p>",
+        "html": "<p><sup>11</sup> Jesus continued: “There was a man who had two sons. <sup>12</sup> The younger one said to his father, ‘Father, give me my share of the estate.’ So he divided his property between them. </p><p><sup>13</sup>“Not long after that, the younger son got together all he had, set off for a distant country and there squandered his wealth in wild living.<sup>14</sup>After he had spent everything, there was a severe famine in that whole country, and he began to be in need.<sup>15</sup>So he went and hired himself out to a citizen of that country, who sent him to his fields to feed pigs.<sup>16</sup>He longed to fill his stomach with the pods that the pigs were eating, but no one gave him anything.</p><p><sup>17</sup>“When he came to his senses, he said, ‘How many of my father’s hired servants have food to spare, and here I am starving to death!<sup>18</sup>I will set out and go back to my father and say to him: Father, I have sinned against heaven and against you.<sup>19</sup>I am no longer worthy to be called your son; make me like one of your hired servants.’<sup>20</sup>So he got up and went to his father.</p><p>“But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.</p><p><sup>21</sup>“The son said to him, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’</p><p><sup>22</sup>“But the father said to his servants, ‘Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet.<sup>23</sup>Bring the fattened calf and kill it. Let’s have a feast and celebrate.<sup>24</sup>For this son of mine was dead and is alive again; he was lost and is found.’ So they began to celebrate.</p><p><sup>25</sup>“Meanwhile, the older son was in the field. When he came near the house, he heard music and dancing.<sup>26</sup>So he called one of the servants and asked him what was going on.<sup>27</sup>‘Your brother has come,’ he replied, ‘and your father has killed the fattened calf because he has him back safe and sound.’</p><p><sup>28</sup>“The older brother became angry and refused to go in. So his father went out and pleaded with him.<sup>29</sup>But he answered his father, ‘Look! All these years I’ve been slaving for you and never disobeyed your orders. Yet you never gave me even a young goat so I could celebrate with my friends.<sup>30</sup>But when this son of yours who has squandered your property with prostitutes comes home, you kill the fattened calf for him!’</p><p><sup>31</sup>“‘My son,’ the father said, ‘you are always with me, and everything I have is yours.<sup>32</sup>But we had to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”</p>",
         "url": "https://biblegateway.com/passage/?search=Luke%2015:11-32&version=TNIV",
         "isOpen": false
       }
@@ -121,21 +124,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Do you believe that your Heavenly Father truly wants you to have what you desire with all your heart (<a href=\"https://www.biblegateway.com/passage/?search=Psalm+37%3A3-4&amp;version=NIV\" target=\"_blank\"> Psalm 37:3-4 </a>)? Are there areas in your life where you doubt that? Tell Him in a prayer what you are longing for (pray silently)."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray according to Ephesians 3:16-19 in groups of two or three. Pray that our Heavenly Father fills you more with His love and and gives you a deeper understanding of this love."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Take some time to worship in your group. Sing songs that express God’s love to you and let yourselves be touched by God’s grace! (e.g: “<a href=\"https://www.youtube.com/watch?v=CqybaIesbuA\" target=\"_blank\"> Good Good Father </a>” by Chris Tomlin)"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Do you believe that your Heavenly Father truly wants you to have what you desire with all your heart ( Psalm 37:3-4 )? Are there areas in your life where you doubt that? Tell Him in a prayer what you are longing for (pray silently)."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray according to Ephesians 3:16-19 in groups of two or three. Pray that our Heavenly Father fills you more with His love and and gives you a deeper understanding of this love."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Take some time to worship in your group. Sing songs that express God’s love to you and let yourselves be touched by God’s grace! (e.g: “ Good Good Father ” by Chris Tomlin)"
+          }
+        ]
       }
     },
     {

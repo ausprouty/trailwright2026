@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where you need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -77,7 +80,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "1 Kings 17:8-16",
-        "html": "<p><sup>8</sup>Then the word of the <span class=\"small-caps\">Lord</span> came to him:<sup>9</sup>“Go at once to Zarephath in the region of Sidon and stay there. I have directed a widow there to supply you with food.”<sup>10</sup>So he went to Zarephath. When he came to the town gate, a widow was there gathering sticks. He called to her and asked, “Would you bring me a little water in a jar so I may have a drink?”<sup>11</sup>As she was going to get it, he called, “And bring me, please, a piece of bread.”</p><p class=\"bible\"><sup>12</sup>“As surely as the <span class=\"small-caps\">Lord</span> your God lives,” she replied, “I don’t have any bread—only a handful of flour in a jar and a little olive oil in a jug. I am gathering a few sticks to take home and make a meal for myself and my son, that we may eat it—and die.”</p><p class=\"bible\"><sup>13</sup>Elijah said to her, “Don’t be afraid. Go home and do as you have said. But first make a small loaf of bread for me from what you have and bring it to me, and then make something for yourself and your son.<sup>14</sup>For this is what the <span class=\"small-caps\">Lord</span>, the God of Israel, says: ‘The jar of flour will not be used up and the jug of oil will not run dry until the day the <span class=\"small-caps\">Lord</span> sends rain on the land.’”</p><p class=\"bible\"><sup>15</sup>She went away and did as Elijah had told her. So there was food every day for Elijah and for the woman and her family.<sup>16</sup>For the jar of flour was not used up and the jug of oil did not run dry, in keeping with the word of the <span class=\"small-caps\">Lord</span> spoken by Elijah.</p><p class=\"bible\"></p>",
+        "html": "<p><sup>8</sup>Then the word of the <span class=\"small-caps\">Lord</span> came to him:<sup>9</sup>“Go at once to Zarephath in the region of Sidon and stay there. I have directed a widow there to supply you with food.”<sup>10</sup>So he went to Zarephath. When he came to the town gate, a widow was there gathering sticks. He called to her and asked, “Would you bring me a little water in a jar so I may have a drink?”<sup>11</sup>As she was going to get it, he called, “And bring me, please, a piece of bread.”</p><p><sup>12</sup>“As surely as the <span class=\"small-caps\">Lord</span> your God lives,” she replied, “I don’t have any bread—only a handful of flour in a jar and a little olive oil in a jug. I am gathering a few sticks to take home and make a meal for myself and my son, that we may eat it—and die.”</p><p><sup>13</sup>Elijah said to her, “Don’t be afraid. Go home and do as you have said. But first make a small loaf of bread for me from what you have and bring it to me, and then make something for yourself and your son.<sup>14</sup>For this is what the <span class=\"small-caps\">Lord</span>, the God of Israel, says: ‘The jar of flour will not be used up and the jug of oil will not run dry until the day the <span class=\"small-caps\">Lord</span> sends rain on the land.’”</p><p><sup>15</sup>She went away and did as Elijah had told her. So there was food every day for Elijah and for the woman and her family.<sup>16</sup>For the jar of flour was not used up and the jug of oil did not run dry, in keeping with the word of the <span class=\"small-caps\">Lord</span> spoken by Elijah.</p>",
         "url": "https://biblegateway.com/passage/?search=1%20Kings%2017:8-16&version=TNIV",
         "isOpen": false
       }

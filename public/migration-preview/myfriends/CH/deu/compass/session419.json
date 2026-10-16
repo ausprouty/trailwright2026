@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft\nund eure Freundschaft zu Gott stärker und tiefer wird."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Markus 3, 13-19",
-        "html": "<div class=\"bible\"><p class=\"bible\"><sup>13</sup>Jesus stieg auf einen Berg und rief die zu sich, die er bei sich haben wollte. Sie traten zu ihm,<sup>14</sup>und er bestimmte zwölf, die er Apostel nannte. Sie sollten ständig bei ihm sein, und er wollte sie aussenden, damit sie seine Botschaft verkündeten<sup>15</sup>und in seiner Vollmacht die Dämonen austrieben. </p><p class=\"bible\"><sup>16</sup>Die Zwölf, die er bestimmte, waren: </p><div class=\"poetry\"><p class=\"bible\"> Simon, dem er den Namen Petrus gab,<br><sup>17</sup>Jakobus, der Sohn des Zebedäus,<br>Johannes, der Bruder des Jakobus – diese beiden nannte er Boanerges (das bedeutet »Donnersöhne«) –,<br><sup>18</sup>Andreas,<br>Philippus,<br>Bartholomäus,<br>Matthäus,<br>Thomas,<br>Jakobus, der Sohn des Alphäus,<br>Thaddäus,<br>Simon, der Zelot,<br><sup>19</sup>und Judas Iskariot, der Jesus verriet. </p></div><p class=\"bible\"><br></p></div>",
+        "html": "<p><sup>13</sup>Jesus stieg auf einen Berg und rief die zu sich, die er bei sich haben wollte. Sie traten zu ihm,<sup>14</sup>und er bestimmte zwölf, die er Apostel nannte. Sie sollten ständig bei ihm sein, und er wollte sie aussenden, damit sie seine Botschaft verkündeten<sup>15</sup>und in seiner Vollmacht die Dämonen austrieben. </p><p><sup>16</sup>Die Zwölf, die er bestimmte, waren: </p><div class=\"poetry\"><p> Simon, dem er den Namen Petrus gab,<br><sup>17</sup>Jakobus, der Sohn des Zebedäus,<br>Johannes, der Bruder des Jakobus – diese beiden nannte er Boanerges (das bedeutet »Donnersöhne«) –,<br><sup>18</sup>Andreas,<br>Philippus,<br>Bartholomäus,<br>Matthäus,<br>Thomas,<br>Jakobus, der Sohn des Alphäus,<br>Thaddäus,<br>Simon, der Zelot,<br><sup>19</sup>und Judas Iskariot, der Jesus verriet. </p></div>",
         "url": "https://biblegateway.com/passage/?search=Mark%203:13-19&version=NGU-DE",
         "isOpen": false
       }
@@ -120,15 +123,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Betet miteinander und stellt euch Gott als Gesandte in eurem Studi-um zur Verfügung."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Bittet Gott, euch ganz mit seinem Heiligen Geist zu erfüllen (prakti-sche Schritte dazu findet ihr im Kapitel „Erfüllt“)."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Betet miteinander und stellt euch Gott als Gesandte in eurem Studi-um zur\nVerfügung."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Bittet Gott, euch ganz mit seinem Heiligen Geist zu erfüllen (prakti-sche\nSchritte dazu findet ihr im Kapitel „Erfüllt“)."
+          }
+        ]
       }
     },
     {

@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft\nund eure Freundschaft zu Gott stärker und tiefer wird."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Apostelgeschichte 8, 26-40",
-        "html": "<p class=\"bible\"><sup>26</sup>Philippus aber bekam von einem Engel des Herrn folgenden Auftrag: »Mach dich auf den Weg in Richtung Süden! Benutze die einsame Wüstenstraße, die von Jerusalem nach Gaza hinunterführt.« </p><p class=\"bible\"><sup>27</sup>Philippus machte sich auf den Weg; und als er diese Straße entlangging, kam dort in seinem Reisewagen ein Äthiopier gefahren, ein Eunuch. Es handelte sich um einen hohen Würdenträger, den Finanzminister der Kandake, der äthiopischen Königin. Der Mann war in Jerusalem gewesen, um ´den Gott Israels` anzubeten,<sup>28</sup>und befand sich jetzt auf der Rückreise. Er saß in seinem Wagen und las im Buch des Propheten Jesaja. </p><p class=\"bible\"><sup>29</sup>Der ´Heilige` Geist sagte zu Philippus: »Geh zu dem Wagen dort und halte dich dicht neben ihm!«<sup>30</sup>Philippus lief hin, und als er neben dem Wagen herging, hörte er den Mann laut aus dem Buch des Propheten Jesaja lesen. »Verstehst du denn, was du da liest?«, fragte er ihn.<sup>31</sup>»Wie kann ich es verstehen, wenn niemand es mir erklärt?«, erwiderte der Mann. Und er bat Philippus, aufzusteigen und sich zu ihm zu setzen. </p><p class=\"bible\"><sup>32</sup>Der Abschnitt der Schrift, den er eben gelesen hatte, lautete: </p><div class=\"poetry\"><p class=\"bible\"> »Man hat ihn weggeführt wie ein Schaf, das geschlachtet werden soll.<br>Und wie ein Lamm beim Scheren keinen Laut von sich gibt,<br>so kam auch über seine Lippen kein Laut ´der Klage`.<br><sup>33</sup>Er wurde erniedrigt und all seiner Rechte beraubt.<br>Niemand wird über Nachkommen von ihm berichten können,denn sein Leben auf der Erde wurde ihm genommen.« </p></div><p class=\"bible\"><sup>34</sup>Der Äthiopier wandte sich an Philippus: »Bitte sag mir, von wem ist hier die Rede? Spricht der Prophet von sich selbst, oder spricht er von jemand anders?«<sup>35</sup>Da ergriff Philippus die Gelegenheit und erklärte ihm, von dieser Schriftstelle ausgehend, das Evangelium von Jesus. </p><p class=\"bible\"><sup>36</sup>Als sie nun, ´ins Gespräch vertieft,` die Straße entlangfuhren, kamen sie an einer Wasserstelle vorbei. »Hier ist Wasser!«, rief der Äthiopier. »Spricht etwas dagegen, dass ich getauft werde?«<sup>38</sup>Und er befahl, den Wagen anzuhalten. Beide, Philippus und der Äthiopier, stiegen ins Wasser, und Philippus taufte den Mann. </p><p class=\"bible\"><sup>39</sup>Als sie wieder aus dem Wasser stiegen, wurde Philippus plötzlich vom Geist des Herrn ergriffen und an einen anderen Ort versetzt, und der Äthiopier sah ihn nicht mehr. Trotzdem erfüllte ihn eine tiefe Freude, als er nun seine Reise fortsetzte. </p><p class=\"bible\"><sup>40</sup>Philippus fand sich in Aschdod wieder. Er zog ´nordwärts` und verkündete in allen Städten das Evangelium, bis er schließlich nach Cäsarea kam. </p><p class=\"bible\"><br></p>",
+        "html": "<p><sup>26</sup>Philippus aber bekam von einem Engel des Herrn folgenden Auftrag: »Mach dich auf den Weg in Richtung Süden! Benutze die einsame Wüstenstraße, die von Jerusalem nach Gaza hinunterführt.« </p><p><sup>27</sup>Philippus machte sich auf den Weg; und als er diese Straße entlangging, kam dort in seinem Reisewagen ein Äthiopier gefahren, ein Eunuch. Es handelte sich um einen hohen Würdenträger, den Finanzminister der Kandake, der äthiopischen Königin. Der Mann war in Jerusalem gewesen, um ´den Gott Israels` anzubeten,<sup>28</sup>und befand sich jetzt auf der Rückreise. Er saß in seinem Wagen und las im Buch des Propheten Jesaja. </p><p><sup>29</sup>Der ´Heilige` Geist sagte zu Philippus: »Geh zu dem Wagen dort und halte dich dicht neben ihm!«<sup>30</sup>Philippus lief hin, und als er neben dem Wagen herging, hörte er den Mann laut aus dem Buch des Propheten Jesaja lesen. »Verstehst du denn, was du da liest?«, fragte er ihn.<sup>31</sup>»Wie kann ich es verstehen, wenn niemand es mir erklärt?«, erwiderte der Mann. Und er bat Philippus, aufzusteigen und sich zu ihm zu setzen. </p><p><sup>32</sup>Der Abschnitt der Schrift, den er eben gelesen hatte, lautete: </p><div class=\"poetry\"><p> »Man hat ihn weggeführt wie ein Schaf, das geschlachtet werden soll.<br>Und wie ein Lamm beim Scheren keinen Laut von sich gibt,<br>so kam auch über seine Lippen kein Laut ´der Klage`.<br><sup>33</sup>Er wurde erniedrigt und all seiner Rechte beraubt.<br>Niemand wird über Nachkommen von ihm berichten können,denn sein Leben auf der Erde wurde ihm genommen.« </p></div><p><sup>34</sup>Der Äthiopier wandte sich an Philippus: »Bitte sag mir, von wem ist hier die Rede? Spricht der Prophet von sich selbst, oder spricht er von jemand anders?«<sup>35</sup>Da ergriff Philippus die Gelegenheit und erklärte ihm, von dieser Schriftstelle ausgehend, das Evangelium von Jesus. </p><p><sup>36</sup>Als sie nun, ´ins Gespräch vertieft,` die Straße entlangfuhren, kamen sie an einer Wasserstelle vorbei. »Hier ist Wasser!«, rief der Äthiopier. »Spricht etwas dagegen, dass ich getauft werde?«<sup>38</sup>Und er befahl, den Wagen anzuhalten. Beide, Philippus und der Äthiopier, stiegen ins Wasser, und Philippus taufte den Mann. </p><p><sup>39</sup>Als sie wieder aus dem Wasser stiegen, wurde Philippus plötzlich vom Geist des Herrn ergriffen und an einen anderen Ort versetzt, und der Äthiopier sah ihn nicht mehr. Trotzdem erfüllte ihn eine tiefe Freude, als er nun seine Reise fortsetzte. </p><p><sup>40</sup>Philippus fand sich in Aschdod wieder. Er zog ´nordwärts` und verkündete in allen Städten das Evangelium, bis er schließlich nach Cäsarea kam. </p>",
         "url": "https://biblegateway.com/passage/?search=Acts%208:26-40&version=NGU-DE",
         "isOpen": false
       }
@@ -80,7 +83,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Apostelgeschichte 13, 1-4",
-        "html": "<p class=\"bible\"><sup>1</sup>In der Gemeinde von Antiochia gab es eine Reihe von Propheten und Lehrern: Barnabas, Simeon, genannt »der Schwarze«, Luzius aus Zyrene, Manaën, der zusammen mit dem Fürsten Herodes aufgewachsen war, und Saulus.<sup>2</sup>Eines Tages, während die Gemeinde dem Herrn mit Gebet und Fasten diente, sagte der Heilige Geist: »Stellt mir Barnabas und Saulus für die Aufgabe frei, zu der ich sie berufen habe!«<sup>3</sup>Da legte man den beiden nach weiterem Fasten und Beten die Hände auf und ließ sie ziehen. </p><p class=\"bible\"> Auf Zypern: Zusammenstoß mit einem jüdischen Magier, Erfolg bei dem Prokonsul der Insel </p><p class=\"bible\"><sup>4</sup>Auf diese Weise vom Heiligen Geist ausgesandt, gingen Barnabas und Saulus nach Seleuzia hinunter und nahmen dort ein Schiff, das nach Zypern fuhr; </p><p class=\"bible\"><br></p>",
+        "html": "<p><sup>1</sup>In der Gemeinde von Antiochia gab es eine Reihe von Propheten und Lehrern: Barnabas, Simeon, genannt »der Schwarze«, Luzius aus Zyrene, Manaën, der zusammen mit dem Fürsten Herodes aufgewachsen war, und Saulus.<sup>2</sup>Eines Tages, während die Gemeinde dem Herrn mit Gebet und Fasten diente, sagte der Heilige Geist: »Stellt mir Barnabas und Saulus für die Aufgabe frei, zu der ich sie berufen habe!«<sup>3</sup>Da legte man den beiden nach weiterem Fasten und Beten die Hände auf und ließ sie ziehen. </p><p> Auf Zypern: Zusammenstoß mit einem jüdischen Magier, Erfolg bei dem Prokonsul der Insel </p><p><sup>4</sup>Auf diese Weise vom Heiligen Geist ausgesandt, gingen Barnabas und Saulus nach Seleuzia hinunter und nahmen dort ein Schiff, das nach Zypern fuhr; </p>",
         "url": "https://biblegateway.com/passage/?search=Acts%2013:1-4&version=NGU-DE",
         "isOpen": false
       }
@@ -126,21 +129,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Gab es in letzter Zeit eine schwierige Situation in deinem Leben? Halte kurz inne und frage Jesus, wo er in dieser Siatuation war, und was er dazu oder zu dir jetzt sagt. Schreibe deine Eindrücke auf (jeder für sich)."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Für was brauchst du Gottes Führung und Weisheit? Tauscht darüber aus."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Betet füreinander, dass ihr immer mehr offene „Herzensaugen“ und „Herzensohren“ bekommt, um die Stimme des Heiligen Geistes zu hören (Epheser 1,18)."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Gab es in letzter Zeit eine schwierige Situation in deinem Leben? Halte\nkurz inne und frage Jesus, wo er in dieser Siatuation war, und was er dazu\noder zu dir jetzt sagt. Schreibe deine Eindrücke auf (jeder für sich)."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Für was brauchst du Gottes Führung und Weisheit? Tauscht darüber aus."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Betet füreinander, dass ihr immer mehr offene „Herzensaugen“ und\n„Herzensohren“ bekommt, um die Stimme des Heiligen Geistes zu hören (Epheser\n1,18)."
+          }
+        ]
       }
     },
     {

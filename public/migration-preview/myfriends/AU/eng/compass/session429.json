@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where you need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 2:42-47",
-        "html": "<sup>42</sup>They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer.<sup>43</sup>Everyone was filled with awe at the many wonders and signs performed by the apostles.<sup>44</sup>All the believers were together and had everything in common.<sup>45</sup>They sold property and possessions to give to anyone who had need.<sup>46</sup>Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts,<sup>47</sup>praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved. <p class=\"bible\"></p>",
+        "html": "<sup>42</sup>They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer.<sup>43</sup>Everyone was filled with awe at the many wonders and signs performed by the apostles.<sup>44</sup>All the believers were together and had everything in common.<sup>45</sup>They sold property and possessions to give to anyone who had need.<sup>46</sup>Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts,<sup>47</sup>praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved.",
         "url": "https://biblegateway.com/passage/?search=Acts%202:42-47&version=TNIV",
         "isOpen": false
       }
@@ -80,7 +83,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Hebrews 10:24-25",
-        "html": "<p class=\"bible\"><sup>24</sup> And let us consider how we may spur one another on toward love and good deeds, <sup>25</sup> not giving up meeting together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching. </p><p class=\"bible\"></p>",
+        "html": "<p><sup>24</sup> And let us consider how we may spur one another on toward love and good deeds, <sup>25</sup> not giving up meeting together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching. </p>",
         "url": "https://biblegateway.com/passage/?search=Hebrews%2010:24-25&version=TNIV",
         "isOpen": false
       }
@@ -128,21 +131,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray that your friendship with God and among each other streng­thens and deepens."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ In prayer, make yourselves available for God, that He increasingly uses your group to bring the perceptible presence of God to your university (see scripture comments)."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray for the people on your prayer list (see also “Prayer that moves God”)."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray that your friendship with God and among each other streng­thens and deepens."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "In prayer, make yourselves available for God, that He increasingly uses your group to bring the perceptible presence of God to your university (see scripture comments)."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray for the people on your prayer list (see also “Prayer that moves God”)."
+          }
+        ]
       }
     },
     {
@@ -161,7 +165,7 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "Columban, Gallus and many other Irish monks were sent by God to central Europe in that time. They travelled in clans and started hundreds of monastery communities within a short period of time. They had a flat hierarchy, were well-connected in a network and greatly affected society through the Kingdom of God. A great sign of distinction was that they brought the perceptible presence of God to the people.<br> What do we mean by <span class=\"unknown\">“</span>the perceptible presence of God”? There are accounts telling of Columban and how people brought <span class=\"unknown\">“</span>the sick in droves” to him and that he <span class=\"unknown\">“</span>healed everyone that came to him from their illness through the remedy of prayer while God’s help was with him”. Through those clan-like communities, whole societies and regions were saturated with the gospel, having a long-lasting effect."
+                "text": "Columban, Gallus and many other Irish monks were sent by God to central Europe in that time. They travelled in clans and started hundreds of monastery communities within a short period of time. They had a flat hierarchy, were well-connected in a network and greatly affected society through the Kingdom of God. A great sign of distinction was that they brought the perceptible presence of God to the people.<br> What do we mean by “the perceptible presence of God”? There are accounts telling of Columban and how people brought “the sick in droves” to him and that he “healed everyone that came to him from their illness through the remedy of prayer while God’s help was with him”. Through those clan-like communities, whole societies and regions were saturated with the gospel, having a long-lasting effect."
               }
             },
             {

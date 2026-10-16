@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "哥 林 多 前 书 2:9-16",
-        "html": "<p class=\"bible\"><sup>9</sup>正如圣经上说： </p><div class=\"poetry top-1\"><p class=\"bible\"> “上帝为爱祂的人所预备的，<br> 是眼睛未曾见过，<br> 耳朵未曾听闻， 人心也未曾想到的。” </p></div><p class=\"bible\"><sup>10</sup>然而，上帝借着圣灵将这一切启示给我们，因为圣灵洞悉万事，连上帝深奥的事都了如指掌。 <sup>11</sup>除了人里面的灵，谁能了解人的事呢？照样，除了上帝的圣灵，谁也不能了解上帝的事。 <sup>12</sup>我们接受的不是这世界的灵，而是上帝的圣灵，使我们可以领会上帝开恩启示给我们的事。 <sup>13</sup>我们讲述这些事，不是用人类智慧所教的话，而是用圣灵所教的话，用属灵的话解释属灵的事。 </p><p class=\"bible\"><sup>14</sup>然而，属血气的人不接受从上帝来的圣灵的教导，认为愚不可及，无法明白，因为只有属灵的人才能参透。 <sup>15</sup>属灵的人能够参透万事，但没有人能参透他。 </p><div class=\"poetry top-1\"><p class=\"bible\"><sup>16</sup>“谁曾知道主的心意， 能够指教祂呢？” </p></div><p class=\"bible\">但我们明白基督的心意。</p><div class=\"publisher-info-bottom\"></div>",
+        "html": "<p><sup>9</sup>正如圣经上说： </p><div class=\"poetry top-1\"><p> “上帝为爱祂的人所预备的，<br> 是眼睛未曾见过，<br> 耳朵未曾听闻， 人心也未曾想到的。” </p></div><p><sup>10</sup>然而，上帝借着圣灵将这一切启示给我们，因为圣灵洞悉万事，连上帝深奥的事都了如指掌。 <sup>11</sup>除了人里面的灵，谁能了解人的事呢？照样，除了上帝的圣灵，谁也不能了解上帝的事。 <sup>12</sup>我们接受的不是这世界的灵，而是上帝的圣灵，使我们可以领会上帝开恩启示给我们的事。 <sup>13</sup>我们讲述这些事，不是用人类智慧所教的话，而是用圣灵所教的话，用属灵的话解释属灵的事。 </p><p><sup>14</sup>然而，属血气的人不接受从上帝来的圣灵的教导，认为愚不可及，无法明白，因为只有属灵的人才能参透。 <sup>15</sup>属灵的人能够参透万事，但没有人能参透他。 </p><div class=\"poetry top-1\"><p><sup>16</sup>“谁曾知道主的心意， 能够指教祂呢？” </p></div><p>但我们明白基督的心意。</p><div class=\"publisher-info-bottom\"></div>",
         "url": "https://biblegateway.com/passage/?search=1%20Corinthians%202:9-16&version=CCB",
         "isOpen": false
       }
@@ -80,7 +83,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "哥 林 多 前 书 3:1-4",
-        "html": "<p class=\"bible\"><sup>1</sup>弟兄姊妹，以前我对你们讲话的时候，还不能把你们看作属灵的人，只能把你们看作属肉体的人，是在基督里的婴孩。 <sup>2</sup>我只能用奶而不能用饭来喂养你们，因为你们当时不能消化，甚至现在也不能。 <sup>3</sup>你们仍然是属肉体的人，因为你们中间有嫉妒、争斗。这岂不证明你们是属肉体的，行事为人和世人一样吗？ <sup>4</sup>你们有的说：“我是跟随保罗的”，有的说：“我是跟随亚波罗的”，这岂不证明你们和世人一样吗？ </p><div class=\"publisher-info-bottom\"></div>",
+        "html": "<p><sup>1</sup>弟兄姊妹，以前我对你们讲话的时候，还不能把你们看作属灵的人，只能把你们看作属肉体的人，是在基督里的婴孩。 <sup>2</sup>我只能用奶而不能用饭来喂养你们，因为你们当时不能消化，甚至现在也不能。 <sup>3</sup>你们仍然是属肉体的人，因为你们中间有嫉妒、争斗。这岂不证明你们是属肉体的，行事为人和世人一样吗？ <sup>4</sup>你们有的说：“我是跟随保罗的”，有的说：“我是跟随亚波罗的”，这岂不证明你们和世人一样吗？ </p><div class=\"publisher-info-bottom\"></div>",
         "url": "https://biblegateway.com/passage/?search=1%20Corinthians%203:1-4&version=CCB",
         "isOpen": false
       }
@@ -151,28 +154,28 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 如果是的话，现在就请求上帝让圣灵填满你。在“填满”一节中找到的称之为“灵性呼吸”的实践步骤可能会有所帮助。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "如果是的话，现在就请求上帝让圣灵填满你。在“填满”一节中找到的称之为“灵性呼吸”的实践步骤可能会有所帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "两到三人为一组祷告，让你们的生命充满上帝的能力、爱和智慧，并让圣灵的光芒照耀不认识耶稣的同学。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "收集关于帮助你同学的想法，以便他们透过你看到/感受/体验耶稣对他们的爱。"
+          }
+        ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iWill",
       "data": {
-        "text": "▶ 两到三人为一组祷告，让你们的生命充满上帝的能力、爱和智慧，并让圣灵的光芒照耀不认识耶稣的同学。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 收集关于帮助你同学的想法，以便他们透过你看到/感受/体验耶稣对他们的爱。"
-      }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "note"
+        "storageKey": "compass-session434-i-will"
       }
     }
   ]

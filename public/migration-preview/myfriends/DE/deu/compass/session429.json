@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft\nund eure Freundschaft zu Gott stärker und tiefer wird."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Apostelgeschichte 2, 42-47",
-        "html": "<sup>42</sup>Was das Leben der Christen prägte, waren die Lehre, in der die Apostel sie unterwiesen, ihr Zusammenhalt in gegenseitiger Liebe und Hilfsbereitschaft, das Mahl des Herrn und das Gebet. <p class=\"bible\"><sup>43</sup>Jedermann ´in Jerusalem` war von einer tiefen Ehrfurcht vor Gott ergriffen, und durch die Apostel geschahen zahlreiche Wunder und viele außergewöhnliche Dinge.<sup> 44 </sup>Alle, die ´an Jesus` glaubten, hielten fest zusammen und teilten alles miteinander, was sie besaßen.<sup>45</sup>Sie verkauften sogar Grundstücke und sonstigen Besitz und verteilten den Erlös entsprechend den jeweiligen Bedürfnissen an alle, die in Not waren.<sup> 46 </sup>Einmütig und mit großer Treue kamen sie Tag für Tag im Tempel zusammen. Außerdem trafen sie sich täglich in ihren Häusern, um miteinander zu essen und das Mahl des Herrn zu feiern, und ihre Zusammenkünfte waren von überschwänglicher Freude und aufrichtiger Herzlichkeit geprägt.<sup>47</sup>Sie priesen Gott ´bei allem, was sie taten,` und standen beim ganzen Volk in hohem Ansehen. Und jeden Tag rettete der Herr weitere Menschen, sodass die Gemeinde immer größer wurde. </p><p class=\"bible\"><br></p> Und weil wir auch füreinander verantwortlich sind, wollen wir uns gegenseitig dazu anspornen, einander Liebe zu erweisen und Gutes zu tun.Deshalb ist es wichtig, dass wir unseren Zusammenkünften nicht fernbleiben, wie einige sich das angewöhnt haben, sondern dass wir einander ermutigen, und das umso mehr, als – wie ihr selbst feststellen könnt – der Tag näherrückt, ´an dem der Herr wiederkommt`.",
+        "html": "<sup>42</sup>Was das Leben der Christen prägte, waren die Lehre, in der die Apostel sie unterwiesen, ihr Zusammenhalt in gegenseitiger Liebe und Hilfsbereitschaft, das Mahl des Herrn und das Gebet. <p><sup>43</sup>Jedermann ´in Jerusalem` war von einer tiefen Ehrfurcht vor Gott ergriffen, und durch die Apostel geschahen zahlreiche Wunder und viele außergewöhnliche Dinge.<sup> 44 </sup>Alle, die ´an Jesus` glaubten, hielten fest zusammen und teilten alles miteinander, was sie besaßen.<sup>45</sup>Sie verkauften sogar Grundstücke und sonstigen Besitz und verteilten den Erlös entsprechend den jeweiligen Bedürfnissen an alle, die in Not waren.<sup> 46 </sup>Einmütig und mit großer Treue kamen sie Tag für Tag im Tempel zusammen. Außerdem trafen sie sich täglich in ihren Häusern, um miteinander zu essen und das Mahl des Herrn zu feiern, und ihre Zusammenkünfte waren von überschwänglicher Freude und aufrichtiger Herzlichkeit geprägt.<sup>47</sup>Sie priesen Gott ´bei allem, was sie taten,` und standen beim ganzen Volk in hohem Ansehen. Und jeden Tag rettete der Herr weitere Menschen, sodass die Gemeinde immer größer wurde. </p> Und weil wir auch füreinander verantwortlich sind, wollen wir uns gegenseitig dazu anspornen, einander Liebe zu erweisen und Gutes zu tun.Deshalb ist es wichtig, dass wir unseren Zusammenkünften nicht fernbleiben, wie einige sich das angewöhnt haben, sondern dass wir einander ermutigen, und das umso mehr, als – wie ihr selbst feststellen könnt – der Tag näherrückt, ´an dem der Herr wiederkommt`.",
         "url": "https://biblegateway.com/passage/?search=Acts%202:42-47&version=NGU-DE",
         "isOpen": false
       }
@@ -80,7 +83,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Hebräer 10, 24-25",
-        "html": "<sup>24</sup><sup>25</sup><p class=\"bible\"><br></p>",
+        "html": "<sup>24</sup><sup>25</sup>",
         "url": "https://biblegateway.com/passage/?search=Hebrews%2010:24-25&version=NGU-DE",
         "isOpen": false
       }
@@ -111,21 +114,28 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Was kannst du persönlich beitragen, dass eure Gemeinschaft in der Gruppe wächst und sich vertieft? (Jeder notiert sich 1-2 Ideen und stellt sie allen vor)."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Was kannst du persönlich beitragen, dass eure Gemeinschaft in der Gruppe\nwächst und sich vertieft? (Jeder notiert sich 1-2 Ideen und stellt sie allen\nvor)."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Betet, dass eure Freundschaft untereinander und zu Gott stärker und tiefer\nwird."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Was könnt ihr gemeinsam unternehmen, damit neue Leute zu euch dazustossen\nund eure Gruppe immer grösser wird? Jeder notiert sich ein paar Ideen dazu,\ndann sprecht in der Gruppe darüber."
+          }
+        ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iWill",
       "data": {
-        "text": "▶ Betet, dass eure Freundschaft untereinander und zu Gott stärker und tiefer wird."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Was könnt ihr gemeinsam unternehmen, damit neue Leute zu euch dazustossen und eure Gruppe immer grösser wird? Jeder notiert sich ein paar Ideen dazu, dann sprecht in der Gruppe darüber."
+        "storageKey": "compass-session429-i-will"
       }
     },
     {

@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -65,15 +68,6 @@
           "一人用自己的话复述所读的内容（合上圣经）",
           "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
         ]
-      }
-    },
-    {
-      "type": "biblePassage",
-      "data": {
-        "reference": "撒母耳紀上 1:1-26; 歌羅西書 4:2-2; 使徒行傳 1:12-14",
-        "html": "",
-        "url": "",
-        "isOpen": false
       }
     },
     {
@@ -128,7 +122,7 @@
         "style": "ordered",
         "items": [
           "对于那些让你不悦的事：“<span data-usfm=\"PHP.4.6\"> 在任何事上都不要忧虑；然而要在一切事上，藉着祷告和祈求，以感谢的心把你们所求的告诉神。 </span><span data-usfm=\"PHP.4.7\"> 这样，神的平安——那高过一切理性的平安，就会在基督耶稣里保守你们的心、你们的意念。 </span>“（腓立比书4：6-7）。",
-          "对于希望过上传福音的生活并愿意在校园中投身于上帝王国的基督教学生：然后祂对门徒说：“<span data-usfm=\"MAT.9.37\"><span class=\"unknown\"><span class=\"unknown\">收割的工作</span></span><span class=\"unknown\"><span class=\"unknown\">多，而工人少。</span></span></span><span data-usfm=\"MAT.9.38\"><span class=\"unknown\"><span class=\"unknown\">所以你们要祈求收割</span></span><span class=\"unknown\"><span class=\"unknown\">的主催促工人参与他的收割工作</span></span></span><span class=\"normal\">。”</span><span class=\"normal\">（马太福音9：37-38）。</span>",
+          "对于希望过上传福音的生活并愿意在校园中投身于上帝王国的基督教学生：然后祂对门徒说：“<span data-usfm=\"MAT.9.37\"> 收割的工作 多，而工人少。 </span><span data-usfm=\"MAT.9.38\"> 所以你们要祈求收割 的主催促工人参与他的收割工作 </span><span class=\"normal\">。”</span><span class=\"normal\">（马太福音9：37-38）。</span>",
           "对于日常生活中敞开大门，让非信徒目睹你与耶稣的经历：“ 要为我们祷告，求上帝为我们打开传道的门，好传扬基督的奥秘——我就是为此而被囚禁的 <span class=\"normal\">“（歌罗西书4：3）。</span>",
           "对于需要治愈的人（例如在你的小组中）：“<span class=\"normal\"> 你们中间有病了的呢，他就该请教会的长老来，他们可以奉主的名用油抹他，为他祷告。 </span><span class=\"normal\"> 出于信心的祈祷要救那病人，主必叫他起来，他若犯了罪，也必蒙赦免。” </span><span class=\"normal\">（雅5：14-15）。</span>"
         ]

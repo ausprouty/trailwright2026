@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft und eure Freundschaft zu Gott stärker und tiefer wird."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten: Danken für Erlebnisse, um Gottes Hilfe bitten."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Gemeinsam beten, dass ihr heute neue Aspekte von Gott kennen lernen dürft\nund eure Freundschaft zu Gott stärker und tiefer wird."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 5, 23-24",
-        "html": "<p class=\"bible\"><sup>23</sup>Wenn du also deine Gabe zum Altar bringst und dir dort einfällt, dass dein Bruder etwas gegen dich hat,<sup> 24 </sup>dann lass deine Gabe dort vor dem Altar; geh und versöhne dich zuerst mit deinem Bruder! Danach komm und bring ´Gott` deine Gabe dar. </p><p class=\"bible\"><br></p>",
+        "html": "<p><sup>23</sup>Wenn du also deine Gabe zum Altar bringst und dir dort einfällt, dass dein Bruder etwas gegen dich hat,<sup> 24 </sup>dann lass deine Gabe dort vor dem Altar; geh und versöhne dich zuerst mit deinem Bruder! Danach komm und bring ´Gott` deine Gabe dar. </p>",
         "url": "https://biblegatewy.com/passage/?search=Matthew%205:23-24&version=NGU-DE",
         "isOpen": false
       }

@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ 一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "一起祷告：感谢你的经历，需要的时候向上帝寻求帮助。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "祈祷能够学习关于上帝的新的知识，加深并增强你跟上帝的关系。"
+          }
+        ]
       }
     },
     {
@@ -65,15 +68,6 @@
           "一人用自己的话复述所读的内容（合上圣经）",
           "如果有必要，其他人可以补充他/她复述的内容（合上圣经）"
         ]
-      }
-    },
-    {
-      "type": "biblePassage",
-      "data": {
-        "reference": "馬太福音 4:18-22; 列王紀上 19:19-21",
-        "html": "",
-        "url": "",
-        "isOpen": false
       }
     },
     {
@@ -121,27 +115,26 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶<font face=\"宋体\">单独无声祈祷。询问耶稣有什么<span style=\"background-color: #ffffff;\">人事物在</span>阻挡你完全<span style=\"background-color: #ffffff;\">的</span>相信和跟随他。（比如：习惯、<span style=\"background-color: #ffffff;\">假性的信奉</span>、态度、人际关系、思考<span style=\"background-color: #ffffff;\">模</span>式。）立刻与组员分享，并允许他</font>/<font face=\"宋体\">她<span style=\"background-color: #ffffff;\">负责看顾</span>你。</font>"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 两到三人为一组祷告。<span style=\"background-color: #ffffff;\">倾述</span>出你对耶稣的忠诚，在校园也会完全信任他。表明他对你而言高于一切，你将按照他的<span style=\"background-color: #ffffff;\">引导</span>行事。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 写出五个你想为之祷告的名字，让他们<span style=\"background-color: #ffffff;\">将生命交给耶稣并开始跟随他</span>。为了<span style=\"background-color: #ffffff;\">协助</span>祷告，把他们的名字写在便利贴上，贴在浴室镜子或者冰箱上，或者写在书签上，设置手机提示等等。"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ 两到三人一组为他们祷告。"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "单独无声祈祷。询问耶稣有什么人事物在阻挡你完全的相信和跟随他。（比如：习惯、假性的信奉、态度、人际关系、思考模式。）立刻与组员分享，并允许他/她负责看顾你。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "两到三人为一组祷告。倾述出你对耶稣的忠诚，在校园也会完全信任他。表明他对你而言高于一切，你将按照他的引导行事。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "写出五个你想为之祷告的名字，让他们将生命交给耶稣并开始跟随他。为了协助祷告，把他们的名字写在便利贴上，贴在浴室镜子或者冰箱上，或者写在书签上，设置手机提示等等。"
+          },
+          {
+            "icon": "triangle-right",
+            "text": "两到三人一组为他们祷告。"
+          }
+        ]
       }
     },
     {

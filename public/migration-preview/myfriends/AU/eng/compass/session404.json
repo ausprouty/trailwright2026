@@ -29,15 +29,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where you need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -71,7 +74,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Ephesians 5:8-21",
-        "html": "<sup>8</sup>For you were once darkness, but now you light in the Lord. Live as children of light<sup>9</sup>(for the fruit of the light consists in all goodness, righteousness and truth)<sup>10</sup>and find out what pleases the Lord.<sup>11</sup>Have nothing to do with the fruitless deeds of darkness, but rather expose them.<sup>12</sup>It is shameful even to mention what the disobedient do in secret.<sup>13</sup>But everything exposed by the light becomes visible—and everything that is illuminated becomes a light.<sup>14</sup>This is why it is said: <div class=\"poetry top-05\"><p class=\"bible\">“Wake up, sleeper,<br> rise from the dead, and Christ will shine on you.”</p></div><p class=\"bible\"><sup>15</sup>Be very careful, then, how you live—not as unwise but as wise,<sup>16</sup>making the most of every opportunity, because the days are evil.<sup>17</sup>Therefore do not be foolish, but understand what the Lord’s will is.<sup>18</sup>Do not get drunk on wine, which leads to debauchery. Instead, be filled with the Spirit,<sup>19</sup>speaking to one another with psalms, hymns, and songs from the Spirit. Sing and make music from your heart to the Lord,<sup>20</sup>always giving thanks to God the Father for everything, in the name of our Lord Jesus Christ.</p><p class=\"bible\"><sup>21</sup>Submit to one another out of reverence for Christ.</p><p class=\"bible\"></p>",
+        "html": "<sup>8</sup>For you were once darkness, but now you light in the Lord. Live as children of light<sup>9</sup>(for the fruit of the light consists in all goodness, righteousness and truth)<sup>10</sup>and find out what pleases the Lord.<sup>11</sup>Have nothing to do with the fruitless deeds of darkness, but rather expose them.<sup>12</sup>It is shameful even to mention what the disobedient do in secret.<sup>13</sup>But everything exposed by the light becomes visible—and everything that is illuminated becomes a light.<sup>14</sup>This is why it is said: <div class=\"poetry top-05\"><p>“Wake up, sleeper,<br> rise from the dead, and Christ will shine on you.”</p></div><p><sup>15</sup>Be very careful, then, how you live—not as unwise but as wise,<sup>16</sup>making the most of every opportunity, because the days are evil.<sup>17</sup>Therefore do not be foolish, but understand what the Lord’s will is.<sup>18</sup>Do not get drunk on wine, which leads to debauchery. Instead, be filled with the Spirit,<sup>19</sup>speaking to one another with psalms, hymns, and songs from the Spirit. Sing and make music from your heart to the Lord,<sup>20</sup>always giving thanks to God the Father for everything, in the name of our Lord Jesus Christ.</p><p><sup>21</sup>Submit to one another out of reverence for Christ.</p>",
         "url": "https://biblegateway.com/passage/?search=Ephesians%205:8-21&version=TNIV",
         "isOpen": false
       }
@@ -123,7 +126,7 @@
     {
       "type": "paragraph",
       "data": {
-        "text": "Jesus promises us that the Holy Spirit will flow like a river of living waters from our lives if we believe (<a href=\"https://www.biblegateway.com/passage/?search=John+7%3A37-39&amp;version=NIV\" target=\"_blank\"> John 7:37-39 </a>). We received the Holy Spirit when we became followers of Jesus but we are not automatically filled. Similar to a fire dwindling in oxygen-deprived air, the Holy Spirit can be quenched by <span class=\"unknown\">“</span>bad air”, such as unrepented sin we keep in our lives. <span class=\"unknown\">“</span>Do not quench the Spirit”, Paul writes in <a href=\"https://www.biblegateway.com/passage/?search=1+Thessalonians+5%3A19&amp;version=NIV\" target=\"_blank\"> 1 Thessalonians 5:19 </a>."
+        "text": "Jesus promises us that the Holy Spirit will flow like a river of living waters from our lives if we believe (<a href=\"https://www.biblegateway.com/passage/?search=John+7%3A37-39&amp;version=NIV\" target=\"_blank\"> John 7:37-39 </a>). We received the Holy Spirit when we became followers of Jesus but we are not automatically filled. Similar to a fire dwindling in oxygen-deprived air, the Holy Spirit can be quenched by “bad air”, such as unrepented sin we keep in our lives. “Do not quench the Spirit”, Paul writes in <a href=\"https://www.biblegateway.com/passage/?search=1+Thessalonians+5%3A19&amp;version=NIV\" target=\"_blank\"> 1 Thessalonians 5:19 </a>."
       }
     },
     {
@@ -144,21 +147,24 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Similar to biological breathing, exhale “bad air”. Get rid of the stinking air that inhibits the fire: Confess to God where you acted and thought contrary to His will (whatever springs to mind). Submit yourself fully and anew to the guidance of the Holy Spirit."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Similar to biological breathing, exhale “bad air”. Get rid of the stinking air that inhibits the fire: Confess to God where you acted and thought contrary to His will (whatever springs to mind). Submit yourself fully and anew to the guidance of the Holy Spirit."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Inhale “fresh air”: Ask God to fill and empower you anew with the Holy Spirit."
+          }
+        ]
       }
     },
     {
       "type": "paragraph",
       "data": {
-        "text": "▶ Inhale “fresh air”: Ask God to fill and empower you anew with the Holy Spirit."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<span class=\"normal\">This could be your prayer: <span class=\"unknown\">“</span>Holy Spirit, please fill me anew, take over control of every area of my life. I decide to trust you and listen to you”. </span>"
+        "text": "<span class=\"normal\">This could be your prayer: “Holy Spirit, please fill me anew, take over control of every area of my life. I decide to trust you and listen to you”. </span>"
       }
     },
     {
@@ -166,7 +172,7 @@
       "data": {
         "style": "ordered",
         "items": [
-          "You can <span class=\"unknown\">“</span>breathe spiritually” any time. You won’t feel completely different after every spiritual breath. Even though emotions are important, they don’t define what is true. Therefore it is wise to trust God and His promise to renew you if you ask for it, even if you <span class=\"unknown\">“</span>don’t feel that way”."
+          "You can “breathe spiritually” any time. You won’t feel completely different after every spiritual breath. Even though emotions are important, they don’t define what is true. Therefore it is wise to trust God and His promise to renew you if you ask for it, even if you “don’t feel that way”."
         ]
       }
     },
@@ -180,7 +186,7 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "V.18-21 are one sentence in the Greek original: <span class=\"unknown\">“</span>Be (continuously) filled by the Holy spirit, speaking to one another ... sing ... give thanks ... and submit to one another.” V. 19-21 are specific actions you can take to position yourself to be filled by the Holy Spirit."
+                "text": "V.18-21 are one sentence in the Greek original: “Be (continuously) filled by the Holy spirit, speaking to one another ... sing ... give thanks ... and submit to one another.” V. 19-21 are specific actions you can take to position yourself to be filled by the Holy Spirit."
               }
             },
             {

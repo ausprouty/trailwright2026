@@ -176,12 +176,51 @@ function cleanBibleHtml(rawHtml: string): string {
     $firstParagraph.remove();
   }
 
+  // Bible passage is already inside a biblePassage block,
+  // so paragraph-level bible/rtl classes are redundant.
+  $root.find('p.bible, p.rtl').each((_, el) => {
+    $(el).removeAttr('class');
+  });
+
+  // Normalize verse numbers to plain <sup>.
+  $root.find('sup.versenum, sup.versenum-rtl').each((_, el) => {
+    const $sup = $(el);
+
+    $sup.removeAttr('class');
+
+    // Also fixes malformed numbers such as "۳ ۰" -> "۳۰".
+    const number = $sup.text().replace(/\s+/g, '');
+    $sup.text(number);
+  });
+
+  // Remove empty paragraphs such as:
+  // <p dir="rtl"><br><br></p>
+  $root.find('p').each((_, el) => {
+    const $p = $(el);
+
+    if (!$p.text().trim() && $p.find('img').length === 0) {
+      $p.remove();
+    }
+  });
+
+  // Remove trailing <br> tags.
   $root.find('br').each((_, el) => {
     const $el = $(el);
-    const next = $el.next();
 
-    if (!next.length) {
+    if (!$el.next().length) {
       $el.remove();
+    }
+  });
+
+  // Remove redundant plain Bible wrappers.
+  // Preserve anything with additional classes, e.g. poetry formatting.
+  $root.find('div.bible').each((_, el) => {
+    const $div = $(el);
+
+    const classes = ($div.attr('class') || '').split(/\s+/).filter(Boolean);
+
+    if (classes.length === 1 && classes[0] === 'bible') {
+      $div.replaceWith($div.contents());
     }
   });
 
@@ -345,6 +384,7 @@ function extractBibleUrl($container: cheerio.Cheerio<AnyNode>): string {
 
   return typeof href === 'string' ? href.trim() : '';
 }
+
 function extractLessonListItems(
   $: cheerio.CheerioAPI,
   $list: cheerio.Cheerio<AnyNode>,
@@ -504,6 +544,9 @@ function extractRevealContentBlocks(
 
       return;
     }
+    if (pushIconParagraph($element, nestedBlocks)) {
+      return;
+    }
 
     const result = extractInlineBibleRefs($, $element, {
       normalizeInlineHtml,
@@ -572,7 +615,7 @@ function getPopUpIdFromHref(href: string): string | undefined {
 }
 
 function getSectionIconKey($el: cheerio.Cheerio<AnyNode>): string | undefined {
-  const imageSrc = ($el.find('img.lesson-icon').first().attr('src') || '').toLowerCase();
+  const imageSrc = ($el.find('img.lesson-icon, img.study').first().attr('src') || '').toLowerCase();
 
   if (
     imageSrc.includes('look-back') ||
@@ -700,7 +743,7 @@ function getSectionTheme($el: cheerio.Cheerio<AnyNode>): SectionTheme {
   return 'up';
 }
 function getSectionTitle($el: cheerio.Cheerio<AnyNode>): string {
-  const title = $el.find('.lesson-subtitle, .lesson-section').first().text();
+  const title = $el.find('.lesson-subtitle, .lesson-subtitle-rtl, .lesson-section').first().text();
 
   return normalizeTextForEditor(title);
 }
@@ -798,10 +841,13 @@ function isSectionMarkerLesson($el: cheerio.Cheerio<AnyNode>): boolean {
     return false;
   }
 
-  const hasIcon = $el.children('img.lesson-icon').length > 0;
+  const hasIcon =
+    $el.children('img.lesson-icon').length > 0 || $el.children('img.study').length > 0;
 
   const hasTitle =
-    $el.children('.lesson-section').length > 0 || $el.children('.lesson-subtitle').length > 0;
+    $el.children('.lesson-section').length > 0 ||
+    $el.children('.lesson-subtitle').length > 0 ||
+    $el.children('.lesson-subtitle-rtl').length > 0;
 
   return hasIcon && hasTitle;
 }
@@ -847,10 +893,7 @@ function normalizeChineseBibleSpacing($: CheerioAPI): void {
       let text = node.data;
 
       // Remove spaces between Chinese characters.
-      text = text.replace(
-        /([\u3400-\u9FFF])\s+(?=[\u3400-\u9FFF])/g,
-        '$1',
-      );
+      text = text.replace(/([\u3400-\u9FFF])\s+(?=[\u3400-\u9FFF])/g, '$1');
 
       // Remove spaces immediately before punctuation.
       text = text.replace(/\s+([，。！？；：、])/g, '$1');
@@ -873,8 +916,15 @@ function normalizeInlineHtml(html: string): string {
   if (!html) {
     return '';
   }
+
   const $ = cheerio.load(`<div id="root">${html}</div>`);
   const $root = $('#root');
+
+  // Legacy spans with class="unknown" contain no useful formatting.
+  $root.find('span.unknown').each((_, el) => {
+    const $el = $(el);
+    $el.replaceWith($el.contents());
+  });
 
   unwrapRedundantSpans($, $root);
 
@@ -1129,6 +1179,61 @@ function parseArclightRefId(url: string): string {
   } catch {
     return '';
   }
+}
+function pushIconParagraph(
+  $el: cheerio.Cheerio<AnyNode>,
+  targetBlocks: AnyEditorJsBlock[],
+): boolean {
+  if (!$el.is('p')) {
+    return false;
+  }
+
+  let text = normalizeTextForEditor($el.text());
+
+  text = text.replace(/^[\u200E\u200F\u202A-\u202E\u2066-\u2069\uFEFF]+/, '').trim();
+
+  const startsWithTriangle = text.startsWith('▶') || text.startsWith('◄');
+
+  if (!startsWithTriangle) {
+    return false;
+  }
+
+  const content = text.slice(1).trim();
+
+  if (!content) {
+    return false;
+  }
+
+  const isArabic = /[\u0600-\u06FF]/.test(content);
+
+  const icon = isArabic
+    ? 'triangle-left'
+    : text.startsWith('▶')
+      ? 'triangle-right'
+      : 'triangle-left';
+
+  const previousBlock = targetBlocks[targetBlocks.length - 1];
+
+  if (previousBlock?.type === 'iconList') {
+    previousBlock.data.items.push({
+      icon,
+      text: content,
+    });
+  } else {
+    targetBlocks.push({
+      type: 'iconList',
+      data: {
+        items: [
+          {
+            icon,
+            text: content,
+          },
+        ],
+      },
+    });
+  }
+
+  return true;
 }
 function repairMojibakeText(value: string): string {
   let repaired = repairUtf8AsWindows1252(value);
@@ -1610,7 +1715,11 @@ export function migrateOldLessonHtmlToEditorJs(
       return;
     }
 
-    // 5. Ordinary content blocks
+    // 4.5 Icon list items (these are not always inside a list)
+    if (pushIconParagraph($el, blocks)) {
+      return;
+    }
+    // 6. Ordinary content blocks
 
     if (isParagraph($el)) {
       const result = extractInlineBibleRefs($, $el, {

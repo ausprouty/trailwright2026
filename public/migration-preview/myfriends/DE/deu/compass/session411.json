@@ -22,9 +22,15 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -63,10 +69,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Alle lesen den Text leise für sich.",
-          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
-          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
-          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          {
+            "text": "Alle lesen den Text leise für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln."
+          },
+          {
+            "text": "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln)."
+          },
+          {
+            "text": "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          }
         ]
       }
     },
@@ -84,8 +98,29 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Allgemeine Fragen:<ul class=\"arrows\"><li>Ist dir etwas in diesem Text besonders aufgefallen?</li><li>Was gefällt dir an diesem Abschnitt? Was stört dich?</li><li> Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen? </li><li>Was kannst du über die Menschheit lernen?</li></ul>",
-          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          {
+            "text": "Allgemeine Fragen:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Ist dir etwas in diesem Text besonders aufgefallen?"
+                },
+                {
+                  "text": "Was gefällt dir an diesem Abschnitt? Was stört dich?"
+                },
+                {
+                  "text": "Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?"
+                },
+                {
+                  "text": "Was kannst du über die Menschheit lernen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          }
         ]
       }
     },
@@ -109,10 +144,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "What can we learn about Godly principles of giving? Also read 2 Corinthians 9,6-8 and Luke 6,38.",
-          "Do you have faith that God is your provider and that you won’t be lacking anything if you trust him and act according to his plan (Psalms 23,1)? Do you doubt this in any way or do you realize acting more out of fear in some areas (regarding finances, work, relationships, etc)?",
-          "What principles do you live by when it comes to giving? What did you learn today and what would you like to change? Note down your 2-3 most important points and share them in the group.",
-          "Did you plan an evangelistic event or a project for students that need considerable financial resources? Or are there recurring expenses in your student movement that you’re part of (e.g. office rent)? Ask Jesus by yourself in prayer, how you can contribute to cover these financial needs (E.g.: donate yourself, ask in your network, organize a fundraiser, etc)."
+          {
+            "text": "What can we learn about Godly principles of giving? Also read 2 Corinthians 9,6-8 and Luke 6,38."
+          },
+          {
+            "text": "Do you have faith that God is your provider and that you won’t be lacking anything if you trust him and act according to his plan (Psalms 23,1)? Do you doubt this in any way or do you realize acting more out of fear in some areas (regarding finances, work, relationships, etc)?"
+          },
+          {
+            "text": "What principles do you live by when it comes to giving? What did you learn today and what would you like to change? Note down your 2-3 most important points and share them in the group."
+          },
+          {
+            "text": "Did you plan an evangelistic event or a project for students that need considerable financial resources? Or are there recurring expenses in your student movement that you’re part of (e.g. office rent)? Ask Jesus by yourself in prayer, how you can contribute to cover these financial needs (E.g.: donate yourself, ask in your network, organize a fundraiser, etc)."
+          }
         ]
       }
     },

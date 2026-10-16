@@ -22,9 +22,15 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -69,10 +75,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Alle lesen den Text leise für sich.",
-          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
-          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
-          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          {
+            "text": "Alle lesen den Text leise für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln."
+          },
+          {
+            "text": "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln)."
+          },
+          {
+            "text": "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          }
         ]
       }
     },
@@ -99,8 +113,29 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Allgemeine Fragen:<ul class=\"arrows\"><li>Ist dir etwas in diesem Text besonders aufgefallen?</li><li>Was gefällt dir an diesem Abschnitt? Was stört dich?</li><li> Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen? </li><li>Was kannst du über die Menschheit lernen?</li></ul>",
-          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          {
+            "text": "Allgemeine Fragen:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Ist dir etwas in diesem Text besonders aufgefallen?"
+                },
+                {
+                  "text": "Was gefällt dir an diesem Abschnitt? Was stört dich?"
+                },
+                {
+                  "text": "Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?"
+                },
+                {
+                  "text": "Was kannst du über die Menschheit lernen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          }
         ]
       }
     },
@@ -124,9 +159,15 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Was hatte Saul sich alles zu Schulden kommen lassen? Mit welchen „Tests“ hatte Gott ihn konfrontiert? (siehe Kommentar zum Bibel-text).",
-          "Wo wurdest du in den letzten zwei Monaten getestet?",
-          "Wo wirst du am häufigsten getestet? Wie möchte Gott, dass du darauf reagierst? (in 3er-Gruppen aufteilen)."
+          {
+            "text": "Was hatte Saul sich alles zu Schulden kommen lassen? Mit welchen „Tests“ hatte Gott ihn konfrontiert? (siehe Kommentar zum Bibel-text)."
+          },
+          {
+            "text": "Wo wurdest du in den letzten zwei Monaten getestet?"
+          },
+          {
+            "text": "Wo wirst du am häufigsten getestet? Wie möchte Gott, dass du darauf reagierst? (in 3er-Gruppen aufteilen)."
+          }
         ]
       }
     },

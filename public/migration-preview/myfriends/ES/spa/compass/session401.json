@@ -22,22 +22,31 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Qué experiencias has tenido con Dios esta semana?",
-          "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?",
-          "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          {
+            "text": "¿Qué experiencias has tenido con Dios esta semana?"
+          },
+          {
+            "text": "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?"
+          },
+          {
+            "text": "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          }
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que os ayude en las áreas que cada uno necesite."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque vuestra relación con Dios sea más profunda y se fortalezca."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que\nos ayude en las áreas que cada uno necesite."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque\nvuestra relación con Dios sea más profunda y se fortalezca."
+          }
+        ]
       }
     },
     {
@@ -60,8 +69,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?",
-          "Que alguien lea el pasaje en voz alta."
+          {
+            "text": "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?"
+          },
+          {
+            "text": "Que alguien lea el pasaje en voz alta."
+          }
         ]
       }
     },
@@ -69,7 +82,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lucas 15:11-32",
-        "html": "<p class=\"bible\"><sup>11</sup>También dijo: Un hombre tenía dos hijos;</p><p class=\"bible\"><sup>12</sup>y el menor de ellos dijo a su padre: Padre, dame la parte de los bienes que me corresponde; y les repartió los bienes. </p><p class=\"bible\"><sup>13</sup>No muchos días después, juntándolo todo el hijo menor, se fue lejos a una provincia apartada; y allí desperdició sus bienes viviendo perdidamente. </p><p class=\"bible\"><sup>14</sup>Y cuando todo lo hubo malgastado, vino una gran hambre en aquella provincia, y comenzó a faltarle. </p><p class=\"bible\"><sup>15</sup>Y fue y se arrimó a uno de los ciudadanos de aquella tierra, el cual le envió a su hacienda para que apacentase cerdos. </p><p class=\"bible\"><sup>16</sup>Y deseaba llenar su vientre de las algarrobas que comían los cerdos, pero nadie le daba. </p><p class=\"bible\"><sup>17</sup>Y volviendo en sí, dijo: !!Cuántos jornaleros en casa de mi padre tienen abundancia de pan, y yo aquí perezco de hambre! </p><p class=\"bible\"><sup>18</sup>Me levantaré e iré a mi padre, y le diré: Padre, he pecado contra el cielo y contra ti. </p><p class=\"bible\"><sup>19</sup>Ya no soy digno de ser llamado tu hijo; hazme como a uno de tus jornaleros. </p><p class=\"bible\"><sup>20</sup>Y levantándose, vino a su padre. Y cuando aún estaba lejos, lo vio su padre, y fue movido a misericordia, y corrió, y se echó sobre su cuello, y le besó. </p><p class=\"bible\"><sup>21</sup>Y el hijo le dijo: Padre, he pecado contra el cielo y contra ti, y ya no soy digno de ser llamado tu hijo. </p><p class=\"bible\"><sup>22</sup>Pero el padre dijo a sus siervos: Sacad el mejor vestido, y vestidle; y poned un anillo en su mano, y calzado en sus pies. </p><p class=\"bible\"><sup>23</sup>Y traed el becerro gordo y matadlo, y comamos y hagamos fiesta; </p><p class=\"bible\"><sup>24</sup>porque este mi hijo muerto era, y ha revivido; se había perdido, y es hallado. Y comenzaron a regocijarse. </p><p class=\"bible\"><sup>25</sup>Y su hijo mayor estaba en el campo; y cuando vino, y llegó cerca de la casa, oyó la música y las danzas; </p><p class=\"bible\"><sup>26</sup>y llamando a uno de los criados, le preguntó qué era aquello. </p><p class=\"bible\"><sup>27</sup>Él le dijo: Tu hermano ha venido; y tu padre ha hecho matar el becerro gordo, por haberle recibido bueno y sano. </p><p class=\"bible\"><sup>28</sup>Entonces se enojó, y no quería entrar. Salió por tanto su padre, y le rogaba que entrase. </p><p class=\"bible\"><sup>29</sup>Mas él, respondiendo, dijo al padre: He aquí, tantos años te sirvo, no habiéndote desobedecido jamás, y nunca me has dado ni un cabrito para gozarme con mis amigos. </p><p class=\"bible\"><sup>30</sup>Pero cuando vino este tu hijo, que ha consumido tus bienes con rameras, has hecho matar para él el becerro gordo. </p><p class=\"bible\"><sup>31</sup>Él entonces le dijo: Hijo, tú siempre estás conmigo, y todas mis cosas son tuyas. </p><p class=\"bible\"><sup>32</sup>Mas era necesario hacer fiesta y regocijarnos, porque este tu hermano era muerto, y ha revivido; se había perdido, y es hallado. </p><div class=\"publisher-info-bottom with-single\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) <p class=\"bible\"> Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </p></div><p class=\"bible\"><br><br></p>",
+        "html": "<p><sup>11</sup>También dijo: Un hombre tenía dos hijos;</p><p><sup>12</sup>y el menor de ellos dijo a su padre: Padre, dame la parte de los bienes que me corresponde; y les repartió los bienes. </p><p><sup>13</sup>No muchos días después, juntándolo todo el hijo menor, se fue lejos a una provincia apartada; y allí desperdició sus bienes viviendo perdidamente. </p><p><sup>14</sup>Y cuando todo lo hubo malgastado, vino una gran hambre en aquella provincia, y comenzó a faltarle. </p><p><sup>15</sup>Y fue y se arrimó a uno de los ciudadanos de aquella tierra, el cual le envió a su hacienda para que apacentase cerdos. </p><p><sup>16</sup>Y deseaba llenar su vientre de las algarrobas que comían los cerdos, pero nadie le daba. </p><p><sup>17</sup>Y volviendo en sí, dijo: !!Cuántos jornaleros en casa de mi padre tienen abundancia de pan, y yo aquí perezco de hambre! </p><p><sup>18</sup>Me levantaré e iré a mi padre, y le diré: Padre, he pecado contra el cielo y contra ti. </p><p><sup>19</sup>Ya no soy digno de ser llamado tu hijo; hazme como a uno de tus jornaleros. </p><p><sup>20</sup>Y levantándose, vino a su padre. Y cuando aún estaba lejos, lo vio su padre, y fue movido a misericordia, y corrió, y se echó sobre su cuello, y le besó. </p><p><sup>21</sup>Y el hijo le dijo: Padre, he pecado contra el cielo y contra ti, y ya no soy digno de ser llamado tu hijo. </p><p><sup>22</sup>Pero el padre dijo a sus siervos: Sacad el mejor vestido, y vestidle; y poned un anillo en su mano, y calzado en sus pies. </p><p><sup>23</sup>Y traed el becerro gordo y matadlo, y comamos y hagamos fiesta; </p><p><sup>24</sup>porque este mi hijo muerto era, y ha revivido; se había perdido, y es hallado. Y comenzaron a regocijarse. </p><p><sup>25</sup>Y su hijo mayor estaba en el campo; y cuando vino, y llegó cerca de la casa, oyó la música y las danzas; </p><p><sup>26</sup>y llamando a uno de los criados, le preguntó qué era aquello. </p><p><sup>27</sup>Él le dijo: Tu hermano ha venido; y tu padre ha hecho matar el becerro gordo, por haberle recibido bueno y sano. </p><p><sup>28</sup>Entonces se enojó, y no quería entrar. Salió por tanto su padre, y le rogaba que entrase. </p><p><sup>29</sup>Mas él, respondiendo, dijo al padre: He aquí, tantos años te sirvo, no habiéndote desobedecido jamás, y nunca me has dado ni un cabrito para gozarme con mis amigos. </p><p><sup>30</sup>Pero cuando vino este tu hijo, que ha consumido tus bienes con rameras, has hecho matar para él el becerro gordo. </p><p><sup>31</sup>Él entonces le dijo: Hijo, tú siempre estás conmigo, y todas mis cosas son tuyas. </p><p><sup>32</sup>Mas era necesario hacer fiesta y regocijarnos, porque este tu hermano era muerto, y ha revivido; se había perdido, y es hallado. </p><div class=\"publisher-info-bottom with-single\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) <p> Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </p></div>",
         "url": "https://biblegateway.com/passage/?search=Luke%2015:11-32&version=RVR1960",
         "isOpen": false
       }
@@ -79,9 +92,40 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente:<ul class=\"arrows\"><li> ¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes? </li><li>¿Por qué te sientes atraído a esas palabras o frases?</li><li>¿Hay algo que te incomode?</li><li>¿Qué podemos aprender sobre Dios y los principios de su Reino?</li></ul>",
-          "Aplicación:<ul class=\"arrows\"><li>¿Qué podría estar Dios diciéndote?</li></ul>",
-          "Compartid en el grupo."
+          {
+            "text": "Individualmente:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes?"
+                },
+                {
+                  "text": "¿Por qué te sientes atraído a esas palabras o frases?"
+                },
+                {
+                  "text": "¿Hay algo que te incomode?"
+                },
+                {
+                  "text": "¿Qué podemos aprender sobre Dios y los principios de su Reino?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Aplicación:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué podría estar Dios diciéndote?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Compartid en el grupo."
+          }
         ]
       }
     },
@@ -105,11 +149,21 @@
       "data": {
         "style": "ordered",
         "items": [
-          "<p> ¿Cómo se ve el hijo menor a sí mismo? ¿Y el hijo mayor? ¿Qué esperan de su padre? ¿De qué manera supera el padre sus expectativas? </p>",
-          "<p> Las palabras «servir» y «siervo» aparecen varias veces. ¿Qué nos dice esto acerca de la forma de pensar de los hijos? </p>",
-          "<p> ¿Qué simbolizan el anillo y el vestido? ¿Qué nos quiere decir Jesús con esta parábola (¡también a los cristianos!) sobre el corazón del Padre? </p>",
-          "<p> ¿Te sientes más como siervo de Dios, o como hijo/hija? ¿Hay situaciones en que una de estas sensaciones predomine? </p>",
-          "<p> ¿Crees que tu Padre Celestial realmente quiere que tengas lo que deseas de todo corazón (Salmo 37:3-4)? ¿Hay áreas en tu vida en las que dudes de esto? Dile en oración lo que anhelas (individualmente). </p>"
+          {
+            "text": "¿Cómo se ve el hijo menor a sí mismo? ¿Y el hijo mayor? ¿Qué esperan de su padre? ¿De qué manera supera el padre sus expectativas?"
+          },
+          {
+            "text": "Las palabras «servir» y «siervo» aparecen varias veces. ¿Qué nos dice esto acerca de la forma de pensar de los hijos?"
+          },
+          {
+            "text": "¿Qué simbolizan el anillo y el vestido? ¿Qué nos quiere decir Jesús con esta parábola (¡también a los cristianos!) sobre el corazón del Padre?"
+          },
+          {
+            "text": "¿Te sientes más como siervo de Dios, o como hijo/hija? ¿Hay situaciones en que una de estas sensaciones predomine?"
+          },
+          {
+            "text": "¿Crees que tu Padre Celestial realmente quiere que tengas lo que deseas de todo corazón (Salmo 37:3-4)? ¿Hay áreas en tu vida en las que dudes de esto? Dile en oración lo que anhelas (individualmente)."
+          }
         ]
       }
     },
@@ -120,21 +174,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Orad siguiendo Efesios 3:16-19 en grupos de 2 o 3. Orad por que vuestro Padre Celestial os llene más de su amor y os dé un entendimiento más profundo del mismo."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pasad un tiempo de adoración en vuestro grupo. ¡Cantad canciones que expresen el amor de Dios hacia nosotros y dejad que su gracia nos toque! (Por ejemplo “Good Good Father” por Chris Tomlin)."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Take some time to worship in your group. Sing songs that express God’s love to you and let yourselves be touched by God’s grace! (e.g: “<a target=\"_blank\" href=\"https://www.youtube.com/watch?v=CqybaIesbuA\"> Good Good Father </a>” by Chris Tomlin)"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Orad siguiendo Efesios 3:16-19 en grupos de 2 o 3. Orad por que\nvuestro Padre Celestial os llene más de su amor y os dé un entendimiento más\nprofundo del mismo."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pasad un tiempo de adoración en vuestro grupo. ¡Cantad canciones que\nexpresen el amor de Dios hacia nosotros y dejad que su gracia nos toque!\n(Por ejemplo “Good Good Father” por Chris Tomlin)."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Take some time to worship in your group. Sing songs that\nexpress God’s love to you and let yourselves be touched by God’s\ngrace! (e.g: “\nGood Good Father ” by Chris Tomlin)"
+          }
+        ]
       }
     },
     {

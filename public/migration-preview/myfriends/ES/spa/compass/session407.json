@@ -22,22 +22,31 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Qué experiencias has tenido con Dios esta semana?",
-          "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?",
-          "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          {
+            "text": "¿Qué experiencias has tenido con Dios esta semana?"
+          },
+          {
+            "text": "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?"
+          },
+          {
+            "text": "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          }
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que os ayude en las áreas que cada uno necesite."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque vuestra relación con Dios sea más profunda y se fortalezca."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que\nos ayude en las áreas que cada uno necesite."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque\nvuestra relación con Dios sea más profunda y se fortalezca."
+          }
+        ]
       }
     },
     {
@@ -66,8 +75,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?",
-          "Que alguien lea el pasaje en voz alta."
+          {
+            "text": "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?"
+          },
+          {
+            "text": "Que alguien lea el pasaje en voz alta."
+          }
         ]
       }
     },
@@ -75,7 +88,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Daniel 6:1-17",
-        "html": "<div class=\"bible\"><p class=\"bible\"><sup>1</sup>Pareció bien a Darío constituir sobre el reino ciento veinte sátrapas, que gobernasen en todo el reino. </p><p class=\"bible\"><sup>2</sup>Y sobre ellos tres gobernadores, de los cuales Daniel era uno, a quienes estos sátrapas diesen cuenta, para que el rey no fuese perjudicado. </p><p class=\"bible\"><sup>3</sup>Pero Daniel mismo era superior a estos sátrapas y gobernadores, porque había en él un espíritu superior; y el rey pensó en ponerlo sobre todo el reino. </p><p class=\"bible\"><sup>4</sup>Entonces los gobernadores y sátrapas buscaban ocasión para acusar a Daniel en lo relacionado al reino; mas no podían hallar ocasión alguna o falta, porque él era fiel, y ningún vicio ni falta fue hallado en él. </p><p class=\"bible\"><sup>5</sup>Entonces dijeron aquellos hombres: No hallaremos contra este Daniel ocasión alguna para acusarle, si no la hallamos contra él en relación con la ley de su Dios. </p><p class=\"bible\"><sup>6</sup>Entonces estos gobernadores y sátrapas se juntaron delante del rey, y le dijeron así: !!Rey Darío, para siempre vive! </p><p class=\"bible\"><sup>7</sup>Todos los gobernadores del reino, magistrados, sátrapas, príncipes y capitanes han acordado por consejo que promulgues un edicto real y lo confirmes, que cualquiera que en el espacio de treinta días demande petición de cualquier dios u hombre fuera de ti, oh rey, sea echado en el foso de los leones. </p><p class=\"bible\"><sup>8</sup>Ahora, oh rey, confirma el edicto y fírmalo, para que no pueda ser revocado, conforme a la ley de Media y de Persia, la cual no puede ser abrogada. </p><p class=\"bible\"><sup>9</sup>Firmó, pues, el rey Darío el edicto y la prohibición. </p><p class=\"bible\"><sup>10</sup>Cuando Daniel supo que el edicto había sido firmado, entró en su casa, y abiertas las ventanas de su cámara que daban hacia Jerusalén, se arrodillaba tres veces al día, y oraba y daba gracias delante de su Dios, como lo solía hacer antes. </p><p class=\"bible\"><sup>11</sup>Entonces se juntaron aquellos hombres, y hallaron a Daniel orando y rogando en presencia de su Dios. </p><p class=\"bible\"><sup>12</sup>Fueron luego ante el rey y le hablaron del edicto real: ¿No has confirmado edicto que cualquiera que en el espacio de treinta días pida a cualquier dios u hombre fuera de ti, oh rey, sea echado en el foso de los leones? Respondió el rey diciendo: Verdad es, conforme a la ley de Media y de Persia, la cual no puede ser abrogada. </p><p class=\"bible\"><sup>13</sup>Entonces respondieron y dijeron delante del rey: Daniel, que es de los hijos de los cautivos de Judá, no te respeta a ti, oh rey, ni acata el edicto que confirmaste, sino que tres veces al día hace su petición. </p><p class=\"bible\"><sup>14</sup>Cuando el rey oyó el asunto, le pesó en gran manera, y resolvió librar a Daniel; y hasta la puesta del sol trabajó para librarle. </p><p class=\"bible\"><sup>15</sup>Pero aquellos hombres rodearon al rey y le dijeron: Sepas, oh rey, que es ley de Media y de Persia que ningún edicto u ordenanza que el rey confirme puede ser abrogado. </p><p class=\"bible\"><sup>16</sup>Entonces el rey mandó, y trajeron a Daniel, y le echaron en el foso de los leones. Y el rey dijo a Daniel: El Dios tuyo, a quien tú continuamente sirves, él te libre. </p><p class=\"bible\"><sup>17</sup>Y fue traída una piedra y puesta sobre la puerta del foso, la cual selló el rey con su anillo y con el anillo de sus príncipes, para que el acuerdo acerca de Daniel no se alterase. </p><div class=\"publisher-info-bottom with-single\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) <p class=\"bible\"> Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </p></div><br><br></div>",
+        "html": "<p><sup>1</sup>Pareció bien a Darío constituir sobre el reino ciento veinte sátrapas, que gobernasen en todo el reino. </p><p><sup>2</sup>Y sobre ellos tres gobernadores, de los cuales Daniel era uno, a quienes estos sátrapas diesen cuenta, para que el rey no fuese perjudicado. </p><p><sup>3</sup>Pero Daniel mismo era superior a estos sátrapas y gobernadores, porque había en él un espíritu superior; y el rey pensó en ponerlo sobre todo el reino. </p><p><sup>4</sup>Entonces los gobernadores y sátrapas buscaban ocasión para acusar a Daniel en lo relacionado al reino; mas no podían hallar ocasión alguna o falta, porque él era fiel, y ningún vicio ni falta fue hallado en él. </p><p><sup>5</sup>Entonces dijeron aquellos hombres: No hallaremos contra este Daniel ocasión alguna para acusarle, si no la hallamos contra él en relación con la ley de su Dios. </p><p><sup>6</sup>Entonces estos gobernadores y sátrapas se juntaron delante del rey, y le dijeron así: !!Rey Darío, para siempre vive! </p><p><sup>7</sup>Todos los gobernadores del reino, magistrados, sátrapas, príncipes y capitanes han acordado por consejo que promulgues un edicto real y lo confirmes, que cualquiera que en el espacio de treinta días demande petición de cualquier dios u hombre fuera de ti, oh rey, sea echado en el foso de los leones. </p><p><sup>8</sup>Ahora, oh rey, confirma el edicto y fírmalo, para que no pueda ser revocado, conforme a la ley de Media y de Persia, la cual no puede ser abrogada. </p><p><sup>9</sup>Firmó, pues, el rey Darío el edicto y la prohibición. </p><p><sup>10</sup>Cuando Daniel supo que el edicto había sido firmado, entró en su casa, y abiertas las ventanas de su cámara que daban hacia Jerusalén, se arrodillaba tres veces al día, y oraba y daba gracias delante de su Dios, como lo solía hacer antes. </p><p><sup>11</sup>Entonces se juntaron aquellos hombres, y hallaron a Daniel orando y rogando en presencia de su Dios. </p><p><sup>12</sup>Fueron luego ante el rey y le hablaron del edicto real: ¿No has confirmado edicto que cualquiera que en el espacio de treinta días pida a cualquier dios u hombre fuera de ti, oh rey, sea echado en el foso de los leones? Respondió el rey diciendo: Verdad es, conforme a la ley de Media y de Persia, la cual no puede ser abrogada. </p><p><sup>13</sup>Entonces respondieron y dijeron delante del rey: Daniel, que es de los hijos de los cautivos de Judá, no te respeta a ti, oh rey, ni acata el edicto que confirmaste, sino que tres veces al día hace su petición. </p><p><sup>14</sup>Cuando el rey oyó el asunto, le pesó en gran manera, y resolvió librar a Daniel; y hasta la puesta del sol trabajó para librarle. </p><p><sup>15</sup>Pero aquellos hombres rodearon al rey y le dijeron: Sepas, oh rey, que es ley de Media y de Persia que ningún edicto u ordenanza que el rey confirme puede ser abrogado. </p><p><sup>16</sup>Entonces el rey mandó, y trajeron a Daniel, y le echaron en el foso de los leones. Y el rey dijo a Daniel: El Dios tuyo, a quien tú continuamente sirves, él te libre. </p><p><sup>17</sup>Y fue traída una piedra y puesta sobre la puerta del foso, la cual selló el rey con su anillo y con el anillo de sus príncipes, para que el acuerdo acerca de Daniel no se alterase. </p><div class=\"publisher-info-bottom with-single\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) <p> Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </p></div><br><br><br>",
         "url": "https://biblegateway.com/passage/?search=Daniel%206:1-17&version=RVR1960",
         "isOpen": false
       }
@@ -85,9 +98,40 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente:<ul class=\"arrows\"><li> ¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes? </li><li>¿Por qué te sientes atraído a esas palabras o frases?</li><li>¿Hay algo que te incomode?</li><li>¿Qué podemos aprender sobre Dios y los principios de su Reino?</li></ul>",
-          "Aplicación:<ul class=\"arrows\"><li>¿Qué podría estar Dios diciéndote?</li></ul>",
-          "Compartid en el grupo."
+          {
+            "text": "Individualmente:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes?"
+                },
+                {
+                  "text": "¿Por qué te sientes atraído a esas palabras o frases?"
+                },
+                {
+                  "text": "¿Hay algo que te incomode?"
+                },
+                {
+                  "text": "¿Qué podemos aprender sobre Dios y los principios de su Reino?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Aplicación:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué podría estar Dios diciéndote?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Compartid en el grupo."
+          }
         ]
       }
     },
@@ -111,8 +155,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Es tu confianza en Dios lo suficientemente grande para obedecerle sin el apoyo ni el ánimo de otras personas?",
-          "¿Es la voluntad de Dios tu primera prioridad? Si no lo es, ¿en qué áreas transiges cuando te enfrentas a oposición o resistencia? ¿Cómo pueden los demás ver esto en tu vida?"
+          {
+            "text": "¿Es tu confianza en Dios lo suficientemente grande para obedecerle sin el apoyo ni el ánimo de otras personas?"
+          },
+          {
+            "text": "¿Es la voluntad de Dios tu primera prioridad? Si no lo es, ¿en qué áreas transiges cuando te enfrentas a oposición o resistencia? ¿Cómo pueden los demás ver esto en tu vida?"
+          }
         ]
       }
     },
@@ -123,15 +171,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Orad en grupos de 2-3 personas pidiendo la valentía y la fe necesarias para ser obedientes a Dios en toda situación, poniendo énfasis en vuestros campus."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Orad por que cada uno pueda oír mejor la voz del Espíritu Santo en las situaciones cotidianas."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Orad en grupos de 2-3 personas pidiendo la valentía y la fe\nnecesarias para ser obedientes a Dios en toda situación, poniendo énfasis en\nvuestros campus."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Orad por que cada uno pueda oír mejor la voz del Espíritu Santo en\nlas situaciones cotidianas."
+          }
+        ]
       }
     },
     {

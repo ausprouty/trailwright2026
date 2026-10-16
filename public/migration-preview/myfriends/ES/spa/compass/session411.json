@@ -22,22 +22,31 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Qué experiencias has tenido con Dios esta semana?",
-          "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?",
-          "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          {
+            "text": "¿Qué experiencias has tenido con Dios esta semana?"
+          },
+          {
+            "text": "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?"
+          },
+          {
+            "text": "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          }
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que os ayude en las áreas que cada uno necesite."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque vuestra relación con Dios sea más profunda y se fortalezca."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que\nos ayude en las áreas que cada uno necesite."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque\nvuestra relación con Dios sea más profunda y se fortalezca."
+          }
+        ]
       }
     },
     {
@@ -66,8 +75,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?",
-          "Que alguien lea el pasaje en voz alta."
+          {
+            "text": "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?"
+          },
+          {
+            "text": "Que alguien lea el pasaje en voz alta."
+          }
         ]
       }
     },
@@ -75,7 +88,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "1 Reyes 17:8-16",
-        "html": "<div class=\"bible\"><p class=\"bible\"><sup>8</sup>Vino luego a él palabra de Jehová, diciendo: </p><p class=\"bible\"><sup>9</sup>Levántate, vete a Sarepta de Sidón, y mora allí; he aquí yo he dado orden allí a una mujer viuda que te sustente. </p><p class=\"bible\"><sup>10</sup>Entonces él se levantó y se fue a Sarepta. Y cuando llegó a la puerta de la ciudad, he aquí una mujer viuda que estaba allí recogiendo leña; y él la llamó, y le dijo: Te ruego que me traigas un poco de agua en un vaso, para que beba. </p><p class=\"bible\"><sup>11</sup>Y yendo ella para traérsela, él la volvió a llamar, y le dijo: Te ruego que me traigas también un bocado de pan en tu mano. </p><p class=\"bible\"><sup>12</sup>Y ella respondió: Vive Jehová tu Dios, que no tengo pan cocido; solamente un puñado de harina tengo en la tinaja, y un poco de aceite en una vasija; y ahora recogía dos leños, para entrar y prepararlo para mí y para mi hijo, para que lo comamos, y nos dejemos morir. </p><p class=\"bible\"><sup>13</sup>Elías le dijo: No tengas temor; ve, haz como has dicho; pero hazme a mí primero de ello una pequeña torta cocida debajo de la ceniza, y tráemela; y después harás para ti y para tu hijo. </p><p class=\"bible\"><sup>14</sup>Porque Jehová Dios de Israel ha dicho así: La harina de la tinaja no escaseará, ni el aceite de la vasija disminuirá, hasta el día en que Jehová haga llover sobre la faz de la tierra. </p><p class=\"bible\"><sup>15</sup>Entonces ella fue e hizo como le dijo Elías; y comió él, y ella, y su casa, muchos días. </p><p class=\"bible\"><sup>16</sup>Y la harina de la tinaja no escaseó, ni el aceite de la vasija menguó, conforme a la palabra que Jehová había dicho por Elías. </p></div><div class=\"publisher\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </div><br><br>",
+        "html": "<p><sup>8</sup>Vino luego a él palabra de Jehová, diciendo: </p><p><sup>9</sup>Levántate, vete a Sarepta de Sidón, y mora allí; he aquí yo he dado orden allí a una mujer viuda que te sustente. </p><p><sup>10</sup>Entonces él se levantó y se fue a Sarepta. Y cuando llegó a la puerta de la ciudad, he aquí una mujer viuda que estaba allí recogiendo leña; y él la llamó, y le dijo: Te ruego que me traigas un poco de agua en un vaso, para que beba. </p><p><sup>11</sup>Y yendo ella para traérsela, él la volvió a llamar, y le dijo: Te ruego que me traigas también un bocado de pan en tu mano. </p><p><sup>12</sup>Y ella respondió: Vive Jehová tu Dios, que no tengo pan cocido; solamente un puñado de harina tengo en la tinaja, y un poco de aceite en una vasija; y ahora recogía dos leños, para entrar y prepararlo para mí y para mi hijo, para que lo comamos, y nos dejemos morir. </p><p><sup>13</sup>Elías le dijo: No tengas temor; ve, haz como has dicho; pero hazme a mí primero de ello una pequeña torta cocida debajo de la ceniza, y tráemela; y después harás para ti y para tu hijo. </p><p><sup>14</sup>Porque Jehová Dios de Israel ha dicho así: La harina de la tinaja no escaseará, ni el aceite de la vasija disminuirá, hasta el día en que Jehová haga llover sobre la faz de la tierra. </p><p><sup>15</sup>Entonces ella fue e hizo como le dijo Elías; y comió él, y ella, y su casa, muchos días. </p><p><sup>16</sup>Y la harina de la tinaja no escaseó, ni el aceite de la vasija menguó, conforme a la palabra que Jehová había dicho por Elías. </p><div class=\"publisher\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </div>",
         "url": "https://biblegateway.com/passage/?search=1%20Kings%2017:8-16&version=RVR1960",
         "isOpen": false
       }
@@ -85,9 +98,40 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente:<ul class=\"arrows\"><li> ¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes? </li><li>¿Por qué te sientes atraído a esas palabras o frases?</li><li>¿Hay algo que te incomode?</li><li>¿Qué podemos aprender sobre Dios y los principios de su Reino?</li></ul>",
-          "Aplicación:<ul class=\"arrows\"><li>¿Qué podría estar Dios diciéndote?</li></ul>",
-          "Compartid en el grupo."
+          {
+            "text": "Individualmente:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes?"
+                },
+                {
+                  "text": "¿Por qué te sientes atraído a esas palabras o frases?"
+                },
+                {
+                  "text": "¿Hay algo que te incomode?"
+                },
+                {
+                  "text": "¿Qué podemos aprender sobre Dios y los principios de su Reino?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Aplicación:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué podría estar Dios diciéndote?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Compartid en el grupo."
+          }
         ]
       }
     },
@@ -111,8 +155,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Qué podemos aprender acerca del principio divino de dar? Leed también 2ª Corintios 9:6-8 y Lucas 6:38.",
-          "¿Tienes fe en que Dios es tu proveedor, y que no te faltará nada si confías en Él y actúas de acuerdo a su plan (Salmo 23:1)? ¿Dudas sobre esto en alguna manera, o notas que actúas más movido por el miedo en algunas áreas (como tus finanzas, trabajo, relaciones, etc.)?"
+          {
+            "text": "¿Qué podemos aprender acerca del principio divino de dar? Leed también 2ª Corintios 9:6-8 y Lucas 6:38."
+          },
+          {
+            "text": "¿Tienes fe en que Dios es tu proveedor, y que no te faltará nada si confías en Él y actúas de acuerdo a su plan (Salmo 23:1)? ¿Dudas sobre esto en alguna manera, o notas que actúas más movido por el miedo en algunas áreas (como tus finanzas, trabajo, relaciones, etc.)?"
+          }
         ]
       }
     },
@@ -123,15 +171,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<span class=\"unknown\">▶</span>¿Qué principios sigues cuando se trata de dar? ¿Qué has aprendido hoy y qué desearías cambiar? Anota las 2-3 cosas más importantes y compártelas en tu grupo."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<span class=\"unknown\">▶</span>¿Habéis planeado un evento evangelístico o un proyecto para estudiantes que requieran recursos financieros considerables? ¿Existen gastos recurrentes en el movimiento estudiantil del que formas parte (p. ej. alquiler de una oficina)? Pregúntale a Jesús tú mismo, en oración, cómo podrías contribuir a cubrir esas necesidades financieras (p. ej. donando tú mismo, pedir en tus redes, organizar una recaudación de fondos, etc.)."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "¿Qué principios sigues cuando se trata de dar?\n¿Qué has aprendido hoy y qué desearías cambiar? Anota las 2-3 cosas más\nimportantes y compártelas en tu grupo."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "¿Habéis planeado un evento evangelístico o un\nproyecto para estudiantes que requieran recursos financieros considerables?\n¿Existen gastos recurrentes en el movimiento estudiantil del que formas\nparte (p. ej. alquiler de una oficina)? Pregúntale a Jesús tú mismo, en\noración, cómo podrías contribuir a cubrir esas necesidades financieras (p.\nej. donando tú mismo, pedir en tus redes, organizar una recaudación de\nfondos, etc.)."
+          }
+        ]
       }
     },
     {

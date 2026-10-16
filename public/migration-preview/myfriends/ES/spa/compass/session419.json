@@ -22,22 +22,31 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Qué experiencias has tenido con Dios esta semana?",
-          "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?",
-          "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          {
+            "text": "¿Qué experiencias has tenido con Dios esta semana?"
+          },
+          {
+            "text": "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?"
+          },
+          {
+            "text": "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          }
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que os ayude en las áreas que cada uno necesite."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque vuestra relación con Dios sea más profunda y se fortalezca."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que\nos ayude en las áreas que cada uno necesite."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque\nvuestra relación con Dios sea más profunda y se fortalezca."
+          }
+        ]
       }
     },
     {
@@ -60,8 +69,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?",
-          "Que alguien lea el pasaje en voz alta."
+          {
+            "text": "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?"
+          },
+          {
+            "text": "Que alguien lea el pasaje en voz alta."
+          }
         ]
       }
     },
@@ -69,7 +82,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Marcos 3:13-19",
-        "html": "<div class=\"bible\"><p class=\"bible\"><sup>13</sup>Después subió al monte, y llamó a sí a los que él quiso; y vinieron a él. </p><p class=\"bible\"><sup>14</sup>Y estableció a doce, para que estuviesen con él, y para enviarlos a predicar, </p><p class=\"bible\"><sup>15</sup>y que tuviesen autoridad para sanar enfermedades y para echar fuera demonios: </p><p class=\"bible\"><sup>16</sup>a Simón, a quien puso por sobrenombre Pedro; </p><p class=\"bible\"><sup>17</sup>a Jacobo hijo de Zebedeo, y a Juan hermano de Jacobo, a quienes apellidó Boanerges, esto es, Hijos del trueno; </p><p class=\"bible\"><sup>18</sup>a Andrés, Felipe, Bartolomé, Mateo, Tomás, Jacobo hijo de Alfeo, Tadeo, Simón el cananista, </p><p class=\"bible\"><sup>19</sup>y Judas Iscariote, el que le entregó. Y vinieron a casa. </p></div><div class=\"publisher-info-bottom with-single\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) <p class=\"bible\"> Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </p></div><br><br>",
+        "html": "<p><sup>13</sup>Después subió al monte, y llamó a sí a los que él quiso; y vinieron a él. </p><p><sup>14</sup>Y estableció a doce, para que estuviesen con él, y para enviarlos a predicar, </p><p><sup>15</sup>y que tuviesen autoridad para sanar enfermedades y para echar fuera demonios: </p><p><sup>16</sup>a Simón, a quien puso por sobrenombre Pedro; </p><p><sup>17</sup>a Jacobo hijo de Zebedeo, y a Juan hermano de Jacobo, a quienes apellidó Boanerges, esto es, Hijos del trueno; </p><p><sup>18</sup>a Andrés, Felipe, Bartolomé, Mateo, Tomás, Jacobo hijo de Alfeo, Tadeo, Simón el cananista, </p><p><sup>19</sup>y Judas Iscariote, el que le entregó. Y vinieron a casa. </p><div class=\"publisher-info-bottom with-single\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) <p> Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </p></div>",
         "url": "https://biblegateway.com/passage/?search=Mark%203:13-19&version=RVR1960",
         "isOpen": false
       }
@@ -79,9 +92,40 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente:<ul class=\"arrows\"><li> ¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes? </li><li>¿Por qué te sientes atraído a esas palabras o frases?</li><li>¿Hay algo que te incomode?</li><li>¿Qué podemos aprender sobre Dios y los principios de su Reino?</li></ul>",
-          "Aplicación:<ul class=\"arrows\"><li>¿Qué podría estar Dios diciéndote?</li></ul>",
-          "Compartid en el grupo."
+          {
+            "text": "Individualmente:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes?"
+                },
+                {
+                  "text": "¿Por qué te sientes atraído a esas palabras o frases?"
+                },
+                {
+                  "text": "¿Hay algo que te incomode?"
+                },
+                {
+                  "text": "¿Qué podemos aprender sobre Dios y los principios de su Reino?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Aplicación:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué podría estar Dios diciéndote?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Compartid en el grupo."
+          }
         ]
       }
     },
@@ -105,12 +149,24 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿A qué llamó Jesús a los doce discípulos? Haced una lista de todos los aspectos que encontréis en el pasaje.",
-          "Observad la secuencia en que estos aspectos aparecen. ¿Qué aspectos vienen antes y por qué?",
-          "Jesús llama a cada uno por su nombre. ¿Qué significa eso para ti?",
-          "Seguir a Jesús significa, primeramente, tener una relación personal con él. ¿Tienes intimidad con Jesús? ¿O necesitas que vuelva a acercarse a ti? ¿Hay algún impedimento de por medio que debas confesarle? (Cada uno individualmente).",
-          "Jesús no invirtió su vida en todo el mundo. Tuvo influencia en las masas y tuvo muchos otros discípulos (Lucas 6:17), pero la mayor parte de su tiempo la invirtió, deliberadamente, en solo doce personas. A éstos él hizo sus discípulos, los llamó amigos, compartió su corazón con ellos, y fueron los doce que «conocían al Padre». Esto fue así porque sabía que para cambiar el mundo solo necesitaba unas pocas personas, aquellas que tenían un compromiso del cien por cien con él y estaban listas para ser enviadas. ¿Tienes tú un compromiso completo y estás listo para ser un enviado de Jesús?",
-          "¿Cuál es nuestro mandato como enviados? (Véase también Juan 17:18)."
+          {
+            "text": "¿A qué llamó Jesús a los doce discípulos? Haced una lista de todos los aspectos que encontréis en el pasaje."
+          },
+          {
+            "text": "Observad la secuencia en que estos aspectos aparecen. ¿Qué aspectos vienen antes y por qué?"
+          },
+          {
+            "text": "Jesús llama a cada uno por su nombre. ¿Qué significa eso para ti?"
+          },
+          {
+            "text": "Seguir a Jesús significa, primeramente, tener una relación personal con él. ¿Tienes intimidad con Jesús? ¿O necesitas que vuelva a acercarse a ti? ¿Hay algún impedimento de por medio que debas confesarle? (Cada uno individualmente)."
+          },
+          {
+            "text": "Jesús no invirtió su vida en todo el mundo. Tuvo influencia en las masas y tuvo muchos otros discípulos (Lucas 6:17), pero la mayor parte de su tiempo la invirtió, deliberadamente, en solo doce personas. A éstos él hizo sus discípulos, los llamó amigos, compartió su corazón con ellos, y fueron los doce que «conocían al Padre». Esto fue así porque sabía que para cambiar el mundo solo necesitaba unas pocas personas, aquellas que tenían un compromiso del cien por cien con él y estaban listas para ser enviadas. ¿Tienes tú un compromiso completo y estás listo para ser un enviado de Jesús?"
+          },
+          {
+            "text": "¿Cuál es nuestro mandato como enviados? (Véase también Juan 17:18)."
+          }
         ]
       }
     },
@@ -121,15 +177,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Orad juntos y poneos a su disposición para ser enviados."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pídale a Dios que lo llene completamente con su Espíritu Santo (puede encontrar pasos prácticos para eso en la unidad \"Llenos\")."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos y poneos a su disposición para ser enviados."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pídale a Dios que lo llene completamente con su Espíritu Santo (puede\nencontrar pasos prácticos para eso en la unidad \"Llenos\")."
+          }
+        ]
       }
     },
     {

@@ -22,22 +22,31 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Qué experiencias has tenido con Dios esta semana?",
-          "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?",
-          "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          {
+            "text": "¿Qué experiencias has tenido con Dios esta semana?"
+          },
+          {
+            "text": "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?"
+          },
+          {
+            "text": "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          }
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que os ayude en las áreas que cada uno necesite."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque vuestra relación con Dios sea más profunda y se fortalezca."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que\nos ayude en las áreas que cada uno necesite."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque\nvuestra relación con Dios sea más profunda y se fortalezca."
+          }
+        ]
       }
     },
     {
@@ -60,8 +69,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?",
-          "Que alguien lea el pasaje en voz alta."
+          {
+            "text": "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?"
+          },
+          {
+            "text": "Que alguien lea el pasaje en voz alta."
+          }
         ]
       }
     },
@@ -69,7 +82,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Hechos 2:42-47",
-        "html": "<div class=\"bible\"><p class=\"bible\"><sup>42</sup>Y perseveraban en la doctrina de los apóstoles, en la comunión unos con otros, en el partimiento del pan y en las oraciones. </p><p class=\"bible\">La vida de los primeros cristianos</p><p class=\"bible\"><sup>43</sup>Y sobrevino temor a toda persona; y muchas maravillas y señales eran hechas por los apóstoles. </p><p class=\"bible\"><sup>44</sup>Todos los que habían creído estaban juntos, y tenían en común todas las cosas; </p><p class=\"bible\"><sup>45</sup>y vendían sus propiedades y sus bienes, y lo repartían a todos según la necesidad de cada uno. </p><p class=\"bible\"><sup>46</sup>Y perseverando unánimes cada día en el templo, y partiendo el pan en las casas, comían juntos con alegría y sencillez de corazón, </p><p class=\"bible\"><sup>47</sup>alabando a Dios, y teniendo favor con todo el pueblo. Y el Señor añadía cada día a la iglesia los que habían de ser salvos. </p></div><br><br>",
+        "html": "<p><sup>42</sup>Y perseveraban en la doctrina de los apóstoles, en la comunión unos con otros, en el partimiento del pan y en las oraciones. </p><p>La vida de los primeros cristianos</p><p><sup>43</sup>Y sobrevino temor a toda persona; y muchas maravillas y señales eran hechas por los apóstoles. </p><p><sup>44</sup>Todos los que habían creído estaban juntos, y tenían en común todas las cosas; </p><p><sup>45</sup>y vendían sus propiedades y sus bienes, y lo repartían a todos según la necesidad de cada uno. </p><p><sup>46</sup>Y perseverando unánimes cada día en el templo, y partiendo el pan en las casas, comían juntos con alegría y sencillez de corazón, </p><p><sup>47</sup>alabando a Dios, y teniendo favor con todo el pueblo. Y el Señor añadía cada día a la iglesia los que habían de ser salvos. </p>",
         "url": "https://biblegateway.com/passage/?search=Acts%202:42-47&version=RVR1960",
         "isOpen": false
       }
@@ -78,7 +91,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Hebreos 10:24-25",
-        "html": "<div class=\"bible\"><p class=\"bible\"><sup>24</sup>Y considerémonos unos a otros para estimularnos al amor y a las buenas obras; </p><p class=\"bible\"><sup>25</sup>no dejando de congregarnos, como algunos tienen por costumbre, sino exhortándonos; y tanto más, cuanto veis que aquel día se acerca. </p></div><div class=\"publisher-info-bottom with-single\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) <p class=\"bible\"> Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </p></div><br><br>",
+        "html": "<p><sup>24</sup>Y considerémonos unos a otros para estimularnos al amor y a las buenas obras; </p><p><sup>25</sup>no dejando de congregarnos, como algunos tienen por costumbre, sino exhortándonos; y tanto más, cuanto veis que aquel día se acerca. </p><div class=\"publisher-info-bottom with-single\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) <p> Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </p></div>",
         "url": "https://biblegateway.com/passage/?search=Hebrews%2010:24-25&version=RVR1960",
         "isOpen": false
       }
@@ -88,9 +101,40 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente:<ul class=\"arrows\"><li> ¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes? </li><li>¿Por qué te sientes atraído a esas palabras o frases?</li><li>¿Hay algo que te incomode?</li><li>¿Qué podemos aprender sobre Dios y los principios de su Reino?</li></ul>",
-          "Aplicación:<ul class=\"arrows\"><li>¿Qué podría estar Dios diciéndote?</li></ul>",
-          "Compartid en el grupo."
+          {
+            "text": "Individualmente:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes?"
+                },
+                {
+                  "text": "¿Por qué te sientes atraído a esas palabras o frases?"
+                },
+                {
+                  "text": "¿Hay algo que te incomode?"
+                },
+                {
+                  "text": "¿Qué podemos aprender sobre Dios y los principios de su Reino?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Aplicación:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué podría estar Dios diciéndote?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Compartid en el grupo."
+          }
         ]
       }
     },
@@ -114,9 +158,15 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Qué aspectos de la vida en comunidad os suponen un desafío?",
-          "¿De qué maneras podéis contribuir a fortalecer las relaciones en vuestro grupo y a profundizar en ellas?",
-          "¿Qué podríais hacer como grupo para traer la presencia de Dios a la universidad y a vuestros amigos? ¿Cómo podríais generar movimientos? ¿Qué podríais empezar juntos?"
+          {
+            "text": "¿Qué aspectos de la vida en comunidad os suponen un desafío?"
+          },
+          {
+            "text": "¿De qué maneras podéis contribuir a fortalecer las relaciones en vuestro grupo y a profundizar en ellas?"
+          },
+          {
+            "text": "¿Qué podríais hacer como grupo para traer la presencia de Dios a la universidad y a vuestros amigos? ¿Cómo podríais generar movimientos? ¿Qué podríais empezar juntos?"
+          }
         ]
       }
     },
@@ -127,15 +177,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶Orad porque vuestra amistad con Dios y entre vosotros se fortalezca y sea más profunda."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ En oración, poneos a disposición de Dios, para que Él utilice vuestro grupo cada vez más para traer su presencia de una manera perceptible a vuestra universidad (véase Comentario sobre la Escritura)."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Orad porque vuestra amistad con Dios y entre vosotros se fortalezca y sea\nmás profunda."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "En oración, poneos a disposición de Dios, para que Él utilice vuestro\ngrupo cada vez más para traer su presencia de una manera perceptible a\nvuestra universidad (véase Comentario sobre la Escritura)."
+          }
+        ]
       }
     },
     {

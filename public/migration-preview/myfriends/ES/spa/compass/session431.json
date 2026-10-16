@@ -22,22 +22,31 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Qué experiencias has tenido con Dios esta semana?",
-          "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?",
-          "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          {
+            "text": "¿Qué experiencias has tenido con Dios esta semana?"
+          },
+          {
+            "text": "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?"
+          },
+          {
+            "text": "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          }
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que os ayude en las áreas que cada uno necesite."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque vuestra relación con Dios sea más profunda y se fortalezca."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que\nos ayude en las áreas que cada uno necesite."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque\nvuestra relación con Dios sea más profunda y se fortalezca."
+          }
+        ]
       }
     },
     {
@@ -60,8 +69,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?",
-          "Que alguien lea el pasaje en voz alta."
+          {
+            "text": "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?"
+          },
+          {
+            "text": "Que alguien lea el pasaje en voz alta."
+          }
         ]
       }
     },
@@ -69,7 +82,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Hechos 8:1-8",
-        "html": "<div class=\"bible\"><p class=\"bible\"><sup>1</sup>Y Saulo consentía en su muerte. En aquel día hubo una gran persecución contra la iglesia que estaba en Jerusalén; y todos fueron esparcidos por las tierras de Judea y de Samaria, salvo los apóstoles. </p><p class=\"bible\"><sup>2</sup>Y hombres piadosos llevaron a enterrar a Esteban, e hicieron gran llanto sobre él. </p><p class=\"bible\"><sup>3</sup>Y Saulo asolaba la iglesia, y entrando casa por casa, arrastraba a hombres y a mujeres, y los entregaba en la cárcel. </p><p class=\"bible\">Predicación del evangelio en Samaria</p><p class=\"bible\"><sup>4</sup>Pero los que fueron esparcidos iban por todas partes anunciando el evangelio. </p><p class=\"bible\"><sup>5</sup>Entonces Felipe, descendiendo a la ciudad de Samaria, les predicaba a Cristo. </p><p class=\"bible\"><sup>6</sup>Y la gente, unánime, escuchaba atentamente las cosas que decía Felipe, oyendo y viendo las señales que hacía. </p><p class=\"bible\"><sup>7</sup>Porque de muchos que tenían espíritus inmundos, salían éstos dando grandes voces; y muchos paralíticos y cojos eran sanados; </p><p class=\"bible\"><sup>8</sup>así que había gran gozo en aquella ciudad. </p></div><div class=\"publisher\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </div><br><br>",
+        "html": "<p><sup>1</sup>Y Saulo consentía en su muerte. En aquel día hubo una gran persecución contra la iglesia que estaba en Jerusalén; y todos fueron esparcidos por las tierras de Judea y de Samaria, salvo los apóstoles. </p><p><sup>2</sup>Y hombres piadosos llevaron a enterrar a Esteban, e hicieron gran llanto sobre él. </p><p><sup>3</sup>Y Saulo asolaba la iglesia, y entrando casa por casa, arrastraba a hombres y a mujeres, y los entregaba en la cárcel. </p><p>Predicación del evangelio en Samaria</p><p><sup>4</sup>Pero los que fueron esparcidos iban por todas partes anunciando el evangelio. </p><p><sup>5</sup>Entonces Felipe, descendiendo a la ciudad de Samaria, les predicaba a Cristo. </p><p><sup>6</sup>Y la gente, unánime, escuchaba atentamente las cosas que decía Felipe, oyendo y viendo las señales que hacía. </p><p><sup>7</sup>Porque de muchos que tenían espíritus inmundos, salían éstos dando grandes voces; y muchos paralíticos y cojos eran sanados; </p><p><sup>8</sup>así que había gran gozo en aquella ciudad. </p><div class=\"publisher\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </div>",
         "url": "https://biblegateway.com/passage/?search=Acts%208:1-8&version=RVR1960",
         "isOpen": false
       }
@@ -79,9 +92,40 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente:<ul class=\"arrows\"><li> ¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes? </li><li>¿Por qué te sientes atraído a esas palabras o frases?</li><li>¿Hay algo que te incomode?</li><li>¿Qué podemos aprender sobre Dios y los principios de su Reino?</li></ul>",
-          "Aplicación:<ul class=\"arrows\"><li>¿Qué podría estar Dios diciéndote?</li></ul>",
-          "Compartid en el grupo."
+          {
+            "text": "Individualmente:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes?"
+                },
+                {
+                  "text": "¿Por qué te sientes atraído a esas palabras o frases?"
+                },
+                {
+                  "text": "¿Hay algo que te incomode?"
+                },
+                {
+                  "text": "¿Qué podemos aprender sobre Dios y los principios de su Reino?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Aplicación:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué podría estar Dios diciéndote?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Compartid en el grupo."
+          }
         ]
       }
     },
@@ -101,16 +145,20 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Orad por protección, valentía, fe y prudencia para los cristianos perseguidos en Siria, Turquía, Iraq, Irán, Pakistán, Egipto, Argelia, Túnez y Marruecos. Quizá tengáis información adicional y peticiones de oración de y por estos países. P. ej. de Puertas Abiertas, o de otras organizaciones similares."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Orad por protección, valentía, fe y prudencia para los cristianos\nperseguidos en Siria, Turquía, Iraq, Irán, Pakistán, Egipto, Argelia, Túnez\ny Marruecos. Quizá tengáis información adicional y peticiones de oración de\ny por estos países. P. ej. de Puertas Abiertas, o de otras organizaciones\nsimilares."
+          }
+        ]
       }
     },
     {
-      "type": "notesArea",
+      "type": "iWill",
       "data": {
-        "notes": "",
-        "storageKey": "note"
+        "storageKey": "compass-session431-i-will"
       }
     }
   ]

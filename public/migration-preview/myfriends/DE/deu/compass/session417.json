@@ -22,9 +22,15 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -63,10 +69,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Alle lesen den Text leise für sich.",
-          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
-          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
-          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          {
+            "text": "Alle lesen den Text leise für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln."
+          },
+          {
+            "text": "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln)."
+          },
+          {
+            "text": "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          }
         ]
       }
     },
@@ -84,8 +98,29 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Allgemeine Fragen:<ul class=\"arrows\"><li>Ist dir etwas in diesem Text besonders aufgefallen?</li><li>Was gefällt dir an diesem Abschnitt? Was stört dich?</li><li> Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen? </li><li>Was kannst du über die Menschheit lernen?</li></ul>",
-          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          {
+            "text": "Allgemeine Fragen:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Ist dir etwas in diesem Text besonders aufgefallen?"
+                },
+                {
+                  "text": "Was gefällt dir an diesem Abschnitt? Was stört dich?"
+                },
+                {
+                  "text": "Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?"
+                },
+                {
+                  "text": "Was kannst du über die Menschheit lernen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          }
         ]
       }
     },
@@ -115,10 +150,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Welche drei Reaktionen erkennt ihr im Text?",
-          "Welche Menschen haben schon harsch auf dich reagiert, weil du vom Glauben geredet hast? Notiere die Namen auf ein Blatt Papier.",
-          "Wenn wir Ablehnung erfahren haben und dieses Erlebnis für uns schmerzhaft gewesen ist, dann schleichen sich schnell Gedanken wie solche ein: „Ich werde mich in Zukunft schützen, indem ich am besten gar nicht mehr meinen Glauben unter meinen Freunden the-matisiere.“ Und damit schleicht sich Angst in unser Leben ein. Diese Art von Angst steht im Gegensatz zu dem, wie Gott uns geplant hat. Er fordert uns heraus, ihm zu vertrauen. Doch Angst kann uns daran hindern und so schränkt Angst Gottes Kraft, Mut, Weisheit, Freude und Liebe in unserem Leben ein. Wie kommen wir gegen Angst an? Hinter jeder Angst steckt eigentlich eine Lüge. Das Problem ist nicht die vorhersehbare Gefahr oder der Konflikt. Das Problem ist die Lüge, die wir glauben, hinsichtlich Gottes Fähigkeit, uns zu schützen, zu versorgen und in allen Lebensbereichen auszurüsten. Und die ist in der Regel in einer negativen Erfahrung verwurzelt. Damit wir von Angst frei werden und weiterhin mutig und glaubensvoll vorwärts gehen können, ist es wichtig, in einem ersten Schritt Menschen zu vergeben, die so negativ auf unsere Aussagen reagiert haben, und dann auch unsere eigene sündhafte Reaktion darauf Jesus zu be-kennen (z.B. Rückzug, Ärger, Jesus nicht mehr vertrauen etc.).",
-          "Jeder nimmt sich Zeit für ein persönliches Gebet, um anderen Men-schen zu vergeben (im Kapitel „Wachsen durch Vergebung“ findest du ein paar praktische Schritte dazu)."
+          {
+            "text": "Welche drei Reaktionen erkennt ihr im Text?"
+          },
+          {
+            "text": "Welche Menschen haben schon harsch auf dich reagiert, weil du vom Glauben geredet hast? Notiere die Namen auf ein Blatt Papier."
+          },
+          {
+            "text": "Wenn wir Ablehnung erfahren haben und dieses Erlebnis für uns schmerzhaft gewesen ist, dann schleichen sich schnell Gedanken wie solche ein: „Ich werde mich in Zukunft schützen, indem ich am besten gar nicht mehr meinen Glauben unter meinen Freunden the-matisiere.“ Und damit schleicht sich Angst in unser Leben ein. Diese Art von Angst steht im Gegensatz zu dem, wie Gott uns geplant hat. Er fordert uns heraus, ihm zu vertrauen. Doch Angst kann uns daran hindern und so schränkt Angst Gottes Kraft, Mut, Weisheit, Freude und Liebe in unserem Leben ein. Wie kommen wir gegen Angst an? Hinter jeder Angst steckt eigentlich eine Lüge. Das Problem ist nicht die vorhersehbare Gefahr oder der Konflikt. Das Problem ist die Lüge, die wir glauben, hinsichtlich Gottes Fähigkeit, uns zu schützen, zu versorgen und in allen Lebensbereichen auszurüsten. Und die ist in der Regel in einer negativen Erfahrung verwurzelt. Damit wir von Angst frei werden und weiterhin mutig und glaubensvoll vorwärts gehen können, ist es wichtig, in einem ersten Schritt Menschen zu vergeben, die so negativ auf unsere Aussagen reagiert haben, und dann auch unsere eigene sündhafte Reaktion darauf Jesus zu be-kennen (z.B. Rückzug, Ärger, Jesus nicht mehr vertrauen etc.)."
+          },
+          {
+            "text": "Jeder nimmt sich Zeit für ein persönliches Gebet, um anderen Men-schen zu vergeben (im Kapitel „Wachsen durch Vergebung“ findest du ein paar praktische Schritte dazu)."
+          }
         ]
       }
     },

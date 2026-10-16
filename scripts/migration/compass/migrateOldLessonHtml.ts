@@ -9,6 +9,7 @@ import type { SectionMarkerBlockData } from 'src/types/content/MigrationTypes';
 import { remapImagePaths } from '../remapImagePaths';
 import type { EditorJsContent, SectionTheme, VideoSource } from 'src/types/content/MigrationTypes';
 import type { AnyEditorJsBlock } from 'src/types/content/EditorBlocks';
+import type { ListItem } from 'src/types/content/ListBlock';
 import { extractPopupBibleReferences } from '../shared/extractPopupBibleReferences';
 
 import { extractInlineBibleRefs, type BibleRef } from '../shared/extractInlineBibleRefs';
@@ -62,7 +63,7 @@ function buildHeaderBlock(
   };
 }
 
-function buildListBlock(style: 'ordered' | 'unordered', items: string[]): AnyEditorJsBlock {
+function buildListBlock(style: 'ordered' | 'unordered', items: ListItem[]): AnyEditorJsBlock {
   return {
     type: 'list',
     data: {
@@ -203,14 +204,10 @@ function cleanBibleHtml(rawHtml: string): string {
     }
   });
 
-  // Remove trailing <br> tags.
-  $root.find('br').each((_, el) => {
-    const $el = $(el);
-
-    if (!$el.next().length) {
-      $el.remove();
-    }
-  });
+  // Remove all trailing <br> tags.
+  while ($root.children().last().is('br')) {
+    $root.children().last().remove();
+  }
 
   // Remove redundant plain Bible wrappers.
   // Preserve anything with additional classes, e.g. poetry formatting.
@@ -413,12 +410,46 @@ function extractLessonListItems(
   return items;
 }
 
-function extractListItems($: cheerio.CheerioAPI, $list: cheerio.Cheerio<AnyNode>): string[] {
-  return $list
-    .children('li')
-    .map((_, li) => normalizeInlineHtml($(li).html() || ''))
-    .get()
-    .filter(Boolean);
+function extractListItems($: cheerio.CheerioAPI, $list: cheerio.Cheerio<AnyNode>): ListItem[] {
+  const items: ListItem[] = [];
+
+  $list.children('li').each((_, li) => {
+    const $li = $(li);
+
+    // Clone so we don't alter the source DOM.
+    const $clone = $li.clone();
+
+    // Nested lists belong in children, not in the item's text.
+    $clone.children('ul, ol').remove();
+
+    // A paragraph inside an LI is just legacy block formatting.
+    // Keep its contents, but remove the <p> wrapper.
+    $clone.children('p').each((_, p) => {
+      const $p = $(p);
+      $p.replaceWith($p.contents());
+    });
+
+    const text = normalizeInlineHtml($clone.html() || '');
+
+    const item: Exclude<ListItem, string> = {
+      text,
+    };
+
+    const $nestedList = $li.children('ul, ol').first();
+
+    if ($nestedList.length > 0) {
+      item.children = {
+        style: $nestedList.is('ol') ? 'ordered' : 'unordered',
+        items: extractListItems($, $nestedList),
+      };
+    }
+
+    if (!isIgnorableHtml(text) || item.children) {
+      items.push(item);
+    }
+  });
+
+  return items;
 }
 
 function extractRevealContentBlocks(

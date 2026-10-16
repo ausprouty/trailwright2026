@@ -22,22 +22,31 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Qué experiencias has tenido con Dios esta semana?",
-          "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?",
-          "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          {
+            "text": "¿Qué experiencias has tenido con Dios esta semana?"
+          },
+          {
+            "text": "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?"
+          },
+          {
+            "text": "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          }
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que os ayude en las áreas que cada uno necesite."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque vuestra relación con Dios sea más profunda y se fortalezca."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que\nos ayude en las áreas que cada uno necesite."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque\nvuestra relación con Dios sea más profunda y se fortalezca."
+          }
+        ]
       }
     },
     {
@@ -60,8 +69,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?",
-          "Que alguien lea el pasaje en voz alta."
+          {
+            "text": "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?"
+          },
+          {
+            "text": "Que alguien lea el pasaje en voz alta."
+          }
         ]
       }
     },
@@ -69,7 +82,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "1 Corintios 2:9-3:3",
-        "html": "<p class=\"bible\"><sup>9</sup> Antes bien, como está escrito:<br> Cosas que ojo no vio, ni oído oyó,<br> Ni han subido en corazón de hombre, Son las que Dios ha preparado para los que le aman. m </p><p class=\"bible\"><sup>10</sup> Pero Dios nos las reveló a nosotros por el Espíritu; porque el Espíritu todo lo escudriña, aun lo profundo de Dios. </p><p class=\"bible\"><sup>11</sup> Porque ¿quién de los hombres sabe las cosas del hombre, sino el espíritu del hombre que está en él? Así tampoco nadie conoció las cosas de Dios, sino el Espíritu de Dios. </p><p class=\"bible\"><sup>12</sup> Y nosotros no hemos recibido el espíritu del mundo, sino el Espíritu que proviene de Dios, para que sepamos lo que Dios nos ha concedido, </p><p class=\"bible\"><sup>13</sup> lo cual también hablamos, no con palabras enseñadas por sabiduría humana, sino con las que enseña el Espíritu, acomodando lo espiritual a lo espiritual. </p><p class=\"bible\"><sup>14</sup> Pero el hombre natural no percibe las cosas que son del Espíritu de Dios, porque para él son locura, y no las puede entender, porque se han de discernir espiritualmente. </p><p class=\"bible\"><sup>15</sup> En cambio el espiritual juzga todas las cosas; pero él no es juzgado de nadie. </p><p class=\"bible\"><sup>16</sup> Porque ¿quién conoció la mente del Señor? ¿Quién le instruirá? Mas nosotros tenemos la mente de Cristo. </p><div class=\"bible\"><p class=\"bible\"><sup>3:1</sup>De manera que yo, hermanos, no pude hablaros como a espirituales, sino como a carnales, como a niños en Cristo. </p><p class=\"bible\"><sup>2</sup>Os di a beber leche, y no vianda; porque aún no erais capaces, ni sois capaces todavía, </p><p class=\"bible\"><sup>3</sup>porque aún sois carnales; pues habiendo entre vosotros celos, contiendas y disensiones, ¿no sois carnales, y andáis como hombres? </p></div><div class=\"publisher\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </div><p class=\"bible\"><br><br></p>",
+        "html": "<p><sup>9</sup> Antes bien, como está escrito:<br> Cosas que ojo no vio, ni oído oyó,<br> Ni han subido en corazón de hombre,<br> Son las que Dios ha preparado para los que le aman. m </p><p><sup>10</sup> Pero Dios nos las reveló a nosotros por el Espíritu; porque el Espíritu todo lo escudriña, aun lo profundo de Dios. </p><p><sup>11</sup> Porque ¿quién de los hombres sabe las cosas del hombre, sino el espíritu del hombre que está en él? Así tampoco nadie conoció las cosas de Dios, sino el Espíritu de Dios. </p><p><sup>12</sup> Y nosotros no hemos recibido el espíritu del mundo, sino el Espíritu que proviene de Dios, para que sepamos lo que Dios nos ha concedido, </p><p><sup>13</sup> lo cual también hablamos, no con palabras enseñadas por sabiduría humana, sino con las que enseña el Espíritu, acomodando lo espiritual a lo espiritual. </p><p><sup>14</sup> Pero el hombre natural no percibe las cosas que son del Espíritu de Dios, porque para él son locura, y no las puede entender, porque se han de discernir espiritualmente. </p><p><sup>15</sup> En cambio el espiritual juzga todas las cosas; pero él no es juzgado de nadie. </p><p><sup>16</sup> Porque ¿quién conoció la mente del Señor? ¿Quién le instruirá? Mas nosotros tenemos la mente de Cristo. </p><p><sup>3:1</sup>De manera que yo, hermanos, no pude hablaros como a espirituales, sino como a carnales, como a niños en Cristo. </p><p><sup>2</sup>Os di a beber leche, y no vianda; porque aún no erais capaces, ni sois capaces todavía, </p><p><sup>3</sup>porque aún sois carnales; pues habiendo entre vosotros celos, contiendas y disensiones, ¿no sois carnales, y andáis como hombres? </p><div class=\"publisher\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </div>",
         "url": "https://biblegateway.com/passage/?search=1%20Corinthians%202:9-3:3&version=RVR1960",
         "isOpen": false
       }
@@ -79,9 +92,40 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente:<ul class=\"arrows\"><li> ¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes? </li><li>¿Por qué te sientes atraído a esas palabras o frases?</li><li>¿Hay algo que te incomode?</li><li>¿Qué podemos aprender sobre Dios y los principios de su Reino?</li></ul>",
-          "Aplicación:<ul class=\"arrows\"><li>¿Qué podría estar Dios diciéndote?</li></ul>",
-          "Compartid en el grupo."
+          {
+            "text": "Individualmente:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes?"
+                },
+                {
+                  "text": "¿Por qué te sientes atraído a esas palabras o frases?"
+                },
+                {
+                  "text": "¿Hay algo que te incomode?"
+                },
+                {
+                  "text": "¿Qué podemos aprender sobre Dios y los principios de su Reino?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Aplicación:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué podría estar Dios diciéndote?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Compartid en el grupo."
+          }
         ]
       }
     },
@@ -105,8 +149,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Cuáles son las características del «hombre espiritual»? Leed también 2ª Corintios 5:14-15.",
-          "¿En qué áreas aún vives en la carne? Es decir, ¿en qué áreas NO vives en unidad con, y a través de, el poder del Espíritu Santo?"
+          {
+            "text": "¿Cuáles son las características del «hombre espiritual»? Leed también 2ª Corintios 5:14-15."
+          },
+          {
+            "text": "¿En qué áreas aún vives en la carne? Es decir, ¿en qué áreas NO vives en unidad con, y a través de, el poder del Espíritu Santo?"
+          }
         ]
       }
     },
@@ -133,35 +181,41 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Puede el Espíritu Santo fluir libremente a través tuyo? ¿Qué podría dificultárselo?",
-          "¿Estás preparado para confesarle a Dios en qué áreas estabas viviendo contra su voluntad y arrepentirte de esas actitudes, pensamientos y acciones? ¿Estás dispuesto a someterte plenamente a la guía del Espíritu Santo, y a recibir su poder?",
-          "Si puedes decir «sí» a estas cuestiones, pídele a Dios que te llene con su Espíritu Santo, ahora. Los siguientes pasos pueden serte de ayuda. Los conocemos como la «Respiración espiritual»:"
+          {
+            "text": "¿Puede el Espíritu Santo fluir libremente a través tuyo? ¿Qué podría dificultárselo?"
+          },
+          {
+            "text": "¿Estás preparado para confesarle a Dios en qué áreas estabas viviendo contra su voluntad y arrepentirte de esas actitudes, pensamientos y acciones? ¿Estás dispuesto a someterte plenamente a la guía del Espíritu Santo, y a recibir su poder?"
+          },
+          {
+            "text": "Si puedes decir «sí» a estas cuestiones, pídele a Dios que te llene con su Espíritu Santo, ahora. Los siguientes pasos pueden serte de ayuda. Los conocemos como la «Respiración espiritual»:"
+          }
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ En caso afirmativo, pídele a Dios ahora que te llene con su Espíritu. Los pasos prácticos conocidos como «Respiración espiritual» los puedes encontrar en la unidad «Llenos», y pueden seros de ayuda."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "En caso afirmativo, pídele a Dios ahora que te llene con su Espíritu.\nLos pasos prácticos conocidos como «Respiración espiritual» los puedes\nencontrar en la unidad «Llenos», y pueden seros de ayuda."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Orad en grupos de 2-3 personas, por que vuestras vidas estén llenas\ndel poder, amor y sabiduría de Dios, y que brille ante todos tus amigos\nestudiantes que aún no conocen a Jesús."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Recopilad ideas sobre cómo podéis apoyar a vuestros amigos\nestudiantes a que puedan ver / sentir / experimentar el amor de Dios hacia\nellos en y a través tuyo."
+          }
+        ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iWill",
       "data": {
-        "text": "▶ Orad en grupos de 2-3 personas, por que vuestras vidas estén llenas del poder, amor y sabiduría de Dios, y que brille ante todos tus amigos estudiantes que aún no conocen a Jesús."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Recopilad ideas sobre cómo podéis apoyar a vuestros amigos estudiantes a que puedan ver / sentir / experimentar el amor de Dios hacia ellos en y a través tuyo."
-      }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "note"
+        "storageKey": "compass-session434-i-will"
       }
     }
   ]

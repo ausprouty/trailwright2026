@@ -1,23 +1,9 @@
 <script setup lang="ts">
 import { computed } from 'vue';
 import { contentBlockIcons } from '../contentBlockIcons';
+import type { ListBlockData, ListItem } from 'src/types/content/ListBlock';
 
 type IconListIconKey = keyof typeof contentBlockIcons;
-
-type EditorJsListItem =
-  | string
-  | {
-      content?: string;
-      text?: string;
-      icon?: string;
-      items?: EditorJsListItem[];
-    };
-
-type ListBlockData = {
-  style?: 'ordered' | 'unordered';
-  variant?: string;
-  items?: EditorJsListItem[];
-};
 
 const props = defineProps<{
   data: ListBlockData;
@@ -27,7 +13,7 @@ const tagName = computed(() => {
   return props.data.style === 'ordered' ? 'ol' : 'ul';
 });
 
-const items = computed(() => {
+const items = computed<ListItem[]>(() => {
   return Array.isArray(props.data.items) ? props.data.items : [];
 });
 
@@ -41,23 +27,15 @@ const isLessonList = computed(() => {
   return props.data.variant === 'lesson-list' || hasIcons.value;
 });
 
-function itemContent(item: EditorJsListItem): string {
+function itemContent(item: ListItem): string {
   if (typeof item === 'string') {
     return item;
   }
 
-  if (item && typeof item.text === 'string') {
-    return item.text;
-  }
-
-  if (item && typeof item.content === 'string') {
-    return item.content;
-  }
-
-  return '';
+  return item.text || '';
 }
 
-function itemIconSvg(item: EditorJsListItem): string {
+function itemIconSvg(item: ListItem): string {
   if (!item || typeof item !== 'object' || typeof item.icon !== 'string') {
     return '';
   }
@@ -67,16 +45,18 @@ function itemIconSvg(item: EditorJsListItem): string {
   return contentBlockIcons[iconKey]?.svg || '';
 }
 
-function itemChildren(item: EditorJsListItem): EditorJsListItem[] {
-  if (item && typeof item === 'object' && Array.isArray(item.items)) {
-    return item.items;
+function itemChildren(item: ListItem): ListBlockData | null {
+  if (
+    item &&
+    typeof item === 'object' &&
+    item.children &&
+    Array.isArray(item.children.items) &&
+    item.children.items.length > 0
+  ) {
+    return item.children;
   }
 
-  return [];
-}
-
-function hasChildren(item: EditorJsListItem): boolean {
-  return itemChildren(item).length > 0;
+  return null;
 }
 </script>
 
@@ -91,38 +71,27 @@ function hasChildren(item: EditorJsListItem): boolean {
       'list-block--lesson': isLessonList,
     }"
   >
-    <li v-for="(item, index) in items" :key="index" class="list-block__item">
-      <span v-if="itemIconSvg(item)" class="list-block__icon" v-html="itemIconSvg(item)" />
+    <li
+      v-for="(item, index) in items"
+      :key="index"
+      class="list-block__item"
+    >
+      <span
+        v-if="itemIconSvg(item)"
+        class="list-block__icon"
+        v-html="itemIconSvg(item)"
+      />
 
-      <span class="list-block__content" v-html="itemContent(item)" />
+      <span
+        class="list-block__content"
+        v-html="itemContent(item)"
+      />
 
-      <component :is="tagName" v-if="hasChildren(item)" class="list-block list-block--nested">
-        <li
-          v-for="(child, childIndex) in itemChildren(item)"
-          :key="childIndex"
-          class="list-block__item"
-        >
-          <span v-if="itemIconSvg(child)" class="list-block__icon" v-html="itemIconSvg(child)" />
-
-          <span class="list-block__content" v-html="itemContent(child)" />
-
-          <component :is="tagName" v-if="hasChildren(child)" class="list-block list-block--nested">
-            <li
-              v-for="(grandChild, grandChildIndex) in itemChildren(child)"
-              :key="grandChildIndex"
-              class="list-block__item"
-            >
-              <span
-                v-if="itemIconSvg(grandChild)"
-                class="list-block__icon"
-                v-html="itemIconSvg(grandChild)"
-              />
-
-              <span class="list-block__content" v-html="itemContent(grandChild)" />
-            </li>
-          </component>
-        </li>
-      </component>
+      <ListBlock
+        v-if="itemChildren(item)"
+        :data="itemChildren(item)!"
+        class="list-block--nested"
+      />
     </li>
   </component>
 </template>

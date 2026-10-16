@@ -22,9 +22,15 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -63,10 +69,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Alle lesen den Text leise für sich.",
-          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
-          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
-          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          {
+            "text": "Alle lesen den Text leise für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln."
+          },
+          {
+            "text": "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln)."
+          },
+          {
+            "text": "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          }
         ]
       }
     },
@@ -84,8 +98,29 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Allgemeine Fragen:<ul class=\"arrows\"><li>Ist dir etwas in diesem Text besonders aufgefallen?</li><li>Was gefällt dir an diesem Abschnitt? Was stört dich?</li><li> Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen? </li><li>Was kannst du über die Menschheit lernen?</li></ul>",
-          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          {
+            "text": "Allgemeine Fragen:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Ist dir etwas in diesem Text besonders aufgefallen?"
+                },
+                {
+                  "text": "Was gefällt dir an diesem Abschnitt? Was stört dich?"
+                },
+                {
+                  "text": "Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?"
+                },
+                {
+                  "text": "Was kannst du über die Menschheit lernen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          }
         ]
       }
     },
@@ -109,8 +144,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Warum benutzt Paulus den Vergleich zwischen Betrunkenheit und Erfüllung durch den Heiligen Geist?",
-          "Kannst du das Wirken des Heiligen Geistes in deinem Leben erken-nen? (Siehe Kommentar zu diesem Kapitel)"
+          {
+            "text": "Warum benutzt Paulus den Vergleich zwischen Betrunkenheit und Erfüllung durch den Heiligen Geist?"
+          },
+          {
+            "text": "Kannst du das Wirken des Heiligen Geistes in deinem Leben erken-nen? (Siehe Kommentar zu diesem Kapitel)"
+          }
         ]
       }
     },
@@ -137,7 +176,23 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Jeder für sich:<ol><li> Wie ungehindert kann der Heilige Geist durch dich fliessen? Was könnte ihn abhalten? </li><li>Wo kämpfst du selber?</li><li> Bist du bereit, deine eigenen Vorstellungen, Ideale, Einstellungen, Anstrengungen, auch dein Versagen, deinen Mangel Gott abzuge-ben? </li></ol>"
+          {
+            "text": "Jeder für sich:",
+            "children": {
+              "style": "ordered",
+              "items": [
+                {
+                  "text": "Wie ungehindert kann der Heilige Geist durch dich fliessen? Was könnte ihn abhalten?"
+                },
+                {
+                  "text": "Wo kämpfst du selber?"
+                },
+                {
+                  "text": "Bist du bereit, deine eigenen Vorstellungen, Ideale, Einstellungen, Anstrengungen, auch dein Versagen, deinen Mangel Gott abzuge-ben?"
+                }
+              ]
+            }
+          }
         ]
       }
     },
@@ -173,7 +228,9 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Du kannst jederzeit „geistlich atmen“. Wir werden uns danach nicht immer anders fühlen. Aber obwohl Gefühle wichtig sind, definieren sie nicht immer, was wahr ist. Daher ist es weise, Gott auch zu ver-trauen, wenn die Gefühle noch nicht „nachkommen“."
+          {
+            "text": "Du kannst jederzeit „geistlich atmen“. Wir werden uns danach nicht immer anders fühlen. Aber obwohl Gefühle wichtig sind, definieren sie nicht immer, was wahr ist. Daher ist es weise, Gott auch zu ver-trauen, wenn die Gefühle noch nicht „nachkommen“."
+          }
         ]
       }
     },

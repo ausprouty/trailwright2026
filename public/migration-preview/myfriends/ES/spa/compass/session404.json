@@ -22,22 +22,31 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Qué experiencias has tenido con Dios esta semana?",
-          "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?",
-          "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          {
+            "text": "¿Qué experiencias has tenido con Dios esta semana?"
+          },
+          {
+            "text": "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?"
+          },
+          {
+            "text": "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          }
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que os ayude en las áreas que cada uno necesite."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque vuestra relación con Dios sea más profunda y se fortalezca."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que\nos ayude en las áreas que cada uno necesite."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque\nvuestra relación con Dios sea más profunda y se fortalezca."
+          }
+        ]
       }
     },
     {
@@ -60,8 +69,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?",
-          "Que alguien lea el pasaje en voz alta."
+          {
+            "text": "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?"
+          },
+          {
+            "text": "Que alguien lea el pasaje en voz alta."
+          }
         ]
       }
     },
@@ -69,7 +82,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Efesios 5:8-21",
-        "html": "<div class=\"bible\"><p class=\"bible\"><sup>8</sup>Porque en otro tiempo erais tinieblas, mas ahora sois luz en el Señor; andad como hijos de luz </p><p class=\"bible\"><sup>9</sup>(porque el fruto del Espíritu es en toda bondad, justicia y verdad), </p><p class=\"bible\"><sup>10</sup>comprobando lo que es agradable al Señor. </p><p class=\"bible\"><sup>11</sup>Y no participéis en las obras infructuosas de las tinieblas, sino más bien reprendedlas; </p><p class=\"bible\"><sup>12</sup>porque vergonzoso es aun hablar de lo que ellos hacen en secreto. </p><p class=\"bible\"><sup>13</sup>Mas todas las cosas, cuando son puestas en evidencia por la luz, son hechas manifiestas; porque la luz es lo que manifiesta todo. </p><div class=\"poetry\"><p class=\"bible\"><sup>14</sup>Por lo cual dice:<br> Despiértate, tú que duermes,<br> Y levántate de los muertos, Y te alumbrará Cristo. </p></div><p class=\"bible\"><sup>15</sup>Mirad, pues, con diligencia cómo andéis, no como necios sino como sabios, </p><p class=\"bible\"><sup>16</sup>aprovechando bien el tiempo, porque los días son malos. </p><p class=\"bible\"><sup>17</sup>Por tanto, no seáis insensatos, sino entendidos de cuál sea la voluntad del Señor. </p><p class=\"bible\"><sup>18</sup>No os embriaguéis con vino, en lo cual hay disolución; antes bien sed llenos del Espíritu, </p><p class=\"bible\"><sup>19</sup>hablando entre vosotros con salmos, con himnos y cánticos espirituales, cantando y alabando al Señor en vuestros corazones; </p><p class=\"bible\"><sup>20</sup>dando siempre gracias por todo al Dios y Padre, en el nombre de nuestro Señor Jesucristo. </p><p class=\"bible\">Someteos los unos a los otros</p><p class=\"bible\"><sup>21</sup>Someteos unos a otros en el temor de Dios. </p><div class=\"publisher\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </div><br><br></div>",
+        "html": "<p><sup>8</sup>Porque en otro tiempo erais tinieblas, mas ahora sois luz en el Señor; andad como hijos de luz </p><p><sup>9</sup>(porque el fruto del Espíritu es en toda bondad, justicia y verdad), </p><p><sup>10</sup>comprobando lo que es agradable al Señor. </p><p><sup>11</sup>Y no participéis en las obras infructuosas de las tinieblas, sino más bien reprendedlas; </p><p><sup>12</sup>porque vergonzoso es aun hablar de lo que ellos hacen en secreto. </p><p><sup>13</sup>Mas todas las cosas, cuando son puestas en evidencia por la luz, son hechas manifiestas; porque la luz es lo que manifiesta todo. </p><div class=\"poetry\"><p><sup>14</sup>Por lo cual dice:<br> Despiértate, tú que duermes,<br> Y levántate de los muertos,<br> Y te alumbrará Cristo. </p></div><p><sup>15</sup>Mirad, pues, con diligencia cómo andéis, no como necios sino como sabios, </p><p><sup>16</sup>aprovechando bien el tiempo, porque los días son malos. </p><p><sup>17</sup>Por tanto, no seáis insensatos, sino entendidos de cuál sea la voluntad del Señor. </p><p><sup>18</sup>No os embriaguéis con vino, en lo cual hay disolución; antes bien sed llenos del Espíritu, </p><p><sup>19</sup>hablando entre vosotros con salmos, con himnos y cánticos espirituales, cantando y alabando al Señor en vuestros corazones; </p><p><sup>20</sup>dando siempre gracias por todo al Dios y Padre, en el nombre de nuestro Señor Jesucristo. </p><p>Someteos los unos a los otros</p><p><sup>21</sup>Someteos unos a otros en el temor de Dios. </p><div class=\"publisher\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </div><br><br><br>",
         "url": "https://biblegateway.com/passage/?search=Ephesians%205:8-21&version=RVR1960",
         "isOpen": false
       }
@@ -79,9 +92,40 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente:<ul class=\"arrows\"><li> ¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes? </li><li>¿Por qué te sientes atraído a esas palabras o frases?</li><li>¿Hay algo que te incomode?</li><li>¿Qué podemos aprender sobre Dios y los principios de su Reino?</li></ul>",
-          "Aplicación:<ul class=\"arrows\"><li>¿Qué podría estar Dios diciéndote?</li></ul>",
-          "Compartid en el grupo."
+          {
+            "text": "Individualmente:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes?"
+                },
+                {
+                  "text": "¿Por qué te sientes atraído a esas palabras o frases?"
+                },
+                {
+                  "text": "¿Hay algo que te incomode?"
+                },
+                {
+                  "text": "¿Qué podemos aprender sobre Dios y los principios de su Reino?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Aplicación:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué podría estar Dios diciéndote?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Compartid en el grupo."
+          }
         ]
       }
     },
@@ -105,8 +149,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿A qué estilo de vida llama Pablo a los efesios (v. 8-17)?",
-          "¿Cómo podemos vivir constantemente llenos del Espíritu Santo?"
+          {
+            "text": "¿A qué estilo de vida llama Pablo a los efesios (v. 8-17)?"
+          },
+          {
+            "text": "¿Cómo podemos vivir constantemente llenos del Espíritu Santo?"
+          }
         ]
       }
     },
@@ -127,28 +175,37 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Puede el Espíritu Santo resplandecer en ti libremente?",
-          "¿Qué podría estar obstaculizando esto?",
-          "¿Estás listo para confesar a Dios las áreas en que vives en desacuerdo con Su voluntad, y para arrepentirte de estas actitudes, pensamientos y acciones?"
+          {
+            "text": "¿Puede el Espíritu Santo resplandecer en ti libremente?"
+          },
+          {
+            "text": "¿Qué podría estar obstaculizando esto?"
+          },
+          {
+            "text": "¿Estás listo para confesar a Dios las áreas en que vives en desacuerdo con Su voluntad, y para arrepentirte de estas actitudes, pensamientos y acciones?"
+          }
         ]
       }
     },
     {
       "type": "paragraph",
       "data": {
-        "text": "<span class=\"unknown\"><br></span>¿Estás listo para someterte plenamente a la guía del Espíritu Santo, y a que este te llene de poder? Si estás listo para estas cosas, los siguientes pasos te pueden ser de ayuda. Los llamamos «respiración espiritual»:"
+        "text": "<br> ¿Estás listo para someterte plenamente a la guía del Espíritu Santo, y a que este te llene de poder? Si estás listo para estas cosas, los siguientes pasos te pueden ser de ayuda. Los llamamos «respiración espiritual»:"
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ De manera análoga a la respiración biológica, exhala el «aire malo». Deshazte del aire hediento que ahoga el fuego: confiesa a Dios en qué maneras has actuado y pensado que no están de acuerdo a su voluntad (lo que sea que te venga a la mente). Sométete totalmente, de nuevo, a la guía del Espíritu Santo."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Inhala «aire fresco»: pídele a Dios que te llene de nuevo del Espíritu Santo y te dé su poder."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "De manera análoga a la respiración biológica, exhala el «aire malo».\nDeshazte del aire hediento que ahoga el fuego: confiesa a Dios en qué\nmaneras has actuado y pensado que no están de acuerdo a su voluntad (lo que\nsea que te venga a la mente). Sométete totalmente, de nuevo, a la guía del\nEspíritu Santo."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Inhala «aire fresco»: pídele a Dios que te llene de nuevo del\nEspíritu Santo y te dé su poder."
+          }
+        ]
       }
     },
     {
@@ -162,7 +219,9 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Puedes «respirar espiritualmente» en cualquier ocasión. No te sentirás completamente diferente después de cada bocanada espiritual. Aunque las emociones son importantes, no definen qué es verdadero y qué no lo es. Por tanto, es sabio confiar en Dios y en su promesa de que te renovará si se lo pides, incluso si «no lo sientes»."
+          {
+            "text": "Puedes «respirar espiritualmente» en cualquier ocasión. No te sentirás completamente diferente después de cada bocanada espiritual. Aunque las emociones son importantes, no definen qué es verdadero y qué no lo es. Por tanto, es sabio confiar en Dios y en su promesa de que te renovará si se lo pides, incluso si «no lo sientes»."
+          }
         ]
       }
     },

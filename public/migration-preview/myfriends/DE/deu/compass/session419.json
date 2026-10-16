@@ -22,9 +22,15 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -63,10 +69,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Alle lesen den Text leise für sich.",
-          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
-          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
-          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          {
+            "text": "Alle lesen den Text leise für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln."
+          },
+          {
+            "text": "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln)."
+          },
+          {
+            "text": "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          }
         ]
       }
     },
@@ -84,8 +98,29 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Allgemeine Fragen:<ul class=\"arrows\"><li>Ist dir etwas in diesem Text besonders aufgefallen?</li><li>Was gefällt dir an diesem Abschnitt? Was stört dich?</li><li> Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen? </li><li>Was kannst du über die Menschheit lernen?</li></ul>",
-          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          {
+            "text": "Allgemeine Fragen:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Ist dir etwas in diesem Text besonders aufgefallen?"
+                },
+                {
+                  "text": "Was gefällt dir an diesem Abschnitt? Was stört dich?"
+                },
+                {
+                  "text": "Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?"
+                },
+                {
+                  "text": "Was kannst du über die Menschheit lernen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          }
         ]
       }
     },
@@ -109,10 +144,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Für was berief Jesus diese 12 Jünger? Zählt die einzelnen Aspekte auf.",
-          "Jesus nachfolgen bedeutet zuallererst, eine Lebensgemeinschaft mit ihm einzugehen. Bist du nahe an Jesus dran bzw. müsstest du Jesus wieder neu an dein Herz heranlassen? Steht etwas dazwischen, das du Jesus bekennen solltest? (Jeder für sich).",
-          "Jesus hat sein Leben nicht in jeden investiert. Er beeinflusste zwar auch die Massen und hatte noch viele andere Jünger (Lukas 6,17), aber die meiste Zeit investierte er bewusst in nur 12 Menschen, die er zu Jüngern machte, die er seine Freunde nannte, denen er sein Herz mitteilte, die „den Vater kennen“. Denn er wusste, um diese Welt zu verändern, braucht es ein paar wenige Menschen, die ihm 100 % hingegeben sind und sich senden lassen. Bist du ihm 100 % hingegeben und bereit, für ihn als Gesandter loszugehen?",
-          "Was ist unser Mandat als Gesandte (siehe auch Johannes 17,18)?"
+          {
+            "text": "Für was berief Jesus diese 12 Jünger? Zählt die einzelnen Aspekte auf."
+          },
+          {
+            "text": "Jesus nachfolgen bedeutet zuallererst, eine Lebensgemeinschaft mit ihm einzugehen. Bist du nahe an Jesus dran bzw. müsstest du Jesus wieder neu an dein Herz heranlassen? Steht etwas dazwischen, das du Jesus bekennen solltest? (Jeder für sich)."
+          },
+          {
+            "text": "Jesus hat sein Leben nicht in jeden investiert. Er beeinflusste zwar auch die Massen und hatte noch viele andere Jünger (Lukas 6,17), aber die meiste Zeit investierte er bewusst in nur 12 Menschen, die er zu Jüngern machte, die er seine Freunde nannte, denen er sein Herz mitteilte, die „den Vater kennen“. Denn er wusste, um diese Welt zu verändern, braucht es ein paar wenige Menschen, die ihm 100 % hingegeben sind und sich senden lassen. Bist du ihm 100 % hingegeben und bereit, für ihn als Gesandter loszugehen?"
+          },
+          {
+            "text": "Was ist unser Mandat als Gesandte (siehe auch Johannes 17,18)?"
+          }
         ]
       }
     },

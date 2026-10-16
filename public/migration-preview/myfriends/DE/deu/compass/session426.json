@@ -22,9 +22,15 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -75,10 +81,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Alle lesen den Text leise für sich.",
-          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
-          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
-          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          {
+            "text": "Alle lesen den Text leise für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln."
+          },
+          {
+            "text": "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln)."
+          },
+          {
+            "text": "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          }
         ]
       }
     },
@@ -105,8 +119,29 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Allgemeine Fragen:<ul class=\"arrows\"><li>Ist dir etwas in diesem Text besonders aufgefallen?</li><li>Was gefällt dir an diesem Abschnitt? Was stört dich?</li><li> Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen? </li><li>Was kannst du über die Menschheit lernen?</li></ul>",
-          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          {
+            "text": "Allgemeine Fragen:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Ist dir etwas in diesem Text besonders aufgefallen?"
+                },
+                {
+                  "text": "Was gefällt dir an diesem Abschnitt? Was stört dich?"
+                },
+                {
+                  "text": "Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?"
+                },
+                {
+                  "text": "Was kannst du über die Menschheit lernen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          }
         ]
       }
     },
@@ -130,10 +165,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Welche schwierige Situation in deinem Leben hat bisher den grössten Wachstumsschub bei dir ausgelöst?",
-          "Stehst du zurzeit vor einem Problem, das du noch bewältigen musst? Welche Charaktereigenschaft möchte Gott in dir wohl dadurch entwickeln?",
-          "Lies Matthäus 6,33. Gibt es praktische Schritte, zu denen Gott dich auffordert, damit sein Reich - gerade auch wenn du ein Problem zu bewältigen hast - für dich an erster Stelle steht? (D.h. solltest du irgendetwas an deinen momentanen Prioritäten ändern?)",
-          "Lies den Kommentar zum Bibeltext durch. Notiere dir auf ein Blatt, was du in der nächsten Woche umsetzen willst. Wenn du jemandem vergeben solltest, dann mach das gerade jetzt gemäss der Anleitun-gen, die du im Kapitel „Wachsen durch Vergebung“ findest (jeder für sich)."
+          {
+            "text": "Welche schwierige Situation in deinem Leben hat bisher den grössten Wachstumsschub bei dir ausgelöst?"
+          },
+          {
+            "text": "Stehst du zurzeit vor einem Problem, das du noch bewältigen musst? Welche Charaktereigenschaft möchte Gott in dir wohl dadurch entwickeln?"
+          },
+          {
+            "text": "Lies Matthäus 6,33. Gibt es praktische Schritte, zu denen Gott dich auffordert, damit sein Reich - gerade auch wenn du ein Problem zu bewältigen hast - für dich an erster Stelle steht? (D.h. solltest du irgendetwas an deinen momentanen Prioritäten ändern?)"
+          },
+          {
+            "text": "Lies den Kommentar zum Bibeltext durch. Notiere dir auf ein Blatt, was du in der nächsten Woche umsetzen willst. Wenn du jemandem vergeben solltest, dann mach das gerade jetzt gemäss der Anleitun-gen, die du im Kapitel „Wachsen durch Vergebung“ findest (jeder für sich)."
+          }
         ]
       }
     },
@@ -176,7 +219,9 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "dann werden wir merken, wie Gott die Situation braucht, um uns Christus ähnlicher zu machen, anstatt uns verbittern zu lassen. Es ist deine Entscheidung, ob Probleme für dich zum Stolper- oder Trittstein auf dem Weg zur geistlichen Reife werden. Josef verharmloste die schmerzhaften Jahre nicht. Aber er entschied sich, auf all die Schwie rigkeiten so zu reagieren, wie es dem Herzen Gottes entsprach. So lernte er, Gott und seinen Verheissungen zu vertrauen, Menschen zu dienen, sexuell rein zu bleiben, zu vergeben und auf Gott zu warten, der ihn immer wieder zu Ehre kommen liess, indem er ihn in einfluss reiche Positionen stellte. Darum konnte Josef rückblickend sagen, dass schlussendlich doch alles zu seinem Besten diente (1. Mose 50,50; Römer 8,28)."
+                  {
+                    "text": "dann werden wir merken, wie Gott die Situation braucht, um uns Christus ähnlicher zu machen, anstatt uns verbittern zu lassen. Es ist deine Entscheidung, ob Probleme für dich zum Stolper- oder Trittstein auf dem Weg zur geistlichen Reife werden. Josef verharmloste die schmerzhaften Jahre nicht. Aber er entschied sich, auf all die Schwie rigkeiten so zu reagieren, wie es dem Herzen Gottes entsprach. So lernte er, Gott und seinen Verheissungen zu vertrauen, Menschen zu dienen, sexuell rein zu bleiben, zu vergeben und auf Gott zu warten, der ihn immer wieder zu Ehre kommen liess, indem er ihn in einfluss reiche Positionen stellte. Darum konnte Josef rückblickend sagen, dass schlussendlich doch alles zu seinem Besten diente (1. Mose 50,50; Römer 8,28)."
+                  }
                 ]
               }
             },
@@ -191,10 +236,18 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "•Vergib Menschen, die „(Mit)Schuld“ an deinen Problemen tragen. Wir sind nicht dafür gemacht, mit Schuld umzugehen, weder mit unserer eigenen noch mit der Schuld anderer an uns! Schuld muss immer ans Kreuz von Jesus gebracht werden. Unvergebenheit wird dich an eine Person binden. Erst Vergebung löst dich von anderen Menschen und macht dich wirklich frei! Vergebung löst den Segen des Himmels über dir aus, unterbricht destruktive Einflüsse und befreit dich, ein Leben aus Gottes Kraft zu führen. Vergebung beginnt auf der Ebene des Willens. Die Gefühle folgen oft erst später nach. Wenn du jemandem vergeben solltest, folge den Anleitungen, die du im Kapitel „Wachsen durch Vergebung“ findest.",
-                  "Führe ein geistliches Tagebuch mit der Frage: „Was habe ich heute von Gott gelernt?“ Gerade in schwierigen Situationen und wenn du unter Druck bist, ist es wichtig, dass du an Gottes Wahrheiten festhältst und diese hörbar für dich aussprichst, d.h. wie Gott wirklich ist und was er tun kann, auch wenn du davon gerade nichts erlebst und es noch nicht mit deinen physischen Augen siehst (Epheser BEWÄHRUNGSPROBEN 6,16). Lies Johannes 8,31-32. Was sind die Bedingungen, um frei zu werden?",
-                  "Erinnere dich: Was du gerade hier durchmachst, geht irgendwann vorbei. Gott lenkt Zeiten und Zeitabschnitte und lässt sie auch wieder zu einem Ende kommen. Und auch wenn es ein Leben lang anhalten sollte, ist das noch nichts im Vergleich zur Ewigkeit. In der Ewigkeit wird Gott dich belohnen, wenn du an seinen Wahrheiten festgehalten und ihm vertraut hast (2. Korinther 4,17). Bitte Gott,dass er dich bereits jetzt aus seiner Ewigkeitsperspektive sehen lässt.",
-                  "Umgib dich mit guten Freunden und bete mit ihnen. Sogar Jesus brauchte Freunde: Matthäus 26,38."
+                  {
+                    "text": "•Vergib Menschen, die „(Mit)Schuld“ an deinen Problemen tragen. Wir sind nicht dafür gemacht, mit Schuld umzugehen, weder mit unserer eigenen noch mit der Schuld anderer an uns! Schuld muss immer ans Kreuz von Jesus gebracht werden. Unvergebenheit wird dich an eine Person binden. Erst Vergebung löst dich von anderen Menschen und macht dich wirklich frei! Vergebung löst den Segen des Himmels über dir aus, unterbricht destruktive Einflüsse und befreit dich, ein Leben aus Gottes Kraft zu führen. Vergebung beginnt auf der Ebene des Willens. Die Gefühle folgen oft erst später nach. Wenn du jemandem vergeben solltest, folge den Anleitungen, die du im Kapitel „Wachsen durch Vergebung“ findest."
+                  },
+                  {
+                    "text": "Führe ein geistliches Tagebuch mit der Frage: „Was habe ich heute von Gott gelernt?“ Gerade in schwierigen Situationen und wenn du unter Druck bist, ist es wichtig, dass du an Gottes Wahrheiten festhältst und diese hörbar für dich aussprichst, d.h. wie Gott wirklich ist und was er tun kann, auch wenn du davon gerade nichts erlebst und es noch nicht mit deinen physischen Augen siehst (Epheser BEWÄHRUNGSPROBEN 6,16). Lies Johannes 8,31-32. Was sind die Bedingungen, um frei zu werden?"
+                  },
+                  {
+                    "text": "Erinnere dich: Was du gerade hier durchmachst, geht irgendwann vorbei. Gott lenkt Zeiten und Zeitabschnitte und lässt sie auch wieder zu einem Ende kommen. Und auch wenn es ein Leben lang anhalten sollte, ist das noch nichts im Vergleich zur Ewigkeit. In der Ewigkeit wird Gott dich belohnen, wenn du an seinen Wahrheiten festgehalten und ihm vertraut hast (2. Korinther 4,17). Bitte Gott,dass er dich bereits jetzt aus seiner Ewigkeitsperspektive sehen lässt."
+                  },
+                  {
+                    "text": "Umgib dich mit guten Freunden und bete mit ihnen. Sogar Jesus brauchte Freunde: Matthäus 26,38."
+                  }
                 ]
               }
             },

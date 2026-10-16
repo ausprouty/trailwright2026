@@ -22,22 +22,31 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Qué experiencias has tenido con Dios esta semana?",
-          "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?",
-          "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          {
+            "text": "¿Qué experiencias has tenido con Dios esta semana?"
+          },
+          {
+            "text": "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?"
+          },
+          {
+            "text": "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          }
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que os ayude en las áreas que cada uno necesite."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque vuestra relación con Dios sea más profunda y se fortalezca."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que\nos ayude en las áreas que cada uno necesite."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque\nvuestra relación con Dios sea más profunda y se fortalezca."
+          }
+        ]
       }
     },
     {
@@ -60,8 +69,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?",
-          "Que alguien lea el pasaje en voz alta."
+          {
+            "text": "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?"
+          },
+          {
+            "text": "Que alguien lea el pasaje en voz alta."
+          }
         ]
       }
     },
@@ -69,7 +82,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lucas 11:5-13",
-        "html": "<div class=\"bible\"><p class=\"bible\"><sup>5</sup>Les dijo también: ¿Quién de vosotros que tenga un amigo, va a él a medianoche y le dice: Amigo, préstame tres panes, </p><p class=\"bible\"><sup>6</sup>porque un amigo mío ha venido a mí de viaje, y no tengo qué ponerle delante; </p><p class=\"bible\"><sup>7</sup>y aquél, respondiendo desde adentro, le dice: No me molestes; la puerta ya está cerrada, y mis niños están conmigo en cama; no puedo levantarme, y dártelos? </p><p class=\"bible\"><sup>8</sup>Os digo, que aunque no se levante a dárselos por ser su amigo, sin embargo por su importunidad se levantará y le dará todo lo que necesite. </p><p class=\"bible\"><sup>9</sup>Y yo os digo: Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá. </p><p class=\"bible\"><sup>10</sup>Porque todo aquel que pide, recibe; y el que busca, halla; y al que llama, se le abrirá. </p><p class=\"bible\"><sup>11</sup>¿Qué padre de vosotros, si su hijo le pide pan, le dará una piedra? ¿o si pescado, en lugar de pescado, le dará una serpiente? </p><p class=\"bible\"><sup>12</sup>¿O si le pide un huevo, le dará un escorpión? </p><p class=\"bible\"><sup>13</sup>Pues si vosotros, siendo malos, sabéis dar buenas dádivas a vuestros hijos, ¿cuánto más vuestro Padre celestial dará el Espíritu Santo a los que se lo pidan? </p></div><div class=\"publisher-info-bottom with-single\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) <p class=\"bible\"> Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </p></div><br><br>",
+        "html": "<p><sup>5</sup>Les dijo también: ¿Quién de vosotros que tenga un amigo, va a él a medianoche y le dice: Amigo, préstame tres panes, </p><p><sup>6</sup>porque un amigo mío ha venido a mí de viaje, y no tengo qué ponerle delante; </p><p><sup>7</sup>y aquél, respondiendo desde adentro, le dice: No me molestes; la puerta ya está cerrada, y mis niños están conmigo en cama; no puedo levantarme, y dártelos? </p><p><sup>8</sup>Os digo, que aunque no se levante a dárselos por ser su amigo, sin embargo por su importunidad se levantará y le dará todo lo que necesite. </p><p><sup>9</sup>Y yo os digo: Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá. </p><p><sup>10</sup>Porque todo aquel que pide, recibe; y el que busca, halla; y al que llama, se le abrirá. </p><p><sup>11</sup>¿Qué padre de vosotros, si su hijo le pide pan, le dará una piedra? ¿o si pescado, en lugar de pescado, le dará una serpiente? </p><p><sup>12</sup>¿O si le pide un huevo, le dará un escorpión? </p><p><sup>13</sup>Pues si vosotros, siendo malos, sabéis dar buenas dádivas a vuestros hijos, ¿cuánto más vuestro Padre celestial dará el Espíritu Santo a los que se lo pidan? </p><div class=\"publisher-info-bottom with-single\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) <p> Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </p></div>",
         "url": "https://biblegateway.com/passage/?search=Luke%2011:5-13&version=RVR1960",
         "isOpen": false
       }
@@ -79,9 +92,40 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente:<ul class=\"arrows\"><li> ¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes? </li><li>¿Por qué te sientes atraído a esas palabras o frases?</li><li>¿Hay algo que te incomode?</li><li>¿Qué podemos aprender sobre Dios y los principios de su Reino?</li></ul>",
-          "Aplicación:<ul class=\"arrows\"><li>¿Qué podría estar Dios diciéndote?</li></ul>",
-          "Compartid en el grupo."
+          {
+            "text": "Individualmente:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes?"
+                },
+                {
+                  "text": "¿Por qué te sientes atraído a esas palabras o frases?"
+                },
+                {
+                  "text": "¿Hay algo que te incomode?"
+                },
+                {
+                  "text": "¿Qué podemos aprender sobre Dios y los principios de su Reino?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Aplicación:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué podría estar Dios diciéndote?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Compartid en el grupo."
+          }
         ]
       }
     },
@@ -105,7 +149,9 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Existen restricciones a la promesa que Dios nos dio cuando dijo que Él escucha todas las oraciones? (Véase Santiago 1:1-4)."
+          {
+            "text": "¿Existen restricciones a la promesa que Dios nos dio cuando dijo que Él escucha todas las oraciones? (Véase Santiago 1:1-4)."
+          }
         ]
       }
     },
@@ -116,21 +162,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Escribid una petición personal de oración y tráigala al Padre en una oración (todos para sí mismos)."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Hacer una lista de los nombres de las cinco personas por las que desea orar para que conocerían Jesús. Como ayuda de oración, podría, por ejemplo, escribir la lista en un postit y ponerla en el refrigerador o en el espejo de su baño, escribirla en un marcador, configurar una alarma o recordatorio en su teléfono inteligente, etc."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Leed Colosenses 4:3 en voz alta. Formad grupos de 2 o 3 personas y orad por puertas abiertas en vuestras facultades para hablar de la fe y compartir el Evangelio. Orad por vuestros amigos no cristianos, por oportunidades para compartir vuestras experiencias con Jesús con ellos, y por oportunidades de orar con ellos para que puedan experimentar a Dios por sí mismos."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Escribid una petición personal de oración y tráigala al Padre en una\noración (todos para sí mismos)."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Hacer una lista de los nombres de las cinco personas por las que\ndesea orar para que conocerían Jesús. Como ayuda de oración, podría, por\nejemplo, escribir la lista en un postit y ponerla en el refrigerador o en el\nespejo de su baño, escribirla en un marcador, configurar una alarma o\nrecordatorio en su teléfono inteligente, etc."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Leed Colosenses 4:3 en voz alta. Formad grupos de 2 o 3 personas y\norad por puertas abiertas en vuestras facultades para hablar de la fe y\ncompartir el Evangelio. Orad por vuestros amigos no cristianos, por\noportunidades para compartir vuestras experiencias con Jesús con ellos, y\npor oportunidades de orar con ellos para que puedan experimentar a Dios por\nsí mismos."
+          }
+        ]
       }
     },
     {

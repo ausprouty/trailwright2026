@@ -22,22 +22,31 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Qué experiencias has tenido con Dios esta semana?",
-          "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?",
-          "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          {
+            "text": "¿Qué experiencias has tenido con Dios esta semana?"
+          },
+          {
+            "text": "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?"
+          },
+          {
+            "text": "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          }
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que os ayude en las áreas que cada uno necesite."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque vuestra relación con Dios sea más profunda y se fortalezca."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que\nos ayude en las áreas que cada uno necesite."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque\nvuestra relación con Dios sea más profunda y se fortalezca."
+          }
+        ]
       }
     },
     {
@@ -66,8 +75,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?",
-          "Que alguien lea el pasaje en voz alta."
+          {
+            "text": "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?"
+          },
+          {
+            "text": "Que alguien lea el pasaje en voz alta."
+          }
         ]
       }
     },
@@ -75,7 +88,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Hechos 4:23-31",
-        "html": "<div class=\"bible\"><p class=\"bible\"><sup>23</sup>Y puestos en libertad, vinieron a los suyos y contaron todo lo que los principales sacerdotes y los ancianos les habían dicho. </p><p class=\"bible\"><sup>24</sup>Y ellos, habiéndolo oído, alzaron unánimes la voz a Dios, y dijeron: Soberano Señor, tú eres el Dios que hiciste el cielo y la tierra, el mar y todo lo que en ellos hay; </p><div class=\"poetry\"><p class=\"bible\"><sup>25</sup>que por boca de David tu siervo dijiste:<br> ¿Por qué se amotinan las gentes, Y los pueblos piensan cosas vanas? </p></div><div class=\"poetry\"><p class=\"bible\"><sup>26</sup>Se reunieron los reyes de la tierra,<br>Y los príncipes se juntaron en unoContra el Señor, y contra su Cristo. m </p></div><p class=\"bible\"><sup>27</sup>Porque verdaderamente se unieron en esta ciudad contra tu santo Hijo Jesús, a quien ungiste, Herodes y Poncio Pilato, con los gentiles y el pueblo de Israel, </p><p class=\"bible\"><sup>28</sup>para hacer cuanto tu mano y tu consejo habían antes determinado que sucediera. </p><p class=\"bible\"><sup>29</sup>Y ahora, Señor, mira sus amenazas, y concede a tus siervos que con todo denuedo hablen tu palabra, </p><p class=\"bible\"><sup>30</sup>mientras extiendes tu mano para que se hagan sanidades y señales y prodigios mediante el nombre de tu santo Hijo Jesús. </p><p class=\"bible\"><sup>31</sup>Cuando hubieron orado, el lugar en que estaban congregados tembló; y todos fueron llenos del Espíritu Santo, y hablaban con denuedo la palabra de Dios. </p></div><div class=\"publisher\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </div><br><br>",
+        "html": "<p><sup>23</sup>Y puestos en libertad, vinieron a los suyos y contaron todo lo que los principales sacerdotes y los ancianos les habían dicho. </p><p><sup>24</sup>Y ellos, habiéndolo oído, alzaron unánimes la voz a Dios, y dijeron: Soberano Señor, tú eres el Dios que hiciste el cielo y la tierra, el mar y todo lo que en ellos hay; </p><div class=\"poetry\"><p><sup>25</sup>que por boca de David tu siervo dijiste:<br> ¿Por qué se amotinan las gentes,<br> Y los pueblos piensan cosas vanas? </p></div><div class=\"poetry\"><p><sup>26</sup>Se reunieron los reyes de la tierra,<br>Y los príncipes se juntaron en uno<br>Contra el Señor, y contra su Cristo. m </p></div><p><sup>27</sup>Porque verdaderamente se unieron en esta ciudad contra tu santo Hijo Jesús, a quien ungiste, Herodes y Poncio Pilato, con los gentiles y el pueblo de Israel, </p><p><sup>28</sup>para hacer cuanto tu mano y tu consejo habían antes determinado que sucediera. </p><p><sup>29</sup>Y ahora, Señor, mira sus amenazas, y concede a tus siervos que con todo denuedo hablen tu palabra, </p><p><sup>30</sup>mientras extiendes tu mano para que se hagan sanidades y señales y prodigios mediante el nombre de tu santo Hijo Jesús. </p><p><sup>31</sup>Cuando hubieron orado, el lugar en que estaban congregados tembló; y todos fueron llenos del Espíritu Santo, y hablaban con denuedo la palabra de Dios. </p><div class=\"publisher\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </div>",
         "url": "https://biblegateway.com/passage/?search=Acts%204:23-31&version=RVR1960",
         "isOpen": false
       }
@@ -85,9 +98,40 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente:<ul class=\"arrows\"><li> ¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes? </li><li>¿Por qué te sientes atraído a esas palabras o frases?</li><li>¿Hay algo que te incomode?</li><li>¿Qué podemos aprender sobre Dios y los principios de su Reino?</li></ul>",
-          "Aplicación:<ul class=\"arrows\"><li>¿Qué podría estar Dios diciéndote?</li></ul>",
-          "Compartid en el grupo."
+          {
+            "text": "Individualmente:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes?"
+                },
+                {
+                  "text": "¿Por qué te sientes atraído a esas palabras o frases?"
+                },
+                {
+                  "text": "¿Hay algo que te incomode?"
+                },
+                {
+                  "text": "¿Qué podemos aprender sobre Dios y los principios de su Reino?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Aplicación:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué podría estar Dios diciéndote?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Compartid en el grupo."
+          }
         ]
       }
     },
@@ -111,8 +155,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Por qué cosas habrías orado si hubieses sido perseguido por tu fe como Pedro y Juan?",
-          "¿Por qué oraban los cristianos? ¿Qué podemos aprender de la actitud de los primeros cristianos, y qué quieres aplicar? ¿Hay algo que deberías hacer que requiera que des pasos con valentía? Anótalo y compártelo con tu grupo."
+          {
+            "text": "¿Por qué cosas habrías orado si hubieses sido perseguido por tu fe como Pedro y Juan?"
+          },
+          {
+            "text": "¿Por qué oraban los cristianos? ¿Qué podemos aprender de la actitud de los primeros cristianos, y qué quieres aplicar? ¿Hay algo que deberías hacer que requiera que des pasos con valentía? Anótalo y compártelo con tu grupo."
+          }
         ]
       }
     },
@@ -123,16 +171,20 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Orad los unos por los otros, para ser llenos del Espíritu Santo y que Él vierta una audacia santa sobre vuestras vidas. Orad por que la excelencia, el poder y el amor fluya de vuestras vidas."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Orad los unos por los otros, para ser llenos del Espíritu Santo y que\nÉl vierta una audacia santa sobre vuestras vidas. Orad por que la\nexcelencia, el poder y el amor fluya de vuestras vidas."
+          }
+        ]
       }
     },
     {
-      "type": "notesArea",
+      "type": "iWill",
       "data": {
-        "notes": "",
-        "storageKey": "note"
+        "storageKey": "compass-session427-i-will"
       }
     }
   ]

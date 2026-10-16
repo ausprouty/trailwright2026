@@ -22,22 +22,31 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Qué experiencias has tenido con Dios esta semana?",
-          "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?",
-          "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          {
+            "text": "¿Qué experiencias has tenido con Dios esta semana?"
+          },
+          {
+            "text": "¿Podrías compartir una experiencia con Jesús (véase la introducción) con un amigo que aún no le conozca? ¿Has tenido la oportunidad de orar por alguien?"
+          },
+          {
+            "text": "¿Necesitas la ayuda de Dios en alguna área de tu vida?"
+          }
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que os ayude en las áreas que cada uno necesite."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque vuestra relación con Dios sea más profunda y se fortalezca."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos dando gracias por vuestras experiencias y pidiendo a Dios que\nos ayude en las áreas que cada uno necesite."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Orad juntos por poder aprender nuevos aspectos acerca de Dios, y porque\nvuestra relación con Dios sea más profunda y se fortalezca."
+          }
+        ]
       }
     },
     {
@@ -60,8 +69,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?",
-          "Que alguien lea el pasaje en voz alta."
+          {
+            "text": "Individualmente: leed las escrituras en silencio. ¿Qué palabras o frases destacan más?"
+          },
+          {
+            "text": "Que alguien lea el pasaje en voz alta."
+          }
         ]
       }
     },
@@ -69,7 +82,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Juan 10:27-28",
-        "html": "<div class=\"bible\"><p class=\"bible\"><sup>27</sup>Mis ovejas oyen mi voz, y yo las conozco, y me siguen, </p><p class=\"bible\"><sup>28</sup>y yo les doy vida eterna; y no perecerán jamás, ni nadie las arrebatará de mi mano. </p></div><br>",
+        "html": "<p><sup>27</sup>Mis ovejas oyen mi voz, y yo las conozco, y me siguen, </p><p><sup>28</sup>y yo les doy vida eterna; y no perecerán jamás, ni nadie las arrebatará de mi mano. </p>",
         "url": "https://biblegateway.com/passage/?search=John%2010:27-28&version=RVR1960",
         "isOpen": false
       }
@@ -78,7 +91,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Hechos 9:10-19",
-        "html": "<div class=\"bible\"><p class=\"bible\"><sup>10</sup>Había entonces en Damasco un discípulo llamado Ananías, a quien el Señor dijo en visión: Ananías. Y él respondió: Heme aquí, Señor. </p><p class=\"bible\"><sup>11</sup>Y el Señor le dijo: Levántate, y ve a la calle que se llama Derecha, y busca en casa de Judas a uno llamado Saulo, de Tarso; porque he aquí, él ora, </p><p class=\"bible\"><sup>12</sup>y ha visto en visión a un varón llamado Ananías, que entra y le pone las manos encima para que recobre la vista. </p><p class=\"bible\"><sup>13</sup>Entonces Ananías respondió: Señor, he oído de muchos acerca de este hombre, cuántos males ha hecho a tus santos en Jerusalén; </p><p class=\"bible\"><sup>14</sup>y aun aquí tiene autoridad de los principales sacerdotes para prender a todos los que invocan tu nombre. </p><p class=\"bible\"><sup>15</sup>El Señor le dijo: Ve, porque instrumento escogido me es éste, para llevar mi nombre en presencia de los gentiles, y de reyes, y de los hijos de Israel; </p><p class=\"bible\"><sup>16</sup>porque yo le mostraré cuánto le es necesario padecer por mi nombre. </p><p class=\"bible\"><sup>17</sup>Fue entonces Ananías y entró en la casa, y poniendo sobre él las manos, dijo: Hermano Saulo, el Señor Jesús, que se te apareció en el camino por donde venías, me ha enviado para que recibas la vista y seas lleno del Espíritu Santo. </p><p class=\"bible\"><sup>18</sup>Y al momento le cayeron de los ojos como escamas, y recibió al instante la vista; y levantándose, fue bautizado. </p><p class=\"bible\"><sup>19</sup>Y habiendo tomado alimento, recobró fuerzas. Y estuvo Saulo por algunos días con los discípulos que estaban en Damasco. </p></div><div class=\"publisher-info-bottom with-single\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) <p class=\"bible\"> Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </p></div><br><br>",
+        "html": "<p><sup>10</sup>Había entonces en Damasco un discípulo llamado Ananías, a quien el Señor dijo en visión: Ananías. Y él respondió: Heme aquí, Señor. </p><p><sup>11</sup>Y el Señor le dijo: Levántate, y ve a la calle que se llama Derecha, y busca en casa de Judas a uno llamado Saulo, de Tarso; porque he aquí, él ora, </p><p><sup>12</sup>y ha visto en visión a un varón llamado Ananías, que entra y le pone las manos encima para que recobre la vista. </p><p><sup>13</sup>Entonces Ananías respondió: Señor, he oído de muchos acerca de este hombre, cuántos males ha hecho a tus santos en Jerusalén; </p><p><sup>14</sup>y aun aquí tiene autoridad de los principales sacerdotes para prender a todos los que invocan tu nombre. </p><p><sup>15</sup>El Señor le dijo: Ve, porque instrumento escogido me es éste, para llevar mi nombre en presencia de los gentiles, y de reyes, y de los hijos de Israel; </p><p><sup>16</sup>porque yo le mostraré cuánto le es necesario padecer por mi nombre. </p><p><sup>17</sup>Fue entonces Ananías y entró en la casa, y poniendo sobre él las manos, dijo: Hermano Saulo, el Señor Jesús, que se te apareció en el camino por donde venías, me ha enviado para que recibas la vista y seas lleno del Espíritu Santo. </p><p><sup>18</sup>Y al momento le cayeron de los ojos como escamas, y recibió al instante la vista; y levantándose, fue bautizado. </p><p><sup>19</sup>Y habiendo tomado alimento, recobró fuerzas. Y estuvo Saulo por algunos días con los discípulos que estaban en Damasco. </p><div class=\"publisher-info-bottom with-single\"><a target=\"_blank\" href=\"http://www.biblegateway.com/versions/Reina-Valera-1960-RVR1960-Biblia/\"> Reina-Valera 1960 </a> (RVR1960) <p> Versión Reina-Valera 1960 © Sociedades Bíblicas en América Latina, 1960. Renovado © Sociedades Bíblicas Unidas, 1988. </p></div>",
         "url": "https://biblegateway.com/passage/?search=Acts%209:10-19&version=RVR1960",
         "isOpen": false
       }
@@ -88,9 +101,40 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Individualmente:<ul class=\"arrows\"><li> ¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes? </li><li>¿Por qué te sientes atraído a esas palabras o frases?</li><li>¿Hay algo que te incomode?</li><li>¿Qué podemos aprender sobre Dios y los principios de su Reino?</li></ul>",
-          "Aplicación:<ul class=\"arrows\"><li>¿Qué podría estar Dios diciéndote?</li></ul>",
-          "Compartid en el grupo."
+          {
+            "text": "Individualmente:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué palabras o frases destacan ahora? ¿Hay alguna diferencia respecto a lo que habías observado antes?"
+                },
+                {
+                  "text": "¿Por qué te sientes atraído a esas palabras o frases?"
+                },
+                {
+                  "text": "¿Hay algo que te incomode?"
+                },
+                {
+                  "text": "¿Qué podemos aprender sobre Dios y los principios de su Reino?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Aplicación:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "¿Qué podría estar Dios diciéndote?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Compartid en el grupo."
+          }
         ]
       }
     },
@@ -114,10 +158,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "¿Por qué es tan importante escuchar la voz de Dios?",
-          "¿Crees que Dios puede hablarte personalmente?",
-          "¿En qué área de tu vida necesitas la guía y la sabiduría de Dios? Haga una pausa por un segundo y pídale a Jesús en una oración silenciosa. Anote los pensamientos / impresiones que entran en tu mente (todos por sí mismos). Luego, compártelo en el grupo.",
-          "¿En qué maneras has experimentado que Dios te haya hablado y en qué situaciones has encontrado dificultades para que esto ocurra? (Pistas:"
+          {
+            "text": "¿Por qué es tan importante escuchar la voz de Dios?"
+          },
+          {
+            "text": "¿Crees que Dios puede hablarte personalmente?"
+          },
+          {
+            "text": "¿En qué área de tu vida necesitas la guía y la sabiduría de Dios? Haga una pausa por un segundo y pídale a Jesús en una oración silenciosa. Anote los pensamientos / impresiones que entran en tu mente (todos por sí mismos). Luego, compártelo en el grupo."
+          },
+          {
+            "text": "¿En qué maneras has experimentado que Dios te haya hablado y en qué situaciones has encontrado dificultades para que esto ocurra? (Pistas:"
+          }
         ]
       }
     },
@@ -128,9 +180,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Puedes orar así: «Amado padre celestial, gracias por hablarme hoy a través de tu Espíritu Santo. Someto mi alma y, por tanto, mi voluntad, mis emociones y mi intelecto a tu autoridad. Quiero acercarme a ti y solo hacer lo que tú me digas. Haz que los ojos y los oídos de mi corazón sean sensibles a ti. Enséñame a discernir lo que tú dices de mis pensamientos, para que sea guiado por el Espíritu Santo y no por mis propios deseos o por mi entorno»."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Puedes orar así: «Amado padre celestial, gracias por hablarme hoy a\ntravés de tu Espíritu Santo. Someto mi alma y, por tanto, mi voluntad, mis\nemociones y mi intelecto a tu autoridad. Quiero acercarme a ti y solo hacer\nlo que tú me digas. Haz que los ojos y los oídos de mi corazón sean\nsensibles a ti. Enséñame a discernir lo que tú dices de mis pensamientos,\npara que sea guiado por el Espíritu Santo y no por mis propios deseos o por\nmi entorno»."
+          }
+        ]
       }
     },
     {
@@ -151,10 +208,18 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "La palabra de Dios revela su voluntad, específica y general (p. ej. Mateo 28:18-20)",
-                  "«Venga tu Reino» (Lucas 11:2) debería ser nuestro primer y más importante pensamiento al tomar decisiones.",
-                  "En muchas situaciones específicas no encontramos una respuesta directa en la Biblia. Por esta razón es importante desarrollar, con el tiempo, sensibilidad a la voluntad de Dios. El reconocimiento de su voluntad crecerá en paralelo a nuestra intimidad con Él (Romanos 12:2).",
-                  "Otros pasajes bíblicos donde el Espíritu Santo habló a las personas: Hechos 13:2-3; Hechos 27:10; Nehemías 2:12; Nehemías 7:5; 2 Samuel 5:19, 23-25."
+                  {
+                    "text": "La palabra de Dios revela su voluntad, específica y general (p. ej. Mateo 28:18-20)"
+                  },
+                  {
+                    "text": "«Venga tu Reino» (Lucas 11:2) debería ser nuestro primer y más importante pensamiento al tomar decisiones."
+                  },
+                  {
+                    "text": "En muchas situaciones específicas no encontramos una respuesta directa en la Biblia. Por esta razón es importante desarrollar, con el tiempo, sensibilidad a la voluntad de Dios. El reconocimiento de su voluntad crecerá en paralelo a nuestra intimidad con Él (Romanos 12:2)."
+                  },
+                  {
+                    "text": "Otros pasajes bíblicos donde el Espíritu Santo habló a las personas: Hechos 13:2-3; Hechos 27:10; Nehemías 2:12; Nehemías 7:5; 2 Samuel 5:19, 23-25."
+                  }
                 ]
               }
             },

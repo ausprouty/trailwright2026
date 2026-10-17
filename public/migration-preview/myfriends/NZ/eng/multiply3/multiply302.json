@@ -59,8 +59,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -82,7 +86,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -104,9 +110,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -148,7 +160,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -164,7 +178,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Acts 1:12-26 two times as others listen."
+          {
+            "text": "Read or watch Acts 1:12-26 two times as others listen."
+          }
         ]
       }
     },
@@ -172,7 +188,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 1:12-26",
-        "html": "<!-- begin bible --><h3>Matthias Chosen to Replace Judas</h3><p><sup class=\"versenum\">12 </sup>Then the apostles returned to Jerusalem from the hill called the Mount of Olives, a Sabbath day’s walk from the city.<sup class=\"versenum\">13 </sup>When they arrived, they went upstairs to the room where they were staying. Those present were Peter, John, James and Andrew; Philip and Thomas, Bartholomew and Matthew; James son of Alphaeus and Simon the Zealot, and Judas son of James.<sup class=\"versenum\">14 </sup>They all joined together constantly in prayer, along with the women and Mary the mother of Jesus, and with his brothers. </p><p><sup class=\"versenum\">15 </sup>In those days Peter stood up among the believers (a group numbering about a hundred and twenty)<sup class=\"versenum\">16 </sup>and said, “Brothers and sisters, the Scripture had to be fulfilled in which the Holy Spirit spoke long ago through David concerning Judas, who served as guide for those who arrested Jesus.<sup class=\"versenum\">17 </sup>He was one of our number and shared in our ministry.” </p><p><sup class=\"versenum\">18 </sup>(With the payment he received for his wickedness, Judas bought a field; there he fell headlong, his body burst open and all his intestines spilled out.<sup class=\"versenum\">19 </sup>Everyone in Jerusalem heard about this, so they called that field in their language Akeldama, that is, Field of Blood.) </p><p><sup class=\"versenum\">20 </sup>“For,” said Peter, “it is written in the Book of Psalms: </p><p> “‘May his place be deserted; let there be no one to dwell in it,’ </p><p>and,</p><p>“‘May another take his place of leadership.’</p><p><sup class=\"versenum\">21 </sup>Therefore it is necessary to choose one of the men who have been with us the whole time the Lord Jesus was living among us,<sup class=\"versenum\">22 </sup>beginning from John’s baptism to the time when Jesus was taken up from us. For one of these must become a witness with us of his resurrection.” </p><p><sup class=\"versenum\">23 </sup>So they nominated two men: Joseph called Barsabbas (also known as Justus) and Matthias.<sup class=\"versenum\">24 </sup>Then they prayed, “Lord, you know everyone’s heart. Show us which of these two you have chosen<sup class=\"versenum\">25 </sup>to take over this apostolic ministry, which Judas left to go where he belongs.”<sup class=\"versenum\">26 </sup>Then they cast lots, and the lot fell to Matthias; so he was added to the eleven apostles. </p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<h3>Matthias Chosen to Replace Judas</h3><p><sup>12</sup>Then the apostles returned to Jerusalem from the hill called the Mount of Olives, a Sabbath day’s walk from the city.<sup>13</sup>When they arrived, they went upstairs to the room where they were staying. Those present were Peter, John, James and Andrew; Philip and Thomas, Bartholomew and Matthew; James son of Alphaeus and Simon the Zealot, and Judas son of James.<sup>14</sup>They all joined together constantly in prayer, along with the women and Mary the mother of Jesus, and with his brothers. </p><p><sup>15</sup>In those days Peter stood up among the believers (a group numbering about a hundred and twenty)<sup>16</sup>and said, “Brothers and sisters, the Scripture had to be fulfilled in which the Holy Spirit spoke long ago through David concerning Judas, who served as guide for those who arrested Jesus.<sup>17</sup>He was one of our number and shared in our ministry.” </p><p><sup>18</sup>(With the payment he received for his wickedness, Judas bought a field; there he fell headlong, his body burst open and all his intestines spilled out.<sup>19</sup>Everyone in Jerusalem heard about this, so they called that field in their language Akeldama, that is, Field of Blood.) </p><p><sup>20</sup>“For,” said Peter, “it is written in the Book of Psalms: </p><p> “‘May his place be deserted;<br> let there be no one to dwell in it,’ </p><p>and,</p><p>“‘May another take his place of leadership.’</p><p><sup>21</sup>Therefore it is necessary to choose one of the men who have been with us the whole time the Lord Jesus was living among us,<sup>22</sup>beginning from John’s baptism to the time when Jesus was taken up from us. For one of these must become a witness with us of his resurrection.” </p><p><sup>23</sup>So they nominated two men: Joseph called Barsabbas (also known as Justus) and Matthias.<sup>24</sup>Then they prayed, “Lord, you know everyone’s heart. Show us which of these two you have chosen<sup>25</sup>to take over this apostolic ministry, which Judas left to go where he belongs.”<sup>26</sup>Then they cast lots, and the lot fell to Matthias; so he was added to the eleven apostles. </p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Acts%201:12-26&version=NIV",
         "isOpen": false
       }
@@ -202,10 +218,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in the story?",
-          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in the story?"
+          },
+          {
+            "text": "What is being modeled about a Spirit-dependent life, making disciples or leadership?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -227,9 +251,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How are Jesus’ followers continuing His work of making disciples and church planting?",
-          "How is the gospel impacting people and society?",
-          "What barriers or obstacles were overcome and how were they overcome?"
+          {
+            "text": "How are Jesus’ followers continuing His work of making disciples and church planting?"
+          },
+          {
+            "text": "How is the gospel impacting people and society?"
+          },
+          {
+            "text": "What barriers or obstacles were overcome and how were they overcome?"
+          }
         ]
       }
     },
@@ -252,7 +282,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -313,9 +345,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Prayer, Care, Share",
-                  "Gospel",
-                  "Foundational Bible Studies"
+                  {
+                    "text": "Prayer, Care, Share"
+                  },
+                  {
+                    "text": "Gospel"
+                  },
+                  {
+                    "text": "Foundational Bible Studies"
+                  }
                 ]
               }
             }
@@ -336,8 +374,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -360,7 +402,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

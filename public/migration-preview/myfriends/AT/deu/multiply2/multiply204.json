@@ -47,9 +47,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -65,10 +71,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -99,9 +113,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -115,7 +135,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 2:19-23",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>19</sup>Als Herodes gestorben war, erschien Josef wieder ein Engel des Herrn im Traum. Er sagte zu ihm: <sup>20</sup>»Steh auf und bring das Kind und seine Mutter zurück ins Land Israel, denn die, die das Kind umbringen wollten, sind tot.« <sup>21</sup>Daraufhin kehrte Josef mit Jesus und Maria nach Israel zurück. <sup>22</sup>Als er aber erfuhr, dass Archelaus, der Sohn des Herodes, der neue Herrscher war, bekam er Angst. Und wieder erhielt er im Traum Gottes Anweisung: Er sollte nach Galiläa gehen. <sup>23</sup>Die Familie zog in die Stadt Nazareth, um sich dort niederzulassen. Damit erfüllte sich, was die Propheten vorausgesagt hatten: »Man wird ihn den Nazarener nennen.« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>19</sup>Als Herodes gestorben war, erschien Josef wieder ein Engel des Herrn im Traum. Er sagte zu ihm: <sup>20</sup>»Steh auf und bring das Kind und seine Mutter zurück ins Land Israel, denn die, die das Kind umbringen wollten, sind tot.« <sup>21</sup>Daraufhin kehrte Josef mit Jesus und Maria nach Israel zurück. <sup>22</sup>Als er aber erfuhr, dass Archelaus, der Sohn des Herodes, der neue Herrscher war, bekam er Angst. Und wieder erhielt er im Traum Gottes Anweisung: Er sollte nach Galiläa gehen. <sup>23</sup>Die Familie zog in die Stadt Nazareth, um sich dort niederzulassen. Damit erfüllte sich, was die Propheten vorausgesagt hatten: »Man wird ihn den Nazarener nennen.« </div><p></p>",
         "url": "https://bibleserver.com/NLB/Matthäus%202:19-23",
         "isOpen": false
       }
@@ -145,9 +165,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -202,8 +228,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -219,7 +266,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

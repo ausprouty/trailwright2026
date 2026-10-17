@@ -47,9 +47,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -65,10 +71,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -99,9 +113,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -115,7 +135,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Johannes 4:1-42",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Jesus hörte, was den Pharisäern berichtet wurde: »Jesus macht mehr Menschen zu Jüngern und tauft mehr als Johannes.« <sup>2</sup>Allerdings taufte Jesus nicht selbst, sondern seine Jünger. <sup>3</sup>Da verließ er Judäa und ging wieder zurück nach Galiläa. <sup>4</sup>Sein Weg führte ihn durch Samarien. <sup>5</sup>Er kam zu der samaritanischen Stadt Sychar, in der Nähe des Feldes, das Jakob seinem Sohn Josef gegeben hatte. <sup>6</sup>Dort befand sich der Jakobsbrunnen. Erschöpft von der langen Wanderung setzte Jesus sich um die Mittagszeit an den Brunnen. <sup>7</sup>Kurz darauf kam eine Samaritanerin, um Wasser zu schöpfen. Jesus sagte zu ihr: »Bitte, gib mir zu trinken.« <sup>8</sup>Er war zu diesem Zeitpunkt allein, denn seine Jünger waren ins Dorf gegangen, um etwas zu essen zu kaufen. <sup>9</sup>Die Frau war überrascht, denn sonst wollen die Juden nichts mit den Samaritanern zu tun haben. Sie erwiderte: »Du bist ein Jude und ich bin eine Samaritanerin. Warum bittest du mich, dir zu trinken zu geben?« <sup>10</sup>Jesus antwortete: »Wenn du wüsstest, welche Gabe Gott für dich bereithält und wer der ist, der zu dir sagt: ›Gib mir zu trinken‹, dann wärst du diejenige, die ihn bittet, und er würde dir lebendiges Wasser geben.« <sup>11</sup>»Aber, Herr, du hast weder ein Seil noch einen Eimer«, entgegnete sie, »und dieser Brunnen ist sehr tief. Woher willst du denn dieses lebendige Wasser nehmen? <sup>12</sup>Bist du etwa größer als unser Vater Jakob, der uns diesen Brunnen hinterließ? Wie kannst du besseres Wasser versprechen, als er und seine Söhne und sein Vieh hatten?« <sup>13</sup>Jesus erwiderte: »Wenn die Menschen dieses Wasser getrunken haben, werden sie schon nach kurzer Zeit wieder durstig. <sup>14</sup>Wer aber von dem Wasser trinkt, das ich ihm geben werde, der wird niemals mehr Durst haben. Das Wasser, das ich ihm gebe, wird in ihm zu einer nie versiegenden Quelle, die unaufhörlich bis ins ewige Leben fließt.« <sup>15</sup>»Bitte, Herr«, sagte die Frau, »gib mir von diesem Wasser! Dann werde ich nie wieder durstig und brauche nicht mehr herzukommen, um Wasser zu schöpfen.« <sup>16</sup>»Geh, rufe deinen Mann und komm mit ihm hierher«, sagte Jesus zu ihr. <sup>17</sup>»Ich habe keinen Mann«, entgegnete die Frau. Jesus sagte: »Das stimmt! Du hast keinen Mann. <sup>18</sup>Du hattest fünf Ehemänner, und mit dem Mann, mit dem du jetzt zusammenlebst, bist du nicht verheiratet. Das hast du richtig gesagt.« <sup>19</sup>»Herr«, sagte die Frau, »ich sehe, dass du ein Prophet bist. <sup>20</sup>Sage mir doch, warum ihr Juden darauf besteht, dass Jerusalem der einzige Ort ist, um Gott anzubeten. Wir Samaritaner dagegen behaupten, dass es dieser Berg hier ist, wo unsere Vorfahren gebetet haben.« <sup>21</sup>Jesus erwiderte: »Glaube mir, es kommt die Zeit, in der es keine Rolle mehr spielt, ob ihr den Vater hier oder in Jerusalem anbetet. <sup>22</sup>Ihr Samaritaner wisst wenig über den, den ihr anbetet – wir Juden dagegen kennen ihn, denn die Erlösung kommt durch die Juden. <sup>23</sup>Aber die Zeit kommt, ja sie ist schon da, in der die wahren Anbeter den Vater im Geist und in der Wahrheit anbeten. Der Vater sucht Menschen, die ihn so anbeten. <sup>24</sup>Denn Gott ist Geist; deshalb müssen die, die ihn anbeten wollen, ihn im Geist und in der Wahrheit anbeten.« <sup>25</sup>Die Frau sagte: »Ich weiß, dass der Messias kommen wird – der, den man den Christus nennt. Wenn er kommt, wird er uns alle diese Dinge erklären.« <sup>26</sup>Da sagte Jesus zu ihr: »Ich bin es, der mit dir spricht!« <sup>27</sup>In diesem Augenblick kehrten seine Jünger zurück. Sie waren erstaunt, ihn im Gespräch mit einer Frau zu sehen, aber keiner fragte ihn, warum er das tat oder worüber sie gesprochen hatten. <sup>28</sup>Die Frau ließ ihren Krug neben dem Brunnen stehen, lief ins Dorf zurück und erzählte allen: <sup>29</sup>»Kommt mit und lernt einen Mann kennen, der mir alles ins Gesicht gesagt hat, was ich jemals getan habe! Könnte das vielleicht der Christus sein?« <sup>30</sup>Da strömten die Leute aus dem Dorf herbei, um ihn zu sehen. <sup>31</sup>Inzwischen drängten die Jünger Jesus, etwas zu essen. <sup>32</sup>»Nein«, sagte er, »ich lebe von einer Nahrung, von der ihr nichts wisst.« <sup>33</sup>»Wer sie ihm wohl gebracht hat?«, fragten die Jünger einander. <sup>34</sup>Da erklärte Jesus: »Meine Nahrung ist, dass ich den Willen Gottes tue, der mich gesandt hat, und sein Werk vollende. <sup>35</sup>Meint ihr etwa, dass erst in vier Monaten zum Ende des Sommers die Zeit der Ernte beginnen wird? Schaut euch doch um! Überall reifen die Felder heran und sind schon jetzt bereit zur Ernte. <sup>36</sup>Der Erntearbeiter erhält guten Lohn, und die Früchte, die er einsammelt, sind Menschen, die zum ewigen Leben geführt werden. Welche Freude erwartet beide zugleich: den, der pflanzt, und den, der erntet! <sup>37</sup>Ihr kennt den Spruch: ›Der eine pflanzt und ein anderer erntet.‹ Das ist wahr. <sup>38</sup>Ich habe euch ausgesandt zu ernten, was ihr vorher nicht selbst erarbeitet habt; andere hatten diese Arbeit schon getan, und ihr werdet nun die Ernte einbringen.« <h3>Viele Samaritaner glauben</h3><sup>39</sup>Viele Samaritaner aus dem Dorf glaubten nun an Jesus, weil die Frau ihnen erzählt hatte: »Er hat mir alles ins Gesicht gesagt, was ich jemals getan habe!« <sup>40</sup>Als sie dann mit Jesus zusammentrafen, baten sie ihn, bei ihnen zu bleiben. Deshalb blieb er noch zwei Tage <sup>41</sup>und noch viel mehr Menschen hörten seine Botschaft und glaubten an ihn. <sup>42</sup>Zu der Frau sagten sie: »Nun glauben wir, weil wir ihn selbst gehört haben, und nicht nur aufgrund deiner Worte. Jetzt wissen wir, dass er wirklich der Retter der Welt ist.«<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>1</sup>Jesus hörte, was den Pharisäern berichtet wurde: »Jesus macht mehr Menschen zu Jüngern und tauft mehr als Johannes.« <sup>2</sup>Allerdings taufte Jesus nicht selbst, sondern seine Jünger. <sup>3</sup>Da verließ er Judäa und ging wieder zurück nach Galiläa. <sup>4</sup>Sein Weg führte ihn durch Samarien. <sup>5</sup>Er kam zu der samaritanischen Stadt Sychar, in der Nähe des Feldes, das Jakob seinem Sohn Josef gegeben hatte. <sup>6</sup>Dort befand sich der Jakobsbrunnen. Erschöpft von der langen Wanderung setzte Jesus sich um die Mittagszeit an den Brunnen. <sup>7</sup>Kurz darauf kam eine Samaritanerin, um Wasser zu schöpfen. Jesus sagte zu ihr: »Bitte, gib mir zu trinken.« <sup>8</sup>Er war zu diesem Zeitpunkt allein, denn seine Jünger waren ins Dorf gegangen, um etwas zu essen zu kaufen. <sup>9</sup>Die Frau war überrascht, denn sonst wollen die Juden nichts mit den Samaritanern zu tun haben. Sie erwiderte: »Du bist ein Jude und ich bin eine Samaritanerin. Warum bittest du mich, dir zu trinken zu geben?« <sup>10</sup>Jesus antwortete: »Wenn du wüsstest, welche Gabe Gott für dich bereithält und wer der ist, der zu dir sagt: ›Gib mir zu trinken‹, dann wärst du diejenige, die ihn bittet, und er würde dir lebendiges Wasser geben.« <sup>11</sup>»Aber, Herr, du hast weder ein Seil noch einen Eimer«, entgegnete sie, »und dieser Brunnen ist sehr tief. Woher willst du denn dieses lebendige Wasser nehmen? <sup>12</sup>Bist du etwa größer als unser Vater Jakob, der uns diesen Brunnen hinterließ? Wie kannst du besseres Wasser versprechen, als er und seine Söhne und sein Vieh hatten?« <sup>13</sup>Jesus erwiderte: »Wenn die Menschen dieses Wasser getrunken haben, werden sie schon nach kurzer Zeit wieder durstig. <sup>14</sup>Wer aber von dem Wasser trinkt, das ich ihm geben werde, der wird niemals mehr Durst haben. Das Wasser, das ich ihm gebe, wird in ihm zu einer nie versiegenden Quelle, die unaufhörlich bis ins ewige Leben fließt.« <sup>15</sup>»Bitte, Herr«, sagte die Frau, »gib mir von diesem Wasser! Dann werde ich nie wieder durstig und brauche nicht mehr herzukommen, um Wasser zu schöpfen.« <sup>16</sup>»Geh, rufe deinen Mann und komm mit ihm hierher«, sagte Jesus zu ihr. <sup>17</sup>»Ich habe keinen Mann«, entgegnete die Frau. Jesus sagte: »Das stimmt! Du hast keinen Mann. <sup>18</sup>Du hattest fünf Ehemänner, und mit dem Mann, mit dem du jetzt zusammenlebst, bist du nicht verheiratet. Das hast du richtig gesagt.« <sup>19</sup>»Herr«, sagte die Frau, »ich sehe, dass du ein Prophet bist. <sup>20</sup>Sage mir doch, warum ihr Juden darauf besteht, dass Jerusalem der einzige Ort ist, um Gott anzubeten. Wir Samaritaner dagegen behaupten, dass es dieser Berg hier ist, wo unsere Vorfahren gebetet haben.« <sup>21</sup>Jesus erwiderte: »Glaube mir, es kommt die Zeit, in der es keine Rolle mehr spielt, ob ihr den Vater hier oder in Jerusalem anbetet. <sup>22</sup>Ihr Samaritaner wisst wenig über den, den ihr anbetet – wir Juden dagegen kennen ihn, denn die Erlösung kommt durch die Juden. <sup>23</sup>Aber die Zeit kommt, ja sie ist schon da, in der die wahren Anbeter den Vater im Geist und in der Wahrheit anbeten. Der Vater sucht Menschen, die ihn so anbeten. <sup>24</sup>Denn Gott ist Geist; deshalb müssen die, die ihn anbeten wollen, ihn im Geist und in der Wahrheit anbeten.« <sup>25</sup>Die Frau sagte: »Ich weiß, dass der Messias kommen wird – der, den man den Christus nennt. Wenn er kommt, wird er uns alle diese Dinge erklären.« <sup>26</sup>Da sagte Jesus zu ihr: »Ich bin es, der mit dir spricht!« <sup>27</sup>In diesem Augenblick kehrten seine Jünger zurück. Sie waren erstaunt, ihn im Gespräch mit einer Frau zu sehen, aber keiner fragte ihn, warum er das tat oder worüber sie gesprochen hatten. <sup>28</sup>Die Frau ließ ihren Krug neben dem Brunnen stehen, lief ins Dorf zurück und erzählte allen: <sup>29</sup>»Kommt mit und lernt einen Mann kennen, der mir alles ins Gesicht gesagt hat, was ich jemals getan habe! Könnte das vielleicht der Christus sein?« <sup>30</sup>Da strömten die Leute aus dem Dorf herbei, um ihn zu sehen. <sup>31</sup>Inzwischen drängten die Jünger Jesus, etwas zu essen. <sup>32</sup>»Nein«, sagte er, »ich lebe von einer Nahrung, von der ihr nichts wisst.« <sup>33</sup>»Wer sie ihm wohl gebracht hat?«, fragten die Jünger einander. <sup>34</sup>Da erklärte Jesus: »Meine Nahrung ist, dass ich den Willen Gottes tue, der mich gesandt hat, und sein Werk vollende. <sup>35</sup>Meint ihr etwa, dass erst in vier Monaten zum Ende des Sommers die Zeit der Ernte beginnen wird? Schaut euch doch um! Überall reifen die Felder heran und sind schon jetzt bereit zur Ernte. <sup>36</sup>Der Erntearbeiter erhält guten Lohn, und die Früchte, die er einsammelt, sind Menschen, die zum ewigen Leben geführt werden. Welche Freude erwartet beide zugleich: den, der pflanzt, und den, der erntet! <sup>37</sup>Ihr kennt den Spruch: ›Der eine pflanzt und ein anderer erntet.‹ Das ist wahr. <sup>38</sup>Ich habe euch ausgesandt zu ernten, was ihr vorher nicht selbst erarbeitet habt; andere hatten diese Arbeit schon getan, und ihr werdet nun die Ernte einbringen.« <h3>Viele Samaritaner glauben</h3><sup>39</sup>Viele Samaritaner aus dem Dorf glaubten nun an Jesus, weil die Frau ihnen erzählt hatte: »Er hat mir alles ins Gesicht gesagt, was ich jemals getan habe!« <sup>40</sup>Als sie dann mit Jesus zusammentrafen, baten sie ihn, bei ihnen zu bleiben. Deshalb blieb er noch zwei Tage <sup>41</sup>und noch viel mehr Menschen hörten seine Botschaft und glaubten an ihn. <sup>42</sup>Zu der Frau sagten sie: »Nun glauben wir, weil wir ihn selbst gehört haben, und nicht nur aufgrund deiner Worte. Jetzt wissen wir, dass er wirklich der Retter der Welt ist.«</div><p></p>",
         "url": "https://bibleserver.com/NLB/Johannes%204:1-42",
         "isOpen": false
       }
@@ -145,9 +165,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -196,8 +222,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -213,7 +260,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

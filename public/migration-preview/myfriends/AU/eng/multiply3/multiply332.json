@@ -59,8 +59,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -82,7 +86,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -104,9 +110,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -148,7 +160,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -164,7 +178,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Acts 16:6-15 two times as others listen."
+          {
+            "text": "Read or watch Acts 16:6-15 two times as others listen."
+          }
         ]
       }
     },
@@ -172,7 +188,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 16:6-15",
-        "html": "<!-- begin bible --><h3>Paul’s Vision of the Man of Macedonia</h3><p><sup class=\"versenum\">6 </sup>Paul and his companions traveled throughout the region of Phrygia and Galatia, having been kept by the Holy Spirit from preaching the word in the province of Asia.<sup class=\"versenum\">7 </sup>When they came to the border of Mysia, they tried to enter Bithynia, but the Spirit of Jesus would not allow them to.<sup class=\"versenum\">8 </sup>So they passed by Mysia and went down to Troas.<sup class=\"versenum\">9 </sup>During the night Paul had a vision of a man of Macedonia standing and begging him, “Come over to Macedonia and help us.”<sup class=\"versenum\">10 </sup>After Paul had seen the vision, we got ready at once to leave for Macedonia, concluding that God had called us to preach the gospel to them.</p><h3>Lydia’s Conversion in Philippi</h3><p><sup class=\"versenum\">11 </sup>From Troas we put out to sea and sailed straight for Samothrace, and the next day we went on to Neapolis.<sup class=\"versenum\">12 </sup>From there we traveled to Philippi, a Roman colony and the leading city of that district of Macedonia. And we stayed there several days.</p><p><sup class=\"versenum\">13 </sup>On the Sabbath we went outside the city gate to the river, where we expected to find a place of prayer. We sat down and began to speak to the women who had gathered there.<sup class=\"versenum\">14 </sup>One of those listening was a woman from the city of Thyatira named Lydia, a dealer in purple cloth. She was a worshiper of God. The Lord opened her heart to respond to Paul’s message.<sup class=\"versenum\">15 </sup>When she and the members of her household were baptized, she invited us to her home. “If you consider me a believer in the Lord,” she said, “come and stay at my house.” And she persuaded us.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<h3>Paul’s Vision of the Man of Macedonia</h3><p><sup>6</sup>Paul and his companions traveled throughout the region of Phrygia and Galatia, having been kept by the Holy Spirit from preaching the word in the province of Asia.<sup>7</sup>When they came to the border of Mysia, they tried to enter Bithynia, but the Spirit of Jesus would not allow them to.<sup>8</sup>So they passed by Mysia and went down to Troas.<sup>9</sup>During the night Paul had a vision of a man of Macedonia standing and begging him, “Come over to Macedonia and help us.”<sup>10</sup>After Paul had seen the vision, we got ready at once to leave for Macedonia, concluding that God had called us to preach the gospel to them.</p><h3>Lydia’s Conversion in Philippi</h3><p><sup>11</sup>From Troas we put out to sea and sailed straight for Samothrace, and the next day we went on to Neapolis.<sup>12</sup>From there we traveled to Philippi, a Roman colony and the leading city of that district of Macedonia. And we stayed there several days.</p><p><sup>13</sup>On the Sabbath we went outside the city gate to the river, where we expected to find a place of prayer. We sat down and began to speak to the women who had gathered there.<sup>14</sup>One of those listening was a woman from the city of Thyatira named Lydia, a dealer in purple cloth. She was a worshiper of God. The Lord opened her heart to respond to Paul’s message.<sup>15</sup>When she and the members of her household were baptized, she invited us to her home. “If you consider me a believer in the Lord,” she said, “come and stay at my house.” And she persuaded us.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Acts%2016:6-15&version=NIV",
         "isOpen": false
       }
@@ -215,10 +231,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in the story?",
-          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in the story?"
+          },
+          {
+            "text": "What is being modeled about a Spirit-dependent life, making disciples or leadership?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -233,9 +257,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How are Jesus’ followers continuing His work of making disciples and church planting?",
-          "How is the gospel impacting people and society?",
-          "What barriers or obstacles were overcome and how were they overcome?"
+          {
+            "text": "How are Jesus’ followers continuing His work of making disciples and church planting?"
+          },
+          {
+            "text": "How is the gospel impacting people and society?"
+          },
+          {
+            "text": "What barriers or obstacles were overcome and how were they overcome?"
+          }
         ]
       }
     },
@@ -258,7 +288,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -272,13 +304,13 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "Paul had plans of going into the province of Asia, which is west of Galatia, but the Lord had other plans for the ministry team. After being prevented by the Holy Spirit from going west into Asia and northeast into Bithynia, the team traveled northwest to the city of Troas on the west coast of modern day Turkey. Luke, the author of the book of Acts, joins the team in Troas as noted by the use of “we” ({Acts 16:10}).&nbsp;",
+                "text": "Paul had plans of going into the province of Asia, which is west of Galatia, but the Lord had other plans for the ministry team. After being prevented by the Holy Spirit from going west into Asia and northeast into Bithynia, the team traveled northwest to the city of Troas on the west coast of modern day Turkey. Luke, the author of the book of Acts, joins the team in Troas as noted by the use of “we” ({Acts 16:10}).",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Acts 16:10",
                     "label": "Acts 16:10",
-                    "passage": "<p><sup class=\"versenum\">10&nbsp;</sup>After Paul had seen the vision, we got ready at once to leave for Macedonia, concluding that God had called us to preach the gospel to them.</p>"
+                    "passage": "<p><sup>10</sup>After Paul had seen the vision, we got ready at once to leave for Macedonia, concluding that God had called us to preach the gospel to them.</p>"
                   }
                 ],
                 "isOpen": false
@@ -328,9 +360,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Prayer, Care, Share",
-                  "Gospel",
-                  "Foundational Bible Studies."
+                  {
+                    "text": "Prayer, Care, Share"
+                  },
+                  {
+                    "text": "Gospel"
+                  },
+                  {
+                    "text": "Foundational Bible Studies."
+                  }
                 ]
               }
             }
@@ -351,8 +389,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -375,7 +417,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

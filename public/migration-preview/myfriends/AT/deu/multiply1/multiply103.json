@@ -53,9 +53,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was lief bei dir gut diese Woche?",
-          "Was war für dich schwierig diese Woche?",
-          "Wo brauchst du Gottes Hilfe in deinem Leben?"
+          {
+            "text": "Was lief bei dir gut diese Woche?"
+          },
+          {
+            "text": "Was war für dich schwierig diese Woche?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe in deinem Leben?"
+          }
         ]
       }
     },
@@ -71,8 +77,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was konntest du seit unserem letzten Treffen praktisch umsetzen?",
-          "Welche Art von Gesprächen hattest du mit den Menschen auf deiner Gänseblümchen-Kette? <ul><li>ein lockeres Gespräch</li><li>ein ernsthaftes Gespräch</li><li>ein spirituelles Gespräch</li><li>ein Jesus-Gespräch</li></ul>"
+          {
+            "text": "Was konntest du seit unserem letzten Treffen praktisch umsetzen?"
+          },
+          {
+            "text": "Welche Art von Gesprächen hattest du mit den Menschen auf deiner Gänseblümchen-Kette?",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "ein lockeres Gespräch"
+                },
+                {
+                  "text": "ein ernsthaftes Gespräch"
+                },
+                {
+                  "text": "ein spirituelles Gespräch"
+                },
+                {
+                  "text": "ein Jesus-Gespräch"
+                }
+              ]
+            }
+          }
         ]
       }
     },
@@ -121,9 +148,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich oder seht euch das Video an.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+          {
+            "text": "Jeder liest den Text für sich oder seht euch das Video an."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+          }
         ]
       }
     },
@@ -137,7 +170,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "2 Korinther 2:14-3:3",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>14</sup>Doch ich danke Gott, der uns, die wir zu Christus gehören, immer in seinem Triumphzug mitführt. Wo immer wir jetzt auch hinkommen, setzt er uns ein, um anderen vom Herrn zu erzählen und die gute Botschaft zu verbreiten wie einen wohlriechenden Duft. <sup>15</sup>Unserem ganzen Leben haftet der Wohlgeruch von Christus an; und damit loben wir Gott. Aber dieser Geruch wird von denen, die gerettet werden, anders wahrgenommen als von denen, die verloren gehen. <sup>16</sup>Für die Menschen, die verloren gehen, sind wir der schreckliche Gestank von Tod und Verdammnis. Doch für die Menschen, die gerettet werden, sind wir ein Leben spendender Duft. Wer kann einer solchen Aufgabe gerecht werden? <!-- end bible --><!-- begin bible --><sup>3:1</sup>Fangen wir jetzt wieder an, mit unserer Arbeit anzugeben? Manche Leute müssen Empfehlungsschreiben mitbringen oder euch bitten, ihnen Empfehlungsbriefe zu schreiben. <sup>2</sup>Der einzige Empfehlungsbrief, den wir brauchen, seid ihr selbst! Euer Leben ist wie ein Brief, der in unsere Herzen geschrieben wurde. Jeder kann ihn lesen und erkennen, was wir unter euch getan haben. <sup>3</sup>Ihr seid ein Brief Christi, von uns geschrieben, aber nicht mit Tinte, sondern mit dem Geist des lebendigen Gottes: nicht auf Steintafeln, sondern in die Herzen der Menschen. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>14</sup>Doch ich danke Gott, der uns, die wir zu Christus gehören, immer in seinem Triumphzug mitführt. Wo immer wir jetzt auch hinkommen, setzt er uns ein, um anderen vom Herrn zu erzählen und die gute Botschaft zu verbreiten wie einen wohlriechenden Duft. <sup>15</sup>Unserem ganzen Leben haftet der Wohlgeruch von Christus an; und damit loben wir Gott. Aber dieser Geruch wird von denen, die gerettet werden, anders wahrgenommen als von denen, die verloren gehen. <sup>16</sup>Für die Menschen, die verloren gehen, sind wir der schreckliche Gestank von Tod und Verdammnis. Doch für die Menschen, die gerettet werden, sind wir ein Leben spendender Duft. Wer kann einer solchen Aufgabe gerecht werden? <sup>3:1</sup>Fangen wir jetzt wieder an, mit unserer Arbeit anzugeben? Manche Leute müssen Empfehlungsschreiben mitbringen oder euch bitten, ihnen Empfehlungsbriefe zu schreiben. <sup>2</sup>Der einzige Empfehlungsbrief, den wir brauchen, seid ihr selbst! Euer Leben ist wie ein Brief, der in unsere Herzen geschrieben wurde. Jeder kann ihn lesen und erkennen, was wir unter euch getan haben. <sup>3</sup>Ihr seid ein Brief Christi, von uns geschrieben, aber nicht mit Tinte, sondern mit dem Geist des lebendigen Gottes: nicht auf Steintafeln, sondern in die Herzen der Menschen. </div><p></p>",
         "url": "https://bibleserver.com/NLB/2%20Korinther%203:1-3",
         "isOpen": false
       }
@@ -154,11 +187,38 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was sticht für dich in dieser Bibelstelle heraus?",
-          "Warum glaubst du, ist diese Stelle wichtig?",
-          "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden? Gibt es: <ul><li>eine Verhaltensweise zu ändern?</li><li>ein Versprechen einzuhalten?</li><li>ein Beispiel zum folgen?</li><li>ein Gebot zu befolgen?</li></ul>",
-          "Frage Gott, was Er von dir als Antwort auf diese Bibelstelle möchte.",
-          "Teile dies mit der Gruppe."
+          {
+            "text": "Was sticht für dich in dieser Bibelstelle heraus?"
+          },
+          {
+            "text": "Warum glaubst du, ist diese Stelle wichtig?"
+          },
+          {
+            "text": "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden? Gibt es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Verhaltensweise zu ändern?"
+                },
+                {
+                  "text": "ein Versprechen einzuhalten?"
+                },
+                {
+                  "text": "ein Beispiel zum folgen?"
+                },
+                {
+                  "text": "ein Gebot zu befolgen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Frage Gott, was Er von dir als Antwort auf diese Bibelstelle möchte."
+          },
+          {
+            "text": "Teile dies mit der Gruppe."
+          }
         ]
       }
     },
@@ -246,8 +306,12 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "<p class=\"forward\">Ausatmen – unsere Sünden bekennen, bereit sein, unsere Haltung oder Taten zu ändern (1. Johannes 1:9).</p>",
-                  "<p class=\"forward\">Einatmen – übergib Jesus die Kontrolle über dein Leben.</p>"
+                  {
+                    "text": "Ausatmen – unsere Sünden bekennen, bereit sein, unsere Haltung oder Taten zu ändern (1. Johannes 1:9)."
+                  },
+                  {
+                    "text": "Einatmen – übergib Jesus die Kontrolle über dein Leben."
+                  }
                 ]
               }
             },
@@ -287,8 +351,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p class=\"forward\"> Schau dir deine Gänseblümchen-Kette nochmals an.</p>",
-          "<p class=\"forward\">Was zeigt dir Gott für nächste Schritte diese Woche mit Ihm und anderen?</p>"
+          {
+            "text": "Schau dir deine Gänseblümchen-Kette nochmals an."
+          },
+          {
+            "text": "Was zeigt dir Gott für nächste Schritte diese Woche mit Ihm und anderen?"
+          }
         ]
       }
     },
@@ -304,8 +372,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p class=\"forward\">Teilt diesen Schritt mit der Gruppe und bitte jemand, für dich zu beten, während du diesen Schritt in der Kraft des Heiligen Geistes tust.</p>",
-          "<p class=\"forward\">Übergebt alle eure Ziele dem Herrn. Bittet den Herrn uns zu helfen, treu zu sein und uns zu verwenden, eine Bewegung von Menschen zu starten, die diesen MyFriends-Lifestyle leben. </p>"
+          {
+            "text": "Teilt diesen Schritt mit der Gruppe und bitte jemand, für dich zu beten, während du diesen Schritt in der Kraft des Heiligen Geistes tust."
+          },
+          {
+            "text": "Übergebt alle eure Ziele dem Herrn. Bittet den Herrn uns zu helfen, treu zu sein und uns zu verwenden, eine Bewegung von Menschen zu starten, die diesen MyFriends-Lifestyle leben."
+          }
         ]
       }
     },

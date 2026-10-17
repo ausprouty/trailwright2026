@@ -59,8 +59,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -82,7 +86,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -104,9 +110,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -148,7 +160,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -164,7 +178,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Acts 6:8-15 two times as others listen."
+          {
+            "text": "Read or watch Acts 6:8-15 two times as others listen."
+          }
         ]
       }
     },
@@ -172,7 +188,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 6:8-15",
-        "html": "<!-- begin bible --><h3>Stephen Seized</h3><p><sup class=\"versenum\">8 </sup>Now Stephen, a man full of God’s grace and power, performed great wonders and signs among the people.<sup class=\"versenum\">9 </sup>Opposition arose, however, from members of the Synagogue of the Freedmen (as it was called)—Jews of Cyrene and Alexandria as well as the provinces of Cilicia and Asia—who began to argue with Stephen.<sup class=\"versenum\">10 </sup>But they could not stand up against the wisdom the Spirit gave him as he spoke.</p><p><sup class=\"versenum\">11 </sup>Then they secretly persuaded some men to say, “We have heard Stephen speak blasphemous words against Moses and against God.”</p><p><sup class=\"versenum\">12 </sup>So they stirred up the people and the elders and the teachers of the law. They seized Stephen and brought him before the Sanhedrin.<sup class=\"versenum\">13 </sup>They produced false witnesses, who testified, “This fellow never stops speaking against this holy place and against the law.<sup class=\"versenum\">14 </sup>For we have heard him say that this Jesus of Nazareth will destroy this place and change the customs Moses handed down to us.”</p><p><sup class=\"versenum\">15 </sup>All who were sitting in the Sanhedrin looked intently at Stephen, and they saw that his face was like the face of an angel.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<h3>Stephen Seized</h3><p><sup>8</sup>Now Stephen, a man full of God’s grace and power, performed great wonders and signs among the people.<sup>9</sup>Opposition arose, however, from members of the Synagogue of the Freedmen (as it was called)—Jews of Cyrene and Alexandria as well as the provinces of Cilicia and Asia—who began to argue with Stephen.<sup>10</sup>But they could not stand up against the wisdom the Spirit gave him as he spoke.</p><p><sup>11</sup>Then they secretly persuaded some men to say, “We have heard Stephen speak blasphemous words against Moses and against God.”</p><p><sup>12</sup>So they stirred up the people and the elders and the teachers of the law. They seized Stephen and brought him before the Sanhedrin.<sup>13</sup>They produced false witnesses, who testified, “This fellow never stops speaking against this holy place and against the law.<sup>14</sup>For we have heard him say that this Jesus of Nazareth will destroy this place and change the customs Moses handed down to us.”</p><p><sup>15</sup>All who were sitting in the Sanhedrin looked intently at Stephen, and they saw that his face was like the face of an angel.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Acts%206:8-15&version=NIV",
         "isOpen": false
       }
@@ -202,10 +218,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in the story?",
-          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in the story?"
+          },
+          {
+            "text": "What is being modeled about a Spirit-dependent life, making disciples or leadership?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -220,9 +244,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How are Jesus’ followers continuing His work of making disciples and church planting?",
-          "How is the gospel impacting people and society?",
-          "What barriers or obstacles were overcome and how were they overcome?"
+          {
+            "text": "How are Jesus’ followers continuing His work of making disciples and church planting?"
+          },
+          {
+            "text": "How is the gospel impacting people and society?"
+          },
+          {
+            "text": "What barriers or obstacles were overcome and how were they overcome?"
+          }
         ]
       }
     },
@@ -245,7 +275,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -259,13 +291,13 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "We learn about one of the seven appointed men named Stephan. Stephen’s ministry was to care for the widows and to manage the resources of the church. In addition to this, he was sharing the gospel with other Greek speaking Jews by visiting the synagogues that they attended. The Spirit empowered Stephen to perform miracles and to speak with wisdom. This is the first mention of a non-apostle doing the same work that the Apostles had been doing. The Apostles were making the next generation of disciples by passing on what they had learned from Jesus. This is an answer to Jesus’ prayer for the Apostles and for those who would believe as a result of their witness ({John 17:20}).&nbsp;",
+                "text": "We learn about one of the seven appointed men named Stephan. Stephen’s ministry was to care for the widows and to manage the resources of the church. In addition to this, he was sharing the gospel with other Greek speaking Jews by visiting the synagogues that they attended. The Spirit empowered Stephen to perform miracles and to speak with wisdom. This is the first mention of a non-apostle doing the same work that the Apostles had been doing. The Apostles were making the next generation of disciples by passing on what they had learned from Jesus. This is an answer to Jesus’ prayer for the Apostles and for those who would believe as a result of their witness ({John 17:20}).",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "John 17:20",
                     "label": "John 17:20",
-                    "passage": "<p><sup class=\"versenum\">20&nbsp;</sup>“My prayer is not for them alone. I pray also for those who will believe in me through their message,</p>"
+                    "passage": "<p><sup>20</sup>“My prayer is not for them alone. I pray also for those who will believe in me through their message,</p>"
                   }
                 ],
                 "isOpen": false
@@ -315,9 +347,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Prayer, Care, Share",
-                  "Gospel",
-                  "Foundational Bible Studies."
+                  {
+                    "text": "Prayer, Care, Share"
+                  },
+                  {
+                    "text": "Gospel"
+                  },
+                  {
+                    "text": "Foundational Bible Studies."
+                  }
                 ]
               }
             }
@@ -338,8 +376,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -362,7 +404,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

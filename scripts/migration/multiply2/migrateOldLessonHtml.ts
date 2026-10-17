@@ -1,6 +1,8 @@
-// basics/migrateOldLessonHtml
+// multiply/migrateOldLessonHtml
+// Shared migration routine for Multiply 1, Multiply 2, and Multiply 3.
 
 import * as cheerio from 'cheerio';
+import type { CheerioAPI } from 'cheerio';
 import type { AnyNode } from 'domhandler';
 import { isTag, isText } from 'domhandler';
 
@@ -9,6 +11,7 @@ import type { SectionMarkerBlockData } from 'src/types/content/MigrationTypes';
 import { remapImagePaths } from '../remapImagePaths';
 import type { EditorJsContent, SectionTheme, VideoSource } from 'src/types/content/MigrationTypes';
 import type { AnyEditorJsBlock } from 'src/types/content/EditorBlocks';
+import type { ListItem } from 'src/types/content/ListBlock';
 import { extractPopupBibleReferences } from '../shared/extractPopupBibleReferences';
 
 import { extractInlineBibleRefs, type BibleRef } from '../shared/extractInlineBibleRefs';
@@ -62,7 +65,10 @@ function buildHeaderBlock(
   };
 }
 
-function buildListBlock(style: 'ordered' | 'unordered', items: string[]): AnyEditorJsBlock {
+function buildListBlock(
+  style: 'ordered' | 'unordered',
+  items: ListItem[],
+): AnyEditorJsBlock {
   return {
     type: 'list',
     data: {
@@ -165,7 +171,6 @@ function cleanBibleHtml(rawHtml: string): string {
   const $root = $('#root');
 
   $root.find('hr').remove();
-
   $root.find('a.bible-readmore, a.readmore').remove();
   $root.find('p.reference, p.myfriends-reference').remove();
 
@@ -182,22 +187,56 @@ function cleanBibleHtml(rawHtml: string): string {
     $el.replaceWith(`<h3>${$el.html() || ''}</h3>`);
   });
 
-  // Normalize Bible passage section headings.
-  $root.find('h4.bible').each((_, el) => {
-    const $el = $(el);
-    $el.replaceWith(`<h3>${$el.html() || ''}</h3>`);
-  });
+  // Unwrap plain legacy Bible divs while their class still identifies them.
+  $root.find('div.bible').each((_, el) => {
+    const $div = $(el);
+    const classes = ($div.attr('class') || '')
+      .split(/\s+/)
+      .filter(Boolean);
 
-  $root.find('br').each((_, el) => {
-    const $el = $(el);
-    const next = $el.next();
-
-    if (!next.length) {
-      $el.remove();
+    if (classes.length === 1 && classes[0] === 'bible') {
+      $div.replaceWith($div.contents());
     }
   });
 
+  // Bible/RTL paragraph classes are presentation-only in the new renderer.
+  $root.find('p.bible, p.rtl').each((_, el) => {
+    $(el).removeAttr('class');
+  });
+
+  // Remove all trailing BRs, not just the final one from a run.
+  while ($root.children().last().is('br')) {
+    $root.children().last().remove();
+  }
+
   return normalizeInlineHtml($root.html() || '');
+}
+
+function cleanInlineHtmlText(html: string): string {
+  return html
+    // Remove empty spacer paragraphs.
+    .replace(/<p>(?:&nbsp;|\s|\u00a0)*<\/p>/gi, '')
+
+    // Treat non-breaking spaces as ordinary spaces.
+    .replace(/&nbsp;/gi, ' ')
+    .replace(/\u00a0/g, ' ')
+
+    // Remove line breaks and tabs.
+    .replace(/[\r\n\t]+/g, ' ')
+
+    // Collapse repeated whitespace.
+    .replace(/\s{2,}/g, ' ')
+
+    // Remove whitespace directly after opening tags.
+    .replace(/>\s+/g, '>')
+
+    // Remove whitespace directly before tags.
+    .replace(/\s+</g, '<')
+
+    // Tidy paragraph boundaries.
+    .replace(/<\/p>\s*<p/gi, '</p><p')
+
+    .trim();
 }
 function cleanPopupPassageHtml($: cheerio.CheerioAPI, rawHtml: string): string {
   const $root = $('<div></div>').html(rawHtml);
@@ -220,7 +259,11 @@ function cleanPopupPassageHtml($: cheerio.CheerioAPI, rawHtml: string): string {
       children.first().is('div') &&
       $tmp
         .contents()
-        .filter((_, node) => node.type === ElementType.Text && $(node).text().trim().length > 0)
+        .filter(
+          (_, node) =>
+            node.type === ElementType.Text &&
+            $(node).text().trim().length > 0,
+        )
         .length === 0
     ) {
       html = children.first().html() || '';
@@ -229,7 +272,7 @@ function cleanPopupPassageHtml($: cheerio.CheerioAPI, rawHtml: string): string {
     }
   }
 
-  return html.trim();
+  return cleanInlineHtmlText(html);
 }
 
 function collapsePlainTextWhitespace(text: string): string {
@@ -277,9 +320,6 @@ function convertPopupLinksToBibleReferenceBlock(
     const popupId = getPopUpIdFromHref(href);
 
     if (!popupId) return;
-    console.log('popupId:', popupId);
-    console.log('popupMap keys:', Array.from(popupMap.keys()));
-    console.log('passage:', popupMap.get(popupId));
 
     const label = $link.text().trim();
     const marker = label;
@@ -298,7 +338,7 @@ function convertPopupLinksToBibleReferenceBlock(
   return {
     type: 'bibleReference',
     data: {
-      text: $el.html()?.trim() || '',
+      text: cleanInlineHtmlText($el.html() || ''),
       references,
       isOpen: false,
     },
@@ -385,12 +425,43 @@ function extractLessonListItems(
   return items;
 }
 
-function extractListItems($: cheerio.CheerioAPI, $list: cheerio.Cheerio<AnyNode>): string[] {
-  return $list
-    .children('li')
-    .map((_, li) => normalizeInlineHtml($(li).html() || ''))
-    .get()
-    .filter(Boolean);
+function extractListItems(
+  $: cheerio.CheerioAPI,
+  $list: cheerio.Cheerio<AnyNode>,
+): ListItem[] {
+  const items: ListItem[] = [];
+
+  $list.children('li').each((_, li) => {
+    const $li = $(li);
+    const $clone = $li.clone();
+
+    // Nested lists are represented structurally, not embedded in item text.
+    $clone.children('ul, ol').remove();
+
+    // Direct paragraph wrappers inside LI are legacy block formatting.
+    $clone.children('p').each((_, p) => {
+      const $p = $(p);
+      $p.replaceWith($p.contents());
+    });
+
+    const text = normalizeInlineHtml($clone.html() || '');
+    const item: Exclude<ListItem, string> = { text };
+
+    const $nestedList = $li.children('ul, ol').first();
+
+    if ($nestedList.length > 0) {
+      item.children = {
+        style: $nestedList.is('ol') ? 'ordered' : 'unordered',
+        items: extractListItems($, $nestedList),
+      };
+    }
+
+    if (!isIgnorableHtml(text) || item.children) {
+      items.push(item);
+    }
+  });
+
+  return items;
 }
 
 function extractRevealContentBlocks(
@@ -858,12 +929,80 @@ function normalizeInlineHtml(html: string): string {
   return trimNbspEdges(cleaned).trim();
 }
 
+function normalizeLegacyNobreakWrappers($: CheerioAPI): void {
+  $('li.nobreak').each((_, el) => {
+    const $el = $(el);
+    $el.replaceWith($el.contents());
+  });
+}
+
+function normalizeLegacyPopupReferenceLayout($: cheerio.CheerioAPI): void {
+  $('a[href*="javascript:popUp"]').each((_, el) => {
+    const $link = $(el);
+
+    // Already inside normal content: leave it alone.
+    if ($link.closest('p, li').length > 0) {
+      return;
+    }
+
+    let previous = $link.prev();
+
+    // Skip popup divs sitting between the paragraph and this link.
+    while (previous.length && previous.hasClass('popup')) {
+      previous = previous.prev();
+    }
+
+    if (!previous.length || !previous.is('p')) {
+      return;
+    }
+
+    const $paragraph = previous;
+    const linkNode = $link[0];
+    const nextNode = linkNode?.nextSibling;
+    let trailingText = '';
+
+    if (nextNode && isText(nextNode)) {
+      trailingText = nextNode.data;
+
+      if (trailingText.trim()) {
+        $(nextNode).remove();
+      } else {
+        trailingText = '';
+      }
+    }
+
+    $paragraph.append($link);
+
+    if (trailingText) {
+      $paragraph.append(trailingText);
+    }
+  });
+}
+
 function normalizeTextForEditor(text: string): string {
   if (!text) {
     return '';
   }
 
   return collapsePlainTextWhitespace(decodeHtmlEntities(trimNbspEdges(text)));
+}
+function normalizeVerseSuperscripts($: CheerioAPI): void {
+  $('sup.versenum, sup.versenum-rtl').each((_, element) => {
+    const $sup = $(element);
+
+    // Remove whitespace / &nbsp; from the verse number.
+    const number = $sup.text().replace(/\s+/g, '');
+
+    $sup
+      .removeClass('versenum')
+      .removeClass('versenum-rtl')
+      .text(number);
+
+    // Remove an empty class attribute.
+    if (!$sup.attr('class')?.trim()) {
+      $sup.removeAttr('class');
+    }
+  });
 }
 
 function normalizeVideoLabel(label: string): string {
@@ -1021,6 +1160,12 @@ export function migrateOldLessonHtmlToEditorJs(
   const remappedHtml = remapImagePaths(html);
   const repairedHtml = repairMojibakeText(remappedHtml);
   const $ = cheerio.load(repairedHtml);
+
+  // Normalize shared Multiply legacy markup before any extraction occurs.
+  normalizeVerseSuperscripts($);
+  normalizeLegacyNobreakWrappers($);
+  normalizeLegacyPopupReferenceLayout($);
+
   const popupMap = collectPopupMap($);
 
   const blocks: AnyEditorJsBlock[] = [];
@@ -1028,7 +1173,6 @@ export function migrateOldLessonHtmlToEditorJs(
 
   function processNode($el: cheerio.Cheerio<AnyNode>): void {
     const node = $el[0];
-
     console.log(
       'PROCESS NODE:',
       node?.type,
@@ -1036,7 +1180,8 @@ export function migrateOldLessonHtmlToEditorJs(
       $el.attr?.('class'),
       $el.html()?.slice(0, 120),
     );
-    // 1. Ignore / cleanup cases firstif (!$el.length) return;
+    // 1. Ignore / cleanup cases first.
+    if (!$el.length) return;
     if (isEmptyLessonDiv($el)) {
       return;
     }
@@ -1106,24 +1251,6 @@ export function migrateOldLessonHtmlToEditorJs(
             blocks.push(buildCollapsibleGroupBlock(title, [buildParagraphBlock(fallbackHtml)]));
           }
         }
-      }
-
-      return;
-    }
-    if (isBackgroundNoteWrapper($el)) {
-      const $lesson = $el.find('div.lesson').first();
-      const title =
-        normalizeTextForEditor($lesson.find('.lesson-subtitle').first().text()) ||
-        'Background Notes';
-
-      const $clone = $el.clone();
-
-      $clone.find('div.lesson').remove();
-
-      const nestedBlocks = extractRevealContentBlocks($, $clone, popupMap);
-
-      if (nestedBlocks.length > 0) {
-        blocks.push(buildCollapsibleGroupBlock(title, nestedBlocks));
       }
 
       return;

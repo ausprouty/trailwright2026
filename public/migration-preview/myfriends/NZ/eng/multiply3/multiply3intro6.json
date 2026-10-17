@@ -46,10 +46,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Colossians, 60-62 AD",
-          "Philemon, 60-62 AD",
-          "Ephesians, 60-62 AD",
-          "Philippians, 60-62 AD"
+          {
+            "text": "Colossians, 60-62 AD"
+          },
+          {
+            "text": "Philemon, 60-62 AD"
+          },
+          {
+            "text": "Ephesians, 60-62 AD"
+          },
+          {
+            "text": "Philippians, 60-62 AD"
+          }
         ]
       }
     }

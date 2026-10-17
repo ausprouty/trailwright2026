@@ -22,22 +22,31 @@
       "data": {
         "style": "ordered",
         "items": [
-          "What did you experience with God this week?",
-          "In the last few days, did you have the opportunity to share an experience with God with someone close to you that doesn’t know Jesus yet? Or could you pray for them or help them practically?",
-          "Do you need God‘s help in an area of your life?"
+          {
+            "text": "What did you experience with God this week?"
+          },
+          {
+            "text": "In the last few days, did you have the opportunity to share an experience with God with someone close to you that doesn’t know Jesus yet? Or could you pray for them or help them practically?"
+          },
+          {
+            "text": "Do you need God‘s help in an area of your life?"
+          }
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where\nyou need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship\nwith God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -60,10 +69,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Read the passage silently. What words or phrases stick out?",
-          "One person reads the passage out loud.",
-          "One person retells the passage in his/her own words (Bibles closed).",
-          "If necessary, the others complement what was said (Bibles closed)."
+          {
+            "text": "Read the passage silently. What words or phrases stick out?"
+          },
+          {
+            "text": "One person reads the passage out loud."
+          },
+          {
+            "text": "One person retells the passage in his/her own words (Bibles closed)."
+          },
+          {
+            "text": "If necessary, the others complement what was said (Bibles closed)."
+          }
         ]
       }
     },
@@ -71,7 +88,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Luke 5:27-32",
-        "html": "<p class=\"bible\"><sup>27</sup> After this, Jesus went out and saw a tax collector by the name of Levi sitting at his tax booth. “Follow me,” Jesus said to him, <sup>28</sup><span class=\"unknown\"> and Levi got up, left everything and followed him. </span></p><p class=\"bible\"><sup>29</sup>Then Levi held a great banquet for Jesus at his house, and a large crowd of tax collectors and others were eating with them.<sup>30</sup>But the Pharisees and the teachers of the law who belonged to their sect complained to his disciples, “Why do you eat and drink with tax collectors and sinners?” </p><p class=\"bible\"><sup>31</sup>Jesus answered them, “It is not the healthy who need a doctor, but the sick.<sup>32</sup>I have not come to call the righteous, but sinners to repentance.” </p><p class=\"bible\"></p>",
+        "html": "<p><sup>27</sup> After this, Jesus went out and saw a tax collector by the name of Levi sitting at his tax booth. “Follow me,” Jesus said to him, <sup>28</sup> and Levi got up, left everything and followed him. </p><p><sup>29</sup>Then Levi held a great banquet for Jesus at his house, and a large crowd of tax collectors and others were eating with them.<sup>30</sup>But the Pharisees and the teachers of the law who belonged to their sect complained to his disciples, “Why do you eat and drink with tax collectors and sinners?” </p><p><sup>31</sup>Jesus answered them, “It is not the healthy who need a doctor, but the sick.<sup>32</sup>I have not come to call the righteous, but sinners to repentance.” </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%205:27-32&version=TNIV",
         "isOpen": false
       }
@@ -81,8 +98,29 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Everyone by themselves:<ul class=\"arrows\"><li> What words or phrases stick out now? Are there any differences to what you noticed before? </li><li>Why do you feel drawn to those words or phrases?</li><li>What could God be telling you?</li><li>What can you learn about mankind?</li></ul>",
-          "Share in the group."
+          {
+            "text": "Everyone by themselves:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "What words or phrases stick out now? Are there any differences to what you noticed before?"
+                },
+                {
+                  "text": "Why do you feel drawn to those words or phrases?"
+                },
+                {
+                  "text": "What could God be telling you?"
+                },
+                {
+                  "text": "What can you learn about mankind?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Share in the group."
+          }
         ]
       }
     },
@@ -106,8 +144,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "What kind of an atmosphere do you create amongst your friends that don’t know Jesus yet? How do you see them? How do you treat them?",
-          "Did you ever invite friends or co-eds that don‘t know Jesus yet to a party of yours? What event in the nearby future would be really suitable for that?"
+          {
+            "text": "What kind of an atmosphere do you create amongst your friends that don’t know Jesus yet? How do you see them? How do you treat them?"
+          },
+          {
+            "text": "Did you ever invite friends or co-eds that don‘t know Jesus yet to a party of yours? What event in the nearby future would be really suitable for that?"
+          }
         ]
       }
     },
@@ -118,21 +160,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ What could you as a Group organise for such a purpose? Think about it quickly, everyone notes down 2-3 ideas, then discuss these in the group."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Write down 5 people you would like to invite."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray for your VIPs, that your relationship to them strengthens and that you gain mutual trust."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "What could you as a Group organise for such a purpose? Think about it\nquickly, everyone notes down 2-3 ideas, then discuss these in the group."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Write down 5 people you would like to invite."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray for your VIPs, that your relationship to them strengthens and that\nyou gain mutual trust."
+          }
+        ]
       }
     },
     {

@@ -33,19 +33,19 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "<li class=\"nobreak\">(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. ({Philippians 2:11}b;&nbsp;\n\n\t\n\t&nbsp;{1 Timothy 2:4-6}a).&nbsp;\n\n\t\n\t</li>",
+                "text": "(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. ({Philippians 2:11}b; {1 Timothy 2:4-6}a).",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Philippians 2:11",
                     "label": "Philippians 2:11",
-                    "passage": "<p><sup class=\"versenum\">11&nbsp;</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;to the glory of God the Father.</p>"
+                    "passage": "<p><sup>11</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>to the glory of God the Father.</p>"
                   },
                   {
                     "id": "popup_pop2",
                     "marker": "1 Timothy 2:4-6",
                     "label": "1 Timothy 2:4-6",
-                    "passage": "<p><sup class=\"versenum\">4&nbsp;</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup class=\"versenum\">5&nbsp;</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup class=\"versenum\">6&nbsp;</sup>who gave himself as a ransom for all people.&nbsp;</p>"
+                    "passage": "<p><sup>4</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup>5</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup>6</sup>who gave himself as a ransom for all people.</p>"
                   }
                 ],
                 "isOpen": false
@@ -74,8 +74,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -97,7 +101,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -119,9 +125,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them."
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them."
+                  }
                 ]
               }
             },
@@ -170,7 +182,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -191,7 +205,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Mark 7:31-8:9",
-        "html": "<!-- begin bible --><h3>Jesus Heals a Deaf and Mute Man</h3><p><sup class=\"versenum\">31 </sup>Then Jesus left the vicinity of Tyre and went through Sidon, down to the Sea of Galilee and into the region of the Decapolis.<sup class=\"versenum\">32 </sup>There some people brought to him a man who was deaf and could hardly talk, and they begged Jesus to place his hand on him.</p><p><sup class=\"versenum\">33 </sup>After he took him aside, away from the crowd, Jesus put his fingers into the man’s ears. Then he spit and touched the man’s tongue.<sup class=\"versenum\">34 </sup>He looked up to heaven and with a deep sigh said to him, <em>“Ephphatha!”</em> (which means “Be opened!”).<sup class=\"versenum\">35 </sup>At this, the man’s ears were opened, his tongue was loosened and he began to speak plainly.</p><p><sup class=\"versenum\">36 </sup>Jesus commanded them not to tell anyone. But the more he did so, the more they kept talking about it.<sup class=\"versenum\">37 </sup>People were overwhelmed with amazement. “He has done everything well,” they said. “He even makes the deaf hear and the mute speak.”</p><h3>Jesus Feeds the Four Thousand</h3><p><sup class=\"versenum\">8:1 </sup>During those days another large crowd gathered. Since they had nothing to eat, Jesus called his disciples to him and said,<sup class=\"versenum\">2 </sup>“I have compassion for these people; they have already been with me three days and have nothing to eat.<sup class=\"versenum\">3 </sup>If I send them home hungry, they will collapse on the way, because some of them have come a long distance.”</p><p><sup class=\"versenum\">4 </sup>His disciples answered, “But where in this remote place can anyone get enough bread to feed them?”</p><p><sup class=\"versenum\">5 </sup>“How many loaves do you have?” Jesus asked.</p><p>“Seven,” they replied.</p><p><sup class=\"versenum\">6 </sup>He told the crowd to sit down on the ground. When he had taken the seven loaves and given thanks, he broke them and gave them to his disciples to distribute to the people, and they did so.<sup class=\"versenum\">7 </sup>They had a few small fish as well; he gave thanks for them also and told the disciples to distribute them.<sup class=\"versenum\">8 </sup>The people ate and were satisfied. Afterward the disciples picked up seven basketfuls of broken pieces that were left over.<sup class=\"versenum\">9 </sup>About four thousand were present. </p><p class=\"bible\"></p>",
+        "html": "<h3>Jesus Heals a Deaf and Mute Man</h3><p><sup>31</sup>Then Jesus left the vicinity of Tyre and went through Sidon, down to the Sea of Galilee and into the region of the Decapolis.<sup>32</sup>There some people brought to him a man who was deaf and could hardly talk, and they begged Jesus to place his hand on him.</p><p><sup>33</sup>After he took him aside, away from the crowd, Jesus put his fingers into the man’s ears. Then he spit and touched the man’s tongue.<sup>34</sup>He looked up to heaven and with a deep sigh said to him, <em>“Ephphatha!”</em> (which means “Be opened!”).<sup>35</sup>At this, the man’s ears were opened, his tongue was loosened and he began to speak plainly.</p><p><sup>36</sup>Jesus commanded them not to tell anyone. But the more he did so, the more they kept talking about it.<sup>37</sup>People were overwhelmed with amazement. “He has done everything well,” they said. “He even makes the deaf hear and the mute speak.”</p><h3>Jesus Feeds the Four Thousand</h3><p><sup>8:1</sup>During those days another large crowd gathered. Since they had nothing to eat, Jesus called his disciples to him and said,<sup>2</sup>“I have compassion for these people; they have already been with me three days and have nothing to eat.<sup>3</sup>If I send them home hungry, they will collapse on the way, because some of them have come a long distance.”</p><p><sup>4</sup>His disciples answered, “But where in this remote place can anyone get enough bread to feed them?”</p><p><sup>5</sup>“How many loaves do you have?” Jesus asked.</p><p>“Seven,” they replied.</p><p><sup>6</sup>He told the crowd to sit down on the ground. When he had taken the seven loaves and given thanks, he broke them and gave them to his disciples to distribute to the people, and they did so.<sup>7</sup>They had a few small fish as well; he gave thanks for them also and told the disciples to distribute them.<sup>8</sup>The people ate and were satisfied. Afterward the disciples picked up seven basketfuls of broken pieces that were left over.<sup>9</sup>About four thousand were present. </p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Mark%207:31-8:9&version=NIV",
         "isOpen": false
       }
@@ -221,10 +235,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in Jesus story?",
-          "What do we learn about the humanity or divinity of Jesus from this passage?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in Jesus story?"
+          },
+          {
+            "text": "What do we learn about the humanity or divinity of Jesus from this passage?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -239,8 +261,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What are his followers learning?",
-          "What is Jesus modeling to us about life and ministry or godly leadership?"
+          {
+            "text": "What are his followers learning?"
+          },
+          {
+            "text": "What is Jesus modeling to us about life and ministry or godly leadership?"
+          }
         ]
       }
     },
@@ -263,7 +289,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -288,13 +316,13 @@
     {
       "type": "bibleReference",
       "data": {
-        "text": "<span class=\"for-enrichment\">For Further Study: {Matthew 15:29-38} </span>",
+        "text": "<span class=\"for-enrichment\">For Further Study: {Matthew 15:29-38}</span>",
         "references": [
           {
             "id": "popup_pop3",
             "marker": "Matthew 15:29-38",
             "label": "Matthew 15:29-38",
-            "passage": "<p><sup class=\"versenum\">29&nbsp;</sup>Jesus left there and went along the Sea of Galilee. Then he went up on a mountainside and sat down.<sup class=\"versenum\">30&nbsp;</sup>Great crowds came to him, bringing the lame, the blind, the crippled, the mute and many others, and laid them at his feet; and he healed them.<sup class=\"versenum\">31&nbsp;</sup>The people were amazed when they saw the mute speaking, the crippled made well, the lame walking and the blind seeing. And they praised the God of Israel.</p>\n\n<p><sup class=\"versenum\">32&nbsp;</sup>Jesus called his disciples to him and said, “I have compassion for these people; they have already been with me three days and have nothing to eat. I do not want to send them away hungry, or they may collapse on the way.”</p>\n\n<p><sup class=\"versenum\">33&nbsp;</sup>His disciples answered, “Where could we get enough bread in this remote place to feed such a crowd?”</p>\n\n<p><sup class=\"versenum\">34&nbsp;</sup>“How many loaves do you have?” Jesus asked.</p>\n\n<p>“Seven,” they replied, “and a few small fish.”</p>\n\n<p><sup class=\"versenum\">35&nbsp;</sup>He told the crowd to sit down on the ground.<sup class=\"versenum\">36&nbsp;</sup>Then he took the seven loaves and the fish, and when he had given thanks, he broke them and gave them to the disciples, and they in turn to the people.<sup class=\"versenum\">37&nbsp;</sup>They all ate and were satisfied. Afterward the disciples picked up seven basketfuls of broken pieces that were left over.<sup class=\"versenum\">38&nbsp;</sup>The number of those who ate was four thousand men, besides women and children.</p>"
+            "passage": "<p><sup>29</sup>Jesus left there and went along the Sea of Galilee. Then he went up on a mountainside and sat down.<sup>30</sup>Great crowds came to him, bringing the lame, the blind, the crippled, the mute and many others, and laid them at his feet; and he healed them.<sup>31</sup>The people were amazed when they saw the mute speaking, the crippled made well, the lame walking and the blind seeing. And they praised the God of Israel.</p><p><sup>32</sup>Jesus called his disciples to him and said, “I have compassion for these people; they have already been with me three days and have nothing to eat. I do not want to send them away hungry, or they may collapse on the way.”</p><p><sup>33</sup>His disciples answered, “Where could we get enough bread in this remote place to feed such a crowd?”</p><p><sup>34</sup>“How many loaves do you have?” Jesus asked.</p><p>“Seven,” they replied, “and a few small fish.”</p><p><sup>35</sup>He told the crowd to sit down on the ground.<sup>36</sup>Then he took the seven loaves and the fish, and when he had given thanks, he broke them and gave them to the disciples, and they in turn to the people.<sup>37</sup>They all ate and were satisfied. Afterward the disciples picked up seven basketfuls of broken pieces that were left over.<sup>38</sup>The number of those who ate was four thousand men, besides women and children.</p>"
           }
         ],
         "isOpen": false
@@ -333,7 +361,23 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Practice needed skills or previous topics to help prepare to minister to others: <ul><li>Prayer, Care, Share</li><li>Gospel</li><li>Foundational Bible Studies.</li></ul>"
+          {
+            "text": "Practice needed skills or previous topics to help prepare to minister to others:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Prayer, Care, Share"
+                },
+                {
+                  "text": "Gospel"
+                },
+                {
+                  "text": "Foundational Bible Studies."
+                }
+              ]
+            }
+          }
         ]
       }
     },
@@ -349,8 +393,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -373,7 +421,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

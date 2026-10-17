@@ -47,9 +47,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -65,10 +71,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -99,9 +113,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -115,7 +135,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Johannes 3:22-35",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>22</sup>Danach verließen Jesus und seine Jünger Jerusalem. Sie blieben aber noch eine Zeit lang in Judäa und tauften dort. <sup>23</sup>Zu dieser Zeit taufte Johannes der Täufer in Änon, in der Nähe von Salim, weil es dort reichlich Wasser gab. Und viele Leute kamen zu ihm, um sich taufen zu lassen. <sup>24</sup>Das war, bevor Johannes ins Gefängnis geworfen wurde. <sup>25</sup>Eines Tages fingen die Jünger des Johannes ein Streitgespräch mit einem Juden über die Reinigungsvorschriften an. <sup>26</sup>Daraufhin kamen sie zu Johannes und sagten: »Meister, der Mann, dem du auf der anderen Seite des Jordan begegnet bist und auf den du hingewiesen hast – der tauft auch Menschen. Und anstatt zu uns kommen nun alle zu ihm.« <sup>27</sup>Johannes erwiderte: »Ein Mensch kann sich nichts nehmen, wenn es ihm nicht vom Himmel her gegeben wird. <sup>28</sup>Ihr wisst selbst, dass ich euch ganz offen gesagt habe: ›Ich bin nicht der Christus. Ich bin von Gott beauftragt, ihm den Weg zu bereiten – mehr nicht.‹ <sup>29</sup>Wo die Braut hingeht, da ist der Bräutigam. Und der Freund des Bräutigams, der dasteht und ihm zuhört, freut sich an der Stimme des Bräutigams. Darüber freue auch ich mich – und meine Freude ist nun vollkommen. <sup>30</sup>Er muss immer größer werden und ich immer geringer. <sup>31</sup>Er ist von oben gekommen und ist größer als jeder andere. Ich bin von der Erde, und mein Verständnis beschränkt sich auf die irdischen Dinge. Davon kann ich sprechen. Er aber ist vom Himmel gekommen. <sup>32</sup>Er sagt, was er gesehen und gehört hat, doch niemand glaubt, was er ihnen sagt! <sup>33</sup>Wer ihm glaubt, bestätigt damit, dass Gott wahrhaftig ist. <sup>34</sup>Denn er ist von Gott gesandt. Und er spricht Gottes Worte, denn Gott gibt ihm seinen Geist ohne jede Einschränkung. <sup>35</sup>Der Vater liebt seinen Sohn und hat ihm Macht über alles gegeben. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>22</sup>Danach verließen Jesus und seine Jünger Jerusalem. Sie blieben aber noch eine Zeit lang in Judäa und tauften dort. <sup>23</sup>Zu dieser Zeit taufte Johannes der Täufer in Änon, in der Nähe von Salim, weil es dort reichlich Wasser gab. Und viele Leute kamen zu ihm, um sich taufen zu lassen. <sup>24</sup>Das war, bevor Johannes ins Gefängnis geworfen wurde. <sup>25</sup>Eines Tages fingen die Jünger des Johannes ein Streitgespräch mit einem Juden über die Reinigungsvorschriften an. <sup>26</sup>Daraufhin kamen sie zu Johannes und sagten: »Meister, der Mann, dem du auf der anderen Seite des Jordan begegnet bist und auf den du hingewiesen hast – der tauft auch Menschen. Und anstatt zu uns kommen nun alle zu ihm.« <sup>27</sup>Johannes erwiderte: »Ein Mensch kann sich nichts nehmen, wenn es ihm nicht vom Himmel her gegeben wird. <sup>28</sup>Ihr wisst selbst, dass ich euch ganz offen gesagt habe: ›Ich bin nicht der Christus. Ich bin von Gott beauftragt, ihm den Weg zu bereiten – mehr nicht.‹ <sup>29</sup>Wo die Braut hingeht, da ist der Bräutigam. Und der Freund des Bräutigams, der dasteht und ihm zuhört, freut sich an der Stimme des Bräutigams. Darüber freue auch ich mich – und meine Freude ist nun vollkommen. <sup>30</sup>Er muss immer größer werden und ich immer geringer. <sup>31</sup>Er ist von oben gekommen und ist größer als jeder andere. Ich bin von der Erde, und mein Verständnis beschränkt sich auf die irdischen Dinge. Davon kann ich sprechen. Er aber ist vom Himmel gekommen. <sup>32</sup>Er sagt, was er gesehen und gehört hat, doch niemand glaubt, was er ihnen sagt! <sup>33</sup>Wer ihm glaubt, bestätigt damit, dass Gott wahrhaftig ist. <sup>34</sup>Denn er ist von Gott gesandt. Und er spricht Gottes Worte, denn Gott gibt ihm seinen Geist ohne jede Einschränkung. <sup>35</sup>Der Vater liebt seinen Sohn und hat ihm Macht über alles gegeben. </div><p></p>",
         "url": "https://bibleserver.com/NLB/Johannes%203:22-35",
         "isOpen": false
       }
@@ -145,9 +165,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -196,8 +222,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -213,7 +260,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

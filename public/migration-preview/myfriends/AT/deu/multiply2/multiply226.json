@@ -47,9 +47,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -65,10 +71,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -99,9 +113,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -115,7 +135,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 6:12-19",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>12</sup>Nicht lange danach stieg Jesus auf einen Berg, um zu beten. Er betete die ganze Nacht hindurch zu Gott. <sup>13</sup>Bei Tagesanbruch rief er alle seine Jünger zusammen und wählte zwölf von ihnen aus, die er Apostel nannte. Dies sind ihre Namen: <sup>14</sup>Simon (den er auch Petrus nannte), Andreas (der Bruder von Petrus), Jakobus, Johannes, Philippus, Bartholomäus, <sup>15</sup>Matthäus, Thomas, Jakobus (der Sohn des Alphäus), Simon (der Zelot), <sup>16</sup>Judas (der Sohn des Jakobus) und Judas Iskariot (der ihn später verriet). <h3>Viele Menschen folgen Jesus</h3><sup>17</sup>Als Jesus und die Jünger wieder von dem Berg herunterkamen, befanden sie sich in einer weiten Ebene, umringt von den Anhängern von Jesus und vielen anderen Menschen. Es waren Leute aus ganz Judäa und Jerusalem und von weit her aus den nördlichen Küstengebieten von Tyrus und Sidon. <sup>18</sup>Sie waren gekommen, um ihn predigen zu hören und geheilt zu werden, und Jesus trieb viele böse Geister aus. <sup>19</sup>Alle wollten ihn berühren, weil eine heilende Kraft von ihm ausging, und alle wurden geheilt.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>12</sup>Nicht lange danach stieg Jesus auf einen Berg, um zu beten. Er betete die ganze Nacht hindurch zu Gott. <sup>13</sup>Bei Tagesanbruch rief er alle seine Jünger zusammen und wählte zwölf von ihnen aus, die er Apostel nannte. Dies sind ihre Namen: <sup>14</sup>Simon (den er auch Petrus nannte), Andreas (der Bruder von Petrus), Jakobus, Johannes, Philippus, Bartholomäus, <sup>15</sup>Matthäus, Thomas, Jakobus (der Sohn des Alphäus), Simon (der Zelot), <sup>16</sup>Judas (der Sohn des Jakobus) und Judas Iskariot (der ihn später verriet). <h3>Viele Menschen folgen Jesus</h3><sup>17</sup>Als Jesus und die Jünger wieder von dem Berg herunterkamen, befanden sie sich in einer weiten Ebene, umringt von den Anhängern von Jesus und vielen anderen Menschen. Es waren Leute aus ganz Judäa und Jerusalem und von weit her aus den nördlichen Küstengebieten von Tyrus und Sidon. <sup>18</sup>Sie waren gekommen, um ihn predigen zu hören und geheilt zu werden, und Jesus trieb viele böse Geister aus. <sup>19</sup>Alle wollten ihn berühren, weil eine heilende Kraft von ihm ausging, und alle wurden geheilt.</div><p></p>",
         "url": "https://bibleserver.com/NLB/Lukas%206:12-19",
         "isOpen": false
       }
@@ -145,9 +165,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -238,8 +264,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -255,7 +302,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

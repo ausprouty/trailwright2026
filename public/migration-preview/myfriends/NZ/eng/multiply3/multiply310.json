@@ -59,8 +59,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -82,7 +86,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -104,9 +110,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -148,7 +160,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -164,7 +178,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Acts 6:1-7 two times as others listen."
+          {
+            "text": "Read or watch Acts 6:1-7 two times as others listen."
+          }
         ]
       }
     },
@@ -172,7 +188,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 6:1-7",
-        "html": "<!-- begin bible --><h3>The Choosing of the Seven</h3><p><sup class=\"versenum\">1 </sup>In those days when the number of disciples was increasing, the Hellenistic Jews among them complained against the Hebraic Jews because their widows were being overlooked in the daily distribution of food.<sup class=\"versenum\">2 </sup>So the Twelve gathered all the disciples together and said, “It would not be right for us to neglect the ministry of the word of God in order to wait on tables.<sup class=\"versenum\">3 </sup>Brothers and sisters, choose seven men from among you who are known to be full of the Spirit and wisdom. We will turn this responsibility over to them<sup class=\"versenum\">4 </sup>and will give our attention to prayer and the ministry of the word.”</p><p><sup class=\"versenum\">5 </sup>This proposal pleased the whole group. They chose Stephen, a man full of faith and of the Holy Spirit; also Philip, Procorus, Nicanor, Timon, Parmenas, and Nicolas from Antioch, a convert to Judaism.<sup class=\"versenum\">6 </sup>They presented these men to the apostles, who prayed and laid their hands on them.</p><p><sup class=\"versenum\">7 </sup>So the word of God spread. The number of disciples in Jerusalem increased rapidly, and a large number of priests became obedient to the faith.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<h3>The Choosing of the Seven</h3><p><sup>1</sup>In those days when the number of disciples was increasing, the Hellenistic Jews among them complained against the Hebraic Jews because their widows were being overlooked in the daily distribution of food.<sup>2</sup>So the Twelve gathered all the disciples together and said, “It would not be right for us to neglect the ministry of the word of God in order to wait on tables.<sup>3</sup>Brothers and sisters, choose seven men from among you who are known to be full of the Spirit and wisdom. We will turn this responsibility over to them<sup>4</sup>and will give our attention to prayer and the ministry of the word.”</p><p><sup>5</sup>This proposal pleased the whole group. They chose Stephen, a man full of faith and of the Holy Spirit; also Philip, Procorus, Nicanor, Timon, Parmenas, and Nicolas from Antioch, a convert to Judaism.<sup>6</sup>They presented these men to the apostles, who prayed and laid their hands on them.</p><p><sup>7</sup>So the word of God spread. The number of disciples in Jerusalem increased rapidly, and a large number of priests became obedient to the faith.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Acts%206:1-7&version=NIV",
         "isOpen": false
       }
@@ -202,10 +218,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in the story?",
-          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in the story?"
+          },
+          {
+            "text": "What is being modeled about a Spirit-dependent life, making disciples or leadership?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -220,9 +244,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How are Jesus’ followers continuing His work of making disciples and church planting?",
-          "How is the gospel impacting people and society?",
-          "What barriers or obstacles were overcome and how were they overcome?"
+          {
+            "text": "How are Jesus’ followers continuing His work of making disciples and church planting?"
+          },
+          {
+            "text": "How is the gospel impacting people and society?"
+          },
+          {
+            "text": "What barriers or obstacles were overcome and how were they overcome?"
+          }
         ]
       }
     },
@@ -245,7 +275,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -265,7 +297,7 @@
                     "id": "popup_pop1",
                     "marker": "Acts 6:7",
                     "label": "Acts 6:7",
-                    "passage": "<p><sup class=\"versenum\">7&nbsp;</sup>So the word of God spread. The number of disciples in Jerusalem increased rapidly, and a large number of priests became obedient to the faith.</p>"
+                    "passage": "<p><sup>7</sup>So the word of God spread. The number of disciples in Jerusalem increased rapidly, and a large number of priests became obedient to the faith.</p>"
                   }
                 ],
                 "isOpen": false
@@ -315,9 +347,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Prayer, Care, Share",
-                  "Gospel",
-                  "Foundational Bible Studies."
+                  {
+                    "text": "Prayer, Care, Share"
+                  },
+                  {
+                    "text": "Gospel"
+                  },
+                  {
+                    "text": "Foundational Bible Studies."
+                  }
                 ]
               }
             }
@@ -338,8 +376,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -362,7 +404,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

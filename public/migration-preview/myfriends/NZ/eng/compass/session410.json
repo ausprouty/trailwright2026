@@ -22,22 +22,31 @@
       "data": {
         "style": "ordered",
         "items": [
-          "What did you experience with God this week?",
-          "In the last few days, did you have the opportunity to share an experience with God with someone close to you that doesn’t know Jesus yet? Or could you pray for them or help them practically?",
-          "Do you need God‘s help in an area of your life?"
+          {
+            "text": "What did you experience with God this week?"
+          },
+          {
+            "text": "In the last few days, did you have the opportunity to share an experience with God with someone close to you that doesn’t know Jesus yet? Or could you pray for them or help them practically?"
+          },
+          {
+            "text": "Do you need God‘s help in an area of your life?"
+          }
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where\nyou need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship\nwith God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -60,10 +69,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Read the passage silently. What words or phrases stick out?",
-          "One person reads the passage out loud.",
-          "One person retells the passage in his/her own words (Bibles closed).",
-          "If necessary, the others complement what was said (Bibles closed)."
+          {
+            "text": "Read the passage silently. What words or phrases stick out?"
+          },
+          {
+            "text": "One person reads the passage out loud."
+          },
+          {
+            "text": "One person retells the passage in his/her own words (Bibles closed)."
+          },
+          {
+            "text": "If necessary, the others complement what was said (Bibles closed)."
+          }
         ]
       }
     },
@@ -71,7 +88,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Luke 3:21-22",
-        "html": "<p class=\"bible\"><sup>21</sup>When all the people were being baptized, Jesus was baptized too. And as he was praying, heaven was opened<sup> 22 </sup>and the Holy Spirit descended on him in bodily form like a dove. And a voice came from heaven: “You are my Son, whom I love; with you I am well pleased.” </p><p class=\"bible\"></p>",
+        "html": "<p><sup>21</sup>When all the people were being baptized, Jesus was baptized too. And as he was praying, heaven was opened<sup> 22 </sup>and the Holy Spirit descended on him in bodily form like a dove. And a voice came from heaven: “You are my Son, whom I love; with you I am well pleased.” </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%203:21-22&version=TNIV",
         "isOpen": false
       }
@@ -80,7 +97,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Luke 4:1-4; 14",
-        "html": "<p class=\"bible\"><sup>1</sup>Jesus, full of the Holy Spirit, left the Jordan and was led by the Spirit into the wilderness, <sup>2</sup> where for forty days he was tempted by the devil. He ate nothing during those days, and at the end of them he was hungry. </p><p class=\"bible\"><sup>3</sup>The devil said to him, “If you are the Son of God, tell this stone to become bread.” </p><p class=\"bible\"><sup>4</sup>Jesus answered, “It is written: ‘Man shall not live on bread alone.’” </p><p class=\"bible\"><sup>14</sup> Jesus returned to Galilee in the power of the Spirit, and news about him spread through the whole countryside. </p><p class=\"bible\"><br><br></p>",
+        "html": "<p><sup>1</sup>Jesus, full of the Holy Spirit, left the Jordan and was led by the Spirit into the wilderness, <sup>2</sup> where for forty days he was tempted by the devil. He ate nothing during those days, and at the end of them he was hungry. </p><p><sup>3</sup>The devil said to him, “If you are the Son of God, tell this stone to become bread.” </p><p><sup>4</sup>Jesus answered, “It is written: ‘Man shall not live on bread alone.’” </p><p><sup>14</sup> Jesus returned to Galilee in the power of the Spirit, and news about him spread through the whole countryside. </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%204:1-4&version=TNIV",
         "isOpen": false
       }
@@ -89,7 +106,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 1:4-8",
-        "html": "<p class=\"bible\"><sup>4</sup>On one occasion, while he was eating with them, he gave them this command: “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about.<sup> 5 </sup>For John baptized with water, but in a few days you will be baptized with the Holy Spirit.” </p><p class=\"bible\"><sup>6</sup>Then they gathered around him and asked him, “Lord, are you at this time going to restore the kingdom to Israel?” </p><p class=\"bible\"><sup>7</sup>He said to them: “It is not for you to know the times or dates the Father has set by his own authority.<sup> 8 </sup>But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.” </p><p class=\"bible\"><br></p>",
+        "html": "<p><sup>4</sup>On one occasion, while he was eating with them, he gave them this command: “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about.<sup> 5 </sup>For John baptized with water, but in a few days you will be baptized with the Holy Spirit.” </p><p><sup>6</sup>Then they gathered around him and asked him, “Lord, are you at this time going to restore the kingdom to Israel?” </p><p><sup>7</sup>He said to them: “It is not for you to know the times or dates the Father has set by his own authority.<sup> 8 </sup>But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.” </p>",
         "url": "https://biblegateway.com/passage/?search=Acts%201:4-8&version=TNIV",
         "isOpen": false
       }
@@ -99,8 +116,29 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Everyone by themselves:<ul class=\"arrows\"><li> What words or phrases stick out now? Are there any differences to what you noticed before? </li><li>Why do you feel drawn to those words or phrases?</li><li>What could God be telling you?</li><li>What can you learn about mankind?</li></ul>",
-          "Share in the group."
+          {
+            "text": "Everyone by themselves:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "What words or phrases stick out now? Are there any differences to what you noticed before?"
+                },
+                {
+                  "text": "Why do you feel drawn to those words or phrases?"
+                },
+                {
+                  "text": "What could God be telling you?"
+                },
+                {
+                  "text": "What can you learn about mankind?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Share in the group."
+          }
         ]
       }
     },
@@ -124,10 +162,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Why does Jesus emphazise the word <span class=\"unknown\">“</span>wait“ in Acts 1,4?",
-          "Which connections can you find in the four passages?",
-          "What role does the Holy Spirit play in Stephen‘s live? Read Acts 6:5-10.",
-          "Are you ready to submit fully to the guidance of the Holy Spirit and to be empowered by him? To do so, the concept of spiritual bre-athing can help you (see also unit: <span class=\"unknown\">“</span>Filled“):"
+          {
+            "text": "Why does Jesus emphazise the word “wait“ in Acts 1,4?"
+          },
+          {
+            "text": "Which connections can you find in the four passages?"
+          },
+          {
+            "text": "What role does the Holy Spirit play in Stephen‘s live? Read Acts 6:5-10."
+          },
+          {
+            "text": "Are you ready to submit fully to the guidance of the Holy Spirit and to be empowered by him? To do so, the concept of spiritual bre-athing can help you (see also unit: “Filled“):"
+          }
         ]
       }
     },
@@ -138,21 +184,22 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Exhale: Confess to God, where you were living and thinking in di-saccord to his will. Commit to him fully and anew."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Inhale: Ask Got to fill and empower you anew with the Holy Spirit."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray that he fills you anew with God’s love for your student friends. Pray for wisdom and courage, that you can share an experience with God with someone that does not know Jesus personally yet. Pray that you can pray for them, so they can experience God themselves."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Exhale: Confess to God, where you were living and thinking in di-saccord\nto his will. Commit to him fully and anew."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Inhale: Ask Got to fill and empower you anew with the Holy Spirit."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray that he fills you anew with God’s love for your student friends. Pray\nfor wisdom and courage, that you can share an experience with God with\nsomeone that does not know Jesus personally yet. Pray that you can pray for\nthem, so they can experience God themselves."
+          }
+        ]
       }
     },
     {

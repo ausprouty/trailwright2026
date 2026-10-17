@@ -59,8 +59,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -82,7 +86,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -104,9 +110,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -148,7 +160,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -164,7 +178,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Acts 15:36-16:5 two times as others listen."
+          {
+            "text": "Read or watch Acts 15:36-16:5 two times as others listen."
+          }
         ]
       }
     },
@@ -172,7 +188,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 15:36-16:5",
-        "html": "<!-- begin bible --><h3>Disagreement Between Paul and Barnabas</h3><p><sup class=\"versenum\">36 </sup>Some time later Paul said to Barnabas, “Let us go back and visit the believers in all the towns where we preached the word of the Lord and see how they are doing.”<sup class=\"versenum\">37 </sup>Barnabas wanted to take John, also called Mark, with them,<sup class=\"versenum\">38 </sup>but Paul did not think it wise to take him, because he had deserted them in Pamphylia and had not continued with them in the work.<sup class=\"versenum\">39 </sup>They had such a sharp disagreement that they parted company. Barnabas took Mark and sailed for Cyprus,<sup class=\"versenum\">40 </sup>but Paul chose Silas and left, commended by the believers to the grace of the Lord.<sup class=\"versenum\">41 </sup>He went through Syria and Cilicia, strengthening the churches.</p><h3>Timothy Joins Paul and Silas</h3><p><sup class=\"versenum\">16:1 </sup>Paul came to Derbe and then to Lystra, where a disciple named Timothy lived, whose mother was Jewish and a believer but whose father was a Greek.<sup class=\"versenum\">2 </sup>The believers at Lystra and Iconium spoke well of him.<sup class=\"versenum\">3 </sup>Paul wanted to take him along on the journey, so he circumcised him because of the Jews who lived in that area, for they all knew that his father was a Greek.<sup class=\"versenum\">4 </sup>As they traveled from town to town, they delivered the decisions reached by the apostles and elders in Jerusalem for the people to obey.<sup class=\"versenum\">5 </sup>So the churches were strengthened in the faith and grew daily in numbers.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<h3>Disagreement Between Paul and Barnabas</h3><p><sup>36</sup>Some time later Paul said to Barnabas, “Let us go back and visit the believers in all the towns where we preached the word of the Lord and see how they are doing.”<sup>37</sup>Barnabas wanted to take John, also called Mark, with them,<sup>38</sup>but Paul did not think it wise to take him, because he had deserted them in Pamphylia and had not continued with them in the work.<sup>39</sup>They had such a sharp disagreement that they parted company. Barnabas took Mark and sailed for Cyprus,<sup>40</sup>but Paul chose Silas and left, commended by the believers to the grace of the Lord.<sup>41</sup>He went through Syria and Cilicia, strengthening the churches.</p><h3>Timothy Joins Paul and Silas</h3><p><sup>16:1</sup>Paul came to Derbe and then to Lystra, where a disciple named Timothy lived, whose mother was Jewish and a believer but whose father was a Greek.<sup>2</sup>The believers at Lystra and Iconium spoke well of him.<sup>3</sup>Paul wanted to take him along on the journey, so he circumcised him because of the Jews who lived in that area, for they all knew that his father was a Greek.<sup>4</sup>As they traveled from town to town, they delivered the decisions reached by the apostles and elders in Jerusalem for the people to obey.<sup>5</sup>So the churches were strengthened in the faith and grew daily in numbers.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Acts%2016:1-5&version=NIV",
         "isOpen": false
       }
@@ -215,10 +231,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in the story?",
-          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in the story?"
+          },
+          {
+            "text": "What is being modeled about a Spirit-dependent life, making disciples or leadership?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -233,9 +257,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How are Jesus’ followers continuing His work of making disciples and church planting?",
-          "How is the gospel impacting people and society?",
-          "What barriers or obstacles were overcome and how were they overcome?"
+          {
+            "text": "How are Jesus’ followers continuing His work of making disciples and church planting?"
+          },
+          {
+            "text": "How is the gospel impacting people and society?"
+          },
+          {
+            "text": "What barriers or obstacles were overcome and how were they overcome?"
+          }
         ]
       }
     },
@@ -258,7 +288,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -272,25 +304,25 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "Paul wanted to continue following his calling to bring about obedience to the faith among all peoples ({Romans 1:5}).&nbsp;{Acts 15:32}),&nbsp;\n\n{Acts 16:5}).",
+                "text": "Paul wanted to continue following his calling to bring about obedience to the faith among all peoples ({Romans 1:5}). {Acts 15:32}), {Acts 16:5}).",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Romans 1:5",
                     "label": "Romans 1:5",
-                    "passage": "<p><sup class=\"versenum\">5&nbsp;</sup>Through him we received grace and apostleship to call all the Gentiles to the obedience that comes from faith for his name’s sake.</p>"
+                    "passage": "<p><sup>5</sup>Through him we received grace and apostleship to call all the Gentiles to the obedience that comes from faith for his name’s sake.</p>"
                   },
                   {
                     "id": "popup_pop2",
                     "marker": "Acts 15:32",
                     "label": "Acts 15:32",
-                    "passage": "<p><sup class=\"versenum\">32&nbsp;</sup>Judas and Silas, who themselves were prophets, said much to encourage and strengthen the believers.</p>"
+                    "passage": "<p><sup>32</sup>Judas and Silas, who themselves were prophets, said much to encourage and strengthen the believers.</p>"
                   },
                   {
                     "id": "popup_pop3",
                     "marker": "Acts 16:5",
                     "label": "Acts 16:5",
-                    "passage": "<p><sup class=\"versenum\">5&nbsp;</sup>So the churches were strengthened in the faith and grew daily in numbers.</p>"
+                    "passage": "<p><sup>5</sup>So the churches were strengthened in the faith and grew daily in numbers.</p>"
                   }
                 ],
                 "isOpen": false
@@ -340,9 +372,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Prayer, Care, Share",
-                  "Gospel",
-                  "Foundational Bible Studies."
+                  {
+                    "text": "Prayer, Care, Share"
+                  },
+                  {
+                    "text": "Gospel"
+                  },
+                  {
+                    "text": "Foundational Bible Studies."
+                  }
                 ]
               }
             }
@@ -363,8 +401,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -387,7 +429,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

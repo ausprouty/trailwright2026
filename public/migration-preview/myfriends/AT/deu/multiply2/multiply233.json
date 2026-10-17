@@ -47,9 +47,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -65,10 +71,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -99,9 +113,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -115,7 +135,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Markus 5:1-20",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>So gelangten sie an die andere Seite des Sees ins Gebiet der Gerasener . <sup>2</sup>Jesus war kaum aus dem Boot gestiegen, als ihm von den Grabhöhlen her ein Mann entgegenlief, der von einem bösen Geist besessen war. <sup>3</sup>Dieser Mann lebte in den Höhlen und war selbst mit einer Kette von niemandem mehr zu halten. <sup>4</sup>Jedes Mal, wenn man ihn in Fesseln legte – was oft geschah –, streifte er die Ketten von den Handgelenken und zerriss die Fußfesseln. Niemand war stark genug, ihn zu bändigen. <sup>5</sup>Tag und Nacht war er in den Grabhöhlen und wanderte durch die umliegenden Hügel, schrie und schlug sich selbst mit Steinen. <sup>6</sup>Der Mann entdeckte Jesus schon von Weitem. Er lief auf ihn zu, warf sich vor ihm nieder, <sup>7</sup>stieß einen schrecklichen Schrei aus und rief: »Was willst du von mir, Jesus, Sohn des höchsten Gottes? Ich beschwöre dich bei Gott: Quäle mich nicht!« <sup>8</sup>Denn Jesus hatte schon dem Geist befohlen: »Verlass diesen Mann, du böser Geist!« <sup>9</sup>Dann fragte Jesus: »Wie heißt du?« Der Geist erwiderte: »Legion, denn in diesem Mann sind viele von uns.« <sup>10</sup>Wieder und wieder flehte er ihn an, sie nicht aus dieser Gegend fortzuschicken. <sup>11</sup>In der Nähe weidete gerade eine große Schweineherde an einem Abhang. <sup>12</sup>»Lass uns in diese Schweine fahren«, flehten die Geister. <sup>13</sup>Jesus erlaubte es ihnen. Da fuhren die bösen Geister aus dem Mann in die Schweine, und die ganze Herde von zweitausend Tieren stürzte sich den steilen Abhang hinunter in den See und ertrank. <sup>14</sup>Die Hirten flohen und erzählten in der Stadt und in der ganzen Gegend, was geschehen war. Da kamen die Menschen von überall herbeigelaufen, um es mit eigenen Augen zu sehen. <sup>15</sup>Schon bald hatte sich eine große Menge um Jesus versammelt. Der Mann, der von Dämonen besessen gewesen war, saß ordentlich gekleidet da und war bei klarem Verstand. Als das die Leute sahen, bekamen sie Angst. <sup>16</sup>Diejenigen, die miterlebt hatten, was mit dem Mann und den Schweinen geschehen war, erzählten es den anderen. <sup>17</sup>Da baten sie Jesus fortzugehen und sie in Ruhe zu lassen. <sup>18</sup>Als Jesus wieder ins Boot stieg, bat ihn der Mann, der von Dämonen besessen gewesen war, mit ihm gehen zu dürfen. <sup>19</sup>Doch Jesus sagte zu ihm: »Nein. Geh nach Hause zu deiner Familie und erzähle ihnen, was der Herr für dich getan hat und wie gnädig er gewesen ist.« <sup>20</sup>Da wanderte der Mann durch das Gebiet der Zehn Städte und erzählte allen Menschen von dem, was Jesus für ihn getan hatte; und alle staunten über das, was er ihnen berichtete.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>1</sup>So gelangten sie an die andere Seite des Sees ins Gebiet der Gerasener . <sup>2</sup>Jesus war kaum aus dem Boot gestiegen, als ihm von den Grabhöhlen her ein Mann entgegenlief, der von einem bösen Geist besessen war. <sup>3</sup>Dieser Mann lebte in den Höhlen und war selbst mit einer Kette von niemandem mehr zu halten. <sup>4</sup>Jedes Mal, wenn man ihn in Fesseln legte – was oft geschah –, streifte er die Ketten von den Handgelenken und zerriss die Fußfesseln. Niemand war stark genug, ihn zu bändigen. <sup>5</sup>Tag und Nacht war er in den Grabhöhlen und wanderte durch die umliegenden Hügel, schrie und schlug sich selbst mit Steinen. <sup>6</sup>Der Mann entdeckte Jesus schon von Weitem. Er lief auf ihn zu, warf sich vor ihm nieder, <sup>7</sup>stieß einen schrecklichen Schrei aus und rief: »Was willst du von mir, Jesus, Sohn des höchsten Gottes? Ich beschwöre dich bei Gott: Quäle mich nicht!« <sup>8</sup>Denn Jesus hatte schon dem Geist befohlen: »Verlass diesen Mann, du böser Geist!« <sup>9</sup>Dann fragte Jesus: »Wie heißt du?« Der Geist erwiderte: »Legion, denn in diesem Mann sind viele von uns.« <sup>10</sup>Wieder und wieder flehte er ihn an, sie nicht aus dieser Gegend fortzuschicken. <sup>11</sup>In der Nähe weidete gerade eine große Schweineherde an einem Abhang. <sup>12</sup>»Lass uns in diese Schweine fahren«, flehten die Geister. <sup>13</sup>Jesus erlaubte es ihnen. Da fuhren die bösen Geister aus dem Mann in die Schweine, und die ganze Herde von zweitausend Tieren stürzte sich den steilen Abhang hinunter in den See und ertrank. <sup>14</sup>Die Hirten flohen und erzählten in der Stadt und in der ganzen Gegend, was geschehen war. Da kamen die Menschen von überall herbeigelaufen, um es mit eigenen Augen zu sehen. <sup>15</sup>Schon bald hatte sich eine große Menge um Jesus versammelt. Der Mann, der von Dämonen besessen gewesen war, saß ordentlich gekleidet da und war bei klarem Verstand. Als das die Leute sahen, bekamen sie Angst. <sup>16</sup>Diejenigen, die miterlebt hatten, was mit dem Mann und den Schweinen geschehen war, erzählten es den anderen. <sup>17</sup>Da baten sie Jesus fortzugehen und sie in Ruhe zu lassen. <sup>18</sup>Als Jesus wieder ins Boot stieg, bat ihn der Mann, der von Dämonen besessen gewesen war, mit ihm gehen zu dürfen. <sup>19</sup>Doch Jesus sagte zu ihm: »Nein. Geh nach Hause zu deiner Familie und erzähle ihnen, was der Herr für dich getan hat und wie gnädig er gewesen ist.« <sup>20</sup>Da wanderte der Mann durch das Gebiet der Zehn Städte und erzählte allen Menschen von dem, was Jesus für ihn getan hatte; und alle staunten über das, was er ihnen berichtete.</div><p></p>",
         "url": "https://bibleserver.com/NLB/Markus%205:1-20",
         "isOpen": false
       }
@@ -145,9 +165,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -196,8 +222,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -213,7 +260,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

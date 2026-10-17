@@ -5,7 +5,7 @@
   "htmlLang": "en",
   "direction": "ltr",
   "numberSystem": "latn",
-  "series": "multiply",
+  "series": "multiply1",
   "lessonId": "multiply112",
   "sortOrder": 11,
   "blocks": [
@@ -42,9 +42,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How have you experienced God in your life this week?",
-          "How have you experienced God working through your life this week?",
-          "Were you able to tell anyone this week about what God is doing in your life or pray with anyone?"
+          {
+            "text": "How have you experienced God in your life this week?"
+          },
+          {
+            "text": "How have you experienced God working through your life this week?"
+          },
+          {
+            "text": "Were you able to tell anyone this week about what God is doing in your life or pray with anyone?"
+          }
         ]
       }
     },
@@ -60,7 +66,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Do you need any help from God in your life?"
+          {
+            "text": "Do you need any help from God in your life?"
+          }
         ]
       }
     },
@@ -122,7 +130,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Bible",
-        "html": "<div class=\"bible\"><div class=\"bible\"><sup class=\"versenum\">1 2 </sup>until the day he was taken up to heaven, after giving instructions through the Holy Spirit to the apostles he had chosen.<sup class=\"versenum\">3 </sup>After his suffering, he presented himself to them and gave many convincing proofs that he was alive. He appeared to them over a period of forty days and spoke about the kingdom of God.<sup class=\"versenum\">4 </sup>On one occasion, while he was eating with them, he gave them this command: “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about.<sup class=\"versenum\">5 </sup>For John baptized with water, but in a few days you will be baptized with the Holy Spirit.” <p><sup class=\"versenum\">6 </sup>Then they gathered around him and asked him, “Lord, are you at this time going to restore the kingdom to Israel?”</p><p><sup class=\"versenum\">7 </sup>He said to them: “It is not for you to know the times or dates the Father has set by his own authority.<sup class=\"versenum\">8 </sup>But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”</p></div><!-- end bible --></div>",
+        "html": "<sup>12</sup>until the day he was taken up to heaven, after giving instructions through the Holy Spirit to the apostles he had chosen.<sup>3</sup>After his suffering, he presented himself to them and gave many convincing proofs that he was alive. He appeared to them over a period of forty days and spoke about the kingdom of God.<sup>4</sup>On one occasion, while he was eating with them, he gave them this command: “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about.<sup>5</sup>For John baptized with water, but in a few days you will be baptized with the Holy Spirit.” <p><sup>6</sup>Then they gathered around him and asked him, “Lord, are you at this time going to restore the kingdom to Israel?”</p><p><sup>7</sup>He said to them: “It is not for you to know the times or dates the Father has set by his own authority.<sup>8</sup>But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”</p>",
         "url": "https://biblegateway.com/passage/?search=Acts%201:1-8&version=NIV",
         "isOpen": false
       }
@@ -139,12 +147,41 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What stands out for you in this passage?",
-          "What do you like and what bothers you in this passage?",
-          "Why do you think this passage is important?",
-          "What are some possible ways a person could apply this passage? Is there: <ul><li>A behaviour to change?</li><li>A promise to claim?</li><li>An example to follow?</li><li>A command to obey?</li></ul>",
-          "Ask God what He wants you to do in response to the passage.",
-          "Share this with the group"
+          {
+            "text": "What stands out for you in this passage?"
+          },
+          {
+            "text": "What do you like and what bothers you in this passage?"
+          },
+          {
+            "text": "Why do you think this passage is important?"
+          },
+          {
+            "text": "What are some possible ways a person could apply this passage? Is there:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "A behaviour to change?"
+                },
+                {
+                  "text": "A promise to claim?"
+                },
+                {
+                  "text": "An example to follow?"
+                },
+                {
+                  "text": "A command to obey?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Ask God what He wants you to do in response to the passage."
+          },
+          {
+            "text": "Share this with the group"
+          }
         ]
       }
     },
@@ -160,7 +197,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -210,9 +249,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Success in witnessing is simply taking the initiative to share Christ in the power of the Holy Spirit and leaving the results to God.",
-          "Review the Spiritual Breathing principle and give personal opportunity to Exhale and Inhale",
-          "Take a few minutes now, working through these questions, and be ready for the next open door God gives you to share your story."
+          {
+            "text": "Success in witnessing is simply taking the initiative to share Christ in the power of the Holy Spirit and leaving the results to God."
+          },
+          {
+            "text": "Review the Spiritual Breathing principle and give personal opportunity to Exhale and Inhale"
+          },
+          {
+            "text": "Take a few minutes now, working through these questions, and be ready for the next open door God gives you to share your story."
+          }
         ]
       }
     },
@@ -227,10 +272,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What was my life like that will relate most to the non-Christian?",
-          "What did my life revolve around the most? What did I get my security or happiness from? (The non-Christian is relying on something external to give them happiness)",
-          "How did those areas begin to let me down?",
-          "What is one word that captures this feeling? For example: empty, lost, etc."
+          {
+            "text": "What was my life like that will relate most to the non-Christian?"
+          },
+          {
+            "text": "What did my life revolve around the most? What did I get my security or happiness from? (The non-Christian is relying on something external to give them happiness)"
+          },
+          {
+            "text": "How did those areas begin to let me down?"
+          },
+          {
+            "text": "What is one word that captures this feeling? For example: empty, lost, etc."
+          }
         ]
       }
     },
@@ -245,9 +298,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What was my reaction when I first heard about Jesus?",
-          "When did my attitude about Jesus begin to turn around? Why?",
-          "What is one word that captures this feeling/change? For example: grace, amazed, etc?"
+          {
+            "text": "What was my reaction when I first heard about Jesus?"
+          },
+          {
+            "text": "When did my attitude about Jesus begin to turn around? Why?"
+          },
+          {
+            "text": "What is one word that captures this feeling/change? For example: grace, amazed, etc?"
+          }
         ]
       }
     },
@@ -262,9 +321,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What specific changes have taken place in your life since giving control of your life to Jesus?",
-          "How have your motivations in life changed since becoming a Christian?",
-          "What is one word that captures what life is like now? For example: peace, hope, etc."
+          {
+            "text": "What specific changes have taken place in your life since giving control of your life to Jesus?"
+          },
+          {
+            "text": "How have your motivations in life changed since becoming a Christian?"
+          },
+          {
+            "text": "What is one word that captures what life is like now? For example: peace, hope, etc."
+          }
         ]
       }
     },
@@ -280,16 +345,22 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What is God revealing as your next steps this week with him and others?",
-          "Share this step with the group and ask someone to pray for you as you take this step in the power of the Holy Spirit.",
-          "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle."
+          {
+            "text": "What is God revealing as your next steps this week with him and others?"
+          },
+          {
+            "text": "Share this step with the group and ask someone to pray for you as you take this step in the power of the Holy Spirit."
+          },
+          {
+            "text": "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle."
+          }
         ]
       }
     },
     {
       "type": "iWill",
       "data": {
-        "storageKey": "multiply-multiply112-i-will"
+        "storageKey": "multiply1-multiply112-i-will"
       }
     }
   ]

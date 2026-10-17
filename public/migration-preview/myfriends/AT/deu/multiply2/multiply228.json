@@ -47,9 +47,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -65,10 +71,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -99,9 +113,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -133,7 +153,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 6:27-49",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>27</sup>Doch wenn ihr bereit seid, wirklich zu hören, dann sage ich euch: Liebt eure Feinde. Tut denen Gutes, die euch hassen. <sup>28</sup>Betet für das Glück derer, die euch verfluchen. Betet für die, die euch verletzen. <sup>29</sup>Wenn jemand dich auf die eine Wange schlägt, dann halte ihm auch die andere hin. Wenn jemand deinen Mantel will, biete ihm auch dein Hemd an. <sup>30</sup>Wer dich bittet, dem gib, was du hast; und wenn dir etwas weggenommen wird, versuche nicht, es wiederzubekommen. <sup>31</sup>Behandle andere so, wie du von ihnen behandelt werden möchtest. <sup>32</sup>Glaubt ihr, ihr hättet dafür Anerkennung verdient, dass ihr die liebt, die euch auch lieben? Das tun sogar die Sünder! <sup>33</sup>Und wenn ihr nur denen Gutes erweist, die euch Gutes tun, was ist daran so anerkennenswert? Selbst Sünder verhalten sich so! <sup>34</sup>Oder wenn ihr nur denen Geld leiht, die es euch zurückzahlen können, was ist daran außergewöhnlich? Selbst Sünder leihen ihresgleichen Geld in der Hoffnung, die volle Summe zurückzuerhalten. <sup>35</sup>Liebt eure Feinde! Erweist ihnen Gutes! Leiht ihnen Geld! Und macht euch keine Sorgen, weil sie es euch vielleicht nicht wiedergeben werden. Dann wird euer Lohn im Himmel groß sein und ihr handelt wirklich wie Kinder des Allerhöchsten, denn er erweist auch den Undankbaren und den Bösen Gutes. <sup>36</sup>Ihr sollt gütig sein, wie euer Vater gütig ist. <h3>Andere nicht verurteilen</h3><sup>37</sup>Hört auf, andere zu verurteilen, und ihr werdet auch nicht verurteilt werden. Hört auf, andere zu tadeln, oder es wird euch ebenso ergehen. Vergebt, und euch wird auch vergeben werden. <sup>38</sup>Gebt, und ihr werdet bekommen. Was ihr verschenkt, wird anständig, ja großzügig bemessen, mit beträchtlicher Zugabe zu euch zurückfließen. Nach dem Maß, mit dem ihr gebt, werdet ihr zurückbekommen.« <sup>39</sup>Er gab ihnen auch folgendes Gleichnis: »Was nützt es, wenn ein Blinder den anderen führt? Er wird in eine Grube fallen und den anderen mitreißen. <sup>40</sup>Ein Schüler ist nicht besser als sein Lehrer. Aber der Schüler, der hart arbeitet, kann werden wie sein Lehrer. <sup>41</sup>Was hältst du dich mit dem Splitter im Auge deines Freundes auf, wenn du einen Balken im eigenen Auge hast? <sup>42</sup>Wie kommst du auf den Gedanken zu sagen: ›Freund, lass mich dir helfen, diesen Splitter aus deinem Auge zu ziehen‹, wenn du nicht über den Balken in deinem eigenen Auge hinausschauen kannst? Du Heuchler! Entferne zuerst einmal den Balken aus deinem eigenen Auge; dann wirst du vielleicht gut genug sehen, um den Splitter aus dem Auge deines Freundes zu ziehen. <h3>Der Baum und seine Früchte</h3><sup>43</sup>Ein guter Baum kann keine schlechten Früchte tragen und ein schlechter Baum keine guten. <sup>44</sup>Man erkennt einen Baum an seiner Frucht. Feigen wachsen nicht an Dornensträuchern und Weintrauben nicht an Brombeerbüschen. <sup>45</sup>Ein guter Mensch bringt aus einem guten Herzen gute Taten hervor, und ein böser Mensch bringt aus einem bösen Herzen böse Taten hervor. Was immer in deinem Herzen ist, das bestimmt auch dein Reden. <h3>Auf ein festes Fundament bauen</h3><sup>46</sup>Warum nennt ihr mich also ›Herr‹, wenn ihr nicht tut, was ich sage? <sup>47</sup>Ich sage euch, wie es ist, wenn jemand zu mir kommt, auf meine Worte hört und danach handelt. <sup>48</sup>Das ist wie bei einem Menschen, der ein Haus mit festem Fundament auf einen Felsen baut. Wenn es dann zu einer Überschwemmung kommt und die Wellen gegen das Haus schlagen, steht das Haus fest, weil es solide gebaut wurde. <sup>49</sup>Wer aber hört und nicht danach handelt, gleicht einem Menschen, der ein Haus ohne Fundament baut. Wenn dann die Flut kommt, stürzt das Haus ein, und es bleibt nichts als ein Trümmerhaufen.« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>27</sup>Doch wenn ihr bereit seid, wirklich zu hören, dann sage ich euch: Liebt eure Feinde. Tut denen Gutes, die euch hassen. <sup>28</sup>Betet für das Glück derer, die euch verfluchen. Betet für die, die euch verletzen. <sup>29</sup>Wenn jemand dich auf die eine Wange schlägt, dann halte ihm auch die andere hin. Wenn jemand deinen Mantel will, biete ihm auch dein Hemd an. <sup>30</sup>Wer dich bittet, dem gib, was du hast; und wenn dir etwas weggenommen wird, versuche nicht, es wiederzubekommen. <sup>31</sup>Behandle andere so, wie du von ihnen behandelt werden möchtest. <sup>32</sup>Glaubt ihr, ihr hättet dafür Anerkennung verdient, dass ihr die liebt, die euch auch lieben? Das tun sogar die Sünder! <sup>33</sup>Und wenn ihr nur denen Gutes erweist, die euch Gutes tun, was ist daran so anerkennenswert? Selbst Sünder verhalten sich so! <sup>34</sup>Oder wenn ihr nur denen Geld leiht, die es euch zurückzahlen können, was ist daran außergewöhnlich? Selbst Sünder leihen ihresgleichen Geld in der Hoffnung, die volle Summe zurückzuerhalten. <sup>35</sup>Liebt eure Feinde! Erweist ihnen Gutes! Leiht ihnen Geld! Und macht euch keine Sorgen, weil sie es euch vielleicht nicht wiedergeben werden. Dann wird euer Lohn im Himmel groß sein und ihr handelt wirklich wie Kinder des Allerhöchsten, denn er erweist auch den Undankbaren und den Bösen Gutes. <sup>36</sup>Ihr sollt gütig sein, wie euer Vater gütig ist. <h3>Andere nicht verurteilen</h3><sup>37</sup>Hört auf, andere zu verurteilen, und ihr werdet auch nicht verurteilt werden. Hört auf, andere zu tadeln, oder es wird euch ebenso ergehen. Vergebt, und euch wird auch vergeben werden. <sup>38</sup>Gebt, und ihr werdet bekommen. Was ihr verschenkt, wird anständig, ja großzügig bemessen, mit beträchtlicher Zugabe zu euch zurückfließen. Nach dem Maß, mit dem ihr gebt, werdet ihr zurückbekommen.« <sup>39</sup>Er gab ihnen auch folgendes Gleichnis: »Was nützt es, wenn ein Blinder den anderen führt? Er wird in eine Grube fallen und den anderen mitreißen. <sup>40</sup>Ein Schüler ist nicht besser als sein Lehrer. Aber der Schüler, der hart arbeitet, kann werden wie sein Lehrer. <sup>41</sup>Was hältst du dich mit dem Splitter im Auge deines Freundes auf, wenn du einen Balken im eigenen Auge hast? <sup>42</sup>Wie kommst du auf den Gedanken zu sagen: ›Freund, lass mich dir helfen, diesen Splitter aus deinem Auge zu ziehen‹, wenn du nicht über den Balken in deinem eigenen Auge hinausschauen kannst? Du Heuchler! Entferne zuerst einmal den Balken aus deinem eigenen Auge; dann wirst du vielleicht gut genug sehen, um den Splitter aus dem Auge deines Freundes zu ziehen. <h3>Der Baum und seine Früchte</h3><sup>43</sup>Ein guter Baum kann keine schlechten Früchte tragen und ein schlechter Baum keine guten. <sup>44</sup>Man erkennt einen Baum an seiner Frucht. Feigen wachsen nicht an Dornensträuchern und Weintrauben nicht an Brombeerbüschen. <sup>45</sup>Ein guter Mensch bringt aus einem guten Herzen gute Taten hervor, und ein böser Mensch bringt aus einem bösen Herzen böse Taten hervor. Was immer in deinem Herzen ist, das bestimmt auch dein Reden. <h3>Auf ein festes Fundament bauen</h3><sup>46</sup>Warum nennt ihr mich also ›Herr‹, wenn ihr nicht tut, was ich sage? <sup>47</sup>Ich sage euch, wie es ist, wenn jemand zu mir kommt, auf meine Worte hört und danach handelt. <sup>48</sup>Das ist wie bei einem Menschen, der ein Haus mit festem Fundament auf einen Felsen baut. Wenn es dann zu einer Überschwemmung kommt und die Wellen gegen das Haus schlagen, steht das Haus fest, weil es solide gebaut wurde. <sup>49</sup>Wer aber hört und nicht danach handelt, gleicht einem Menschen, der ein Haus ohne Fundament baut. Wenn dann die Flut kommt, stürzt das Haus ein, und es bleibt nichts als ein Trümmerhaufen.« </div><p></p>",
         "url": "https://bibleserver.com/NLB/Lukas%206:27-49",
         "isOpen": false
       }
@@ -163,9 +183,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -214,8 +240,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -231,7 +278,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

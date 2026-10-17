@@ -60,21 +60,7 @@ function escapeHtml(value: string): string {
     .replaceAll('"', '&quot;');
 }
 
-function removeClassName($: CheerioAPI, $scope: Cheerio<AnyNode>, className: string): void {
-  $scope.find(`.${className}`).each((_, el) => {
-    const $el = $(el);
 
-    const classes = ($el.attr('class') || '')
-      .split(/\s+/)
-      .filter((item) => item && item !== className);
-
-    if (classes.length > 0) {
-      $el.attr('class', classes.join(' '));
-    } else {
-      $el.removeAttr('class');
-    }
-  });
-}
 
 function getPopupPassageHtml($: CheerioAPI, $popup: Cheerio<AnyNode>): string {
   const pieces: string[] = [];
@@ -138,12 +124,24 @@ function moveTrailingTextAfterPopupIntoPreviousParagraph(
   $previousParagraph.append(escapeHtml(trailingText));
   $(nextNode).remove();
 }
+function unwrapLegacyNobreak($: CheerioAPI, $scope: Cheerio<AnyNode>): void {
+  // Handle descendants.
+  $scope.find('li.nobreak').each((_, el) => {
+    const $el = $(el);
+    $el.replaceWith($el.contents());
+  });
+
+  // Handle the scope itself, if necessary.
+  if ($scope.is('li.nobreak')) {
+    $scope.removeClass('nobreak');
+  }
+}
 
 export function extractPopupBibleReferences(
   $: CheerioAPI,
   $scope: Cheerio<AnyNode>,
 ): PopupBibleReferenceResult {
-  removeClassName($, $scope, 'nobreak');
+  unwrapLegacyNobreak($, $scope);
 
   const popupPassages = new Map<string, string>();
 

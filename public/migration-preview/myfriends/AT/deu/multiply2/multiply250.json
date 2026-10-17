@@ -47,9 +47,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -65,10 +71,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -99,9 +113,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -109,7 +129,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Johannes 19:31-42",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>31</sup>Die führenden Männer des jüdischen Volkes wollten die Gekreuzigten nicht bis zum nächsten Tag, einem Sabbat – der wegen des Passahfestes noch dazu ein besonderer Sabbat war –, am Kreuz hängen lassen. Um den Tod schneller herbeizuführen, baten sie Pilatus, dass man ihnen die Beine brach. Dann konnten die Leichname vom Kreuz abgenommen werden. <sup>32</sup>Da kamen die Soldaten und brachen den beiden Männern, die mit Jesus gekreuzigt worden waren, die Beine. <sup>33</sup>Doch als sie zu Jesus kamen, sahen sie, dass er schon tot war, deshalb brachen sie ihm nicht die Beine. <sup>34</sup>Einer der Soldaten bohrte jedoch einen Speer in seine Seite, und Blut und Wasser flossen heraus. <sup>35</sup>Dieser Bericht stammt von einem Augenzeugen. Alles, was er sagt, ist zuverlässig und wahr; er berichtet darüber, damit auch ihr zum Glauben findet. <sup>36</sup>Diese Dinge sind geschehen, damit sich erfüllt, was in der Schrift vorausgesagt ist: »Nicht einer seiner Knochen wird zerbrochen werden« , <sup>37</sup>und: »Sie werden auf den schauen, den sie durchbohrt haben« . <h3>Die Grablegung</h3><sup>38</sup>Danach bat Josef von Arimathäa Pilatus um die Erlaubnis, den Leichnam vom Kreuz abnehmen zu dürfen. Er war insgeheim ein Jünger von Jesus, denn er fürchtete sich vor den führenden Juden. Als Pilatus es ihm gestattete, ging er und holte den Leichnam. <sup>39</sup>Auch Nikodemus, der Jesus einmal in der Nacht aufgesucht hatte, kam und brachte zum Einbalsamieren etwa dreißig Kilogramm Myrrhe und Aloe mit. <sup>40</sup>Gemeinsam wickelten sie den Leichnam mit den Kräutern in lange Leinentücher, wie es bei den Juden vor dem Begräbnis Brauch ist. <sup>41</sup>Der Ort der Kreuzigung befand sich in der Nähe eines Gartens; dort lag ein neues Grab, das noch nie benutzt worden war. <sup>42</sup>Und weil es der Tag der Vorbereitung für das Passahfest war und das Grab sich in der Nähe befand, bestatteten sie Jesus dort. <!-- end bible --></div><div><!-- begin bible --><sup>20:1</sup>Früh am ersten Tag der Woche, als es noch dunkel war, kam Maria Magdalena zum Grab und fand den Stein vom Eingang weggerollt. <sup>2</sup>Sie lief zu Simon Petrus und dem anderen Jünger, den Jesus lieb hatte, und sagte: »Sie haben den Herrn aus dem Grab weggenommen, und ich weiß nicht, wo sie ihn hingebracht haben!« <sup>3</sup>Petrus und der andere Jünger liefen zum Grab, um nachzusehen. <sup>4</sup>Der andere Jünger lief schneller als Petrus und kam als Erster an. <sup>5</sup>Er beugte sich vor, um hineinzuschauen, und sah die Leinentücher daliegen, aber er ging nicht hinein. <sup>6</sup>Dann kam Simon Petrus und ging in die Grabhöhle hinein. Auch er sah die Leinentücher dort liegen; <sup>7</sup>das Tuch, das den Kopf von Jesus bedeckt hatte, lag zusammengefaltet auf der Seite. <sup>8</sup>Da ging auch der andere Jünger hinein, der zuerst bei dem Grab angekommen war, und er sah und glaubte – <sup>9</sup>denn bis dahin hatten sie die Aussage der Schrift nicht verstanden, dass Jesus von den Toten auferstehen würde. <sup>10</sup>Dann gingen sie nach Hause zurück. <h3>Jesus erscheint Maria Magdalena</h3><sup>11</sup>Maria stand weinend draußen vor dem Grab, und während sie weinte, beugte sie sich vor und schaute hinein. <sup>12</sup>Da sah sie zwei weiß gekleidete Engel sitzen, einen am Kopf- und einen am Fußende der Stelle, an der der Leichnam von Jesus gelegen hatte. <sup>13</sup>»Warum weinst du?«, fragten die Engel sie. »Weil sie meinen Herrn weggenommen haben«, erwiderte sie, »und ich nicht weiß, wo sie ihn hingelegt haben.« <sup>14</sup>Sie blickte über ihre Schulter zurück und sah jemanden hinter sich stehen. Es war Jesus, aber sie erkannte ihn nicht. <sup>15</sup>»Warum weinst du?«, fragte Jesus sie. »Wen suchst du?« Sie dachte, er sei der Gärtner. »Herr«, sagte sie, »wenn du ihn weggenommen hast, sag mir, wo du ihn hingebracht hast; dann gehe ich ihn holen.« <sup>16</sup>»Maria!«, sagte Jesus. Sie drehte sich um zu ihm und rief aus: »Meister!« <sup>17</sup>»Berühre mich nicht«, sagte Jesus, »denn ich bin noch nicht zum Vater aufgefahren. Aber geh zu meinen Brüdern und sage ihnen, dass ich zu meinem Vater und zu eurem Vater, zu meinem Gott und zu eurem Gott auffahre.« <sup>18</sup>Maria Magdalena fand die Jünger und erzählte ihnen: »Ich habe den Herrn gesehen!« Dann berichtete sie, was er ihr aufgetragen hatte. <h3>Jesus erscheint seinen Jüngern</h3><sup>19</sup>Am Abend dieses ersten Tages der Woche trafen die Jünger sich hinter verschlossenen Türen, weil sie Angst vor den Juden hatten. Plötzlich stand Jesus mitten unter ihnen! »Friede sei mit euch«, sagte er. <sup>20</sup>Und nach diesen Worten zeigte er ihnen seine Hände und seine Seite. Freude erfüllte die Jünger, als sie ihren Herrn sahen. <sup>21</sup>Wieder sprach er zu ihnen und sagte: »Friede sei mit euch. Wie der Vater mich gesandt hat, so sende ich euch.« <sup>22</sup>Dann hauchte er sie an und sprach: »Empfangt den Heiligen Geist. <sup>23</sup>Wem ihr die Sünden vergebt, dem sind sie vergeben. Wem ihr sie nicht vergebt, dem sind sie nicht vergeben.« <h3>Zweifel und Glaube des Thomas</h3><sup>24</sup>Einer der Jünger, Thomas, der auch »Zwilling« genannt wurde, war nicht dabei gewesen, als Jesus kam. <sup>25</sup>Sie erzählten ihm: »Wir haben den Herrn gesehen!« Doch er erwiderte: »Das glaube ich nicht, es sei denn, ich sehe die Wunden von den Nägeln in seinen Händen, berühre sie mit meinen Fingern und lege meine Hand in die Wunde an seiner Seite.« <sup>26</sup>Acht Tage später waren die Jünger wieder beisammen, und diesmal war auch Thomas bei ihnen. Die Türen waren verschlossen; doch plötzlich stand Jesus, genau wie zuvor, in ihrer Mitte. Er sprach: »Friede sei mit euch!« <sup>27</sup>Dann sagte er zu Thomas: »Lege deine Finger auf diese Stelle hier und sieh dir meine Hände an. Lege deine Hand in die Wunde an meiner Seite. Sei nicht mehr ungläubig, sondern glaube!« <sup>28</sup>»Mein Herr und mein Gott!«, rief Thomas aus. <sup>29</sup>Da sagte Jesus zu ihm: »Du glaubst, weil du mich gesehen hast. Glücklich sind die, die mich nicht sehen und dennoch glauben.« <h3>Der Zweck dieses Buches</h3><sup>30</sup>Die Jünger sahen, wie Jesus noch viele andere Wunder tat, die nicht in diesem Buch aufgezeichnet sind. <sup>31</sup>Diese aber wurden aufgeschrieben, damit ihr glaubt , dass Jesus der Christus ist, der Sohn Gottes, und damit ihr durch den Glauben an ihn in seinem Namen das ewige Leben habt. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>31</sup>Die führenden Männer des jüdischen Volkes wollten die Gekreuzigten nicht bis zum nächsten Tag, einem Sabbat – der wegen des Passahfestes noch dazu ein besonderer Sabbat war –, am Kreuz hängen lassen. Um den Tod schneller herbeizuführen, baten sie Pilatus, dass man ihnen die Beine brach. Dann konnten die Leichname vom Kreuz abgenommen werden. <sup>32</sup>Da kamen die Soldaten und brachen den beiden Männern, die mit Jesus gekreuzigt worden waren, die Beine. <sup>33</sup>Doch als sie zu Jesus kamen, sahen sie, dass er schon tot war, deshalb brachen sie ihm nicht die Beine. <sup>34</sup>Einer der Soldaten bohrte jedoch einen Speer in seine Seite, und Blut und Wasser flossen heraus. <sup>35</sup>Dieser Bericht stammt von einem Augenzeugen. Alles, was er sagt, ist zuverlässig und wahr; er berichtet darüber, damit auch ihr zum Glauben findet. <sup>36</sup>Diese Dinge sind geschehen, damit sich erfüllt, was in der Schrift vorausgesagt ist: »Nicht einer seiner Knochen wird zerbrochen werden« , <sup>37</sup>und: »Sie werden auf den schauen, den sie durchbohrt haben« . <h3>Die Grablegung</h3><sup>38</sup>Danach bat Josef von Arimathäa Pilatus um die Erlaubnis, den Leichnam vom Kreuz abnehmen zu dürfen. Er war insgeheim ein Jünger von Jesus, denn er fürchtete sich vor den führenden Juden. Als Pilatus es ihm gestattete, ging er und holte den Leichnam. <sup>39</sup>Auch Nikodemus, der Jesus einmal in der Nacht aufgesucht hatte, kam und brachte zum Einbalsamieren etwa dreißig Kilogramm Myrrhe und Aloe mit. <sup>40</sup>Gemeinsam wickelten sie den Leichnam mit den Kräutern in lange Leinentücher, wie es bei den Juden vor dem Begräbnis Brauch ist. <sup>41</sup>Der Ort der Kreuzigung befand sich in der Nähe eines Gartens; dort lag ein neues Grab, das noch nie benutzt worden war. <sup>42</sup>Und weil es der Tag der Vorbereitung für das Passahfest war und das Grab sich in der Nähe befand, bestatteten sie Jesus dort.<br></div><div><sup>20:1</sup>Früh am ersten Tag der Woche, als es noch dunkel war, kam Maria Magdalena zum Grab und fand den Stein vom Eingang weggerollt. <sup>2</sup>Sie lief zu Simon Petrus und dem anderen Jünger, den Jesus lieb hatte, und sagte: »Sie haben den Herrn aus dem Grab weggenommen, und ich weiß nicht, wo sie ihn hingebracht haben!« <sup>3</sup>Petrus und der andere Jünger liefen zum Grab, um nachzusehen. <sup>4</sup>Der andere Jünger lief schneller als Petrus und kam als Erster an. <sup>5</sup>Er beugte sich vor, um hineinzuschauen, und sah die Leinentücher daliegen, aber er ging nicht hinein. <sup>6</sup>Dann kam Simon Petrus und ging in die Grabhöhle hinein. Auch er sah die Leinentücher dort liegen; <sup>7</sup>das Tuch, das den Kopf von Jesus bedeckt hatte, lag zusammengefaltet auf der Seite. <sup>8</sup>Da ging auch der andere Jünger hinein, der zuerst bei dem Grab angekommen war, und er sah und glaubte – <sup>9</sup>denn bis dahin hatten sie die Aussage der Schrift nicht verstanden, dass Jesus von den Toten auferstehen würde. <sup>10</sup>Dann gingen sie nach Hause zurück. <h3>Jesus erscheint Maria Magdalena</h3><sup>11</sup>Maria stand weinend draußen vor dem Grab, und während sie weinte, beugte sie sich vor und schaute hinein. <sup>12</sup>Da sah sie zwei weiß gekleidete Engel sitzen, einen am Kopf- und einen am Fußende der Stelle, an der der Leichnam von Jesus gelegen hatte. <sup>13</sup>»Warum weinst du?«, fragten die Engel sie. »Weil sie meinen Herrn weggenommen haben«, erwiderte sie, »und ich nicht weiß, wo sie ihn hingelegt haben.« <sup>14</sup>Sie blickte über ihre Schulter zurück und sah jemanden hinter sich stehen. Es war Jesus, aber sie erkannte ihn nicht. <sup>15</sup>»Warum weinst du?«, fragte Jesus sie. »Wen suchst du?« Sie dachte, er sei der Gärtner. »Herr«, sagte sie, »wenn du ihn weggenommen hast, sag mir, wo du ihn hingebracht hast; dann gehe ich ihn holen.« <sup>16</sup>»Maria!«, sagte Jesus. Sie drehte sich um zu ihm und rief aus: »Meister!« <sup>17</sup>»Berühre mich nicht«, sagte Jesus, »denn ich bin noch nicht zum Vater aufgefahren. Aber geh zu meinen Brüdern und sage ihnen, dass ich zu meinem Vater und zu eurem Vater, zu meinem Gott und zu eurem Gott auffahre.« <sup>18</sup>Maria Magdalena fand die Jünger und erzählte ihnen: »Ich habe den Herrn gesehen!« Dann berichtete sie, was er ihr aufgetragen hatte. <h3>Jesus erscheint seinen Jüngern</h3><sup>19</sup>Am Abend dieses ersten Tages der Woche trafen die Jünger sich hinter verschlossenen Türen, weil sie Angst vor den Juden hatten. Plötzlich stand Jesus mitten unter ihnen! »Friede sei mit euch«, sagte er. <sup>20</sup>Und nach diesen Worten zeigte er ihnen seine Hände und seine Seite. Freude erfüllte die Jünger, als sie ihren Herrn sahen. <sup>21</sup>Wieder sprach er zu ihnen und sagte: »Friede sei mit euch. Wie der Vater mich gesandt hat, so sende ich euch.« <sup>22</sup>Dann hauchte er sie an und sprach: »Empfangt den Heiligen Geist. <sup>23</sup>Wem ihr die Sünden vergebt, dem sind sie vergeben. Wem ihr sie nicht vergebt, dem sind sie nicht vergeben.« <h3>Zweifel und Glaube des Thomas</h3><sup>24</sup>Einer der Jünger, Thomas, der auch »Zwilling« genannt wurde, war nicht dabei gewesen, als Jesus kam. <sup>25</sup>Sie erzählten ihm: »Wir haben den Herrn gesehen!« Doch er erwiderte: »Das glaube ich nicht, es sei denn, ich sehe die Wunden von den Nägeln in seinen Händen, berühre sie mit meinen Fingern und lege meine Hand in die Wunde an seiner Seite.« <sup>26</sup>Acht Tage später waren die Jünger wieder beisammen, und diesmal war auch Thomas bei ihnen. Die Türen waren verschlossen; doch plötzlich stand Jesus, genau wie zuvor, in ihrer Mitte. Er sprach: »Friede sei mit euch!« <sup>27</sup>Dann sagte er zu Thomas: »Lege deine Finger auf diese Stelle hier und sieh dir meine Hände an. Lege deine Hand in die Wunde an meiner Seite. Sei nicht mehr ungläubig, sondern glaube!« <sup>28</sup>»Mein Herr und mein Gott!«, rief Thomas aus. <sup>29</sup>Da sagte Jesus zu ihm: »Du glaubst, weil du mich gesehen hast. Glücklich sind die, die mich nicht sehen und dennoch glauben.« <h3>Der Zweck dieses Buches</h3><sup>30</sup>Die Jünger sahen, wie Jesus noch viele andere Wunder tat, die nicht in diesem Buch aufgezeichnet sind. <sup>31</sup>Diese aber wurden aufgeschrieben, damit ihr glaubt , dass Jesus der Christus ist, der Sohn Gottes, und damit ihr durch den Glauben an ihn in seinem Namen das ewige Leben habt. </div><p></p>",
         "url": "https://bibleserver.com/NLB/Johannes%2020:1-31",
         "isOpen": false
       }
@@ -152,9 +172,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -215,8 +241,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -232,7 +279,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

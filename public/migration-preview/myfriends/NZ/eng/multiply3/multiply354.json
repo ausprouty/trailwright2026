@@ -59,8 +59,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -82,7 +86,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -104,9 +110,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -148,7 +160,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -164,7 +178,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Acts 28:11-31 two times as others listen."
+          {
+            "text": "Read or watch Acts 28:11-31 two times as others listen."
+          }
         ]
       }
     },
@@ -172,7 +188,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 28:11-31",
-        "html": "<!-- begin bible --><div><h3>Paul’s Arrival at Rome</h3><p><sup class=\"versenum\">11 </sup>After three months we put out to sea in a ship that had wintered in the island—it was an Alexandrian ship with the figurehead of the twin gods Castor and Pollux.<sup class=\"versenum\">12 </sup>We put in at Syracuse and stayed there three days.<sup class=\"versenum\">13 </sup>From there we set sail and arrived at Rhegium. The next day the south wind came up, and on the following day we reached Puteoli.<sup class=\"versenum\">14 </sup>There we found some brothers and sisters who invited us to spend a week with them. And so we came to Rome.<sup class=\"versenum\">15 </sup>The brothers and sisters there had heard that we were coming, and they traveled as far as the Forum of Appius and the Three Taverns to meet us. At the sight of these people Paul thanked God and was encouraged.<sup class=\"versenum\">16 </sup>When we got to Rome, Paul was allowed to live by himself, with a soldier to guard him.</p><h3>Paul Preaches at Rome Under Guard</h3><p><sup class=\"versenum\">17 </sup>Three days later he called together the local Jewish leaders. When they had assembled, Paul said to them: “My brothers, although I have done nothing against our people or against the customs of our ancestors, I was arrested in Jerusalem and handed over to the Romans.<sup class=\"versenum\">18 </sup>They examined me and wanted to release me, because I was not guilty of any crime deserving death.<sup class=\"versenum\">19 </sup>The Jews objected, so I was compelled to make an appeal to Caesar. I certainly did not intend to bring any charge against my own people.<sup class=\"versenum\">20 </sup>For this reason I have asked to see you and talk with you. It is because of the hope of Israel that I am bound with this chain.”</p><p><sup class=\"versenum\">21 </sup>They replied, “We have not received any letters from Judea concerning you, and none of our people who have come from there has reported or said anything bad about you.<sup class=\"versenum\">22 </sup>But we want to hear what your views are, for we know that people everywhere are talking against this sect.”</p><p><sup class=\"versenum\">23 </sup>They arranged to meet Paul on a certain day, and came in even larger numbers to the place where he was staying. He witnessed to them from morning till evening, explaining about the kingdom of God, and from the Law of Moses and from the Prophets he tried to persuade them about Jesus.<sup class=\"versenum\">24 </sup>Some were convinced by what he said, but others would not believe.<sup class=\"versenum\">25 </sup>They disagreed among themselves and began to leave after Paul had made this final statement: “The Holy Spirit spoke the truth to your ancestors when he said through Isaiah the prophet:</p><p><sup class=\"versenum\">26 </sup>“‘Go to this people and say,<br> “You will be ever hearing but never understanding;<br> you will be ever seeing but never perceiving.”<br><sup class=\"versenum\">27 </sup>For this people’s heart has become calloused;<br> they hardly hear with their ears,<br> and they have closed their eyes.<br> Otherwise they might see with their eyes,<br> hear with their ears,<br> understand with their hearts and turn, and I would heal them.’</p></div><p><sup class=\"versenum\">28 </sup>“Therefore I want you to know that God’s salvation has been sent to the Gentiles, and they will listen!”<sup class=\"versenum\">[29] </sup></p><p><sup class=\"versenum\">30 </sup>For two whole years Paul stayed there in his own rented house and welcomed all who came to see him.<sup class=\"versenum\">31 </sup>He proclaimed the kingdom of God and taught about the Lord Jesus Christ—with all boldness and without hindrance!</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><h3>Paul’s Arrival at Rome</h3><p><sup>11</sup>After three months we put out to sea in a ship that had wintered in the island—it was an Alexandrian ship with the figurehead of the twin gods Castor and Pollux.<sup>12</sup>We put in at Syracuse and stayed there three days.<sup>13</sup>From there we set sail and arrived at Rhegium. The next day the south wind came up, and on the following day we reached Puteoli.<sup>14</sup>There we found some brothers and sisters who invited us to spend a week with them. And so we came to Rome.<sup>15</sup>The brothers and sisters there had heard that we were coming, and they traveled as far as the Forum of Appius and the Three Taverns to meet us. At the sight of these people Paul thanked God and was encouraged.<sup>16</sup>When we got to Rome, Paul was allowed to live by himself, with a soldier to guard him.</p><h3>Paul Preaches at Rome Under Guard</h3><p><sup>17</sup>Three days later he called together the local Jewish leaders. When they had assembled, Paul said to them: “My brothers, although I have done nothing against our people or against the customs of our ancestors, I was arrested in Jerusalem and handed over to the Romans.<sup>18</sup>They examined me and wanted to release me, because I was not guilty of any crime deserving death.<sup>19</sup>The Jews objected, so I was compelled to make an appeal to Caesar. I certainly did not intend to bring any charge against my own people.<sup>20</sup>For this reason I have asked to see you and talk with you. It is because of the hope of Israel that I am bound with this chain.”</p><p><sup>21</sup>They replied, “We have not received any letters from Judea concerning you, and none of our people who have come from there has reported or said anything bad about you.<sup>22</sup>But we want to hear what your views are, for we know that people everywhere are talking against this sect.”</p><p><sup>23</sup>They arranged to meet Paul on a certain day, and came in even larger numbers to the place where he was staying. He witnessed to them from morning till evening, explaining about the kingdom of God, and from the Law of Moses and from the Prophets he tried to persuade them about Jesus.<sup>24</sup>Some were convinced by what he said, but others would not believe.<sup>25</sup>They disagreed among themselves and began to leave after Paul had made this final statement: “The Holy Spirit spoke the truth to your ancestors when he said through Isaiah the prophet:</p><p><sup>26</sup>“‘Go to this people and say,<br> “You will be ever hearing but never understanding;<br> you will be ever seeing but never perceiving.”<br><sup>27</sup>For this people’s heart has become calloused;<br> they hardly hear with their ears,<br> and they have closed their eyes.<br> Otherwise they might see with their eyes,<br> hear with their ears,<br> understand with their hearts<br> and turn, and I would heal them.’</p></div><p><sup>28</sup>“Therefore I want you to know that God’s salvation has been sent to the Gentiles, and they will listen!”<sup>[29]</sup></p><p><sup>30</sup>For two whole years Paul stayed there in his own rented house and welcomed all who came to see him.<sup>31</sup>He proclaimed the kingdom of God and taught about the Lord Jesus Christ—with all boldness and without hindrance!</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Acts%2028:11-31&version=NIV",
         "isOpen": false
       }
@@ -214,10 +230,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in the story?",
-          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in the story?"
+          },
+          {
+            "text": "What is being modeled about a Spirit-dependent life, making disciples or leadership?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -232,9 +256,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How are Jesus’ followers continuing His work of making disciples and church planting?",
-          "How is the gospel impacting people and society?",
-          "What barriers or obstacles were overcome and how were they overcome?"
+          {
+            "text": "How are Jesus’ followers continuing His work of making disciples and church planting?"
+          },
+          {
+            "text": "How is the gospel impacting people and society?"
+          },
+          {
+            "text": "What barriers or obstacles were overcome and how were they overcome?"
+          }
         ]
       }
     },
@@ -257,7 +287,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -271,19 +303,19 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "The Roman believers would have received Paul’s letter almost 3 years earlier. Paul kept the pattern of starting with the Jews, giving them evidence from scripture that Jesus is the Messiah, and then starting to share with the non-Jewish people. The Jewish leader’s testimony gives a glimpse into the spread of the gospel, “we know people everywhere are talking against this sect” ({Acts 28:22}).&nbsp;{Philippians 4:22}).&nbsp;",
+                "text": "The Roman believers would have received Paul’s letter almost 3 years earlier. Paul kept the pattern of starting with the Jews, giving them evidence from scripture that Jesus is the Messiah, and then starting to share with the non-Jewish people. The Jewish leader’s testimony gives a glimpse into the spread of the gospel, “we know people everywhere are talking against this sect” ({Acts 28:22}). {Philippians 4:22}).",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Acts 28:22",
                     "label": "Acts 28:22",
-                    "passage": "<p><sup class=\"versenum\">22&nbsp;</sup>But we want to hear what your views are, for we know that people everywhere are talking against this sect.”</p>"
+                    "passage": "<p><sup>22</sup>But we want to hear what your views are, for we know that people everywhere are talking against this sect.”</p>"
                   },
                   {
                     "id": "popup_pop2",
                     "marker": "Philippians 4:22",
                     "label": "Philippians 4:22",
-                    "passage": "<p><sup class=\"versenum\">22&nbsp;</sup>All God’s people here send you greetings, especially those who belong to Caesar’s household.</p>"
+                    "passage": "<p><sup>22</sup>All God’s people here send you greetings, especially those who belong to Caesar’s household.</p>"
                   }
                 ],
                 "isOpen": false
@@ -327,7 +359,9 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Practice needed skills or previous topics to help prepare to minister to others:<br> o Prayer, Care, Share<br> o Gospel<br> o Foundational Bible Studies."
+                  {
+                    "text": "Practice needed skills or previous topics to help prepare to minister to others:<br> o Prayer, Care, Share<br> o Gospel<br> o Foundational Bible Studies."
+                  }
                 ]
               }
             }
@@ -348,8 +382,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -372,7 +410,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

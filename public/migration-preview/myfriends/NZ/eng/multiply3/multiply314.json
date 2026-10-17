@@ -59,8 +59,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -82,7 +86,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -104,9 +110,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -148,7 +160,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -164,7 +178,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Acts 8:4-25 two times as others listen."
+          {
+            "text": "Read or watch Acts 8:4-25 two times as others listen."
+          }
         ]
       }
     },
@@ -172,7 +188,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 8:4-25",
-        "html": "<!-- begin bible --><h3>Philip in Samaria</h3><p><sup class=\"versenum\">4 </sup>Those who had been scattered preached the word wherever they went.<sup class=\"versenum\">5 </sup>Philip went down to a city in Samaria and proclaimed the Messiah there.<sup class=\"versenum\">6 </sup>When the crowds heard Philip and saw the signs he performed, they all paid close attention to what he said.<sup class=\"versenum\">7 </sup>For with shrieks, impure spirits came out of many, and many who were paralyzed or lame were healed.<sup class=\"versenum\">8 </sup>So there was great joy in that city.</p><h3>Simon the Sorcerer</h3><p><sup class=\"versenum\">9 </sup>Now for some time a man named Simon had practiced sorcery in the city and amazed all the people of Samaria. He boasted that he was someone great,<sup class=\"versenum\">10 </sup>and all the people, both high and low, gave him their attention and exclaimed, “This man is rightly called the Great Power of God.”<sup class=\"versenum\">11 </sup>They followed him because he had amazed them for a long time with his sorcery.<sup class=\"versenum\">12 </sup>But when they believed Philip as he proclaimed the good news of the kingdom of God and the name of Jesus Christ, they were baptized, both men and women.<sup class=\"versenum\">13 </sup>Simon himself believed and was baptized. And he followed Philip everywhere, astonished by the great signs and miracles he saw.</p><p><sup class=\"versenum\">14 </sup>When the apostles in Jerusalem heard that Samaria had accepted the word of God, they sent Peter and John to Samaria.<sup class=\"versenum\">15 </sup>When they arrived, they prayed for the new believers there that they might receive the Holy Spirit,<sup class=\"versenum\">16 </sup>because the Holy Spirit had not yet come on any of them; they had simply been baptized in the name of the Lord Jesus.<sup class=\"versenum\">17 </sup>Then Peter and John placed their hands on them, and they received the Holy Spirit.</p><p><sup class=\"versenum\">18 </sup>When Simon saw that the Spirit was given at the laying on of the apostles’ hands, he offered them money<sup class=\"versenum\">19 </sup>and said, “Give me also this ability so that everyone on whom I lay my hands may receive the Holy Spirit.”</p><p><sup class=\"versenum\">20 </sup>Peter answered: “May your money perish with you, because you thought you could buy the gift of God with money!<sup class=\"versenum\">21 </sup>You have no part or share in this ministry, because your heart is not right before God.<sup class=\"versenum\">22 </sup>Repent of this wickedness and pray to the Lord in the hope that he may forgive you for having such a thought in your heart.<sup class=\"versenum\">23 </sup>For I see that you are full of bitterness and captive to sin.”</p><p><sup class=\"versenum\">24 </sup>Then Simon answered, “Pray to the Lord for me so that nothing you have said may happen to me.”</p><p><sup class=\"versenum\">25 </sup>After they had further proclaimed the word of the Lord and testified about Jesus, Peter and John returned to Jerusalem, preaching the gospel in many Samaritan villages.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<h3>Philip in Samaria</h3><p><sup>4</sup>Those who had been scattered preached the word wherever they went.<sup>5</sup>Philip went down to a city in Samaria and proclaimed the Messiah there.<sup>6</sup>When the crowds heard Philip and saw the signs he performed, they all paid close attention to what he said.<sup>7</sup>For with shrieks, impure spirits came out of many, and many who were paralyzed or lame were healed.<sup>8</sup>So there was great joy in that city.</p><h3>Simon the Sorcerer</h3><p><sup>9</sup>Now for some time a man named Simon had practiced sorcery in the city and amazed all the people of Samaria. He boasted that he was someone great,<sup>10</sup>and all the people, both high and low, gave him their attention and exclaimed, “This man is rightly called the Great Power of God.”<sup>11</sup>They followed him because he had amazed them for a long time with his sorcery.<sup>12</sup>But when they believed Philip as he proclaimed the good news of the kingdom of God and the name of Jesus Christ, they were baptized, both men and women.<sup>13</sup>Simon himself believed and was baptized. And he followed Philip everywhere, astonished by the great signs and miracles he saw.</p><p><sup>14</sup>When the apostles in Jerusalem heard that Samaria had accepted the word of God, they sent Peter and John to Samaria.<sup>15</sup>When they arrived, they prayed for the new believers there that they might receive the Holy Spirit,<sup>16</sup>because the Holy Spirit had not yet come on any of them; they had simply been baptized in the name of the Lord Jesus.<sup>17</sup>Then Peter and John placed their hands on them, and they received the Holy Spirit.</p><p><sup>18</sup>When Simon saw that the Spirit was given at the laying on of the apostles’ hands, he offered them money<sup>19</sup>and said, “Give me also this ability so that everyone on whom I lay my hands may receive the Holy Spirit.”</p><p><sup>20</sup>Peter answered: “May your money perish with you, because you thought you could buy the gift of God with money!<sup>21</sup>You have no part or share in this ministry, because your heart is not right before God.<sup>22</sup>Repent of this wickedness and pray to the Lord in the hope that he may forgive you for having such a thought in your heart.<sup>23</sup>For I see that you are full of bitterness and captive to sin.”</p><p><sup>24</sup>Then Simon answered, “Pray to the Lord for me so that nothing you have said may happen to me.”</p><p><sup>25</sup>After they had further proclaimed the word of the Lord and testified about Jesus, Peter and John returned to Jerusalem, preaching the gospel in many Samaritan villages.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Acts%208:4-25&version=NIV",
         "isOpen": false
       }
@@ -215,10 +231,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in the story?",
-          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in the story?"
+          },
+          {
+            "text": "What is being modeled about a Spirit-dependent life, making disciples or leadership?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -233,9 +257,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How are Jesus’ followers continuing His work of making disciples and church planting?",
-          "How is the gospel impacting people and society?",
-          "What barriers or obstacles were overcome and how were they overcome?"
+          {
+            "text": "How are Jesus’ followers continuing His work of making disciples and church planting?"
+          },
+          {
+            "text": "How is the gospel impacting people and society?"
+          },
+          {
+            "text": "What barriers or obstacles were overcome and how were they overcome?"
+          }
         ]
       }
     },
@@ -258,7 +288,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -319,9 +351,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Prayer, Care, Share",
-                  "Gospel",
-                  "Foundational Bible Studies."
+                  {
+                    "text": "Prayer, Care, Share"
+                  },
+                  {
+                    "text": "Gospel"
+                  },
+                  {
+                    "text": "Foundational Bible Studies."
+                  }
                 ]
               }
             }
@@ -342,8 +380,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -366,7 +408,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

@@ -59,8 +59,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -82,7 +86,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -104,9 +110,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -148,7 +160,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -164,7 +178,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Acts 15:1-35 two times as others listen."
+          {
+            "text": "Read or watch Acts 15:1-35 two times as others listen."
+          }
         ]
       }
     },
@@ -172,7 +188,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 15:1-35",
-        "html": "<!-- begin bible --><h3>The Council at Jerusalem</h3><p><sup class=\"versenum\">1 </sup>Certain people came down from Judea to Antioch and were teaching the believers: “Unless you are circumcised, according to the custom taught by Moses, you cannot be saved.”<sup class=\"versenum\">2 </sup>This brought Paul and Barnabas into sharp dispute and debate with them. So Paul and Barnabas were appointed, along with some other believers, to go up to Jerusalem to see the apostles and elders about this question.<sup class=\"versenum\">3 </sup>The church sent them on their way, and as they traveled through Phoenicia and Samaria, they told how the Gentiles had been converted. This news made all the believers very glad.<sup class=\"versenum\">4 </sup>When they came to Jerusalem, they were welcomed by the church and the apostles and elders, to whom they reported everything God had done through them.</p><p><sup class=\"versenum\">5 </sup>Then some of the believers who belonged to the party of the Pharisees stood up and said, “The Gentiles must be circumcised and required to keep the law of Moses.”</p><p><sup class=\"versenum\">6 </sup>The apostles and elders met to consider this question.<sup class=\"versenum\">7 </sup>After much discussion, Peter got up and addressed them: “Brothers, you know that some time ago God made a choice among you that the Gentiles might hear from my lips the message of the gospel and believe.<sup class=\"versenum\">8 </sup>God, who knows the heart, showed that he accepted them by giving the Holy Spirit to them, just as he did to us.<sup class=\"versenum\">9 </sup>He did not discriminate between us and them, for he purified their hearts by faith.<sup class=\"versenum\">10 </sup>Now then, why do you try to test God by putting on the necks of Gentiles a yoke that neither we nor our ancestors have been able to bear?<sup class=\"versenum\">11 </sup>No! We believe it is through the grace of our Lord Jesus that we are saved, just as they are.”</p><p><sup class=\"versenum\">12 </sup>The whole assembly became silent as they listened to Barnabas and Paul telling about the signs and wonders God had done among the Gentiles through them.<sup class=\"versenum\">13 </sup>When they finished, James spoke up. “Brothers,” he said, “listen to me.<sup class=\"versenum\">14 </sup>Simon has described to us how God first intervened to choose a people for his name from the Gentiles.<sup class=\"versenum\">15 </sup>The words of the prophets are in agreement with this, as it is written:</p><p><sup class=\"versenum\">16 </sup>“‘After this I will return<br> and rebuild David’s fallen tent.<br> Its ruins I will rebuild,<br> and I will restore it,<br><sup class=\"versenum\">17 </sup>that the rest of mankind may seek the Lord,<br> even all the Gentiles who bear my name,<br> says the Lord, who does these things’—<br><sup class=\"versenum\">18 </sup> things known from long ago.</p><p><sup class=\"versenum\">19 </sup>“It is my judgment, therefore, that we should not make it difficult for the Gentiles who are turning to God.<sup class=\"versenum\">20 </sup>Instead we should write to them, telling them to abstain from food polluted by idols, from sexual immorality, from the meat of strangled animals and from blood.<sup class=\"versenum\">21 </sup>For the law of Moses has been preached in every city from the earliest times and is read in the synagogues on every Sabbath.”</p><h3>The Council’s Letter to Gentile Believers</h3><p><sup class=\"versenum\">22 </sup>Then the apostles and elders, with the whole church, decided to choose some of their own men and send them to Antioch with Paul and Barnabas. They chose Judas (called Barsabbas) and Silas, men who were leaders among the believers.<sup class=\"versenum\">23 </sup>With them they sent the following letter:</p><p>The apostles and elders, your brothers,</p><p>To the Gentile believers in Antioch, Syria and Cilicia:</p><p>Greetings.</p><p><sup class=\"versenum\">24 </sup>We have heard that some went out from us without our authorization and disturbed you, troubling your minds by what they said.<sup class=\"versenum\">25 </sup>So we all agreed to choose some men and send them to you with our dear friends Barnabas and Paul—<sup class=\"versenum\">26 </sup>men who have risked their lives for the name of our Lord Jesus Christ.<sup class=\"versenum\">27 </sup>Therefore we are sending Judas and Silas to confirm by word of mouth what we are writing.<sup class=\"versenum\">28 </sup>It seemed good to the Holy Spirit and to us not to burden you with anything beyond the following requirements:<sup class=\"versenum\">29 </sup>You are to abstain from food sacrificed to idols, from blood, from the meat of strangled animals and from sexual immorality. You will do well to avoid these things.</p><p>Farewell.</p><p><sup class=\"versenum\">30 </sup>So the men were sent off and went down to Antioch, where they gathered the church together and delivered the letter.<sup class=\"versenum\">31 </sup>The people read it and were glad for its encouraging message.<sup class=\"versenum\">32 </sup>Judas and Silas, who themselves were prophets, said much to encourage and strengthen the believers.<sup class=\"versenum\">33 </sup>After spending some time there, they were sent off by the believers with the blessing of peace to return to those who had sent them.<sup class=\"versenum\">[34] </sup><sup class=\"versenum\">35 </sup>But Paul and Barnabas remained in Antioch, where they and many others taught and preached the word of the Lord.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<h3>The Council at Jerusalem</h3><p><sup>1</sup>Certain people came down from Judea to Antioch and were teaching the believers: “Unless you are circumcised, according to the custom taught by Moses, you cannot be saved.”<sup>2</sup>This brought Paul and Barnabas into sharp dispute and debate with them. So Paul and Barnabas were appointed, along with some other believers, to go up to Jerusalem to see the apostles and elders about this question.<sup>3</sup>The church sent them on their way, and as they traveled through Phoenicia and Samaria, they told how the Gentiles had been converted. This news made all the believers very glad.<sup>4</sup>When they came to Jerusalem, they were welcomed by the church and the apostles and elders, to whom they reported everything God had done through them.</p><p><sup>5</sup>Then some of the believers who belonged to the party of the Pharisees stood up and said, “The Gentiles must be circumcised and required to keep the law of Moses.”</p><p><sup>6</sup>The apostles and elders met to consider this question.<sup>7</sup>After much discussion, Peter got up and addressed them: “Brothers, you know that some time ago God made a choice among you that the Gentiles might hear from my lips the message of the gospel and believe.<sup>8</sup>God, who knows the heart, showed that he accepted them by giving the Holy Spirit to them, just as he did to us.<sup>9</sup>He did not discriminate between us and them, for he purified their hearts by faith.<sup>10</sup>Now then, why do you try to test God by putting on the necks of Gentiles a yoke that neither we nor our ancestors have been able to bear?<sup>11</sup>No! We believe it is through the grace of our Lord Jesus that we are saved, just as they are.”</p><p><sup>12</sup>The whole assembly became silent as they listened to Barnabas and Paul telling about the signs and wonders God had done among the Gentiles through them.<sup>13</sup>When they finished, James spoke up. “Brothers,” he said, “listen to me.<sup>14</sup>Simon has described to us how God first intervened to choose a people for his name from the Gentiles.<sup>15</sup>The words of the prophets are in agreement with this, as it is written:</p><p><sup>16</sup>“‘After this I will return<br> and rebuild David’s fallen tent.<br> Its ruins I will rebuild,<br> and I will restore it,<br><sup>17</sup>that the rest of mankind may seek the Lord,<br> even all the Gentiles who bear my name,<br> says the Lord, who does these things’—<br><sup>18</sup> things known from long ago.</p><p><sup>19</sup>“It is my judgment, therefore, that we should not make it difficult for the Gentiles who are turning to God.<sup>20</sup>Instead we should write to them, telling them to abstain from food polluted by idols, from sexual immorality, from the meat of strangled animals and from blood.<sup>21</sup>For the law of Moses has been preached in every city from the earliest times and is read in the synagogues on every Sabbath.”</p><h3>The Council’s Letter to Gentile Believers</h3><p><sup>22</sup>Then the apostles and elders, with the whole church, decided to choose some of their own men and send them to Antioch with Paul and Barnabas. They chose Judas (called Barsabbas) and Silas, men who were leaders among the believers.<sup>23</sup>With them they sent the following letter:</p><p>The apostles and elders, your brothers,</p><p>To the Gentile believers in Antioch, Syria and Cilicia:</p><p>Greetings.</p><p><sup>24</sup>We have heard that some went out from us without our authorization and disturbed you, troubling your minds by what they said.<sup>25</sup>So we all agreed to choose some men and send them to you with our dear friends Barnabas and Paul—<sup>26</sup>men who have risked their lives for the name of our Lord Jesus Christ.<sup>27</sup>Therefore we are sending Judas and Silas to confirm by word of mouth what we are writing.<sup>28</sup>It seemed good to the Holy Spirit and to us not to burden you with anything beyond the following requirements:<sup>29</sup>You are to abstain from food sacrificed to idols, from blood, from the meat of strangled animals and from sexual immorality. You will do well to avoid these things.</p><p>Farewell.</p><p><sup>30</sup>So the men were sent off and went down to Antioch, where they gathered the church together and delivered the letter.<sup>31</sup>The people read it and were glad for its encouraging message.<sup>32</sup>Judas and Silas, who themselves were prophets, said much to encourage and strengthen the believers.<sup>33</sup>After spending some time there, they were sent off by the believers with the blessing of peace to return to those who had sent them.<sup>[34]</sup><sup>35</sup>But Paul and Barnabas remained in Antioch, where they and many others taught and preached the word of the Lord.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Acts%2015:1-35&version=NIV",
         "isOpen": false
       }
@@ -215,10 +231,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in the story?",
-          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in the story?"
+          },
+          {
+            "text": "What is being modeled about a Spirit-dependent life, making disciples or leadership?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -233,9 +257,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How are Jesus’ followers continuing His work of making disciples and church planting?",
-          "How is the gospel impacting people and society?",
-          "What barriers or obstacles were overcome and how were they overcome?"
+          {
+            "text": "How are Jesus’ followers continuing His work of making disciples and church planting?"
+          },
+          {
+            "text": "How is the gospel impacting people and society?"
+          },
+          {
+            "text": "What barriers or obstacles were overcome and how were they overcome?"
+          }
         ]
       }
     },
@@ -258,7 +288,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -272,13 +304,13 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "Some of the Jewish believers insisted that without circumcision the new converts could not be saved. Circumcision was the God given sign that Jews were members of the Old Testament covenant. Even though they had come to understand that God’s offer of salvation was for all peoples ({Acts 11:18}),&nbsp;",
+                "text": "Some of the Jewish believers insisted that without circumcision the new converts could not be saved. Circumcision was the God given sign that Jews were members of the Old Testament covenant. Even though they had come to understand that God’s offer of salvation was for all peoples ({Acts 11:18}),",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Acts 11:18",
                     "label": "Acts 11:18",
-                    "passage": "<p><sup class=\"versenum\">18&nbsp;</sup>When they heard this, they had no further objections and praised God, saying, “So then, even to Gentiles God has granted repentance that leads to life.”</p>"
+                    "passage": "<p><sup>18</sup>When they heard this, they had no further objections and praised God, saying, “So then, even to Gentiles God has granted repentance that leads to life.”</p>"
                   }
                 ],
                 "isOpen": false
@@ -328,9 +360,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Prayer, Care, Share",
-                  "Gospel",
-                  "Foundational Bible Studies."
+                  {
+                    "text": "Prayer, Care, Share"
+                  },
+                  {
+                    "text": "Gospel"
+                  },
+                  {
+                    "text": "Foundational Bible Studies."
+                  }
                 ]
               }
             }
@@ -351,8 +389,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -375,7 +417,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

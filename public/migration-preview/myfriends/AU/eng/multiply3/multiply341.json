@@ -59,8 +59,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -82,7 +86,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -104,9 +110,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -148,7 +160,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -164,7 +178,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Acts 20:1-12 two times as others listen."
+          {
+            "text": "Read or watch Acts 20:1-12 two times as others listen."
+          }
         ]
       }
     },
@@ -172,7 +188,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 20:1-12",
-        "html": "<!-- begin bible --><h3>Through Macedonia and Greece</h3><p><sup class=\"versenum\">1 </sup>When the uproar had ended, Paul sent for the disciples and, after encouraging them, said goodbye and set out for Macedonia.<sup class=\"versenum\">2 </sup>He traveled through that area, speaking many words of encouragement to the people, and finally arrived in Greece,<sup class=\"versenum\">3 </sup>where he stayed three months. Because some Jews had plotted against him just as he was about to sail for Syria, he decided to go back through Macedonia.<sup class=\"versenum\">4 </sup>He was accompanied by Sopater son of Pyrrhus from Berea, Aristarchus and Secundus from Thessalonica, Gaius from Derbe, Timothy also, and Tychicus and Trophimus from the province of Asia.<sup class=\"versenum\">5 </sup>These men went on ahead and waited for us at Troas.<sup class=\"versenum\">6 </sup>But we sailed from Philippi after the Festival of Unleavened Bread, and five days later joined the others at Troas, where we stayed seven days.</p><h3>Eutychus Raised From the Dead at Troas</h3><p><sup class=\"versenum\">7 </sup>On the first day of the week we came together to break bread. Paul spoke to the people and, because he intended to leave the next day, kept on talking until midnight.<sup class=\"versenum\">8 </sup>There were many lamps in the upstairs room where we were meeting.<sup class=\"versenum\">9 </sup>Seated in a window was a young man named Eutychus, who was sinking into a deep sleep as Paul talked on and on. When he was sound asleep, he fell to the ground from the third story and was picked up dead.<sup class=\"versenum\">10 </sup>Paul went down, threw himself on the young man and put his arms around him. “Don’t be alarmed,” he said. “He’s alive!”<sup class=\"versenum\">11 </sup>Then he went upstairs again and broke bread and ate. After talking until daylight, he left.<sup class=\"versenum\">12 </sup>The people took the young man home alive and were greatly comforted.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<h3>Through Macedonia and Greece</h3><p><sup>1</sup>When the uproar had ended, Paul sent for the disciples and, after encouraging them, said goodbye and set out for Macedonia.<sup>2</sup>He traveled through that area, speaking many words of encouragement to the people, and finally arrived in Greece,<sup>3</sup>where he stayed three months. Because some Jews had plotted against him just as he was about to sail for Syria, he decided to go back through Macedonia.<sup>4</sup>He was accompanied by Sopater son of Pyrrhus from Berea, Aristarchus and Secundus from Thessalonica, Gaius from Derbe, Timothy also, and Tychicus and Trophimus from the province of Asia.<sup>5</sup>These men went on ahead and waited for us at Troas.<sup>6</sup>But we sailed from Philippi after the Festival of Unleavened Bread, and five days later joined the others at Troas, where we stayed seven days.</p><h3>Eutychus Raised From the Dead at Troas</h3><p><sup>7</sup>On the first day of the week we came together to break bread. Paul spoke to the people and, because he intended to leave the next day, kept on talking until midnight.<sup>8</sup>There were many lamps in the upstairs room where we were meeting.<sup>9</sup>Seated in a window was a young man named Eutychus, who was sinking into a deep sleep as Paul talked on and on. When he was sound asleep, he fell to the ground from the third story and was picked up dead.<sup>10</sup>Paul went down, threw himself on the young man and put his arms around him. “Don’t be alarmed,” he said. “He’s alive!”<sup>11</sup>Then he went upstairs again and broke bread and ate. After talking until daylight, he left.<sup>12</sup>The people took the young man home alive and were greatly comforted.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Acts%2020:1-12&version=NIV",
         "isOpen": false
       }
@@ -214,10 +230,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in the story?",
-          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in the story?"
+          },
+          {
+            "text": "What is being modeled about a Spirit-dependent life, making disciples or leadership?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -232,9 +256,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How are Jesus’ followers continuing His work of making disciples and church planting?",
-          "How is the gospel impacting people and society?",
-          "What barriers or obstacles were overcome and how were they overcome?"
+          {
+            "text": "How are Jesus’ followers continuing His work of making disciples and church planting?"
+          },
+          {
+            "text": "How is the gospel impacting people and society?"
+          },
+          {
+            "text": "What barriers or obstacles were overcome and how were they overcome?"
+          }
         ]
       }
     },
@@ -257,7 +287,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -271,43 +303,43 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "As was his practice, Paul revisited the churches he started to encourage them and give them more teaching. He first went to Macedonia to visit the churches in the cities of Philippi, Thessalonica and Berea. During his stay, he wrote another letter to the Corinthians. After several months in Macedonia, Paul traveled to Achaia to visit the believers in Corinth. Before leaving for Jerusalem, he wrote a letter to the churches in Rome to let them know about his travel plans and to explain the gospel more deeply to them ({Romans 1:11},&nbsp;{Romans 15:28}).&nbsp;\n\n{2 Corinthians 8:1-7},&nbsp;\n\n{Romans 15:25-26}).&nbsp;\n\n{1 Thessalonians 2:14};\n\n{2 Thessalonians 1:4}).&nbsp;",
+                "text": "As was his practice, Paul revisited the churches he started to encourage them and give them more teaching. He first went to Macedonia to visit the churches in the cities of Philippi, Thessalonica and Berea. During his stay, he wrote another letter to the Corinthians. After several months in Macedonia, Paul traveled to Achaia to visit the believers in Corinth. Before leaving for Jerusalem, he wrote a letter to the churches in Rome to let them know about his travel plans and to explain the gospel more deeply to them ({Romans 1:11}, {Romans 15:28}). {2 Corinthians 8:1-7}, {Romans 15:25-26}). {1 Thessalonians 2:14}; {2 Thessalonians 1:4}).",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Romans 1:11",
                     "label": "Romans 1:11",
-                    "passage": "<p><sup class=\"versenum\">11&nbsp;</sup>I long to see you so that I may impart to you some spiritual gift to make you strong—</p>"
+                    "passage": "<p><sup>11</sup>I long to see you so that I may impart to you some spiritual gift to make you strong—</p>"
                   },
                   {
                     "id": "popup_pop2",
                     "marker": "Romans 15:28",
                     "label": "Romans 15:28",
-                    "passage": "<p><sup class=\"versenum\">28&nbsp;</sup>So after I have completed this task and have made sure that they have received this contribution, I will go to Spain and visit you on the way.</p>"
+                    "passage": "<p><sup>28</sup>So after I have completed this task and have made sure that they have received this contribution, I will go to Spain and visit you on the way.</p>"
                   },
                   {
                     "id": "popup_pop3",
                     "marker": "2 Corinthians 8:1-7",
                     "label": "2 Corinthians 8:1-7",
-                    "passage": "<p><sup class=\"versenum\">1 </sup>And now, brothers and sisters, we want you to know about the grace that God has given the Macedonian churches.<sup class=\"versenum\">2&nbsp;</sup>In the midst of a very severe trial, their overflowing joy and their extreme poverty welled up in rich generosity.<sup class=\"versenum\">3&nbsp;</sup>For I testify that they gave as much as they were able, and even beyond their ability. Entirely on their own,<sup class=\"versenum\">4&nbsp;</sup>they urgently pleaded with us for the privilege of sharing in this service to the Lord’s people.<sup class=\"versenum\">5&nbsp;</sup>And they exceeded our expectations: They gave themselves first of all to the Lord, and then by the will of God also to us.<sup class=\"versenum\">6&nbsp;</sup>So we urged Titus, just as he had earlier made a beginning, to bring also to completion this act of grace on your part.<sup class=\"versenum\">7&nbsp;</sup>But since you excel in everything—in faith, in speech, in knowledge, in complete earnestness and in the love we have kindled in you—see that you also excel in this grace of giving.</p>"
+                    "passage": "<p><sup>1</sup>And now, brothers and sisters, we want you to know about the grace that God has given the Macedonian churches.<sup>2</sup>In the midst of a very severe trial, their overflowing joy and their extreme poverty welled up in rich generosity.<sup>3</sup>For I testify that they gave as much as they were able, and even beyond their ability. Entirely on their own,<sup>4</sup>they urgently pleaded with us for the privilege of sharing in this service to the Lord’s people.<sup>5</sup>And they exceeded our expectations: They gave themselves first of all to the Lord, and then by the will of God also to us.<sup>6</sup>So we urged Titus, just as he had earlier made a beginning, to bring also to completion this act of grace on your part.<sup>7</sup>But since you excel in everything—in faith, in speech, in knowledge, in complete earnestness and in the love we have kindled in you—see that you also excel in this grace of giving.</p>"
                   },
                   {
                     "id": "popup_pop4",
                     "marker": "Romans 15:25-26",
                     "label": "Romans 15:25-26",
-                    "passage": "<p><sup class=\"versenum\">25&nbsp;</sup>Now, however, I am on my way to Jerusalem in the service of the Lord’s people there.<sup class=\"versenum\">26&nbsp;</sup>For Macedonia and Achaia were pleased to make a contribution for the poor among the Lord’s people in Jerusalem.</p>"
+                    "passage": "<p><sup>25</sup>Now, however, I am on my way to Jerusalem in the service of the Lord’s people there.<sup>26</sup>For Macedonia and Achaia were pleased to make a contribution for the poor among the Lord’s people in Jerusalem.</p>"
                   },
                   {
                     "id": "popup_pop7",
                     "marker": "1 Thessalonians 2:14",
                     "label": "1 Thessalonians 2:14",
-                    "passage": "<p><sup class=\"versenum\">14&nbsp;</sup>For you, brothers and sisters, became imitators of God’s churches in Judea, which are in Christ Jesus: You suffered from your own people the same things those churches suffered from the Jews</p>"
+                    "passage": "<p><sup>14</sup>For you, brothers and sisters, became imitators of God’s churches in Judea, which are in Christ Jesus: You suffered from your own people the same things those churches suffered from the Jews</p>"
                   },
                   {
                     "id": "popup_pop6",
                     "marker": "2 Thessalonians 1:4",
                     "label": "2 Thessalonians 1:4",
-                    "passage": "<p><sup class=\"versenum\">4&nbsp;</sup>Therefore, among God’s churches we boast about your perseverance and faith in all the persecutions and trials you are enduring.</p>"
+                    "passage": "<p><sup>4</sup>Therefore, among God’s churches we boast about your perseverance and faith in all the persecutions and trials you are enduring.</p>"
                   }
                 ],
                 "isOpen": false
@@ -357,7 +389,9 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Practice needed skills or previous topics to help prepare to minister to others:<br> o Prayer, Care, Share<br> o Gospel<br> o Foundational Bible Studies."
+                  {
+                    "text": "Practice needed skills or previous topics to help prepare to minister to others:<br> o Prayer, Care, Share<br> o Gospel<br> o Foundational Bible Studies."
+                  }
                 ]
               }
             }
@@ -378,8 +412,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -402,7 +440,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

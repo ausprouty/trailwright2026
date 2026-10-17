@@ -5,7 +5,7 @@
   "htmlLang": "en",
   "direction": "ltr",
   "numberSystem": "latn",
-  "series": "multiply",
+  "series": "multiply1",
   "lessonId": "multiply114",
   "sortOrder": 14,
   "blocks": [
@@ -39,7 +39,7 @@
                     "id": "popup_pop1",
                     "marker": "Psalm 100",
                     "label": "Psalm 100",
-                    "passage": "<div>\n<h4>A psalm. For giving grateful praise.</h4>\n\n<p><sup class=\"versenum\">1&nbsp;</sup>Shout for joy to the <span class=\"small-caps\">Lord, all the earth.<br>\n<sup class=\"versenum\">2&nbsp;</sup>&nbsp;&nbsp;&nbsp;&nbsp;Worship the <span class=\"small-caps\">Lord with gladness;<br>\n&nbsp;&nbsp;&nbsp;&nbsp;come before him with joyful songs.<br>\n<sup class=\"versenum\">3&nbsp;</sup>Know that the <span class=\"small-caps\">Lord is God.<br>\n&nbsp;&nbsp;&nbsp;&nbsp;It is he who made us, and we are his;<br>\n&nbsp;&nbsp;&nbsp;&nbsp;we are his people, the sheep of his pasture.</span></span></span></p>\n</div>\n\n<p><sup class=\"versenum\">4&nbsp;</sup>Enter his gates with thanksgiving<br>\n&nbsp;&nbsp;&nbsp;&nbsp;and his courts with praise;<br>\n&nbsp;&nbsp;&nbsp;&nbsp;give thanks to him and praise his name.<br>\n<sup class=\"versenum\">5&nbsp;</sup>For the <span class=\"small-caps\">Lord is good and his love endures forever;<br>\n&nbsp;&nbsp;&nbsp;&nbsp;his faithfulness continues through all generations.</span></p>"
+                    "passage": "<div><h4>A psalm. For giving grateful praise.</h4><p><sup>1</sup>Shout for joy to the<span class=\"small-caps\">Lord, all the earth.<br><sup>2</sup>Worship the<span class=\"small-caps\">Lord with gladness;<br>come before him with joyful songs.<br><sup>3</sup>Know that the<span class=\"small-caps\">Lord is God.<br>It is he who made us, and we are his;<br>we are his people, the sheep of his pasture.</span></span></span></p></div><p><sup>4</sup>Enter his gates with thanksgiving<br>and his courts with praise;<br>give thanks to him and praise his name.<br><sup>5</sup>For the<span class=\"small-caps\">Lord is good and his love endures forever;<br>his faithfulness continues through all generations.</span></p>"
                   }
                 ],
                 "isOpen": false
@@ -62,10 +62,35 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What has been going well for you this week?",
-          "What has been difficult for you this past week?",
-          "What have you put into practice since our last meeting?",
-          "How have you experienced God working through your life this week?Were you able to: <ul><li>tell anyone this week about what God is doing in your life?</li><li>share a Bible passage?</li><li>meet a practical need? </li><li>pray with anyone?</li></ul>"
+          {
+            "text": "What has been going well for you this week?"
+          },
+          {
+            "text": "What has been difficult for you this past week?"
+          },
+          {
+            "text": "What have you put into practice since our last meeting?"
+          },
+          {
+            "text": "How have you experienced God working through your life this week?Were you able to:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "tell anyone this week about what God is doing in your life?"
+                },
+                {
+                  "text": "share a Bible passage?"
+                },
+                {
+                  "text": "meet a practical need?"
+                },
+                {
+                  "text": "pray with anyone?"
+                }
+              ]
+            }
+          }
         ]
       }
     },
@@ -88,7 +113,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Do you need any help from God in your life?"
+          {
+            "text": "Do you need any help from God in your life?"
+          }
         ]
       }
     },
@@ -102,13 +129,13 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "Read {Ephesians 2:1-10}.&nbsp;",
+                "text": "Read {Ephesians 2:1-10}.",
                 "references": [
                   {
                     "id": "popup_pop2",
                     "marker": "Ephesians 2:1-10",
                     "label": "Ephesians 2:1-10",
-                    "passage": "<p><sup class=\"versenum\">1 </sup>As for you, you were dead in your transgressions and sins,<sup class=\"versenum\">2&nbsp;</sup>in which you used to live when you followed the ways of this world and of the ruler of the kingdom of the air, the spirit who is now at work in those who are disobedient.<sup class=\"versenum\">3&nbsp;</sup>All of us also lived among them at one time, gratifying the cravings of our flesh and following its desires and thoughts. Like the rest, we were by nature deserving of wrath.<sup class=\"versenum\">4&nbsp;</sup>But because of his great love for us, God, who is rich in mercy,<sup class=\"versenum\">5&nbsp;</sup>made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved.<sup class=\"versenum\">6&nbsp;</sup>And God raised us up with Christ and seated us with him in the heavenly realms in Christ Jesus,<sup class=\"versenum\">7&nbsp;</sup>in order that in the coming ages he might show the incomparable riches of his grace, expressed in his kindness to us in Christ Jesus.<sup class=\"versenum\">8&nbsp;</sup>For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—<sup class=\"versenum\">9&nbsp;</sup>not by works, so that no one can boast.<sup class=\"versenum\">10&nbsp;</sup>For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.</p>"
+                    "passage": "<p><sup>1</sup>As for you, you were dead in your transgressions and sins,<sup>2</sup>in which you used to live when you followed the ways of this world and of the ruler of the kingdom of the air, the spirit who is now at work in those who are disobedient.<sup>3</sup>All of us also lived among them at one time, gratifying the cravings of our flesh and following its desires and thoughts. Like the rest, we were by nature deserving of wrath.<sup>4</sup>But because of his great love for us, God, who is rich in mercy,<sup>5</sup>made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved.<sup>6</sup>And God raised us up with Christ and seated us with him in the heavenly realms in Christ Jesus,<sup>7</sup>in order that in the coming ages he might show the incomparable riches of his grace, expressed in his kindness to us in Christ Jesus.<sup>8</sup>For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—<sup>9</sup>not by works, so that no one can boast.<sup>10</sup>For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.</p>"
                   }
                 ],
                 "isOpen": false
@@ -175,7 +202,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 2:41-47",
-        "html": "<!-- begin bible --><p><sup>41 </sup>Those who accepted his message were baptized, and about three thousand were added to their number that day.</p><p><sup class=\"versenum\">42 </sup>They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer.<sup class=\"versenum\">43 </sup>Everyone was filled with awe at the many wonders and signs performed by the apostles.<sup class=\"versenum\">44 </sup>All the believers were together and had everything in common.<sup class=\"versenum\">45 </sup>They sold property and possessions to give to anyone who had need.<sup class=\"versenum\">46 </sup>Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts,<sup class=\"versenum\">47 </sup>praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved.</p><!-- end bible -->",
+        "html": "<p><sup>41 </sup>Those who accepted his message were baptized, and about three thousand were added to their number that day.</p><p><sup>42</sup>They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer.<sup>43</sup>Everyone was filled with awe at the many wonders and signs performed by the apostles.<sup>44</sup>All the believers were together and had everything in common.<sup>45</sup>They sold property and possessions to give to anyone who had need.<sup>46</sup>Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts,<sup>47</sup>praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved.</p>",
         "url": "https://biblegateway.com/passage/?search=Acts%202:41-47&version=NIV",
         "isOpen": false
       }
@@ -205,12 +232,41 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What stands out for you in this passage?",
-          "What do you like and what bothers you in this passage?",
-          "Why do you think this passage is important?",
-          "What are some possible ways a person could apply this passage? Is there: <ul><li>A behaviour to change?</li><li>A promise to claim?</li><li>An example to follow?</li><li>A command to obey?</li></ul>",
-          "Ask God what He wants you to do in response to the passage.",
-          "Share this with the group"
+          {
+            "text": "What stands out for you in this passage?"
+          },
+          {
+            "text": "What do you like and what bothers you in this passage?"
+          },
+          {
+            "text": "Why do you think this passage is important?"
+          },
+          {
+            "text": "What are some possible ways a person could apply this passage? Is there:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "A behaviour to change?"
+                },
+                {
+                  "text": "A promise to claim?"
+                },
+                {
+                  "text": "An example to follow?"
+                },
+                {
+                  "text": "A command to obey?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Ask God what He wants you to do in response to the passage."
+          },
+          {
+            "text": "Share this with the group"
+          }
         ]
       }
     },
@@ -233,7 +289,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -313,16 +371,36 @@
               "data": {
                 "style": "ordered",
                 "items": [
-                  "Worship",
-                  "Fellowship",
-                  "Studying God’s word",
-                  "Prayer",
-                  "Witness",
-                  "Ministry (meeting needs in the community)",
-                  "Leadership (appointing and developing leaders)",
-                  "Giving",
-                  "Lord’s Supper",
-                  "Baptism"
+                  {
+                    "text": "Worship"
+                  },
+                  {
+                    "text": "Fellowship"
+                  },
+                  {
+                    "text": "Studying God’s word"
+                  },
+                  {
+                    "text": "Prayer"
+                  },
+                  {
+                    "text": "Witness"
+                  },
+                  {
+                    "text": "Ministry (meeting needs in the community)"
+                  },
+                  {
+                    "text": "Leadership (appointing and developing leaders)"
+                  },
+                  {
+                    "text": "Giving"
+                  },
+                  {
+                    "text": "Lord’s Supper"
+                  },
+                  {
+                    "text": "Baptism"
+                  }
                 ]
               }
             }
@@ -374,8 +452,12 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "what activities do we want to add to our gatherings?",
-                  "when do we want to start adding these?"
+                  {
+                    "text": "what activities do we want to add to our gatherings?"
+                  },
+                  {
+                    "text": "when do we want to start adding these?"
+                  }
                 ]
               }
             },
@@ -397,11 +479,21 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "which groups are we going to focus on?",
-                  "where do you think God wants us to focus on?",
-                  "what is the first step?",
-                  "when should we start?",
-                  "what will encourage us to continue helping these groups?"
+                  {
+                    "text": "which groups are we going to focus on?"
+                  },
+                  {
+                    "text": "where do you think God wants us to focus on?"
+                  },
+                  {
+                    "text": "what is the first step?"
+                  },
+                  {
+                    "text": "when should we start?"
+                  },
+                  {
+                    "text": "what will encourage us to continue helping these groups?"
+                  }
                 ]
               }
             }
@@ -422,15 +514,20 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Look at your Daisy Chain again.",
-          "What is God revealing as your next steps this week with him and others?"
+          {
+            "text": "Look at your Daisy Chain again."
+          },
+          {
+            "text": "What is God revealing as your next steps this week with him and others?"
+          }
         ]
       }
     },
     {
-      "type": "iWill",
+      "type": "notesArea",
       "data": {
-        "storageKey": "multiply-multiply114-i-will"
+        "notes": "",
+        "storageKey": "note-28"
       }
     },
     {
@@ -438,9 +535,19 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Share this step with the group and ask someone to pray for you as you take this step in the power of the Holy Spirit.",
-          "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle."
+          {
+            "text": "Share this step with the group and ask someone to pray for you as you take this step in the power of the Holy Spirit."
+          },
+          {
+            "text": "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle."
+          }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply114-i-will"
       }
     }
   ]

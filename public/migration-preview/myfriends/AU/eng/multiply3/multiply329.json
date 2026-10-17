@@ -59,8 +59,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -82,7 +86,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -104,9 +110,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -148,7 +160,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -164,7 +178,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Acts 14:21-28 two times as others listen."
+          {
+            "text": "Read or watch Acts 14:21-28 two times as others listen."
+          }
         ]
       }
     },
@@ -172,7 +188,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 14:21-28",
-        "html": "<!-- begin bible --><h3>The Return to Antioch in Syria</h3><p><sup class=\"versenum\">21 </sup>They preached the gospel in that city and won a large number of disciples. Then they returned to Lystra, Iconium and Antioch,<sup class=\"versenum\">22 </sup>strengthening the disciples and encouraging them to remain true to the faith. “We must go through many hardships to enter the kingdom of God,” they said.<sup class=\"versenum\">23 </sup>Paul and Barnabas appointed elders for them in each church and, with prayer and fasting, committed them to the Lord, in whom they had put their trust.<sup class=\"versenum\">24 </sup>After going through Pisidia, they came into Pamphylia,<sup class=\"versenum\">25 </sup>and when they had preached the word in Perga, they went down to Attalia.</p><p><sup class=\"versenum\">26 </sup>From Attalia they sailed back to Antioch, where they had been committed to the grace of God for the work they had now completed.<sup class=\"versenum\">27 </sup>On arriving there, they gathered the church together and reported all that God had done through them and how he had opened a door of faith to the Gentiles.<sup class=\"versenum\">28 </sup>And they stayed there a long time with the disciples.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<h3>The Return to Antioch in Syria</h3><p><sup>21</sup>They preached the gospel in that city and won a large number of disciples. Then they returned to Lystra, Iconium and Antioch,<sup>22</sup>strengthening the disciples and encouraging them to remain true to the faith. “We must go through many hardships to enter the kingdom of God,” they said.<sup>23</sup>Paul and Barnabas appointed elders for them in each church and, with prayer and fasting, committed them to the Lord, in whom they had put their trust.<sup>24</sup>After going through Pisidia, they came into Pamphylia,<sup>25</sup>and when they had preached the word in Perga, they went down to Attalia.</p><p><sup>26</sup>From Attalia they sailed back to Antioch, where they had been committed to the grace of God for the work they had now completed.<sup>27</sup>On arriving there, they gathered the church together and reported all that God had done through them and how he had opened a door of faith to the Gentiles.<sup>28</sup>And they stayed there a long time with the disciples.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Acts%2014:21-28&version=NIV",
         "isOpen": false
       }
@@ -202,10 +218,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in the story?",
-          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in the story?"
+          },
+          {
+            "text": "What is being modeled about a Spirit-dependent life, making disciples or leadership?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -220,9 +244,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How are Jesus’ followers continuing His work of making disciples and church planting?",
-          "How is the gospel impacting people and society?",
-          "What barriers or obstacles were overcome and how were they overcome?"
+          {
+            "text": "How are Jesus’ followers continuing His work of making disciples and church planting?"
+          },
+          {
+            "text": "How is the gospel impacting people and society?"
+          },
+          {
+            "text": "What barriers or obstacles were overcome and how were they overcome?"
+          }
         ]
       }
     },
@@ -245,7 +275,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -259,13 +291,13 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "After planting another church in Derbe, Paul and Barnabas decide to revisit the new churches on their return journey to Syrian Antioch. Their purpose was to strengthen the faith of the new believers and stabilize the churches by identifying and appointing local elders in each new church. Even though these churches were only a few months old, they were led by new believers. Part of the foundational discipleship Paul taught the new believers was how to respond to persecution and the reality of hardships that come with boldly following Jesus ({Acts 14:22}).&nbsp;",
+                "text": "After planting another church in Derbe, Paul and Barnabas decide to revisit the new churches on their return journey to Syrian Antioch. Their purpose was to strengthen the faith of the new believers and stabilize the churches by identifying and appointing local elders in each new church. Even though these churches were only a few months old, they were led by new believers. Part of the foundational discipleship Paul taught the new believers was how to respond to persecution and the reality of hardships that come with boldly following Jesus ({Acts 14:22}).",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Acts 14:22",
                     "label": "Acts 14:22",
-                    "passage": "<p><sup class=\"versenum\">22&nbsp;</sup>strengthening the disciples and encouraging them to remain true to the faith. “We must go through many hardships to enter the kingdom of God,” they said.</p>"
+                    "passage": "<p><sup>22</sup>strengthening the disciples and encouraging them to remain true to the faith. “We must go through many hardships to enter the kingdom of God,” they said.</p>"
                   }
                 ],
                 "isOpen": false
@@ -321,9 +353,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Prayer, Care, Share",
-                  "Gospel",
-                  "Foundational Bible Studies."
+                  {
+                    "text": "Prayer, Care, Share"
+                  },
+                  {
+                    "text": "Gospel"
+                  },
+                  {
+                    "text": "Foundational Bible Studies."
+                  }
                 ]
               }
             }
@@ -344,8 +382,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -368,7 +410,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

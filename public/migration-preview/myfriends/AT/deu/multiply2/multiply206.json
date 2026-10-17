@@ -41,9 +41,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "eine Bibelstelle lest, die euch an Gottes Vaterherz und die große Vision erinnert.",
-                  "über die Veränderungen reflektiert, die Gott in euren Leben bewirkt hat, seit ihr Jesus-Nachfolger geworden seid.",
-                  "euch an den Auftrag und das Abenteuer erinnert, die Gott für euch bereit hält."
+                  {
+                    "text": "eine Bibelstelle lest, die euch an Gottes Vaterherz und die große Vision erinnert."
+                  },
+                  {
+                    "text": "über die Veränderungen reflektiert, die Gott in euren Leben bewirkt hat, seit ihr Jesus-Nachfolger geworden seid."
+                  },
+                  {
+                    "text": "euch an den Auftrag und das Abenteuer erinnert, die Gott für euch bereit hält."
+                  }
                 ]
               }
             },
@@ -70,9 +76,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -88,10 +100,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -122,9 +142,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -138,7 +164,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 3:13-17",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>13</sup>Um diese Zeit kam Jesus aus Galiläa an den Jordan, um sich von Johannes taufen zu lassen. <sup>14</sup>Doch Johannes weigerte sich. »Eigentlich müsste ich mich von dir taufen lassen«, sagte er, »warum kommst du zu mir?« <sup>15</sup>Jesus erwiderte: »Es muss sein. Wir müssen alles so halten, wie es von Gott aus sein soll. « Da taufte ihn Johannes. <sup>16</sup>Als Jesus gerade aus dem Wasser stieg, öffnete sich der Himmel, und er sah den Geist Gottes wie eine Taube herabschweben und sich auf ihm niederlassen. <sup>17</sup>Und eine Stimme aus dem Himmel sprach: »Dies ist mein geliebter Sohn, an ihm habe ich große Freude.« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>13</sup>Um diese Zeit kam Jesus aus Galiläa an den Jordan, um sich von Johannes taufen zu lassen. <sup>14</sup>Doch Johannes weigerte sich. »Eigentlich müsste ich mich von dir taufen lassen«, sagte er, »warum kommst du zu mir?« <sup>15</sup>Jesus erwiderte: »Es muss sein. Wir müssen alles so halten, wie es von Gott aus sein soll. « Da taufte ihn Johannes. <sup>16</sup>Als Jesus gerade aus dem Wasser stieg, öffnete sich der Himmel, und er sah den Geist Gottes wie eine Taube herabschweben und sich auf ihm niederlassen. <sup>17</sup>Und eine Stimme aus dem Himmel sprach: »Dies ist mein geliebter Sohn, an ihm habe ich große Freude.« </div><p></p>",
         "url": "https://bibleserver.com/NLB/Matthäus%203:13-17",
         "isOpen": false
       }
@@ -168,9 +194,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -267,8 +299,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -284,7 +337,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

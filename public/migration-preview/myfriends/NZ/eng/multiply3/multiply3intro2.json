@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "James, mid- 40’s"
+          {
+            "text": "James, mid- 40’s"
+          }
         ]
       }
     }

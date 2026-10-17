@@ -33,19 +33,19 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "<li class=\"nobreak\">(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. ({Philippians 2:11}b;&nbsp;\n\n\t\n\t&nbsp;{1 Timothy 2:4-6}a).&nbsp;\n\n\t\n\t</li>",
+                "text": "(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. ({Philippians 2:11}b; {1 Timothy 2:4-6}a).",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Philippians 2:11",
                     "label": "Philippians 2:11",
-                    "passage": "<p><sup class=\"versenum\">11&nbsp;</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;to the glory of God the Father.</p>"
+                    "passage": "<p><sup>11</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>to the glory of God the Father.</p>"
                   },
                   {
                     "id": "popup_pop2",
                     "marker": "1 Timothy 2:4-6",
                     "label": "1 Timothy 2:4-6",
-                    "passage": "<p><sup class=\"versenum\">4&nbsp;</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup class=\"versenum\">5&nbsp;</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup class=\"versenum\">6&nbsp;</sup>who gave himself as a ransom for all people.&nbsp;</p>"
+                    "passage": "<p><sup>4</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup>5</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup>6</sup>who gave himself as a ransom for all people.</p>"
                   }
                 ],
                 "isOpen": false
@@ -74,8 +74,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -97,7 +101,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -119,9 +125,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -170,7 +182,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -191,7 +205,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthew 2:19-23",
-        "html": "<!-- begin bible --><h3>The Return to Nazareth</h3><p><sup class=\"versenum\">19 </sup>After Herod died, an angel of the Lord appeared in a dream to Joseph in Egypt<sup class=\"versenum\">20 </sup>and said, “Get up, take the child and his mother and go to the land of Israel, for those who were trying to take the child’s life are dead.”</p><p><sup class=\"versenum\">21 </sup>So he got up, took the child and his mother and went to the land of Israel.<sup class=\"versenum\">22 </sup>But when he heard that Archelaus was reigning in Judea in place of his father Herod, he was afraid to go there. Having been warned in a dream, he withdrew to the district of Galilee,<sup class=\"versenum\">23 </sup>and he went and lived in a town called Nazareth. So was fulfilled what was said through the prophets, that he would be called a Nazarene.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<h3>The Return to Nazareth</h3><p><sup>19</sup>After Herod died, an angel of the Lord appeared in a dream to Joseph in Egypt<sup>20</sup>and said, “Get up, take the child and his mother and go to the land of Israel, for those who were trying to take the child’s life are dead.”</p><p><sup>21</sup>So he got up, took the child and his mother and went to the land of Israel.<sup>22</sup>But when he heard that Archelaus was reigning in Judea in place of his father Herod, he was afraid to go there. Having been warned in a dream, he withdrew to the district of Galilee,<sup>23</sup>and he went and lived in a town called Nazareth. So was fulfilled what was said through the prophets, that he would be called a Nazarene.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Matthew%202:19-23&version=NIV",
         "isOpen": false
       }
@@ -213,7 +227,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Luke 2:39-52",
-        "html": "<!-- begin bible --><p><sup class=\"versenum\">39 </sup>When Joseph and Mary had done everything required by the Law of the Lord, they returned to Galilee to their own town of Nazareth.<sup class=\"versenum\">40 </sup>And the child grew and became strong; he was filled with wisdom, and the grace of God was on him.</p><h3>The Boy Jesus at the Temple</h3><p><sup class=\"versenum\">41 </sup>Every year Jesus’ parents went to Jerusalem for the Festival of the Passover.<sup class=\"versenum\">42 </sup>When he was twelve years old, they went up to the festival, according to the custom.<sup class=\"versenum\">43 </sup>After the festival was over, while his parents were returning home, the boy Jesus stayed behind in Jerusalem, but they were unaware of it.<sup class=\"versenum\">44 </sup>Thinking he was in their company, they traveled on for a day. Then they began looking for him among their relatives and friends.<sup class=\"versenum\">45 </sup>When they did not find him, they went back to Jerusalem to look for him.<sup class=\"versenum\">46 </sup>After three days they found him in the temple courts, sitting among the teachers, listening to them and asking them questions.<sup class=\"versenum\">47 </sup>Everyone who heard him was amazed at his understanding and his answers.<sup class=\"versenum\">48 </sup>When his parents saw him, they were astonished. His mother said to him, “Son, why have you treated us like this? Your father and I have been anxiously searching for you.”</p><p><sup class=\"versenum\">49 </sup>“Why were you searching for me?” he asked. “Didn’t you know I had to be in my Father’s house?”<sup class=\"versenum\">50 </sup>But they did not understand what he was saying to them.</p><p><sup class=\"versenum\">51 </sup>Then he went down to Nazareth with them and was obedient to them. But his mother treasured all these things in her heart.<sup class=\"versenum\">52 </sup>And Jesus grew in wisdom and stature, and in favor with God and man.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<p><sup>39</sup>When Joseph and Mary had done everything required by the Law of the Lord, they returned to Galilee to their own town of Nazareth.<sup>40</sup>And the child grew and became strong; he was filled with wisdom, and the grace of God was on him.</p><h3>The Boy Jesus at the Temple</h3><p><sup>41</sup>Every year Jesus’ parents went to Jerusalem for the Festival of the Passover.<sup>42</sup>When he was twelve years old, they went up to the festival, according to the custom.<sup>43</sup>After the festival was over, while his parents were returning home, the boy Jesus stayed behind in Jerusalem, but they were unaware of it.<sup>44</sup>Thinking he was in their company, they traveled on for a day. Then they began looking for him among their relatives and friends.<sup>45</sup>When they did not find him, they went back to Jerusalem to look for him.<sup>46</sup>After three days they found him in the temple courts, sitting among the teachers, listening to them and asking them questions.<sup>47</sup>Everyone who heard him was amazed at his understanding and his answers.<sup>48</sup>When his parents saw him, they were astonished. His mother said to him, “Son, why have you treated us like this? Your father and I have been anxiously searching for you.”</p><p><sup>49</sup>“Why were you searching for me?” he asked. “Didn’t you know I had to be in my Father’s house?”<sup>50</sup>But they did not understand what he was saying to them.</p><p><sup>51</sup>Then he went down to Nazareth with them and was obedient to them. But his mother treasured all these things in her heart.<sup>52</sup>And Jesus grew in wisdom and stature, and in favor with God and man.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Luke%202:39-52;%20Matthew%202:19-23&version=NIV",
         "isOpen": false
       }
@@ -243,10 +257,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in Jesus story?",
-          "What do we learn about the humanity or divinity of Jesus from this passage?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in Jesus story?"
+          },
+          {
+            "text": "What do we learn about the humanity or divinity of Jesus from this passage?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -261,8 +283,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What are his followers learning?",
-          "What is Jesus modeling to us about life and ministry or godly leadership?"
+          {
+            "text": "What are his followers learning?"
+          },
+          {
+            "text": "What is Jesus modeling to us about life and ministry or godly leadership?"
+          }
         ]
       }
     },
@@ -285,7 +311,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -299,13 +327,13 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "<li class=\"nobreak\">Each year Jesus’ family would make a pilgrimage to Jerusalem to celebrate Passover with family and friends. This year was special because at age 12, Jesus could ask questions and interact with the religious leaders of His day. Luke 2:40 summarizes Jesus’ boyhood until age 12. {Luke 2:52}\n\n\t\n\tsummarizes his growth toward manhood which covers the time at approximately age 18 until he was about 30.</li>",
+                "text": "Each year Jesus’ family would make a pilgrimage to Jerusalem to celebrate Passover with family and friends. This year was special because at age 12, Jesus could ask questions and interact with the religious leaders of His day. Luke 2:40 summarizes Jesus’ boyhood until age 12. {Luke 2:52} summarizes his growth toward manhood which covers the time at approximately age 18 until he was about 30.",
                 "references": [
                   {
                     "id": "popup_pop3",
                     "marker": "Luke 2:52",
                     "label": "Luke 2:52",
-                    "passage": "<p><sup class=\"versenum\">52&nbsp;</sup>And Jesus grew in wisdom and stature, and in favor with God and man.</p>"
+                    "passage": "<p><sup>52</sup>And Jesus grew in wisdom and stature, and in favor with God and man.</p>"
                   }
                 ],
                 "isOpen": false
@@ -349,7 +377,23 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Practice needed skills or previous topics to help prepare to minister to others: <ul><li>Prayer, Care, Share</li><li>Gospel</li><li>Foundational Bible Studies.</li></ul>"
+          {
+            "text": "Practice needed skills or previous topics to help prepare to minister to others:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Prayer, Care, Share"
+                },
+                {
+                  "text": "Gospel"
+                },
+                {
+                  "text": "Foundational Bible Studies."
+                }
+              ]
+            }
+          }
         ]
       }
     },
@@ -365,8 +409,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -389,7 +437,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

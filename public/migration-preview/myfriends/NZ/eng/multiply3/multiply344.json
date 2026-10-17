@@ -59,8 +59,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -82,7 +86,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -104,9 +110,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -148,7 +160,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -164,7 +178,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Acts 21:27-36 two times as others listen."
+          {
+            "text": "Read or watch Acts 21:27-36 two times as others listen."
+          }
         ]
       }
     },
@@ -172,7 +188,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 21:27-36",
-        "html": "<!-- begin bible --><h3>Paul Arrested</h3><p><sup class=\"versenum\">27 </sup>When the seven days were nearly over, some Jews from the province of Asia saw Paul at the temple. They stirred up the whole crowd and seized him,<sup class=\"versenum\">28 </sup>shouting, “Fellow Israelites, help us! This is the man who teaches everyone everywhere against our people and our law and this place. And besides, he has brought Greeks into the temple and defiled this holy place.”<sup class=\"versenum\">29 </sup>(They had previously seen Trophimus the Ephesian in the city with Paul and assumed that Paul had brought him into the temple.)</p><p><sup class=\"versenum\">30 </sup>The whole city was aroused, and the people came running from all directions. Seizing Paul, they dragged him from the temple, and immediately the gates were shut.<sup class=\"versenum\">31 </sup>While they were trying to kill him, news reached the commander of the Roman troops that the whole city of Jerusalem was in an uproar.<sup class=\"versenum\">32 </sup>He at once took some officers and soldiers and ran down to the crowd. When the rioters saw the commander and his soldiers, they stopped beating Paul.</p><p><sup class=\"versenum\">33 </sup>The commander came up and arrested him and ordered him to be bound with two chains. Then he asked who he was and what he had done.<sup class=\"versenum\">34 </sup>Some in the crowd shouted one thing and some another, and since the commander could not get at the truth because of the uproar, he ordered that Paul be taken into the barracks.<sup class=\"versenum\">35 </sup>When Paul reached the steps, the violence of the mob was so great he had to be carried by the soldiers.<sup class=\"versenum\">36 </sup>The crowd that followed kept shouting, “Get rid of him!”</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<h3>Paul Arrested</h3><p><sup>27</sup>When the seven days were nearly over, some Jews from the province of Asia saw Paul at the temple. They stirred up the whole crowd and seized him,<sup>28</sup>shouting, “Fellow Israelites, help us! This is the man who teaches everyone everywhere against our people and our law and this place. And besides, he has brought Greeks into the temple and defiled this holy place.”<sup>29</sup>(They had previously seen Trophimus the Ephesian in the city with Paul and assumed that Paul had brought him into the temple.)</p><p><sup>30</sup>The whole city was aroused, and the people came running from all directions. Seizing Paul, they dragged him from the temple, and immediately the gates were shut.<sup>31</sup>While they were trying to kill him, news reached the commander of the Roman troops that the whole city of Jerusalem was in an uproar.<sup>32</sup>He at once took some officers and soldiers and ran down to the crowd. When the rioters saw the commander and his soldiers, they stopped beating Paul.</p><p><sup>33</sup>The commander came up and arrested him and ordered him to be bound with two chains. Then he asked who he was and what he had done.<sup>34</sup>Some in the crowd shouted one thing and some another, and since the commander could not get at the truth because of the uproar, he ordered that Paul be taken into the barracks.<sup>35</sup>When Paul reached the steps, the violence of the mob was so great he had to be carried by the soldiers.<sup>36</sup>The crowd that followed kept shouting, “Get rid of him!”</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Acts%2021:27-36&version=NIV",
         "isOpen": false
       }
@@ -201,10 +217,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in the story?",
-          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in the story?"
+          },
+          {
+            "text": "What is being modeled about a Spirit-dependent life, making disciples or leadership?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -219,9 +243,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How are Jesus’ followers continuing His work of making disciples and church planting?",
-          "How is the gospel impacting people and society?",
-          "What barriers or obstacles were overcome and how were they overcome?"
+          {
+            "text": "How are Jesus’ followers continuing His work of making disciples and church planting?"
+          },
+          {
+            "text": "How is the gospel impacting people and society?"
+          },
+          {
+            "text": "What barriers or obstacles were overcome and how were they overcome?"
+          }
         ]
       }
     },
@@ -244,7 +274,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -258,19 +290,19 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "Jews from the province of Asia were very familiar with Paul and Trophimus from Paul’s long stay in Ephesus. They saw an opportunity to try to stop Paul, so they stirred up the crowd against him. When they came against Paul, he was actually in the temple practicing purification that the Jewish law required. The Jews’ accusations were false, but their actions demonstrated the common misunderstandings about what Paul was teaching. The Jews were so passionate about their religion that they quickly moved to respond with violence. The Lord used the Roman authorities to rescue Paul from the mob. The prophecies made by the Spirit came true ({Acts 21:4},&nbsp;{Acts 24:11})&nbsp;",
+                "text": "Jews from the province of Asia were very familiar with Paul and Trophimus from Paul’s long stay in Ephesus. They saw an opportunity to try to stop Paul, so they stirred up the crowd against him. When they came against Paul, he was actually in the temple practicing purification that the Jewish law required. The Jews’ accusations were false, but their actions demonstrated the common misunderstandings about what Paul was teaching. The Jews were so passionate about their religion that they quickly moved to respond with violence. The Lord used the Roman authorities to rescue Paul from the mob. The prophecies made by the Spirit came true ({Acts 21:4}, {Acts 24:11})",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Acts 21:4",
                     "label": "Acts 21:4",
-                    "passage": "<p><sup class=\"versenum\">4&nbsp;</sup>We sought out the disciples there and stayed with them seven days. Through the Spirit they urged Paul not to go on to Jerusalem.</p>"
+                    "passage": "<p><sup>4</sup>We sought out the disciples there and stayed with them seven days. Through the Spirit they urged Paul not to go on to Jerusalem.</p>"
                   },
                   {
                     "id": "popup_pop2",
                     "marker": "Acts 24:11",
                     "label": "Acts 24:11",
-                    "passage": "<p><sup class=\"versenum\">11&nbsp;</sup>You can easily verify that no more than twelve days ago I went up to Jerusalem to worship.</p>"
+                    "passage": "<p><sup>11</sup>You can easily verify that no more than twelve days ago I went up to Jerusalem to worship.</p>"
                   }
                 ],
                 "isOpen": false
@@ -314,7 +346,9 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Practice needed skills or previous topics to help prepare to minister to others:<br> o Prayer, Care, Share<br> o Gospel<br> o Foundational Bible Studies."
+                  {
+                    "text": "Practice needed skills or previous topics to help prepare to minister to others:<br> o Prayer, Care, Share<br> o Gospel<br> o Foundational Bible Studies."
+                  }
                 ]
               }
             }
@@ -335,8 +369,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -359,7 +397,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

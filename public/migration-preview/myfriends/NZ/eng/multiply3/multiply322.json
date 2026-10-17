@@ -59,8 +59,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -82,7 +86,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -104,9 +110,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -148,7 +160,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -164,7 +178,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Acts 11:19-30 two times as others listen."
+          {
+            "text": "Read or watch Acts 11:19-30 two times as others listen."
+          }
         ]
       }
     },
@@ -172,7 +188,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 11:19-30",
-        "html": "<!-- begin bible --><h3>The Church in Antioch</h3><p><sup class=\"versenum\">19 </sup>Now those who had been scattered by the persecution that broke out when Stephen was killed traveled as far as Phoenicia, Cyprus and Antioch, spreading the word only among Jews.<sup class=\"versenum\">20 </sup>Some of them, however, men from Cyprus and Cyrene, went to Antioch and began to speak to Greeks also, telling them the good news about the Lord Jesus.<sup class=\"versenum\">21 </sup>The Lord’s hand was with them, and a great number of people believed and turned to the Lord.</p><p><sup class=\"versenum\">22 </sup>News of this reached the church in Jerusalem, and they sent Barnabas to Antioch.<sup class=\"versenum\">23 </sup>When he arrived and saw what the grace of God had done, he was glad and encouraged them all to remain true to the Lord with all their hearts.<sup class=\"versenum\">24 </sup>He was a good man, full of the Holy Spirit and faith, and a great number of people were brought to the Lord.</p><p><sup class=\"versenum\">25 </sup>Then Barnabas went to Tarsus to look for Saul,<sup class=\"versenum\">26 </sup>and when he found him, he brought him to Antioch. So for a whole year Barnabas and Saul met with the church and taught great numbers of people. The disciples were called Christians first at Antioch.</p><p><sup class=\"versenum\">27 </sup>During this time some prophets came down from Jerusalem to Antioch.<sup class=\"versenum\">28 </sup>One of them, named Agabus, stood up and through the Spirit predicted that a severe famine would spread over the entire Roman world. (This happened during the reign of Claudius.)<sup class=\"versenum\">29 </sup>The disciples, as each one was able, decided to provide help for the brothers and sisters living in Judea.<sup class=\"versenum\">30 </sup>This they did, sending their gift to the elders by Barnabas and Saul.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<h3>The Church in Antioch</h3><p><sup>19</sup>Now those who had been scattered by the persecution that broke out when Stephen was killed traveled as far as Phoenicia, Cyprus and Antioch, spreading the word only among Jews.<sup>20</sup>Some of them, however, men from Cyprus and Cyrene, went to Antioch and began to speak to Greeks also, telling them the good news about the Lord Jesus.<sup>21</sup>The Lord’s hand was with them, and a great number of people believed and turned to the Lord.</p><p><sup>22</sup>News of this reached the church in Jerusalem, and they sent Barnabas to Antioch.<sup>23</sup>When he arrived and saw what the grace of God had done, he was glad and encouraged them all to remain true to the Lord with all their hearts.<sup>24</sup>He was a good man, full of the Holy Spirit and faith, and a great number of people were brought to the Lord.</p><p><sup>25</sup>Then Barnabas went to Tarsus to look for Saul,<sup>26</sup>and when he found him, he brought him to Antioch. So for a whole year Barnabas and Saul met with the church and taught great numbers of people. The disciples were called Christians first at Antioch.</p><p><sup>27</sup>During this time some prophets came down from Jerusalem to Antioch.<sup>28</sup>One of them, named Agabus, stood up and through the Spirit predicted that a severe famine would spread over the entire Roman world. (This happened during the reign of Claudius.)<sup>29</sup>The disciples, as each one was able, decided to provide help for the brothers and sisters living in Judea.<sup>30</sup>This they did, sending their gift to the elders by Barnabas and Saul.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Acts%2011:19-30&version=NIV",
         "isOpen": false
       }
@@ -202,10 +218,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in the story?",
-          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in the story?"
+          },
+          {
+            "text": "What is being modeled about a Spirit-dependent life, making disciples or leadership?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -220,9 +244,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How are Jesus’ followers continuing His work of making disciples and church planting?",
-          "How is the gospel impacting people and society?",
-          "What barriers or obstacles were overcome and how were they overcome?"
+          {
+            "text": "How are Jesus’ followers continuing His work of making disciples and church planting?"
+          },
+          {
+            "text": "How is the gospel impacting people and society?"
+          },
+          {
+            "text": "What barriers or obstacles were overcome and how were they overcome?"
+          }
         ]
       }
     },
@@ -245,7 +275,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -259,13 +291,13 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "Our past several stories have been focused on Peter, but he was not the only believer who was active during this time. The believers that fled Jerusalem during Saul’s persecution ({Acts 8:1})&nbsp;",
+                "text": "Our past several stories have been focused on Peter, but he was not the only believer who was active during this time. The believers that fled Jerusalem during Saul’s persecution ({Acts 8:1})",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Acts 8:1",
                     "label": "Acts 8:1",
-                    "passage": "<p><sup class=\"versenum\">1 </sup>And Saul approved of their killing him.</p>\n\n<p>On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria.</p>"
+                    "passage": "<p><sup>1</sup>And Saul approved of their killing him.</p><p>On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria.</p>"
                   }
                 ],
                 "isOpen": false
@@ -315,9 +347,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Prayer, Care, Share",
-                  "Gospel",
-                  "Foundational Bible Studies."
+                  {
+                    "text": "Prayer, Care, Share"
+                  },
+                  {
+                    "text": "Gospel"
+                  },
+                  {
+                    "text": "Foundational Bible Studies."
+                  }
                 ]
               }
             }
@@ -338,8 +376,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -362,7 +404,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

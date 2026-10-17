@@ -5,7 +5,7 @@
   "htmlLang": "en",
   "direction": "ltr",
   "numberSystem": "latn",
-  "series": "multiply",
+  "series": "multiply1",
   "lessonId": "multiply107",
   "sortOrder": 6,
   "blocks": [
@@ -42,9 +42,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How have you experienced God in your life this week?",
-          "How have you experienced God working through your life this week?",
-          "Were you able to tell anyone this week about what God is doing in your life or pray with anyone?"
+          {
+            "text": "How have you experienced God in your life this week?"
+          },
+          {
+            "text": "How have you experienced God working through your life this week?"
+          },
+          {
+            "text": "Were you able to tell anyone this week about what God is doing in your life or pray with anyone?"
+          }
         ]
       }
     },
@@ -60,7 +66,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Do you need any help from God in your life?"
+          {
+            "text": "Do you need any help from God in your life?"
+          }
         ]
       }
     },
@@ -122,7 +130,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Bible",
-        "html": "<div class=\"bible\"><div class=\"bible\"><sup>34 </sup>The eunuch asked Philip, “Tell me, please, who is the prophet talking about, himself or someone else?”<sup class=\"versenum\">35 </sup>Then Philip began with that very passage of Scripture and told him the good news about Jesus. <p><sup class=\"versenum\">36 </sup>As they traveled along the road, they came to some water and the eunuch said, “Look, here is water. What can stand in the way of my being baptized?”<sup class=\"versenum\">[37] </sup><sup class=\"versenum\">38 </sup>And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water and Philip baptized him.<sup class=\"versenum\">39 </sup>When they came up out of the water, the Spirit of the Lord suddenly took Philip away, and the eunuch did not see him again, but went on his way rejoicing.<sup class=\"versenum\">40 </sup>Philip, however, appeared at Azotus and traveled about, preaching the gospel in all the towns until he reached Caesarea.</p></div><!-- end bible --></div>",
+        "html": "<sup>34 </sup>The eunuch asked Philip, “Tell me, please, who is the prophet talking about, himself or someone else?”<sup>35</sup>Then Philip began with that very passage of Scripture and told him the good news about Jesus. <p><sup>36</sup>As they traveled along the road, they came to some water and the eunuch said, “Look, here is water. What can stand in the way of my being baptized?”<sup>[37]</sup><sup>38</sup>And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water and Philip baptized him.<sup>39</sup>When they came up out of the water, the Spirit of the Lord suddenly took Philip away, and the eunuch did not see him again, but went on his way rejoicing.<sup>40</sup>Philip, however, appeared at Azotus and traveled about, preaching the gospel in all the towns until he reached Caesarea.</p>",
         "url": "https://biblegateway.com/passage/?search=Acts%208:34-40&version=NIV",
         "isOpen": false
       }
@@ -139,12 +147,41 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What stands out for you in this passage?",
-          "What do you like and what bothers you in this passage?",
-          "Why do you think this passage is important?",
-          "What are some possible ways a person could apply this passage? Is there: <ul><li>A behaviour to change?</li><li>A promise to claim?</li><li>An example to follow?</li><li>A command to obey?</li></ul>",
-          "Ask God what He wants you to do in response to the passage.",
-          "Share this with the group"
+          {
+            "text": "What stands out for you in this passage?"
+          },
+          {
+            "text": "What do you like and what bothers you in this passage?"
+          },
+          {
+            "text": "Why do you think this passage is important?"
+          },
+          {
+            "text": "What are some possible ways a person could apply this passage? Is there:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "A behaviour to change?"
+                },
+                {
+                  "text": "A promise to claim?"
+                },
+                {
+                  "text": "An example to follow?"
+                },
+                {
+                  "text": "A command to obey?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Ask God what He wants you to do in response to the passage."
+          },
+          {
+            "text": "Share this with the group"
+          }
         ]
       }
     },
@@ -160,7 +197,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -210,7 +249,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Use your daisy chain over the next month to love, pray, and care daily. Write down anything you learn during this process."
+          {
+            "text": "Use your daisy chain over the next month to love, pray, and care daily. Write down anything you learn during this process."
+          }
         ]
       }
     },
@@ -226,16 +267,22 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What is God revealing as your next steps this week with him and others?",
-          "Share this step with the group and ask someone to pray for you as you take this step in the power of the Holy Spirit.",
-          "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle. <br>"
+          {
+            "text": "What is God revealing as your next steps this week with him and others?"
+          },
+          {
+            "text": "Share this step with the group and ask someone to pray for you as you take this step in the power of the Holy Spirit."
+          },
+          {
+            "text": "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle. <br>"
+          }
         ]
       }
     },
     {
       "type": "iWill",
       "data": {
-        "storageKey": "multiply-multiply107-i-will"
+        "storageKey": "multiply1-multiply107-i-will"
       }
     }
   ]

@@ -22,22 +22,31 @@
       "data": {
         "style": "ordered",
         "items": [
-          "What did you experience with God this week?",
-          "In the last few days, did you have the opportunity to share an experience with God with someone close to you that doesn’t know Jesus yet? Or could you pray for them or help them practically?",
-          "Do you need God‘s help in an area of your life?"
+          {
+            "text": "What did you experience with God this week?"
+          },
+          {
+            "text": "In the last few days, did you have the opportunity to share an experience with God with someone close to you that doesn’t know Jesus yet? Or could you pray for them or help them practically?"
+          },
+          {
+            "text": "Do you need God‘s help in an area of your life?"
+          }
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where\nyou need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship\nwith God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -60,10 +69,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Read the passage silently. What words or phrases stick out?",
-          "One person reads the passage out loud.",
-          "One person retells the passage in his/her own words (Bibles closed).",
-          "If necessary, the others complement what was said (Bibles closed)."
+          {
+            "text": "Read the passage silently. What words or phrases stick out?"
+          },
+          {
+            "text": "One person reads the passage out loud."
+          },
+          {
+            "text": "One person retells the passage in his/her own words (Bibles closed)."
+          },
+          {
+            "text": "If necessary, the others complement what was said (Bibles closed)."
+          }
         ]
       }
     },
@@ -71,7 +88,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthew 9:20-22, 27-29",
-        "html": "<p class=\"bible\"><sup>20</sup> Just then a woman who had been subject to bleeding for twelve years came up behind him and touched the edge of his cloak. <sup>21</sup> She said to herself, “If I only touch his cloak, I will be healed.” </p><p class=\"bible\"><sup>22</sup>Jesus turned and saw her. “Take heart, daughter,” he said, “your faith has healed you.” And the woman was healed at that moment. </p><p class=\"bible\"><sup>27</sup> As Jesus went on from there, two blind men followed him, calling out, “Have mercy on us, Son of David!” </p><p class=\"bible\"><sup>28</sup>When he had gone indoors, the blind men came to him, and he asked them, “Do you believe that I am able to do this?” </p><p class=\"bible\">“Yes, Lord,” they replied.</p><p class=\"bible\"><sup>29</sup>Then he touched their eyes and said, “According to your faith let it be done to you”; </p><p class=\"bible\"><br></p>",
+        "html": "<p><sup>20</sup> Just then a woman who had been subject to bleeding for twelve years came up behind him and touched the edge of his cloak. <sup>21</sup> She said to herself, “If I only touch his cloak, I will be healed.” </p><p><sup>22</sup>Jesus turned and saw her. “Take heart, daughter,” he said, “your faith has healed you.” And the woman was healed at that moment. </p><p><sup>27</sup> As Jesus went on from there, two blind men followed him, calling out, “Have mercy on us, Son of David!” </p><p><sup>28</sup>When he had gone indoors, the blind men came to him, and he asked them, “Do you believe that I am able to do this?” </p><p>“Yes, Lord,” they replied.</p><p><sup>29</sup>Then he touched their eyes and said, “According to your faith let it be done to you”; </p>",
         "url": "https://biblegateway.com/passage/?search=Matthew%209:27-29&version=TNIV",
         "isOpen": false
       }
@@ -81,8 +98,29 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Everyone by themselves:<ul class=\"arrows\"><li> What words or phrases stick out now? Are there any differences to what you noticed before? </li><li>Why do you feel drawn to those words or phrases?</li><li>What could God be telling you?</li><li>What can you learn about mankind?</li></ul>",
-          "Share in the group."
+          {
+            "text": "Everyone by themselves:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "What words or phrases stick out now? Are there any differences to what you noticed before?"
+                },
+                {
+                  "text": "Why do you feel drawn to those words or phrases?"
+                },
+                {
+                  "text": "What could God be telling you?"
+                },
+                {
+                  "text": "What can you learn about mankind?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Share in the group."
+          }
         ]
       }
     },
@@ -106,10 +144,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "What can we learn about faith from the woman and the two blind men?",
-          "God reacts to your faith. For what situation or area in your life do you need faith?",
-          "To have faith also means to act. Where does the Holy Spirit encou­rage you to take steps of faith?",
-          "Note this down and then share in groups of two or three."
+          {
+            "text": "What can we learn about faith from the woman and the two blind men?"
+          },
+          {
+            "text": "God reacts to your faith. For what situation or area in your life do you need faith?"
+          },
+          {
+            "text": "To have faith also means to act. Where does the Holy Spirit encou­rage you to take steps of faith?"
+          },
+          {
+            "text": "Note this down and then share in groups of two or three."
+          }
         ]
       }
     },
@@ -120,9 +166,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ You can pray the following prayer: “Thank you, dear Heavenly Father, that You have given me Your Holy Spirit, who teaches me to trust and have faith. Forgive me, where I trusted my experiences more than Your Word and thus have acted in unbelief. Train me so I can grow in faith. I want to learn to see things from Your perspective in every situation, to focus on what happens in the spiritual realm and not the visible realm. Help me to understand Your Word and Your perspective more and more.”"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "You can pray the following prayer: “Thank you, dear Heavenly Father,\nthat You have given me Your Holy Spirit, who teaches me to trust and have\nfaith. Forgive me, where I trusted my experiences more than Your Word and\nthus have acted in unbelief. Train me so I can grow in faith. I want to\nlearn to see things from Your perspective in every situation, to focus on\nwhat happens in the spiritual realm and not the visible realm. Help me to\nunderstand Your Word and Your perspective more and more.”"
+          }
+        ]
       }
     },
     {
@@ -149,8 +200,12 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "…what God is like – He for whom everything is possible, who fights for us, who hears the cries of our hearts (Psalm 34:7), our provider, prince of peace, doctor, shelter, wisdom, beginning and the end, and so on.",
-                  "…and what he did for us – we are accepted, loved, his children, envoys, he made us kings and priests, and so on."
+                  {
+                    "text": "…what God is like – He for whom everything is possible, who fights for us, who hears the cries of our hearts (Psalm 34:7), our provider, prince of peace, doctor, shelter, wisdom, beginning and the end, and so on."
+                  },
+                  {
+                    "text": "…and what he did for us – we are accepted, loved, his children, envoys, he made us kings and priests, and so on."
+                  }
                 ]
               }
             },
@@ -165,8 +220,12 @@
               "data": {
                 "style": "ordered",
                 "items": [
-                  "God’s Word: Know who God is and what He did for us.",
-                  "Prayer: Proclaim this over you or a situation you’re in (“Heavenly Father, you are…” and “in your eyes, I am…”)."
+                  {
+                    "text": "God’s Word: Know who God is and what He did for us."
+                  },
+                  {
+                    "text": "Prayer: Proclaim this over you or a situation you’re in (“Heavenly Father, you are…” and “in your eyes, I am…”)."
+                  }
                 ]
               }
             },

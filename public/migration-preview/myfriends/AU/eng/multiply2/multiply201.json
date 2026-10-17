@@ -33,19 +33,19 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "<li class=\"nobreak\">(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. ({Philippians 2:11}b;&nbsp;\n\n\t\n\t&nbsp;{1 Timothy 2:4-6}a).&nbsp;\n\n\t\n\t</li>",
+                "text": "(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. ({Philippians 2:11}b; {1 Timothy 2:4-6}a).",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Philippians 2:11",
                     "label": "Philippians 2:11",
-                    "passage": "<p><sup class=\"versenum\">11&nbsp;</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;to the glory of God the Father.</p>"
+                    "passage": "<p><sup>11</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>to the glory of God the Father.</p>"
                   },
                   {
                     "id": "popup_pop2",
                     "marker": "1 Timothy 2:4-6",
                     "label": "1 Timothy 2:4-6",
-                    "passage": "<p><sup class=\"versenum\">4&nbsp;</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup class=\"versenum\">5&nbsp;</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup class=\"versenum\">6&nbsp;</sup>who gave himself as a ransom for all people.&nbsp;</p>"
+                    "passage": "<p><sup>4</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup>5</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup>6</sup>who gave himself as a ransom for all people.</p>"
                   }
                 ],
                 "isOpen": false
@@ -74,8 +74,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -97,7 +101,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -119,9 +125,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them."
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them."
+                  }
                 ]
               }
             },
@@ -170,7 +182,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -191,7 +205,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "John 1:1-14",
-        "html": "<!-- begin bible --><h3>The Word Became Flesh</h3><p><sup class=\"versenum\">1 </sup>In the beginning was the Word, and the Word was with God, and the Word was God.<sup class=\"versenum\">2 </sup>He was with God in the beginning.<sup class=\"versenum\">3 </sup>Through him all things were made; without him nothing was made that has been made.<sup class=\"versenum\">4 </sup>In him was life, and that life was the light of all mankind.<sup class=\"versenum\">5 </sup>The light shines in the darkness, and the darkness has not overcome it.</p><p><sup class=\"versenum\">6 </sup>There was a man sent from God whose name was John.<sup class=\"versenum\">7 </sup>He came as a witness to testify concerning that light, so that through him all might believe.<sup class=\"versenum\">8 </sup>He himself was not the light; he came only as a witness to the light.</p><p><sup class=\"versenum\">9 </sup>The true light that gives light to everyone was coming into the world.<sup class=\"versenum\">10 </sup>He was in the world, and though the world was made through him, the world did not recognize him.<sup class=\"versenum\">11 </sup>He came to that which was his own, but his own did not receive him.<sup class=\"versenum\">12 </sup>Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God—<sup class=\"versenum\">13 </sup>children born not of natural descent, nor of human decision or a husband’s will, but born of God.</p><p><sup class=\"versenum\">14 </sup>The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<h3>The Word Became Flesh</h3><p><sup>1</sup>In the beginning was the Word, and the Word was with God, and the Word was God.<sup>2</sup>He was with God in the beginning.<sup>3</sup>Through him all things were made; without him nothing was made that has been made.<sup>4</sup>In him was life, and that life was the light of all mankind.<sup>5</sup>The light shines in the darkness, and the darkness has not overcome it.</p><p><sup>6</sup>There was a man sent from God whose name was John.<sup>7</sup>He came as a witness to testify concerning that light, so that through him all might believe.<sup>8</sup>He himself was not the light; he came only as a witness to the light.</p><p><sup>9</sup>The true light that gives light to everyone was coming into the world.<sup>10</sup>He was in the world, and though the world was made through him, the world did not recognize him.<sup>11</sup>He came to that which was his own, but his own did not receive him.<sup>12</sup>Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God—<sup>13</sup>children born not of natural descent, nor of human decision or a husband’s will, but born of God.</p><p><sup>14</sup>The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=John%201:1-14&version=NIV",
         "isOpen": false
       }
@@ -221,10 +235,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in Jesus story?",
-          "What do we learn about the humanity or divinity of Jesus from this passage?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in Jesus story?"
+          },
+          {
+            "text": "What do we learn about the humanity or divinity of Jesus from this passage?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -239,8 +261,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What are his followers learning?",
-          "What is Jesus modeling to us about life and ministry or godly leadership?"
+          {
+            "text": "What are his followers learning?"
+          },
+          {
+            "text": "What is Jesus modeling to us about life and ministry or godly leadership?"
+          }
         ]
       }
     },
@@ -263,7 +289,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -277,13 +305,13 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "<li class=\"nobreak\">Read {Philippians 2:5-11}.&nbsp;\n\n\t\n\t&nbsp;God almighty took on human form. He chose to begin as a baby and not as a grown man. The Bible says that He “made himself nothing” and put on a body to live here with us. However, He never ceased to be fully God. He was still all-powerful, all-knowing, all-present. Yet He veiled His deity and limited Himself and His powers to become a real human.</li>",
+                "text": "Read {Philippians 2:5-11}. God almighty took on human form. He chose to begin as a baby and not as a grown man. The Bible says that He “made himself nothing” and put on a body to live here with us. However, He never ceased to be fully God. He was still all-powerful, all-knowing, all-present. Yet He veiled His deity and limited Himself and His powers to become a real human.",
                 "references": [
                   {
                     "id": "popup_pop3",
                     "marker": "Philippians 2:5-11",
                     "label": "Philippians 2:5-11",
-                    "passage": "<div>\n\t<p><sup class=\"versenum\">5&nbsp;</sup>In your relationships with one another, have the same mindset as Christ Jesus:</p>\n\n\t<p><sup class=\"versenum\">6&nbsp;</sup>Who, being in very nature God,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;did not consider equality with God something to be used to his own advantage;<br>\n\t<sup class=\"versenum\">7&nbsp;</sup>rather, he made himself nothing<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;by taking the very nature of a servant,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;being made in human likeness.<br>\n\t<sup class=\"versenum\">8&nbsp;</sup>And being found in appearance as a man,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;he humbled himself<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;by becoming obedient to death—<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;even death on a cross!</p>\n\t</div>\n\n\t<p><sup class=\"versenum\">9&nbsp;</sup>Therefore God exalted him to the highest place<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;and gave him the name that is above every name,<br>\n\t<sup class=\"versenum\">10&nbsp;</sup>that at the name of Jesus every knee should bow,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;in heaven and on earth and under the earth,<br>\n\t<sup class=\"versenum\">11&nbsp;</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;to the glory of God the Father.</p>"
+                    "passage": "<div><p><sup>5</sup>In your relationships with one another, have the same mindset as Christ Jesus:</p><p><sup>6</sup>Who, being in very nature God,<br>did not consider equality with God something to be used to his own advantage;<br><sup>7</sup>rather, he made himself nothing<br>by taking the very nature of a servant,<br>being made in human likeness.<br><sup>8</sup>And being found in appearance as a man,<br>he humbled himself<br>by becoming obedient to death—<br>even death on a cross!</p></div><p><sup>9</sup>Therefore God exalted him to the highest place<br>and gave him the name that is above every name,<br><sup>10</sup>that at the name of Jesus every knee should bow,<br>in heaven and on earth and under the earth,<br><sup>11</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>to the glory of God the Father.</p>"
                   }
                 ],
                 "isOpen": false
@@ -396,7 +424,23 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Practice needed skills or previous topics to help prepare to minister to others: <ul><li>Prayer, Care, Share</li><li>Gospel</li><li>Foundational Bible Studies (<a href=\"https://app.mc2.online/content/AU/eng/multiply1/index.html\">Multiply 1</a>)</li></ul>"
+          {
+            "text": "Practice needed skills or previous topics to help prepare to minister to others:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Prayer, Care, Share"
+                },
+                {
+                  "text": "Gospel"
+                },
+                {
+                  "text": "Foundational Bible Studies (<a href=\"https://app.mc2.online/content/AU/eng/multiply1/index.html\">Multiply 1</a>)"
+                }
+              ]
+            }
+          }
         ]
       }
     },
@@ -412,8 +456,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -436,7 +484,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

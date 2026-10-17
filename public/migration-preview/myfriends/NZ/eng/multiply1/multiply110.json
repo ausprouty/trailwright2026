@@ -5,7 +5,7 @@
   "htmlLang": "en",
   "direction": "ltr",
   "numberSystem": "latn",
-  "series": "multiply",
+  "series": "multiply1",
   "lessonId": "multiply110",
   "sortOrder": 9,
   "blocks": [
@@ -42,9 +42,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How have you experienced God in your life this week?",
-          "How have you experienced God working through your life this week?",
-          "Were you able to tell anyone this week about what God is doing in your life or pray with anyone?"
+          {
+            "text": "How have you experienced God in your life this week?"
+          },
+          {
+            "text": "How have you experienced God working through your life this week?"
+          },
+          {
+            "text": "Were you able to tell anyone this week about what God is doing in your life or pray with anyone?"
+          }
         ]
       }
     },
@@ -60,7 +66,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Do you need any help from God in your life?"
+          {
+            "text": "Do you need any help from God in your life?"
+          }
         ]
       }
     },
@@ -122,7 +130,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Bible",
-        "html": "<div class=\"bible\"><div class=\"bible\"><sup>27 </sup>After this, Jesus went out and saw a tax collector by the name of Levi sitting at his tax booth. “Follow me,” Jesus said to him,<sup class=\"versenum\">28 </sup>and Levi got up, left everything and followed him. <p><sup class=\"versenum\">29 </sup>Then Levi held a great banquet for Jesus at his house, and a large crowd of tax collectors and others were eating with them.<sup class=\"versenum\">30 </sup>But the Pharisees and the teachers of the law who belonged to their sect complained to his disciples, “Why do you eat and drink with tax collectors and sinners?”</p><p><sup class=\"versenum\">31 </sup>Jesus answered them, “It is not the healthy who need a doctor, but the sick.<sup class=\"versenum\">32 </sup>I have not come to call the righteous, but sinners to repentance.”</p></div><!-- end bible --></div>",
+        "html": "<sup>27 </sup>After this, Jesus went out and saw a tax collector by the name of Levi sitting at his tax booth. “Follow me,” Jesus said to him,<sup>28</sup>and Levi got up, left everything and followed him. <p><sup>29</sup>Then Levi held a great banquet for Jesus at his house, and a large crowd of tax collectors and others were eating with them.<sup>30</sup>But the Pharisees and the teachers of the law who belonged to their sect complained to his disciples, “Why do you eat and drink with tax collectors and sinners?”</p><p><sup>31</sup>Jesus answered them, “It is not the healthy who need a doctor, but the sick.<sup>32</sup>I have not come to call the righteous, but sinners to repentance.”</p>",
         "url": "https://biblegateway.com/passage/?search=Luke%205:27-32&version=NIV",
         "isOpen": false
       }
@@ -139,12 +147,41 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What stands out for you in this passage?",
-          "What do you like and what bothers you in this passage?",
-          "Why do you think this passage is important?",
-          "What are some possible ways a person could apply this passage? Is there: <ul><li>A behaviour to change?</li><li>A promise to claim?</li><li>An example to follow?</li><li>A command to obey?</li></ul>",
-          "Ask God what He wants you to do in response to the passage.",
-          "Share this with the group"
+          {
+            "text": "What stands out for you in this passage?"
+          },
+          {
+            "text": "What do you like and what bothers you in this passage?"
+          },
+          {
+            "text": "Why do you think this passage is important?"
+          },
+          {
+            "text": "What are some possible ways a person could apply this passage? Is there:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "A behaviour to change?"
+                },
+                {
+                  "text": "A promise to claim?"
+                },
+                {
+                  "text": "An example to follow?"
+                },
+                {
+                  "text": "A command to obey?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Ask God what He wants you to do in response to the passage."
+          },
+          {
+            "text": "Share this with the group"
+          }
         ]
       }
     },
@@ -160,7 +197,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -216,8 +255,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<a href=\"https://thefour.com/en/\">The Four</a>",
-          "<a href=\"https://knowgod.com/en/kgp-us\">Knowing God Personally</a>"
+          {
+            "text": "<a href=\"https://thefour.com/en/\">The Four</a>"
+          },
+          {
+            "text": "<a href=\"https://knowgod.com/en/kgp-us\">Knowing God Personally</a>"
+          }
         ]
       }
     },
@@ -232,13 +275,27 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<a href=\"https://www.youtube.com/watch?v=U0iVQSvYsz8\">“Across” a VR short story </a>- Christopher Bailey (7:37)",
-          "<a href=\"https://www.youtube.com/watch?v=b1kSr0re3lM\">The Parting Gift </a>- Christopher Bailey (5:55)",
-          "<a href=\"https://www.youtube.com/watch?v=EfN9AK87l0Y\">Gospel Graffiti</a> - Bridge To Life (3:45)",
-          "<a href=\"https://www.youtube.com/watch?v=KGlx11BxF24\">Falling Plates </a>- Cru (4:07)",
-          "<a href=\"https://www.youtube.com/watch?v=Ymfh6RJezQ4\">Life in 6 Words: The GOSPEL</a> - Dare 2 Share Ministries (5:06)",
-          "<a href=\"https://www.youtube.com/watch?v=NYU-a2wIbxc&amp;t=1s\">3 Circles</a> - Raymond Vaughn (3:22)",
-          "<a href=\"https://www.youtube.com/watch?v=3dEh25pduQ8\">Messiah -</a> The Bible Project (5:48)"
+          {
+            "text": "<a href=\"https://www.youtube.com/watch?v=U0iVQSvYsz8\">“Across” a VR short story </a>- Christopher Bailey (7:37)"
+          },
+          {
+            "text": "<a href=\"https://www.youtube.com/watch?v=b1kSr0re3lM\">The Parting Gift </a>- Christopher Bailey (5:55)"
+          },
+          {
+            "text": "<a href=\"https://www.youtube.com/watch?v=EfN9AK87l0Y\">Gospel Graffiti</a> - Bridge To Life (3:45)"
+          },
+          {
+            "text": "<a href=\"https://www.youtube.com/watch?v=KGlx11BxF24\">Falling Plates </a>- Cru (4:07)"
+          },
+          {
+            "text": "<a href=\"https://www.youtube.com/watch?v=Ymfh6RJezQ4\">Life in 6 Words: The GOSPEL</a> - Dare 2 Share Ministries (5:06)"
+          },
+          {
+            "text": "<a href=\"https://www.youtube.com/watch?v=NYU-a2wIbxc&amp;t=1s\">3 Circles</a> - Raymond Vaughn (3:22)"
+          },
+          {
+            "text": "<a href=\"https://www.youtube.com/watch?v=3dEh25pduQ8\">Messiah -</a> The Bible Project (5:48)"
+          }
         ]
       }
     },
@@ -253,10 +310,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<a href=\"https://godtoolsapp.com/\">God Tools</a> - Cru",
-          "<a href=\"https://thestoryfilm.com/\">The Story</a> [ViewTheStory.com] - Spread Truth Ministries",
-          "<a href=\"https://powertochange.org.au/resources/online-resources/digital-resources/202-the-parting-gift\">The Parting Gift</a> - CCCA (Power to Change)",
-          "<a href=\"https://hereslife.com/app/4sl\">Bi-lingual Four Spiritual Laws </a>- Power to Change"
+          {
+            "text": "<a href=\"https://godtoolsapp.com/\">God Tools</a> - Cru"
+          },
+          {
+            "text": "<a href=\"https://thestoryfilm.com/\">The Story</a> [ViewTheStory.com] - Spread Truth Ministries"
+          },
+          {
+            "text": "<a href=\"https://powertochange.org.au/resources/online-resources/digital-resources/202-the-parting-gift\">The Parting Gift</a> - CCCA (Power to Change)"
+          },
+          {
+            "text": "<a href=\"https://hereslife.com/app/4sl\">Bi-lingual Four Spiritual Laws </a>- Power to Change"
+          }
         ]
       }
     },
@@ -272,16 +337,22 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What is God revealing as your next steps this week with him and others?",
-          "Share this step with the group and ask someone to pray for you as you take this step in the power of the Holy Spirit.",
-          "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle."
+          {
+            "text": "What is God revealing as your next steps this week with him and others?"
+          },
+          {
+            "text": "Share this step with the group and ask someone to pray for you as you take this step in the power of the Holy Spirit."
+          },
+          {
+            "text": "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle."
+          }
         ]
       }
     },
     {
       "type": "iWill",
       "data": {
-        "storageKey": "multiply-multiply110-i-will"
+        "storageKey": "multiply1-multiply110-i-will"
       }
     }
   ]

@@ -47,9 +47,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -65,10 +71,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -99,9 +113,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -115,7 +135,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Johannes 4:43-54",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>43</sup>Nach diesen zwei Tagen setzte Jesus seine Reise nach Galiläa fort. <sup>44</sup>Jesus hatte selbst einmal gesagt: »Ein Prophet wird überall geehrt, nur nicht in seiner eigenen Heimat.« <sup>45</sup>Doch als er dort ankam, nahmen ihn die Galiläer herzlich auf. Denn sie waren beim Passahfest in Jerusalem gewesen und hatten gesehen, was er dort getan hatte. <sup>46</sup>Seine Reise durch Galiläa führte ihn auch wieder in die Stadt Kana, wo er das Wasser in Wein verwandelt hatte. In Kapernaum lebte ein königlicher Beamter, dessen Sohn krank war. <sup>47</sup>Als er hörte, dass Jesus aus Judäa gekommen war und durch Galiläa reiste, brach er nach Kana auf. Er suchte Jesus und bat ihn, mit ihm nach Kapernaum herabzukommen und seinen Sohn zu heilen, der im Sterben lag. <sup>48</sup>Jesus sagte: »Wenn ihr nicht Zeichen und Wunder seht, glaubt ihr nicht an mich.« <sup>49</sup>Doch der Beamte sagte zu ihm: »Herr, bitte komm zu mir herab nach Kapernaum, ehe mein kleiner Junge stirbt.« <sup>50</sup>Da sagte Jesus zu ihm: »Geh zurück nach Hause! Dein Sohn lebt.« Der Mann glaubte dem Wort, das Jesus zu ihm gesagt hatte, und machte sich auf den Heimweg. <sup>51</sup>Unterwegs kamen ihm einige seiner Knechte mit der Nachricht entgegen, dass sein Sohn lebte und gesund war. <sup>52</sup>Er fragte sie, seit wann genau es dem Jungen wieder besser gehe, und sie erwiderten: »Gestern Mittag um ein Uhr verschwand das Fieber!« <sup>53</sup>Da erkannte der Vater, dass es genau der Zeitpunkt gewesen war, an dem Jesus ihm gesagt hatte: »Dein Sohn lebt.« Und der Beamte und sein ganzes Haus glaubten an Jesus. <sup>54</sup>Das war das zweite Wunder von Jesus in Galiläa, nachdem er aus Judäa gekommen war. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>43</sup>Nach diesen zwei Tagen setzte Jesus seine Reise nach Galiläa fort. <sup>44</sup>Jesus hatte selbst einmal gesagt: »Ein Prophet wird überall geehrt, nur nicht in seiner eigenen Heimat.« <sup>45</sup>Doch als er dort ankam, nahmen ihn die Galiläer herzlich auf. Denn sie waren beim Passahfest in Jerusalem gewesen und hatten gesehen, was er dort getan hatte. <sup>46</sup>Seine Reise durch Galiläa führte ihn auch wieder in die Stadt Kana, wo er das Wasser in Wein verwandelt hatte. In Kapernaum lebte ein königlicher Beamter, dessen Sohn krank war. <sup>47</sup>Als er hörte, dass Jesus aus Judäa gekommen war und durch Galiläa reiste, brach er nach Kana auf. Er suchte Jesus und bat ihn, mit ihm nach Kapernaum herabzukommen und seinen Sohn zu heilen, der im Sterben lag. <sup>48</sup>Jesus sagte: »Wenn ihr nicht Zeichen und Wunder seht, glaubt ihr nicht an mich.« <sup>49</sup>Doch der Beamte sagte zu ihm: »Herr, bitte komm zu mir herab nach Kapernaum, ehe mein kleiner Junge stirbt.« <sup>50</sup>Da sagte Jesus zu ihm: »Geh zurück nach Hause! Dein Sohn lebt.« Der Mann glaubte dem Wort, das Jesus zu ihm gesagt hatte, und machte sich auf den Heimweg. <sup>51</sup>Unterwegs kamen ihm einige seiner Knechte mit der Nachricht entgegen, dass sein Sohn lebte und gesund war. <sup>52</sup>Er fragte sie, seit wann genau es dem Jungen wieder besser gehe, und sie erwiderten: »Gestern Mittag um ein Uhr verschwand das Fieber!« <sup>53</sup>Da erkannte der Vater, dass es genau der Zeitpunkt gewesen war, an dem Jesus ihm gesagt hatte: »Dein Sohn lebt.« Und der Beamte und sein ganzes Haus glaubten an Jesus. <sup>54</sup>Das war das zweite Wunder von Jesus in Galiläa, nachdem er aus Judäa gekommen war. </div><p></p>",
         "url": "https://bibleserver.com/NLB/Johannes%204:43-54",
         "isOpen": false
       }
@@ -145,9 +165,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -196,8 +222,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -213,7 +260,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

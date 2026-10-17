@@ -41,9 +41,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "eine Bibelstelle lest, die euch an Gottes Vaterherz und die große Vision erinnert.",
-                  "über die Veränderungen reflektiert, die Gott in euren Leben bewirkt hat, seit ihr Jesus-Nachfolger geworden seid.",
-                  "euch an den Auftrag und das Abenteuer erinnert, die Gott für euch bereit hält."
+                  {
+                    "text": "eine Bibelstelle lest, die euch an Gottes Vaterherz und die große Vision erinnert."
+                  },
+                  {
+                    "text": "über die Veränderungen reflektiert, die Gott in euren Leben bewirkt hat, seit ihr Jesus-Nachfolger geworden seid."
+                  },
+                  {
+                    "text": "euch an den Auftrag und das Abenteuer erinnert, die Gott für euch bereit hält."
+                  }
                 ]
               }
             },
@@ -70,9 +76,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -88,10 +100,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -122,9 +142,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -138,7 +164,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Johannes 1:1-14",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Am Anfang war das Wort. Das Wort war bei Gott und das Wort war Gott. <sup>2</sup>Er war am Anfang bei Gott. <sup>3</sup>Durch ihn wurde alles geschaffen, was ist. Es gibt nichts, was er, das Wort, nicht geschaffen hat. <sup>4</sup>Das Leben selbst war in ihm, und dieses Leben schenkt allen Menschen Licht. <sup>5</sup>Das Licht scheint in der Dunkelheit, und die Dunkelheit konnte es nicht auslöschen. <sup>6</sup>Gott sandte Johannes den Täufer, <sup>7</sup>um allen Menschen von dem Licht zu erzählen, damit durch ihn alle daran glauben. <sup>8</sup>Johannes selbst war nicht das Licht; er war nur ein Zeuge für das Licht. <sup>9</sup>Der, der das wahre Licht ist, das alle Menschen erleuchtet, sollte erst noch in die Welt kommen. <sup>10</sup>Doch obwohl die Welt durch ihn geschaffen wurde, erkannte die Welt ihn nicht, als er kam. <sup>11</sup>Er kam in die Welt, die ihm gehört, und sein eigenes Volk nahm ihn nicht auf. <sup>12</sup>All denen aber, die ihn aufnahmen und an seinen Namen glaubten, gab er das Recht, Gottes Kinder zu werden. <sup>13</sup>Sie wurden dies weder durch ihre Abstammung noch durch menschliches Bemühen oder Absicht, sondern dieses neue Leben kommt von Gott. <sup>14</sup>Er, der das Wort ist, wurde Mensch und lebte unter uns. Er war voll Gnade und Wahrheit und wir wurden Zeugen seiner Herrlichkeit, der Herrlichkeit, die der Vater ihm, seinem einzigen Sohn, gegeben hat. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>1</sup>Am Anfang war das Wort. Das Wort war bei Gott und das Wort war Gott. <sup>2</sup>Er war am Anfang bei Gott. <sup>3</sup>Durch ihn wurde alles geschaffen, was ist. Es gibt nichts, was er, das Wort, nicht geschaffen hat. <sup>4</sup>Das Leben selbst war in ihm, und dieses Leben schenkt allen Menschen Licht. <sup>5</sup>Das Licht scheint in der Dunkelheit, und die Dunkelheit konnte es nicht auslöschen. <sup>6</sup>Gott sandte Johannes den Täufer, <sup>7</sup>um allen Menschen von dem Licht zu erzählen, damit durch ihn alle daran glauben. <sup>8</sup>Johannes selbst war nicht das Licht; er war nur ein Zeuge für das Licht. <sup>9</sup>Der, der das wahre Licht ist, das alle Menschen erleuchtet, sollte erst noch in die Welt kommen. <sup>10</sup>Doch obwohl die Welt durch ihn geschaffen wurde, erkannte die Welt ihn nicht, als er kam. <sup>11</sup>Er kam in die Welt, die ihm gehört, und sein eigenes Volk nahm ihn nicht auf. <sup>12</sup>All denen aber, die ihn aufnahmen und an seinen Namen glaubten, gab er das Recht, Gottes Kinder zu werden. <sup>13</sup>Sie wurden dies weder durch ihre Abstammung noch durch menschliches Bemühen oder Absicht, sondern dieses neue Leben kommt von Gott. <sup>14</sup>Er, der das Wort ist, wurde Mensch und lebte unter uns. Er war voll Gnade und Wahrheit und wir wurden Zeugen seiner Herrlichkeit, der Herrlichkeit, die der Vater ihm, seinem einzigen Sohn, gegeben hat. </div><p></p>",
         "url": "https://bibleserver.com/NLB/Johannes%201:1-14",
         "isOpen": false
       }
@@ -168,9 +194,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -267,8 +299,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -284,7 +337,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

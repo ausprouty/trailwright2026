@@ -12,13 +12,13 @@
     {
       "type": "bibleReference",
       "data": {
-        "text": "During his time in Rome, Paul continued coaching and mentoring believers in Philippi, Colossae and Ephesus through letter writing. Paul also wrote a personal letter to a church leader in Colossae named Philemon. This letter reveals that Paul anticipated being released ({Philemon 1:22}).&nbsp;",
+        "text": "During his time in Rome, Paul continued coaching and mentoring believers in Philippi, Colossae and Ephesus through letter writing. Paul also wrote a personal letter to a church leader in Colossae named Philemon. This letter reveals that Paul anticipated being released ({Philemon 1:22}).",
         "references": [
           {
             "id": "popup_pop1",
             "marker": "Philemon 1:22",
             "label": "Philemon 1:22",
-            "passage": "<p><sup class=\"versenum\">22&nbsp;</sup>And one thing more: Prepare a guest room for me, because I hope to be restored to you in answer to your prayers.</p>"
+            "passage": "<p><sup>22</sup>And one thing more: Prepare a guest room for me, because I hope to be restored to you in answer to your prayers.</p>"
           }
         ],
         "isOpen": false
@@ -27,13 +27,13 @@
     {
       "type": "bibleReference",
       "data": {
-        "text": "Church history shows us that Paul was indeed released from prison and did more missionary travel ({Titus 3:12},&nbsp;",
+        "text": "Church history shows us that Paul was indeed released from prison and did more missionary travel ({Titus 3:12},",
         "references": [
           {
             "id": "popup_pop2",
             "marker": "Titus 3:12",
             "label": "Titus 3:12",
-            "passage": "<p><sup class=\"versenum\">12&nbsp;</sup>As soon as I send Artemas or Tychicus to you, do your best to come to me at Nicopolis, because I have decided to winter there.</p>"
+            "passage": "<p><sup>12</sup>As soon as I send Artemas or Tychicus to you, do your best to come to me at Nicopolis, because I have decided to winter there.</p>"
           }
         ],
         "isOpen": false
@@ -42,13 +42,13 @@
     {
       "type": "bibleReference",
       "data": {
-        "text": "{2 Timothy 4:20}).&nbsp;",
+        "text": "{2 Timothy 4:20}).",
         "references": [
           {
             "id": "popup_pop3",
             "marker": "2 Timothy 4:20",
             "label": "2 Timothy 4:20",
-            "passage": "<p><sup class=\"versenum\">20&nbsp;</sup>Erastus stayed in Corinth, and I left Trophimus sick in Miletus.</p>"
+            "passage": "<p><sup>20</sup>Erastus stayed in Corinth, and I left Trophimus sick in Miletus.</p>"
           }
         ],
         "isOpen": false
@@ -71,13 +71,27 @@
       "data": {
         "style": "unordered",
         "items": [
-          "First Letter to Timothy, 64-64 AD",
-          "First Letter from Peter, 64-65 AD",
-          "Titus, 64-65 AD",
-          "Second Letter to Timothy, 66-67 AD",
-          "Second Letter from Peter, 66-67 AD",
-          "Letter to the Hebrews, late 60’s",
-          "Letter from Jude, late 60’s"
+          {
+            "text": "First Letter to Timothy, 64-64 AD"
+          },
+          {
+            "text": "First Letter from Peter, 64-65 AD"
+          },
+          {
+            "text": "Titus, 64-65 AD"
+          },
+          {
+            "text": "Second Letter to Timothy, 66-67 AD"
+          },
+          {
+            "text": "Second Letter from Peter, 66-67 AD"
+          },
+          {
+            "text": "Letter to the Hebrews, late 60’s"
+          },
+          {
+            "text": "Letter from Jude, late 60’s"
+          }
         ]
       }
     },
@@ -92,10 +106,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "First Letter from John, 80-95 AD",
-          "Second Letter from John, 80-95 AD",
-          "Third Letter from John, 80-95 AD",
-          "Letter of Revelation, 80-95 AD"
+          {
+            "text": "First Letter from John, 80-95 AD"
+          },
+          {
+            "text": "Second Letter from John, 80-95 AD"
+          },
+          {
+            "text": "Third Letter from John, 80-95 AD"
+          },
+          {
+            "text": "Letter of Revelation, 80-95 AD"
+          }
         ]
       }
     }

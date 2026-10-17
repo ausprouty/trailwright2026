@@ -47,9 +47,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -65,10 +71,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -99,9 +113,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -109,7 +129,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 9:28-36",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>28</sup>Etwa acht Tage später nahm Jesus Petrus, Jakobus und Johannes mit auf einen Berg, um zu beten. <sup>29</sup>Während er betete, veränderte sich das Aussehen seines Gesichts, und seine Kleider wurden strahlend weiß. <sup>30</sup>Dann erschienen zwei Männer, Mose und Elia, und begannen mit Jesus zu sprechen. <sup>31</sup>Auch sie waren von herrlichem Glanz umgeben. Sie sprachen darüber, wie er bald in Jerusalem sterben würde, um damit seinen Auftrag zu erfüllen. <sup>32</sup>Petrus und die anderen Jünger waren sehr müde gewesen und eingeschlafen. Nun wachten sie auf und sahen den strahlenden Anblick von Jesus und den beiden Männern, die neben ihm standen. <sup>33</sup>Als Mose und Elia sie verlassen wollten, rief Petrus schnell – und ohne zu wissen, was er sagte: »Meister, wie wunderbar ist das! Lass uns drei Hütten bauen – eine für dich, eine für Mose und eine für Elia.« <sup>34</sup>Doch er hatte kaum ausgeredet, da zog eine Wolke auf; und als die Wolke sie einhüllte, hatten sie große Angst. <sup>35</sup>Aus der Wolke drang eine Stimme: »Dies ist mein Sohn, mein Auserwählter. Hört auf ihn.« <sup>36</sup>Als die Stimme verhallt war, stand Jesus wieder allein da. Lange Zeit erzählten sie niemandem, was sie gesehen hatten.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>28</sup>Etwa acht Tage später nahm Jesus Petrus, Jakobus und Johannes mit auf einen Berg, um zu beten. <sup>29</sup>Während er betete, veränderte sich das Aussehen seines Gesichts, und seine Kleider wurden strahlend weiß. <sup>30</sup>Dann erschienen zwei Männer, Mose und Elia, und begannen mit Jesus zu sprechen. <sup>31</sup>Auch sie waren von herrlichem Glanz umgeben. Sie sprachen darüber, wie er bald in Jerusalem sterben würde, um damit seinen Auftrag zu erfüllen. <sup>32</sup>Petrus und die anderen Jünger waren sehr müde gewesen und eingeschlafen. Nun wachten sie auf und sahen den strahlenden Anblick von Jesus und den beiden Männern, die neben ihm standen. <sup>33</sup>Als Mose und Elia sie verlassen wollten, rief Petrus schnell – und ohne zu wissen, was er sagte: »Meister, wie wunderbar ist das! Lass uns drei Hütten bauen – eine für dich, eine für Mose und eine für Elia.« <sup>34</sup>Doch er hatte kaum ausgeredet, da zog eine Wolke auf; und als die Wolke sie einhüllte, hatten sie große Angst. <sup>35</sup>Aus der Wolke drang eine Stimme: »Dies ist mein Sohn, mein Auserwählter. Hört auf ihn.« <sup>36</sup>Als die Stimme verhallt war, stand Jesus wieder allein da. Lange Zeit erzählten sie niemandem, was sie gesehen hatten.</div><p></p>",
         "url": "https://bibleserver.com/NLB/Lukas%209:28-36",
         "isOpen": false
       }
@@ -139,9 +159,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -190,8 +216,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -207,7 +254,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

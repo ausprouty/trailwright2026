@@ -47,9 +47,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -65,10 +71,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -99,9 +113,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -115,7 +135,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 7:1-10",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Nachdem Jesus das alles gesagt hatte, ging er wieder nach Kapernaum. <sup>2</sup>Dort lebte ein römischer Hauptmann, der einen Diener hatte, den er sehr schätzte. Nun war dieser Diener schwer erkrankt und lag im Sterben. <sup>3</sup>Als der Hauptmann von Jesus hörte, schickte er einige angesehene Männer aus dem jüdischen Volk zu ihm und bat ihn, zu kommen und seinen Sklaven zu heilen. <sup>4</sup>Diese baten Jesus inständig, mitzukommen und dem Hauptmann zu helfen. »Wenn jemand deine Hilfe verdient, dann er«, sagten sie, <sup>5</sup>»denn er liebt die Juden und hat uns sogar die Synagoge gebaut.« <sup>6</sup>Da ging Jesus mit ihnen. Doch kurz bevor sie das Haus erreichten, schickte der Hauptmann ihm ein paar Freunde entgegen und ließ ihm ausrichten: »Herr, mach dir nicht die Mühe, in mein Haus zu kommen, denn eine solche Ehre verdiene ich nicht. <sup>7</sup>Ich bin nicht einmal würdig genug, selbst zu dir zu kommen. Sprich einfach ein Wort, und mein Diener wird gesund werden. <sup>8</sup>Ich weiß das, weil ich dem Befehl von Vorgesetzten unterstehe und auch selbst Soldaten befehlige. Ich brauche nur zu einem von ihnen zu sagen: ›Geh‹, dann geht er, oder: ›Komm‹, dann kommt er. Und wenn ich zu meinem Diener sage: ›Tu dies‹, dann tut er es.« <sup>9</sup>Als Jesus das hörte, staunte er. Er wandte sich zu der Menge und sagte: »Ich sage euch, einen solchen Glauben habe ich in ganz Israel nicht erlebt!« <sup>10</sup>Und als die Freunde des Hauptmanns in sein Haus zurückkehrten, fanden sie den Diener gesund.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>1</sup>Nachdem Jesus das alles gesagt hatte, ging er wieder nach Kapernaum. <sup>2</sup>Dort lebte ein römischer Hauptmann, der einen Diener hatte, den er sehr schätzte. Nun war dieser Diener schwer erkrankt und lag im Sterben. <sup>3</sup>Als der Hauptmann von Jesus hörte, schickte er einige angesehene Männer aus dem jüdischen Volk zu ihm und bat ihn, zu kommen und seinen Sklaven zu heilen. <sup>4</sup>Diese baten Jesus inständig, mitzukommen und dem Hauptmann zu helfen. »Wenn jemand deine Hilfe verdient, dann er«, sagten sie, <sup>5</sup>»denn er liebt die Juden und hat uns sogar die Synagoge gebaut.« <sup>6</sup>Da ging Jesus mit ihnen. Doch kurz bevor sie das Haus erreichten, schickte der Hauptmann ihm ein paar Freunde entgegen und ließ ihm ausrichten: »Herr, mach dir nicht die Mühe, in mein Haus zu kommen, denn eine solche Ehre verdiene ich nicht. <sup>7</sup>Ich bin nicht einmal würdig genug, selbst zu dir zu kommen. Sprich einfach ein Wort, und mein Diener wird gesund werden. <sup>8</sup>Ich weiß das, weil ich dem Befehl von Vorgesetzten unterstehe und auch selbst Soldaten befehlige. Ich brauche nur zu einem von ihnen zu sagen: ›Geh‹, dann geht er, oder: ›Komm‹, dann kommt er. Und wenn ich zu meinem Diener sage: ›Tu dies‹, dann tut er es.« <sup>9</sup>Als Jesus das hörte, staunte er. Er wandte sich zu der Menge und sagte: »Ich sage euch, einen solchen Glauben habe ich in ganz Israel nicht erlebt!« <sup>10</sup>Und als die Freunde des Hauptmanns in sein Haus zurückkehrten, fanden sie den Diener gesund.</div><p></p>",
         "url": "https://bibleserver.com/NLB/Lukas%207:1-10",
         "isOpen": false
       }
@@ -145,9 +165,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -208,8 +234,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -225,7 +272,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

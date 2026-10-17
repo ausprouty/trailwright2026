@@ -47,9 +47,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -65,10 +71,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -99,9 +113,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -115,7 +135,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 2:1-18",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Jesus wurde in der Stadt Bethlehem in Judäa während der Herrschaft von König Herodes geboren. In dieser Zeit kamen einige Sterndeuter aus einem Land im Osten nach Jerusalem und fragten überall: <sup>2</sup>»Wo ist der neugeborene König der Juden? Wir haben seinen Stern aufgehen sehen und sind gekommen, um ihn anzubeten.« <sup>3</sup>Ihre Frage versetzte Herodes in große Unruhe, und alle Einwohner Jerusalems mit ihm. <sup>4</sup>Er berief eine Versammlung der obersten Priester und Schriftgelehrten ein. »Wo soll denn der Christus nach Aussage der Propheten zur Welt kommen?«, fragte er sie. <sup>5</sup>»In Bethlehem«, sagten sie, »denn der Prophet hat geschrieben: <sup>6</sup>›O Bethlehem in Judäa, du bist alles andere als ein unbedeutendes Dorf, denn ein Herrscher wird aus dir hervorgehen, der wie ein Hirte mein Volk Israel führen wird.‹ « <sup>7</sup>Daraufhin sandte Herodes eine geheime Botschaft an die Sterndeuter und bat sie zu sich. Bei dieser Zusammenkunft erfuhr er den genauen Zeitpunkt, an dem sie den Stern zum ersten Mal gesehen hatten. <sup>8</sup>Er sagte zu ihnen: »Geht nach Bethlehem und sucht das Kind. Wenn ihr es gefunden habt, kommt wieder her und erzählt es mir, damit ich auch hingehen kann, um es anzubeten!« <sup>9</sup>Nach diesem Gespräch machten die Sterndeuter sich auf den Weg. Wieder erschien ihnen der Stern und führte sie nach Bethlehem. Er zog ihnen voran und blieb über dem Ort stehen, wo das Kind war. <sup>10</sup>Als sie den Stern sahen, war ihre Freude groß. <sup>11</sup>Sie gingen in das Haus und fanden das Kind mit seiner Mutter Maria, sanken vor ihm auf die Knie und beteten es an. Dann öffneten sie ihre Truhen mit Kostbarkeiten und beschenkten es mit Gold, Weihrauch und Myrrhe. <sup>12</sup>Als es Zeit war, wieder aufzubrechen, zogen sie jedoch auf einem anderen Weg in ihre Heimat zurück, denn Gott hatte sie in einem Traum davor gewarnt, zu Herodes zurückzukehren. <h3>Die Flucht nach Ägypten</h3><sup>13</sup>Nachdem die Sterndeuter gegangen waren, erschien Josef im Traum ein Engel des Herrn. »Steh auf und flieh mit dem Kind und seiner Mutter nach Ägypten«, sagte der Engel. »Bleib dort, bis ich dir sage, dass ihr zurückkehren könnt, denn Herodes will das Kind umbringen.« <sup>14</sup>Noch in derselben Nacht machte sich Josef mit dem Kind und dessen Mutter Maria auf den Weg nach Ägypten. <sup>15</sup>Dort blieben sie bis zum Tod des Herodes. Auf diese Weise erfüllte sich, was der Herr durch den Propheten gesagt hatte: »Ich habe meinen Sohn aus Ägypten gerufen.« <sup>16</sup>Herodes war außer sich vor Zorn, als er erfuhr, dass die Sterndeuter ihn hintergangen hatten. Er schickte Soldaten aus, die in Bethlehem und der ganzen Umgebung alle Jungen im Alter von zwei Jahren und jünger umbringen sollten. Denn die weisen Männer hatten ihm erzählt, dass sie den Stern vor etwa zwei Jahren zum ersten Mal gesehen hatten. <sup>17</sup>Durch diese grausige Tat des Herodes erfüllte sich die Prophezeiung Jeremias: <sup>18</sup>»Ein Schrei der Angst ertönt in der Stadt Rama – das Klagen und Trauern nimmt kein Ende. Rahel weint um ihre Kinder und lässt sich nicht trösten – denn sie sind tot.«<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>1</sup>Jesus wurde in der Stadt Bethlehem in Judäa während der Herrschaft von König Herodes geboren. In dieser Zeit kamen einige Sterndeuter aus einem Land im Osten nach Jerusalem und fragten überall: <sup>2</sup>»Wo ist der neugeborene König der Juden? Wir haben seinen Stern aufgehen sehen und sind gekommen, um ihn anzubeten.« <sup>3</sup>Ihre Frage versetzte Herodes in große Unruhe, und alle Einwohner Jerusalems mit ihm. <sup>4</sup>Er berief eine Versammlung der obersten Priester und Schriftgelehrten ein. »Wo soll denn der Christus nach Aussage der Propheten zur Welt kommen?«, fragte er sie. <sup>5</sup>»In Bethlehem«, sagten sie, »denn der Prophet hat geschrieben: <sup>6</sup>›O Bethlehem in Judäa, du bist alles andere als ein unbedeutendes Dorf, denn ein Herrscher wird aus dir hervorgehen, der wie ein Hirte mein Volk Israel führen wird.‹ « <sup>7</sup>Daraufhin sandte Herodes eine geheime Botschaft an die Sterndeuter und bat sie zu sich. Bei dieser Zusammenkunft erfuhr er den genauen Zeitpunkt, an dem sie den Stern zum ersten Mal gesehen hatten. <sup>8</sup>Er sagte zu ihnen: »Geht nach Bethlehem und sucht das Kind. Wenn ihr es gefunden habt, kommt wieder her und erzählt es mir, damit ich auch hingehen kann, um es anzubeten!« <sup>9</sup>Nach diesem Gespräch machten die Sterndeuter sich auf den Weg. Wieder erschien ihnen der Stern und führte sie nach Bethlehem. Er zog ihnen voran und blieb über dem Ort stehen, wo das Kind war. <sup>10</sup>Als sie den Stern sahen, war ihre Freude groß. <sup>11</sup>Sie gingen in das Haus und fanden das Kind mit seiner Mutter Maria, sanken vor ihm auf die Knie und beteten es an. Dann öffneten sie ihre Truhen mit Kostbarkeiten und beschenkten es mit Gold, Weihrauch und Myrrhe. <sup>12</sup>Als es Zeit war, wieder aufzubrechen, zogen sie jedoch auf einem anderen Weg in ihre Heimat zurück, denn Gott hatte sie in einem Traum davor gewarnt, zu Herodes zurückzukehren. <h3>Die Flucht nach Ägypten</h3><sup>13</sup>Nachdem die Sterndeuter gegangen waren, erschien Josef im Traum ein Engel des Herrn. »Steh auf und flieh mit dem Kind und seiner Mutter nach Ägypten«, sagte der Engel. »Bleib dort, bis ich dir sage, dass ihr zurückkehren könnt, denn Herodes will das Kind umbringen.« <sup>14</sup>Noch in derselben Nacht machte sich Josef mit dem Kind und dessen Mutter Maria auf den Weg nach Ägypten. <sup>15</sup>Dort blieben sie bis zum Tod des Herodes. Auf diese Weise erfüllte sich, was der Herr durch den Propheten gesagt hatte: »Ich habe meinen Sohn aus Ägypten gerufen.« <sup>16</sup>Herodes war außer sich vor Zorn, als er erfuhr, dass die Sterndeuter ihn hintergangen hatten. Er schickte Soldaten aus, die in Bethlehem und der ganzen Umgebung alle Jungen im Alter von zwei Jahren und jünger umbringen sollten. Denn die weisen Männer hatten ihm erzählt, dass sie den Stern vor etwa zwei Jahren zum ersten Mal gesehen hatten. <sup>17</sup>Durch diese grausige Tat des Herodes erfüllte sich die Prophezeiung Jeremias: <sup>18</sup>»Ein Schrei der Angst ertönt in der Stadt Rama – das Klagen und Trauern nimmt kein Ende. Rahel weint um ihre Kinder und lässt sich nicht trösten – denn sie sind tot.«</div><p></p>",
         "url": "https://bibleserver.com/NLB/Matthäus%202:1-18",
         "isOpen": false
       }
@@ -145,9 +165,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -196,8 +222,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -213,7 +260,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

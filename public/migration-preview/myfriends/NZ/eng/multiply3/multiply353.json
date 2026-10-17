@@ -59,8 +59,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -82,7 +86,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -104,9 +110,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -148,7 +160,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -164,7 +178,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Acts 28:1-10 two times as others listen."
+          {
+            "text": "Read or watch Acts 28:1-10 two times as others listen."
+          }
         ]
       }
     },
@@ -172,7 +188,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 28:1-10",
-        "html": "<!-- begin bible --><h3>Paul Ashore on Malta</h3><p><sup class=\"versenum\">1 </sup>Once safely on shore, we found out that the island was called Malta.<sup class=\"versenum\">2 </sup>The islanders showed us unusual kindness. They built a fire and welcomed us all because it was raining and cold.<sup class=\"versenum\">3 </sup>Paul gathered a pile of brushwood and, as he put it on the fire, a viper, driven out by the heat, fastened itself on his hand.<sup class=\"versenum\">4 </sup>When the islanders saw the snake hanging from his hand, they said to each other, “This man must be a murderer; for though he escaped from the sea, the goddess Justice has not allowed him to live.”<sup class=\"versenum\">5 </sup>But Paul shook the snake off into the fire and suffered no ill effects.<sup class=\"versenum\">6 </sup>The people expected him to swell up or suddenly fall dead; but after waiting a long time and seeing nothing unusual happen to him, they changed their minds and said he was a god.</p><p><sup class=\"versenum\">7 </sup>There was an estate nearby that belonged to Publius, the chief official of the island. He welcomed us to his home and showed us generous hospitality for three days.<sup class=\"versenum\">8 </sup>His father was sick in bed, suffering from fever and dysentery. Paul went in to see him and, after prayer, placed his hands on him and healed him.<sup class=\"versenum\">9 </sup>When this had happened, the rest of the sick on the island came and were cured.<sup class=\"versenum\">10 </sup>They honored us in many ways; and when we were ready to sail, they furnished us with the supplies we needed.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<h3>Paul Ashore on Malta</h3><p><sup>1</sup>Once safely on shore, we found out that the island was called Malta.<sup>2</sup>The islanders showed us unusual kindness. They built a fire and welcomed us all because it was raining and cold.<sup>3</sup>Paul gathered a pile of brushwood and, as he put it on the fire, a viper, driven out by the heat, fastened itself on his hand.<sup>4</sup>When the islanders saw the snake hanging from his hand, they said to each other, “This man must be a murderer; for though he escaped from the sea, the goddess Justice has not allowed him to live.”<sup>5</sup>But Paul shook the snake off into the fire and suffered no ill effects.<sup>6</sup>The people expected him to swell up or suddenly fall dead; but after waiting a long time and seeing nothing unusual happen to him, they changed their minds and said he was a god.</p><p><sup>7</sup>There was an estate nearby that belonged to Publius, the chief official of the island. He welcomed us to his home and showed us generous hospitality for three days.<sup>8</sup>His father was sick in bed, suffering from fever and dysentery. Paul went in to see him and, after prayer, placed his hands on him and healed him.<sup>9</sup>When this had happened, the rest of the sick on the island came and were cured.<sup>10</sup>They honored us in many ways; and when we were ready to sail, they furnished us with the supplies we needed.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Acts%2028:1-10&version=NIV",
         "isOpen": false
       }
@@ -201,10 +217,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in the story?",
-          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in the story?"
+          },
+          {
+            "text": "What is being modeled about a Spirit-dependent life, making disciples or leadership?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -219,9 +243,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How are Jesus’ followers continuing His work of making disciples and church planting?",
-          "How is the gospel impacting people and society?",
-          "What barriers or obstacles were overcome and how were they overcome?"
+          {
+            "text": "How are Jesus’ followers continuing His work of making disciples and church planting?"
+          },
+          {
+            "text": "How is the gospel impacting people and society?"
+          },
+          {
+            "text": "What barriers or obstacles were overcome and how were they overcome?"
+          }
         ]
       }
     },
@@ -244,7 +274,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -258,13 +290,13 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "Read {Romans 8:28-39}.&nbsp;",
+                "text": "Read {Romans 8:28-39}.",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Romans 8:28-39",
                     "label": "Romans 8:28-39",
-                    "passage": "<div>\n<p><sup class=\"versenum\">28&nbsp;</sup>And we know that in all things God works for the good of those who love him, who have been called according to his purpose.<sup class=\"versenum\">29&nbsp;</sup>For those God foreknew he also predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers and sisters.<sup class=\"versenum\">30&nbsp;</sup>And those he predestined, he also called; those he called, he also justified; those he justified, he also glorified.</p>\n\n<p><sup class=\"versenum\">31&nbsp;</sup>What, then, shall we say in response to these things? If God is for us, who can be against us?<sup class=\"versenum\">32&nbsp;</sup>He who did not spare his own Son, but gave him up for us all—how will he not also, along with him, graciously give us all things?<sup class=\"versenum\">33&nbsp;</sup>Who will bring any charge against those whom God has chosen? It is God who justifies.<sup class=\"versenum\">34&nbsp;</sup>Who then is the one who condemns? No one. Christ Jesus who died—more than that, who was raised to life—is at the right hand of God and is also interceding for us.<sup class=\"versenum\">35&nbsp;</sup>Who shall separate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword?<sup class=\"versenum\">36&nbsp;</sup>As it is written:</p>\n\n<p>“For your sake we face death all day long;<br>\n&nbsp;&nbsp;&nbsp;&nbsp;we are considered as sheep to be slaughtered.”</p>\n</div>\n\n<p><sup class=\"versenum\">37&nbsp;</sup>No, in all these things we are more than conquerors through him who loved us.<sup class=\"versenum\">38&nbsp;</sup>For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers,<sup class=\"versenum\">39&nbsp;</sup>neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.</p>"
+                    "passage": "<div><p><sup>28</sup>And we know that in all things God works for the good of those who love him, who have been called according to his purpose.<sup>29</sup>For those God foreknew he also predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers and sisters.<sup>30</sup>And those he predestined, he also called; those he called, he also justified; those he justified, he also glorified.</p><p><sup>31</sup>What, then, shall we say in response to these things? If God is for us, who can be against us?<sup>32</sup>He who did not spare his own Son, but gave him up for us all—how will he not also, along with him, graciously give us all things?<sup>33</sup>Who will bring any charge against those whom God has chosen? It is God who justifies.<sup>34</sup>Who then is the one who condemns? No one. Christ Jesus who died—more than that, who was raised to life—is at the right hand of God and is also interceding for us.<sup>35</sup>Who shall separate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword?<sup>36</sup>As it is written:</p><p>“For your sake we face death all day long;<br>we are considered as sheep to be slaughtered.”</p></div><p><sup>37</sup>No, in all these things we are more than conquerors through him who loved us.<sup>38</sup>For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers,<sup>39</sup>neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.</p>"
                   }
                 ],
                 "isOpen": false
@@ -308,7 +340,9 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Practice needed skills or previous topics to help prepare to minister to others:<br> o Prayer, Care, Share<br> o Gospel<br> o Foundational Bible Studies."
+                  {
+                    "text": "Practice needed skills or previous topics to help prepare to minister to others:<br> o Prayer, Care, Share<br> o Gospel<br> o Foundational Bible Studies."
+                  }
                 ]
               }
             }
@@ -329,8 +363,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -353,7 +391,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

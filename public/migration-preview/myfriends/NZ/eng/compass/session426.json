@@ -22,22 +22,31 @@
       "data": {
         "style": "ordered",
         "items": [
-          "What did you experience with God this week?",
-          "In the last few days, did you have the opportunity to share an experience with God with someone close to you that doesn’t know Jesus yet? Or could you pray for them or help them practically?",
-          "Do you need God‘s help in an area of your life?"
+          {
+            "text": "What did you experience with God this week?"
+          },
+          {
+            "text": "In the last few days, did you have the opportunity to share an experience with God with someone close to you that doesn’t know Jesus yet? Or could you pray for them or help them practically?"
+          },
+          {
+            "text": "Do you need God‘s help in an area of your life?"
+          }
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where\nyou need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship\nwith God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -60,10 +69,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Read the passage silently. What words or phrases stick out?",
-          "One person reads the passage out loud.",
-          "One person retells the passage in his/her own words (Bibles closed).",
-          "If necessary, the others complement what was said (Bibles closed)."
+          {
+            "text": "Read the passage silently. What words or phrases stick out?"
+          },
+          {
+            "text": "One person reads the passage out loud."
+          },
+          {
+            "text": "One person retells the passage in his/her own words (Bibles closed)."
+          },
+          {
+            "text": "If necessary, the others complement what was said (Bibles closed)."
+          }
         ]
       }
     },
@@ -71,7 +88,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Genesis 39",
-        "html": "<p class=\"bible\"><sup>1</sup>Now Joseph had been taken down to Egypt. Potiphar, an Egyptian who was one of Pharaoh’s officials, the captain of the guard, bought him from the Ishmaelites who had taken him there. </p><p class=\"bible\"><sup>2</sup>The <span class=\"small-caps\">Lord</span> was with Joseph so that he prospered, and he lived in the house of his Egyptian master.<sup> 3 </sup>When his master saw that the <span class=\"small-caps\">Lord</span> was with him and that the <span class=\"small-caps\">Lord</span> gave him success in everything he did,<sup>4</sup>Joseph found favor in his eyes and became his attendant. Potiphar put him in charge of his household, and he entrusted to his care everything he owned.<sup> 5 </sup>From the time he put him in charge of his household and of all that he owned, the <span class=\"small-caps\">Lord</span> blessed the household of the Egyptian because of Joseph. The blessing of the <span class=\"small-caps\">Lord</span> was on everything Potiphar had, both in the house and in the field.<sup>6</sup>So Potiphar left everything he had in Joseph’s care; with Joseph in charge, he did not concern himself with anything except the food he ate. </p><p class=\"bible\"> Now Joseph was well-built and handsome,<sup>7</sup>and after a while his master’s wife took notice of Joseph and said, “Come to bed with me!” </p><p class=\"bible\"><sup>8</sup>But he refused. “With me in charge,” he told her, “my master does not concern himself with anything in the house; everything he owns he has entrusted to my care.<sup> 9 </sup>No one is greater in this house than I am. My master has withheld nothing from me except you, because you are his wife. How then could I do such a wicked thing and sin against God?”<sup>10</sup>And though she spoke to Joseph day after day, he refused to go to bed with her or even be with her. </p><p class=\"bible\"><sup>11</sup>One day he went into the house to attend to his duties, and none of the household servants was inside.<sup> 12 </sup>She caught him by his cloak and said, “Come to bed with me!” But he left his cloak in her hand and ran out of the house. </p><p class=\"bible\"><sup>13</sup>When she saw that he had left his cloak in her hand and had run out of the house,<sup>14</sup>she called her household servants. “Look,” she said to them, “this Hebrew has been brought to us to make sport of us! He came in here to sleep with me, but I screamed.<sup>15</sup>When he heard me scream for help, he left his cloak beside me and ran out of the house.” </p><p class=\"bible\"><sup>16</sup>She kept his cloak beside her until his master came home.<sup>17</sup>Then she told him this story: “That Hebrew slave you brought us came to me to make sport of me.<sup> 18 </sup>But as soon as I screamed for help, he left his cloak beside me and ran out of the house.” </p><p class=\"bible\"><sup>19</sup>When his master heard the story his wife told him, saying, “This is how your slave treated me,” he burned with anger.<sup>20</sup>Joseph’s master took him and put him in prison, the place where the king’s prisoners were confined. </p><p class=\"bible\"> But while Joseph was there in the prison,<sup>21</sup>the <span class=\"small-caps\">Lord</span> was with him; he showed him kindness and granted him favor in the eyes of the prison warden.<sup> 22 </sup>So the warden put Joseph in charge of all those held in the prison, and he was made responsible for all that was done there.<sup> 23 </sup>The warden paid no attention to anything under Joseph’s care, because the <span class=\"small-caps\">Lord</span> was with Joseph and gave him success in whatever he did. </p><p class=\"bible\"></p>",
+        "html": "<p><sup>1</sup>Now Joseph had been taken down to Egypt. Potiphar, an Egyptian who was one of Pharaoh’s officials, the captain of the guard, bought him from the Ishmaelites who had taken him there. </p><p><sup>2</sup>The <span class=\"small-caps\">Lord</span> was with Joseph so that he prospered, and he lived in the house of his Egyptian master.<sup> 3 </sup>When his master saw that the <span class=\"small-caps\">Lord</span> was with him and that the <span class=\"small-caps\">Lord</span> gave him success in everything he did,<sup>4</sup>Joseph found favor in his eyes and became his attendant. Potiphar put him in charge of his household, and he entrusted to his care everything he owned.<sup> 5 </sup>From the time he put him in charge of his household and of all that he owned, the <span class=\"small-caps\">Lord</span> blessed the household of the Egyptian because of Joseph. The blessing of the <span class=\"small-caps\">Lord</span> was on everything Potiphar had, both in the house and in the field.<sup>6</sup>So Potiphar left everything he had in Joseph’s care; with Joseph in charge, he did not concern himself with anything except the food he ate. </p><p> Now Joseph was well-built and handsome,<sup>7</sup>and after a while his master’s wife took notice of Joseph and said, “Come to bed with me!” </p><p><sup>8</sup>But he refused. “With me in charge,” he told her, “my master does not concern himself with anything in the house; everything he owns he has entrusted to my care.<sup> 9 </sup>No one is greater in this house than I am. My master has withheld nothing from me except you, because you are his wife. How then could I do such a wicked thing and sin against God?”<sup>10</sup>And though she spoke to Joseph day after day, he refused to go to bed with her or even be with her. </p><p><sup>11</sup>One day he went into the house to attend to his duties, and none of the household servants was inside.<sup> 12 </sup>She caught him by his cloak and said, “Come to bed with me!” But he left his cloak in her hand and ran out of the house. </p><p><sup>13</sup>When she saw that he had left his cloak in her hand and had run out of the house,<sup>14</sup>she called her household servants. “Look,” she said to them, “this Hebrew has been brought to us to make sport of us! He came in here to sleep with me, but I screamed.<sup>15</sup>When he heard me scream for help, he left his cloak beside me and ran out of the house.” </p><p><sup>16</sup>She kept his cloak beside her until his master came home.<sup>17</sup>Then she told him this story: “That Hebrew slave you brought us came to me to make sport of me.<sup> 18 </sup>But as soon as I screamed for help, he left his cloak beside me and ran out of the house.” </p><p><sup>19</sup>When his master heard the story his wife told him, saying, “This is how your slave treated me,” he burned with anger.<sup>20</sup>Joseph’s master took him and put him in prison, the place where the king’s prisoners were confined. </p><p> But while Joseph was there in the prison,<sup>21</sup>the <span class=\"small-caps\">Lord</span> was with him; he showed him kindness and granted him favor in the eyes of the prison warden.<sup> 22 </sup>So the warden put Joseph in charge of all those held in the prison, and he was made responsible for all that was done there.<sup> 23 </sup>The warden paid no attention to anything under Joseph’s care, because the <span class=\"small-caps\">Lord</span> was with Joseph and gave him success in whatever he did. </p>",
         "url": "https://biblegateway.com/passage/?search=Genesis%2039:1-23&version=TNIV",
         "isOpen": false
       }
@@ -80,7 +97,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "1 Peter 1:6-7",
-        "html": "<p class=\"bible\"><sup>6</sup>In all this you greatly rejoice, though now for a little while you may have had to suffer grief in all kinds of trials.<sup>7</sup>These have come so that the proven genuineness of your faith—of greater worth than gold, which perishes even though refined by fire—may result in praise, glory and honor when Jesus Christ is revealed. </p><p class=\"bible\"><br></p>",
+        "html": "<p><sup>6</sup>In all this you greatly rejoice, though now for a little while you may have had to suffer grief in all kinds of trials.<sup>7</sup>These have come so that the proven genuineness of your faith—of greater worth than gold, which perishes even though refined by fire—may result in praise, glory and honor when Jesus Christ is revealed. </p>",
         "url": "https://biblegateway.com/passage/?search=1%20Peter%201:6-7&version=TNIV",
         "isOpen": false
       }
@@ -90,8 +107,29 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Everyone by themselves:<ul class=\"arrows\"><li> What words or phrases stick out now? Are there any differences to what you noticed before? </li><li>Why do you feel drawn to those words or phrases?</li><li>What could God be telling you?</li><li>What can you learn about mankind?</li></ul>",
-          "Share in the group."
+          {
+            "text": "Everyone by themselves:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "What words or phrases stick out now? Are there any differences to what you noticed before?"
+                },
+                {
+                  "text": "Why do you feel drawn to those words or phrases?"
+                },
+                {
+                  "text": "What could God be telling you?"
+                },
+                {
+                  "text": "What can you learn about mankind?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Share in the group."
+          }
         ]
       }
     },
@@ -115,11 +153,21 @@
       "data": {
         "style": "ordered",
         "items": [
-          "What difficult situations in your life have provided you with the biggest boost in growth?",
-          "Are you facing a problem you have to overcome? What quality do you think God wants to develop in you?",
-          "In difficult situations, when you are under a lot of pressure, it is more important than ever that you hold on to God’s truth – what God is truly like and what He is capable of doing – even though you are currently not experiencing it and can’t see it with your physical eyes yet. Read John 8:31-32. What are the requirements to be freed/delivered?",
-          "Read Matthew 6:33. Are there any practical steps God asks you to do in order for you to have His Kingdom as your first priority? For example, do you need to change your priorities? This is even more crucial if you are facing troubles.",
-          "Read the scripture comments. Note on a piece of paper what you want to put in action in the following week. If you should forgive someone, then do it according to the unit <span class=\"unknown\">“</span>Growth through forgiveness” (everyone on their own)."
+          {
+            "text": "What difficult situations in your life have provided you with the biggest boost in growth?"
+          },
+          {
+            "text": "Are you facing a problem you have to overcome? What quality do you think God wants to develop in you?"
+          },
+          {
+            "text": "In difficult situations, when you are under a lot of pressure, it is more important than ever that you hold on to God’s truth – what God is truly like and what He is capable of doing – even though you are currently not experiencing it and can’t see it with your physical eyes yet. Read John 8:31-32. What are the requirements to be freed/delivered?"
+          },
+          {
+            "text": "Read Matthew 6:33. Are there any practical steps God asks you to do in order for you to have His Kingdom as your first priority? For example, do you need to change your priorities? This is even more crucial if you are facing troubles."
+          },
+          {
+            "text": "Read the scripture comments. Note on a piece of paper what you want to put in action in the following week. If you should forgive someone, then do it according to the unit “Growth through forgiveness” (everyone on their own)."
+          }
         ]
       }
     },
@@ -130,15 +178,18 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Tell each other what you want to put into action in the following days."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ To finish, pray in pairs and express your trust in God with what you have read and what you want to hold on to."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Tell each other what you want to put into action in the following\ndays."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "To finish, pray in pairs and express your trust in God with what you\nhave read and what you want to hold on to."
+          }
+        ]
       }
     },
     {
@@ -163,19 +214,19 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "Forgive people who are guilty of, or at least complicit in causing your problems. If you feel like you should forgive someone, you can find tips in the specific questions and scripture comments of the unit <span class=\"unknown\">“</span>Growth through forgiveness”."
+                "text": "Forgive people who are guilty of, or at least complicit in causing your problems. If you feel like you should forgive someone, you can find tips in the specific questions and scripture comments of the unit “Growth through forgiveness”."
               }
             },
             {
               "type": "paragraph",
               "data": {
-                "text": "Keep a spiritual journal, asking yourself the question: <span class=\"unknown\">“</span>What did I learn from God today?” Note down what God tells you and hold on to it."
+                "text": "Keep a spiritual journal, asking yourself the question: “What did I learn from God today?” Note down what God tells you and hold on to it."
               }
             },
             {
               "type": "paragraph",
               "data": {
-                "text": "Keep a spiritual journal with the question: <span class=\"unknown\">“</span>What did I learn from God today?” Especially in difficult situations and when you’re under pressure, it is important that you hold on to God’s truth and proclaim them so you can hear them, i.e. say out loud what God truly is like and what He’s capable of doing, even when you don’t experience it and can’t see it with your physical eyes at the moment (Ephesians 6:16). Read John 8:31-32. What are the requirements to be set free?"
+                "text": "Keep a spiritual journal with the question: “What did I learn from God today?” Especially in difficult situations and when you’re under pressure, it is important that you hold on to God’s truth and proclaim them so you can hear them, i.e. say out loud what God truly is like and what He’s capable of doing, even when you don’t experience it and can’t see it with your physical eyes at the moment (Ephesians 6:16). Read John 8:31-32. What are the requirements to be set free?"
               }
             },
             {

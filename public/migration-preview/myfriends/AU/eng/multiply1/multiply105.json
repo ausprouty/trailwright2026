@@ -5,7 +5,7 @@
   "htmlLang": "en",
   "direction": "ltr",
   "numberSystem": "latn",
-  "series": "multiply",
+  "series": "multiply1",
   "lessonId": "multiply105",
   "sortOrder": 5,
   "blocks": [
@@ -59,9 +59,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What has been going well for you since we last met?",
-          "What has been difficult for you since we last met?",
-          "Do you need any help from God in your life?"
+          {
+            "text": "What has been going well for you since we last met?"
+          },
+          {
+            "text": "What has been difficult for you since we last met?"
+          },
+          {
+            "text": "Do you need any help from God in your life?"
+          }
         ]
       }
     },
@@ -77,8 +83,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What have you put into practice since our last meeting?",
-          "What types of conversations have you had with the people on your Daisy Chain? <ul><li>Casual conversation </li><li>Meaningful conversation </li><li>Spiritual conversation </li><li>Jesus conversation</li></ul>"
+          {
+            "text": "What have you put into practice since our last meeting?"
+          },
+          {
+            "text": "What types of conversations have you had with the people on your Daisy Chain?",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Casual conversation"
+                },
+                {
+                  "text": "Meaningful conversation"
+                },
+                {
+                  "text": "Spiritual conversation"
+                },
+                {
+                  "text": "Jesus conversation"
+                }
+              ]
+            }
+          }
         ]
       }
     },
@@ -157,7 +184,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Luke 11:1-13",
-        "html": "<!-- begin bible --><p><sup class=\"versenum\">1 </sup>One day Jesus was praying in a certain place. When he finished, one of his disciples said to him, “Lord, teach us to pray, just as John taught his disciples.” </p><p><sup class=\"versenum\">2 </sup>He said to them, “When you pray, say:</p><div class=\"poetry top-05\"><p> “‘Father,<br> hallowed be your name,<br> your kingdom come.<br><sup class=\"versenum\">3 </sup>Give us each day our daily bread.<br><sup class=\"versenum\">4 </sup>Forgive us our sins,<br> for we also forgive everyone who sins against us. And lead us not into temptation.’” </p></div><p><sup class=\"versenum\">5 </sup>Then Jesus said to them, “Suppose you have a friend, and you go to him at midnight and say, ‘Friend, lend me three loaves of bread;<sup class=\"versenum\">6 </sup>a friend of mine on a journey has come to me, and I have no food to offer him.’<sup class=\"versenum\">7 </sup>And suppose the one inside answers, ‘Don’t bother me. The door is already locked, and my children and I are in bed. I can’t get up and give you anything.’<sup class=\"versenum\">8 </sup>I tell you, even though he will not get up and give you the bread because of friendship, yet because of your shameless audacity he will surely get up and give you as much as you need. </p><p><sup class=\"versenum\">9 </sup>“So I say to you: Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.<sup class=\"versenum\">10 </sup>For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened. </p><p><sup class=\"versenum\">11 </sup>“Which of you fathers, if your son asks for a fish, will give him a snake instead?<sup class=\"versenum\">12 </sup>Or if he asks for an egg, will give him a scorpion?<sup class=\"versenum\">13 </sup>If you then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give the Holy Spirit to those who ask him!” </p><!-- end bible -->",
+        "html": "<p><sup>1</sup>One day Jesus was praying in a certain place. When he finished, one of his disciples said to him, “Lord, teach us to pray, just as John taught his disciples.” </p><p><sup>2</sup>He said to them, “When you pray, say:</p><div class=\"poetry top-05\"><p> “‘Father,<br> hallowed be your name,<br> your kingdom come.<br><sup>3</sup>Give us each day our daily bread.<br><sup>4</sup>Forgive us our sins,<br> for we also forgive everyone who sins against us.<br> And lead us not into temptation.’” </p></div><p><sup>5</sup>Then Jesus said to them, “Suppose you have a friend, and you go to him at midnight and say, ‘Friend, lend me three loaves of bread;<sup>6</sup>a friend of mine on a journey has come to me, and I have no food to offer him.’<sup>7</sup>And suppose the one inside answers, ‘Don’t bother me. The door is already locked, and my children and I are in bed. I can’t get up and give you anything.’<sup>8</sup>I tell you, even though he will not get up and give you the bread because of friendship, yet because of your shameless audacity he will surely get up and give you as much as you need. </p><p><sup>9</sup>“So I say to you: Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.<sup>10</sup>For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened. </p><p><sup>11</sup>“Which of you fathers, if your son asks for a fish, will give him a snake instead?<sup>12</sup>Or if he asks for an egg, will give him a scorpion?<sup>13</sup>If you then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give the Holy Spirit to those who ask him!” </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%2011:1-13&version=NIV",
         "isOpen": false
       }
@@ -187,12 +214,41 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What stands out for you in this passage?",
-          "What do you like and what bothers you in this passage?",
-          "Why do you think this passage is important?",
-          "What are some possible ways a person could apply this passage? Is there: <ul><li>A behaviour to change?</li><li>A promise to claim?</li><li>An example to follow?</li><li>A command to obey?</li></ul>",
-          "Ask God what He wants you to do in response to the passage.",
-          "Share this with the group"
+          {
+            "text": "What stands out for you in this passage?"
+          },
+          {
+            "text": "What do you like and what bothers you in this passage?"
+          },
+          {
+            "text": "Why do you think this passage is important?"
+          },
+          {
+            "text": "What are some possible ways a person could apply this passage? Is there:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "A behaviour to change?"
+                },
+                {
+                  "text": "A promise to claim?"
+                },
+                {
+                  "text": "An example to follow?"
+                },
+                {
+                  "text": "A command to obey?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Ask God what He wants you to do in response to the passage."
+          },
+          {
+            "text": "Share this with the group"
+          }
         ]
       }
     },
@@ -215,7 +271,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -237,10 +295,18 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Praise Him and keep Him the centre;",
-                  "Request what you need from Him;",
-                  "Acknowledge your sins;",
-                  "Yield your life to His will and to His Kingdom."
+                  {
+                    "text": "Praise Him and keep Him the centre;"
+                  },
+                  {
+                    "text": "Request what you need from Him;"
+                  },
+                  {
+                    "text": "Acknowledge your sins;"
+                  },
+                  {
+                    "text": "Yield your life to His will and to His Kingdom."
+                  }
                 ]
               }
             },
@@ -345,8 +411,12 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "What are some ways that God speaks to us? What have you experienced?",
-                  "Discuss this as a group."
+                  {
+                    "text": "What are some ways that God speaks to us? What have you experienced?"
+                  },
+                  {
+                    "text": "Discuss this as a group."
+                  }
                 ]
               }
             },
@@ -366,13 +436,13 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "<li class=\"forward\">\n      Pair up with someone. Read {Galatians 5:22-23}\n\n      \n      and ask the Holy Spirit to highlight a spiritual fruit that He wants to affirm in their life.\n      &nbsp;Share what you have heard from God and thank Him for that fruit in their life.<br>\n      &nbsp;\n    </li>\n    <li class=\"forward\">\n      Go back to your daisy and ask Jesus who to focus on in daily prayer, practical care, and love\n      over the next week. When a name stands out to you, circle it. You can pray, “How do you\n      see them Father? What do you want to say to them or do for them?” If you have an idea,\n      scripture, picture, or practical action comes to mind for a someone on your daisy, write that\n      next to their name.\n    </li>",
+                "text": "<li class=\"forward\">Pair up with someone. Read {Galatians 5:22-23} and ask the Holy Spirit to highlight a spiritual fruit that He wants to affirm in their life. Share what you have heard from God and thank Him for that fruit in their life.<br></li><li class=\"forward\">Go back to your daisy and ask Jesus who to focus on in daily prayer, practical care, and love over the next week. When a name stands out to you, circle it. You can pray, “How do you see them Father? What do you want to say to them or do for them?” If you have an idea, scripture, picture, or practical action comes to mind for a someone on your daisy, write that next to their name.</li>",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Galatians 5:22-23",
                     "label": "Galatians 5:22-23",
-                    "passage": "<p>\n              <sup class=\"versenum\">22&nbsp;</sup>But the fruit of the Spirit is love, joy, peace,\n              forbearance, kindness, goodness, faithfulness,<sup class=\"versenum\">23&nbsp;</sup>gentleness and self-control. Against such things there is no law.\n            </p>"
+                    "passage": "<p><sup>22</sup>But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness,<sup>23</sup>gentleness and self-control. Against such things there is no law.</p>"
                   }
                 ],
                 "isOpen": false
@@ -395,15 +465,20 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Look at your Daisy Chain again.",
-          "What is God revealing as your next steps this week with him and others?"
+          {
+            "text": "Look at your Daisy Chain again."
+          },
+          {
+            "text": "What is God revealing as your next steps this week with him and others?"
+          }
         ]
       }
     },
     {
-      "type": "iWill",
+      "type": "notesArea",
       "data": {
-        "storageKey": "multiply-multiply105-i-will"
+        "notes": "",
+        "storageKey": "note-29"
       }
     },
     {
@@ -411,9 +486,19 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Share this step with the group and ask someone to pray for you as you take this step in the power of the Holy Spirit.",
-          "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle. <br>"
+          {
+            "text": "Share this step with the group and ask someone to pray for you as you take this step in the power of the Holy Spirit."
+          },
+          {
+            "text": "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle. <br>"
+          }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply105-i-will"
       }
     }
   ]

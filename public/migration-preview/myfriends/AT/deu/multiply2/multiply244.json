@@ -47,9 +47,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -65,10 +71,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -99,9 +113,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -109,7 +129,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 12:1-12",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Inzwischen drängten und schoben sich die Menschen zu Tausenden. Jesus wandte sich an seine Jünger und warnte sie: »Hütet euch vor dem Sauerteig der Pharisäer – hütet euch vor ihrer Heuchelei. <sup>2</sup>Es kommt die Zeit, da wird alles offenbar werden; alles, was jetzt noch geheim ist, wird dann öffentlich bekannt gemacht werden. <sup>3</sup>Alles, was ihr im Dunkeln gesagt habt, wird im Hellen zu hören sein, und was ihr hinter verschlossenen Türen geflüstert habt, wird man von den Dächern rufen, sodass alle es hören! <sup>4</sup>Meine Freunde, habt keine Angst vor denen, die euch töten wollen. Sie können nur den Körper töten; mehr können sie euch nicht antun. <sup>5</sup>Aber ich sage euch, wen ihr wirklich fürchten sollt: Fürchtet Gott, der die Macht hat, Menschen zu töten und sie danach in die Hölle zu werfen. <sup>6</sup>Was kosten fünf Spatzen? Vielleicht ein paar Cent? Und doch vergisst Gott nicht einen Einzigen von ihnen. <sup>7</sup>Und auch die Haare auf eurem Kopf sind alle gezählt. Habt deshalb keine Angst, denn ihr seid ihm wertvoller als ein ganzer Schwarm Spatzen. <sup>8</sup>Und ich versichere euch: Wer sich hier auf der Erde zu mir bekennt, zu dem wird sich der Menschensohn auch in der Gegenwart der Engel Gottes bekennen. <sup>9</sup>Aber wer mich hier auf der Erde verleugnet, der wird auch vor den Engeln Gottes verleugnet werden. <sup>10</sup>Dennoch kann dem, der schlecht über den Menschensohn spricht, vergeben werden; aber dem, der gegen den Heiligen Geist lästert, wird niemals vergeben werden. <sup>11</sup>Und wenn man euch in den Synagogen und vor Herrschern und Beamten den Prozess machen wird, dann macht euch keine Sorgen darüber, was ihr zu eurer Verteidigung vorbringen sollt. <sup>12</sup>Denn in diesem Moment wird der Heilige Geist euch lehren, was ihr sagen sollt.«<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>1</sup>Inzwischen drängten und schoben sich die Menschen zu Tausenden. Jesus wandte sich an seine Jünger und warnte sie: »Hütet euch vor dem Sauerteig der Pharisäer – hütet euch vor ihrer Heuchelei. <sup>2</sup>Es kommt die Zeit, da wird alles offenbar werden; alles, was jetzt noch geheim ist, wird dann öffentlich bekannt gemacht werden. <sup>3</sup>Alles, was ihr im Dunkeln gesagt habt, wird im Hellen zu hören sein, und was ihr hinter verschlossenen Türen geflüstert habt, wird man von den Dächern rufen, sodass alle es hören! <sup>4</sup>Meine Freunde, habt keine Angst vor denen, die euch töten wollen. Sie können nur den Körper töten; mehr können sie euch nicht antun. <sup>5</sup>Aber ich sage euch, wen ihr wirklich fürchten sollt: Fürchtet Gott, der die Macht hat, Menschen zu töten und sie danach in die Hölle zu werfen. <sup>6</sup>Was kosten fünf Spatzen? Vielleicht ein paar Cent? Und doch vergisst Gott nicht einen Einzigen von ihnen. <sup>7</sup>Und auch die Haare auf eurem Kopf sind alle gezählt. Habt deshalb keine Angst, denn ihr seid ihm wertvoller als ein ganzer Schwarm Spatzen. <sup>8</sup>Und ich versichere euch: Wer sich hier auf der Erde zu mir bekennt, zu dem wird sich der Menschensohn auch in der Gegenwart der Engel Gottes bekennen. <sup>9</sup>Aber wer mich hier auf der Erde verleugnet, der wird auch vor den Engeln Gottes verleugnet werden. <sup>10</sup>Dennoch kann dem, der schlecht über den Menschensohn spricht, vergeben werden; aber dem, der gegen den Heiligen Geist lästert, wird niemals vergeben werden. <sup>11</sup>Und wenn man euch in den Synagogen und vor Herrschern und Beamten den Prozess machen wird, dann macht euch keine Sorgen darüber, was ihr zu eurer Verteidigung vorbringen sollt. <sup>12</sup>Denn in diesem Moment wird der Heilige Geist euch lehren, was ihr sagen sollt.«</div><p></p>",
         "url": "https://bibleserver.com/NLB/Lukas%2012:1-12",
         "isOpen": false
       }
@@ -139,9 +159,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -202,8 +228,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -219,7 +266,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

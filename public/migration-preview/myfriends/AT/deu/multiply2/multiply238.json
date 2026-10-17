@@ -47,9 +47,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -65,10 +71,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -99,9 +113,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -109,7 +129,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Markus 7:31-8:9",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>31</sup>Jesus verließ Tyrus und ging nach Sidon; dann kehrte er zurück an den See von Galiläa und in das Gebiet der Zehn Städte. <sup>32</sup>Ein Mann, der taub war und kaum sprechen konnte, wurde zu ihm gebracht. Die Leute baten Jesus, dem Mann die Hände aufzulegen und ihn zu heilen. <sup>33</sup>Jesus führte ihn an einen ruhigen Ort, fort von der Menge. Er legte seine Finger in die Ohren des Mannes. Dann benetzte er die Fingerspitzen mit seinem Speichel und berührte damit die Zunge des Mannes. <sup>34</sup>Schließlich blickte er zum Himmel auf, seufzte und befahl: »Öffne dich !« <sup>35</sup>Und im selben Augenblick konnte der Mann hören und normal sprechen! <sup>36</sup>Jesus ermahnte die Menge, niemandem davon zu erzählen. Doch je mehr er es ihnen verbot, desto rascher verbreiteten sie die Nachricht, <sup>37</sup>weil sie vor Staunen völlig außer sich waren. Wieder und wieder sagten sie: »Es ist alles wunderbar, was er tut. Er heilt sogar die Tauben und Stummen.« <!-- end bible --></div><div></div><!-- end bible --><div><!-- begin bible --><sup>8:1</sup>In diesen Tagen hatte sich erneut eine große Menschenmenge versammelt. Da die Menschen nichts zu essen hatten, rief Jesus seine Jünger zu sich und sagte zu ihnen: <sup>2</sup>»Die Menschen tun mir leid. Sie waren drei Tage hier bei mir, und nun haben sie nichts mehr zu essen. <sup>3</sup>Wenn ich sie ohne Essen heimschicke, könnten sie unterwegs zusammenbrechen, denn einige von ihnen sind von weit her gekommen.« <sup>4</sup>»Wie sollen wir denn hier in dieser einsamen Gegend genug zu essen für sie finden?«, fragten seine Jünger. <sup>5</sup>»Wie viele Brote habt ihr?«, fragte er sie. »Sieben«, antworteten sie. <sup>6</sup>Da forderte Jesus die Menschen auf, sich auf die Erde zu setzen. Dann nahm er die sieben Brote, dankte Gott dafür, brach sie in Stücke und gab sie seinen Jüngern, damit sie das Brot an die Menge austeilten. <sup>7</sup>Sie hatten auch noch einige kleine Fische, und Jesus segnete sie und ließ sie durch seine Jünger verteilen. <sup>8</sup>Alle aßen, bis sie satt waren, und als die Reste eingesammelt wurden, füllten sie sieben große Körbe voll! <sup>9</sup>An diesem Tag waren viertausend Menschen beisammen. Nachdem sie gegessen hatten, entließ er sie nach Hause. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>31</sup>Jesus verließ Tyrus und ging nach Sidon; dann kehrte er zurück an den See von Galiläa und in das Gebiet der Zehn Städte. <sup>32</sup>Ein Mann, der taub war und kaum sprechen konnte, wurde zu ihm gebracht. Die Leute baten Jesus, dem Mann die Hände aufzulegen und ihn zu heilen. <sup>33</sup>Jesus führte ihn an einen ruhigen Ort, fort von der Menge. Er legte seine Finger in die Ohren des Mannes. Dann benetzte er die Fingerspitzen mit seinem Speichel und berührte damit die Zunge des Mannes. <sup>34</sup>Schließlich blickte er zum Himmel auf, seufzte und befahl: »Öffne dich !« <sup>35</sup>Und im selben Augenblick konnte der Mann hören und normal sprechen! <sup>36</sup>Jesus ermahnte die Menge, niemandem davon zu erzählen. Doch je mehr er es ihnen verbot, desto rascher verbreiteten sie die Nachricht, <sup>37</sup>weil sie vor Staunen völlig außer sich waren. Wieder und wieder sagten sie: »Es ist alles wunderbar, was er tut. Er heilt sogar die Tauben und Stummen.« </div><div></div><div><sup>8:1</sup>In diesen Tagen hatte sich erneut eine große Menschenmenge versammelt. Da die Menschen nichts zu essen hatten, rief Jesus seine Jünger zu sich und sagte zu ihnen: <sup>2</sup>»Die Menschen tun mir leid. Sie waren drei Tage hier bei mir, und nun haben sie nichts mehr zu essen. <sup>3</sup>Wenn ich sie ohne Essen heimschicke, könnten sie unterwegs zusammenbrechen, denn einige von ihnen sind von weit her gekommen.« <sup>4</sup>»Wie sollen wir denn hier in dieser einsamen Gegend genug zu essen für sie finden?«, fragten seine Jünger. <sup>5</sup>»Wie viele Brote habt ihr?«, fragte er sie. »Sieben«, antworteten sie. <sup>6</sup>Da forderte Jesus die Menschen auf, sich auf die Erde zu setzen. Dann nahm er die sieben Brote, dankte Gott dafür, brach sie in Stücke und gab sie seinen Jüngern, damit sie das Brot an die Menge austeilten. <sup>7</sup>Sie hatten auch noch einige kleine Fische, und Jesus segnete sie und ließ sie durch seine Jünger verteilen. <sup>8</sup>Alle aßen, bis sie satt waren, und als die Reste eingesammelt wurden, füllten sie sieben große Körbe voll! <sup>9</sup>An diesem Tag waren viertausend Menschen beisammen. Nachdem sie gegessen hatten, entließ er sie nach Hause. </div><p></p>",
         "url": "https://bibleserver.com/NLB/Markus%208:1-9",
         "isOpen": false
       }
@@ -139,9 +159,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -190,8 +216,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -207,7 +254,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

@@ -33,19 +33,19 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "<li class=\"nobreak\">(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. ({Philippians 2:11}b;&nbsp;\n\n\t\n\t&nbsp;{1 Timothy 2:4-6}a).&nbsp;\n\n\t\n\t</li>",
+                "text": "(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. ({Philippians 2:11}b; {1 Timothy 2:4-6}a).",
                 "references": [
                   {
                     "id": "popup_pop9",
                     "marker": "Philippians 2:11",
                     "label": "Philippians 2:11",
-                    "passage": "<p><sup class=\"versenum\">11&nbsp;</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;to the glory of God the Father.</p>"
+                    "passage": "<p><sup>11</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>to the glory of God the Father.</p>"
                   },
                   {
                     "id": "popup_pop2",
                     "marker": "1 Timothy 2:4-6",
                     "label": "1 Timothy 2:4-6",
-                    "passage": "<p><sup class=\"versenum\">4&nbsp;</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup class=\"versenum\">5&nbsp;</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup class=\"versenum\">6&nbsp;</sup>who gave himself as a ransom for all people.&nbsp;</p>"
+                    "passage": "<p><sup>4</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup>5</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup>6</sup>who gave himself as a ransom for all people.</p>"
                   }
                 ],
                 "isOpen": false
@@ -74,8 +74,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -97,7 +101,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -119,9 +125,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them."
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them."
+                  }
                 ]
               }
             },
@@ -170,7 +182,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -191,7 +205,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "John 2:1-11",
-        "html": "<!-- begin bible --><h3>Jesus Changes Water Into Wine</h3><p><sup class=\"versenum\">1 </sup>On the third day a wedding took place at Cana in Galilee. Jesus’ mother was there,<sup class=\"versenum\">2 </sup>and Jesus and his disciples had also been invited to the wedding.<sup class=\"versenum\">3 </sup>When the wine was gone, Jesus’ mother said to him, “They have no more wine.”</p><p><sup class=\"versenum\">4 </sup>“Woman, why do you involve me?” Jesus replied. “My hour has not yet come.”</p><p><sup class=\"versenum\">5 </sup>His mother said to the servants, “Do whatever he tells you.”</p><p><sup class=\"versenum\">6 </sup>Nearby stood six stone water jars, the kind used by the Jews for ceremonial washing, each holding from twenty to thirty gallons.</p><p><sup class=\"versenum\">7 </sup>Jesus said to the servants, “Fill the jars with water”; so they filled them to the brim.</p><p><sup class=\"versenum\">8 </sup>Then he told them, “Now draw some out and take it to the master of the banquet.”</p><p>They did so,<sup class=\"versenum\">9 </sup>and the master of the banquet tasted the water that had been turned into wine. He did not realize where it had come from, though the servants who had drawn the water knew. Then he called the bridegroom aside<sup class=\"versenum\">10 </sup>and said, “Everyone brings out the choice wine first and then the cheaper wine after the guests have had too much to drink; but you have saved the best till now.”</p><p><sup class=\"versenum\">11 </sup>What Jesus did here in Cana of Galilee was the first of the signs through which he revealed his glory; and his disciples believed in him.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<h3>Jesus Changes Water Into Wine</h3><p><sup>1</sup>On the third day a wedding took place at Cana in Galilee. Jesus’ mother was there,<sup>2</sup>and Jesus and his disciples had also been invited to the wedding.<sup>3</sup>When the wine was gone, Jesus’ mother said to him, “They have no more wine.”</p><p><sup>4</sup>“Woman, why do you involve me?” Jesus replied. “My hour has not yet come.”</p><p><sup>5</sup>His mother said to the servants, “Do whatever he tells you.”</p><p><sup>6</sup>Nearby stood six stone water jars, the kind used by the Jews for ceremonial washing, each holding from twenty to thirty gallons.</p><p><sup>7</sup>Jesus said to the servants, “Fill the jars with water”; so they filled them to the brim.</p><p><sup>8</sup>Then he told them, “Now draw some out and take it to the master of the banquet.”</p><p>They did so,<sup>9</sup>and the master of the banquet tasted the water that had been turned into wine. He did not realize where it had come from, though the servants who had drawn the water knew. Then he called the bridegroom aside<sup>10</sup>and said, “Everyone brings out the choice wine first and then the cheaper wine after the guests have had too much to drink; but you have saved the best till now.”</p><p><sup>11</sup>What Jesus did here in Cana of Galilee was the first of the signs through which he revealed his glory; and his disciples believed in him.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=John%202:1-11&version=NIV",
         "isOpen": false
       }
@@ -221,10 +235,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in Jesus story?",
-          "What do we learn about the humanity or divinity of Jesus from this passage?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in Jesus story?"
+          },
+          {
+            "text": "What do we learn about the humanity or divinity of Jesus from this passage?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -239,8 +261,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What are his followers learning?",
-          "What is Jesus modeling to us about life and ministry or godly leadership?"
+          {
+            "text": "What are his followers learning?"
+          },
+          {
+            "text": "What is Jesus modeling to us about life and ministry or godly leadership?"
+          }
         ]
       }
     },
@@ -263,7 +289,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -277,13 +305,13 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "<li class=\"nobreak\">Read {John 1:41}.&nbsp;\n\n\t\n\tJesus is a real person, with a real family, from a real town in Israel. His followers get a chance to meet Jesus’ family. But they also got a chance to see His deity through the miracle of turning water into wine. This was the first sign that revealed His glory. As His disciples grew in their knowledge and experience of Jesus, their faith also grew. Jesus established these early disciples by challenging them to come and see, then by spending time with them. The disciples told others about Jesus as they began to see glimpses of His deity.</li>",
+                "text": "Read {John 1:41}. Jesus is a real person, with a real family, from a real town in Israel. His followers get a chance to meet Jesus’ family. But they also got a chance to see His deity through the miracle of turning water into wine. This was the first sign that revealed His glory. As His disciples grew in their knowledge and experience of Jesus, their faith also grew. Jesus established these early disciples by challenging them to come and see, then by spending time with them. The disciples told others about Jesus as they began to see glimpses of His deity.",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "John 1:41",
                     "label": "John 1:41",
-                    "passage": "<p><sup class=\"versenum\">41&nbsp;</sup>The first thing Andrew did was to find his brother Simon and tell him, “We have found the Messiah” (that is, the Christ).</p>"
+                    "passage": "<p><sup>41</sup>The first thing Andrew did was to find his brother Simon and tell him, “We have found the Messiah” (that is, the Christ).</p>"
                   }
                 ],
                 "isOpen": false
@@ -327,7 +355,23 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Practice needed skills or previous topics to help prepare to minister to others: <ul><li>Prayer, Care, Share</li><li>Gospel</li><li>Foundational Bible Studies.</li></ul>"
+          {
+            "text": "Practice needed skills or previous topics to help prepare to minister to others:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Prayer, Care, Share"
+                },
+                {
+                  "text": "Gospel"
+                },
+                {
+                  "text": "Foundational Bible Studies."
+                }
+              ]
+            }
+          }
         ]
       }
     },
@@ -343,8 +387,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -367,7 +415,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

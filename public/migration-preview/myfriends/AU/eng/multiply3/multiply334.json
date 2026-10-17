@@ -59,8 +59,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -82,7 +86,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -104,9 +110,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -148,7 +160,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -164,7 +178,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Acts 17:1-15 two times as others listen."
+          {
+            "text": "Read or watch Acts 17:1-15 two times as others listen."
+          }
         ]
       }
     },
@@ -172,7 +188,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 17:1-15",
-        "html": "<!-- begin bible --><h3>In Thessalonica</h3><p><sup class=\"versenum\">1 </sup>When Paul and his companions had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue.<sup class=\"versenum\">2 </sup>As was his custom, Paul went into the synagogue, and on three Sabbath days he reasoned with them from the Scriptures,<sup class=\"versenum\">3 </sup>explaining and proving that the Messiah had to suffer and rise from the dead. “This Jesus I am proclaiming to you is the Messiah,” he said.<sup class=\"versenum\">4 </sup>Some of the Jews were persuaded and joined Paul and Silas, as did a large number of God-fearing Greeks and quite a few prominent women.</p><p><sup class=\"versenum\">5 </sup>But other Jews were jealous; so they rounded up some bad characters from the marketplace, formed a mob and started a riot in the city. They rushed to Jason’s house in search of Paul and Silas in order to bring them out to the crowd.<sup class=\"versenum\">6 </sup>But when they did not find them, they dragged Jason and some other believers before the city officials, shouting: “These men who have caused trouble all over the world have now come here,<sup class=\"versenum\">7 </sup>and Jason has welcomed them into his house. They are all defying Caesar’s decrees, saying that there is another king, one called Jesus.”<sup class=\"versenum\">8 </sup>When they heard this, the crowd and the city officials were thrown into turmoil.<sup class=\"versenum\">9 </sup>Then they made Jason and the others post bond and let them go.</p><h3>In Berea</h3><p><sup class=\"versenum\">10 </sup>As soon as it was night, the believers sent Paul and Silas away to Berea. On arriving there, they went to the Jewish synagogue.<sup class=\"versenum\">11 </sup>Now the Berean Jews were of more noble character than those in Thessalonica, for they received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true.<sup class=\"versenum\">12 </sup>As a result, many of them believed, as did also a number of prominent Greek women and many Greek men.</p><p><sup class=\"versenum\">13 </sup>But when the Jews in Thessalonica learned that Paul was preaching the word of God at Berea, some of them went there too, agitating the crowds and stirring them up.<sup class=\"versenum\">14 </sup>The believers immediately sent Paul to the coast, but Silas and Timothy stayed at Berea.<sup class=\"versenum\">15 </sup>Those who escorted Paul brought him to Athens and then left with instructions for Silas and Timothy to join him as soon as possible.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<h3>In Thessalonica</h3><p><sup>1</sup>When Paul and his companions had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue.<sup>2</sup>As was his custom, Paul went into the synagogue, and on three Sabbath days he reasoned with them from the Scriptures,<sup>3</sup>explaining and proving that the Messiah had to suffer and rise from the dead. “This Jesus I am proclaiming to you is the Messiah,” he said.<sup>4</sup>Some of the Jews were persuaded and joined Paul and Silas, as did a large number of God-fearing Greeks and quite a few prominent women.</p><p><sup>5</sup>But other Jews were jealous; so they rounded up some bad characters from the marketplace, formed a mob and started a riot in the city. They rushed to Jason’s house in search of Paul and Silas in order to bring them out to the crowd.<sup>6</sup>But when they did not find them, they dragged Jason and some other believers before the city officials, shouting: “These men who have caused trouble all over the world have now come here,<sup>7</sup>and Jason has welcomed them into his house. They are all defying Caesar’s decrees, saying that there is another king, one called Jesus.”<sup>8</sup>When they heard this, the crowd and the city officials were thrown into turmoil.<sup>9</sup>Then they made Jason and the others post bond and let them go.</p><h3>In Berea</h3><p><sup>10</sup>As soon as it was night, the believers sent Paul and Silas away to Berea. On arriving there, they went to the Jewish synagogue.<sup>11</sup>Now the Berean Jews were of more noble character than those in Thessalonica, for they received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true.<sup>12</sup>As a result, many of them believed, as did also a number of prominent Greek women and many Greek men.</p><p><sup>13</sup>But when the Jews in Thessalonica learned that Paul was preaching the word of God at Berea, some of them went there too, agitating the crowds and stirring them up.<sup>14</sup>The believers immediately sent Paul to the coast, but Silas and Timothy stayed at Berea.<sup>15</sup>Those who escorted Paul brought him to Athens and then left with instructions for Silas and Timothy to join him as soon as possible.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Acts%2017:1-15&version=NIV",
         "isOpen": false
       }
@@ -215,10 +231,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in the story?",
-          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in the story?"
+          },
+          {
+            "text": "What is being modeled about a Spirit-dependent life, making disciples or leadership?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -233,9 +257,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How are Jesus’ followers continuing His work of making disciples and church planting?",
-          "How is the gospel impacting people and society?",
-          "What barriers or obstacles were overcome and how were they overcome?"
+          {
+            "text": "How are Jesus’ followers continuing His work of making disciples and church planting?"
+          },
+          {
+            "text": "How is the gospel impacting people and society?"
+          },
+          {
+            "text": "What barriers or obstacles were overcome and how were they overcome?"
+          }
         ]
       }
     },
@@ -258,7 +288,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -272,13 +304,13 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "Paul and team left Philippi and went to the provincial capital of Thessalonica. Paul continued his practice of going to the synagogue to find spiritually interested people. A church was planted with some Jews, many Greek men, and some prominent women of the city. The pattern of persecution often started with jealousy from the local Jewish leaders. This time they brought charges of causing civil unrest. The local authorities made Jason, who was hosting Paul and the team, pay a fine ({Acts 17:7-9}).&nbsp;",
+                "text": "Paul and team left Philippi and went to the provincial capital of Thessalonica. Paul continued his practice of going to the synagogue to find spiritually interested people. A church was planted with some Jews, many Greek men, and some prominent women of the city. The pattern of persecution often started with jealousy from the local Jewish leaders. This time they brought charges of causing civil unrest. The local authorities made Jason, who was hosting Paul and the team, pay a fine ({Acts 17:7-9}).",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Acts 17:7-9",
                     "label": "Acts 17:7-9",
-                    "passage": "<p><sup class=\"versenum\">7&nbsp;</sup>and Jason has welcomed them into his house. They are all defying Caesar’s decrees, saying that there is another king, one called Jesus.”<sup class=\"versenum\">8&nbsp;</sup>When they heard this, the crowd and the city officials were thrown into turmoil.<sup class=\"versenum\">9&nbsp;</sup>Then they made Jason and the others post bond and let them go.</p>"
+                    "passage": "<p><sup>7</sup>and Jason has welcomed them into his house. They are all defying Caesar’s decrees, saying that there is another king, one called Jesus.”<sup>8</sup>When they heard this, the crowd and the city officials were thrown into turmoil.<sup>9</sup>Then they made Jason and the others post bond and let them go.</p>"
                   }
                 ],
                 "isOpen": false
@@ -328,9 +360,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Prayer, Care, Share",
-                  "Gospel",
-                  "Foundational Bible Studies."
+                  {
+                    "text": "Prayer, Care, Share"
+                  },
+                  {
+                    "text": "Gospel"
+                  },
+                  {
+                    "text": "Foundational Bible Studies."
+                  }
                 ]
               }
             }
@@ -351,8 +389,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -375,7 +417,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

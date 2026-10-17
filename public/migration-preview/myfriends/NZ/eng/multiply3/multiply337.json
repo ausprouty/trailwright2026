@@ -59,8 +59,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -82,7 +86,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -104,9 +110,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -148,7 +160,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -164,7 +178,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Acts 18:23-28 two times as others listen."
+          {
+            "text": "Read or watch Acts 18:23-28 two times as others listen."
+          }
         ]
       }
     },
@@ -172,7 +188,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 18:23-28",
-        "html": "<!-- begin bible --><p><sup class=\"versenum\">23 </sup>After spending some time in Antioch, Paul set out from there and traveled from place to place throughout the region of Galatia and Phrygia, strengthening all the disciples.</p><p><sup class=\"versenum\">24 </sup>Meanwhile a Jew named Apollos, a native of Alexandria, came to Ephesus. He was a learned man, with a thorough knowledge of the Scriptures.<sup class=\"versenum\">25 </sup>He had been instructed in the way of the Lord, and he spoke with great fervor and taught about Jesus accurately, though he knew only the baptism of John.<sup class=\"versenum\">26 </sup>He began to speak boldly in the synagogue. When Priscilla and Aquila heard him, they invited him to their home and explained to him the way of God more adequately.</p><p><sup class=\"versenum\">27 </sup>When Apollos wanted to go to Achaia, the brothers and sisters encouraged him and wrote to the disciples there to welcome him. When he arrived, he was a great help to those who by grace had believed.<sup class=\"versenum\">28 </sup>For he vigorously refuted his Jewish opponents in public debate, proving from the Scriptures that Jesus was the Messiah.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<p><sup>23</sup>After spending some time in Antioch, Paul set out from there and traveled from place to place throughout the region of Galatia and Phrygia, strengthening all the disciples.</p><p><sup>24</sup>Meanwhile a Jew named Apollos, a native of Alexandria, came to Ephesus. He was a learned man, with a thorough knowledge of the Scriptures.<sup>25</sup>He had been instructed in the way of the Lord, and he spoke with great fervor and taught about Jesus accurately, though he knew only the baptism of John.<sup>26</sup>He began to speak boldly in the synagogue. When Priscilla and Aquila heard him, they invited him to their home and explained to him the way of God more adequately.</p><p><sup>27</sup>When Apollos wanted to go to Achaia, the brothers and sisters encouraged him and wrote to the disciples there to welcome him. When he arrived, he was a great help to those who by grace had believed.<sup>28</sup>For he vigorously refuted his Jewish opponents in public debate, proving from the Scriptures that Jesus was the Messiah.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Acts%2018:23-28&version=NIV",
         "isOpen": false
       }
@@ -202,10 +218,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in the story?",
-          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in the story?"
+          },
+          {
+            "text": "What is being modeled about a Spirit-dependent life, making disciples or leadership?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -220,9 +244,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How are Jesus’ followers continuing His work of making disciples and church planting?",
-          "How is the gospel impacting people and society?",
-          "What barriers or obstacles were overcome and how were they overcome?"
+          {
+            "text": "How are Jesus’ followers continuing His work of making disciples and church planting?"
+          },
+          {
+            "text": "How is the gospel impacting people and society?"
+          },
+          {
+            "text": "What barriers or obstacles were overcome and how were they overcome?"
+          }
         ]
       }
     },
@@ -245,7 +275,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -259,19 +291,19 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "Paul’s co-workers, Aquila and Priscilla moved from Corinth to Ephesus. They met a disciple of John the Baptist named Apollos. Apollos was an educated man who knew the scriptures well, but he did not have a full understanding about Jesus. We see in this story a great example of disciples making disciples. Aquila and Priscilla discipled Apollos, who in turn went to Achaia to disciple the people in Corinth ({Acts 19:1}).&nbsp;{Ephesians 4:11-16}.&nbsp;",
+                "text": "Paul’s co-workers, Aquila and Priscilla moved from Corinth to Ephesus. They met a disciple of John the Baptist named Apollos. Apollos was an educated man who knew the scriptures well, but he did not have a full understanding about Jesus. We see in this story a great example of disciples making disciples. Aquila and Priscilla discipled Apollos, who in turn went to Achaia to disciple the people in Corinth ({Acts 19:1}). {Ephesians 4:11-16}.",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Acts 19:1",
                     "label": "Acts 19:1",
-                    "passage": "<p><sup class=\"versenum\">1 </sup>While Apollos was at Corinth, Paul took the road through the interior and arrived at Ephesus. There he found some disciples</p>"
+                    "passage": "<p><sup>1</sup>While Apollos was at Corinth, Paul took the road through the interior and arrived at Ephesus. There he found some disciples</p>"
                   },
                   {
                     "id": "popup_pop2",
                     "marker": "Ephesians 4:11-16",
                     "label": "Ephesians 4:11-16",
-                    "passage": "<p><sup class=\"versenum\">11&nbsp;</sup>So Christ himself gave the apostles, the prophets, the evangelists, the pastors and teachers,<sup class=\"versenum\">12&nbsp;</sup>to equip his people for works of service, so that the body of Christ may be built up<sup class=\"versenum\">13&nbsp;</sup>until we all reach unity in the faith and in the knowledge of the Son of God and become mature, attaining to the whole measure of the fullness of Christ.</p>\n\n<p><sup class=\"versenum\">14&nbsp;</sup>Then we will no longer be infants, tossed back and forth by the waves, and blown here and there by every wind of teaching and by the cunning and craftiness of people in their deceitful scheming.<sup class=\"versenum\">15&nbsp;</sup>Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ.<sup class=\"versenum\">16&nbsp;</sup>From him the whole body, joined and held together by every supporting ligament, grows and builds itself up in love, as each part does its work.</p>"
+                    "passage": "<p><sup>11</sup>So Christ himself gave the apostles, the prophets, the evangelists, the pastors and teachers,<sup>12</sup>to equip his people for works of service, so that the body of Christ may be built up<sup>13</sup>until we all reach unity in the faith and in the knowledge of the Son of God and become mature, attaining to the whole measure of the fullness of Christ.</p><p><sup>14</sup>Then we will no longer be infants, tossed back and forth by the waves, and blown here and there by every wind of teaching and by the cunning and craftiness of people in their deceitful scheming.<sup>15</sup>Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ.<sup>16</sup>From him the whole body, joined and held together by every supporting ligament, grows and builds itself up in love, as each part does its work.</p>"
                   }
                 ],
                 "isOpen": false
@@ -321,9 +353,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Prayer, Care, Share",
-                  "Gospel",
-                  "Foundational Bible Studies."
+                  {
+                    "text": "Prayer, Care, Share"
+                  },
+                  {
+                    "text": "Gospel"
+                  },
+                  {
+                    "text": "Foundational Bible Studies."
+                  }
                 ]
               }
             }
@@ -344,8 +382,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -368,7 +410,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

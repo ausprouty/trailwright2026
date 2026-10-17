@@ -46,8 +46,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "1 Thessalonians, 50/51 AD",
-          "2 Thessalonians, 50/51 AD"
+          {
+            "text": "1 Thessalonians, 50/51 AD"
+          },
+          {
+            "text": "2 Thessalonians, 50/51 AD"
+          }
         ]
       }
     }

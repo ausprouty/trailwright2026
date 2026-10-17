@@ -58,8 +58,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -81,7 +85,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -103,9 +109,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -146,7 +158,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -162,7 +176,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Acts 19:11-22 two times as others listen."
+          {
+            "text": "Read or watch Acts 19:11-22 two times as others listen."
+          }
         ]
       }
     },
@@ -170,7 +186,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 19:11-22",
-        "html": "<!-- begin bible --><p><sup class=\"versenum\">11 </sup>God did extraordinary miracles through Paul,<sup class=\"versenum\">12 </sup>so that even handkerchiefs and aprons that had touched him were taken to the sick, and their illnesses were cured and the evil spirits left them.</p><p><sup class=\"versenum\">13 </sup>Some Jews who went around driving out evil spirits tried to invoke the name of the Lord Jesus over those who were demon-possessed. They would say, “In the name of the Jesus whom Paul preaches, I command you to come out.”<sup class=\"versenum\">14 </sup>Seven sons of Sceva, a Jewish chief priest, were doing this.<sup class=\"versenum\">15 </sup>One day the evil spirit answered them, “Jesus I know, and Paul I know about, but who are you?”<sup class=\"versenum\">16 </sup>Then the man who had the evil spirit jumped on them and overpowered them all. He gave them such a beating that they ran out of the house naked and bleeding.</p><p><sup class=\"versenum\">17 </sup>When this became known to the Jews and Greeks living in Ephesus, they were all seized with fear, and the name of the Lord Jesus was held in high honor.<sup class=\"versenum\">18 </sup>Many of those who believed now came and openly confessed what they had done.<sup class=\"versenum\">19 </sup>A number who had practiced sorcery brought their scrolls together and burned them publicly. When they calculated the value of the scrolls, the total came to fifty thousand drachmas.<sup class=\"versenum\">20 </sup>In this way the word of the Lord spread widely and grew in power.</p><p><sup class=\"versenum\">21 </sup>After all this had happened, Paul decided to go to Jerusalem, passing through Macedonia and Achaia. “After I have been there,” he said, “I must visit Rome also.”<sup class=\"versenum\">22 </sup>He sent two of his helpers, Timothy and Erastus, to Macedonia, while he stayed in the province of Asia a little longer.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<p><sup>11</sup>God did extraordinary miracles through Paul,<sup>12</sup>so that even handkerchiefs and aprons that had touched him were taken to the sick, and their illnesses were cured and the evil spirits left them.</p><p><sup>13</sup>Some Jews who went around driving out evil spirits tried to invoke the name of the Lord Jesus over those who were demon-possessed. They would say, “In the name of the Jesus whom Paul preaches, I command you to come out.”<sup>14</sup>Seven sons of Sceva, a Jewish chief priest, were doing this.<sup>15</sup>One day the evil spirit answered them, “Jesus I know, and Paul I know about, but who are you?”<sup>16</sup>Then the man who had the evil spirit jumped on them and overpowered them all. He gave them such a beating that they ran out of the house naked and bleeding.</p><p><sup>17</sup>When this became known to the Jews and Greeks living in Ephesus, they were all seized with fear, and the name of the Lord Jesus was held in high honor.<sup>18</sup>Many of those who believed now came and openly confessed what they had done.<sup>19</sup>A number who had practiced sorcery brought their scrolls together and burned them publicly. When they calculated the value of the scrolls, the total came to fifty thousand drachmas.<sup>20</sup>In this way the word of the Lord spread widely and grew in power.</p><p><sup>21</sup>After all this had happened, Paul decided to go to Jerusalem, passing through Macedonia and Achaia. “After I have been there,” he said, “I must visit Rome also.”<sup>22</sup>He sent two of his helpers, Timothy and Erastus, to Macedonia, while he stayed in the province of Asia a little longer.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Acts%2019:11-22&version=NIV",
         "isOpen": false
       }
@@ -200,10 +216,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in the story?",
-          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in the story?"
+          },
+          {
+            "text": "What is being modeled about a Spirit-dependent life, making disciples or leadership?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -218,9 +242,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How are Jesus’ followers continuing His work of making disciples and church planting?",
-          "How is the gospel impacting people and society?",
-          "What barriers or obstacles were overcome and how were they overcome?"
+          {
+            "text": "How are Jesus’ followers continuing His work of making disciples and church planting?"
+          },
+          {
+            "text": "How is the gospel impacting people and society?"
+          },
+          {
+            "text": "What barriers or obstacles were overcome and how were they overcome?"
+          }
         ]
       }
     },
@@ -243,7 +273,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -309,9 +341,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Prayer, Care, Share",
-                  "Gospel",
-                  "Foundational Bible Studies."
+                  {
+                    "text": "Prayer, Care, Share"
+                  },
+                  {
+                    "text": "Gospel"
+                  },
+                  {
+                    "text": "Foundational Bible Studies."
+                  }
                 ]
               }
             }
@@ -332,8 +370,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -356,7 +398,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

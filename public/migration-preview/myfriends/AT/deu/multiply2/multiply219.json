@@ -47,9 +47,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -65,10 +71,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -99,9 +113,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -115,7 +135,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Markus 1:29-39",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>29</sup>Nachdem Jesus und seine Jünger die Synagoge verlassen hatten, gingen sie zum Haus von Simon und Andreas; auch Jakobus und Johannes kamen mit. <sup>30</sup>Simons Schwiegermutter war krank und lag mit hohem Fieber im Bett. Sofort erzählten sie Jesus von ihr. <sup>31</sup>Er trat an ihr Bett, nahm ihre Hand und half ihr, sich aufzusetzen. Da verschwand das Fieber, und sie stand auf und machte ihnen etwas zu essen. <sup>32</sup>Am Abend nach Sonnenuntergang brachte man alle Kranken und von Dämonen besessenen Menschen zu Jesus. <sup>33</sup>Vor dem Haus versammelte sich eine große Menschenmenge, Leute aus ganz Kapernaum waren gekommen. <sup>34</sup>Jesus heilte viele Menschen, die an den verschiedensten Krankheiten litten, und befahl vielen Dämonen, ihre Opfer zu verlassen. Den Dämonen verbot er zu sprechen, denn sie wussten, wer er war. <h3>Jesus predigt in Galiläa</h3><sup>35</sup>Ganz früh, es war noch Nacht, ging Jesus allein an einen einsamen Ort, um zu beten. <sup>36</sup>Später suchten ihn Simon und die anderen. <sup>37</sup>Als sie ihn gefunden hatten, sagten sie zu ihm: »Alle fragen nach dir.« <sup>38</sup>Doch er entgegnete: »Wir müssen auch in die anderen Städte gehen, damit ich auch dort predige; denn dazu bin ich gekommen.« <sup>39</sup>Und so zog er durch das ganze Gebiet von Galiläa, predigte in den Synagogen und trieb bei vielen Menschen Dämonen aus.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>29</sup>Nachdem Jesus und seine Jünger die Synagoge verlassen hatten, gingen sie zum Haus von Simon und Andreas; auch Jakobus und Johannes kamen mit. <sup>30</sup>Simons Schwiegermutter war krank und lag mit hohem Fieber im Bett. Sofort erzählten sie Jesus von ihr. <sup>31</sup>Er trat an ihr Bett, nahm ihre Hand und half ihr, sich aufzusetzen. Da verschwand das Fieber, und sie stand auf und machte ihnen etwas zu essen. <sup>32</sup>Am Abend nach Sonnenuntergang brachte man alle Kranken und von Dämonen besessenen Menschen zu Jesus. <sup>33</sup>Vor dem Haus versammelte sich eine große Menschenmenge, Leute aus ganz Kapernaum waren gekommen. <sup>34</sup>Jesus heilte viele Menschen, die an den verschiedensten Krankheiten litten, und befahl vielen Dämonen, ihre Opfer zu verlassen. Den Dämonen verbot er zu sprechen, denn sie wussten, wer er war. <h3>Jesus predigt in Galiläa</h3><sup>35</sup>Ganz früh, es war noch Nacht, ging Jesus allein an einen einsamen Ort, um zu beten. <sup>36</sup>Später suchten ihn Simon und die anderen. <sup>37</sup>Als sie ihn gefunden hatten, sagten sie zu ihm: »Alle fragen nach dir.« <sup>38</sup>Doch er entgegnete: »Wir müssen auch in die anderen Städte gehen, damit ich auch dort predige; denn dazu bin ich gekommen.« <sup>39</sup>Und so zog er durch das ganze Gebiet von Galiläa, predigte in den Synagogen und trieb bei vielen Menschen Dämonen aus.</div><p></p>",
         "url": "https://bibleserver.com/NLB/Markus%201:29-39",
         "isOpen": false
       }
@@ -145,9 +165,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -196,8 +222,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -213,7 +260,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

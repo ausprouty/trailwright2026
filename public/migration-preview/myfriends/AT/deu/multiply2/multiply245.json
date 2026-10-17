@@ -47,9 +47,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -65,10 +71,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -99,9 +113,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -109,7 +129,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 19:1-27",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Jesus kam nach Jericho und ging durch die Stadt. <sup>2</sup>Dort lebte ein Mann namens Zachäus. Als einer der mächtigsten Steuereintreiber war er sehr reich. <sup>3</sup>Zachäus hatte versucht, einen Blick auf Jesus zu werfen, aber er war zu klein, um über die Menge hinwegschauen zu können. <sup>4</sup>Deshalb lief er voraus und kletterte auf einen Maulbeerfeigenbaum am Wegrand, um Jesus von dort aus vorübergehen zu sehen. <sup>5</sup>Als Jesus kam, blickte er zu Zachäus hinauf und rief ihn beim Namen: »Zachäus!«, sagte er, »komm schnell herunter! Denn ich muss heute Gast in deinem Haus sein.« <sup>6</sup>Zachäus kletterte, so schnell er konnte, hinunter und geleitete Jesus voller Aufregung und Freude in sein Haus. <sup>7</sup>Doch den Leuten in der Menge gefiel das nicht. »Bei einem berüchtigten Sünder kehrt er als Gast ein«, murrten sie. <sup>8</sup>Währenddessen stellte Zachäus sich vor den Herrn hin und sagte: »Herr, ich werde die Hälfte meines Reichtums den Armen geben, und wenn ich die Leute bei der Steuer betrogen habe, werde ich es ihnen vierfach erstatten!« <sup>9</sup>Jesus erwiderte: »Heute hat dieses Haus Rettung erfahren, denn auch dieser Mann ist Abrahams Sohn. <sup>10</sup>Der Menschensohn ist nämlich gekommen, um Verlorene zu suchen und zu retten.« <h3>Das Gleichnis von den zehn Dienern</h3><sup>11</sup>Die Menge hörte Jesus zu. Und er erzählte ihnen ein Gleichnis; denn da er nahe bei Jerusalem war, glaubten sie, dass das Reich Gottes nun anbrechen würde. <sup>12</sup>Er sagte: »Ein vornehmer Mann wurde in ein fernes Land gerufen, um dort zum König gekrönt zu werden. Danach wollte er wieder zurückkehren. <sup>13</sup>Vor seiner Abreise rief er zehn Diener zu sich und gab ihnen zehn Pfund Silber , mit denen sie in seiner Abwesenheit handeln sollten. <sup>14</sup>Aber sein Volk hasste ihn und sandte ihm eine Abordnung nach, um ihm sagen zu lassen, dass sie ihn nicht zum König haben wollten. <sup>15</sup>Als er zurückkam, ließ der König die Diener kommen, denen er das Geld gegeben hatte. Er wollte erfahren, was sie mit dem Geld angefangen und welche Erträge sie erzielt hatten. <sup>16</sup>Der erste Diener berichtete: ›Herr, ich habe die ursprüngliche Summe verzehnfacht!‹ <sup>17</sup>›Gut gemacht‹, rief der König. ›Du bist ein vertrauenswürdiger Diener. Du warst mit dem wenigen treu, das ich dir anvertraut habe; deshalb werde ich dich zur Belohnung als Statthalter über zehn Städte setzen.‹ <sup>18</sup>Der nächste Diener meldete: ›Herr, ich habe das Fünffache des ursprünglichen Betrags erwirtschaftet.‹ <sup>19</sup>›Gut gemacht‹, sagte der König. ›Du kannst Statthalter über fünf Städte sein.‹ <sup>20</sup>Der dritte Diener aber übergab ihm nur die ursprüngliche Summe und erklärte: ›Ich habe es versteckt und sicher aufbewahrt. <sup>21</sup>Ich hatte Angst, weil du ein so strenger Mann bist; du nimmst, was dir nicht gehört, und erntest, was du nicht gesät hast.‹ <sup>22</sup>›Du schlechter Diener!‹, fuhr der König ihn an. ›Streng soll ich sein? Wenn du mich so gut kanntest und wusstest, wie streng ich bin, <sup>23</sup>warum hast du das Geld dann nicht auf eine Bank gebracht, damit ich wenigstens Zinsen erhalten hätte?‹ <sup>24</sup>Darauf wandte der König sich an die Umstehenden und befahl: ›Nehmt diesem Diener das Geld ab und gebt es dem, der seinen Anteil verzehnfacht hat.‹ <sup>25</sup>›Aber, Herr‹, wandten sie ein, ›dieser Diener hat doch schon genug!‹ <sup>26</sup>›Ja‹, entgegnete der König, ›aber denen, die ihren Anteil gut nutzen, wird noch mehr gegeben werden. Denen jedoch, die nicht treu damit umgehen, wird auch das wenige, das sie haben, noch genommen werden. <sup>27</sup>Und nun zu meinen Widersachern, die mich nicht zum König haben wollten – führt sie herein und tötet sie vor meinen Augen.‹«<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>1</sup>Jesus kam nach Jericho und ging durch die Stadt. <sup>2</sup>Dort lebte ein Mann namens Zachäus. Als einer der mächtigsten Steuereintreiber war er sehr reich. <sup>3</sup>Zachäus hatte versucht, einen Blick auf Jesus zu werfen, aber er war zu klein, um über die Menge hinwegschauen zu können. <sup>4</sup>Deshalb lief er voraus und kletterte auf einen Maulbeerfeigenbaum am Wegrand, um Jesus von dort aus vorübergehen zu sehen. <sup>5</sup>Als Jesus kam, blickte er zu Zachäus hinauf und rief ihn beim Namen: »Zachäus!«, sagte er, »komm schnell herunter! Denn ich muss heute Gast in deinem Haus sein.« <sup>6</sup>Zachäus kletterte, so schnell er konnte, hinunter und geleitete Jesus voller Aufregung und Freude in sein Haus. <sup>7</sup>Doch den Leuten in der Menge gefiel das nicht. »Bei einem berüchtigten Sünder kehrt er als Gast ein«, murrten sie. <sup>8</sup>Währenddessen stellte Zachäus sich vor den Herrn hin und sagte: »Herr, ich werde die Hälfte meines Reichtums den Armen geben, und wenn ich die Leute bei der Steuer betrogen habe, werde ich es ihnen vierfach erstatten!« <sup>9</sup>Jesus erwiderte: »Heute hat dieses Haus Rettung erfahren, denn auch dieser Mann ist Abrahams Sohn. <sup>10</sup>Der Menschensohn ist nämlich gekommen, um Verlorene zu suchen und zu retten.« <h3>Das Gleichnis von den zehn Dienern</h3><sup>11</sup>Die Menge hörte Jesus zu. Und er erzählte ihnen ein Gleichnis; denn da er nahe bei Jerusalem war, glaubten sie, dass das Reich Gottes nun anbrechen würde. <sup>12</sup>Er sagte: »Ein vornehmer Mann wurde in ein fernes Land gerufen, um dort zum König gekrönt zu werden. Danach wollte er wieder zurückkehren. <sup>13</sup>Vor seiner Abreise rief er zehn Diener zu sich und gab ihnen zehn Pfund Silber , mit denen sie in seiner Abwesenheit handeln sollten. <sup>14</sup>Aber sein Volk hasste ihn und sandte ihm eine Abordnung nach, um ihm sagen zu lassen, dass sie ihn nicht zum König haben wollten. <sup>15</sup>Als er zurückkam, ließ der König die Diener kommen, denen er das Geld gegeben hatte. Er wollte erfahren, was sie mit dem Geld angefangen und welche Erträge sie erzielt hatten. <sup>16</sup>Der erste Diener berichtete: ›Herr, ich habe die ursprüngliche Summe verzehnfacht!‹ <sup>17</sup>›Gut gemacht‹, rief der König. ›Du bist ein vertrauenswürdiger Diener. Du warst mit dem wenigen treu, das ich dir anvertraut habe; deshalb werde ich dich zur Belohnung als Statthalter über zehn Städte setzen.‹ <sup>18</sup>Der nächste Diener meldete: ›Herr, ich habe das Fünffache des ursprünglichen Betrags erwirtschaftet.‹ <sup>19</sup>›Gut gemacht‹, sagte der König. ›Du kannst Statthalter über fünf Städte sein.‹ <sup>20</sup>Der dritte Diener aber übergab ihm nur die ursprüngliche Summe und erklärte: ›Ich habe es versteckt und sicher aufbewahrt. <sup>21</sup>Ich hatte Angst, weil du ein so strenger Mann bist; du nimmst, was dir nicht gehört, und erntest, was du nicht gesät hast.‹ <sup>22</sup>›Du schlechter Diener!‹, fuhr der König ihn an. ›Streng soll ich sein? Wenn du mich so gut kanntest und wusstest, wie streng ich bin, <sup>23</sup>warum hast du das Geld dann nicht auf eine Bank gebracht, damit ich wenigstens Zinsen erhalten hätte?‹ <sup>24</sup>Darauf wandte der König sich an die Umstehenden und befahl: ›Nehmt diesem Diener das Geld ab und gebt es dem, der seinen Anteil verzehnfacht hat.‹ <sup>25</sup>›Aber, Herr‹, wandten sie ein, ›dieser Diener hat doch schon genug!‹ <sup>26</sup>›Ja‹, entgegnete der König, ›aber denen, die ihren Anteil gut nutzen, wird noch mehr gegeben werden. Denen jedoch, die nicht treu damit umgehen, wird auch das wenige, das sie haben, noch genommen werden. <sup>27</sup>Und nun zu meinen Widersachern, die mich nicht zum König haben wollten – führt sie herein und tötet sie vor meinen Augen.‹«</div><p></p>",
         "url": "https://bibleserver.com/NLB/Lukas%2019:1-27",
         "isOpen": false
       }
@@ -139,9 +159,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -190,8 +216,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -207,7 +254,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

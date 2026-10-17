@@ -27,25 +27,25 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "<li class=\"back\">Read. {Hebrews 4:14-16}\n\n\t\n\tand sing songs&nbsp;</li>\n\t<li class=\"back\">Use a Statement of Faith about Jesus like {Philippians 2:11}\n\t\n\t&nbsp;+ {1 Timothy 2:4-6}\n\n\t\n\t</li>",
+                "text": "<li class=\"back\">Read. {Hebrews 4:14-16} and sing songs</li><li class=\"back\">Use a Statement of Faith about Jesus like {Philippians 2:11} + {1 Timothy 2:4-6}</li>",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Hebrews 4:14-16",
                     "label": "Hebrews 4:14-16",
-                    "passage": "<p><sup class=\"versenum\">14&nbsp;</sup>Therefore, since we have a great high priest who has ascended into heaven, Jesus the Son of God, let us hold firmly to the faith we profess.<sup class=\"versenum\">15&nbsp;</sup>For we do not have a high priest who is unable to empathize with our weaknesses, but we have one who has been tempted in every way, just as we are—yet he did not sin.<sup class=\"versenum\">16&nbsp;</sup>Let us then approach God’s throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.</p>"
+                    "passage": "<p><sup>14</sup>Therefore, since we have a great high priest who has ascended into heaven, Jesus the Son of God, let us hold firmly to the faith we profess.<sup>15</sup>For we do not have a high priest who is unable to empathize with our weaknesses, but we have one who has been tempted in every way, just as we are—yet he did not sin.<sup>16</sup>Let us then approach God’s throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.</p>"
                   },
                   {
                     "id": "popup_pop2",
                     "marker": "Philippians 2:11",
                     "label": "Philippians 2:11",
-                    "passage": "<p><sup class=\"versenum\">11&nbsp;</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;to the glory of God the Father.</p>"
+                    "passage": "<p><sup>11</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>to the glory of God the Father.</p>"
                   },
                   {
                     "id": "popup_pop3",
                     "marker": "1 Timothy 2:4-6",
                     "label": "1 Timothy 2:4-6",
-                    "passage": "<p><sup class=\"versenum\">4&nbsp;</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup class=\"versenum\">5&nbsp;</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup class=\"versenum\">6&nbsp;</sup>who gave himself as a ransom for all people. This has now been witnessed to at the proper time.</p>"
+                    "passage": "<p><sup>4</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup>5</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup>6</sup>who gave himself as a ransom for all people. This has now been witnessed to at the proper time.</p>"
                   }
                 ],
                 "isOpen": false
@@ -68,10 +68,35 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What has been going well for you this week?",
-          "What has been difficult for you this past week?",
-          "What have you put into practice since our last meeting?",
-          "How have you experienced God working through your life this week? Were you able to: <ul><li>tell anyone this week about what God is doing in your life?</li><li>share a Bible passage?</li><li>meet a practical need? </li><li>pray with anyone?</li></ul>"
+          {
+            "text": "What has been going well for you this week?"
+          },
+          {
+            "text": "What has been difficult for you this past week?"
+          },
+          {
+            "text": "What have you put into practice since our last meeting?"
+          },
+          {
+            "text": "How have you experienced God working through your life this week? Were you able to:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "tell anyone this week about what God is doing in your life?"
+                },
+                {
+                  "text": "share a Bible passage?"
+                },
+                {
+                  "text": "meet a practical need?"
+                },
+                {
+                  "text": "pray with anyone?"
+                }
+              ]
+            }
+          }
         ]
       }
     },
@@ -94,7 +119,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Do you need any help from God in your life?"
+          {
+            "text": "Do you need any help from God in your life?"
+          }
         ]
       }
     },
@@ -108,13 +135,13 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "One day Jesus sent out His followers to minister to people in the surrounding villages.&nbsp;When they returned they were so excited about all that God had done through them, “Lord, even the demons obey us when we use your name!” After Jesus celebrated with them, He gave them this perspective: “But don’t rejoice because evil spirits obey you; rejoice because your names are registered in heaven.” ({Luke 10:17-20})&nbsp;",
+                "text": "One day Jesus sent out His followers to minister to people in the surrounding villages. When they returned they were so excited about all that God had done through them, “Lord, even the demons obey us when we use your name!” After Jesus celebrated with them, He gave them this perspective: “But don’t rejoice because evil spirits obey you; rejoice because your names are registered in heaven.” ({Luke 10:17-20})",
                 "references": [
                   {
                     "id": "popup_pop4",
                     "marker": "Luke 10:17-20",
                     "label": "Luke 10:17-20",
-                    "passage": "<p><sup class=\"versenum\">17&nbsp;</sup>The seventy-two returned with joy and said, “Lord, even the demons submit to us in your name.”</p>\n\n<p><sup class=\"versenum\">18&nbsp;</sup>He replied, “I saw Satan fall like lightning from heaven.<sup class=\"versenum\">19&nbsp;</sup>I have given you authority to trample on snakes and scorpions and to overcome all the power of the enemy; nothing will harm you.<sup class=\"versenum\">20&nbsp;</sup>However, do not rejoice that the spirits submit to you, but rejoice that your names are written in heaven.”</p>"
+                    "passage": "<p><sup>17</sup>The seventy-two returned with joy and said, “Lord, even the demons submit to us in your name.”</p><p><sup>18</sup>He replied, “I saw Satan fall like lightning from heaven.<sup>19</sup>I have given you authority to trample on snakes and scorpions and to overcome all the power of the enemy; nothing will harm you.<sup>20</sup>However, do not rejoice that the spirits submit to you, but rejoice that your names are written in heaven.”</p>"
                   }
                 ],
                 "isOpen": false
@@ -175,7 +202,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 4:32-37",
-        "html": "<!-- begin bible --><p><sup>32 </sup>All the believers were one in heart and mind. No one claimed that any of their possessions was their own, but they shared everything they had.<sup class=\"versenum\">33 </sup>With great power the apostles continued to testify to the resurrection of the Lord Jesus. And God’s grace was so powerfully at work in them all<sup class=\"versenum\">34 </sup>that there were no needy persons among them. For from time to time those who owned land or houses sold them, brought the money from the sales<sup class=\"versenum\">35 </sup>and put it at the apostles’ feet, and it was distributed to anyone who had need.</p><p><sup class=\"versenum\">36 </sup>Joseph, a Levite from Cyprus, whom the apostles called Barnabas (which means “son of encouragement”),<sup class=\"versenum\">37 </sup>sold a field he owned and brought the money and put it at the apostles’ feet.</p><!-- end bible -->",
+        "html": "<p><sup>32 </sup>All the believers were one in heart and mind. No one claimed that any of their possessions was their own, but they shared everything they had.<sup>33</sup>With great power the apostles continued to testify to the resurrection of the Lord Jesus. And God’s grace was so powerfully at work in them all<sup>34</sup>that there were no needy persons among them. For from time to time those who owned land or houses sold them, brought the money from the sales<sup>35</sup>and put it at the apostles’ feet, and it was distributed to anyone who had need.</p><p><sup>36</sup>Joseph, a Levite from Cyprus, whom the apostles called Barnabas (which means “son of encouragement”),<sup>37</sup>sold a field he owned and brought the money and put it at the apostles’ feet.</p>",
         "url": "https://biblegateway.com/passage/?search=Acts%204:32-37&version=NIV",
         "isOpen": false
       }
@@ -205,12 +232,41 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What stands out for you in this passage?",
-          "What do you like and what bothers you in this passage?",
-          "Why do you think this passage is important?",
-          "What are some possible ways a person could apply this passage? Is there: <ul><li>A behaviour to change?</li><li>A promise to claim?</li><li>An example to follow?</li><li>A command to obey?</li></ul>",
-          "Ask God what He wants you to do in response to the passage.",
-          "Share this with the group"
+          {
+            "text": "What stands out for you in this passage?"
+          },
+          {
+            "text": "What do you like and what bothers you in this passage?"
+          },
+          {
+            "text": "Why do you think this passage is important?"
+          },
+          {
+            "text": "What are some possible ways a person could apply this passage? Is there:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "A behaviour to change?"
+                },
+                {
+                  "text": "A promise to claim?"
+                },
+                {
+                  "text": "An example to follow?"
+                },
+                {
+                  "text": "A command to obey?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Ask God what He wants you to do in response to the passage."
+          },
+          {
+            "text": "Share this with the group"
+          }
         ]
       }
     },
@@ -233,7 +289,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -247,13 +305,13 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "Even from the beginning of the church, the believers cared for one another’s needs by giving. We learn from this story that we should give willingly, not under compulsion. This is clearly stated in {2 Corinthians 9:7}.&nbsp;",
+                "text": "Even from the beginning of the church, the believers cared for one another’s needs by giving. We learn from this story that we should give willingly, not under compulsion. This is clearly stated in {2 Corinthians 9:7}.",
                 "references": [
                   {
                     "id": "popup_pop5",
                     "marker": "2 Corinthians 9:7",
                     "label": "2 Corinthians 9:7",
-                    "passage": "<p><sup class=\"versenum\">7&nbsp;</sup>Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.</p>"
+                    "passage": "<p><sup>7</sup>Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.</p>"
                   }
                 ],
                 "isOpen": false
@@ -262,25 +320,25 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "<li class=\"nobreak\">&nbsp;Read {Acts 11:27-29}.&nbsp;\n\n\t\n\t&nbsp;The early church also gave to believers in other churches. This shows us that our giving can be used for needs outside of our own church.</li>\n\n\t<li class=\"nobreak\">Read {Luke 8:1-3}.&nbsp;\n\n\t\n\t&nbsp;This story shows us that giving is also used for taking the gospel to other places and spread God’s message.</li>\n\n\t<li class=\"nobreak\">In {1 Corinthians 16:2},&nbsp;\n\n\t\n\t&nbsp;Paul encourages people to practice giving each week to be used for these purposes.&nbsp;</li>",
+                "text": "Read {Acts 11:27-29}. The early church also gave to believers in other churches. This shows us that our giving can be used for needs outside of our own church. Read {Luke 8:1-3}. This story shows us that giving is also used for taking the gospel to other places and spread God’s message. In {1 Corinthians 16:2}, Paul encourages people to practice giving each week to be used for these purposes.",
                 "references": [
                   {
                     "id": "popup_pop6",
                     "marker": "Acts 11:27-29",
                     "label": "Acts 11:27-29",
-                    "passage": "<p><sup class=\"versenum\">27&nbsp;</sup>During this time some prophets came down from Jerusalem to Antioch.<sup class=\"versenum\">28&nbsp;</sup>One of them, named Agabus, stood up and through the Spirit predicted that a severe famine would spread over the entire Roman world. (This happened during the reign of Claudius.)<sup class=\"versenum\">29&nbsp;</sup>The disciples, as each one was able, decided to provide help for the brothers and sisters living in Judea.</p>"
+                    "passage": "<p><sup>27</sup>During this time some prophets came down from Jerusalem to Antioch.<sup>28</sup>One of them, named Agabus, stood up and through the Spirit predicted that a severe famine would spread over the entire Roman world. (This happened during the reign of Claudius.)<sup>29</sup>The disciples, as each one was able, decided to provide help for the brothers and sisters living in Judea.</p>"
                   },
                   {
                     "id": "popup_pop7",
                     "marker": "Luke 8:1-3",
                     "label": "Luke 8:1-3",
-                    "passage": "<p><sup class=\"versenum\">1 </sup>After this, Jesus traveled about from one town and village to another, proclaiming the good news of the kingdom of God. The Twelve were with him,<sup class=\"versenum\">2&nbsp;</sup>and also some women who had been cured of evil spirits and diseases: Mary (called Magdalene) from whom seven demons had come out;<sup class=\"versenum\">3&nbsp;</sup>Joanna the wife of Chuza, the manager of Herod’s household; Susanna; and many others. These women were helping to support them out of their own means.</p>"
+                    "passage": "<p><sup>1</sup>After this, Jesus traveled about from one town and village to another, proclaiming the good news of the kingdom of God. The Twelve were with him,<sup>2</sup>and also some women who had been cured of evil spirits and diseases: Mary (called Magdalene) from whom seven demons had come out;<sup>3</sup>Joanna the wife of Chuza, the manager of Herod’s household; Susanna; and many others. These women were helping to support them out of their own means.</p>"
                   },
                   {
                     "id": "popup_pop8",
                     "marker": "1 Corinthians 16:2",
                     "label": "1 Corinthians 16:2",
-                    "passage": "<p><sup class=\"versenum\">2&nbsp;</sup>On the first day of every week, each one of you should set aside a sum of money in keeping with your income, saving it up, so that when I come no collections will have to be made.</p>"
+                    "passage": "<p><sup>2</sup>On the first day of every week, each one of you should set aside a sum of money in keeping with your income, saving it up, so that when I come no collections will have to be made.</p>"
                   }
                 ],
                 "isOpen": false
@@ -318,10 +376,18 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Discuss how giving will be handled.",
-                  "Identify needs where your giving can be used.",
-                  "Remember Jesus’ sacrifice through communion",
-                  "Practice any skill or topic from previous lessons to help people live the MyFriends Lifestyle."
+                  {
+                    "text": "Discuss how giving will be handled."
+                  },
+                  {
+                    "text": "Identify needs where your giving can be used."
+                  },
+                  {
+                    "text": "Remember Jesus’ sacrifice through communion"
+                  },
+                  {
+                    "text": "Practice any skill or topic from previous lessons to help people live the MyFriends Lifestyle."
+                  }
                 ]
               }
             }
@@ -342,8 +408,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Look at your Daisy Chain again.",
-          "What is God revealing as your next steps this week with him and others?"
+          {
+            "text": "Look at your Daisy Chain again."
+          },
+          {
+            "text": "What is God revealing as your next steps this week with him and others?"
+          }
         ]
       }
     },
@@ -359,8 +429,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Share this step with the group and ask someone to pray for you as you take this step in the power of the Holy Spirit.",
-          "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle."
+          {
+            "text": "Share this step with the group and ask someone to pray for you as you take this step in the power of the Holy Spirit."
+          },
+          {
+            "text": "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle."
+          }
         ]
       }
     },

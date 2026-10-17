@@ -47,9 +47,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -65,10 +71,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -99,9 +113,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -115,7 +135,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 14:1-14",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Als Herodes Antipas von Jesus hörte, <sup>2</sup>sagte er zu seinen Ratgebern: »Das muss Johannes der Täufer sein, der von den Toten auferstanden ist! Darum kann er solche Wunder tun.« <sup>3</sup>Denn Herodes hatte Johannes auf Bitten seiner Frau Herodias (der früheren Frau von Philippus, dem Bruder von Herodes) ins Gefängnis werfen lassen. <sup>4</sup>Johannes hatte Herodes immer wieder ins Gewissen geredet: »Es ist gegen das Gesetz, dass du sie geheiratet hast.« <sup>5</sup>Herodes hätte Johannes gern endgültig aus dem Weg geschafft, aber er hatte Angst vor einem Aufstand, weil die Bevölkerung Johannes für einen Propheten hielt. <sup>6</sup>Doch auf einer Geburtstagsfeier für Herodes tanzte die Tochter von Herodias vor den Gästen, und sie gefiel Herodes sehr. <sup>7</sup>Er tat einen Schwur, ihr jeden Wunsch zu erfüllen. <sup>8</sup>Auf Drängen ihrer Mutter bat das Mädchen: »Schenk mir den Kopf von Johannes dem Täufer auf einer Schale!« <sup>9</sup>Nun tat es dem König leid, aber weil er es ihr versprochen hatte und sich vor seinen Gästen keine Blöße geben wollte, erteilte er die notwendigen Befehle. <sup>10</sup>So wurde Johannes im Gefängnis enthauptet. <sup>11</sup>Sein Kopf wurde dem Mädchen auf einer Schale übergeben, die sie ihrer Mutter brachte. <sup>12</sup>Die Jünger des Johannes holten seinen Leichnam und begruben ihn. Dann erzählten sie Jesus, was geschehen war. <h3>Fünftausend Menschen werden satt</h3><sup>13</sup>Als Jesus die Nachricht erhalten hatte, fuhr er mit dem Boot in eine entfernte Gegend, denn er wollte allein sein. Aber die Menschen hatten erfahren, wohin er fuhr, und aus zahlreichen Dörfern folgten sie ihm über Land. <sup>14</sup>Als er aus dem Boot stieg, erwartete ihn bereits eine große Menschenmenge. Er hatte Mitleid mit ihnen und heilte die Kranken. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>1</sup>Als Herodes Antipas von Jesus hörte, <sup>2</sup>sagte er zu seinen Ratgebern: »Das muss Johannes der Täufer sein, der von den Toten auferstanden ist! Darum kann er solche Wunder tun.« <sup>3</sup>Denn Herodes hatte Johannes auf Bitten seiner Frau Herodias (der früheren Frau von Philippus, dem Bruder von Herodes) ins Gefängnis werfen lassen. <sup>4</sup>Johannes hatte Herodes immer wieder ins Gewissen geredet: »Es ist gegen das Gesetz, dass du sie geheiratet hast.« <sup>5</sup>Herodes hätte Johannes gern endgültig aus dem Weg geschafft, aber er hatte Angst vor einem Aufstand, weil die Bevölkerung Johannes für einen Propheten hielt. <sup>6</sup>Doch auf einer Geburtstagsfeier für Herodes tanzte die Tochter von Herodias vor den Gästen, und sie gefiel Herodes sehr. <sup>7</sup>Er tat einen Schwur, ihr jeden Wunsch zu erfüllen. <sup>8</sup>Auf Drängen ihrer Mutter bat das Mädchen: »Schenk mir den Kopf von Johannes dem Täufer auf einer Schale!« <sup>9</sup>Nun tat es dem König leid, aber weil er es ihr versprochen hatte und sich vor seinen Gästen keine Blöße geben wollte, erteilte er die notwendigen Befehle. <sup>10</sup>So wurde Johannes im Gefängnis enthauptet. <sup>11</sup>Sein Kopf wurde dem Mädchen auf einer Schale übergeben, die sie ihrer Mutter brachte. <sup>12</sup>Die Jünger des Johannes holten seinen Leichnam und begruben ihn. Dann erzählten sie Jesus, was geschehen war. <h3>Fünftausend Menschen werden satt</h3><sup>13</sup>Als Jesus die Nachricht erhalten hatte, fuhr er mit dem Boot in eine entfernte Gegend, denn er wollte allein sein. Aber die Menschen hatten erfahren, wohin er fuhr, und aus zahlreichen Dörfern folgten sie ihm über Land. <sup>14</sup>Als er aus dem Boot stieg, erwartete ihn bereits eine große Menschenmenge. Er hatte Mitleid mit ihnen und heilte die Kranken. </div><p></p>",
         "url": "https://bibleserver.com/NLB/Matthäus%2014:1-14",
         "isOpen": false
       }
@@ -137,7 +157,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Markus 6:30",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>30</sup>Die Apostel kehrten zu Jesus zurück und berichteten, was sie getan und gelehrt hatten. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>30</sup>Die Apostel kehrten zu Jesus zurück und berichteten, was sie getan und gelehrt hatten. </div><p></p>",
         "url": "https://bibleserver.com/NLB/Markus%206:30",
         "isOpen": false
       }
@@ -167,9 +187,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -218,8 +244,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -235,7 +282,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

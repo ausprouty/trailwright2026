@@ -59,8 +59,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -82,7 +86,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -104,9 +110,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -148,7 +160,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -164,7 +178,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Acts 9:1-19 two times as others listen."
+          {
+            "text": "Read or watch Acts 9:1-19 two times as others listen."
+          }
         ]
       }
     },
@@ -172,7 +188,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 9:1-19",
-        "html": "<!-- begin bible --><h3>Saul’s Conversion</h3><p><sup class=\"versenum\">1 </sup>Meanwhile, Saul was still breathing out murderous threats against the Lord’s disciples. He went to the high priest<sup class=\"versenum\">2 </sup>and asked him for letters to the synagogues in Damascus, so that if he found any there who belonged to the Way, whether men or women, he might take them as prisoners to Jerusalem.<sup class=\"versenum\">3 </sup>As he neared Damascus on his journey, suddenly a light from heaven flashed around him.<sup class=\"versenum\">4 </sup>He fell to the ground and heard a voice say to him, “Saul, Saul, why do you persecute me?”</p><p><sup class=\"versenum\">5 </sup>“Who are you, Lord?” Saul asked.</p><p>“I am Jesus, whom you are persecuting,” he replied.<sup class=\"versenum\">6 </sup>“Now get up and go into the city, and you will be told what you must do.”</p><p><sup class=\"versenum\">7 </sup>The men traveling with Saul stood there speechless; they heard the sound but did not see anyone.<sup class=\"versenum\">8 </sup>Saul got up from the ground, but when he opened his eyes he could see nothing. So they led him by the hand into Damascus.<sup class=\"versenum\">9 </sup>For three days he was blind, and did not eat or drink anything.</p><p><sup class=\"versenum\">10 </sup>In Damascus there was a disciple named Ananias. The Lord called to him in a vision, “Ananias!”</p><p>“Yes, Lord,” he answered.</p><p><sup class=\"versenum\">11 </sup>The Lord told him, “Go to the house of Judas on Straight Street and ask for a man from Tarsus named Saul, for he is praying.<sup class=\"versenum\">12 </sup>In a vision he has seen a man named Ananias come and place his hands on him to restore his sight.”</p><p><sup class=\"versenum\">13 </sup>“Lord,” Ananias answered, “I have heard many reports about this man and all the harm he has done to your holy people in Jerusalem.<sup class=\"versenum\">14 </sup>And he has come here with authority from the chief priests to arrest all who call on your name.”</p><p><sup class=\"versenum\">15 </sup>But the Lord said to Ananias, “Go! This man is my chosen instrument to proclaim my name to the Gentiles and their kings and to the people of Israel.<sup class=\"versenum\">16 </sup>I will show him how much he must suffer for my name.”</p><p><sup class=\"versenum\">17 </sup>Then Ananias went to the house and entered it. Placing his hands on Saul, he said, “Brother Saul, the Lord—Jesus, who appeared to you on the road as you were coming here—has sent me so that you may see again and be filled with the Holy Spirit.”<sup class=\"versenum\">18 </sup>Immediately, something like scales fell from Saul’s eyes, and he could see again. He got up and was baptized,<sup class=\"versenum\">19 </sup>and after taking some food, he regained his strength.</p><h3>Saul in Damascus and Jerusalem</h3><p>Saul spent several days with the disciples in Damascus.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<h3>Saul’s Conversion</h3><p><sup>1</sup>Meanwhile, Saul was still breathing out murderous threats against the Lord’s disciples. He went to the high priest<sup>2</sup>and asked him for letters to the synagogues in Damascus, so that if he found any there who belonged to the Way, whether men or women, he might take them as prisoners to Jerusalem.<sup>3</sup>As he neared Damascus on his journey, suddenly a light from heaven flashed around him.<sup>4</sup>He fell to the ground and heard a voice say to him, “Saul, Saul, why do you persecute me?”</p><p><sup>5</sup>“Who are you, Lord?” Saul asked.</p><p>“I am Jesus, whom you are persecuting,” he replied.<sup>6</sup>“Now get up and go into the city, and you will be told what you must do.”</p><p><sup>7</sup>The men traveling with Saul stood there speechless; they heard the sound but did not see anyone.<sup>8</sup>Saul got up from the ground, but when he opened his eyes he could see nothing. So they led him by the hand into Damascus.<sup>9</sup>For three days he was blind, and did not eat or drink anything.</p><p><sup>10</sup>In Damascus there was a disciple named Ananias. The Lord called to him in a vision, “Ananias!”</p><p>“Yes, Lord,” he answered.</p><p><sup>11</sup>The Lord told him, “Go to the house of Judas on Straight Street and ask for a man from Tarsus named Saul, for he is praying.<sup>12</sup>In a vision he has seen a man named Ananias come and place his hands on him to restore his sight.”</p><p><sup>13</sup>“Lord,” Ananias answered, “I have heard many reports about this man and all the harm he has done to your holy people in Jerusalem.<sup>14</sup>And he has come here with authority from the chief priests to arrest all who call on your name.”</p><p><sup>15</sup>But the Lord said to Ananias, “Go! This man is my chosen instrument to proclaim my name to the Gentiles and their kings and to the people of Israel.<sup>16</sup>I will show him how much he must suffer for my name.”</p><p><sup>17</sup>Then Ananias went to the house and entered it. Placing his hands on Saul, he said, “Brother Saul, the Lord—Jesus, who appeared to you on the road as you were coming here—has sent me so that you may see again and be filled with the Holy Spirit.”<sup>18</sup>Immediately, something like scales fell from Saul’s eyes, and he could see again. He got up and was baptized,<sup>19</sup>and after taking some food, he regained his strength.</p><h3>Saul in Damascus and Jerusalem</h3><p>Saul spent several days with the disciples in Damascus.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Acts%209:1-19&version=NIV",
         "isOpen": false
       }
@@ -202,10 +218,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in the story?",
-          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in the story?"
+          },
+          {
+            "text": "What is being modeled about a Spirit-dependent life, making disciples or leadership?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -220,9 +244,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How are Jesus’ followers continuing His work of making disciples and church planting?",
-          "How is the gospel impacting people and society?",
-          "What barriers or obstacles were overcome and how were they overcome?"
+          {
+            "text": "How are Jesus’ followers continuing His work of making disciples and church planting?"
+          },
+          {
+            "text": "How is the gospel impacting people and society?"
+          },
+          {
+            "text": "What barriers or obstacles were overcome and how were they overcome?"
+          }
         ]
       }
     },
@@ -245,7 +275,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -259,13 +291,13 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "Philip was sharing the gospel, making disciples and planting churches. At the same time, Saul passionately persecuted the believers who had left Jerusalem. By hunting them down in every city, He thought that by doing so he was serving God. Saul was even willing to pursue them to the foreign city of Damascus, 240 km away from Jerusalem, about a one-week journey. Along Saul’s way to Damascus, Jesus took the initiative to reveal himself to Saul. Saul went from being a bold, angry conqueror who hated Jesus to being a blind, humbled person who needed to be led by others. Jesus so closely identifies with His children that He considers persecution of believers to be persecution against Himself. Saul realized that even though he was passionate about God, he was wrong in his beliefs. Jesus also appeared to Ananias. Even though Ananias had doubts about approaching Saul, he took a step of faith to obey Jesus. The Lord used Ananias to heal Saul and then baptize him immediately. Here we see a disciple without a leadership position immediately baptizing a new believer. Read{Matthew 28:18-20}.&nbsp;",
+                "text": "Philip was sharing the gospel, making disciples and planting churches. At the same time, Saul passionately persecuted the believers who had left Jerusalem. By hunting them down in every city, He thought that by doing so he was serving God. Saul was even willing to pursue them to the foreign city of Damascus, 240 km away from Jerusalem, about a one-week journey. Along Saul’s way to Damascus, Jesus took the initiative to reveal himself to Saul. Saul went from being a bold, angry conqueror who hated Jesus to being a blind, humbled person who needed to be led by others. Jesus so closely identifies with His children that He considers persecution of believers to be persecution against Himself. Saul realized that even though he was passionate about God, he was wrong in his beliefs. Jesus also appeared to Ananias. Even though Ananias had doubts about approaching Saul, he took a step of faith to obey Jesus. The Lord used Ananias to heal Saul and then baptize him immediately. Here we see a disciple without a leadership position immediately baptizing a new believer. Read{Matthew 28:18-20}.",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Matthew 28:18-20",
                     "label": "Matthew 28:18-20",
-                    "passage": "<p><sup class=\"versenum\">18&nbsp;</sup>Then Jesus came to them and said, “All authority in heaven and on earth has been given to me.<sup class=\"versenum\">19&nbsp;</sup>Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,<sup class=\"versenum\">20&nbsp;</sup>and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.”</p>"
+                    "passage": "<p><sup>18</sup>Then Jesus came to them and said, “All authority in heaven and on earth has been given to me.<sup>19</sup>Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,<sup>20</sup>and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.”</p>"
                   }
                 ],
                 "isOpen": false
@@ -315,9 +347,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Prayer, Care, Share",
-                  "Gospel",
-                  "Foundational Bible Studies."
+                  {
+                    "text": "Prayer, Care, Share"
+                  },
+                  {
+                    "text": "Gospel"
+                  },
+                  {
+                    "text": "Foundational Bible Studies."
+                  }
                 ]
               }
             }
@@ -338,8 +376,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -362,7 +404,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

@@ -22,22 +22,31 @@
       "data": {
         "style": "ordered",
         "items": [
-          "What did you experience with God this week?",
-          "In the last few days, did you have the opportunity to share an experience with God with someone close to you that doesn’t know Jesus yet? Or could you pray for them or help them practically?",
-          "Do you need God‘s help in an area of your life?"
+          {
+            "text": "What did you experience with God this week?"
+          },
+          {
+            "text": "In the last few days, did you have the opportunity to share an experience with God with someone close to you that doesn’t know Jesus yet? Or could you pray for them or help them practically?"
+          },
+          {
+            "text": "Do you need God‘s help in an area of your life?"
+          }
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where\nyou need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship\nwith God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -60,10 +69,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Read the passage silently. What words or phrases stick out?",
-          "One person reads the passage out loud.",
-          "One person retells the passage in his/her own words (Bibles closed).",
-          "If necessary, the others complement what was said (Bibles closed)."
+          {
+            "text": "Read the passage silently. What words or phrases stick out?"
+          },
+          {
+            "text": "One person reads the passage out loud."
+          },
+          {
+            "text": "One person retells the passage in his/her own words (Bibles closed)."
+          },
+          {
+            "text": "If necessary, the others complement what was said (Bibles closed)."
+          }
         ]
       }
     },
@@ -71,7 +88,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Luke 1:80",
-        "html": "<p class=\"bible\"><sup>80</sup> And the child grew and became strong in spirit; and he lived in the wilderness until he appeared publicly to Israel. </p><p class=\"bible\"></p>",
+        "html": "<p><sup>80</sup> And the child grew and became strong in spirit; and he lived in the wilderness until he appeared publicly to Israel. </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%201:80&version=TNIV",
         "isOpen": false
       }
@@ -80,7 +97,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Luke 3:1-2",
-        "html": "<p class=\"bible\"><sup>1</sup>In the fifteenth year of the reign of Tiberius Caesar—when Pontius Pilate was governor of Judea, Herod tetrarch of Galilee, his brother Philip tetrarch of Iturea and Traconitis, and Lysanias tetrarch of Abilene— <sup>2</sup> during the high-priesthood of Annas and Caiaphas, the word of God came to John son of Zechariah in the wilderness. </p><p class=\"bible\"><br></p>",
+        "html": "<p><sup>1</sup>In the fifteenth year of the reign of Tiberius Caesar—when Pontius Pilate was governor of Judea, Herod tetrarch of Galilee, his brother Philip tetrarch of Iturea and Traconitis, and Lysanias tetrarch of Abilene— <sup>2</sup> during the high-priesthood of Annas and Caiaphas, the word of God came to John son of Zechariah in the wilderness. </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%203:1-2&version=TNIV",
         "isOpen": false
       }
@@ -89,7 +106,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Luke 6:12-13",
-        "html": "<p class=\"bible\"><sup>12</sup> One of those days Jesus went out to a mountainside to pray, and spent the night praying to God. <sup>13</sup> When morning came, he called his disciples to him and chose twelve of them, whom he also designated apostles: </p><p class=\"bible\"></p>",
+        "html": "<p><sup>12</sup> One of those days Jesus went out to a mountainside to pray, and spent the night praying to God. <sup>13</sup> When morning came, he called his disciples to him and chose twelve of them, whom he also designated apostles: </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%206:12-13&version=TNIV",
         "isOpen": false
       }
@@ -99,8 +116,29 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Everyone by themselves:<ul class=\"arrows\"><li> What words or phrases stick out now? Are there any differences to what you noticed before? </li><li>Why do you feel drawn to those words or phrases?</li><li>What could God be telling you?</li><li>What can you learn about mankind?</li></ul>",
-          "Share in the group."
+          {
+            "text": "Everyone by themselves:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "What words or phrases stick out now? Are there any differences to what you noticed before?"
+                },
+                {
+                  "text": "Why do you feel drawn to those words or phrases?"
+                },
+                {
+                  "text": "What could God be telling you?"
+                },
+                {
+                  "text": "What can you learn about mankind?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Share in the group."
+          }
         ]
       }
     },
@@ -124,9 +162,15 @@
       "data": {
         "style": "ordered",
         "items": [
-          "What similarities and spiritual principles do you find in these passages?",
-          "When was the last time you retreated for an extended time to a secluded place to focus on God?",
-          "Do you need guidance and wisdom for something in your life? Plan to take a longer time off (for example one to two days) to spend in prayer – maybe fasting, and listening to God’s voice."
+          {
+            "text": "What similarities and spiritual principles do you find in these passages?"
+          },
+          {
+            "text": "When was the last time you retreated for an extended time to a secluded place to focus on God?"
+          },
+          {
+            "text": "Do you need guidance and wisdom for something in your life? Plan to take a longer time off (for example one to two days) to spend in prayer – maybe fasting, and listening to God’s voice."
+          }
         ]
       }
     },
@@ -146,7 +190,7 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "Almost all the prophets had <span class=\"unknown\">“</span>desert experiences” when they received their calling from God (Luke 3:1-2; 1 Kings 19:1-16). The desert or solitude was the place where they could focus on God."
+                "text": "Almost all the prophets had “desert experiences” when they received their calling from God (Luke 3:1-2; 1 Kings 19:1-16). The desert or solitude was the place where they could focus on God."
               }
             },
             {
@@ -158,7 +202,7 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "If we want to build spiritual movements, we need moments, from time to time, to retreat so we can gain new perspectives on how to move forward. The gospels often report that Jesus withdrew from the crowd and His disciples. The Greek word for desert used in the gospels is <span class=\"unknown\">“</span>eremos” and also means <span class=\"unknown\">“</span>secluded place”. Before He selected the twelve disciples, Jesus also retreated to receive guidance from God."
+                "text": "If we want to build spiritual movements, we need moments, from time to time, to retreat so we can gain new perspectives on how to move forward. The gospels often report that Jesus withdrew from the crowd and His disciples. The Greek word for desert used in the gospels is “eremos” and also means “secluded place”. Before He selected the twelve disciples, Jesus also retreated to receive guidance from God."
               }
             },
             {

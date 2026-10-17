@@ -59,8 +59,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -82,7 +86,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -104,9 +110,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them"
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them"
+                  }
                 ]
               }
             },
@@ -148,7 +160,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -164,7 +178,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Acts 14:1-7 two times as others listen."
+          {
+            "text": "Read or watch Acts 14:1-7 two times as others listen."
+          }
         ]
       }
     },
@@ -172,7 +188,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 14:1-7",
-        "html": "<!-- begin bible --><h3>In Iconium</h3><p><sup class=\"versenum\">1 </sup>At Iconium Paul and Barnabas went as usual into the Jewish synagogue. There they spoke so effectively that a great number of Jews and Greeks believed.<sup class=\"versenum\">2 </sup>But the Jews who refused to believe stirred up the other Gentiles and poisoned their minds against the brothers.<sup class=\"versenum\">3 </sup>So Paul and Barnabas spent considerable time there, speaking boldly for the Lord, who confirmed the message of his grace by enabling them to perform signs and wonders.<sup class=\"versenum\">4 </sup>The people of the city were divided; some sided with the Jews, others with the apostles.<sup class=\"versenum\">5 </sup>There was a plot afoot among both Gentiles and Jews, together with their leaders, to mistreat them and stone them.<sup class=\"versenum\">6 </sup>But they found out about it and fled to the Lycaonian cities of Lystra and Derbe and to the surrounding country,<sup class=\"versenum\">7 </sup>where they continued to preach the gospel.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<h3>In Iconium</h3><p><sup>1</sup>At Iconium Paul and Barnabas went as usual into the Jewish synagogue. There they spoke so effectively that a great number of Jews and Greeks believed.<sup>2</sup>But the Jews who refused to believe stirred up the other Gentiles and poisoned their minds against the brothers.<sup>3</sup>So Paul and Barnabas spent considerable time there, speaking boldly for the Lord, who confirmed the message of his grace by enabling them to perform signs and wonders.<sup>4</sup>The people of the city were divided; some sided with the Jews, others with the apostles.<sup>5</sup>There was a plot afoot among both Gentiles and Jews, together with their leaders, to mistreat them and stone them.<sup>6</sup>But they found out about it and fled to the Lycaonian cities of Lystra and Derbe and to the surrounding country,<sup>7</sup>where they continued to preach the gospel.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Acts%2014:1-7&version=NIV",
         "isOpen": false
       }
@@ -202,10 +218,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in the story?",
-          "What is being modeled about a Spirit-dependent life, making disciples or leadership?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in the story?"
+          },
+          {
+            "text": "What is being modeled about a Spirit-dependent life, making disciples or leadership?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -220,9 +244,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "How are Jesus’ followers continuing His work of making disciples and church planting?",
-          "How is the gospel impacting people and society?",
-          "What barriers or obstacles were overcome and how were they overcome?"
+          {
+            "text": "How are Jesus’ followers continuing His work of making disciples and church planting?"
+          },
+          {
+            "text": "How is the gospel impacting people and society?"
+          },
+          {
+            "text": "What barriers or obstacles were overcome and how were they overcome?"
+          }
         ]
       }
     },
@@ -245,7 +275,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -259,13 +291,13 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "At Iconium, Paul and Barnabas modeled the same principle of intentional relationships that they had used in Pisidian Antioch. Their starting point was to share the message of Jesus at the local synagogue, where they were certain of an interest in spiritual conversations. The Lord confirmed the message of the gospel through miraculous signs and a large number of Jews and Gentiles came to believe. A church was planted and they discipled the new believers. Paul and Barnabas spoke boldly for the Lord. Again, the call to follow Jesus divided the community and those hostile to the Gospel stirred up persecution, planning to kill Paul and Barnabas. So they left that city just as Jesus instructed the Apostles when He sent them out, “when you are persecuted in one place, flee to another.” ({Matthew 10:23}).&nbsp;",
+                "text": "At Iconium, Paul and Barnabas modeled the same principle of intentional relationships that they had used in Pisidian Antioch. Their starting point was to share the message of Jesus at the local synagogue, where they were certain of an interest in spiritual conversations. The Lord confirmed the message of the gospel through miraculous signs and a large number of Jews and Gentiles came to believe. A church was planted and they discipled the new believers. Paul and Barnabas spoke boldly for the Lord. Again, the call to follow Jesus divided the community and those hostile to the Gospel stirred up persecution, planning to kill Paul and Barnabas. So they left that city just as Jesus instructed the Apostles when He sent them out, “when you are persecuted in one place, flee to another.” ({Matthew 10:23}).",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Matthew 10:23",
                     "label": "Matthew 10:23",
-                    "passage": "<p><sup class=\"versenum\">23&nbsp;</sup>When you are persecuted in one place, flee to another. Truly I tell you, you will not finish going through the towns of Israel before the Son of Man comes.</p>"
+                    "passage": "<p><sup>23</sup>When you are persecuted in one place, flee to another. Truly I tell you, you will not finish going through the towns of Israel before the Son of Man comes.</p>"
                   }
                 ],
                 "isOpen": false
@@ -315,9 +347,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Prayer, Care, Share",
-                  "Gospel",
-                  "Foundational Bible Studies."
+                  {
+                    "text": "Prayer, Care, Share"
+                  },
+                  {
+                    "text": "Gospel"
+                  },
+                  {
+                    "text": "Foundational Bible Studies."
+                  }
                 ]
               }
             }
@@ -338,8 +376,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -362,7 +404,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

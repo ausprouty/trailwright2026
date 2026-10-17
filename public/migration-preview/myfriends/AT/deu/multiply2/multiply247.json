@@ -47,9 +47,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -65,10 +71,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -99,9 +113,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -109,7 +129,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Johannes 13",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Vor dem Passahfest wusste Jesus, dass für ihn die Zeit gekommen war, diese Welt zu verlassen und zu seinem Vater zurückzukehren. Nun bewies er seinen Jüngern das ganze Ausmaß seiner Liebe. <sup>2</sup>Es war Zeit für das Abendessen, und der Teufel hatte Judas, den Sohn des Simon Iskariot, schon dazu verleitet, seinen Plan wahr zu machen und Jesus zu verraten. <sup>3</sup>Jesus aber wusste, dass der Vater ihm uneingeschränkte Macht über alles gegeben hatte und dass er von Gott gekommen war und zu Gott zurückkehren würde. <sup>4</sup>Er stand vom Tisch auf, zog sein Obergewand aus, band sich ein Handtuch um die Hüften <sup>5</sup>und goss Wasser in eine Schale. Dann begann er, seinen Jüngern die Füße zu waschen und sie mit dem Handtuch abzutrocknen, das er sich umgebunden hatte. <sup>6</sup>Als er zu Simon Petrus kam, sagte Petrus zu ihm: »Herr, warum willst du mir die Füße waschen?« <sup>7</sup>Jesus antwortete: »Du verstehst jetzt nicht, warum ich das tue; eines Tages wirst du es verstehen.« <sup>8</sup>»Nein«, protestierte Petrus. »Du sollst mir niemals die Füße waschen!« Jesus erwiderte: »Wenn ich dich nicht wasche, gehörst du nicht zu mir.« <sup>9</sup>Da rief Simon Petrus: »Dann wasche mir auch die Hände und den Kopf, Herr, und nicht nur die Füße!« <sup>10</sup>Jesus erwiderte: »Wer gebadet hat, braucht sich – ausgenommen die Füße – nicht zu waschen, um völlig rein zu sein. Ihr seid rein, allerdings nicht jeder hier.« <sup>11</sup>Denn Jesus wusste, wer ihn verraten würde. Das meinte er mit dem Satz: »Nicht jeder hier von euch ist rein.« <sup>12</sup>Nachdem er ihnen die Füße gewaschen hatte, zog Jesus sein Obergewand wieder an, setzte sich und fragte: »Versteht ihr, was ich getan habe? <sup>13</sup>Ihr nennt mich ›Meister‹ und ›Herr‹ und damit habt ihr recht, denn das bin ich. <sup>14</sup>Und weil ich, der Herr und Meister, euch die Füße gewaschen habe, sollt auch ihr einander die Füße waschen. <sup>15</sup>Ich habe euch ein Beispiel gegeben, dem ihr folgen sollt. Tut, was ich für euch getan habe. <sup>16</sup>Es ist nur zu wahr: Ein Diener ist nicht größer als sein Herr. Genauso sind die Boten nicht wichtiger als der, der sie gesandt hat. <sup>17</sup>Ihr wisst das alles – nun handelt auch danach. Das ist der Weg zu eurem Glück! <h3>Jesus sagt voraus, dass er verraten wird</h3><sup>18</sup>Ich sage diese Dinge nicht zu euch allen; denn ich kenne jeden Einzelnen von euch, die ich erwählt habe, ganz genau. In der Schrift steht: ›Der, mit dem ich mein Brot geteilt habe, hat sich gegen mich gewandt‹ , und das wird sich bald erfüllen. <sup>19</sup>Ich sage euch das jetzt, damit ihr, wenn es eintrifft, erkennt, dass ich der Christus bin. <sup>20</sup>Ich versichere euch: Wer meinen Boten willkommen heißt, der heißt mich willkommen, und wer mich willkommen heißt, der heißt meinen Vater willkommen, der mich gesandt hat.« <sup>21</sup>Nach diesen Worten sagte Jesus bis ins Tiefste erschüttert: »Ich sage euch: Einer von euch wird mich verraten!« <sup>22</sup>Die Jünger sahen einander an und fragten sich, wen er wohl damit meinte. <sup>23</sup>Einer seiner Jünger – der, den Jesus liebte –, saß neben ihm am Tisch. <sup>24</sup>Simon Petrus bedeutete ihm, er solle fragen, wer so etwas Schreckliches tun würde. <sup>25</sup>Jener Jünger lehnte sich zu Jesus hinüber und fragte: »Herr, wer ist es?« <sup>26</sup>Jesus sagte: »Es ist der, dem ich das Stück Brot reiche, nachdem ich es eingetaucht habe.« Und als er das Brot eingetaucht hatte, gab er es Judas, dem Sohn des Simon Iskariot. <sup>27</sup>Sobald Judas das Brot gegessen hatte, ergriff der Satan Besitz von ihm. Da sagte Jesus zu ihm: »Beeile dich. Was du tun willst, tue bald!« <sup>28</sup>Keiner der anderen am Tisch wusste, was Jesus damit meinte. <sup>29</sup>Da Judas die Kasse verwaltete, dachten einige, Jesus habe ihn aufgefordert, für das Fest einkaufen zu gehen oder den Armen etwas Geld zu geben. <sup>30</sup>Judas aber stand sofort auf und ging in die Nacht hinaus. <h3>Jesus sagt voraus, dass Petrus ihn verleugnen wird</h3><sup>31</sup>Sobald Judas den Raum verlassen hatte, sagte Jesus: »Nun ist für den Menschensohn die Zeit gekommen, dass er verherrlicht wird. Gott wird durch alles, was geschieht, verherrlicht, <sup>32</sup>und das wird sehr bald geschehen. <sup>33</sup>Liebe Kinder, es ist nur noch kurze Zeit, bis ich fortgehen und euch verlassen muss! Ihr werdet nach mir suchen, doch wie ich schon den Juden gesagt habe: Wohin ich gehe, da könnt ihr nicht hinkommen. <sup>34</sup>So gebe ich euch nun ein neues Gebot: Liebt einander. So wie ich euch geliebt habe, sollt auch ihr einander lieben. <sup>35</sup>Eure Liebe zueinander wird der Welt zeigen, dass ihr meine Jünger seid.« <sup>36</sup>Simon Petrus sagte: »Herr, wohin gehst du?« Und Jesus erwiderte: »Wo ich hingehe, dahin kannst du jetzt nicht mitkommen, aber später wirst du mir dorthin folgen.« <sup>37</sup>»Warum kann ich jetzt nicht mitkommen, Herr?«, fragte er. »Ich bin bereit, für dich zu sterben.« <sup>38</sup>Jesus antwortete: »Für mich sterben? Nein. Ehe morgen früh der Hahn kräht, wirst du drei Mal leugnen, mich auch nur zu kennen. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>1</sup>Vor dem Passahfest wusste Jesus, dass für ihn die Zeit gekommen war, diese Welt zu verlassen und zu seinem Vater zurückzukehren. Nun bewies er seinen Jüngern das ganze Ausmaß seiner Liebe. <sup>2</sup>Es war Zeit für das Abendessen, und der Teufel hatte Judas, den Sohn des Simon Iskariot, schon dazu verleitet, seinen Plan wahr zu machen und Jesus zu verraten. <sup>3</sup>Jesus aber wusste, dass der Vater ihm uneingeschränkte Macht über alles gegeben hatte und dass er von Gott gekommen war und zu Gott zurückkehren würde. <sup>4</sup>Er stand vom Tisch auf, zog sein Obergewand aus, band sich ein Handtuch um die Hüften <sup>5</sup>und goss Wasser in eine Schale. Dann begann er, seinen Jüngern die Füße zu waschen und sie mit dem Handtuch abzutrocknen, das er sich umgebunden hatte. <sup>6</sup>Als er zu Simon Petrus kam, sagte Petrus zu ihm: »Herr, warum willst du mir die Füße waschen?« <sup>7</sup>Jesus antwortete: »Du verstehst jetzt nicht, warum ich das tue; eines Tages wirst du es verstehen.« <sup>8</sup>»Nein«, protestierte Petrus. »Du sollst mir niemals die Füße waschen!« Jesus erwiderte: »Wenn ich dich nicht wasche, gehörst du nicht zu mir.« <sup>9</sup>Da rief Simon Petrus: »Dann wasche mir auch die Hände und den Kopf, Herr, und nicht nur die Füße!« <sup>10</sup>Jesus erwiderte: »Wer gebadet hat, braucht sich – ausgenommen die Füße – nicht zu waschen, um völlig rein zu sein. Ihr seid rein, allerdings nicht jeder hier.« <sup>11</sup>Denn Jesus wusste, wer ihn verraten würde. Das meinte er mit dem Satz: »Nicht jeder hier von euch ist rein.« <sup>12</sup>Nachdem er ihnen die Füße gewaschen hatte, zog Jesus sein Obergewand wieder an, setzte sich und fragte: »Versteht ihr, was ich getan habe? <sup>13</sup>Ihr nennt mich ›Meister‹ und ›Herr‹ und damit habt ihr recht, denn das bin ich. <sup>14</sup>Und weil ich, der Herr und Meister, euch die Füße gewaschen habe, sollt auch ihr einander die Füße waschen. <sup>15</sup>Ich habe euch ein Beispiel gegeben, dem ihr folgen sollt. Tut, was ich für euch getan habe. <sup>16</sup>Es ist nur zu wahr: Ein Diener ist nicht größer als sein Herr. Genauso sind die Boten nicht wichtiger als der, der sie gesandt hat. <sup>17</sup>Ihr wisst das alles – nun handelt auch danach. Das ist der Weg zu eurem Glück! <h3>Jesus sagt voraus, dass er verraten wird</h3><sup>18</sup>Ich sage diese Dinge nicht zu euch allen; denn ich kenne jeden Einzelnen von euch, die ich erwählt habe, ganz genau. In der Schrift steht: ›Der, mit dem ich mein Brot geteilt habe, hat sich gegen mich gewandt‹ , und das wird sich bald erfüllen. <sup>19</sup>Ich sage euch das jetzt, damit ihr, wenn es eintrifft, erkennt, dass ich der Christus bin. <sup>20</sup>Ich versichere euch: Wer meinen Boten willkommen heißt, der heißt mich willkommen, und wer mich willkommen heißt, der heißt meinen Vater willkommen, der mich gesandt hat.« <sup>21</sup>Nach diesen Worten sagte Jesus bis ins Tiefste erschüttert: »Ich sage euch: Einer von euch wird mich verraten!« <sup>22</sup>Die Jünger sahen einander an und fragten sich, wen er wohl damit meinte. <sup>23</sup>Einer seiner Jünger – der, den Jesus liebte –, saß neben ihm am Tisch. <sup>24</sup>Simon Petrus bedeutete ihm, er solle fragen, wer so etwas Schreckliches tun würde. <sup>25</sup>Jener Jünger lehnte sich zu Jesus hinüber und fragte: »Herr, wer ist es?« <sup>26</sup>Jesus sagte: »Es ist der, dem ich das Stück Brot reiche, nachdem ich es eingetaucht habe.« Und als er das Brot eingetaucht hatte, gab er es Judas, dem Sohn des Simon Iskariot. <sup>27</sup>Sobald Judas das Brot gegessen hatte, ergriff der Satan Besitz von ihm. Da sagte Jesus zu ihm: »Beeile dich. Was du tun willst, tue bald!« <sup>28</sup>Keiner der anderen am Tisch wusste, was Jesus damit meinte. <sup>29</sup>Da Judas die Kasse verwaltete, dachten einige, Jesus habe ihn aufgefordert, für das Fest einkaufen zu gehen oder den Armen etwas Geld zu geben. <sup>30</sup>Judas aber stand sofort auf und ging in die Nacht hinaus. <h3>Jesus sagt voraus, dass Petrus ihn verleugnen wird</h3><sup>31</sup>Sobald Judas den Raum verlassen hatte, sagte Jesus: »Nun ist für den Menschensohn die Zeit gekommen, dass er verherrlicht wird. Gott wird durch alles, was geschieht, verherrlicht, <sup>32</sup>und das wird sehr bald geschehen. <sup>33</sup>Liebe Kinder, es ist nur noch kurze Zeit, bis ich fortgehen und euch verlassen muss! Ihr werdet nach mir suchen, doch wie ich schon den Juden gesagt habe: Wohin ich gehe, da könnt ihr nicht hinkommen. <sup>34</sup>So gebe ich euch nun ein neues Gebot: Liebt einander. So wie ich euch geliebt habe, sollt auch ihr einander lieben. <sup>35</sup>Eure Liebe zueinander wird der Welt zeigen, dass ihr meine Jünger seid.« <sup>36</sup>Simon Petrus sagte: »Herr, wohin gehst du?« Und Jesus erwiderte: »Wo ich hingehe, dahin kannst du jetzt nicht mitkommen, aber später wirst du mir dorthin folgen.« <sup>37</sup>»Warum kann ich jetzt nicht mitkommen, Herr?«, fragte er. »Ich bin bereit, für dich zu sterben.« <sup>38</sup>Jesus antwortete: »Für mich sterben? Nein. Ehe morgen früh der Hahn kräht, wirst du drei Mal leugnen, mich auch nur zu kennen. </div><p></p>",
         "url": "https://bibleserver.com/NLB/Johannes%2013",
         "isOpen": false
       }
@@ -139,9 +159,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -196,8 +222,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -213,7 +260,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

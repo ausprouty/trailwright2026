@@ -53,9 +53,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "1 Corinthians, 55 AD",
-          "2 Corinthians, 56 AD",
-          "Romans, 57 AD"
+          {
+            "text": "1 Corinthians, 55 AD"
+          },
+          {
+            "text": "2 Corinthians, 56 AD"
+          },
+          {
+            "text": "Romans, 57 AD"
+          }
         ]
       }
     }

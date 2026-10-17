@@ -53,9 +53,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was lief bei dir gut diese Woche?",
-          "Was war für dich schwierig diese Woche?",
-          "Wo brauchst du Gottes Hilfe in deinem Leben?"
+          {
+            "text": "Was lief bei dir gut diese Woche?"
+          },
+          {
+            "text": "Was war für dich schwierig diese Woche?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe in deinem Leben?"
+          }
         ]
       }
     },
@@ -70,11 +76,38 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was konntest du seit unserem letzten Treffen umsetzen?",
-          "Wie hast du Gottes Wirken durch dein Leben diese Woche erlebt?",
-          "War es dir möglich: <ul><li>jemandem zu erzählen, wie Gott in deinem Leben wirkt?</li><li>eine Bibelstelle mit jemandem zu teilen?</li><li>jemandem praktisch zu helfen?</li><li>mit jemandem zu beten?</li></ul>",
-          "Frage Gott, was Er von dir als Antwort auf diese Bibelstelle möchte.",
-          "Teile dies mit der Gruppe."
+          {
+            "text": "Was konntest du seit unserem letzten Treffen umsetzen?"
+          },
+          {
+            "text": "Wie hast du Gottes Wirken durch dein Leben diese Woche erlebt?"
+          },
+          {
+            "text": "War es dir möglich:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "jemandem zu erzählen, wie Gott in deinem Leben wirkt?"
+                },
+                {
+                  "text": "eine Bibelstelle mit jemandem zu teilen?"
+                },
+                {
+                  "text": "jemandem praktisch zu helfen?"
+                },
+                {
+                  "text": "mit jemandem zu beten?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Frage Gott, was Er von dir als Antwort auf diese Bibelstelle möchte."
+          },
+          {
+            "text": "Teile dies mit der Gruppe."
+          }
         ]
       }
     },
@@ -95,7 +128,7 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "<li class=\"nobreak\">{Römer 12:2}\n\n\t\n\termutigt uns, uns von Gott durch Veränderung unserer Denkweise in neue Menschen verwandeln zu lassen. Unsere neue Identität zu verstehen, jetzt wo wir in Christus leben, macht einen Großteil dieser Veränderung aus. Es ist befreiend und zugleich bestärkend, die Wahrheit darüber, wie uns Gott sieht, zu kennen. &nbsp;&nbsp;</li>",
+                "text": "{Römer 12:2} ermutigt uns, uns von Gott durch Veränderung unserer Denkweise in neue Menschen verwandeln zu lassen. Unsere neue Identität zu verstehen, jetzt wo wir in Christus leben, macht einen Großteil dieser Veränderung aus. Es ist befreiend und zugleich bestärkend, die Wahrheit darüber, wie uns Gott sieht, zu kennen.",
                 "references": [
                   {
                     "id": "popup_pop1",
@@ -152,9 +185,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich oder seht.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+          {
+            "text": "Jeder liest den Text für sich oder seht."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+          }
         ]
       }
     },
@@ -174,7 +213,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Römer 8:9-17",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>9</sup>Ihr aber werdet nicht mehr von eurer sündigen Natur, sondern vom Geist Gottes beherrscht, wenn Gottes Geist in euch lebt. Wer aber den Geist von Christus nicht hat, der gehört nicht zu Christus. <sup>10</sup>Da Christus in euch lebt, wird zwar euer Körper aufgrund der Sünde sterben, aber durch den Geist empfangt ihr Leben, weil ihr von Gott gerecht gesprochen wurdet. <sup>11</sup>Der Geist Gottes, der Jesus von den Toten auferweckt hat, lebt in euch. Und so wie er Christus von den Toten auferweckte, wird er auch euren sterblichen Körper durch denselben Geist lebendig machen, der in euch lebt. <sup>12</sup>Liebe Brüder, ihr seid also nicht mehr dazu gezwungen, euch von den Wünschen eurer menschlichen Natur beherrschen zu lassen. <sup>13</sup>Denn wenn ihr euch weiter von ihr bestimmen lasst, werdet ihr sterben. Wenn ihr euch aber durch die Kraft des Heiligen Geistes von eurem alten Wesen und den bösen Taten abwendet , werdet ihr leben. <sup>14</sup>Denn alle, die vom Geist Gottes bestimmt werden, sind Kinder Gottes. <sup>15</sup>Deshalb verhaltet euch nicht wie ängstliche Sklaven. Wir sind doch Kinder Gottes geworden und dürfen ihn »Abba, Vater« rufen. <sup>16</sup>Denn der Geist Gottes selbst bestätigt uns tief im Herzen, dass wir Gottes Kinder sind. <sup>17</sup>Und als seine Kinder sind wir auch Miterben an seinem Reichtum – denn alles, was Gott seinem Sohn Christus gibt, gehört auch uns. Doch wenn wir an seiner Herrlichkeit teilhaben wollen, müssen wir auch seine Leiden mit ihm teilen.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>9</sup>Ihr aber werdet nicht mehr von eurer sündigen Natur, sondern vom Geist Gottes beherrscht, wenn Gottes Geist in euch lebt. Wer aber den Geist von Christus nicht hat, der gehört nicht zu Christus. <sup>10</sup>Da Christus in euch lebt, wird zwar euer Körper aufgrund der Sünde sterben, aber durch den Geist empfangt ihr Leben, weil ihr von Gott gerecht gesprochen wurdet. <sup>11</sup>Der Geist Gottes, der Jesus von den Toten auferweckt hat, lebt in euch. Und so wie er Christus von den Toten auferweckte, wird er auch euren sterblichen Körper durch denselben Geist lebendig machen, der in euch lebt. <sup>12</sup>Liebe Brüder, ihr seid also nicht mehr dazu gezwungen, euch von den Wünschen eurer menschlichen Natur beherrschen zu lassen. <sup>13</sup>Denn wenn ihr euch weiter von ihr bestimmen lasst, werdet ihr sterben. Wenn ihr euch aber durch die Kraft des Heiligen Geistes von eurem alten Wesen und den bösen Taten abwendet , werdet ihr leben. <sup>14</sup>Denn alle, die vom Geist Gottes bestimmt werden, sind Kinder Gottes. <sup>15</sup>Deshalb verhaltet euch nicht wie ängstliche Sklaven. Wir sind doch Kinder Gottes geworden und dürfen ihn »Abba, Vater« rufen. <sup>16</sup>Denn der Geist Gottes selbst bestätigt uns tief im Herzen, dass wir Gottes Kinder sind. <sup>17</sup>Und als seine Kinder sind wir auch Miterben an seinem Reichtum – denn alles, was Gott seinem Sohn Christus gibt, gehört auch uns. Doch wenn wir an seiner Herrlichkeit teilhaben wollen, müssen wir auch seine Leiden mit ihm teilen.</div><p></p>",
         "url": "https://bibleserver.com/NLB/Römer%208:9-17",
         "isOpen": false
       }
@@ -191,12 +230,41 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was sticht für dich in dieser Bibelstelle heraus?",
-          "Was gefällt dir und was stört dich in diesem Text?",
-          "Warum glaubst du, ist diese Stelle wichtig?",
-          "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden? Gibt es: <ul><li>eine Verhaltensweise zu ändern?</li><li>ein Versprechen einzuhalten?</li><li>ein Beispiel zum folgen?</li><li>ein Gebot zu befolgen?</li></ul>",
-          "Frage Gott, was Er von dir als Antwort auf diese Bibelstelle möchte.",
-          "Teile dies mit der Gruppe."
+          {
+            "text": "Was sticht für dich in dieser Bibelstelle heraus?"
+          },
+          {
+            "text": "Was gefällt dir und was stört dich in diesem Text?"
+          },
+          {
+            "text": "Warum glaubst du, ist diese Stelle wichtig?"
+          },
+          {
+            "text": "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden? Gibt es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Verhaltensweise zu ändern?"
+                },
+                {
+                  "text": "ein Versprechen einzuhalten?"
+                },
+                {
+                  "text": "ein Beispiel zum folgen?"
+                },
+                {
+                  "text": "ein Gebot zu befolgen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Frage Gott, was Er von dir als Antwort auf diese Bibelstelle möchte."
+          },
+          {
+            "text": "Teile dies mit der Gruppe."
+          }
         ]
       }
     },
@@ -255,7 +323,7 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "<li class=\"forward\">{Johannes 1:12}\n\n\t\n\t</li>\n\t<li class=\"forward\">{Johannes 8:36}\n\t\n\t</li>\n\t<li class=\"forward\">{Johannes 15:15}\n\t\n\t</li>\n\t<li class=\"forward\">{Galater 2:20}\n\t\n\t</li>\n\t<li class=\"forward\">{Galater 3:27}\n\t\n\t</li>\n\t<li class=\"forward\">{Epheser 2:6}\n\t\n\t</li>\n\t<li class=\"forward\">{Epheser 2:19-20}\n\t\n\t</li>\n\t<li class=\"forward\">{Epheser 4:24}\n\t\n\t</li>\n\t<li class=\"forward\">{2. Korinther 5:16-21}\n\t\n\t</li>\n\t<li class=\"forward\">{Philipper 3:20}\n\t\n\t</li>\n\t<li class=\"forward\">{1. Korinther 3:16}\n\t\n\t</li>\n\t<li class=\"forward\">{1. Korinther 12:12-13}\n\t\n\t</li>\n\t<li class=\"forward\">{1. Korinther 12:27}\n\t\n\t</li>\n\t<li class=\"forward\">{2. Korinther 5:21}\n\t\n\t</li>\n\t<li class=\"forward\">{2. Timotheo 1:7}\n\t\n\t</li>\n\t<li class=\"forward\">{1. Johannes 3:1-2}\n\t\n\t</li>",
+                "text": "<li class=\"forward\">{Johannes 1:12}</li><li class=\"forward\">{Johannes 8:36}</li><li class=\"forward\">{Johannes 15:15}</li><li class=\"forward\">{Galater 2:20}</li><li class=\"forward\">{Galater 3:27}</li><li class=\"forward\">{Epheser 2:6}</li><li class=\"forward\">{Epheser 2:19-20}</li><li class=\"forward\">{Epheser 4:24}</li><li class=\"forward\">{2. Korinther 5:16-21}</li><li class=\"forward\">{Philipper 3:20}</li><li class=\"forward\">{1. Korinther 3:16}</li><li class=\"forward\">{1. Korinther 12:12-13}</li><li class=\"forward\">{1. Korinther 12:27}</li><li class=\"forward\">{2. Korinther 5:21}</li><li class=\"forward\">{2. Timotheo 1:7}</li><li class=\"forward\">{1. Johannes 3:1-2}</li>",
                 "references": [
                   {
                     "id": "popup_pop2",
@@ -297,7 +365,7 @@
                     "id": "popup_pop8",
                     "marker": "Epheser 2:19-20",
                     "label": "Epheser 2:19-20",
-                    "passage": "<sup>19</sup>Deshalb seid ihr nicht länger Fremde und ohne Bürgerrecht, sondern ihr gehört zu den Gläubigen , zu Gottes Familie. <sup>20</sup>Wir sind sein Haus, das auf dem Fundament der Apostel und Propheten erbaut ist mit Christus Jesus selbst als Eckstein."
+                    "passage": "<sup>19</sup>Deshalb seid ihr nicht länger Fremde und ohne Bürgerrecht, sondern ihr gehört zu den Gläubigen , zu Gottes Familie.<sup>20</sup>Wir sind sein Haus, das auf dem Fundament der Apostel und Propheten erbaut ist mit Christus Jesus selbst als Eckstein."
                   },
                   {
                     "id": "popup_pop9",
@@ -309,7 +377,7 @@
                     "id": "popup_pop10",
                     "marker": "2. Korinther 5:16-21",
                     "label": "2. Korinther 5:16-21",
-                    "passage": "<sup>16</sup>Deshalb haben wir aufgehört, andere nach dem zu beurteilen, was die Welt von ihnen hält. Früher habe ich irrtümlich auch Christus so beurteilt – als sei er nur ein Mensch gewesen. Wie anders sehe ich ihn jetzt! <sup>17</sup>Das bedeutet aber, wer mit Christus lebt, wird ein neuer Mensch. Er ist nicht mehr derselbe, denn sein altes Leben ist vorbei. Ein neues Leben hat begonnen! <sup>18</sup>Dieses neue Leben kommt allein von Gott, der uns durch das, was Christus getan hat, zu sich zurückgeholt hat. Und Gott hat uns zur Aufgabe gemacht, Menschen mit ihm zu versöhnen. <sup>19</sup>Denn Gott war in Christus und versöhnte so die Welt mit sich selbst und rechnete den Menschen ihre Sünden nicht mehr an. Das ist die herrliche Botschaft der Versöhnung, die er uns anvertraut hat, damit wir sie anderen verkünden. <sup>20</sup>So sind wir Botschafter Christi, und Gott gebraucht uns, um durch uns zu sprechen. Wir bitten inständig, so, als würde Christus es persönlich tun: »Lasst euch mit Gott versöhnen!« <sup>21</sup>Denn Gott machte Christus, der nie gesündigt hat, zum Opfer für unsere Sünden, damit wir durch ihn vor Gott gerechtfertigt werden können."
+                    "passage": "<sup>16</sup>Deshalb haben wir aufgehört, andere nach dem zu beurteilen, was die Welt von ihnen hält. Früher habe ich irrtümlich auch Christus so beurteilt – als sei er nur ein Mensch gewesen. Wie anders sehe ich ihn jetzt!<sup>17</sup>Das bedeutet aber, wer mit Christus lebt, wird ein neuer Mensch. Er ist nicht mehr derselbe, denn sein altes Leben ist vorbei. Ein neues Leben hat begonnen!<sup>18</sup>Dieses neue Leben kommt allein von Gott, der uns durch das, was Christus getan hat, zu sich zurückgeholt hat. Und Gott hat uns zur Aufgabe gemacht, Menschen mit ihm zu versöhnen.<sup>19</sup>Denn Gott war in Christus und versöhnte so die Welt mit sich selbst und rechnete den Menschen ihre Sünden nicht mehr an. Das ist die herrliche Botschaft der Versöhnung, die er uns anvertraut hat, damit wir sie anderen verkünden.<sup>20</sup>So sind wir Botschafter Christi, und Gott gebraucht uns, um durch uns zu sprechen. Wir bitten inständig, so, als würde Christus es persönlich tun: »Lasst euch mit Gott versöhnen!«<sup>21</sup>Denn Gott machte Christus, der nie gesündigt hat, zum Opfer für unsere Sünden, damit wir durch ihn vor Gott gerechtfertigt werden können."
                   },
                   {
                     "id": "popup_pop11",
@@ -327,7 +395,7 @@
                     "id": "popup_pop13",
                     "marker": "1. Korinther 12:12-13",
                     "label": "1. Korinther 12:12-13",
-                    "passage": "<sup>12</sup>Der menschliche Körper hat viele Glieder und Organe, doch nur gemeinsam machen die vielen Teile den einen Körper aus. So ist es auch bei Christus und seinem Leib. <sup>13</sup>Einige von uns sind Juden, andere Nichtjuden; einige sind Sklaven, andere frei. Aber wir haben alle denselben Geist empfangen und gehören durch die Taufe zum Leib Christi."
+                    "passage": "<sup>12</sup>Der menschliche Körper hat viele Glieder und Organe, doch nur gemeinsam machen die vielen Teile den einen Körper aus. So ist es auch bei Christus und seinem Leib.<sup>13</sup>Einige von uns sind Juden, andere Nichtjuden; einige sind Sklaven, andere frei. Aber wir haben alle denselben Geist empfangen und gehören durch die Taufe zum Leib Christi."
                   },
                   {
                     "id": "popup_pop14",
@@ -351,7 +419,7 @@
                     "id": "popup_pop17",
                     "marker": "1. Johannes 3:1-2",
                     "label": "1. Johannes 3:1-2",
-                    "passage": "<sup>1</sup>Seht, was für eine Liebe unser himmlischer Vater uns geschenkt hat, nämlich, dass wir seine Kinder genannt werden – und das sind wir auch! Doch die Menschen, die zu dieser Welt gehören, kennen Gott nicht; deshalb verstehen sie auch nicht, dass wir seine Kinder sind. <sup>2</sup>Meine lieben Freunde, wir sind schon jetzt die Kinder Gottes, und wie wir sein werden, wenn Christus wiederkommt, das können wir uns nicht einmal vorstellen. Aber wir wissen, dass wir bei seiner Wiederkehr sein werden wie er, denn wir werden ihn sehen, wie er wirklich ist."
+                    "passage": "<sup>1</sup>Seht, was für eine Liebe unser himmlischer Vater uns geschenkt hat, nämlich, dass wir seine Kinder genannt werden – und das sind wir auch! Doch die Menschen, die zu dieser Welt gehören, kennen Gott nicht; deshalb verstehen sie auch nicht, dass wir seine Kinder sind.<sup>2</sup>Meine lieben Freunde, wir sind schon jetzt die Kinder Gottes, und wie wir sein werden, wenn Christus wiederkommt, das können wir uns nicht einmal vorstellen. Aber wir wissen, dass wir bei seiner Wiederkehr sein werden wie er, denn wir werden ihn sehen, wie er wirklich ist."
                   }
                 ],
                 "isOpen": false
@@ -380,8 +448,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p class=\"forward\"> Schau dir deine Gänseblumen-Kette nochmals an.</p>",
-          "<p class=\"forward\">Was zeigt dir Gott für nächste Schritte diese Woche mit Ihm und anderen?</p>"
+          {
+            "text": "Schau dir deine Gänseblumen-Kette nochmals an."
+          },
+          {
+            "text": "Was zeigt dir Gott für nächste Schritte diese Woche mit Ihm und anderen?"
+          }
         ]
       }
     },
@@ -397,8 +469,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p class=\"forward\">Teilt diesen Schritt mit der Gruppe und bitte jemand, für dich zu beten, während du diesen Schritt in der Kraft des Heiligen Geistes tust.</p>",
-          "<p class=\"forward\">Übergebt alle eure Ziele dem Herrn. Bittet den Herrn uns zu helfen, treu zu sein und uns zu verwenden, eine Bewegung von Menschen zu starten, die diesen MyFriends-Lifestyle leben. </p>"
+          {
+            "text": "Teilt diesen Schritt mit der Gruppe und bitte jemand, für dich zu beten, während du diesen Schritt in der Kraft des Heiligen Geistes tust."
+          },
+          {
+            "text": "Übergebt alle eure Ziele dem Herrn. Bittet den Herrn uns zu helfen, treu zu sein und uns zu verwenden, eine Bewegung von Menschen zu starten, die diesen MyFriends-Lifestyle leben."
+          }
         ]
       }
     },

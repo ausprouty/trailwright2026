@@ -33,19 +33,19 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "<li class=\"nobreak\">(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. ({Philippians 2:11}b;&nbsp;\n\n\t\n\t&nbsp;{1 Timothy 2:4-6}a).&nbsp;\n\n\t\n\t</li>",
+                "text": "(Optional) Jesus Christ is Lord, to the glory of God the Father. He wants all men to be saved and to come to the knowledge of the truth. For there is one God and one mediator also between God and man, the man Jesus Christ, who gave himself as a ransom for all. ({Philippians 2:11}b; {1 Timothy 2:4-6}a).",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Philippians 2:11",
                     "label": "Philippians 2:11",
-                    "passage": "<p><sup class=\"versenum\">11&nbsp;</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>\n\t&nbsp;&nbsp;&nbsp;&nbsp;to the glory of God the Father.</p>"
+                    "passage": "<p><sup>11</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>to the glory of God the Father.</p>"
                   },
                   {
                     "id": "popup_pop2",
                     "marker": "1 Timothy 2:4-6",
                     "label": "1 Timothy 2:4-6",
-                    "passage": "<p><sup class=\"versenum\">4&nbsp;</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup class=\"versenum\">5&nbsp;</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup class=\"versenum\">6&nbsp;</sup>who gave himself as a ransom for all people.&nbsp;</p>"
+                    "passage": "<p><sup>4</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup>5</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup>6</sup>who gave himself as a ransom for all people.</p>"
                   }
                 ],
                 "isOpen": false
@@ -74,8 +74,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask each person to tell one highlight and explain one challenge they experienced this week.",
-          "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          {
+            "text": "Ask each person to tell one highlight and explain one challenge they experienced this week."
+          },
+          {
+            "text": "Ask, “What do you want Jesus to do for you this week?” Pray for each other’s needs."
+          }
         ]
       }
     },
@@ -97,7 +101,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          {
+            "text": "Ask, “What happened as you trusted God with your goals and I will statements?”"
+          }
         ]
       }
     },
@@ -119,9 +125,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "a scripture that reminds them of the Father’s Heart and of the end vision.",
-                  "reflecting on the changes in their life since they started following Christ",
-                  "reminding them of what God wants to do through them."
+                  {
+                    "text": "a scripture that reminds them of the Father’s Heart and of the end vision."
+                  },
+                  {
+                    "text": "reflecting on the changes in their life since they started following Christ"
+                  },
+                  {
+                    "text": "reminding them of what God wants to do through them."
+                  }
                 ]
               }
             },
@@ -170,7 +182,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ask the group to tell the story from last week."
+          {
+            "text": "Ask the group to tell the story from last week."
+          }
         ]
       }
     },
@@ -186,7 +200,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read or watch Luke 4:16-30 two times as others listen."
+          {
+            "text": "Read or watch Luke 4:16-30 two times as others listen."
+          }
         ]
       }
     },
@@ -194,7 +210,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Luke 4:16-30",
-        "html": "<!-- begin bible --><p><sup class=\"versenum\">16 </sup>He went to Nazareth, where he had been brought up, and on the Sabbath day he went into the synagogue, as was his custom. He stood up to read,<sup class=\"versenum\">17 </sup>and the scroll of the prophet Isaiah was handed to him. Unrolling it, he found the place where it is written:</p><p><sup class=\"versenum\">18 </sup>“The Spirit of the Lord is on me,<br> because he has anointed me<br> to proclaim good news to the poor.<br> He has sent me to proclaim freedom for the prisoners<br> and recovery of sight for the blind,<br> to set the oppressed free,<br><sup class=\"versenum\">19 </sup> to proclaim the year of the Lord’s favor.”</p><p><sup class=\"versenum\">20 </sup>Then he rolled up the scroll, gave it back to the attendant and sat down. The eyes of everyone in the synagogue were fastened on him.<sup class=\"versenum\">21 </sup>He began by saying to them, “Today this scripture is fulfilled in your hearing.”</p><p><sup class=\"versenum\">22 </sup>All spoke well of him and were amazed at the gracious words that came from his lips. “Isn’t this Joseph’s son?” they asked.</p><p><sup class=\"versenum\">23 </sup>Jesus said to them, “Surely you will quote this proverb to me: ‘Physician, heal yourself!’ And you will tell me, ‘Do here in your hometown what we have heard that you did in Capernaum.’”</p><p><sup class=\"versenum\">24 </sup>“Truly I tell you,” he continued, “no prophet is accepted in his hometown.<sup class=\"versenum\">25 </sup>I assure you that there were many widows in Israel in Elijah’s time, when the sky was shut for three and a half years and there was a severe famine throughout the land.<sup class=\"versenum\">26 </sup>Yet Elijah was not sent to any of them, but to a widow in Zarephath in the region of Sidon.<sup class=\"versenum\">27 </sup>And there were many in Israel with leprosy in the time of Elisha the prophet, yet not one of them was cleansed—only Naaman the Syrian.”</p><p><sup class=\"versenum\">28 </sup>All the people in the synagogue were furious when they heard this.<sup class=\"versenum\">29 </sup>They got up, drove him out of the town, and took him to the brow of the hill on which the town was built, in order to throw him off the cliff.<sup class=\"versenum\">30 </sup>But he walked right through the crowd and went on his way.</p><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<p><sup>16</sup>He went to Nazareth, where he had been brought up, and on the Sabbath day he went into the synagogue, as was his custom. He stood up to read,<sup>17</sup>and the scroll of the prophet Isaiah was handed to him. Unrolling it, he found the place where it is written:</p><p><sup>18</sup>“The Spirit of the Lord is on me,<br> because he has anointed me<br> to proclaim good news to the poor.<br> He has sent me to proclaim freedom for the prisoners<br> and recovery of sight for the blind,<br> to set the oppressed free,<br><sup>19</sup> to proclaim the year of the Lord’s favor.”</p><p><sup>20</sup>Then he rolled up the scroll, gave it back to the attendant and sat down. The eyes of everyone in the synagogue were fastened on him.<sup>21</sup>He began by saying to them, “Today this scripture is fulfilled in your hearing.”</p><p><sup>22</sup>All spoke well of him and were amazed at the gracious words that came from his lips. “Isn’t this Joseph’s son?” they asked.</p><p><sup>23</sup>Jesus said to them, “Surely you will quote this proverb to me: ‘Physician, heal yourself!’ And you will tell me, ‘Do here in your hometown what we have heard that you did in Capernaum.’”</p><p><sup>24</sup>“Truly I tell you,” he continued, “no prophet is accepted in his hometown.<sup>25</sup>I assure you that there were many widows in Israel in Elijah’s time, when the sky was shut for three and a half years and there was a severe famine throughout the land.<sup>26</sup>Yet Elijah was not sent to any of them, but to a widow in Zarephath in the region of Sidon.<sup>27</sup>And there were many in Israel with leprosy in the time of Elisha the prophet, yet not one of them was cleansed—only Naaman the Syrian.”</p><p><sup>28</sup>All the people in the synagogue were furious when they heard this.<sup>29</sup>They got up, drove him out of the town, and took him to the brow of the hill on which the town was built, in order to throw him off the cliff.<sup>30</sup>But he walked right through the crowd and went on his way.</p><p></p>",
         "url": "https://biblegateway.com/passage/?search=Luke%204:16-30&version=NIV",
         "isOpen": false
       }
@@ -224,10 +240,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What caught your attention or what did you like best? Why?",
-          "What is new or has developed at this point in Jesus story?",
-          "What do we learn about the humanity or divinity of Jesus from this passage?",
-          "How can we live differently now that we know this story?"
+          {
+            "text": "What caught your attention or what did you like best? Why?"
+          },
+          {
+            "text": "What is new or has developed at this point in Jesus story?"
+          },
+          {
+            "text": "What do we learn about the humanity or divinity of Jesus from this passage?"
+          },
+          {
+            "text": "How can we live differently now that we know this story?"
+          }
         ]
       }
     },
@@ -242,8 +266,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "What are his followers learning?",
-          "What is Jesus modeling to us about life and ministry or godly leadership?"
+          {
+            "text": "What are his followers learning?"
+          },
+          {
+            "text": "What is Jesus modeling to us about life and ministry or godly leadership?"
+          }
         ]
       }
     },
@@ -266,7 +294,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
         ]
       }
     },
@@ -321,7 +351,23 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Practice needed skills or previous topics to help prepare to minister to others: <ul><li>Prayer, Care, Share</li><li>Gospel</li><li>Foundational Bible Studies.</li></ul>"
+          {
+            "text": "Practice needed skills or previous topics to help prepare to minister to others:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Prayer, Care, Share"
+                },
+                {
+                  "text": "Gospel"
+                },
+                {
+                  "text": "Foundational Bible Studies."
+                }
+              ]
+            }
+          }
         ]
       }
     },
@@ -337,8 +383,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Identify people or places you will take the initiative to minister to this week.",
-          "Write “I will by when” statements and share with your small group."
+          {
+            "text": "Identify people or places you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
         ]
       }
     },
@@ -361,7 +411,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
         ]
       }
     },

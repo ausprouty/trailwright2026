@@ -39,8 +39,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "zu der Person zu werden, die er in anderen multipliziert sehen wollte",
-          "ein gottgefälliges Leben zu führen und eine multiplikative Bewegung vorzubereiten"
+          {
+            "text": "zu der Person zu werden, die er in anderen multipliziert sehen wollte"
+          },
+          {
+            "text": "ein gottgefälliges Leben zu führen und eine multiplikative Bewegung vorzubereiten"
+          }
         ]
       }
     },

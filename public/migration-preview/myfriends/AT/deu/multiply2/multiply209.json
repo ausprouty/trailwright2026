@@ -47,9 +47,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?",
-          "Wo brauchst du Gottes Hilfe?",
-          "Wie kann dir praktisch geholfen werden?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt und wofür bist du dankbar?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe?"
+          },
+          {
+            "text": "Wie kann dir praktisch geholfen werden?"
+          }
         ]
       }
     },
@@ -65,10 +71,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?",
-          "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte.",
-          "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?",
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Was hast du erlebt, als du deine Challenge vom letzten Treffen umgesetzt hast?"
+          },
+          {
+            "text": "Wie geht es den Menschen, die dir besonders am Herzen liegen? Frag Gott, was er am Tun ist und wie er ihnen seine Liebe durch dich zeigen möchte."
+          },
+          {
+            "text": "Wem konntest du von einem Gotteserlebnis oder vom Entdeckten erzählen? Mit wem konntest du beten?"
+          },
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -99,9 +113,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (geschlossene Bibel)."
+          }
         ]
       }
     },
@@ -121,7 +141,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Johannes 2:1-11",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Am übernächsten Tag war die Mutter von Jesus bei einer Hochzeitsfeier in Kana, einem Dorf in Galiläa. <sup>2</sup>Auch Jesus und seine Jünger waren zu der Feier eingeladen. <sup>3</sup>Während des Festes ging der Wein aus, und die Mutter von Jesus machte ihn darauf aufmerksam. »Sie haben keinen Wein mehr«, sagte sie zu ihm. <sup>4</sup>»Was hat das mit mir und dir zu tun?«, fragte Jesus. »Meine Zeit ist noch nicht gekommen.« <sup>5</sup>Doch seine Mutter wies die Diener an: »Tut, was immer er euch befiehlt.« <sup>6</sup>Im Haus gab es sechs steinerne Wasserbehälter, die für die vorgeschriebenen Reinigungshandlungen der Juden verwendet wurden und jeweils rund hundert Liter fassten. <sup>7</sup>Jesus sprach zu den Dienern: »Füllt die Krüge mit Wasser.« Als sie die Krüge bis zum Rand gefüllt hatten, <sup>8</sup>sagte er: »Schöpft daraus und bringt es dem Zeremonienmeister.« Sie folgten seiner Anweisung. <sup>9</sup>Der Zeremonienmeister kostete von dem Wasser, das nun Wein war. Da er nicht wusste, woher der Wein kam – denn nur die Diener, die ihn geschöpft hatten, wussten es –, ließ er den Bräutigam holen. <sup>10</sup>»Eigentlich schenkt ein Gastgeber den besseren Wein zuerst aus«, sagte er. »Später, wenn alle betrunken sind und es ihnen nichts mehr ausmacht, holt er den weniger guten. Du dagegen hast den besten Wein bis jetzt zurückbehalten!« <sup>11</sup>Durch dieses Wunder in Kana in Galiläa zeigte Jesus zum ersten Mal seine Herrlichkeit. Und seine Jünger glaubten an ihn. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>1</sup>Am übernächsten Tag war die Mutter von Jesus bei einer Hochzeitsfeier in Kana, einem Dorf in Galiläa. <sup>2</sup>Auch Jesus und seine Jünger waren zu der Feier eingeladen. <sup>3</sup>Während des Festes ging der Wein aus, und die Mutter von Jesus machte ihn darauf aufmerksam. »Sie haben keinen Wein mehr«, sagte sie zu ihm. <sup>4</sup>»Was hat das mit mir und dir zu tun?«, fragte Jesus. »Meine Zeit ist noch nicht gekommen.« <sup>5</sup>Doch seine Mutter wies die Diener an: »Tut, was immer er euch befiehlt.« <sup>6</sup>Im Haus gab es sechs steinerne Wasserbehälter, die für die vorgeschriebenen Reinigungshandlungen der Juden verwendet wurden und jeweils rund hundert Liter fassten. <sup>7</sup>Jesus sprach zu den Dienern: »Füllt die Krüge mit Wasser.« Als sie die Krüge bis zum Rand gefüllt hatten, <sup>8</sup>sagte er: »Schöpft daraus und bringt es dem Zeremonienmeister.« Sie folgten seiner Anweisung. <sup>9</sup>Der Zeremonienmeister kostete von dem Wasser, das nun Wein war. Da er nicht wusste, woher der Wein kam – denn nur die Diener, die ihn geschöpft hatten, wussten es –, ließ er den Bräutigam holen. <sup>10</sup>»Eigentlich schenkt ein Gastgeber den besseren Wein zuerst aus«, sagte er. »Später, wenn alle betrunken sind und es ihnen nichts mehr ausmacht, holt er den weniger guten. Du dagegen hast den besten Wein bis jetzt zurückbehalten!« <sup>11</sup>Durch dieses Wunder in Kana in Galiläa zeigte Jesus zum ersten Mal seine Herrlichkeit. Und seine Jünger glaubten an ihn. </div><p></p>",
         "url": "https://bibleserver.com/NLB/Johannes%202:1-11",
         "isOpen": false
       }
@@ -151,9 +171,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?",
-          "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?",
-          "Was entdeckst du über Gott?"
+          {
+            "text": "Ist dir im Text etwas Besonderes aufgefallen? Was gefällt dir und was stört dich? Warum?"
+          },
+          {
+            "text": "Was kannst du aus diesem Text über Jesus lernen? Was kannst du über seine Jünger lernen?"
+          },
+          {
+            "text": "Was entdeckst du über Gott?"
+          }
         ]
       }
     },
@@ -202,8 +228,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es: <ul><li>eine Veränderung deines Verhaltens?</li><li>ein Versprechen, das zu machen und zu erfüllen ist?</li><li>ein Beispiel, dem es zu folgen gilt?</li><li>ein Gebot, dem du gehorchen sollst?</li></ul>",
-          "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          {
+            "text": "Frage Gott, wie du auf diesen Text reagieren sollst. Braucht es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Veränderung deines Verhaltens?"
+                },
+                {
+                  "text": "ein Versprechen, das zu machen und zu erfüllen ist?"
+                },
+                {
+                  "text": "ein Beispiel, dem es zu folgen gilt?"
+                },
+                {
+                  "text": "ein Gebot, dem du gehorchen sollst?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Was wirst du bis zum nächsten Treffen umsetzen? Formuliere einen Satz: “Ich werde bis ...\""
+          }
         ]
       }
     },
@@ -219,7 +266,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          {
+            "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
+          }
         ]
       }
     },

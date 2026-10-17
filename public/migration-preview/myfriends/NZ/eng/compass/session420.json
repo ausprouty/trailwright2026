@@ -22,22 +22,31 @@
       "data": {
         "style": "ordered",
         "items": [
-          "What did you experience with God this week?",
-          "In the last few days, did you have the opportunity to share an experience with God with someone close to you that doesn’t know Jesus yet? Or could you pray for them or help them practically?",
-          "Do you need God‘s help in an area of your life?"
+          {
+            "text": "What did you experience with God this week?"
+          },
+          {
+            "text": "In the last few days, did you have the opportunity to share an experience with God with someone close to you that doesn’t know Jesus yet? Or could you pray for them or help them practically?"
+          },
+          {
+            "text": "Do you need God‘s help in an area of your life?"
+          }
         ]
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "▶ Pray together: Give thanks for your experiences, ask God for help where you need it."
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "▶ Pray together to learn new things about God and that your relationship with God deepens and gets stronger."
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Pray together: Give thanks for your experiences, ask God for help where\nyou need it."
+          },
+          {
+            "icon": "triangle-right",
+            "text": "Pray together to learn new things about God and that your relationship\nwith God deepens and gets stronger."
+          }
+        ]
       }
     },
     {
@@ -60,10 +69,18 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Read the passage silently. What words or phrases stick out?",
-          "One person reads the passage out loud.",
-          "One person retells the passage in his/her own words (Bibles closed).",
-          "If necessary, the others complement what was said (Bibles closed)."
+          {
+            "text": "Read the passage silently. What words or phrases stick out?"
+          },
+          {
+            "text": "One person reads the passage out loud."
+          },
+          {
+            "text": "One person retells the passage in his/her own words (Bibles closed)."
+          },
+          {
+            "text": "If necessary, the others complement what was said (Bibles closed)."
+          }
         ]
       }
     },
@@ -71,7 +88,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthew 5:23-24",
-        "html": "<sup>23</sup>“Therefore, if you are offering your gift at the altar and there remember that your brother or sister has something against you,<sup>24</sup>leave your gift there in front of the altar. First go and be reconciled to them; then come and offer your gift. <p class=\"bible\"><br><br></p>",
+        "html": "<sup>23</sup>“Therefore, if you are offering your gift at the altar and there remember that your brother or sister has something against you,<sup>24</sup>leave your gift there in front of the altar. First go and be reconciled to them; then come and offer your gift.",
         "url": "https://biblegateway.com/passage/?search=Matthew%205:23-24&version=TNIV",
         "isOpen": false
       }
@@ -81,8 +98,29 @@
       "data": {
         "style": "ordered",
         "items": [
-          "Everyone by themselves:<ul class=\"arrows\"><li> What words or phrases stick out now? Are there any differences to what you noticed before? </li><li>Why do you feel drawn to those words or phrases?</li><li>What could God be telling you?</li><li>What can you learn about mankind?</li></ul>",
-          "Share in the group."
+          {
+            "text": "Everyone by themselves:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "What words or phrases stick out now? Are there any differences to what you noticed before?"
+                },
+                {
+                  "text": "Why do you feel drawn to those words or phrases?"
+                },
+                {
+                  "text": "What could God be telling you?"
+                },
+                {
+                  "text": "What can you learn about mankind?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Share in the group."
+          }
         ]
       }
     },
@@ -106,8 +144,12 @@
       "data": {
         "style": "ordered",
         "items": [
-          "How do you usually react to a conflict? Do you rather ignore or postpone a sensible response or do you tackle it?",
-          "What is Jesus’ advice? Why?"
+          {
+            "text": "How do you usually react to a conflict? Do you rather ignore or postpone a sensible response or do you tackle it?"
+          },
+          {
+            "text": "What is Jesus’ advice? Why?"
+          }
         ]
       }
     },
@@ -118,9 +160,14 @@
       }
     },
     {
-      "type": "paragraph",
+      "type": "iconList",
       "data": {
-        "text": "<span class=\"unknown\"> ▶ Are you currently experiencing a conflict in a relationship where you should take initiative? Pray in groups of 2-3 people for courage, wisdom and love so that you can approach the person concerned in the right way. </span>"
+        "items": [
+          {
+            "icon": "triangle-right",
+            "text": "Are you currently experiencing a conflict in a relationship where you\nshould take initiative? Pray in groups of 2-3 people for courage, wisdom\nand love so that you can approach the person concerned in the right way."
+          }
+        ]
       }
     },
     {
@@ -163,7 +210,7 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "<span class=\"unknown\"> Some other Bible verses about conflict resolution: </span>"
+                "text": "Some other Bible verses about conflict resolution:"
               }
             },
             {
@@ -171,9 +218,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Colossians 3:13",
-                  "Romans 12:17-21",
-                  "James 1:19"
+                  {
+                    "text": "Colossians 3:13"
+                  },
+                  {
+                    "text": "Romans 12:17-21"
+                  },
+                  {
+                    "text": "James 1:19"
+                  }
                 ]
               }
             },

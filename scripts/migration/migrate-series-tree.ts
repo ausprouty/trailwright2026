@@ -79,7 +79,7 @@ type Transformer = (html: string, context: MigrationContext) => unknown;
 
 async function loadTransformer(series: string): Promise<Transformer> {
   if (series === 'life') {
-    const module = await import('./life/transformLife');
+    const module = await import('./life/transformMyfriends');
     return module.transformLife as Transformer;
   }
 

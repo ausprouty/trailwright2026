@@ -13,7 +13,7 @@ export type TransformContext = {
   sortOrder: number;
 };
 
-export function transformBasics(html: string, context: TransformContext) {
+export function transformMyfriends(html: string, context: TransformContext) {
   const json = migrateOldLessonHtmlToEditorJs(html, {
     includeTime: true,
     includeVersion: true,

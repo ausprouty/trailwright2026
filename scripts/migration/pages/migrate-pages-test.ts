@@ -2,8 +2,8 @@
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { transformMultiply } from './transformMultiply';
-import type { TransformContext } from './transformMultiply';
+import { transformMyfriends } from './transformMyfriends';
+import type { TransformContext } from './transformMyfriends';
 
 const PROJECT_ROOT = process.cwd();
 const RAW_ROOT = path.join(PROJECT_ROOT, 'data', 'raw');
@@ -101,7 +101,7 @@ async function migratePageDirectory(pageDir: PageDirectory): Promise<number> {
     const previewPath = path.join(previewDir, jsonFileName);
 
     const html = await fs.readFile(sourcePath, 'utf8');
-    const json = transformMultiply(html, {
+    const json = transformMyfriends(html, {
       site,
       country: country as TransformContext['country'],
       language,

@@ -1,6 +1,6 @@
 import type { AnyEditorJsBlock, SectionTheme } from 'src/types/content/MigrationTypes';
 import type { IconListItem } from 'src/types/content/IconListBlock';
-import { buildCollapsibleGroupBlock } from './migrateMultiplyLessonHtml';
+import { buildCollapsibleGroupBlock } from './migrateOldLessonHtml';
 type NotesTarget =
   | 'bible-commentary'
   | 'bible-study'

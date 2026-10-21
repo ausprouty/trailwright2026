@@ -6,7 +6,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { exec } from 'node:child_process';
-import { transformLife } from './transformLife';
+import { transformLife } from './transformMyfriends';
 import { normalizeLessonBlocks } from './normalizeLessonBlocks';
 
 const PROJECT_ROOT = process.cwd();

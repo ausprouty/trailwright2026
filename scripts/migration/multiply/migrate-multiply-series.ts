@@ -5,7 +5,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { exec } from 'node:child_process';
-import { transformMultiply } from './transformMultiply';
+import { transformMyfriends } from './transformMyfriends';
 import type { MyFriendsCountry } from '../createLessonJson';
 
 const PROJECT_ROOT = process.cwd();
@@ -72,10 +72,7 @@ async function readMigrationIndex(): Promise<MigrationIndex> {
   return JSON.parse(raw) as MigrationIndex;
 }
 
-function findSeriesTargets(
-  migrationIndex: MigrationIndex,
-  series: string,
-): MigrationTarget[] {
+function findSeriesTargets(migrationIndex: MigrationIndex, series: string): MigrationTarget[] {
   const targets: MigrationTarget[] = [];
 
   for (const [country, languages] of Object.entries(migrationIndex)) {
@@ -94,30 +91,21 @@ function findSeriesTargets(
   return targets;
 }
 
-async function readSeriesIndex(
-  processedDir: string,
-): Promise<SeriesIndexJson> {
+async function readSeriesIndex(processedDir: string): Promise<SeriesIndexJson> {
   const indexPath = path.join(processedDir, 'index.json');
 
   const raw = await fs.readFile(indexPath, 'utf8');
   const json = JSON.parse(raw) as SeriesIndexJson;
 
   if (!Array.isArray(json.chapters)) {
-    throw new Error(
-      `Invalid series index. No chapters array found: ${indexPath}`,
-    );
+    throw new Error(`Invalid series index. No chapters array found: ${indexPath}`);
   }
 
   return json;
 }
 
-function getSortOrder(
-  seriesIndex: SeriesIndexJson,
-  lessonName: string,
-): number {
-  const chapter = seriesIndex.chapters.find(
-    (item) => item.filename === lessonName,
-  );
+function getSortOrder(seriesIndex: SeriesIndexJson, lessonName: string): number {
+  const chapter = seriesIndex.chapters.find((item) => item.filename === lessonName);
 
   if (!chapter) {
     throw new Error(`Could not find lesson in index.json: ${lessonName}`);
@@ -130,19 +118,8 @@ function getSortOrder(
   return chapter.id;
 }
 
-async function migrateTarget(
-  country: MyFriendsCountry,
-  language: string,
-): Promise<string[]> {
-  const sourceDir = path.join(
-    PROJECT_ROOT,
-    'data',
-    'raw',
-    SITE,
-    country,
-    language,
-    SERIES,
-  );
+async function migrateTarget(country: MyFriendsCountry, language: string): Promise<string[]> {
+  const sourceDir = path.join(PROJECT_ROOT, 'data', 'raw', SITE, country, language, SERIES);
 
   const processedDir = path.join(
     PROJECT_ROOT,
@@ -181,11 +158,7 @@ async function migrateTarget(
   }
 
   const htmlFiles = entries
-    .filter(
-      (entry) =>
-        entry.isFile() &&
-        isSeriesHtmlFile(entry.name),
-    )
+    .filter((entry) => entry.isFile() && isSeriesHtmlFile(entry.name))
     .map((entry) => entry.name)
     .sort((a, b) =>
       a.localeCompare(b, undefined, {
@@ -213,27 +186,15 @@ async function migrateTarget(
     const jsonFileName = toJsonFileName(fileName);
     const lessonName = toLessonName(fileName);
 
-    const sortOrder = getSortOrder(
-      seriesIndex,
-      lessonName,
-    );
+    const sortOrder = getSortOrder(seriesIndex, lessonName);
 
-    const processedPath = path.join(
-      processedDir,
-      jsonFileName,
-    );
+    const processedPath = path.join(processedDir, jsonFileName);
 
-    const previewPath = path.join(
-      previewDir,
-      jsonFileName,
-    );
+    const previewPath = path.join(previewDir, jsonFileName);
 
-    const html = await fs.readFile(
-      sourcePath,
-      'utf8',
-    );
+    const html = await fs.readFile(sourcePath, 'utf8');
 
-    const json = transformMultiply(html, {
+    const json = transformMyfriends(html, {
       site: SITE,
       country,
       language,
@@ -243,69 +204,39 @@ async function migrateTarget(
       sortOrder,
     });
 
-    const jsonText =
-      `${JSON.stringify(json, null, 2)}\n`;
+    const jsonText = `${JSON.stringify(json, null, 2)}\n`;
 
-    await fs.writeFile(
-      processedPath,
-      jsonText,
-      'utf8',
-    );
+    await fs.writeFile(processedPath, jsonText, 'utf8');
 
-    await fs.writeFile(
-      previewPath,
-      jsonText,
-      'utf8',
-    );
+    await fs.writeFile(previewPath, jsonText, 'utf8');
 
     lessons.push(lessonName);
 
-    console.log(
-      `  ${fileName} -> sortOrder ${sortOrder}`,
-    );
+    console.log(`  ${fileName} -> sortOrder ${sortOrder}`);
   }
 
-  const previewIndexPath = path.join(
-    previewDir,
-    'index.json',
-  );
+  const previewIndexPath = path.join(previewDir, 'index.json');
 
-  await fs.writeFile(
-    previewIndexPath,
-    `${JSON.stringify(lessons, null, 2)}\n`,
-    'utf8',
-  );
+  await fs.writeFile(previewIndexPath, `${JSON.stringify(lessons, null, 2)}\n`, 'utf8');
 
-  console.log(
-    `Wrote ${previewIndexPath}`,
-  );
+  console.log(`Wrote ${previewIndexPath}`);
 
   return lessons;
 }
 
 async function run(): Promise<void> {
-  const migrationIndex =
-    await readMigrationIndex();
+  const migrationIndex = await readMigrationIndex();
 
-  const targets = findSeriesTargets(
-    migrationIndex,
-    SERIES,
-  );
+  const targets = findSeriesTargets(migrationIndex, SERIES);
 
   if (targets.length === 0) {
-    throw new Error(
-      `Series "${SERIES}" was not found in ${MASTER_INDEX_PATH}`,
-    );
+    throw new Error(`Series "${SERIES}" was not found in ${MASTER_INDEX_PATH}`);
   }
 
-  console.log(
-    `Series "${SERIES}" found in ${targets.length} country/language combinations:`,
-  );
+  console.log(`Series "${SERIES}" found in ${targets.length} country/language combinations:`);
 
   for (const target of targets) {
-    console.log(
-      `  ${target.country}/${target.language}`,
-    );
+    console.log(`  ${target.country}/${target.language}`);
   }
 
   let firstPreview:
@@ -317,10 +248,7 @@ async function run(): Promise<void> {
     | undefined;
 
   for (const target of targets) {
-    const lessons = await migrateTarget(
-      target.country,
-      target.language,
-    );
+    const lessons = await migrateTarget(target.country, target.language);
 
     if (!firstPreview && lessons[0]) {
       firstPreview = {
@@ -332,9 +260,7 @@ async function run(): Promise<void> {
   }
 
   console.log('');
-  console.log(
-    `Finished migrating ${SERIES}.`,
-  );
+  console.log(`Finished migrating ${SERIES}.`);
 
   if (firstPreview) {
     openBrowser(

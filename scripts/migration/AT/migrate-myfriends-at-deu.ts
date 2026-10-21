@@ -3,7 +3,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { exec } from 'node:child_process';
-import { transformMultiply } from './transformMultiply';
+import { transformMyfriends } from './transformMyfriends';
 import type { MyFriendsCountry } from '../createLessonJson';
 
 const PROJECT_ROOT = process.cwd();
@@ -199,7 +199,7 @@ async function migrateTarget(
       throw error;
     }
 
-    const json = transformMultiply(html, {
+    const json = transformMyfriends(html, {
       site: SITE,
       country,
       language,

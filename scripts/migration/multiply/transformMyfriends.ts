@@ -1,4 +1,4 @@
-import { migrateOldLessonHtmlToEditorJs } from './migrateMultiplyLessonHtml';
+import { migrateOldLessonHtmlToEditorJs } from './migrateOldLessonHtml';
 import { normalizeLessonBlocks } from './normalizeLessonBlocks';
 import { createLessonJson } from '../createLessonJson';
 import type { MyFriendsCountry } from '../createLessonJson';
@@ -13,7 +13,7 @@ export type TransformContext = {
   sortOrder: number;
 };
 
-export function transformMultiply(html: string, context: TransformContext) {
+export function transformMyfriends(html: string, context: TransformContext) {
   const json = migrateOldLessonHtmlToEditorJs(html, {
     includeTime: true,
     includeVersion: true,

@@ -3,7 +3,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { exec } from 'node:child_process';
-import { transformBasics } from './transformBasics';
+import { transformBasics } from './transformMyfriends';
 
 const PROJECT_ROOT = process.cwd();
 

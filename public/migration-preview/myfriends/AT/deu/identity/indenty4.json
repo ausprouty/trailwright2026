@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "identity-indenty4-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Römer 8,9-17",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>9</sup>Ihr aber werdet nicht mehr von eurer sündigen Natur, sondern vom Geist Gottes beherrscht, wenn Gottes Geist in euch lebt. Wer aber den Geist von Christus nicht hat, der gehört nicht zu Christus. <!--]--><!--[--><sup>10</sup>Da Christus in euch lebt, wird zwar euer Körper aufgrund der Sünde sterben, aber durch den Geist empfangt ihr Leben, weil ihr von Gott gerecht gesprochen wurdet. <!--]--><!--[--><sup>11</sup>Der Geist Gottes, der Jesus von den Toten auferweckt hat, lebt in euch. Und so wie er Christus von den Toten auferweckte, wird er auch euren sterblichen Körper durch denselben Geist lebendig machen, der in euch lebt. <!--]--><!--[--><sup>12</sup>Liebe Brüder, ihr seid also nicht mehr dazu gezwungen, euch von den Wünschen eurer menschlichen Natur beherrschen zu lassen.<!--]--><!--[--><sup>13</sup>Denn wenn ihr euch weiter von ihr bestimmen lasst, werdet ihr sterben. Wenn ihr euch aber durch die Kraft des Heiligen Geistes von eurem alten Wesen und den bösen Taten abwendet, werdet ihr leben. <!--]--><!--[--><sup>14</sup>Denn alle, die vom Geist Gottes bestimmt werden, sind Kinder Gottes. <!--]--><!--[--><sup>15</sup>Deshalb verhaltet euch nicht wie ängstliche Sklaven. Wir sind doch Kinder Gottes geworden und dürfen ihn »Abba, Vater« rufen. <!--]--><!--[--><sup>16</sup>Denn der Geist Gottes selbst bestätigt uns tief im Herzen, dass wir Gottes Kinder sind. <!--]--><!--[--><sup>17</sup>Und als seine Kinder sind wir auch Miterben an seinem Reichtum – denn alles, was Gott seinem Sohn Christus gibt, gehört auch uns. Doch wenn wir an seiner Herrlichkeit teilhaben wollen, müssen wir auch seine Leiden mit ihm teilen. <!--]--><!--[--><h4 class=\"bible\"></h4><!-- end bible --></div><!-- end bible -->",
+        "html": "<div><sup>9</sup>Ihr aber werdet nicht mehr von eurer sündigen Natur, sondern vom Geist Gottes beherrscht, wenn Gottes Geist in euch lebt. Wer aber den Geist von Christus nicht hat, der gehört nicht zu Christus. <sup>10</sup>Da Christus in euch lebt, wird zwar euer Körper aufgrund der Sünde sterben, aber durch den Geist empfangt ihr Leben, weil ihr von Gott gerecht gesprochen wurdet. <sup>11</sup>Der Geist Gottes, der Jesus von den Toten auferweckt hat, lebt in euch. Und so wie er Christus von den Toten auferweckte, wird er auch euren sterblichen Körper durch denselben Geist lebendig machen, der in euch lebt. <sup>12</sup>Liebe Brüder, ihr seid also nicht mehr dazu gezwungen, euch von den Wünschen eurer menschlichen Natur beherrschen zu lassen.<sup>13</sup>Denn wenn ihr euch weiter von ihr bestimmen lasst, werdet ihr sterben. Wenn ihr euch aber durch die Kraft des Heiligen Geistes von eurem alten Wesen und den bösen Taten abwendet, werdet ihr leben. <sup>14</sup>Denn alle, die vom Geist Gottes bestimmt werden, sind Kinder Gottes. <sup>15</sup>Deshalb verhaltet euch nicht wie ängstliche Sklaven. Wir sind doch Kinder Gottes geworden und dürfen ihn »Abba, Vater« rufen. <sup>16</sup>Denn der Geist Gottes selbst bestätigt uns tief im Herzen, dass wir Gottes Kinder sind. <sup>17</sup>Und als seine Kinder sind wir auch Miterben an seinem Reichtum – denn alles, was Gott seinem Sohn Christus gibt, gehört auch uns. Doch wenn wir an seiner Herrlichkeit teilhaben wollen, müssen wir auch seine Leiden mit ihm teilen. <h3></h3> </div>",
         "url": "https://bibleserver.com/NLB/Römer%208,9-17",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "identity-indenty4-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

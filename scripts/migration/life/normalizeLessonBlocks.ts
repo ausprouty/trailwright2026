@@ -6,28 +6,6 @@ type NormalizeLessonBlocksOptions = {
   keyPrefix: string;
 };
 
-export function normalizeLessonBlocks(
-  blocks: AnyEditorJsBlock[],
-  options: NormalizeLessonBlocksOptions,
-): AnyEditorJsBlock[] {
-  const result: AnyEditorJsBlock[] = [];
-
-  for (const block of blocks) {
-    if (isSectionMarker(block, 'up')) {
-      ensureNotesAreaBeforeSection(result, 'look-up', options.keyPrefix);
-    }
-
-    if (isSectionMarker(block, 'forward')) {
-      ensureNotesAreaBeforeSection(result, 'look-forward', options.keyPrefix);
-    }
-
-    result.push(block);
-  }
-
-  ensureFinalIWillBlock(result, options.keyPrefix);
-
-  return result;
-}
 
 function ensureNotesAreaBeforeSection(
   blocks: AnyEditorJsBlock[],
@@ -101,6 +79,18 @@ function isIgnorableBlock(block: AnyEditorJsBlock): boolean {
 
   return text === '';
 }
+function renumberNotesSequentially(blocks: AnyEditorJsBlock[]): void {
+  let noteNumber = 1;
+
+  for (const block of blocks) {
+    if (block.type !== 'notesArea') {
+      continue;
+    }
+
+    block.data.storageKey = `note-${noteNumber}`;
+    noteNumber += 1;
+  }
+}
 
 function stripHtml(text: string): string {
   return text.replace(/<[^>]*>/g, ' ');
@@ -123,4 +113,28 @@ function buildIWillBlock(storageKey: string): AnyEditorJsBlock {
       storageKey,
     },
   };
+}
+
+export function normalizeLessonBlocks(
+  blocks: AnyEditorJsBlock[],
+  options: NormalizeLessonBlocksOptions,
+): AnyEditorJsBlock[] {
+  const result: AnyEditorJsBlock[] = [];
+
+  for (const block of blocks) {
+    if (isSectionMarker(block, 'up')) {
+      ensureNotesAreaBeforeSection(result, 'look-up', options.keyPrefix);
+    }
+
+    if (isSectionMarker(block, 'forward')) {
+      ensureNotesAreaBeforeSection(result, 'look-forward', options.keyPrefix);
+    }
+
+    result.push(block);
+  }
+
+  ensureFinalIWillBlock(result, options.keyPrefix);
+  renumberNotesSequentially(result);
+
+  return result;
 }

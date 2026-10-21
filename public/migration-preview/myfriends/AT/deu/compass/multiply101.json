@@ -41,7 +41,9 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Für was können wir Gott heute danken oder ihn loben?"
+                  {
+                    "text": "Für was können wir Gott heute danken oder ihn loben?"
+                  }
                 ]
               }
             }
@@ -68,9 +70,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was lief bei dir gut diese Woche?",
-          "Was war schwierig für dich vergangene Woche?",
-          "Wo brauchst du Gottes Hilfe in deinem Leben?"
+          {
+            "text": "Was lief bei dir gut diese Woche?"
+          },
+          {
+            "text": "Was war schwierig für dich vergangene Woche?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe in deinem Leben?"
+          }
         ]
       }
     },
@@ -86,9 +94,32 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was konntest du seit unserem letzten Treffen umsetzen?",
-          "Wie hast du Gottes Wirken durch dein Leben diese Woche erlebt?",
-          "War es dir möglich: <ul><li>jemanden zu erzählen, wie Gott in deinem Leben wirkt?</li><li>eine Bibelstelle mit jemanden zu teilen?</li><li>jemandem praktisch zu helfen?</li><li>mit jemanden zu beten?</li></ul>"
+          {
+            "text": "Was konntest du seit unserem letzten Treffen umsetzen?"
+          },
+          {
+            "text": "Wie hast du Gottes Wirken durch dein Leben diese Woche erlebt?"
+          },
+          {
+            "text": "War es dir möglich:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "jemanden zu erzählen, wie Gott in deinem Leben wirkt?"
+                },
+                {
+                  "text": "eine Bibelstelle mit jemanden zu teilen?"
+                },
+                {
+                  "text": "jemandem praktisch zu helfen?"
+                },
+                {
+                  "text": "mit jemanden zu beten?"
+                }
+              ]
+            }
+          }
         ]
       }
     },
@@ -96,7 +127,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-9"
+        "storageKey": "note-1"
       }
     },
     {
@@ -130,7 +161,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -180,23 +211,23 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich oder seht euch das Video an.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+          {
+            "text": "Jeder liest den Text für sich oder seht euch das Video an."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+          }
         ]
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
       }
     },
     {
       "type": "biblePassage",
       "data": {
         "reference": "Johannes 10:22-30",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>22</sup>Inzwischen war es Winter. Jesus war zum Fest der Tempelweihe nach Jerusalem gereist. <sup>23</sup>Nun hielt er sich im Tempel auf, in dem Bereich der Säulenhalle Salomos. <sup>24</sup>Da umringten ihn die Juden und fragten: »Wie lange willst du uns noch hinhalten? Wenn du der Christus bist, dann sag es uns offen.« <sup>25</sup>Jesus erwiderte: »Ich habe es euch bereits gesagt, aber ihr glaubt mir nicht. Alles, was ich im Namen meines Vaters tue, beweist, wer ich bin. <sup>26</sup>Aber ihr glaubt mir nicht, weil ihr nicht zu meiner Herde gehört. <sup>27</sup>Meine Schafe hören auf meine Stimme; ich kenne sie, und sie folgen mir. <sup>28</sup>Ich schenke ihnen das ewige Leben, und sie werden niemals umkommen. Niemand wird sie mir entreißen, <sup>29</sup>denn mein Vater hat sie mir gegeben, und er ist mächtiger als alles andere. Und niemand kann sie aus der Hand des Vaters reißen. <sup>30</sup>Der Vater und ich sind eins.« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>22</sup>Inzwischen war es Winter. Jesus war zum Fest der Tempelweihe nach Jerusalem gereist. <sup>23</sup>Nun hielt er sich im Tempel auf, in dem Bereich der Säulenhalle Salomos. <sup>24</sup>Da umringten ihn die Juden und fragten: »Wie lange willst du uns noch hinhalten? Wenn du der Christus bist, dann sag es uns offen.« <sup>25</sup>Jesus erwiderte: »Ich habe es euch bereits gesagt, aber ihr glaubt mir nicht. Alles, was ich im Namen meines Vaters tue, beweist, wer ich bin. <sup>26</sup>Aber ihr glaubt mir nicht, weil ihr nicht zu meiner Herde gehört. <sup>27</sup>Meine Schafe hören auf meine Stimme; ich kenne sie, und sie folgen mir. <sup>28</sup>Ich schenke ihnen das ewige Leben, und sie werden niemals umkommen. Niemand wird sie mir entreißen, <sup>29</sup>denn mein Vater hat sie mir gegeben, und er ist mächtiger als alles andere. Und niemand kann sie aus der Hand des Vaters reißen. <sup>30</sup>Der Vater und ich sind eins.« </div>",
         "url": "https://bibleserver.com/NLB/Johannes%2010:22-30",
         "isOpen": false
       }
@@ -226,13 +257,44 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hat eure Aufmerksamkeit geweckt oder was hat dir am besten gefallen? Warum?",
-          "Was sagt dir diese Stelle über die Menschen?",
-          "Was sagt dir diese Stelle über Jesus?",
-          "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden?",
-          "Gibt es: <ul><li>eine Verhaltensweise zu ändern?</li><li>ein Versprechen einzuhalten?</li><li>ein Beispiel zum folgen?</li><li>ein Gebot zu befolgen?</li></ul>",
-          "Frag Gott, was er von dir als Antwort auf diese Bibelstelle möchte. Schreibe ein „Ich werde…“ Statement auf.",
-          "Teile dieses mit der Gruppe und bitte eine/einen für das nächste Treffen mitzuschreiben."
+          {
+            "text": "Was hat eure Aufmerksamkeit geweckt oder was hat dir am besten gefallen? Warum?"
+          },
+          {
+            "text": "Was sagt dir diese Stelle über die Menschen?"
+          },
+          {
+            "text": "Was sagt dir diese Stelle über Jesus?"
+          },
+          {
+            "text": "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden?"
+          },
+          {
+            "text": "Gibt es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Verhaltensweise zu ändern?"
+                },
+                {
+                  "text": "ein Versprechen einzuhalten?"
+                },
+                {
+                  "text": "ein Beispiel zum folgen?"
+                },
+                {
+                  "text": "ein Gebot zu befolgen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Frag Gott, was er von dir als Antwort auf diese Bibelstelle möchte. Schreibe ein „Ich werde…“ Statement auf."
+          },
+          {
+            "text": "Teile dieses mit der Gruppe und bitte eine/einen für das nächste Treffen mitzuschreiben."
+          }
         ]
       }
     },
@@ -240,7 +302,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-20"
+        "storageKey": "note-3"
       }
     },
     {
@@ -272,7 +334,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-4"
       }
     },
     {
@@ -321,9 +383,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Schreibe deinen Namen in die Mitte.",
-                  "Beschrifte jedes Blütenblatt mit dem Namen einer sozialen Gruppe, von der du Teil bist (z.B. engste Familie, Großfamilie, Fußballteam, Arbeit, Nachbarschaft, Gymnasium, etc.).",
-                  "Nenne drei oder vier Personen in jeder Gruppe, von denen du glaubst, dass sie Jesus brauchen oder Personen, die bereits Jesus nachfolgen und dir dabei helfen könnten, diese Leute mit Jesus bekannt zu machen."
+                  {
+                    "text": "Schreibe deinen Namen in die Mitte."
+                  },
+                  {
+                    "text": "Beschrifte jedes Blütenblatt mit dem Namen einer sozialen Gruppe, von der du Teil bist (z.B. engste Familie, Großfamilie, Fußballteam, Arbeit, Nachbarschaft, Gymnasium, etc.)."
+                  },
+                  {
+                    "text": "Nenne drei oder vier Personen in jeder Gruppe, von denen du glaubst, dass sie Jesus brauchen oder Personen, die bereits Jesus nachfolgen und dir dabei helfen könnten, diese Leute mit Jesus bekannt zu machen."
+                  }
                 ]
               }
             },
@@ -349,7 +417,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Bitte Gott, dir zwei oder drei Menschen zu zeigen, für die du während der kommenden Woche beten sollst. Kennzeichne diese Personen in deinem Gänseblümchen."
+          {
+            "text": "Bitte Gott, dir zwei oder drei Menschen zu zeigen, für die du während der kommenden Woche beten sollst. Kennzeichne diese Personen in deinem Gänseblümchen."
+          }
         ]
       }
     },
@@ -357,7 +427,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-28"
+        "storageKey": "note-5"
       }
     },
     {
@@ -372,10 +442,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dein Gänseblümchen fertig geworden?",
-          "War da ein Blütenblatt, von dem du glaubst, dass Gott von dir will, dass du ihm mehr Aufmerksamkeit schenkst? Warum?",
-          "Wie geht es dir mit der Anzahl der Noch-nicht-Jesus-Nachfolger in deinem Umkreis?",
-          "Welche Fragen hast du zum Gänseblümchen?"
+          {
+            "text": "Ist dein Gänseblümchen fertig geworden?"
+          },
+          {
+            "text": "War da ein Blütenblatt, von dem du glaubst, dass Gott von dir will, dass du ihm mehr Aufmerksamkeit schenkst? Warum?"
+          },
+          {
+            "text": "Wie geht es dir mit der Anzahl der Noch-nicht-Jesus-Nachfolger in deinem Umkreis?"
+          },
+          {
+            "text": "Welche Fragen hast du zum Gänseblümchen?"
+          }
         ]
       }
     },
@@ -383,6 +461,12 @@
       "type": "paragraph",
       "data": {
         "text": "Bitte eine Person darum zu beten, dass wir treu im regelmäßigen Gebet für die Menschen werden, die in unserem Gänseblümchen stehen."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-multiply101-i-will"
       }
     },
     {

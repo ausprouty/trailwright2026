@@ -45,7 +45,7 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "<strong>Unsere Vision ist: eine Jesus-zentrierte Community für jedes Umfeld, an jedem Ort, die für jede einzelne Person erreichbar ist!</strong><br>"
+                "text": "Unsere Vision ist: eine Jesus-zentrierte Community für jedes Umfeld, an jedem Ort, die für jede einzelne Person erreichbar ist!<br>"
               }
             }
           ],
@@ -108,7 +108,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-7"
+        "storageKey": "note-1"
       }
     },
     {
@@ -144,16 +144,10 @@
       }
     },
     {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
-      }
-    },
-    {
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 4:12-17",
-        "html": "<div><sup>12</sup>Als Jesus hörte, dass Johannes verhaftet worden war, verließ er Judäa und kehrte nach Galiläa zurück. <sup>13</sup>Doch er ging nicht nach Nazareth, sondern nach Kapernaum am See Genezareth, im Gebiet von Sebulon und Naftali. <sup>14</sup>Auf diese Weise erfüllte sich die Prophezeiung Jesajas: <sup>15</sup>»Im Lande Sebulon und Naftali, am See, jenseits des Jordan, in Galiläa, leben so viele Menschen, die Gott nicht kennen . <sup>16</sup>Dort hat das Volk, das im Dunkel lebt, ein helles Licht gesehen. Und über den Menschen in einem vom Tode überschatteten Land ist ein strahlendes Licht aufgegangen.« <sup>17</sup>Von da an begann Jesus zu predigen: »Hört auf zu sündigen und kehrt um zu Gott, denn das Himmelreich ist nahe .«</div><p></p>",
+        "html": "<div><sup>12</sup>Als Jesus hörte, dass Johannes verhaftet worden war, verließ er Judäa und kehrte nach Galiläa zurück. <sup>13</sup>Doch er ging nicht nach Nazareth, sondern nach Kapernaum am See Genezareth, im Gebiet von Sebulon und Naftali. <sup>14</sup>Auf diese Weise erfüllte sich die Prophezeiung Jesajas: <sup>15</sup>»Im Lande Sebulon und Naftali, am See, jenseits des Jordan, in Galiläa, leben so viele Menschen, die Gott nicht kennen . <sup>16</sup>Dort hat das Volk, das im Dunkel lebt, ein helles Licht gesehen. Und über den Menschen in einem vom Tode überschatteten Land ist ein strahlendes Licht aufgegangen.« <sup>17</sup>Von da an begann Jesus zu predigen: »Hört auf zu sündigen und kehrt um zu Gott, denn das Himmelreich ist nahe .«</div>",
         "url": "https://bibleserver.com/NLB/Matthäus%204:12-17",
         "isOpen": false
       }
@@ -217,7 +211,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-17"
+        "storageKey": "note-2"
       }
     },
     {
@@ -244,19 +238,19 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "… für andere <strong>BETEN</strong>.<br> Gebet ist das Erste, was wir für die Menschen in unseren Umgebungen tun können (die, mit denen wir das Leben teilen - in der Wohnung und Nachbarschaft, Ausbildung, Arbeit, Freizeit, …). Wenn wir beten, legt es uns Gott oft aufs Herz, seine Liebe in greifbarer Weise zu zeigen."
+                "text": "… für andere BETEN.<br> Gebet ist das Erste, was wir für die Menschen in unseren Umgebungen tun können (die, mit denen wir das Leben teilen - in der Wohnung und Nachbarschaft, Ausbildung, Arbeit, Freizeit, …). Wenn wir beten, legt es uns Gott oft aufs Herz, seine Liebe in greifbarer Weise zu zeigen."
               }
             },
             {
               "type": "paragraph",
               "data": {
-                "text": "… uns um andere <strong>KÜMMERN</strong>.<br> Vielleicht kennst du den Satz: “Menschen kümmern sich nicht darum, wie viel du weißt, bis sie wissen, wie viel du dich kümmerst.” (“People don’t care how much you know until they know how much you care.”) Freundlichkeit und bewusste gute Taten können Wege öffnen, die Gute Nachricht von Jesus zu erzählen. Beim MyFriends-Lifestyle lassen wir uns vom Heiligen Geist leiten und folgen den Impulsen, die wir im Gebet erhalten, wie wir den Menschen um uns herum Gutes tun können."
+                "text": "… uns um andere KÜMMERN.<br> Vielleicht kennst du den Satz: “Menschen kümmern sich nicht darum, wie viel du weißt, bis sie wissen, wie viel du dich kümmerst.” (“People don’t care how much you know until they know how much you care.”) Freundlichkeit und bewusste gute Taten können Wege öffnen, die Gute Nachricht von Jesus zu erzählen. Beim MyFriends-Lifestyle lassen wir uns vom Heiligen Geist leiten und folgen den Impulsen, die wir im Gebet erhalten, wie wir den Menschen um uns herum Gutes tun können."
               }
             },
             {
               "type": "paragraph",
               "data": {
-                "text": "… die gute Nachricht mit anderen zu <strong>TEILEN</strong>.<br> Wenn wir für Menschen beten und ihnen Gottes Liebe praktisch demonstrieren, öffnet Gott oft eine Tür für uns, um geistliche Gespräche zu führen. Der ultimative Liebesbeweis ist, die Gute Nachricht von Jesus mit Menschen in unseren Umfeldern zu teilen."
+                "text": "… die gute Nachricht mit anderen zu TEILEN.<br> Wenn wir für Menschen beten und ihnen Gottes Liebe praktisch demonstrieren, öffnet Gott oft eine Tür für uns, um geistliche Gespräche zu führen. Der ultimative Liebesbeweis ist, die Gute Nachricht von Jesus mit Menschen in unseren Umfeldern zu teilen."
               }
             },
             {
@@ -324,6 +318,12 @@
             "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
           }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply216-i-will"
       }
     },
     {

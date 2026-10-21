@@ -121,7 +121,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-8"
+        "storageKey": "note-1"
       }
     },
     {
@@ -155,7 +155,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -218,16 +218,10 @@
       }
     },
     {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
-      }
-    },
-    {
       "type": "biblePassage",
       "data": {
         "reference": "Johannes 10:22-30",
-        "html": "<div><sup>22</sup>Inzwischen war es Winter. Jesus war zum Fest der Tempelweihe nach Jerusalem gereist. <sup>23</sup>Nun hielt er sich im Tempel auf, in dem Bereich der Säulenhalle Salomos. <sup>24</sup>Da umringten ihn die Juden und fragten: »Wie lange willst du uns noch hinhalten? Wenn du der Christus bist, dann sag es uns offen.« <sup>25</sup>Jesus erwiderte: »Ich habe es euch bereits gesagt, aber ihr glaubt mir nicht. Alles, was ich im Namen meines Vaters tue, beweist, wer ich bin. <sup>26</sup>Aber ihr glaubt mir nicht, weil ihr nicht zu meiner Herde gehört. <sup>27</sup>Meine Schafe hören auf meine Stimme; ich kenne sie, und sie folgen mir. <sup>28</sup>Ich schenke ihnen das ewige Leben, und sie werden niemals umkommen. Niemand wird sie mir entreißen, <sup>29</sup>denn mein Vater hat sie mir gegeben, und er ist mächtiger als alles andere. Und niemand kann sie aus der Hand des Vaters reißen. <sup>30</sup>Der Vater und ich sind eins.« </div><p></p>",
+        "html": "<div><sup>22</sup>Inzwischen war es Winter. Jesus war zum Fest der Tempelweihe nach Jerusalem gereist. <sup>23</sup>Nun hielt er sich im Tempel auf, in dem Bereich der Säulenhalle Salomos. <sup>24</sup>Da umringten ihn die Juden und fragten: »Wie lange willst du uns noch hinhalten? Wenn du der Christus bist, dann sag es uns offen.« <sup>25</sup>Jesus erwiderte: »Ich habe es euch bereits gesagt, aber ihr glaubt mir nicht. Alles, was ich im Namen meines Vaters tue, beweist, wer ich bin. <sup>26</sup>Aber ihr glaubt mir nicht, weil ihr nicht zu meiner Herde gehört. <sup>27</sup>Meine Schafe hören auf meine Stimme; ich kenne sie, und sie folgen mir. <sup>28</sup>Ich schenke ihnen das ewige Leben, und sie werden niemals umkommen. Niemand wird sie mir entreißen, <sup>29</sup>denn mein Vater hat sie mir gegeben, und er ist mächtiger als alles andere. Und niemand kann sie aus der Hand des Vaters reißen. <sup>30</sup>Der Vater und ich sind eins.« </div>",
         "url": "https://bibleserver.com/NLB/Johannes%2010:22-30",
         "isOpen": false
       }
@@ -302,7 +296,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-19"
+        "storageKey": "note-3"
       }
     },
     {
@@ -334,7 +328,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-4"
       }
     },
     {
@@ -427,7 +421,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-27"
+        "storageKey": "note-5"
       }
     },
     {
@@ -461,6 +455,12 @@
       "type": "paragraph",
       "data": {
         "text": "Bitte eine Person darum zu beten, dass wir treu im regelmäßigen Gebet für die Menschen werden, die in unserem Gänseblümchen stehen."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply101-i-will"
       }
     },
     {

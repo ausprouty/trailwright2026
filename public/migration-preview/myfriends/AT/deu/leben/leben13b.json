@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben13b-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 22:38-40",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>38</sup>Das ist das erste und wichtigste Gebot. <sup>39</sup>Ein weiteres ist genauso wichtig: ›Liebe deinen Nächsten wie dich selbst.‹ <sup>40</sup>Alle anderen Gebote und alle Forderungen der Propheten gründen sich auf diese beiden Gebote.«<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>38</sup>Das ist das erste und wichtigste Gebot. <sup>39</sup>Ein weiteres ist genauso wichtig: ›Liebe deinen Nächsten wie dich selbst.‹ <sup>40</sup>Alle anderen Gebote und alle Forderungen der Propheten gründen sich auf diese beiden Gebote.«</div>",
         "url": "https://bibleserver.com/NLB/Matthäus%2022:38-40",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben13b-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

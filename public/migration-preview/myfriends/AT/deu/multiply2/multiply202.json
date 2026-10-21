@@ -90,7 +90,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-7"
+        "storageKey": "note-1"
       }
     },
     {
@@ -126,22 +126,10 @@
       }
     },
     {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
-      }
-    },
-    {
       "type": "biblePassage",
       "data": {
         "reference": "Johannes 1:14-18",
-        "html": "<div><sup>14</sup>Er, der das Wort ist, wurde Mensch und lebte unter uns. Er war voll Gnade und Wahrheit und wir wurden Zeugen seiner Herrlichkeit, der Herrlichkeit, die der Vater ihm, seinem einzigen Sohn, gegeben hat. <sup>15</sup>Auf ihn wies Johannes die Menschen hin. Er rief ihnen zu: »Das ist der, von dem ich gesagt habe: ›Es kommt einer nach mir, der ist größer als ich, denn er war da, lange bevor es mich gab.‹« <sup>16</sup>Immer und immer wieder haben wir den Reichtum seines Segens empfangen. <sup>17</sup>Denn das Gesetz wurde durch Mose gegeben; Gottes Gnade und Wahrheit kamen durch Jesus Christus. <sup>18</sup>Niemand hat Gott je gesehen. Doch sein einziger Sohn, der selbst Gott ist , ist dem Herzen des Vaters ganz nahe; er hat uns von ihm erzählt. </div><p></p>",
+        "html": "<div> <sup>14</sup>Er, der das Wort ist, wurde Mensch und lebte unter uns. Er war voll Gnade und Wahrheit und wir wurden Zeugen seiner Herrlichkeit, der Herrlichkeit, die der Vater ihm, seinem einzigen Sohn, gegeben hat. <sup>15</sup>Auf ihn wies Johannes die Menschen hin. Er rief ihnen zu: »Das ist der, von dem ich gesagt habe: ›Es kommt einer nach mir, der ist größer als ich, denn er war da, lange bevor es mich gab.‹« <sup>16</sup>Immer und immer wieder haben wir den Reichtum seines Segens empfangen. <sup>17</sup>Denn das Gesetz wurde durch Mose gegeben; Gottes Gnade und Wahrheit kamen durch Jesus Christus. <sup>18</sup>Niemand hat Gott je gesehen. Doch sein einziger Sohn, der selbst Gott ist , ist dem Herzen des Vaters ganz nahe; er hat uns von ihm erzählt. </div>",
         "url": "https://bibleserver.com/NLB/Johannes%201:14-18",
         "isOpen": false
       }
@@ -193,13 +181,13 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "<strong id=\"docs-internal-guid-3f6b323d-7fff-1817-a7cd-28409545da50\">Lies auch Kolosser 1,15-20 und Hebräer 2,17.</strong>"
+                "text": "Lies auch Kolosser 1,15-20 und Hebräer 2,17."
               }
             },
             {
               "type": "paragraph",
               "data": {
-                "text": "<strong id=\"docs-internal-guid-3f6b323d-7fff-1817-a7cd-28409545da50\">Jesus verlässt die Herrlichkeit des Himmels für die irdische Bedeutungslosigkeit. Die Bibel schreibt, dass er “in jeder Hinsicht seinen Brüdern und Schwestern gleich werden” musste (GNB). Jesus brachte ein riesiges Opfer, um einer von uns zu werden! Der Schöpfer kommt in die Schöpfung, damit er unser Hohepriester und unser Weg zum Vater werden kann (Johannes 14,6).</strong>"
+                "text": "Jesus verlässt die Herrlichkeit des Himmels für die irdische Bedeutungslosigkeit. Die Bibel schreibt, dass er “in jeder Hinsicht seinen Brüdern und Schwestern gleich werden” musste (GNB). Jesus brachte ein riesiges Opfer, um einer von uns zu werden! Der Schöpfer kommt in die Schöpfung, damit er unser Hohepriester und unser Weg zum Vater werden kann (Johannes 14,6)."
               }
             }
           ],
@@ -211,7 +199,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-18"
+        "storageKey": "note-2"
       }
     },
     {
@@ -276,6 +264,12 @@
             "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
           }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply202-i-will"
       }
     },
     {

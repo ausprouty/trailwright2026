@@ -33,7 +33,7 @@
                     "id": "popup_pop1",
                     "marker": "Psalm 16:7-11",
                     "label": "Psalm 16:7-11",
-                    "passage": "<div><p><sup>7</sup>I will praise the<span class=\"small-caps\">Lord, who counsels me;<br>even at night my heart instructs me.<br><sup>8</sup>I keep my eyes always on the<span class=\"small-caps\">Lord.<br>With him at my right hand, I will not be shaken.</span></span></p></div><p><sup>9</sup>Therefore my heart is glad and my tongue rejoices;<br>my body also will rest secure,<br><sup>10</sup>because you will not abandon me to the realm of the dead,<br>nor will you let your faithful one see decay.<br><sup>11</sup>You make known to me the path of life;<br>you will fill me with joy in your presence,<br>with eternal pleasures at your right hand.</p>"
+                    "passage": "<div>\n<p><sup class=\"versenum\">7 </sup>I will praise the <span class=\"small-caps\">Lord, who counsels me;<br>\n    even at night my heart instructs me.<br>\n<sup class=\"versenum\">8 </sup>I keep my eyes always on the <span class=\"small-caps\">Lord.<br>\n    With him at my right hand, I will not be shaken.</span></span></p>\n</div>\n\n<p><sup class=\"versenum\">9 </sup>Therefore my heart is glad and my tongue rejoices;<br>\n    my body also will rest secure,<br>\n<sup class=\"versenum\">10 </sup>because you will not abandon me to the realm of the dead,<br>\n    nor will you let your faithful one see decay.<br>\n<sup class=\"versenum\">11 </sup>You make known to me the path of life;<br>\n    you will fill me with joy in your presence,<br>\n    with eternal pleasures at your right hand.</p>"
                   }
                 ],
                 "isOpen": false
@@ -110,7 +110,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-7"
+        "storageKey": "note-1"
       }
     },
     {
@@ -135,7 +135,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -181,7 +181,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "John 15:1-11",
-        "html": "<p><sup>1</sup>I am the true vine, and my Father is the gardener.<sup>2</sup>He cuts off every branch in me that bears no fruit, while every branch that does bear fruit he prunes so that it will be even more fruitful.<sup>3</sup>You are already clean because of the word I have spoken to you.<sup>4</sup>Remain in me, as I also remain in you. No branch can bear fruit by itself; it must remain in the vine. Neither can you bear fruit unless you remain in me.</p><p><sup>5</sup>“I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing.<sup>6</sup>If you do not remain in me, you are like a branch that is thrown away and withers; such branches are picked up, thrown into the fire and burned.<sup>7</sup>If you remain in me and my words remain in you, ask whatever you wish, and it will be done for you.<sup>8</sup>This is to my Father’s glory, that you bear much fruit, showing yourselves to be my disciples.</p><p><sup>9</sup>“As the Father has loved me, so have I loved you. Now remain in my love.<sup>10</sup>If you keep my commands, you will remain in my love, just as I have kept my Father’s commands and remain in his love.<sup>11</sup>I have told you this so that my joy may be in you and that your joy may be complete.</p>",
+        "html": "<p><sup>1</sup>I am the true vine, and my Father is the gardener.<sup>2</sup>He cuts off every branch in me that bears no fruit, while every branch that does bear fruit he prunes so that it will be even more fruitful.<sup>3</sup>You are already clean because of the word I have spoken to you.<sup>4</sup>Remain in me, as I also remain in you. No branch can bear fruit by itself; it must remain in the vine. Neither can you bear fruit unless you remain in me.</p> <p><sup>5</sup>“I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing.<sup>6</sup>If you do not remain in me, you are like a branch that is thrown away and withers; such branches are picked up, thrown into the fire and burned.<sup>7</sup>If you remain in me and my words remain in you, ask whatever you wish, and it will be done for you.<sup>8</sup>This is to my Father’s glory, that you bear much fruit, showing yourselves to be my disciples.</p> <p><sup>9</sup>“As the Father has loved me, so have I loved you. Now remain in my love.<sup>10</sup>If you keep my commands, you will remain in my love, just as I have kept my Father’s commands and remain in his love.<sup>11</sup>I have told you this so that my joy may be in you and that your joy may be complete.</p>",
         "url": "https://biblegateway.com/passage/?search=John%2015:1-11&version=NIV",
         "isOpen": false
       }
@@ -253,7 +253,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-17"
+        "storageKey": "note-3"
       }
     },
     {
@@ -303,7 +303,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-4"
       }
     },
     {
@@ -389,7 +389,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-27"
+        "storageKey": "note-5"
       }
     },
     {
@@ -404,6 +404,12 @@
             "text": "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle. <br>"
           }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply108-i-will"
       }
     },
     {

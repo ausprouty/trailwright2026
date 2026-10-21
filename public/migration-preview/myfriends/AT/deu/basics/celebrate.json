@@ -1,4 +1,13 @@
 {
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "celebrate",
+  "sortOrder": 10,
   "blocks": [
     {
       "type": "paragraph",
@@ -35,20 +44,38 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Wen möchtest du einladen?",
-          "Was wäre für dies Leute eine geeignete Location? Wo fühlen sich diese Leute wohl?",
-          "Wo findest du Wasser für die Taufe? Hat es einen Pool? Ist es am See oder am Meer? Hat es ein Taufbecken oder sonst ein Becken?",
-          "Wer soll dich taufen? Wie wäre es z.B. mit einem Freund, der dich auf deiner Reise zum Glauben begleitet hat?",
-          "Bevor du getauft wirst, könntest du der Gruppe von deinem Weg zu Gott erzählen. Schreibe dir vorgängig auf, was du sagen willst, damit du entspannter bist vor Ort.",
-          "Möchtest du, dass sonst noch jemand etwas zur Bedeutung der Taufe sagt?",
-          "Die Bibel sagt, dass wir „im Namen des Vater, des Sohnes und des Heiligen Geistes“ taufen sollen.",
-          "Nimm ein Tuch und Ersatzkleider mit, damit du dich nach der Taufe trocken kannst und du etwas Frisches zum Anziehen hast.",
-          "Möchtest du etwas zu essen anbieten? Was genau?",
-          "Wie kannst du herausfinden, was deine Freunde über die Taufe denken? Welche von deinen Freunden möchten mehr über Jesus erfahren?"
+          {
+            "text": "Wen möchtest du einladen?"
+          },
+          {
+            "text": "Was wäre für dies Leute eine geeignete Location? Wo fühlen sich diese Leute wohl?"
+          },
+          {
+            "text": "Wo findest du Wasser für die Taufe? Hat es einen Pool? Ist es am See oder am Meer? Hat es ein Taufbecken oder sonst ein Becken?"
+          },
+          {
+            "text": "Wer soll dich taufen? Wie wäre es z.B. mit einem Freund, der dich auf deiner Reise zum Glauben begleitet hat?"
+          },
+          {
+            "text": "Bevor du getauft wirst, könntest du der Gruppe von deinem Weg zu Gott erzählen. Schreibe dir vorgängig auf, was du sagen willst, damit du entspannter bist vor Ort."
+          },
+          {
+            "text": "Möchtest du, dass sonst noch jemand etwas zur Bedeutung der Taufe sagt?"
+          },
+          {
+            "text": "Die Bibel sagt, dass wir „im Namen des Vater, des Sohnes und des Heiligen Geistes“ taufen sollen."
+          },
+          {
+            "text": "Nimm ein Tuch und Ersatzkleider mit, damit du dich nach der Taufe trocken kannst und du etwas Frisches zum Anziehen hast."
+          },
+          {
+            "text": "Möchtest du etwas zu essen anbieten? Was genau?"
+          },
+          {
+            "text": "Wie kannst du herausfinden, was deine Freunde über die Taufe denken? Welche von deinen Freunden möchten mehr über Jesus erfahren?"
+          }
         ]
       }
     }
-  ],
-  "time": 1778401521712,
-  "version": "2.31.5"
+  ]
 }

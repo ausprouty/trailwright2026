@@ -65,9 +65,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was lief bei dir gut diese Woche?",
-          "Was war schwierig für dich vergangene Woche?",
-          "Wo brauchst du Gottes Hilfe in deinem Leben?"
+          {
+            "text": "Was lief bei dir gut diese Woche?"
+          },
+          {
+            "text": "Was war schwierig für dich vergangene Woche?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe in deinem Leben?"
+          }
         ]
       }
     },
@@ -83,8 +89,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was konntest du seit unserem letzten Treffen praktisch umsetzen?",
-          "Welche Art von Gesprächen hattest du mit den Menschen auf deiner Gänseblümchen-Kette? <ul><li>ein lockeres Gespräch</li><li>ein ernsthaftes Gespräch</li><li>ein spirituelles Gespräch</li><li>ein Jesus-Gespräch</li></ul>"
+          {
+            "text": "Was konntest du seit unserem letzten Treffen praktisch umsetzen?"
+          },
+          {
+            "text": "Welche Art von Gesprächen hattest du mit den Menschen auf deiner Gänseblümchen-Kette?",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "ein lockeres Gespräch"
+                },
+                {
+                  "text": "ein ernsthaftes Gespräch"
+                },
+                {
+                  "text": "ein spirituelles Gespräch"
+                },
+                {
+                  "text": "ein Jesus-Gespräch"
+                }
+              ]
+            }
+          }
         ]
       }
     },
@@ -92,7 +119,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-8"
+        "storageKey": "note-1"
       }
     },
     {
@@ -129,7 +156,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -165,23 +192,23 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich oder seht euch das Video an.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+          {
+            "text": "Jeder liest den Text für sich oder seht euch das Video an."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+          }
         ]
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
       }
     },
     {
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 24:36-49",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>36</sup>Und während sie noch sprachen, stand Jesus plötzlich selbst mitten unter ihnen und sagte: »Friede sei mit euch!« <sup>37</sup>Doch sie hatten alle schreckliche Angst, weil sie dachten, sie sähen einen Geist! <sup>38</sup>»Warum fürchtet ihr euch so?«, fragte er. »Warum zweifelt ihr, wer ich bin? <sup>39</sup>Seht euch meine Hände an. Seht euch meine Füße an. Ihr könnt doch sehen, dass ich es wirklich bin. Berührt mich und vergewissert euch, dass ich kein Geist bin; denn ein Geist hat keinen Körper, und ich habe einen, wie ihr seht!« <sup>40</sup>Bei diesen Worten hielt er ihnen seine Hände hin und zeigte ihnen seine Füße. <sup>41</sup>Noch immer standen sie voller Zweifel und Freude da. Er fragte sie: »Habt ihr etwas zu essen da?« <sup>42</sup>Sie reichten ihm ein Stück gebratenen Fisch, <sup>43</sup>und er aß ihn vor ihren Augen. <sup>44</sup>Dann sagte er: »Als ich bei euch war, habe ich euch erklärt, dass alles, was bei Mose, bei den Propheten und in den Psalmen über mich geschrieben steht, in Erfüllung gehen muss.« <sup>45</sup>Nun öffnete er ihnen den Blick für das Verständnis dieser Schriften. <sup>46</sup>Er sagte: »Es wurde vor langer Zeit aufgeschrieben, dass der Christus leiden und sterben und am dritten Tag auferstehen muss. <sup>47</sup>Geht in seinem Namen zu allen Völkern, angefangen in Jerusalem, ruft sie zur Umkehr auf, damit sie Vergebung der Sünden erhalten. <sup>48</sup>Für all dies seid ihr meine Zeugen. <sup>49</sup>Und nun werde ich euch den Heiligen Geist senden, wie mein Vater es versprochen hat. Ihr aber bleibt hier in der Stadt, bis der Heilige Geist kommen und euch mit Kraft aus dem Himmel erfüllen wird.« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>36</sup>Und während sie noch sprachen, stand Jesus plötzlich selbst mitten unter ihnen und sagte: »Friede sei mit euch!« <sup>37</sup>Doch sie hatten alle schreckliche Angst, weil sie dachten, sie sähen einen Geist! <sup>38</sup>»Warum fürchtet ihr euch so?«, fragte er. »Warum zweifelt ihr, wer ich bin? <sup>39</sup>Seht euch meine Hände an. Seht euch meine Füße an. Ihr könnt doch sehen, dass ich es wirklich bin. Berührt mich und vergewissert euch, dass ich kein Geist bin; denn ein Geist hat keinen Körper, und ich habe einen, wie ihr seht!« <sup>40</sup>Bei diesen Worten hielt er ihnen seine Hände hin und zeigte ihnen seine Füße. <sup>41</sup>Noch immer standen sie voller Zweifel und Freude da. Er fragte sie: »Habt ihr etwas zu essen da?« <sup>42</sup>Sie reichten ihm ein Stück gebratenen Fisch, <sup>43</sup>und er aß ihn vor ihren Augen. <sup>44</sup>Dann sagte er: »Als ich bei euch war, habe ich euch erklärt, dass alles, was bei Mose, bei den Propheten und in den Psalmen über mich geschrieben steht, in Erfüllung gehen muss.« <sup>45</sup>Nun öffnete er ihnen den Blick für das Verständnis dieser Schriften. <sup>46</sup>Er sagte: »Es wurde vor langer Zeit aufgeschrieben, dass der Christus leiden und sterben und am dritten Tag auferstehen muss. <sup>47</sup>Geht in seinem Namen zu allen Völkern, angefangen in Jerusalem, ruft sie zur Umkehr auf, damit sie Vergebung der Sünden erhalten. <sup>48</sup>Für all dies seid ihr meine Zeugen. <sup>49</sup>Und nun werde ich euch den Heiligen Geist senden, wie mein Vater es versprochen hat. Ihr aber bleibt hier in der Stadt, bis der Heilige Geist kommen und euch mit Kraft aus dem Himmel erfüllen wird.« </div>",
         "url": "https://bibleserver.com/NLB/Lukas%2024:36-49",
         "isOpen": false
       }
@@ -211,12 +238,41 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was sticht für dich in dieser Bibelstelle heraus?",
-          "Was gefällt dir und was stört dich an diesem Text?",
-          "Warum glaubst du, ist diese Stelle wichtig?",
-          "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden?<br> Gibt es: <ul><li>eine Verhaltensweise zu ändern?</li><li>ein Versprechen einzuhalten?</li><li>ein Beispiel zu folgen?</li><li>ein Gebot zu befolgen?</li></ul>",
-          "Frage Gott, was er von dir als Antwort auf diese Bibelstelle möchte.",
-          "Teile dies mit der Gruppe."
+          {
+            "text": "Was sticht für dich in dieser Bibelstelle heraus?"
+          },
+          {
+            "text": "Was gefällt dir und was stört dich an diesem Text?"
+          },
+          {
+            "text": "Warum glaubst du, ist diese Stelle wichtig?"
+          },
+          {
+            "text": "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden?<br> Gibt es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Verhaltensweise zu ändern?"
+                },
+                {
+                  "text": "ein Versprechen einzuhalten?"
+                },
+                {
+                  "text": "ein Beispiel zu folgen?"
+                },
+                {
+                  "text": "ein Gebot zu befolgen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Frage Gott, was er von dir als Antwort auf diese Bibelstelle möchte."
+          },
+          {
+            "text": "Teile dies mit der Gruppe."
+          }
         ]
       }
     },
@@ -224,7 +280,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-20"
+        "storageKey": "note-3"
       }
     },
     {
@@ -245,7 +301,9 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Um Jesus kennenzulernen, ist das tägliche Bibellesen ein wichtiger Part. Wie möchtest du das in deinem Alltag umsetzen?"
+                  {
+                    "text": "Um Jesus kennenzulernen, ist das tägliche Bibellesen ein wichtiger Part. Wie möchtest du das in deinem Alltag umsetzen?"
+                  }
                 ]
               }
             },
@@ -264,7 +322,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-4"
       }
     },
     {
@@ -305,10 +363,18 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Soll man eine Verhaltensweise ändern?",
-                  "Wird ein Versprechen eingefordert?",
-                  "Soll man einem Beispiel folgen?",
-                  "Soll man ein Gebot befolgen?"
+                  {
+                    "text": "Soll man eine Verhaltensweise ändern?"
+                  },
+                  {
+                    "text": "Wird ein Versprechen eingefordert?"
+                  },
+                  {
+                    "text": "Soll man einem Beispiel folgen?"
+                  },
+                  {
+                    "text": "Soll man ein Gebot befolgen?"
+                  }
                 ]
               }
             },
@@ -365,8 +431,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Schau dir deine Gänseblümchen-Kette nochmal an.",
-          "Welche Schritte zeigt dir Gott, die du in der kommenden Woche mit ihm und anderen gehen sollst?"
+          {
+            "text": "Schau dir deine Gänseblümchen-Kette nochmal an."
+          },
+          {
+            "text": "Welche Schritte zeigt dir Gott, die du in der kommenden Woche mit ihm und anderen gehen sollst?"
+          }
         ]
       }
     },
@@ -374,7 +444,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-27"
+        "storageKey": "note-5"
       }
     },
     {
@@ -382,9 +452,19 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Teile einen Schritt mit deiner Gruppe und bitte einen/eine davon, für dich zu beten, dass du diesen Schritt in der Kraft des Heiligen Geistes tun kannst.",
-          "Übergebt alle eure Ziele dem Herrn. Bittet den Herrn, euch zu helfen, treu zu sein und dass er uns dazu verwendet, eine Bewegung von Menschen zu starten, die diesen MyFriends-Lifestyle leben"
+          {
+            "text": "Teile einen Schritt mit deiner Gruppe und bitte einen/eine davon, für dich zu beten, dass du diesen Schritt in der Kraft des Heiligen Geistes tun kannst."
+          },
+          {
+            "text": "Übergebt alle eure Ziele dem Herrn. Bittet den Herrn, euch zu helfen, treu zu sein und dass er uns dazu verwendet, eine Bewegung von Menschen zu starten, die diesen MyFriends-Lifestyle leben"
+          }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-multiply106-i-will"
       }
     },
     {

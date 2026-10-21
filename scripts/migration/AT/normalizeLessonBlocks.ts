@@ -99,25 +99,7 @@ function ensureNotesAreaBeforeSection(
   blocks.push(buildNotesAreaBlock(target, keyPrefix));
 }
 
-function previousSectionHasNotesArea(blocks: AnyEditorJsBlock[]): boolean {
-  for (let i = blocks.length - 1; i >= 0; i -= 1) {
-    const block = blocks[i];
 
-    if (!block) {
-      continue;
-    }
-
-    if (block.type === 'sectionMarker') {
-      return false;
-    }
-
-    if (block.type === 'notesArea') {
-      return true;
-    }
-  }
-
-  return false;
-}
 
 function getLessonListItems(block: AnyEditorJsBlock): IconListItem[] {
   const data = block.data as { items?: unknown[] };
@@ -250,6 +232,96 @@ function ensureNotesAreaBeforeSectionAfterFirstSection(
   ensureNotesAreaBeforeSection(blocks, target, keyPrefix);
 }
 
+
+function previousSectionHasNotesArea(blocks: AnyEditorJsBlock[]): boolean {
+  for (let i = blocks.length - 1; i >= 0; i -= 1) {
+    const block = blocks[i];
+
+    if (!block) {
+      continue;
+    }
+
+    if (block.type === 'sectionMarker') {
+      return false;
+    }
+
+    if (block.type === 'notesArea') {
+      return true;
+    }
+  }
+
+  return false;
+}
+function renumberNotesSequentially(blocks: AnyEditorJsBlock[]): void {
+  let noteNumber = 1;
+
+  for (const block of blocks) {
+    if (block.type !== 'notesArea') {
+      continue;
+    }
+
+    block.data.storageKey = `note-${noteNumber}`;
+    noteNumber += 1;
+  }
+}
+function replaceFinalForwardNotesWithIWill(blocks: AnyEditorJsBlock[], keyPrefix: string): void {
+  let lastForwardIndex = -1;
+  let lastNotesAreaIndex = -1;
+
+  for (let i = 0; i < blocks.length; i += 1) {
+    const block = blocks[i];
+
+    if (!block) {
+      continue;
+    }
+
+    if (isSectionMarker(block, 'forward')) {
+      lastForwardIndex = i;
+      lastNotesAreaIndex = -1;
+      continue;
+    }
+
+    if (lastForwardIndex === -1) {
+      continue;
+    }
+
+    if (block.type === 'notesArea') {
+      lastNotesAreaIndex = i;
+    }
+  }
+
+  if (lastForwardIndex === -1 || lastNotesAreaIndex === -1) {
+    return;
+  }
+
+  blocks[lastNotesAreaIndex] = buildIWillBlock(`${keyPrefix}-i-will`);
+}
+
+function replaceFinalNotesAreaWithIWill(blocks: AnyEditorJsBlock[], keyPrefix: string): void {
+  if (blocks.length < 2) {
+    return;
+  }
+
+  const lastIndex = blocks.length - 1;
+  const lastBlock = blocks[lastIndex];
+  const previousBlock = blocks[lastIndex - 1];
+
+  if (!lastBlock || !previousBlock) {
+    return;
+  }
+
+  if (lastBlock.type !== 'notesArea') {
+    return;
+  }
+
+  if (previousBlock.type !== 'list' && previousBlock.type !== 'iconList') {
+    return;
+  }
+
+  blocks[lastIndex] = buildIWillBlock(`${keyPrefix}-i-will`);
+}
+
+
 export function normalizeLessonBlocks(
   blocks: AnyEditorJsBlock[],
   options: NormalizeLessonBlocksOptions,
@@ -324,63 +396,7 @@ export function normalizeLessonBlocks(
   replaceFinalForwardNotesWithIWill(result, options.keyPrefix);
   replaceFinalNotesAreaWithIWill(result, options.keyPrefix);
   addIWillAfterFinalChallengeList(result, options.keyPrefix);
+  renumberNotesSequentially(result);
 
   return result;
-}
-
-function replaceFinalForwardNotesWithIWill(blocks: AnyEditorJsBlock[], keyPrefix: string): void {
-  let lastForwardIndex = -1;
-  let lastNotesAreaIndex = -1;
-
-  for (let i = 0; i < blocks.length; i += 1) {
-    const block = blocks[i];
-
-    if (!block) {
-      continue;
-    }
-
-    if (isSectionMarker(block, 'forward')) {
-      lastForwardIndex = i;
-      lastNotesAreaIndex = -1;
-      continue;
-    }
-
-    if (lastForwardIndex === -1) {
-      continue;
-    }
-
-    if (block.type === 'notesArea') {
-      lastNotesAreaIndex = i;
-    }
-  }
-
-  if (lastForwardIndex === -1 || lastNotesAreaIndex === -1) {
-    return;
-  }
-
-  blocks[lastNotesAreaIndex] = buildIWillBlock(`${keyPrefix}-i-will`);
-}
-
-function replaceFinalNotesAreaWithIWill(blocks: AnyEditorJsBlock[], keyPrefix: string): void {
-  if (blocks.length < 2) {
-    return;
-  }
-
-  const lastIndex = blocks.length - 1;
-  const lastBlock = blocks[lastIndex];
-  const previousBlock = blocks[lastIndex - 1];
-
-  if (!lastBlock || !previousBlock) {
-    return;
-  }
-
-  if (lastBlock.type !== 'notesArea') {
-    return;
-  }
-
-  if (previousBlock.type !== 'list' && previousBlock.type !== 'iconList') {
-    return;
-  }
-
-  blocks[lastIndex] = buildIWillBlock(`${keyPrefix}-i-will`);
 }

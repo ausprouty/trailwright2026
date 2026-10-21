@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "hoffnung-hoffnung02-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 19:1-10",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Jesus kam nach Jericho und ging durch die Stadt. <sup>2</sup>Dort lebte ein Mann namens Zachäus. Als einer der mächtigsten Steuereintreiber war er sehr reich. <sup>3</sup>Zachäus hatte versucht, einen Blick auf Jesus zu werfen, aber er war zu klein, um über die Menge hinwegschauen zu können. <sup>4</sup>Deshalb lief er voraus und kletterte auf einen Maulbeerfeigenbaum am Wegrand, um Jesus von dort aus vorübergehen zu sehen. <sup>5</sup>Als Jesus kam, blickte er zu Zachäus hinauf und rief ihn beim Namen: »Zachäus!«, sagte er, »komm schnell herunter! Denn ich muss heute Gast in deinem Haus sein.« <sup>6</sup>Zachäus kletterte, so schnell er konnte, hinunter und geleitete Jesus voller Aufregung und Freude in sein Haus. <sup>7</sup>Doch den Leuten in der Menge gefiel das nicht. »Bei einem berüchtigten Sünder kehrt er als Gast ein«, murrten sie. <sup>8</sup>Währenddessen stellte Zachäus sich vor den Herrn hin und sagte: »Herr, ich werde die Hälfte meines Reichtums den Armen geben, und wenn ich die Leute bei der Steuer betrogen habe, werde ich es ihnen vierfach erstatten!« <sup>9</sup>Jesus erwiderte: »Heute hat dieses Haus Rettung erfahren, denn auch dieser Mann ist Abrahams Sohn. <sup>10</sup>Der Menschensohn ist nämlich gekommen, um Verlorene zu suchen und zu retten.«<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>1</sup>Jesus kam nach Jericho und ging durch die Stadt. <sup>2</sup>Dort lebte ein Mann namens Zachäus. Als einer der mächtigsten Steuereintreiber war er sehr reich. <sup>3</sup>Zachäus hatte versucht, einen Blick auf Jesus zu werfen, aber er war zu klein, um über die Menge hinwegschauen zu können. <sup>4</sup>Deshalb lief er voraus und kletterte auf einen Maulbeerfeigenbaum am Wegrand, um Jesus von dort aus vorübergehen zu sehen. <sup>5</sup>Als Jesus kam, blickte er zu Zachäus hinauf und rief ihn beim Namen: »Zachäus!«, sagte er, »komm schnell herunter! Denn ich muss heute Gast in deinem Haus sein.« <sup>6</sup>Zachäus kletterte, so schnell er konnte, hinunter und geleitete Jesus voller Aufregung und Freude in sein Haus. <sup>7</sup>Doch den Leuten in der Menge gefiel das nicht. »Bei einem berüchtigten Sünder kehrt er als Gast ein«, murrten sie. <sup>8</sup>Währenddessen stellte Zachäus sich vor den Herrn hin und sagte: »Herr, ich werde die Hälfte meines Reichtums den Armen geben, und wenn ich die Leute bei der Steuer betrogen habe, werde ich es ihnen vierfach erstatten!« <sup>9</sup>Jesus erwiderte: »Heute hat dieses Haus Rettung erfahren, denn auch dieser Mann ist Abrahams Sohn. <sup>10</sup>Der Menschensohn ist nämlich gekommen, um Verlorene zu suchen und zu retten.«</div>",
         "url": "https://bibleserver.com/NLB/Lukas%2019:1-10",
         "isOpen": false
       }
@@ -107,7 +109,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "hoffnung-hoffnung02-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -141,7 +143,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

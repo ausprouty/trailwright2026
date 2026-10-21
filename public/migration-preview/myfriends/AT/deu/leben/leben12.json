@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben12-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 19:4-6",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>4</sup>»Wisst ihr nicht, was in der Schrift steht?«, erwiderte Jesus. »Dort steht, dass ›der Schöpfer die Menschen als Mann und Frau schuf‹ . <sup>5</sup>Und es heißt weiter: ›Deshalb wird ein Mann Vater und Mutter verlassen und sich an seine Frau binden und die beiden werden zu einer Einheit.‹ <sup>6</sup>Dann sind sie also nicht mehr zwei, sondern eins, und niemand soll sie mehr trennen, denn Gott hat sie zusammengebracht.« <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>4</sup>»Wisst ihr nicht, was in der Schrift steht?«, erwiderte Jesus. »Dort steht, dass ›der Schöpfer die Menschen als Mann und Frau schuf‹ . <sup>5</sup>Und es heißt weiter: ›Deshalb wird ein Mann Vater und Mutter verlassen und sich an seine Frau binden und die beiden werden zu einer Einheit.‹ <sup>6</sup>Dann sind sie also nicht mehr zwei, sondern eins, und niemand soll sie mehr trennen, denn Gott hat sie zusammengebracht.« </div>",
         "url": "https://bibleserver.com/NLB/Matthäus%2019:4-6",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben12-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

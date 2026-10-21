@@ -22,9 +22,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -44,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-1"
       }
     },
     {
@@ -66,10 +72,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Alle lesen den Text leise für sich.",
-          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
-          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
-          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          {
+            "text": "Alle lesen den Text leise für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln."
+          },
+          {
+            "text": "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln)."
+          },
+          {
+            "text": "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          }
         ]
       }
     },
@@ -77,7 +91,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "2 Timotheus 4, 9-17",
-        "html": "<p class=\"bible\"><sup>9</sup><em class=\"trans-change\">Nun bitte ich dich:</em> Komm doch so schnell wie möglich zu mir!<sup>10</sup>Demas hat mich im Stich gelassen und ist nach Thessalonich gereist, weil ihm die Dinge dieser Welt wichtiger waren. Kreszens ist in Galatien und Titus in Dalmatien.<sup> 11 </sup>Nur Lukas ist bei mir geblieben. Wenn du kommst, bring Markus mit, denn er könnte mir hier viel helfen.<sup>12</sup>Tychikus habe ich nach Ephesus geschickt.<sup>13</sup>Bring mir aus Troas meinen Mantel mit, den ich bei Karpus zurückgelassen habe, ebenso die Bücher, vor allem aber die Pergamentrollen. </p><p class=\"bible\"><sup>14</sup>Der Schmied Alexander hat mir viel Böses angetan. Er wird dafür vom Herrn die Strafe erhalten, die er verdient hat.<sup>15</sup>Hüte dich vor ihm, denn er hat unsere Botschaft von Jesus Christus erbittert bekämpft. </p><p class=\"bible\"><sup>16</sup>Bei meiner ersten Gerichtsverhandlung stand mir niemand bei. Alle ließen mich im Stich. Gott möge ihnen verzeihen.<sup>17</sup>Der Herr aber half mir. Er hat mir Kraft gegeben, so dass ich selbst an diesem Ort die rettende Botschaft von Jesus verkünden konnte und Menschen aus aller Welt sie hörten. Er hat mich vor dem sicheren Tod bewahrt. </p><p class=\"bible\"></p>",
+        "html": "<p> <sup>9</sup> <em class=\"trans-change\">Nun bitte ich dich:</em> Komm doch so schnell wie möglich zu mir!<sup>10</sup>Demas hat mich im Stich gelassen und ist nach Thessalonich gereist, weil ihm die Dinge dieser Welt wichtiger waren. Kreszens ist in Galatien und Titus in Dalmatien.<sup> 11 </sup>Nur Lukas ist bei mir geblieben. Wenn du kommst, bring Markus mit, denn er könnte mir hier viel helfen.<sup>12</sup>Tychikus habe ich nach Ephesus geschickt.<sup>13</sup>Bring mir aus Troas meinen Mantel mit, den ich bei Karpus zurückgelassen habe, ebenso die Bücher, vor allem aber die Pergamentrollen. </p> <p> <sup>14</sup>Der Schmied Alexander hat mir viel Böses angetan. Er wird dafür vom Herrn die Strafe erhalten, die er verdient hat.<sup>15</sup>Hüte dich vor ihm, denn er hat unsere Botschaft von Jesus Christus erbittert bekämpft. </p> <p> <sup>16</sup>Bei meiner ersten Gerichtsverhandlung stand mir niemand bei. Alle ließen mich im Stich. Gott möge ihnen verzeihen.<sup>17</sup>Der Herr aber half mir. Er hat mir Kraft gegeben, so dass ich selbst an diesem Ort die rettende Botschaft von Jesus verkünden konnte und Menschen aus aller Welt sie hörten. Er hat mich vor dem sicheren Tod bewahrt. </p>",
         "url": "https://biblegateway.com/passage/?search=2%20Timothy%204:9-17&version=HOF",
         "isOpen": false
       }
@@ -86,7 +100,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Epheser 4, 31-32",
-        "html": "<p class=\"bible\"><sup>31</sup>Mit Bitterkeit, Wutausbrüchen und Zorn sollt ihr nichts mehr zu tun haben. Schreit einander nicht an, redet nicht schlecht über andere und vermeidet jede Feindseligkeit.<sup>32</sup>Seid vielmehr freundlich und barmherzig und vergebt einander, so wie Gott euch durch Jesus Christus vergeben hat. </p><p class=\"bible\"></p><br>",
+        "html": "<p> <sup>31</sup>Mit Bitterkeit, Wutausbrüchen und Zorn sollt ihr nichts mehr zu tun haben. Schreit einander nicht an, redet nicht schlecht über andere und vermeidet jede Feindseligkeit.<sup>32</sup>Seid vielmehr freundlich und barmherzig und vergebt einander, so wie Gott euch durch Jesus Christus vergeben hat. </p>",
         "url": "https://biblegateway.com/passage/?search=Ephesians%204:31-32&version=HOF",
         "isOpen": false
       }
@@ -96,8 +110,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Allgemeine Fragen:",
-          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          {
+            "text": "Allgemeine Fragen:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Ist dir etwas in diesem Text besonders aufgefallen?"
+                },
+                {
+                  "text": "Was gefällt dir an diesem Abschnitt? Was stört dich?"
+                },
+                {
+                  "text": "Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?"
+                },
+                {
+                  "text": "Was kannst du über die Menschheit lernen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          }
         ]
       }
     },
@@ -105,7 +140,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -121,10 +156,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Erinnerst du dich an eine Situation, wo du verlassen wurdest? Oder wo dich jemand in einer Form behandelt hat, die du nicht verdient hast? (Jeder für sich; bitte den Heiligen Geist, dir Situationen aufzu-zeigen).",
-          "Was ist die „Frucht“ in unserem Leben, wenn wir Menschen nicht vergeben, die gegen uns gesündigt haben? (Epheser 4,31)",
-          "Nimmst du solche schlechten Früchte auch in deinem Leben wahr?",
-          "Wie ging Paulus mit der Schuld anderer an ihm um? Lies danach den Kommentar zum Bibeltext."
+          {
+            "text": "Erinnerst du dich an eine Situation, wo du verlassen wurdest? Oder wo dich jemand in einer Form behandelt hat, die du nicht verdient hast? (Jeder für sich; bitte den Heiligen Geist, dir Situationen aufzu-zeigen)."
+          },
+          {
+            "text": "Was ist die „Frucht“ in unserem Leben, wenn wir Menschen nicht vergeben, die gegen uns gesündigt haben? (Epheser 4,31)"
+          },
+          {
+            "text": "Nimmst du solche schlechten Früchte auch in deinem Leben wahr?"
+          },
+          {
+            "text": "Wie ging Paulus mit der Schuld anderer an ihm um? Lies danach den Kommentar zum Bibeltext."
+          }
         ]
       }
     },

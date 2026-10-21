@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben10-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 18:15-18",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>15</sup>Wenn dir ein Bruder unrecht getan hat, geh zu ihm und weise ihn auf seinen Fehler hin. Wenn er auf dich hört und seine Schuld zugibt, hast du ihn zurückgewonnen. <sup>16</sup>Wenn es dir nicht gelingt, nimm einen oder zwei andere und geht noch einmal gemeinsam zu ihm, sodass alles, was du sagst, von zwei oder drei Zeugen bestätigt werden kann. <sup>17</sup>Wenn er auch dann nicht zuhören will, trage den Fall deiner Gemeinde vor. Wenn die Gemeinde dir Recht gibt, aber der andere auch dieses Urteil nicht anerkennt, dann behandelt ihn wie einen, der Gott nicht kennt, oder wie einen bestechlichen Steuereinnehmer. <sup>18</sup>Ich sage euch: Was ihr auf der Erde verbietet, ist auch im Himmel verboten, und was ihr auf der Erde erlaubt, ist auch im Himmel erlaubt. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>15</sup>Wenn dir ein Bruder unrecht getan hat, geh zu ihm und weise ihn auf seinen Fehler hin. Wenn er auf dich hört und seine Schuld zugibt, hast du ihn zurückgewonnen. <sup>16</sup>Wenn es dir nicht gelingt, nimm einen oder zwei andere und geht noch einmal gemeinsam zu ihm, sodass alles, was du sagst, von zwei oder drei Zeugen bestätigt werden kann. <sup>17</sup>Wenn er auch dann nicht zuhören will, trage den Fall deiner Gemeinde vor. Wenn die Gemeinde dir Recht gibt, aber der andere auch dieses Urteil nicht anerkennt, dann behandelt ihn wie einen, der Gott nicht kennt, oder wie einen bestechlichen Steuereinnehmer. <sup>18</sup>Ich sage euch: Was ihr auf der Erde verbietet, ist auch im Himmel verboten, und was ihr auf der Erde erlaubt, ist auch im Himmel erlaubt. </div>",
         "url": "https://bibleserver.com/NLB/Matthäus%2018:15-18",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben10-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

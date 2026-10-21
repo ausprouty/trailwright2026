@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "community-community6-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "1. Petrus 4,8-11",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>8</sup>Das Wichtigste aber ist, dass ihr einander beständig liebt, denn die Liebe deckt viele Sünden zu! <!--]--><!--[--><sup>9</sup>Teilt euer Zuhause gastfreundlich mit anderen, die Essen oder einen Platz zum Schlafen brauchen.<!--]--><!--[--><sup>10</sup>Gott hat jedem von euch Gaben geschenkt, mit denen ihr einander dienen sollt. Setzt sie gut ein, damit sichtbar wird, wie vielfältig Gottes Gnade ist. <!--]--><!--[--><sup>11</sup>Wenn jemand redet, dann rede er so, als würde Gott selbst durch ihn sprechen. Wenn sich jemand für andere einsetzt, dann setze er sich mit all der Kraft und Energie ein, die Gott ihm gibt. Dann wird Gott in allem durch Jesus Christus verherrlicht werden. Alle Ehre und Macht gehören für immer und ewig ihm! Amen. <!--]--><!--[--><h4 class=\"bible\">Als Christ leiden</h4><h4 class=\"anchor_4303351 print_12 scroll-elem\" id=\"\"></h4><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>8</sup>Das Wichtigste aber ist, dass ihr einander beständig liebt, denn die Liebe deckt viele Sünden zu! <sup>9</sup>Teilt euer Zuhause gastfreundlich mit anderen, die Essen oder einen Platz zum Schlafen brauchen.<sup>10</sup>Gott hat jedem von euch Gaben geschenkt, mit denen ihr einander dienen sollt. Setzt sie gut ein, damit sichtbar wird, wie vielfältig Gottes Gnade ist. <sup>11</sup>Wenn jemand redet, dann rede er so, als würde Gott selbst durch ihn sprechen. Wenn sich jemand für andere einsetzt, dann setze er sich mit all der Kraft und Energie ein, die Gott ihm gibt. Dann wird Gott in allem durch Jesus Christus verherrlicht werden. Alle Ehre und Macht gehören für immer und ewig ihm! Amen. <h3>Als Christ leiden</h3> <h4 class=\"anchor_4303351 print_12 scroll-elem\" id=\"\"> </h4> </div>",
         "url": "https://bibleserver.com/NLB/1%20Peter%204,8-11",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "community-community6-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

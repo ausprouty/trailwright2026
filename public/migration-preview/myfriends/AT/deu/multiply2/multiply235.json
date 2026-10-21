@@ -90,7 +90,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-7"
+        "storageKey": "note-1"
       }
     },
     {
@@ -126,16 +126,10 @@
       }
     },
     {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
-      }
-    },
-    {
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 14:1-14",
-        "html": "<div><sup>1</sup>Als Herodes Antipas von Jesus hörte, <sup>2</sup>sagte er zu seinen Ratgebern: »Das muss Johannes der Täufer sein, der von den Toten auferstanden ist! Darum kann er solche Wunder tun.« <sup>3</sup>Denn Herodes hatte Johannes auf Bitten seiner Frau Herodias (der früheren Frau von Philippus, dem Bruder von Herodes) ins Gefängnis werfen lassen. <sup>4</sup>Johannes hatte Herodes immer wieder ins Gewissen geredet: »Es ist gegen das Gesetz, dass du sie geheiratet hast.« <sup>5</sup>Herodes hätte Johannes gern endgültig aus dem Weg geschafft, aber er hatte Angst vor einem Aufstand, weil die Bevölkerung Johannes für einen Propheten hielt. <sup>6</sup>Doch auf einer Geburtstagsfeier für Herodes tanzte die Tochter von Herodias vor den Gästen, und sie gefiel Herodes sehr. <sup>7</sup>Er tat einen Schwur, ihr jeden Wunsch zu erfüllen. <sup>8</sup>Auf Drängen ihrer Mutter bat das Mädchen: »Schenk mir den Kopf von Johannes dem Täufer auf einer Schale!« <sup>9</sup>Nun tat es dem König leid, aber weil er es ihr versprochen hatte und sich vor seinen Gästen keine Blöße geben wollte, erteilte er die notwendigen Befehle. <sup>10</sup>So wurde Johannes im Gefängnis enthauptet. <sup>11</sup>Sein Kopf wurde dem Mädchen auf einer Schale übergeben, die sie ihrer Mutter brachte. <sup>12</sup>Die Jünger des Johannes holten seinen Leichnam und begruben ihn. Dann erzählten sie Jesus, was geschehen war. <h3>Fünftausend Menschen werden satt</h3><sup>13</sup>Als Jesus die Nachricht erhalten hatte, fuhr er mit dem Boot in eine entfernte Gegend, denn er wollte allein sein. Aber die Menschen hatten erfahren, wohin er fuhr, und aus zahlreichen Dörfern folgten sie ihm über Land. <sup>14</sup>Als er aus dem Boot stieg, erwartete ihn bereits eine große Menschenmenge. Er hatte Mitleid mit ihnen und heilte die Kranken. </div><p></p>",
+        "html": "<div><sup>1</sup>Als Herodes Antipas von Jesus hörte, <sup>2</sup>sagte er zu seinen Ratgebern: »Das muss Johannes der Täufer sein, der von den Toten auferstanden ist! Darum kann er solche Wunder tun.« <sup>3</sup>Denn Herodes hatte Johannes auf Bitten seiner Frau Herodias (der früheren Frau von Philippus, dem Bruder von Herodes) ins Gefängnis werfen lassen. <sup>4</sup>Johannes hatte Herodes immer wieder ins Gewissen geredet: »Es ist gegen das Gesetz, dass du sie geheiratet hast.« <sup>5</sup>Herodes hätte Johannes gern endgültig aus dem Weg geschafft, aber er hatte Angst vor einem Aufstand, weil die Bevölkerung Johannes für einen Propheten hielt. <sup>6</sup>Doch auf einer Geburtstagsfeier für Herodes tanzte die Tochter von Herodias vor den Gästen, und sie gefiel Herodes sehr. <sup>7</sup>Er tat einen Schwur, ihr jeden Wunsch zu erfüllen. <sup>8</sup>Auf Drängen ihrer Mutter bat das Mädchen: »Schenk mir den Kopf von Johannes dem Täufer auf einer Schale!« <sup>9</sup>Nun tat es dem König leid, aber weil er es ihr versprochen hatte und sich vor seinen Gästen keine Blöße geben wollte, erteilte er die notwendigen Befehle. <sup>10</sup>So wurde Johannes im Gefängnis enthauptet. <sup>11</sup>Sein Kopf wurde dem Mädchen auf einer Schale übergeben, die sie ihrer Mutter brachte. <sup>12</sup>Die Jünger des Johannes holten seinen Leichnam und begruben ihn. Dann erzählten sie Jesus, was geschehen war. <h3>Fünftausend Menschen werden satt</h3> <sup>13</sup>Als Jesus die Nachricht erhalten hatte, fuhr er mit dem Boot in eine entfernte Gegend, denn er wollte allein sein. Aber die Menschen hatten erfahren, wohin er fuhr, und aus zahlreichen Dörfern folgten sie ihm über Land. <sup>14</sup>Als er aus dem Boot stieg, erwartete ihn bereits eine große Menschenmenge. Er hatte Mitleid mit ihnen und heilte die Kranken. </div>",
         "url": "https://bibleserver.com/NLB/Matthäus%2014:1-14",
         "isOpen": false
       }
@@ -157,7 +151,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Markus 6:30",
-        "html": "<div><sup>30</sup>Die Apostel kehrten zu Jesus zurück und berichteten, was sie getan und gelehrt hatten. </div><p></p>",
+        "html": "<div><sup>30</sup>Die Apostel kehrten zu Jesus zurück und berichteten, was sie getan und gelehrt hatten. </div>",
         "url": "https://bibleserver.com/NLB/Markus%206:30",
         "isOpen": false
       }
@@ -221,7 +215,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-19"
+        "storageKey": "note-2"
       }
     },
     {
@@ -286,6 +280,12 @@
             "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
           }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply235-i-will"
       }
     },
     {

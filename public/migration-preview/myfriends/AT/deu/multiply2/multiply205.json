@@ -90,7 +90,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-7"
+        "storageKey": "note-1"
       }
     },
     {
@@ -126,16 +126,10 @@
       }
     },
     {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
-      }
-    },
-    {
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 13:55-56",
-        "html": "<div><sup>55</sup>Er ist doch nur der Sohn eines Zimmermanns, und wir kennen doch alle Maria, seine Mutter, und seine Brüder – Jakobus, Josef, Simon und Judas. <sup>56</sup>Alle seine Schwestern leben hier unter uns. Was macht ihn zu so etwas Besonderem?« </div><p></p>",
+        "html": "<div><sup>55</sup>Er ist doch nur der Sohn eines Zimmermanns, und wir kennen doch alle Maria, seine Mutter, und seine Brüder – Jakobus, Josef, Simon und Judas. <sup>56</sup>Alle seine Schwestern leben hier unter uns. Was macht ihn zu so etwas Besonderem?« </div>",
         "url": "https://bibleserver.com/NLB/Matthäus%2013:55-56",
         "isOpen": false
       }
@@ -187,19 +181,19 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "<strong id=\"docs-internal-guid-1a0aee6e-7fff-84b3-074f-88e6dd97e502\">Lies auch Hebräer 5,8-9</strong>"
+                "text": "Lies auch Hebräer 5,8-9"
               }
             },
             {
               "type": "paragraph",
               "data": {
-                "text": "<strong id=\"docs-internal-guid-1a0aee6e-7fff-84b3-074f-88e6dd97e502\">Wir haben nicht viele Informationen darüber, wie das Leben von Jesus als Teenager verlief, aber wir können davon ausgehen, dass er ein normales jüdisches Leben führte. Er war der älteste Bruder einer großen Familie (Markus 6,3).</strong>"
+                "text": "Wir haben nicht viele Informationen darüber, wie das Leben von Jesus als Teenager verlief, aber wir können davon ausgehen, dass er ein normales jüdisches Leben führte. Er war der älteste Bruder einer großen Familie (Markus 6,3)."
               }
             },
             {
               "type": "paragraph",
               "data": {
-                "text": "<strong id=\"docs-internal-guid-1a0aee6e-7fff-84b3-074f-88e6dd97e502\">Wahrscheinlich hat er von Joseph das Familiengewerbe des Bauarbeiters gelernt. Die Bibel sagt uns, dass er wie du und ich “Gehorsam lernen musste” (Hebräer 5,8). Mit anderen Worten, er akzeptierte Korrektur und handelte danach. Er wurde von seinen Brüdern verspottet und ignoriert. Nachdem Joseph gestorben war, wurde Jesus wahrscheinlich zum Hauptversorger seiner Familie, bis sein öffentliches Wirken startete.</strong>"
+                "text": "Wahrscheinlich hat er von Joseph das Familiengewerbe des Bauarbeiters gelernt. Die Bibel sagt uns, dass er wie du und ich “Gehorsam lernen musste” (Hebräer 5,8). Mit anderen Worten, er akzeptierte Korrektur und handelte danach. Er wurde von seinen Brüdern verspottet und ignoriert. Nachdem Joseph gestorben war, wurde Jesus wahrscheinlich zum Hauptversorger seiner Familie, bis sein öffentliches Wirken startete."
               }
             }
           ],
@@ -211,7 +205,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-17"
+        "storageKey": "note-2"
       }
     },
     {
@@ -276,6 +270,12 @@
             "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
           }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply205-i-will"
       }
     },
     {

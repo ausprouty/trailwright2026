@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben05-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 5:43-47",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>43</sup>Ihr habt gehört, dass es im Gesetz von Mose heißt: ›Liebe deinen Nächsten‹ und hasse deinen Feind. <sup>44</sup>Ich aber sage: Liebt eure Feinde! Betet für die, die euch verfolgen! <sup>45</sup>So handelt ihr wie wahre Kinder eures Vaters im Himmel. Denn er lässt die Sonne für Böse und Gute aufgehen und sendet Regen für die Gerechten wie für die Ungerechten. <sup>46</sup>Wenn ihr nur die liebt, die euch auch lieben, was ist daran Besonderes? Das tun sogar die bestechlichen Steuereintreiber. <sup>47</sup>Wenn ihr nur zu euren Freunden freundlich seid, wodurch unterscheidet ihr euch dann von den anderen Menschen? Das tun sogar die, die Gott nicht kennen. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>43</sup>Ihr habt gehört, dass es im Gesetz von Mose heißt: ›Liebe deinen Nächsten‹ und hasse deinen Feind. <sup>44</sup>Ich aber sage: Liebt eure Feinde! Betet für die, die euch verfolgen! <sup>45</sup>So handelt ihr wie wahre Kinder eures Vaters im Himmel. Denn er lässt die Sonne für Böse und Gute aufgehen und sendet Regen für die Gerechten wie für die Ungerechten. <sup>46</sup>Wenn ihr nur die liebt, die euch auch lieben, was ist daran Besonderes? Das tun sogar die bestechlichen Steuereintreiber. <sup>47</sup>Wenn ihr nur zu euren Freunden freundlich seid, wodurch unterscheidet ihr euch dann von den anderen Menschen? Das tun sogar die, die Gott nicht kennen. </div>",
         "url": "https://bibleserver.com/NLB/Matthäus%205:43-47",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben05-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

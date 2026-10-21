@@ -1,12 +1,14 @@
 {
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics103",
+  "sortOrder": 2,
   "blocks": [
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "back",
-        "title": "ZUSAMMENKOMMEN"
-      }
-    },
     {
       "type": "iconList",
       "data": {
@@ -31,28 +33,10 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Betet füreinander."
+          {
+            "text": "Betet füreinander."
+          }
         ]
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- ENTDECKEN -->"
-      }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "basics-basics103-look-up"
-      }
-    },
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "up",
-        "title": "ENTDECKEN"
       }
     },
     {
@@ -71,18 +55,12 @@
       }
     },
     {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
-      }
-    },
-    {
       "type": "biblePassage",
       "data": {
         "reference": "1 Mose 6, 5-22",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>5</sup>Doch der HERR sah, dass die Bosheit der Menschen groß war und dass alle ihre Gedanken durch und durch böse waren. <sup>6</sup>Da bereute der HERR, dass er sie geschaffen hatte, ja es bekümmerte ihn sehr. <sup>7</sup>Und der HERR sprach: »Ich werde diese Menschen, die ich geschaffen habe, von der Erde ausrotten; sowohl die Menschen als auch das Vieh, die Kriechtiere und die Vögel. Ich bereue, dass ich sie überhaupt geschaffen habe.« <sup>8</sup>Noah aber fand Gnade vor dem Herrn. <sup>9</sup>Dies ist die Geschichte von Noah und seiner Familie. Noah war ein Gerechter, der einzige fehlerlose Mensch, der damals auf der Erde lebte. Er lebte in enger Gemeinschaft mit Gott. <sup>10</sup>Noah hatte drei Söhne: Sem, Ham und Jafet. <sup>11</sup>Die Menschen waren böse und gewalttätig. <sup>12</sup>Gott sah auf die Erde, und sie war voller Verbrechen, denn die Menschen handelten böse. <sup>13</sup>Deshalb sprach Gott zu Noah: »Ich habe beschlossen, alle Lebewesen auszulöschen, denn die Erde ist ihretwegen voller Gewalt. Ich will sie zusammen mit der Erde vernichten! <sup>14</sup>Bau ein Schiff aus harzhaltigem Holz und dichte es innen und außen mit Teer ab. Bau anschließend Decks und Räume ein. <sup>15</sup>Das Schiff soll 300 Ellen lang, 50 Ellen breit und 30 Ellen hoch sein. <sup>16</sup>Lass unter dem Dach eine Öffnung – eine Elle breit – frei, die rund um das Schiff geht. Leg dann drei Decks im Schiff an – unten, in der Mitte und oben –, und setz an der Seite eine Tür ein. <sup>17</sup>Sieh! Ich werde die Erde mit einer Flut überschwemmen, um alles Lebendige auf ihr zu vernichten. Alles, was auf der Erde lebt, soll sterben! <sup>18</sup>Doch mit dir schließe ich einen Bund und du sollst, zusammen mit deiner Frau, deinen Söhnen und deren Frauen, in das Schiff gehen. <sup>19</sup>Bring ein Paar von jeder Tierart – ein Männchen und ein Weibchen – in das Schiff, damit sie mit dir die Flut überleben. <sup>20</sup>Ein Paar von jeder Vogelart und jeder Tierart, ob groß oder klein, soll zu dir in das Schiff kommen, um zu überleben. <sup>21</sup>Und nimm genügend Nahrung für deine Familie und all die Tiere mit an Bord.« <sup>22</sup>Noah führte alles genauso aus, wie Gott es ihm befohlen hatte. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>5</sup>Doch der HERR sah, dass die Bosheit der Menschen groß war und dass alle ihre Gedanken durch und durch böse waren. <sup>6</sup>Da bereute der HERR, dass er sie geschaffen hatte, ja es bekümmerte ihn sehr. <sup>7</sup>Und der HERR sprach: »Ich werde diese Menschen, die ich geschaffen habe, von der Erde ausrotten; sowohl die Menschen als auch das Vieh, die Kriechtiere und die Vögel. Ich bereue, dass ich sie überhaupt geschaffen habe.« <sup>8</sup>Noah aber fand Gnade vor dem Herrn. <sup>9</sup>Dies ist die Geschichte von Noah und seiner Familie. Noah war ein Gerechter, der einzige fehlerlose Mensch, der damals auf der Erde lebte. Er lebte in enger Gemeinschaft mit Gott. <sup>10</sup>Noah hatte drei Söhne: Sem, Ham und Jafet. <sup>11</sup>Die Menschen waren böse und gewalttätig. <sup>12</sup>Gott sah auf die Erde, und sie war voller Verbrechen, denn die Menschen handelten böse. <sup>13</sup>Deshalb sprach Gott zu Noah: »Ich habe beschlossen, alle Lebewesen auszulöschen, denn die Erde ist ihretwegen voller Gewalt. Ich will sie zusammen mit der Erde vernichten! <sup>14</sup>Bau ein Schiff aus harzhaltigem Holz und dichte es innen und außen mit Teer ab. Bau anschließend Decks und Räume ein. <sup>15</sup>Das Schiff soll 300 Ellen lang, 50 Ellen breit und 30 Ellen hoch sein. <sup>16</sup>Lass unter dem Dach eine Öffnung – eine Elle breit – frei, die rund um das Schiff geht. Leg dann drei Decks im Schiff an – unten, in der Mitte und oben –, und setz an der Seite eine Tür ein. <sup>17</sup>Sieh! Ich werde die Erde mit einer Flut überschwemmen, um alles Lebendige auf ihr zu vernichten. Alles, was auf der Erde lebt, soll sterben! <sup>18</sup>Doch mit dir schließe ich einen Bund und du sollst, zusammen mit deiner Frau, deinen Söhnen und deren Frauen, in das Schiff gehen. <sup>19</sup>Bring ein Paar von jeder Tierart – ein Männchen und ein Weibchen – in das Schiff, damit sie mit dir die Flut überleben. <sup>20</sup>Ein Paar von jeder Vogelart und jeder Tierart, ob groß oder klein, soll zu dir in das Schiff kommen, um zu überleben. <sup>21</sup>Und nimm genügend Nahrung für deine Familie und all die Tiere mit an Bord.« <sup>22</sup>Noah führte alles genauso aus, wie Gott es ihm befohlen hatte. </div>",
         "url": "https://bibleserver.com/NLB/1%20Mose%206,%205-22",
-        "isOpen": true
+        "isOpen": false
       }
     },
     {
@@ -104,7 +82,7 @@
       "type": "collapsibleGroup",
       "data": {
         "title": "Kommentar zum Bibeltext",
-        "isOpen": true,
+        "isOpen": false,
         "content": {
           "blocks": [
             {
@@ -118,30 +96,24 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "In der zweiten Generation der Menschen war Individualismus und damit auch Egoismus und Eifersucht - kurz \"die Sünde“ - schon so weit fortgeschritten, dass Kain seinen jüngeren Bruder ermordete. Als Strafe dafür wurde er aus seiner Familie ausgestoßen.",
-                  "Kain hatte keine Familie und damit praktisch keinen Schutz mehr. Man beschloss, dass er siebenfach gerächt werden sollte, was bedeutet, dass, wenn jemand Kain ermorden würde, sieben weitere Menschen ermordet werden sollten (1.Mose 4:8-15).",
-                  "In der 7. Generation ermordete Lamech Menschen wegen einer Beule und verlange, dass er nicht wie Kain \"nur\" 7-fach gerächt werden müsse, sondern 77-fach (1.Mose 4:23-24)",
-                  "Über die 10. Generation, “die Generation von Noah“, musste man sagen, dass jetzt die Bosheit der Menschen GROSS war. So groß, dass sie nur noch Böses im Sinn hatten (1. Mose 6:11-12). Deshalb hat Gott beschlossen, auf sehr dramatische Weise in die Weltgeschichte einzugreifen um die Bosheit einzudämmen, indem er durch die Flut nur das Gute überleben ließ und so ein Neuanfang geschah (1. Mose 6-7)."
+                  {
+                    "text": "In der zweiten Generation der Menschen war Individualismus und damit auch Egoismus und Eifersucht - kurz \"die Sünde“ - schon so weit fortgeschritten, dass Kain seinen jüngeren Bruder ermordete. Als Strafe dafür wurde er aus seiner Familie ausgestoßen."
+                  },
+                  {
+                    "text": "Kain hatte keine Familie und damit praktisch keinen Schutz mehr. Man beschloss, dass er siebenfach gerächt werden sollte, was bedeutet, dass, wenn jemand Kain ermorden würde, sieben weitere Menschen ermordet werden sollten (1.Mose 4:8-15)."
+                  },
+                  {
+                    "text": "In der 7. Generation ermordete Lamech Menschen wegen einer Beule und verlange, dass er nicht wie Kain \"nur\" 7-fach gerächt werden müsse, sondern 77-fach (1.Mose 4:23-24)"
+                  },
+                  {
+                    "text": "Über die 10. Generation, “die Generation von Noah“, musste man sagen, dass jetzt die Bosheit der Menschen GROSS war. So groß, dass sie nur noch Böses im Sinn hatten (1. Mose 6:11-12). Deshalb hat Gott beschlossen, auf sehr dramatische Weise in die Weltgeschichte einzugreifen um die Bosheit einzudämmen, indem er durch die Flut nur das Gute überleben ließ und so ein Neuanfang geschah (1. Mose 6-7)."
+                  }
                 ]
               }
             }
           ],
           "version": "2.31.5"
         }
-      }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "basics-basics103-look-forward"
-      }
-    },
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "forward",
-        "title": "WEITERGEBEN"
       }
     },
     {
@@ -168,7 +140,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -178,7 +152,5 @@
         "storageKey": "basics-basics103-i-will"
       }
     }
-  ],
-  "time": 1778401521476,
-  "version": "2.31.5"
+  ]
 }

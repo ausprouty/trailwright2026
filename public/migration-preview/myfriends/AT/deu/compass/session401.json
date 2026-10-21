@@ -22,9 +22,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -44,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-1"
       }
     },
     {
@@ -60,10 +66,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Alle lesen den Text leise für sich.",
-          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
-          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
-          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          {
+            "text": "Alle lesen den Text leise für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln."
+          },
+          {
+            "text": "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln)."
+          },
+          {
+            "text": "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          }
         ]
       }
     },
@@ -71,7 +85,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 15, 11-32",
-        "html": "<div class=\"bible\"><p class=\"bible\"><sup>11</sup>Jesus fuhr fort: »Ein Mann hatte zwei Söhne.<sup>12</sup>Der jüngere sagte zu ihm: ›Vater, gib mir den Anteil am Erbe, der mir zusteht!‹ Da teilte der Vater das Vermögen unter die beiden auf.<sup>13</sup>Wenige Tage später hatte der jüngere Sohn seinen ganzen Anteil verkauft und zog mit dem Erlös in ein fernes Land. Dort lebte er in Saus und Braus und brachte sein Vermögen durch.</p><p class=\"bible\"><sup>14</sup>Als er alles aufgebraucht hatte, wurde jenes Land von einer großen Hungersnot heimgesucht. Da geriet auch er in Schwierigkeiten.<sup>15</sup>In seiner Not wandte er sich an einen Bürger des Landes, und dieser schickte ihn zum Schweinehüten auf seine Felder.<sup>16</sup>Er wäre froh gewesen, wenn er seinen Hunger mit den Schoten, die die Schweine fraßen, hätte stillen dürfen, doch selbst davon wollte ihm keiner etwas geben.</p><p class=\"bible\"><sup>17</sup>Jetzt kam er zur Besinnung. Er sagte sich: ›Wie viele Tagelöhner hat mein Vater, und alle haben mehr als genug zu essen! Ich dagegen komme hier vor Hunger um.<sup>18</sup>Ich will mich aufmachen und zu meinem Vater gehen und zu ihm sagen: Vater, ich habe mich gegen den Himmel und gegen dich versündigt;<sup>19</sup>ich bin es nicht mehr wert, dein Sohn genannt zu werden. Mach mich zu einem deiner Tagelöhner!‹</p><p class=\"bible\"><sup>20</sup>So machte er sich auf den Weg zu seinem Vater. Dieser sah ihn schon von weitem kommen; voller Mitleid lief er ihm entgegen, fiel ihm um den Hals und küsste ihn.<sup>21</sup>›Vater‹, sagte der Sohn zu ihm, ›ich habe mich gegen den Himmel und gegen dich versündigt; ich bin es nicht mehr wert, dein Sohn genannt zu werden.‹<sup>22</sup>Doch der Vater befahl seinen Dienern: ›Schnell, holt das beste Gewand und zieht es ihm an, steckt ihm einen Ring an den Finger und bringt ihm ein Paar Sandalen!<sup>23</sup>Holt das Mastkalb und schlachtet es; wir wollen ein Fest feiern und fröhlich sein.<sup>24</sup>Denn mein Sohn war tot, und nun lebt er wieder; er war verloren, und nun ist er wiedergefunden.‹ Und sie begannen zu feiern.</p><p class=\"bible\"><sup>25</sup>Der ältere Sohn war auf dem Feld gewesen. Als er jetzt zurückkam, hörte er schon von weitem den Lärm von Musik und Tanz.<sup>26</sup>Er rief einen Knecht und erkundigte sich, was das zu bedeuten habe.<sup>27</sup>›Dein Bruder ist zurückgekommen‹, lautete die Antwort, ›und dein Vater hat das Mastkalb schlachten lassen, weil er ihn wohlbehalten wiederhat.‹<sup>28</sup>Der ältere Bruder wurde zornig und wollte nicht ins Haus hineingehen. Da kam sein Vater heraus und redete ihm gut zu.<sup>29</sup>Aber er hielt seinem Vater vor: ›So viele Jahre diene ich dir jetzt schon und habe mich nie deinen Anordnungen widersetzt. Und doch hast du mir nie auch nur einen Ziegenbock gegeben, sodass ich mit meinen Freunden hätte feiern können!<sup>30</sup>Und nun kommt dieser Mensch da zurück, dein Sohn, der dein Vermögen mit Huren durchgebracht hat, und du lässt das Mastkalb für ihn schlachten!‹ –<sup>31</sup>›Kind‹, sagte der Vater zu ihm, ›du bist immer bei mir, und alles, was mir gehört, gehört auch dir.<sup>32</sup>Aber jetzt mussten wir doch feiern und uns freuen; denn dieser hier, dein Bruder, war tot, und nun lebt er wieder; er war verloren, und nun ist er wiedergefunden.‹«</p><p class=\"bible\"></p></div>",
+        "html": "<p><sup>11</sup>Jesus fuhr fort: »Ein Mann hatte zwei Söhne.<sup>12</sup>Der jüngere sagte zu ihm: ›Vater, gib mir den Anteil am Erbe, der mir zusteht!‹ Da teilte der Vater das Vermögen unter die beiden auf.<sup>13</sup>Wenige Tage später hatte der jüngere Sohn seinen ganzen Anteil verkauft und zog mit dem Erlös in ein fernes Land. Dort lebte er in Saus und Braus und brachte sein Vermögen durch.</p> <p><sup>14</sup>Als er alles aufgebraucht hatte, wurde jenes Land von einer großen Hungersnot heimgesucht. Da geriet auch er in Schwierigkeiten.<sup>15</sup>In seiner Not wandte er sich an einen Bürger des Landes, und dieser schickte ihn zum Schweinehüten auf seine Felder.<sup>16</sup>Er wäre froh gewesen, wenn er seinen Hunger mit den Schoten, die die Schweine fraßen, hätte stillen dürfen, doch selbst davon wollte ihm keiner etwas geben.</p> <p><sup>17</sup>Jetzt kam er zur Besinnung. Er sagte sich: ›Wie viele Tagelöhner hat mein Vater, und alle haben mehr als genug zu essen! Ich dagegen komme hier vor Hunger um.<sup>18</sup>Ich will mich aufmachen und zu meinem Vater gehen und zu ihm sagen: Vater, ich habe mich gegen den Himmel und gegen dich versündigt;<sup>19</sup>ich bin es nicht mehr wert, dein Sohn genannt zu werden. Mach mich zu einem deiner Tagelöhner!‹</p> <p><sup>20</sup>So machte er sich auf den Weg zu seinem Vater. Dieser sah ihn schon von weitem kommen; voller Mitleid lief er ihm entgegen, fiel ihm um den Hals und küsste ihn.<sup>21</sup>›Vater‹, sagte der Sohn zu ihm, ›ich habe mich gegen den Himmel und gegen dich versündigt; ich bin es nicht mehr wert, dein Sohn genannt zu werden.‹<sup>22</sup>Doch der Vater befahl seinen Dienern: ›Schnell, holt das beste Gewand und zieht es ihm an, steckt ihm einen Ring an den Finger und bringt ihm ein Paar Sandalen!<sup>23</sup>Holt das Mastkalb und schlachtet es; wir wollen ein Fest feiern und fröhlich sein.<sup>24</sup>Denn mein Sohn war tot, und nun lebt er wieder; er war verloren, und nun ist er wiedergefunden.‹ Und sie begannen zu feiern.</p> <p><sup>25</sup>Der ältere Sohn war auf dem Feld gewesen. Als er jetzt zurückkam, hörte er schon von weitem den Lärm von Musik und Tanz.<sup>26</sup>Er rief einen Knecht und erkundigte sich, was das zu bedeuten habe.<sup>27</sup>›Dein Bruder ist zurückgekommen‹, lautete die Antwort, ›und dein Vater hat das Mastkalb schlachten lassen, weil er ihn wohlbehalten wiederhat.‹<sup>28</sup>Der ältere Bruder wurde zornig und wollte nicht ins Haus hineingehen. Da kam sein Vater heraus und redete ihm gut zu.<sup>29</sup>Aber er hielt seinem Vater vor: ›So viele Jahre diene ich dir jetzt schon und habe mich nie deinen Anordnungen widersetzt. Und doch hast du mir nie auch nur einen Ziegenbock gegeben, sodass ich mit meinen Freunden hätte feiern können!<sup>30</sup>Und nun kommt dieser Mensch da zurück, dein Sohn, der dein Vermögen mit Huren durchgebracht hat, und du lässt das Mastkalb für ihn schlachten!‹ –<sup>31</sup>›Kind‹, sagte der Vater zu ihm, ›du bist immer bei mir, und alles, was mir gehört, gehört auch dir.<sup>32</sup>Aber jetzt mussten wir doch feiern und uns freuen; denn dieser hier, dein Bruder, war tot, und nun lebt er wieder; er war verloren, und nun ist er wiedergefunden.‹«</p>",
         "url": "https://biblegateway.com/passage/?search=Luke%2015:11-32&version=NGU-DE",
         "isOpen": false
       }
@@ -81,8 +95,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Allgemeine Fragen: <ul class=\"arrows\"><li>Ist dir etwas in diesem Text besonders aufgefallen?</li><li>Was gefällt dir an diesem Abschnitt? Was stört dich?</li><li>Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?</li><li>Was kannst du über die Menschheit lernen?</li></ul>",
-          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          {
+            "text": "Allgemeine Fragen:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Ist dir etwas in diesem Text besonders aufgefallen?"
+                },
+                {
+                  "text": "Was gefällt dir an diesem Abschnitt? Was stört dich?"
+                },
+                {
+                  "text": "Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?"
+                },
+                {
+                  "text": "Was kannst du über die Menschheit lernen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          }
         ]
       }
     },
@@ -90,7 +125,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -106,10 +141,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Wie sieht sich der jüngere Sohn und wie der ältere? Was erwarten sie für sich vom Vater? Und wie durchbricht der Vater ihre Vorstellungen?",
-          "Das Wort „Diener“ (oder auch „Knecht“) kommt mehrmals vor. Was sagt das über die Denkweise der Söhne?",
-          "Für was steht das Kleid und für was steht der Siegelring? Und was will Jesus wohl uns (auch uns Christen!) mit dieser Geschichte über Gottes Herz sagen?",
-          "Fühlst du dich mehr wie ein Diener oder wie ein Sohn bzw. eine Toch-ter Gottes? Gibt es Situationen, wo die eine oder andere Überzeugung überwiegt?"
+          {
+            "text": "Wie sieht sich der jüngere Sohn und wie der ältere? Was erwarten sie für sich vom Vater? Und wie durchbricht der Vater ihre Vorstellungen?"
+          },
+          {
+            "text": "Das Wort „Diener“ (oder auch „Knecht“) kommt mehrmals vor. Was sagt das über die Denkweise der Söhne?"
+          },
+          {
+            "text": "Für was steht das Kleid und für was steht der Siegelring? Und was will Jesus wohl uns (auch uns Christen!) mit dieser Geschichte über Gottes Herz sagen?"
+          },
+          {
+            "text": "Fühlst du dich mehr wie ein Diener oder wie ein Sohn bzw. eine Toch-ter Gottes? Gibt es Situationen, wo die eine oder andere Überzeugung überwiegt?"
+          }
         ]
       }
     },

@@ -22,9 +22,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -44,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-1"
       }
     },
     {
@@ -60,10 +66,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Alle lesen den Text leise für sich.",
-          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
-          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
-          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          {
+            "text": "Alle lesen den Text leise für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln."
+          },
+          {
+            "text": "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln)."
+          },
+          {
+            "text": "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          }
         ]
       }
     },
@@ -71,7 +85,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Apostelgeschichte 17, 16-34",
-        "html": "<div class=\"bible\"><p class=\"bible\"><sup>16</sup>Während Paulus nun in Athen auf die beiden wartete, sah er sich in der Stadt um. Empört und erschüttert stellte er fest, dass ihre Straßen von zahllosen Götterstatuen gesäumt waren,<sup> 17 </sup>und er begann, ´mit den Leuten Gespräche zu führen`. In der Synagoge redete er mit den Juden und mit denen, die sich zur jüdischen Gemeinde hielten, und auf dem Marktplatz unterhielt er sich Tag für Tag mit denen, die er dort antraf. </p><p class=\"bible\"><sup>18</sup>Dabei kam es auch zu Diskussionen mit epikureischen und stoischen Philosophen. Einige von ihnen spotteten: »Was will eigentlich dieser sonderbare Vogel mit seinen aufgepickten Weisheiten? Glaubt er, er könne uns etwas beibringen?« Andere meinten: »Es scheint, als wolle er Propaganda für irgendwelche fremden Götter machen!« ´Zu diesem Schluss kamen sie,` weil sie Paulus, als er das Evangelium verkündete, von Jesus und von der Auferstehung reden hörten. </p><p class=\"bible\"><sup>19</sup>Schließlich nahmen sie Paulus in ihre Mitte und führten ihn vor den Areopag, ´den Stadtrat von Athen`. »Dürften wir erfahren, was das für eine neue Lehre ist, die du da vertrittst?«, sagten sie.<sup>20</sup>»Du redest über Dinge, die uns bisher noch nie zu Ohren gekommen sind, und es würde uns interessieren, worum es dabei eigentlich geht.« (<sup> 21 </sup>´Man muss dazu wissen, dass` sich sämtliche Einwohner Athens und sogar die Fremden, die sich nur vorübergehend in dieser Stadt aufhalten, ihre Zeit am liebsten damit vertreiben, stets das Allerneuste in Erfahrung zu bringen und es weiterzuerzählen.) </p><p class=\"bible\"><sup>22</sup>Da trat Paulus vor die Ratsmitglieder und alle anderen, die zusammengekommen waren, und begann: »Bürger von Athen! Ich habe mich mit eigenen Augen davon überzeugen können, dass ihr außergewöhnlich religiöse Leute seid.<sup> 23 </sup>Als ich nämlich durch die Straßen eurer Stadt ging und mir eure Heiligtümer ansah, stieß ich auf einen Altar mit der Inschrift: ›Für einen unbekannten Gott‹. Ihr verehrt also ´ein göttliches Wesen`, ohne es zu kennen. Nun, gerade diese ´euch unbekannte Gottheit` verkünde ich euch. </p><p class=\"bible\"><sup>24</sup>´Meine Botschaft handelt von` dem Gott, der die ganze Welt mit allem, was darin ist, geschaffen hat. Er, der Herr über Himmel und Erde, wohnt nicht in Tempeln, die von Menschen erbaut wurden.<sup>25</sup>Er ist auch nicht darauf angewiesen, dass wir Menschen ihm dienen. Nicht er ist von uns abhängig, ´sondern wir von ihm`. Er ist es, der uns allen das Leben und die Luft zum Atmen gibt und uns mit allem versorgt, ´was wir zum Leben brauchen`.<sup> 26 </sup>Aus einem einzigen ´Menschen` hat er alle Völker hervorgehen lassen. Er hat bestimmt, dass sich die Menschen über die ganze Erde ausbreiten, und hat festgelegt, wie lange jedes Volk bestehen und in welchem Gebiet es leben soll. </p><p class=\"bible\"><sup>27</sup>´Mit allem, was er tat,` wollte er die Menschen dazu bringen, nach ihm zu fragen; er wollte, dass sie – wenn irgend möglich – in Kontakt mit ihm kommen und ihn finden. Er ist ja für keinen von uns in ´unerreichbarer` Ferne.<sup> 28 </sup>Denn in ihm, ´dessen Gegenwart alles durchdringt,` leben wir, bestehen wir und sind wir. Oder, wie es einige eurer eigenen Dichter ausgedrückt haben: ›Er ist es, von dem wir abstammen.‹ </p><p class=\"bible\"><sup>29</sup>Wenn wir nun aber von Gott abstammen, dürfen wir nicht meinen, die Gottheit gleiche ´jenen Statuen aus` Gold, Silber oder Stein, die das Produkt menschlicher Erfindungskraft und Kunstfertigkeit sind.<sup>30</sup>In der Vergangenheit hat Gott gnädig über die Verfehlungen hinweggesehen, die die Menschen in ihrer Unwissenheit begangen haben. Doch jetzt fordert er alle Menschen an allen Orten zur Umkehr auf.<sup> 31 </sup>Er hat nämlich einen Tag festgesetzt, an dem er durch einen von ihm bestimmten Mann über die ganze Menschheit Gericht halten und über alle ein gerechtes Urteil sprechen wird. Diesen Mann hat er vor aller Welt ´als den künftigen Richter` bestätigt, indem er ihn von den Toten auferweckt hat.« </p><p class=\"bible\"><sup>32</sup><span class=\"normal\"> Als Paulus von der Auferstehung der Toten sprach, brach ein Teil der Zuhörer in Gelächter aus, und andere sagten: »Über dieses Thema wollen wir zu einem späteren Zeitpunkt mehr von dir erfahren.« </span><sup>33</sup><span class=\"normal\"> Damit endete die Anhörung, und Paulus verließ die Ratsversammlung. </span></p><p class=\"bible\"><sup>34</sup>Doch einige Leute schlossen sich ihm an und kamen zum Glauben, so zum Beispiel Dionysios, ein Mitglied des Stadtrats, und eine Frau namens Damaris; und es gab noch andere, die zusammen mit diesen beiden ´an Jesus glaubten`. </p><p class=\"bible\"><br></p></div>",
+        "html": "<p> <sup>16</sup>Während Paulus nun in Athen auf die beiden wartete, sah er sich in der Stadt um. Empört und erschüttert stellte er fest, dass ihre Straßen von zahllosen Götterstatuen gesäumt waren,<sup> 17 </sup>und er begann, ´mit den Leuten Gespräche zu führen`. In der Synagoge redete er mit den Juden und mit denen, die sich zur jüdischen Gemeinde hielten, und auf dem Marktplatz unterhielt er sich Tag für Tag mit denen, die er dort antraf. </p> <p> <sup>18</sup>Dabei kam es auch zu Diskussionen mit epikureischen und stoischen Philosophen. Einige von ihnen spotteten: »Was will eigentlich dieser sonderbare Vogel mit seinen aufgepickten Weisheiten? Glaubt er, er könne uns etwas beibringen?« Andere meinten: »Es scheint, als wolle er Propaganda für irgendwelche fremden Götter machen!« ´Zu diesem Schluss kamen sie,` weil sie Paulus, als er das Evangelium verkündete, von Jesus und von der Auferstehung reden hörten. </p> <p> <sup>19</sup>Schließlich nahmen sie Paulus in ihre Mitte und führten ihn vor den Areopag, ´den Stadtrat von Athen`. »Dürften wir erfahren, was das für eine neue Lehre ist, die du da vertrittst?«, sagten sie.<sup>20</sup>»Du redest über Dinge, die uns bisher noch nie zu Ohren gekommen sind, und es würde uns interessieren, worum es dabei eigentlich geht.« (<sup> 21 </sup>´Man muss dazu wissen, dass` sich sämtliche Einwohner Athens und sogar die Fremden, die sich nur vorübergehend in dieser Stadt aufhalten, ihre Zeit am liebsten damit vertreiben, stets das Allerneuste in Erfahrung zu bringen und es weiterzuerzählen.) </p> <p> <sup>22</sup>Da trat Paulus vor die Ratsmitglieder und alle anderen, die zusammengekommen waren, und begann: »Bürger von Athen! Ich habe mich mit eigenen Augen davon überzeugen können, dass ihr außergewöhnlich religiöse Leute seid.<sup> 23 </sup>Als ich nämlich durch die Straßen eurer Stadt ging und mir eure Heiligtümer ansah, stieß ich auf einen Altar mit der Inschrift: ›Für einen unbekannten Gott‹. Ihr verehrt also ´ein göttliches Wesen`, ohne es zu kennen. Nun, gerade diese ´euch unbekannte Gottheit` verkünde ich euch. </p> <p> <sup>24</sup>´Meine Botschaft handelt von` dem Gott, der die ganze Welt mit allem, was darin ist, geschaffen hat. Er, der Herr über Himmel und Erde, wohnt nicht in Tempeln, die von Menschen erbaut wurden.<sup>25</sup>Er ist auch nicht darauf angewiesen, dass wir Menschen ihm dienen. Nicht er ist von uns abhängig, ´sondern wir von ihm`. Er ist es, der uns allen das Leben und die Luft zum Atmen gibt und uns mit allem versorgt, ´was wir zum Leben brauchen`.<sup> 26 </sup>Aus einem einzigen ´Menschen` hat er alle Völker hervorgehen lassen. Er hat bestimmt, dass sich die Menschen über die ganze Erde ausbreiten, und hat festgelegt, wie lange jedes Volk bestehen und in welchem Gebiet es leben soll. </p> <p> <sup>27</sup>´Mit allem, was er tat,` wollte er die Menschen dazu bringen, nach ihm zu fragen; er wollte, dass sie – wenn irgend möglich – in Kontakt mit ihm kommen und ihn finden. Er ist ja für keinen von uns in ´unerreichbarer` Ferne.<sup> 28 </sup>Denn in ihm, ´dessen Gegenwart alles durchdringt,` leben wir, bestehen wir und sind wir. Oder, wie es einige eurer eigenen Dichter ausgedrückt haben: ›Er ist es, von dem wir abstammen.‹ </p> <p> <sup>29</sup>Wenn wir nun aber von Gott abstammen, dürfen wir nicht meinen, die Gottheit gleiche ´jenen Statuen aus` Gold, Silber oder Stein, die das Produkt menschlicher Erfindungskraft und Kunstfertigkeit sind.<sup>30</sup>In der Vergangenheit hat Gott gnädig über die Verfehlungen hinweggesehen, die die Menschen in ihrer Unwissenheit begangen haben. Doch jetzt fordert er alle Menschen an allen Orten zur Umkehr auf.<sup> 31 </sup>Er hat nämlich einen Tag festgesetzt, an dem er durch einen von ihm bestimmten Mann über die ganze Menschheit Gericht halten und über alle ein gerechtes Urteil sprechen wird. Diesen Mann hat er vor aller Welt ´als den künftigen Richter` bestätigt, indem er ihn von den Toten auferweckt hat.« </p> <p> <sup>32</sup> <span class=\"normal\"> Als Paulus von der Auferstehung der Toten sprach, brach ein Teil der Zuhörer in Gelächter aus, und andere sagten: »Über dieses Thema wollen wir zu einem späteren Zeitpunkt mehr von dir erfahren.« </span> <sup>33</sup> <span class=\"normal\"> Damit endete die Anhörung, und Paulus verließ die Ratsversammlung. </span> </p> <p> <sup>34</sup>Doch einige Leute schlossen sich ihm an und kamen zum Glauben, so zum Beispiel Dionysios, ein Mitglied des Stadtrats, und eine Frau namens Damaris; und es gab noch andere, die zusammen mit diesen beiden ´an Jesus glaubten`. </p>",
         "url": "https://biblegateway.com/passage/?search=Acts%2017:16-34&version=NGU-DE",
         "isOpen": false
       }
@@ -81,8 +95,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Allgemeine Fragen:",
-          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          {
+            "text": "Allgemeine Fragen:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Ist dir etwas in diesem Text besonders aufgefallen?"
+                },
+                {
+                  "text": "Was gefällt dir an diesem Abschnitt? Was stört dich?"
+                },
+                {
+                  "text": "Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?"
+                },
+                {
+                  "text": "Was kannst du über die Menschheit lernen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          }
         ]
       }
     },
@@ -90,7 +125,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -112,10 +147,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Welche drei Reaktionen erkennt ihr im Text?",
-          "Welche Menschen haben schon harsch auf dich reagiert, weil du vom Glauben geredet hast? Notiere die Namen auf ein Blatt Papier.",
-          "Wenn wir Ablehnung erfahren haben und dieses Erlebnis für uns schmerzhaft gewesen ist, dann schleichen sich schnell Gedanken wie solche ein: „Ich werde mich in Zukunft schützen, indem ich am besten gar nicht mehr meinen Glauben unter meinen Freunden the-matisiere.“ Und damit schleicht sich Angst in unser Leben ein. Diese Art von Angst steht im Gegensatz zu dem, wie Gott uns geplant hat. Er fordert uns heraus, ihm zu vertrauen. Doch Angst kann uns daran hindern und so schränkt Angst Gottes Kraft, Mut, Weisheit, Freude und Liebe in unserem Leben ein. Wie kommen wir gegen Angst an? Hinter jeder Angst steckt eigentlich eine Lüge. Das Problem ist nicht die vorhersehbare Gefahr oder der Konflikt. Das Problem ist die Lüge, die wir glauben, hinsichtlich Gottes Fähigkeit, uns zu schützen, zu versorgen und in allen Lebensbereichen auszurüsten. Und die ist in der Regel in einer negativen Erfahrung verwurzelt. Damit wir von Angst frei werden und weiterhin mutig und glaubensvoll vorwärts gehen können, ist es wichtig, in einem ersten Schritt Menschen zu vergeben, die so negativ auf unsere Aussagen reagiert haben, und dann auch unsere eigene sündhafte Reaktion darauf Jesus zu be-kennen (z.B. Rückzug, Ärger, Jesus nicht mehr vertrauen etc.).",
-          "Jeder nimmt sich Zeit für ein persönliches Gebet, um anderen Men-schen zu vergeben (im Kapitel „Wachsen durch Vergebung“ findest du ein paar praktische Schritte dazu)."
+          {
+            "text": "Welche drei Reaktionen erkennt ihr im Text?"
+          },
+          {
+            "text": "Welche Menschen haben schon harsch auf dich reagiert, weil du vom Glauben geredet hast? Notiere die Namen auf ein Blatt Papier."
+          },
+          {
+            "text": "Wenn wir Ablehnung erfahren haben und dieses Erlebnis für uns schmerzhaft gewesen ist, dann schleichen sich schnell Gedanken wie solche ein: „Ich werde mich in Zukunft schützen, indem ich am besten gar nicht mehr meinen Glauben unter meinen Freunden the-matisiere.“ Und damit schleicht sich Angst in unser Leben ein. Diese Art von Angst steht im Gegensatz zu dem, wie Gott uns geplant hat. Er fordert uns heraus, ihm zu vertrauen. Doch Angst kann uns daran hindern und so schränkt Angst Gottes Kraft, Mut, Weisheit, Freude und Liebe in unserem Leben ein. Wie kommen wir gegen Angst an? Hinter jeder Angst steckt eigentlich eine Lüge. Das Problem ist nicht die vorhersehbare Gefahr oder der Konflikt. Das Problem ist die Lüge, die wir glauben, hinsichtlich Gottes Fähigkeit, uns zu schützen, zu versorgen und in allen Lebensbereichen auszurüsten. Und die ist in der Regel in einer negativen Erfahrung verwurzelt. Damit wir von Angst frei werden und weiterhin mutig und glaubensvoll vorwärts gehen können, ist es wichtig, in einem ersten Schritt Menschen zu vergeben, die so negativ auf unsere Aussagen reagiert haben, und dann auch unsere eigene sündhafte Reaktion darauf Jesus zu be-kennen (z.B. Rückzug, Ärger, Jesus nicht mehr vertrauen etc.)."
+          },
+          {
+            "text": "Jeder nimmt sich Zeit für ein persönliches Gebet, um anderen Men-schen zu vergeben (im Kapitel „Wachsen durch Vergebung“ findest du ein paar praktische Schritte dazu)."
+          }
         ]
       }
     },

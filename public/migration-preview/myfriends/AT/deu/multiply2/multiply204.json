@@ -90,7 +90,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-7"
+        "storageKey": "note-1"
       }
     },
     {
@@ -126,16 +126,10 @@
       }
     },
     {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
-      }
-    },
-    {
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 2:19-23",
-        "html": "<div><sup>19</sup>Als Herodes gestorben war, erschien Josef wieder ein Engel des Herrn im Traum. Er sagte zu ihm: <sup>20</sup>»Steh auf und bring das Kind und seine Mutter zurück ins Land Israel, denn die, die das Kind umbringen wollten, sind tot.« <sup>21</sup>Daraufhin kehrte Josef mit Jesus und Maria nach Israel zurück. <sup>22</sup>Als er aber erfuhr, dass Archelaus, der Sohn des Herodes, der neue Herrscher war, bekam er Angst. Und wieder erhielt er im Traum Gottes Anweisung: Er sollte nach Galiläa gehen. <sup>23</sup>Die Familie zog in die Stadt Nazareth, um sich dort niederzulassen. Damit erfüllte sich, was die Propheten vorausgesagt hatten: »Man wird ihn den Nazarener nennen.« </div><p></p>",
+        "html": "<div><sup>19</sup>Als Herodes gestorben war, erschien Josef wieder ein Engel des Herrn im Traum. Er sagte zu ihm: <sup>20</sup>»Steh auf und bring das Kind und seine Mutter zurück ins Land Israel, denn die, die das Kind umbringen wollten, sind tot.« <sup>21</sup>Daraufhin kehrte Josef mit Jesus und Maria nach Israel zurück. <sup>22</sup>Als er aber erfuhr, dass Archelaus, der Sohn des Herodes, der neue Herrscher war, bekam er Angst. Und wieder erhielt er im Traum Gottes Anweisung: Er sollte nach Galiläa gehen. <sup>23</sup>Die Familie zog in die Stadt Nazareth, um sich dort niederzulassen. Damit erfüllte sich, was die Propheten vorausgesagt hatten: »Man wird ihn den Nazarener nennen.« </div>",
         "url": "https://bibleserver.com/NLB/Matthäus%202:19-23",
         "isOpen": false
       }
@@ -187,13 +181,13 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "<strong id=\"docs-internal-guid-61054a4f-7fff-a544-8b9d-e7515275e6ce\">Die Familie von Jesus pilgerte jedes Jahr von Nazareth nach Jerusalem, um das Passahfest mit Familie und Freunden zu feiern. Dieses Jahr war besonders für Jesus, weil Jungen ab 12 Jahren den religiösen Leitern seiner Zeit Fragen stellen und mit ihnen diskutieren durften. </strong>"
+                "text": "Die Familie von Jesus pilgerte jedes Jahr von Nazareth nach Jerusalem, um das Passahfest mit Familie und Freunden zu feiern. Dieses Jahr war besonders für Jesus, weil Jungen ab 12 Jahren den religiösen Leitern seiner Zeit Fragen stellen und mit ihnen diskutieren durften."
               }
             },
             {
               "type": "paragraph",
               "data": {
-                "text": "<strong id=\"docs-internal-guid-61054a4f-7fff-a544-8b9d-e7515275e6ce\">Lukas 2,40 fasst die Kindheit Jesu bis zum Alter von 12 Jahren zusammen. Lukas 2,52 beschreibt in einem Satz, wie Jesus zu einem Mann wurde, bevor wir ihn mit etwa 30 Jahren wieder treffen.</strong>"
+                "text": "Lukas 2,40 fasst die Kindheit Jesu bis zum Alter von 12 Jahren zusammen. Lukas 2,52 beschreibt in einem Satz, wie Jesus zu einem Mann wurde, bevor wir ihn mit etwa 30 Jahren wieder treffen."
               }
             }
           ],
@@ -205,7 +199,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-17"
+        "storageKey": "note-2"
       }
     },
     {
@@ -270,6 +264,12 @@
             "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
           }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply204-i-will"
       }
     },
     {

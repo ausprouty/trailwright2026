@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben07-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 7:1-3",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Hört auf, andere zu verurteilen, dann werdet auch ihr nicht verurteilt. <sup>2</sup>Denn andere werden euch so behandeln, wie ihr sie behandelt. Der Maßstab, nach dem ihr andere beurteilt, wird auch an euch angelegt werden, wenn man euch beurteilt. <sup>3</sup>Warum regst du dich über einen Splitter im Auge deines Nächsten auf, wenn du selbst einen Balken im Auge hast? <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>1</sup>Hört auf, andere zu verurteilen, dann werdet auch ihr nicht verurteilt. <sup>2</sup>Denn andere werden euch so behandeln, wie ihr sie behandelt. Der Maßstab, nach dem ihr andere beurteilt, wird auch an euch angelegt werden, wenn man euch beurteilt. <sup>3</sup>Warum regst du dich über einen Splitter im Auge deines Nächsten auf, wenn du selbst einen Balken im Auge hast? </div>",
         "url": "https://bibleserver.com/NLB/Matthäus%207:1-3",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben07-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

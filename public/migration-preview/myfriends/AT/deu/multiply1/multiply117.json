@@ -27,25 +27,25 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "<li class=\"back\">Read {Hebrews 13:14-15} and sing songs.</li><li class=\"back\">Use a Statement of Faith about Jesus like {Philippians 2:11} + {1 Timothy 2:4-6}</li>",
+                "text": "<li class=\"back\">Read {Hebrews 13:14-15} and sing songs. </li> <li class=\"back\">Use a Statement of Faith about Jesus like {Philippians 2:11} + {1 Timothy 2:4-6} </li>",
                 "references": [
                   {
                     "id": "popup_pop1",
                     "marker": "Hebrews 13:14-15",
                     "label": "Hebrews 13:14-15",
-                    "passage": "<p><sup>14</sup>For here we do not have an enduring city, but we are looking for the city that is to come.</p><p><sup>15</sup>Through Jesus, therefore, let us continually offer to God a sacrifice of praise—the fruit of lips that openly profess his name.</p>"
+                    "passage": "<p><sup class=\"versenum\">14 </sup>For here we do not have an enduring city, but we are looking for the city that is to come.</p>\n\n\t<p><sup class=\"versenum\">15 </sup>Through Jesus, therefore, let us continually offer to God a sacrifice of praise—the fruit of lips that openly profess his name.</p>"
                   },
                   {
                     "id": "popup_pop2",
                     "marker": "Philippians 2:11",
                     "label": "Philippians 2:11",
-                    "passage": "<p><sup>11</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>to the glory of God the Father.</p>"
+                    "passage": "<p><sup class=\"versenum\">11 </sup>and every tongue acknowledge that Jesus Christ is Lord,<br>\n\t    to the glory of God the Father.</p>"
                   },
                   {
                     "id": "popup_pop3",
                     "marker": "1 Timothy 2:4-6",
                     "label": "1 Timothy 2:4-6",
-                    "passage": "<p><sup>4</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup>5</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup>6</sup>who gave himself as a ransom for all people. This has now been witnessed to at the proper time.</p>"
+                    "passage": "<p><sup class=\"versenum\">4 </sup>who wants all people to be saved and to come to a knowledge of the truth.<sup class=\"versenum\">5 </sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup class=\"versenum\">6 </sup>who gave himself as a ransom for all people. This has now been witnessed to at the proper time.</p>"
                   }
                 ],
                 "isOpen": false
@@ -104,7 +104,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-5"
+        "storageKey": "note-1"
       }
     },
     {
@@ -159,7 +159,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -205,7 +205,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Luke 14:25-33",
-        "html": "<p><sup>25 </sup>Large crowds were traveling with Jesus, and turning to them he said:<sup>26</sup>“If anyone comes to me and does not hate father and mother, wife and children, brothers and sisters—yes, even their own life—such a person cannot be my disciple.<sup>27</sup>And whoever does not carry their cross and follow me cannot be my disciple.</p><p><sup>28</sup>“Suppose one of you wants to build a tower. Won’t you first sit down and estimate the cost to see if you have enough money to complete it?<sup>29</sup>For if you lay the foundation and are not able to finish it, everyone who sees it will ridicule you,<sup>30</sup>saying, ‘This person began to build and wasn’t able to finish.’</p><p><sup>31</sup>“Or suppose a king is about to go to war against another king. Won’t he first sit down and consider whether he is able with ten thousand men to oppose the one coming against him with twenty thousand?<sup>32</sup>If he is not able, he will send a delegation while the other is still a long way off and will ask for terms of peace.<sup>33</sup>In the same way, those of you who do not give up everything you have cannot be my disciples.</p>",
+        "html": "<p><sup>25</sup>Large crowds were traveling with Jesus, and turning to them he said:<sup>26</sup>“If anyone comes to me and does not hate father and mother, wife and children, brothers and sisters—yes, even their own life—such a person cannot be my disciple.<sup>27</sup>And whoever does not carry their cross and follow me cannot be my disciple.</p> <p><sup>28</sup>“Suppose one of you wants to build a tower. Won’t you first sit down and estimate the cost to see if you have enough money to complete it?<sup>29</sup>For if you lay the foundation and are not able to finish it, everyone who sees it will ridicule you,<sup>30</sup>saying, ‘This person began to build and wasn’t able to finish.’</p> <p><sup>31</sup>“Or suppose a king is about to go to war against another king. Won’t he first sit down and consider whether he is able with ten thousand men to oppose the one coming against him with twenty thousand?<sup>32</sup>If he is not able, he will send a delegation while the other is still a long way off and will ask for terms of peace.<sup>33</sup>In the same way, those of you who do not give up everything you have cannot be my disciples.</p>",
         "url": "https://biblegateway.com/passage/?search=Luke%2014:25-&version=NIV",
         "isOpen": false
       }
@@ -277,7 +277,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-17"
+        "storageKey": "note-3"
       }
     },
     {
@@ -314,7 +314,7 @@
                     "id": "popup_pop4",
                     "marker": "1 Peter 4:12-19",
                     "label": "1 Peter 4:12-19",
-                    "passage": "<div><p><sup>12</sup>Dear friends, do not be surprised at the fiery ordeal that has come on you to test you, as though something strange were happening to you.<sup>13</sup>But rejoice inasmuch as you participate in the sufferings of Christ, so that you may be overjoyed when his glory is revealed.<sup>14</sup>If you are insulted because of the name of Christ, you are blessed, for the Spirit of glory and of God rests on you.<sup>15</sup>If you suffer, it should not be as a murderer or thief or any other kind of criminal, or even as a meddler.<sup>16</sup>However, if you suffer as a Christian, do not be ashamed, but praise God that you bear that name.<sup>17</sup>For it is time for judgment to begin with God’s household; and if it begins with us, what will the outcome be for those who do not obey the gospel of God?<sup>18</sup>And,</p><p>“If it is hard for the righteous to be saved,<br>what will become of the ungodly and the sinner?”</p></div><p><sup>19</sup>So then, those who suffer according to God’s will should commit themselves to their faithful Creator and continue to do good.</p>"
+                    "passage": "<div>\n<p><sup class=\"versenum\">12 </sup>Dear friends, do not be surprised at the fiery ordeal that has come on you to test you, as though something strange were happening to you.<sup class=\"versenum\">13 </sup>But rejoice inasmuch as you participate in the sufferings of Christ, so that you may be overjoyed when his glory is revealed.<sup class=\"versenum\">14 </sup>If you are insulted because of the name of Christ, you are blessed, for the Spirit of glory and of God rests on you.<sup class=\"versenum\">15 </sup>If you suffer, it should not be as a murderer or thief or any other kind of criminal, or even as a meddler.<sup class=\"versenum\">16 </sup>However, if you suffer as a Christian, do not be ashamed, but praise God that you bear that name.<sup class=\"versenum\">17 </sup>For it is time for judgment to begin with God’s household; and if it begins with us, what will the outcome be for those who do not obey the gospel of God?<sup class=\"versenum\">18 </sup>And,</p>\n\n<p>“If it is hard for the righteous to be saved,<br>\n    what will become of the ungodly and the sinner?”</p>\n</div>\n\n<p><sup class=\"versenum\">19 </sup>So then, those who suffer according to God’s will should commit themselves to their faithful Creator and continue to do good.</p>"
                   }
                 ],
                 "isOpen": false
@@ -329,7 +329,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-4"
       }
     },
     {
@@ -356,7 +356,7 @@
                     "id": "popup_pop5",
                     "marker": "Acts 2:39",
                     "label": "Acts 2:39",
-                    "passage": "<p><sup>39</sup>The promise is for you and your children and for all who are far off—for all whom the Lord our God will call.”</p>"
+                    "passage": "<p><sup class=\"versenum\">39 </sup>The promise is for you and your children and for all who are far off—for all whom the Lord our God will call.”</p>"
                   }
                 ],
                 "isOpen": false
@@ -439,7 +439,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-25"
+        "storageKey": "note-5"
       }
     },
     {
@@ -454,6 +454,12 @@
             "text": "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle."
           }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply117-i-will"
       }
     },
     {

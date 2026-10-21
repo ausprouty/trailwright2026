@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben09-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 7:12",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>12</sup>Geht so mit anderen um, wie die anderen mit euch umgehen sollen. In diesem Satz sind das Gesetz und die Propheten zusammengefasst.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>12</sup>Geht so mit anderen um, wie die anderen mit euch umgehen sollen. In diesem Satz sind das Gesetz und die Propheten zusammengefasst.</div>",
         "url": "https://bibleserver.com/NLB/Matthäus%207:12",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben09-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

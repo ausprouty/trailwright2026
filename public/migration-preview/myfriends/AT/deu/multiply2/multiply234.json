@@ -90,7 +90,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-7"
+        "storageKey": "note-1"
       }
     },
     {
@@ -126,16 +126,10 @@
       }
     },
     {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
-      }
-    },
-    {
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 9:1-6",
-        "html": "<div><sup>1</sup>Eines Tages rief Jesus seine zwölf Apostel zu sich und gab ihnen Vollmacht, Dämonen auszutreiben und Krankheiten zu heilen. <sup>2</sup>Dann sandte er sie mit dem Auftrag aus, allen Menschen vom Kommen des Reiches Gottes zu erzählen und die Kranken gesund zu machen. <sup>3</sup>»Nehmt für unterwegs nichts mit«, wies er sie an, »keinen Wanderstab, kein Gepäck, keine Verpflegung und kein Geld, kein zweites Hemd. <sup>4</sup>Wenn ihr in eine Ortschaft kommt, seid nur in einem einzigen Haus zu Gast. <sup>5</sup>Wenn die Einwohner eure Botschaft nicht hören wollen, dann schüttelt beim Fortgehen den Staub von euren Füßen als Zeichen, dass ihr diesen Ort dem Gericht überlasst.« <sup>6</sup>So begannen sie durch die Dörfer in der Umgebung zu ziehen, verkündeten die gute Botschaft und heilten die Kranken.</div><p></p>",
+        "html": "<div><sup>1</sup>Eines Tages rief Jesus seine zwölf Apostel zu sich und gab ihnen Vollmacht, Dämonen auszutreiben und Krankheiten zu heilen. <sup>2</sup>Dann sandte er sie mit dem Auftrag aus, allen Menschen vom Kommen des Reiches Gottes zu erzählen und die Kranken gesund zu machen. <sup>3</sup>»Nehmt für unterwegs nichts mit«, wies er sie an, »keinen Wanderstab, kein Gepäck, keine Verpflegung und kein Geld, kein zweites Hemd. <sup>4</sup>Wenn ihr in eine Ortschaft kommt, seid nur in einem einzigen Haus zu Gast. <sup>5</sup>Wenn die Einwohner eure Botschaft nicht hören wollen, dann schüttelt beim Fortgehen den Staub von euren Füßen als Zeichen, dass ihr diesen Ort dem Gericht überlasst.« <sup>6</sup>So begannen sie durch die Dörfer in der Umgebung zu ziehen, verkündeten die gute Botschaft und heilten die Kranken.</div>",
         "url": "https://bibleserver.com/NLB/Lukas%209:1-6",
         "isOpen": false
       }
@@ -199,7 +193,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-17"
+        "storageKey": "note-2"
       }
     },
     {
@@ -264,6 +258,12 @@
             "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
           }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply234-i-will"
       }
     },
     {

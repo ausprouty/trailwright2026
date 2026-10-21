@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "community-community8-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Römer 12,9-21",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>9</sup>Täuscht nicht nur vor, andere zu lieben, sondern liebt sie wirklich. Hasst alles Böse und stellt euch auf die Seite des Guten. <!--]--><!--[--><sup>10</sup>Liebt einander mit aufrichtiger Zuneigung und habt Freude daran, euch gegenseitig Achtung zu erweisen. <!--]--><!--[--><sup>11</sup>Werdet nicht nachlässig, sondern lasst euch ganz vom Geist erfüllen und setzt euch für den Herrn ein. <!--]--><!--[--><sup>12</sup>Freut euch in der Hoffnung, haltet durch in schweren Zeiten, bleibt beständig im Gebet. <!--]--><!--[--><sup>13</sup>Wenn andere Gläubige in Not geraten, steht ihnen zur Seite und helft ihnen. Seid gastfreundlich und öffnet für Gäste euer Haus. <!--]--><!--[--><sup>14</sup>Wenn ihr verfolgt werdet, weil ihr zu Christus gehört, dann verflucht eure Verfolger nicht, sondern erbittet den Segen Gottes für sie. <!--]--><!--[--><sup>15</sup>Sind andere Menschen glücklich, dann freut euch mit ihnen. Sind sie traurig, dann begleitet sie in ihrem Kummer. <!--]--><!--[--><sup>16</sup>Lebt in Frieden miteinander. Versucht nicht, euch wichtig zu machen, sondern wendet euch denen zu, die weniger angesehen sind. Und bildet euch nicht ein, alles zu wissen! <!--]--><!--[--><sup>17</sup>Vergeltet anderen Menschen nicht Böses mit Bösem, sondern bemüht euch allen gegenüber um das Gute. <!--]--><!--[--><sup>18</sup>Tragt euren Teil dazu bei, mit anderen in Frieden zu leben, soweit es möglich ist!<!--]--><!--[--><sup>19</sup>Liebe Freunde, rächt euch niemals selbst, sondern überlasst die Rache dem Zorn Gottes. Denn es steht geschrieben: »Ich allein will Rache nehmen; ich will das Unrecht vergelten«, spricht der Herr. <!--]--><!--[--><sup>20</sup>Handelt stattdessen so, wie es in der Schrift heißt: »Wenn dein Feind hungrig ist, gib ihm zu essen. Wenn er durstig ist, gib ihm zu trinken, und er wird beschämt darüber sein, was er dir angetan hat.« <!--]--><!--[--><sup>21</sup>Lass dich nicht vom Bösen überwinden, sondern überwinde das Böse durch das Gute!<!--]--><!--]--><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>9</sup>Täuscht nicht nur vor, andere zu lieben, sondern liebt sie wirklich. Hasst alles Böse und stellt euch auf die Seite des Guten. <sup>10</sup>Liebt einander mit aufrichtiger Zuneigung und habt Freude daran, euch gegenseitig Achtung zu erweisen. <sup>11</sup>Werdet nicht nachlässig, sondern lasst euch ganz vom Geist erfüllen und setzt euch für den Herrn ein. <sup>12</sup>Freut euch in der Hoffnung, haltet durch in schweren Zeiten, bleibt beständig im Gebet. <sup>13</sup>Wenn andere Gläubige in Not geraten, steht ihnen zur Seite und helft ihnen. Seid gastfreundlich und öffnet für Gäste euer Haus. <sup>14</sup>Wenn ihr verfolgt werdet, weil ihr zu Christus gehört, dann verflucht eure Verfolger nicht, sondern erbittet den Segen Gottes für sie. <sup>15</sup>Sind andere Menschen glücklich, dann freut euch mit ihnen. Sind sie traurig, dann begleitet sie in ihrem Kummer. <sup>16</sup>Lebt in Frieden miteinander. Versucht nicht, euch wichtig zu machen, sondern wendet euch denen zu, die weniger angesehen sind. Und bildet euch nicht ein, alles zu wissen! <sup>17</sup>Vergeltet anderen Menschen nicht Böses mit Bösem, sondern bemüht euch allen gegenüber um das Gute. <sup>18</sup>Tragt euren Teil dazu bei, mit anderen in Frieden zu leben, soweit es möglich ist!<sup>19</sup>Liebe Freunde, rächt euch niemals selbst, sondern überlasst die Rache dem Zorn Gottes. Denn es steht geschrieben: »Ich allein will Rache nehmen; ich will das Unrecht vergelten«, spricht der Herr. <sup>20</sup>Handelt stattdessen so, wie es in der Schrift heißt: »Wenn dein Feind hungrig ist, gib ihm zu essen. Wenn er durstig ist, gib ihm zu trinken, und er wird beschämt darüber sein, was er dir angetan hat.« <sup>21</sup>Lass dich nicht vom Bösen überwinden, sondern überwinde das Böse durch das Gute! </div>",
         "url": "https://bibleserver.com/NLB/Römer%2012,9-21",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "community-community8-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben13a-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 22:36-38",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>36</sup>»Meister, welches ist das wichtigste Gebot im Gesetz von Mose?« <sup>37</sup>Jesus antwortete: »›Du sollst den Herrn, deinen Gott, lieben, von ganzem Herzen, mit ganzer Seele und mit all deinen Gedanken!‹ <sup>38</sup>Das ist das erste und wichtigste Gebot. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>36</sup>»Meister, welches ist das wichtigste Gebot im Gesetz von Mose?« <sup>37</sup>Jesus antwortete: »›Du sollst den Herrn, deinen Gott, lieben, von ganzem Herzen, mit ganzer Seele und mit all deinen Gedanken!‹ <sup>38</sup>Das ist das erste und wichtigste Gebot. </div>",
         "url": "https://bibleserver.com/NLB/Matthäus%2022:36-38",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben13a-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

@@ -109,7 +109,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-7"
+        "storageKey": "note-1"
       }
     },
     {
@@ -126,9 +126,9 @@
                 "references": [
                   {
                     "id": "popup_pop1",
-                    "marker": "2. Korinther 5:17",
-                    "label": "2. Korinther 5:17",
-                    "passage": "<p><sup>17</sup>„Das bedeutet aber, wer mit Christus lebt, wird ein neuer Mensch. Er ist nicht mehr derselbe, denn sein altes Leben ist vorbei. Ein neues Leben hat begonnen!“</p>"
+                    "marker": "2. Korinther 5:17",
+                    "label": "2. Korinther 5:17",
+                    "passage": "<p><sup class=\"versenum\">17 </sup>„Das bedeutet aber, wer mit Christus lebt, wird ein neuer Mensch. Er ist nicht mehr derselbe, denn sein altes Leben ist vorbei. Ein neues Leben hat begonnen!“</p>"
                   }
                 ],
                 "isOpen": false
@@ -143,7 +143,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -192,16 +192,10 @@
       }
     },
     {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
-      }
-    },
-    {
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 15:11-24",
-        "html": "<div><sup>11</sup>Und Jesus erzählte ihnen auch folgendes Gleichnis: »Ein Mann hatte zwei Söhne. <sup>12</sup>Der jüngere Sohn sagte zu seinem Vater: ›Ich möchte mein Erbteil von deinem Besitz schon jetzt haben.‹ Da erklärte der Vater sich bereit, seinen Besitz zwischen seinen Söhnen aufzuteilen. <sup>13</sup>Einige Tage später packte der jüngere Sohn seine Sachen und ging auf Reisen in ein fernes Land, wo er sein ganzes Geld verprasste. <sup>14</sup>Etwa um die Zeit, als ihm das Geld ausging, brach in jenem Land eine große Hungersnot aus, und er hatte nicht genug zu essen. <sup>15</sup>Da überredete er einen Bauern, ihm Arbeit zu geben, und er durfte seine Schweine hüten. <sup>16</sup>Der junge Mann war so hungrig, dass er die Schoten, die er an die Schweine verfütterte, am liebsten selbst gegessen hätte. Aber niemand gab ihm etwas. <sup>17</sup>Schließlich überlegte er und sagte sich: ›Daheim haben die Tagelöhner mehr als genug zu essen, und ich sterbe hier vor Hunger! <sup>18</sup>Ich will zu meinem Vater nach Hause gehen und sagen: Vater, ich habe gesündigt, gegen den Himmel und auch gegen dich, <sup>19</sup>und ich bin es nicht mehr wert, dein Sohn zu heißen. Bitte stell mich als einen deiner Tagelöhner ein.‹ <sup>20</sup>So kehrte er zu seinem Vater nach Hause zurück. Er war noch weit entfernt, als sein Vater ihn kommen sah. Voller Liebe und Mitleid lief er seinem Sohn entgegen, schloss ihn in die Arme und küsste ihn. <sup>21</sup>Sein Sohn sagte zu ihm: ›Vater, ich habe gesündigt, gegen den Himmel und auch gegen dich, und bin es nicht mehr wert, dein Sohn zu heißen. ‹ <sup>22</sup>Aber sein Vater sagte zu den Dienern: ›Schnell! Bringt die besten Kleider im Haus und zieht sie ihm an. Holt einen Ring für seinen Finger und Sandalen für seine Füße. <sup>23</sup>Und schlachtet das Kalb, das wir im Stall gemästet haben, <sup>24</sup>denn mein Sohn hier war tot und ist ins Leben zurückgekehrt. Er war verloren, aber nun ist er wiedergefunden.‹ Und ein Freudenfest begann. </div><p></p>",
+        "html": "<div><sup>11</sup>Und Jesus erzählte ihnen auch folgendes Gleichnis: »Ein Mann hatte zwei Söhne. <sup>12</sup>Der jüngere Sohn sagte zu seinem Vater: ›Ich möchte mein Erbteil von deinem Besitz schon jetzt haben.‹ Da erklärte der Vater sich bereit, seinen Besitz zwischen seinen Söhnen aufzuteilen. <sup>13</sup>Einige Tage später packte der jüngere Sohn seine Sachen und ging auf Reisen in ein fernes Land, wo er sein ganzes Geld verprasste. <sup>14</sup>Etwa um die Zeit, als ihm das Geld ausging, brach in jenem Land eine große Hungersnot aus, und er hatte nicht genug zu essen. <sup>15</sup>Da überredete er einen Bauern, ihm Arbeit zu geben, und er durfte seine Schweine hüten. <sup>16</sup>Der junge Mann war so hungrig, dass er die Schoten, die er an die Schweine verfütterte, am liebsten selbst gegessen hätte. Aber niemand gab ihm etwas. <sup>17</sup>Schließlich überlegte er und sagte sich: ›Daheim haben die Tagelöhner mehr als genug zu essen, und ich sterbe hier vor Hunger! <sup>18</sup>Ich will zu meinem Vater nach Hause gehen und sagen: Vater, ich habe gesündigt, gegen den Himmel und auch gegen dich, <sup>19</sup>und ich bin es nicht mehr wert, dein Sohn zu heißen. Bitte stell mich als einen deiner Tagelöhner ein.‹ <sup>20</sup>So kehrte er zu seinem Vater nach Hause zurück. Er war noch weit entfernt, als sein Vater ihn kommen sah. Voller Liebe und Mitleid lief er seinem Sohn entgegen, schloss ihn in die Arme und küsste ihn. <sup>21</sup>Sein Sohn sagte zu ihm: ›Vater, ich habe gesündigt, gegen den Himmel und auch gegen dich, und bin es nicht mehr wert, dein Sohn zu heißen. ‹ <sup>22</sup>Aber sein Vater sagte zu den Dienern: ›Schnell! Bringt die besten Kleider im Haus und zieht sie ihm an. Holt einen Ring für seinen Finger und Sandalen für seine Füße. <sup>23</sup>Und schlachtet das Kalb, das wir im Stall gemästet haben, <sup>24</sup>denn mein Sohn hier war tot und ist ins Leben zurückgekehrt. Er war verloren, aber nun ist er wiedergefunden.‹ Und ein Freudenfest begann. </div>",
         "url": "https://bibleserver.com/NLB/Lukas%2015:11-24",
         "isOpen": false
       }
@@ -279,7 +273,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-19"
+        "storageKey": "note-3"
       }
     },
     {
@@ -298,7 +292,7 @@
                     "id": "popup_pop2",
                     "marker": "1 John 1:9",
                     "label": "1 John 1:9",
-                    "passage": "<p><sup>9</sup>If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.</p>"
+                    "passage": "<p><sup class=\"versenum\">9 </sup>If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.</p>"
                   }
                 ],
                 "isOpen": false
@@ -320,7 +314,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-4"
       }
     },
     {
@@ -421,7 +415,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-28"
+        "storageKey": "note-5"
       }
     },
     {
@@ -436,6 +430,12 @@
             "text": "Betet für die Schritte von jedem. Lasst uns den Herrn um seine Hilfe bitten, dass wir treu sind und uns dazu verwendet, eine Bewegung von Menschen, die den MyFriends-Lifestyle leben, zu starten..."
           }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply102-i-will"
       }
     },
     {

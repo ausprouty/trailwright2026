@@ -22,9 +22,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -44,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-1"
       }
     },
     {
@@ -60,10 +66,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Alle lesen den Text leise für sich.",
-          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
-          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
-          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          {
+            "text": "Alle lesen den Text leise für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln."
+          },
+          {
+            "text": "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln)."
+          },
+          {
+            "text": "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          }
         ]
       }
     },
@@ -71,7 +85,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 1, 80",
-        "html": "<p class=\"bible\"><sup>80</sup>Johannes wuchs heran und wurde stark im Geist. Er lebte in der Wüste bis zu dem Tag, an dem er öffentlich in Israel auftrat. </p><p class=\"bible\"></p>",
+        "html": "<p> <sup>80</sup>Johannes wuchs heran und wurde stark im Geist. Er lebte in der Wüste bis zu dem Tag, an dem er öffentlich in Israel auftrat. </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%201:80&version=NGU-DE",
         "isOpen": false
       }
@@ -80,7 +94,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 3, 1-2",
-        "html": "<p class=\"bible\"><sup>1</sup>Es war im fünfzehnten Jahr der Regierung des Kaisers Tiberius; Pontius Pilatus war Gouverneur von Judäa, Herodes regierte als Tetrarch in Galiläa, sein Bruder Philippus in Ituräa und Trachonitis, Lysanias in Abilene;<sup>2</sup>Hohepriester waren Hannas und Kajafas. </p><p class=\"bible\"> Da bekam Johannes, der Sohn des Zacharias, in der Wüste von Gott seinen Auftrag. </p><p class=\"bible\"></p>",
+        "html": "<p> <sup>1</sup>Es war im fünfzehnten Jahr der Regierung des Kaisers Tiberius; Pontius Pilatus war Gouverneur von Judäa, Herodes regierte als Tetrarch in Galiläa, sein Bruder Philippus in Ituräa und Trachonitis, Lysanias in Abilene;<sup>2</sup>Hohepriester waren Hannas und Kajafas. </p> <p> Da bekam Johannes, der Sohn des Zacharias, in der Wüste von Gott seinen Auftrag. </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%203:1-2&version=NGU-DE",
         "isOpen": false
       }
@@ -89,7 +103,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 6, 12-13",
-        "html": "<p class=\"bible\"><sup>12</sup>In jener Zeit zog sich Jesus auf einen Berg zurück, um zu beten. Die ganze Nacht verbrachte er im Gebet.<sup> 13 </sup>Als es Tag wurde, rief er seine Jünger zu sich und wählte zwölf von ihnen aus, die er Apostel nannte. Es waren: </p><p class=\"bible\"><br></p>",
+        "html": "<p> <sup>12</sup>In jener Zeit zog sich Jesus auf einen Berg zurück, um zu beten. Die ganze Nacht verbrachte er im Gebet.<sup> 13 </sup>Als es Tag wurde, rief er seine Jünger zu sich und wählte zwölf von ihnen aus, die er Apostel nannte. Es waren: </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%206:12-13&version=NGU-DE",
         "isOpen": false
       }
@@ -99,8 +113,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Allgemeine Fragen:",
-          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          {
+            "text": "Allgemeine Fragen:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Ist dir etwas in diesem Text besonders aufgefallen?"
+                },
+                {
+                  "text": "Was gefällt dir an diesem Abschnitt? Was stört dich?"
+                },
+                {
+                  "text": "Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?"
+                },
+                {
+                  "text": "Was kannst du über die Menschheit lernen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          }
         ]
       }
     },
@@ -108,7 +143,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -124,9 +159,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was für Gemeinsamkeiten und geistliche Prinzipien findest du in diesen Texten?",
-          "Wann hast du dich das letzte Mal für eine längere Zeit an einen „einsamen Ort“ zurückgezogen, um dich auf Gott zu fokussieren?",
-          "Brauchst du für etwas in deinem Leben Richtung und Weisheit? Plane dir eine längere Zeit ein (z.B. ein bis zwei Tage), um dich zum Gebet, evtl. Fasten und Hören auf Gottes Stimme zurückzuziehen."
+          {
+            "text": "Was für Gemeinsamkeiten und geistliche Prinzipien findest du in diesen Texten?"
+          },
+          {
+            "text": "Wann hast du dich das letzte Mal für eine längere Zeit an einen „einsamen Ort“ zurückgezogen, um dich auf Gott zu fokussieren?"
+          },
+          {
+            "text": "Brauchst du für etwas in deinem Leben Richtung und Weisheit? Plane dir eine längere Zeit ein (z.B. ein bis zwei Tage), um dich zum Gebet, evtl. Fasten und Hören auf Gottes Stimme zurückzuziehen."
+          }
         ]
       }
     },

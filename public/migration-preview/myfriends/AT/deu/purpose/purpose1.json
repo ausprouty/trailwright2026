@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "purpose-purpose1-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 5,13-16",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>13</sup>Ihr seid das Salz der Erde. Doch wozu ist Salz noch gut, wenn es seinen Geschmack verloren hat? Kann man es etwa wieder brauchbar machen? Es wird weggeworfen und zertreten, wie etwas, das nichts wert ist. <!--]--><!--[--><sup>14</sup>Ihr seid das Licht der Welt – wie eine Stadt auf einem Berg, die in der Nacht hell erstrahlt, damit alle es sehen können.<!--]--><!--[--><sup>15</sup>Niemand versteckt ein Licht unter einem umgestülpten Gefäß. Er stellt es vielmehr auf einen Lampenständer und lässt es für alle leuchten. <!--]--><!--[--><sup>16</sup>Genauso lasst eure guten Taten leuchten vor den Menschen, damit alle sie sehen können und euren Vater im Himmel dafür rühmen. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>13</sup>Ihr seid das Salz der Erde. Doch wozu ist Salz noch gut, wenn es seinen Geschmack verloren hat? Kann man es etwa wieder brauchbar machen? Es wird weggeworfen und zertreten, wie etwas, das nichts wert ist. <sup>14</sup>Ihr seid das Licht der Welt – wie eine Stadt auf einem Berg, die in der Nacht hell erstrahlt, damit alle es sehen können.<sup>15</sup>Niemand versteckt ein Licht unter einem umgestülpten Gefäß. Er stellt es vielmehr auf einen Lampenständer und lässt es für alle leuchten. <sup>16</sup>Genauso lasst eure guten Taten leuchten vor den Menschen, damit alle sie sehen können und euren Vater im Himmel dafür rühmen. </div>",
         "url": "https://bibleserver.com/NLB/Matthäus%205,13-16",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "purpose-purpose1-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

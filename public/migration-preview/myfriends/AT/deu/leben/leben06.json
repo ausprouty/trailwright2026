@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben06-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 6:19-21",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>19</sup>Sammelt keine Reichtümer hier auf der Erde an, wo Motten oder Rost sie zerfressen oder Diebe einbrechen und sie stehlen können. <sup>20</sup>Sammelt eure Reichtümer im Himmel, wo sie weder von Motten noch von Rost zerfressen werden und vor Dieben sicher sind. <sup>21</sup>Denn wo dein Reichtum ist, da ist auch dein Herz. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>19</sup>Sammelt keine Reichtümer hier auf der Erde an, wo Motten oder Rost sie zerfressen oder Diebe einbrechen und sie stehlen können. <sup>20</sup>Sammelt eure Reichtümer im Himmel, wo sie weder von Motten noch von Rost zerfressen werden und vor Dieben sicher sind. <sup>21</sup>Denn wo dein Reichtum ist, da ist auch dein Herz. </div>",
         "url": "https://bibleserver.com/NLB/Matthäus%206:19-21",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben06-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

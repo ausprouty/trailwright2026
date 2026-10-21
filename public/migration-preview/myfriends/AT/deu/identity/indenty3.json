@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "identity-indenty3-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 12,22-34",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>22</sup>Darauf wandte Jesus sich wieder an seine Jünger: »Deshalb sage ich euch: Sorgt euch nicht um Alltägliches – ob ihr genug zu essen oder anzuziehen habt,<!--]--><!--[--><sup>23</sup>denn das Leben besteht aus weit mehr als Nahrung und Kleidung.<!--]--><!--[--><sup>24</sup>Seht die Raben an. Sie brauchen nicht zu säen, zu ernten oder Vorratsscheunen zu bauen, denn Gott ernährt sie. Und ihr seid ihm doch weit wichtiger als irgendwelche Vögel! <!--]--><!--[--><sup>25</sup>Können all eure Sorgen euer Leben auch nur um einen einzigen Augenblick verlängern? Natürlich nicht!<!--]--><!--[--><sup>26</sup>Und wenn euer Sorgen schon in so geringen Dingen nichts bewirkt, was nützt es da, sich um größere Dinge zu sorgen?<!--]--><!--[--><sup>27</sup>Seht doch die Lilien, wie sie wachsen. Sie arbeiten nicht und nähen sich keine Kleider, und doch war Salomo in all seiner Pracht nicht so schön gekleidet wie eine von ihnen. <!--]--><!--[--><sup>28</sup>Wenn Gott schon für die Blumen so wunderbar sorgt, die heute blühen und morgen bereits verwelkt sind, wie viel mehr wird er da für euch sorgen? Euer Glaube ist so klein!<!--]--><!--[--><sup>29</sup>Macht euch keine Gedanken über eure Nahrung – was ihr essen oder trinken sollt. Macht euch keine Gedanken darüber, ob Gott euch damit versorgen wird.<!--]--><!--[--><sup>30</sup>Diese Dinge beherrschen das Denken der meisten Menschen, doch euer Vater weiß, was ihr braucht. <!--]--><!--[--><sup>31</sup>Er wird euch jeden Tag alles Nötige geben, wenn das Reich Gottes für euch das Wichtigste ist.<!--]--><!--[--><sup>32</sup>Hab also keine Angst, kleine Herde. Denn es macht eurem Vater große Freude, euch das Reich Gottes zu schenken. <!--]--><!--[--><sup>33</sup>Verkauft, was ihr habt, und gebt es den Bedürftigen. Auf diese Weise sammelt ihr euch Schätze im Himmel! Und die Geldbörsen des Himmels haben keine Löcher. Dort ist euer Schatz sicher – kein Dieb kann ihn stehlen und keine Motte ihn zerfressen. <!--]--><!--[--><sup>34</sup>Wo immer euer Reichtum ist, da wird auch euer Herz sein.<!--]--><!--[--><h4 class=\"bible\"></h4><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>22</sup>Darauf wandte Jesus sich wieder an seine Jünger: »Deshalb sage ich euch: Sorgt euch nicht um Alltägliches – ob ihr genug zu essen oder anzuziehen habt,<sup>23</sup>denn das Leben besteht aus weit mehr als Nahrung und Kleidung.<sup>24</sup>Seht die Raben an. Sie brauchen nicht zu säen, zu ernten oder Vorratsscheunen zu bauen, denn Gott ernährt sie. Und ihr seid ihm doch weit wichtiger als irgendwelche Vögel! <sup>25</sup>Können all eure Sorgen euer Leben auch nur um einen einzigen Augenblick verlängern? Natürlich nicht!<sup>26</sup>Und wenn euer Sorgen schon in so geringen Dingen nichts bewirkt, was nützt es da, sich um größere Dinge zu sorgen?<sup>27</sup>Seht doch die Lilien, wie sie wachsen. Sie arbeiten nicht und nähen sich keine Kleider, und doch war Salomo in all seiner Pracht nicht so schön gekleidet wie eine von ihnen. <sup>28</sup>Wenn Gott schon für die Blumen so wunderbar sorgt, die heute blühen und morgen bereits verwelkt sind, wie viel mehr wird er da für euch sorgen? Euer Glaube ist so klein!<sup>29</sup>Macht euch keine Gedanken über eure Nahrung – was ihr essen oder trinken sollt. Macht euch keine Gedanken darüber, ob Gott euch damit versorgen wird.<sup>30</sup>Diese Dinge beherrschen das Denken der meisten Menschen, doch euer Vater weiß, was ihr braucht. <sup>31</sup>Er wird euch jeden Tag alles Nötige geben, wenn das Reich Gottes für euch das Wichtigste ist.<sup>32</sup>Hab also keine Angst, kleine Herde. Denn es macht eurem Vater große Freude, euch das Reich Gottes zu schenken. <sup>33</sup>Verkauft, was ihr habt, und gebt es den Bedürftigen. Auf diese Weise sammelt ihr euch Schätze im Himmel! Und die Geldbörsen des Himmels haben keine Löcher. Dort ist euer Schatz sicher – kein Dieb kann ihn stehlen und keine Motte ihn zerfressen. <sup>34</sup>Wo immer euer Reichtum ist, da wird auch euer Herz sein. <h3> </h3> </div>",
         "url": "https://bibleserver.com/NLB/Lukas%2012,22-34",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "identity-indenty3-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

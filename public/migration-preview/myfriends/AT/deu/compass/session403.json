@@ -22,9 +22,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -44,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-1"
       }
     },
     {
@@ -60,10 +66,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Alle lesen den Text leise für sich.",
-          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
-          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
-          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          {
+            "text": "Alle lesen den Text leise für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln."
+          },
+          {
+            "text": "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln)."
+          },
+          {
+            "text": "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          }
         ]
       }
     },
@@ -71,7 +85,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 4, 18-22",
-        "html": "<p class=\"bible\"><sup>18</sup>Als Jesus am See von Galiläa entlangging, sah er zwei Fischer, die auf dem See ihr Netz auswarfen. Es waren Brüder, Simon, auch Petrus genannt, und Andreas.<sup> 19 </sup>Jesus sagte zu ihnen: »Kommt, folgt mir nach! Ich will euch zu Menschenfischern machen.«<sup>20</sup>Sofort ließen sie ihre Netze liegen und folgten ihm. </p><p class=\"bible\"><sup>21</sup>Als er von dort weiterging, sah er wieder zwei Brüder, Jakobus, den Sohn des Zebedäus, und Johannes; sie waren mit ihrem Vater Zebedäus im Boot und brachten ihre Netze in Ordnung. Jesus forderte sie auf, mit ihm zu kommen.<sup>22</sup>Und sofort ließen sie das Boot und ihren Vater zurück und folgten Jesus. </p><p class=\"bible\"></p>",
+        "html": "<p> <sup>18</sup>Als Jesus am See von Galiläa entlangging, sah er zwei Fischer, die auf dem See ihr Netz auswarfen. Es waren Brüder, Simon, auch Petrus genannt, und Andreas.<sup> 19 </sup>Jesus sagte zu ihnen: »Kommt, folgt mir nach! Ich will euch zu Menschenfischern machen.«<sup>20</sup>Sofort ließen sie ihre Netze liegen und folgten ihm. </p> <p> <sup>21</sup>Als er von dort weiterging, sah er wieder zwei Brüder, Jakobus, den Sohn des Zebedäus, und Johannes; sie waren mit ihrem Vater Zebedäus im Boot und brachten ihre Netze in Ordnung. Jesus forderte sie auf, mit ihm zu kommen.<sup>22</sup>Und sofort ließen sie das Boot und ihren Vater zurück und folgten Jesus. </p>",
         "url": "https://biblegateway.com/passage/?search=Matthew%204:18-22&version=NGU-DE",
         "isOpen": false
       }
@@ -80,7 +94,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "1 Koenige 19, 19-21",
-        "html": "<p class=\"bible\"><sup>19</sup>Als Elia wieder in Israel war, suchte er Elisa, den Sohn von Schafat, auf. Elisa pflügte gerade ein Feld. Vor ihm her gingen elf Knechte mit je einem Ochsengespann, und er selbst führte das zwölfte und letzte Gespann. Elia kam ihm über das Feld entgegen, warf ihm seinen Mantel über die Schultern und ging weiter. </p><p class=\"bible\"><sup>20</sup>Elisa ließ seine Rinder stehen, lief hinter Elia her und bat ihn: »Darf ich mich noch von meinen Eltern verabschieden? Danach will ich mit dir kommen.« Elia antwortete: »Geh nur, ich habe dir ja nichts getan!«<sup>21</sup>Da eilte Elisa nach Hause und bereitete für seine Leute ein Abschiedsessen zu. Er schlachtete die beiden Rinder, mit denen er gepflügt hatte, machte mit dem Holz ihres Jochs ein Feuer und briet das Fleisch daran. Danach schloss er sich Elia an und wurde sein Diener. </p><p class=\"bible\"><br></p>",
+        "html": "<p> <sup>19</sup>Als Elia wieder in Israel war, suchte er Elisa, den Sohn von Schafat, auf. Elisa pflügte gerade ein Feld. Vor ihm her gingen elf Knechte mit je einem Ochsengespann, und er selbst führte das zwölfte und letzte Gespann. Elia kam ihm über das Feld entgegen, warf ihm seinen Mantel über die Schultern und ging weiter. </p> <p> <sup>20</sup>Elisa ließ seine Rinder stehen, lief hinter Elia her und bat ihn: »Darf ich mich noch von meinen Eltern verabschieden? Danach will ich mit dir kommen.« Elia antwortete: »Geh nur, ich habe dir ja nichts getan!«<sup>21</sup>Da eilte Elisa nach Hause und bereitete für seine Leute ein Abschiedsessen zu. Er schlachtete die beiden Rinder, mit denen er gepflügt hatte, machte mit dem Holz ihres Jochs ein Feuer und briet das Fleisch daran. Danach schloss er sich Elia an und wurde sein Diener. </p>",
         "url": "https://biblegateway.com/passage/?search=1%20Kings%2019:19-21&version=HOF",
         "isOpen": false
       }
@@ -90,8 +104,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Allgemeine Fragen:",
-          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          {
+            "text": "Allgemeine Fragen:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Ist dir etwas in diesem Text besonders aufgefallen?"
+                },
+                {
+                  "text": "Was gefällt dir an diesem Abschnitt? Was stört dich?"
+                },
+                {
+                  "text": "Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?"
+                },
+                {
+                  "text": "Was kannst du über die Menschheit lernen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          }
         ]
       }
     },
@@ -99,7 +134,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -115,9 +150,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was für Gemeinsamkeiten erkennt ihr in diesen zwei Berufungsge-schichten?",
-          "Wie hat dich Jesus gerufen ihm nachzufolgen? (Erzählt in 3er-Grup-pen eure Geschichten wie Jesus euch berufen und ihr euch ent-schieden habt, ihm nachzufolgen).",
-          "Auf was zielt die Nachfolge von Jesus hier auf der Erde ab? Bist du auch dazu bereit?"
+          {
+            "text": "Was für Gemeinsamkeiten erkennt ihr in diesen zwei Berufungsge-schichten?"
+          },
+          {
+            "text": "Wie hat dich Jesus gerufen ihm nachzufolgen? (Erzählt in 3er-Grup-pen eure Geschichten wie Jesus euch berufen und ihr euch ent-schieden habt, ihm nachzufolgen)."
+          },
+          {
+            "text": "Auf was zielt die Nachfolge von Jesus hier auf der Erde ab? Bist du auch dazu bereit?"
+          }
         ]
       }
     },

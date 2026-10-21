@@ -33,7 +33,7 @@
                     "id": "popup_pop1",
                     "marker": "Psalm 95:1-7",
                     "label": "Psalm 95:1-7",
-                    "passage": "<div><div><div><p><sup>1</sup>Come, let us sing for joy to the<span class=\"small-caps\">Lord;<br>let us shout aloud to the Rock of our salvation.<br><sup>2</sup>Let us come before him with thanksgiving<br>and extol him with music and song.</span></p></div><p><sup>3</sup>For the<span class=\"small-caps\">Lord is the great God,<br>the great King above all gods.<br><sup>4</sup>In his hand are the depths of the earth,<br>and the mountain peaks belong to him.<br><sup>5</sup>The sea is his, for he made it,<br>and his hands formed the dry land.</span></p></div><p><sup>6</sup>Come, let us bow down in worship,<br>let us kneel before the<span class=\"small-caps\">Lord our Maker;<br><sup>7</sup>for he is our God<br>and we are the people of his pasture,<br>the flock under his care.</span></p></div><p>Today, if only you would hear his voice,</p>"
+                    "passage": "<div>\n<div>\n<div>\n<p><sup class=\"versenum\">1 </sup>Come, let us sing for joy to the <span class=\"small-caps\">Lord;<br>\n    let us shout aloud to the Rock of our salvation.<br>\n<sup class=\"versenum\">2 </sup>Let us come before him with thanksgiving<br>\n    and extol him with music and song.</span></p>\n</div>\n\n<p><sup class=\"versenum\">3 </sup>For the <span class=\"small-caps\">Lord is the great God,<br>\n    the great King above all gods.<br>\n<sup class=\"versenum\">4 </sup>In his hand are the depths of the earth,<br>\n    and the mountain peaks belong to him.<br>\n<sup class=\"versenum\">5 </sup>The sea is his, for he made it,<br>\n    and his hands formed the dry land.</span></p>\n</div>\n\n<p><sup class=\"versenum\">6 </sup>Come, let us bow down in worship,<br>\n    let us kneel before the <span class=\"small-caps\">Lord our Maker;<br>\n<sup class=\"versenum\">7 </sup>for he is our God<br>\n    and we are the people of his pasture,<br>\n    the flock under his care.</span></p>\n</div>\n\n<p>Today, if only you would hear his voice,</p>"
                   }
                 ],
                 "isOpen": false
@@ -100,7 +100,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-5"
+        "storageKey": "note-1"
       }
     },
     {
@@ -137,7 +137,7 @@
                     "id": "popup_pop2",
                     "marker": "2 Timothy 2:2",
                     "label": "2 Timothy 2:2",
-                    "passage": "<p><sup>2</sup>And the things you have heard me say in the presence of many witnesses entrust to reliable people who will also be qualified to teach others.</p>"
+                    "passage": "<p><sup class=\"versenum\">2 </sup>And the things you have heard me say in the presence of many witnesses entrust to reliable people who will also be qualified to teach others.</p>"
                   }
                 ],
                 "isOpen": false
@@ -164,7 +164,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -210,7 +210,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 1:1-8",
-        "html": "<p><sup>1</sup> In my former book, Theophilus, I wrote about all that Jesus began to do and to teach <sup>2</sup>until the day he was taken up to heaven, after giving instructions through the Holy Spirit to the apostles he had chosen.<sup>3</sup>After his suffering, he presented himself to them and gave many convincing proofs that he was alive. He appeared to them over a period of forty days and spoke about the kingdom of God.<sup>4</sup>On one occasion, while he was eating with them, he gave them this command: “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about.<sup>5</sup>For John baptized with water, but in a few days you will be baptized with the Holy Spirit.”</p><p><sup>6</sup>Then they gathered around him and asked him, “Lord, are you at this time going to restore the kingdom to Israel?”</p><p><sup>7</sup>He said to them: “It is not for you to know the times or dates the Father has set by his own authority.<sup>8</sup>But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”</p>",
+        "html": "<p><sup>1</sup> In my former book, Theophilus, I wrote about all that Jesus began to do and to teach <sup>2</sup>until the day he was taken up to heaven, after giving instructions through the Holy Spirit to the apostles he had chosen.<sup>3</sup>After his suffering, he presented himself to them and gave many convincing proofs that he was alive. He appeared to them over a period of forty days and spoke about the kingdom of God.<sup>4</sup>On one occasion, while he was eating with them, he gave them this command: “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about.<sup>5</sup>For John baptized with water, but in a few days you will be baptized with the Holy Spirit.”</p> <p><sup>6</sup>Then they gathered around him and asked him, “Lord, are you at this time going to restore the kingdom to Israel?”</p> <p><sup>7</sup>He said to them: “It is not for you to know the times or dates the Father has set by his own authority.<sup>8</sup>But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”</p>",
         "url": "https://biblegateway.com/passage/?search=Acts%201:1-8&version=NIV",
         "isOpen": false
       }
@@ -282,7 +282,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-17"
+        "storageKey": "note-3"
       }
     },
     {
@@ -324,14 +324,14 @@
     {
       "type": "paragraph",
       "data": {
-        "text": "<strong>For further enrichment:</strong> Read <a href=\"https://app.mc2.online/content/M2/eng/tc/tc05.html\">Transferable Concept #5: How to Witness in the Spirit</a> and discuss with another group member."
+        "text": "For further enrichment: Read <a href=\"https://app.mc2.online/content/M2/eng/tc/tc05.html\">Transferable Concept #5: How to Witness in the Spirit</a> and discuss with another group member."
       }
     },
     {
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-4"
       }
     },
     {
@@ -385,7 +385,7 @@
                     "id": "popup_pop3",
                     "marker": "Ecclesiastes 3:11",
                     "label": "Ecclesiastes 3:11",
-                    "passage": "<p><sup>11</sup>He has made everything beautiful in its time. He has also set eternity in the human heart; yet no one can fathom what God has done from beginning to end.</p>"
+                    "passage": "<p><sup class=\"versenum\">11 </sup>He has made everything beautiful in its time. He has also set eternity in the human heart; yet no one can fathom what God has done from beginning to end.</p>"
                   }
                 ],
                 "isOpen": false
@@ -423,31 +423,31 @@
             {
               "type": "bibleReference",
               "data": {
-                "text": "<li class=\"forward\">As we listen to the Holy Spirit and to people we can discover the questions to ask and the prayers to pray ({1 Corinthians 2:10-16}).</li><li class=\"forward\">Ask the person if it would be OK if you prayed for their need. Pray in the name of Jesus when you do ({John 14:6}, {Acts 4:12}, and {Philippians 2:9-11}). God is a term used in many religions, but Jesus is our saviour and the way to the Father in heaven.</li><li class=\"forward\">If you want to lay on hands, then ask first if it’s alright for them and lay your hands on a spot that doesn’t hurt or make anyone feel embarrassed. Shoulders are always a good option. If you’re praying for healing, God is powerful enough to heal body parts you aren’t touching directly.</li><li class=\"forward\">When you pray, thank God for His love for them and ask that they can experience that love. For example, “Jesus, thanks for how much you love Shannon, please help him feel your love for him today.”</li><li class=\"forward\">Make your prayer as simple and as short (15 seconds) as possible. If the situation allows, let your friend pray after you.</li><li class=\"forward\">Ask immediately afterwards how the person you prayed for is feeling.</li>",
+                "text": "<li class=\"forward\">As we listen to the Holy Spirit and to people we can discover the questions to ask and the prayers to pray ({1 Corinthians 2:10-16}). </li> <li class=\"forward\">Ask the person if it would be OK if you prayed for their need. Pray in the name of Jesus when you do ({John 14:6}, {Acts 4:12}, and {Philippians 2:9-11}). God is a term used in many religions, but Jesus is our saviour and the way to the Father in heaven.</li> <li class=\"forward\">If you want to lay on hands, then ask first if it’s alright for them and lay your hands on a spot that doesn’t hurt or make anyone feel embarrassed. Shoulders are always a good option. If you’re praying for healing, God is powerful enough to heal body parts you aren’t touching directly.</li> <li class=\"forward\">When you pray, thank God for His love for them and ask that they can experience that love. For example, “Jesus, thanks for how much you love Shannon, please help him feel your love for him today.”</li> <li class=\"forward\">Make your prayer as simple and as short (15 seconds) as possible. If the situation allows, let your friend pray after you.</li> <li class=\"forward\">Ask immediately afterwards how the person you prayed for is feeling.</li>",
                 "references": [
                   {
                     "id": "popup_pop8",
                     "marker": "1 Corinthians 2:10-16",
                     "label": "1 Corinthians 2:10-16",
-                    "passage": "<div><p><sup>10</sup>these are the things God has revealed to us by his Spirit.</p><p>The Spirit searches all things, even the deep things of God.<sup>11</sup>For who knows a person’s thoughts except their own spirit within them? In the same way no one knows the thoughts of God except the Spirit of God.<sup>12</sup>What we have received is not the spirit of the world, but the Spirit who is from God, so that we may understand what God has freely given us.<sup>13</sup>This is what we speak, not in words taught us by human wisdom but in words taught by the Spirit, explaining spiritual realities with Spirit-taught words.<sup>14</sup>The person without the Spirit does not accept the things that come from the Spirit of God but considers them foolishness, and cannot understand them because they are discerned only through the Spirit.<sup>15</sup>The person with the Spirit makes judgments about all things, but such a person is not subject to merely human judgments,<sup>16</sup>for,</p><p>“Who has known the mind of the Lord<br>so as to instruct him?”</p></div><p>But we have the mind of Christ.</p>"
+                    "passage": "<div>\n\t<p><sup class=\"versenum\">10 </sup>these are the things God has revealed to us by his Spirit.</p>\n\n\t<p>The Spirit searches all things, even the deep things of God.<sup class=\"versenum\">11 </sup>For who knows a person’s thoughts except their own spirit within them? In the same way no one knows the thoughts of God except the Spirit of God.<sup class=\"versenum\">12 </sup>What we have received is not the spirit of the world, but the Spirit who is from God, so that we may understand what God has freely given us.<sup class=\"versenum\">13 </sup>This is what we speak, not in words taught us by human wisdom but in words taught by the Spirit, explaining spiritual realities with Spirit-taught words.<sup class=\"versenum\">14 </sup>The person without the Spirit does not accept the things that come from the Spirit of God but considers them foolishness, and cannot understand them because they are discerned only through the Spirit.<sup class=\"versenum\">15 </sup>The person with the Spirit makes judgments about all things, but such a person is not subject to merely human judgments,<sup class=\"versenum\">16 </sup>for,</p>\n\n\t<p>“Who has known the mind of the Lord<br>\n\t    so as to instruct him?”</p>\n\t</div>\n\n\t<p>But we have the mind of Christ.</p>"
                   },
                   {
                     "id": "popup_pop5",
                     "marker": "John 14:6",
                     "label": "John 14:6",
-                    "passage": "<p><sup>6</sup>Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.</p>"
+                    "passage": "<p><sup class=\"versenum\">6 </sup>Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.</p>"
                   },
                   {
                     "id": "popup_pop6",
                     "marker": "Acts 4:12",
                     "label": "Acts 4:12",
-                    "passage": "<p><sup>12</sup>Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved.”</p>"
+                    "passage": "<p><sup class=\"versenum\">12 </sup>Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved.”</p>"
                   },
                   {
                     "id": "popup_pop7",
                     "marker": "Philippians 2:9-11",
                     "label": "Philippians 2:9-11",
-                    "passage": "<p><sup>9</sup>Therefore God exalted him to the highest place<br>and gave him the name that is above every name,<br><sup>10</sup>that at the name of Jesus every knee should bow,<br>in heaven and on earth and under the earth,<br><sup>11</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>to the glory of God the Father.</p>"
+                    "passage": "<p><sup class=\"versenum\">9 </sup>Therefore God exalted him to the highest place<br>\n\t    and gave him the name that is above every name,<br>\n\t<sup class=\"versenum\">10 </sup>that at the name of Jesus every knee should bow,<br>\n\t    in heaven and on earth and under the earth,<br>\n\t<sup class=\"versenum\">11 </sup>and every tongue acknowledge that Jesus Christ is Lord,<br>\n\t    to the glory of God the Father.</p>"
                   }
                 ],
                 "isOpen": false
@@ -508,7 +508,7 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "<br><em>“If it happens, you can thank Him. If it doesn’t, you can trust Him</em>” - Unknown author."
+                "text": "<br> <em>“If it happens, you can thank Him. If it doesn’t, you can trust Him</em>” - Unknown author."
               }
             },
             {
@@ -572,7 +572,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-27"
+        "storageKey": "note-5"
       }
     },
     {
@@ -587,6 +587,12 @@
             "text": "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle."
           }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply112-i-will"
       }
     },
     {

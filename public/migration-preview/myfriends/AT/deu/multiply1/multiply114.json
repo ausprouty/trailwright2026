@@ -33,7 +33,7 @@
                     "id": "popup_pop1",
                     "marker": "Psalm 100",
                     "label": "Psalm 100",
-                    "passage": "<div><h4>A psalm. For giving grateful praise.</h4><p><sup>1</sup>Shout for joy to the<span class=\"small-caps\">Lord, all the earth.<br><sup>2</sup>Worship the<span class=\"small-caps\">Lord with gladness;<br>come before him with joyful songs.<br><sup>3</sup>Know that the<span class=\"small-caps\">Lord is God.<br>It is he who made us, and we are his;<br>we are his people, the sheep of his pasture.</span></span></span></p></div><p><sup>4</sup>Enter his gates with thanksgiving<br>and his courts with praise;<br>give thanks to him and praise his name.<br><sup>5</sup>For the<span class=\"small-caps\">Lord is good and his love endures forever;<br>his faithfulness continues through all generations.</span></p>"
+                    "passage": "<div>\n<h4>A psalm. For giving grateful praise.</h4>\n\n<p><sup class=\"versenum\">1 </sup>Shout for joy to the <span class=\"small-caps\">Lord, all the earth.<br>\n<sup class=\"versenum\">2 </sup>    Worship the <span class=\"small-caps\">Lord with gladness;<br>\n    come before him with joyful songs.<br>\n<sup class=\"versenum\">3 </sup>Know that the <span class=\"small-caps\">Lord is God.<br>\n    It is he who made us, and we are his;<br>\n    we are his people, the sheep of his pasture.</span></span></span></p>\n</div>\n\n<p><sup class=\"versenum\">4 </sup>Enter his gates with thanksgiving<br>\n    and his courts with praise;<br>\n    give thanks to him and praise his name.<br>\n<sup class=\"versenum\">5 </sup>For the <span class=\"small-caps\">Lord is good and his love endures forever;<br>\n    his faithfulness continues through all generations.</span></p>"
                   }
                 ],
                 "isOpen": false
@@ -92,7 +92,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-5"
+        "storageKey": "note-1"
       }
     },
     {
@@ -129,7 +129,7 @@
                     "id": "popup_pop2",
                     "marker": "Ephesians 2:1-10",
                     "label": "Ephesians 2:1-10",
-                    "passage": "<p><sup>1</sup>As for you, you were dead in your transgressions and sins,<sup>2</sup>in which you used to live when you followed the ways of this world and of the ruler of the kingdom of the air, the spirit who is now at work in those who are disobedient.<sup>3</sup>All of us also lived among them at one time, gratifying the cravings of our flesh and following its desires and thoughts. Like the rest, we were by nature deserving of wrath.<sup>4</sup>But because of his great love for us, God, who is rich in mercy,<sup>5</sup>made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved.<sup>6</sup>And God raised us up with Christ and seated us with him in the heavenly realms in Christ Jesus,<sup>7</sup>in order that in the coming ages he might show the incomparable riches of his grace, expressed in his kindness to us in Christ Jesus.<sup>8</sup>For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—<sup>9</sup>not by works, so that no one can boast.<sup>10</sup>For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.</p>"
+                    "passage": "<p><sup class=\"versenum\">1 </sup>As for you, you were dead in your transgressions and sins,<sup class=\"versenum\">2 </sup>in which you used to live when you followed the ways of this world and of the ruler of the kingdom of the air, the spirit who is now at work in those who are disobedient.<sup class=\"versenum\">3 </sup>All of us also lived among them at one time, gratifying the cravings of our flesh and following its desires and thoughts. Like the rest, we were by nature deserving of wrath.<sup class=\"versenum\">4 </sup>But because of his great love for us, God, who is rich in mercy,<sup class=\"versenum\">5 </sup>made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved.<sup class=\"versenum\">6 </sup>And God raised us up with Christ and seated us with him in the heavenly realms in Christ Jesus,<sup class=\"versenum\">7 </sup>in order that in the coming ages he might show the incomparable riches of his grace, expressed in his kindness to us in Christ Jesus.<sup class=\"versenum\">8 </sup>For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—<sup class=\"versenum\">9 </sup>not by works, so that no one can boast.<sup class=\"versenum\">10 </sup>For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.</p>"
                   }
                 ],
                 "isOpen": false
@@ -150,7 +150,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -196,7 +196,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 2:41-47",
-        "html": "<p><sup>41 </sup>Those who accepted his message were baptized, and about three thousand were added to their number that day.</p><p><sup>42</sup>They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer.<sup>43</sup>Everyone was filled with awe at the many wonders and signs performed by the apostles.<sup>44</sup>All the believers were together and had everything in common.<sup>45</sup>They sold property and possessions to give to anyone who had need.<sup>46</sup>Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts,<sup>47</sup>praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved.</p>",
+        "html": "<p><sup>41</sup>Those who accepted his message were baptized, and about three thousand were added to their number that day.</p> <p><sup>42</sup>They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer.<sup>43</sup>Everyone was filled with awe at the many wonders and signs performed by the apostles.<sup>44</sup>All the believers were together and had everything in common.<sup>45</sup>They sold property and possessions to give to anyone who had need.<sup>46</sup>Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts,<sup>47</sup>praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved.</p>",
         "url": "https://biblegateway.com/passage/?search=Acts%202:41-47&version=NIV",
         "isOpen": false
       }
@@ -268,7 +268,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-17"
+        "storageKey": "note-3"
       }
     },
     {
@@ -299,12 +299,6 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "<!-- end bible -->"
-              }
-            },
-            {
-              "type": "paragraph",
-              "data": {
                 "text": "The Holy Spirit led the early believers to meet together regularly for worship, prayer, fellowship, study of God’s word, loving one another and reaching out to those who did not yet know Christ. In every location of the book of Acts, people became followers of Christ and they made this same commitment to one another."
               }
             },
@@ -323,7 +317,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-4"
       }
     },
     {
@@ -413,19 +407,19 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "<strong>Does this group want to be the Lord’s church in this place?</strong>"
+                "text": "Does this group want to be the Lord’s church in this place?"
               }
             },
             {
               "type": "paragraph",
               "data": {
-                "text": "<strong>or </strong>"
+                "text": "or"
               }
             },
             {
               "type": "paragraph",
               "data": {
-                "text": "<strong>Do we want to focus on improving the health of other existing groups?</strong>"
+                "text": "Do we want to focus on improving the health of other existing groups?"
               }
             },
             {
@@ -521,7 +515,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-27"
+        "storageKey": "note-5"
       }
     },
     {
@@ -536,6 +530,12 @@
             "text": "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle."
           }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply114-i-will"
       }
     },
     {

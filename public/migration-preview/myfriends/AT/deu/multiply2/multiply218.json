@@ -90,7 +90,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-7"
+        "storageKey": "note-1"
       }
     },
     {
@@ -126,16 +126,10 @@
       }
     },
     {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
-      }
-    },
-    {
       "type": "biblePassage",
       "data": {
         "reference": "Markus 1:21-28",
-        "html": "<div><sup>21</sup>Sie kamen in die Stadt Kapernaum. Am Sabbat ging Jesus in die Synagoge und lehrte dort die Menschen. <sup>22</sup>Sie waren von seiner Lehre überwältigt, denn er sprach – anders als die Schriftgelehrten – mit Vollmacht. <sup>23</sup>In der Synagoge war ein Mann, der von einem bösen Geist besessen war. <sup>24</sup>Er fing an zu rufen: »Was willst du von uns, Jesus von Nazareth? Bist du gekommen, um uns zu vernichten? Ich weiß, wer du bist – der Heilige Gottes, den er gesandt hat!« <sup>25</sup>»Schweig!«, herrschte Jesus ihn an. »Verlass diesen Mann.« <sup>26</sup>Da schüttelte der böse Geist den Mann hin und her, schrie auf und verließ ihn. <sup>27</sup>Staunen erfasste die Zuschauer, und sie redeten untereinander darüber. »Was ist das für eine neue Lehre, die so viel Vollmacht hat?«, fragten sie einander aufgeregt. »Sogar böse Geister gehorchen seinem Befehl!« <sup>28</sup>Und die Nachricht von dem, was Jesus getan hatte, verbreitete sich rasch in ganz Galiläa.</div><p></p>",
+        "html": "<div><sup>21</sup>Sie kamen in die Stadt Kapernaum. Am Sabbat ging Jesus in die Synagoge und lehrte dort die Menschen. <sup>22</sup>Sie waren von seiner Lehre überwältigt, denn er sprach – anders als die Schriftgelehrten – mit Vollmacht. <sup>23</sup>In der Synagoge war ein Mann, der von einem bösen Geist besessen war. <sup>24</sup>Er fing an zu rufen: »Was willst du von uns, Jesus von Nazareth? Bist du gekommen, um uns zu vernichten? Ich weiß, wer du bist – der Heilige Gottes, den er gesandt hat!« <sup>25</sup>»Schweig!«, herrschte Jesus ihn an. »Verlass diesen Mann.« <sup>26</sup>Da schüttelte der böse Geist den Mann hin und her, schrie auf und verließ ihn. <sup>27</sup>Staunen erfasste die Zuschauer, und sie redeten untereinander darüber. »Was ist das für eine neue Lehre, die so viel Vollmacht hat?«, fragten sie einander aufgeregt. »Sogar böse Geister gehorchen seinem Befehl!« <sup>28</sup>Und die Nachricht von dem, was Jesus getan hatte, verbreitete sich rasch in ganz Galiläa.</div>",
         "url": "https://bibleserver.com/NLB/Markus%201:21-28",
         "isOpen": false
       }
@@ -199,7 +193,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-17"
+        "storageKey": "note-2"
       }
     },
     {
@@ -264,6 +258,12 @@
             "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
           }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply218-i-will"
       }
     },
     {

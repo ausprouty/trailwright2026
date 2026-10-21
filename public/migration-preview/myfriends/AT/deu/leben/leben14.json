@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben14-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Johannes 7:37-39",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>37</sup>Am letzten Tag, dem Höhepunkt des Festes, stellte Jesus sich hin und rief der Menge zu: »Wenn jemand Durst hat, soll er zu mir kommen und trinken! <sup>38</sup>Wer an mich glaubt, aus dessen Innerem werden Ströme lebendigen Wassers fließen, wie es in der Schrift heißt.« <sup>39</sup>Mit dem »lebendigen Wasser« meinte er den Geist, der jedem zuteilwerden sollte, der an ihn glaubte. Aber der Geist war noch nicht gekommen, weil Jesus noch nicht verherrlicht worden war.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>37</sup>Am letzten Tag, dem Höhepunkt des Festes, stellte Jesus sich hin und rief der Menge zu: »Wenn jemand Durst hat, soll er zu mir kommen und trinken! <sup>38</sup>Wer an mich glaubt, aus dessen Innerem werden Ströme lebendigen Wassers fließen, wie es in der Schrift heißt.« <sup>39</sup>Mit dem »lebendigen Wasser« meinte er den Geist, der jedem zuteilwerden sollte, der an ihn glaubte. Aber der Geist war noch nicht gekommen, weil Jesus noch nicht verherrlicht worden war.</div>",
         "url": "https://bibleserver.com/NLB/Johannes%207:37-39",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben14-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

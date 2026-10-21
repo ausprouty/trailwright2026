@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben04-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 5:38-42",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>38</sup>Ihr habt gehört, dass es im Gesetz von Mose heißt: ›Wer jemand am Auge verletzt, soll selbst am Auge verletzt werden. Und wer anderen einen Zahn ausschlägt, soll selbst einen Zahn dafür einbüßen.‹ <sup>39</sup>Ich aber sage: Wehrt euch nicht, wenn euch jemand Böses tut! Wer euch auf die rechte Wange schlägt, dem haltet auch die andere hin. <sup>40</sup>Wenn ihr vor Gericht erscheinen müsst und euer Hemd wird euch abgenommen, gebt euren Mantel noch dazu. <sup>41</sup>Wenn jemand von euch verlangt, eine Meile weit mit ihm zu gehen, dann geht zwei Meilen mit ihm. <sup>42</sup>Gebt denen, die euch bitten, und kehrt denen nicht den Rücken, die etwas von euch borgen wollen.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>38</sup>Ihr habt gehört, dass es im Gesetz von Mose heißt: ›Wer jemand am Auge verletzt, soll selbst am Auge verletzt werden. Und wer anderen einen Zahn ausschlägt, soll selbst einen Zahn dafür einbüßen.‹ <sup>39</sup>Ich aber sage: Wehrt euch nicht, wenn euch jemand Böses tut! Wer euch auf die rechte Wange schlägt, dem haltet auch die andere hin. <sup>40</sup>Wenn ihr vor Gericht erscheinen müsst und euer Hemd wird euch abgenommen, gebt euren Mantel noch dazu. <sup>41</sup>Wenn jemand von euch verlangt, eine Meile weit mit ihm zu gehen, dann geht zwei Meilen mit ihm. <sup>42</sup>Gebt denen, die euch bitten, und kehrt denen nicht den Rücken, die etwas von euch borgen wollen.</div>",
         "url": "https://bibleserver.com/NLB/Matthäus%205:38-42",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben04-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

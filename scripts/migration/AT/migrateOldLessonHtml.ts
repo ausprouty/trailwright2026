@@ -1,7 +1,7 @@
 // basics/migrateOldLessonHtml
 
 import * as cheerio from 'cheerio';
-import type { Cheerio, CheerioAPI } from 'cheerio';
+import type { CheerioAPI } from 'cheerio';
 import type { AnyNode } from 'domhandler';
 import { isTag, isText } from 'domhandler';
 import { ElementType } from 'domelementtype';
@@ -10,7 +10,13 @@ import { remapImagePaths } from '../remapImagePaths';
 import type { EditorJsContent, SectionTheme, VideoSource } from 'src/types/content/MigrationTypes';
 import type { AnyEditorJsBlock } from 'src/types/content/EditorBlocks';
 import { extractPopupBibleReferences } from '../shared/extractPopupBibleReferences';
-
+import type { ListItem } from 'src/types/content/ListBlock';
+import { buildBibleReferenceBlock } from '../shared/buildBibleReferenceBlock';
+import { extractListItems } from '../shared/extractLIstItems';
+import { cleanBibleHtml } from '../shared/cleanBibleHtml';
+import { looksLikeBibleReference } from '../shared/looksLikeBibleReference';
+import { normalizeInlineHtml } from '../shared/normalizeInlineHtml';
+import { trimNbspEdges } from '../shared/trimNbspEdges';
 import { extractInlineBibleRefs, type BibleRef } from '../shared/extractInlineBibleRefs';
 
 type MigrateOptions = {
@@ -64,7 +70,7 @@ function buildHeaderBlock(
   };
 }
 
-function buildListBlock(style: 'ordered' | 'unordered', items: string[]): AnyEditorJsBlock {
+function buildListBlock(style: 'ordered' | 'unordered', items: ListItem[]): AnyEditorJsBlock {
   return {
     type: 'list',
     data: {
@@ -81,14 +87,7 @@ function buildListOrBibleReferenceBlock(
     const popupResult = extractPopupBibleReferences($, $list);
 
     if (popupResult.hasReferences) {
-      return {
-        type: 'bibleReference',
-        data: {
-          text: popupResult.html,
-          references: popupResult.references,
-          isOpen: false,
-        },
-      };
+      return buildBibleReferenceBlock(popupResult.html, popupResult.references);
     }
   }
 
@@ -162,33 +161,6 @@ function buildVideoBlock(
   };
 }
 
-function cleanBibleHtml(rawHtml: string): string {
-  const $ = cheerio.load(`<div id="root">${rawHtml}</div>`);
-  const $root = $('#root');
-
-  $root.find('hr').remove();
-
-  $root.find('a.bible-readmore, a.readmore').remove();
-  $root.find('p.reference, p.myfriends-reference').remove();
-
-  const $firstParagraph = $root.children('p').first();
-  const firstParagraphText = $firstParagraph.text().trim();
-
-  if (looksLikeBibleReference(firstParagraphText)) {
-    $firstParagraph.remove();
-  }
-
-  $root.find('br').each((_, el) => {
-    const $el = $(el);
-    const next = $el.next();
-
-    if (!next.length) {
-      $el.remove();
-    }
-  });
-
-  return normalizeInlineHtml($root.html() || '');
-}
 function cleanPopupPassageHtml($: cheerio.CheerioAPI, rawHtml: string): string {
   const $root = $('<div></div>').html(rawHtml);
 
@@ -285,14 +257,7 @@ function convertPopupLinksToBibleReferenceBlock(
     $link.replaceWith(`{${marker}}`);
   });
 
-  return {
-    type: 'bibleReference',
-    data: {
-      text: $el.html()?.trim() || '',
-      references,
-      isOpen: false,
-    },
-  };
+  return buildBibleReferenceBlock($el.html() || '', references);
 }
 
 function decodeHtmlEntities(text: string): string {
@@ -417,14 +382,6 @@ function extractLessonListItems(
   return items;
 }
 
-function extractListItems($: cheerio.CheerioAPI, $list: cheerio.Cheerio<AnyNode>): string[] {
-  return $list
-    .children('li')
-    .map((_, li) => normalizeInlineHtml($(li).html() || ''))
-    .get()
-    .filter(Boolean);
-}
-
 function extractRevealContentBlocks(
   $: cheerio.CheerioAPI,
   $container: cheerio.Cheerio<AnyNode>,
@@ -502,14 +459,7 @@ function extractRevealContentBlocks(
       const popupResult = extractPopupBibleReferences($, $element);
 
       if (popupResult.hasReferences) {
-        nestedBlocks.push({
-          type: 'bibleReference',
-          data: {
-            text: popupResult.html,
-            references: popupResult.references,
-            isOpen: false,
-          },
-        });
+        nestedBlocks.push(buildBibleReferenceBlock(popupResult.html, popupResult.references));
 
         return;
       }
@@ -886,10 +836,6 @@ function lessonIconKeyFromSrc(src: string): string {
   return fileName.replace(/\.png$/i, '');
 }
 
-function looksLikeBibleReference(text: string): boolean {
-  return /^[1-3]?\s?[A-Za-z]+(?:\s+[A-Za-z]+)*\s+\d+(?::\d+(?:-\d+)?)?$/.test(text.trim());
-}
-
 function normalizeArtificialSpaces(html: string): string {
   return html
     .replace(/\{\s*'\s+'\s*\}/g, ' ')
@@ -906,36 +852,7 @@ function normalizeIconName(icon: string): string | null {
 
   return map[icon] ?? null;
 }
-function normalizeInlineHtml(html: string): string {
-  if (!html) {
-    return '';
-  }
-  const $ = cheerio.load(`<div id="root">${html}</div>`);
-  const $root = $('#root');
 
-  unwrapRedundantSpans($, $root);
-
-  $root.find('*').each((_, el) => {
-    const $el = $(el);
-    const style = $el.attr('style') || '';
-
-    if (/^\s*color\s*:\s*black\s*;?\s*$/i.test(style)) {
-      $el.removeAttr('style');
-    }
-  });
-
-  let cleaned = $root.html() || '';
-
-  cleaned = cleaned
-    .replace(/\r?\n/g, ' ')
-    .replace(/\t/g, ' ')
-    .replace(/\u00A0/g, ' ')
-    .replace(/&nbsp;/gi, ' ')
-    .replace(/\s{2,}/g, ' ')
-    .replace(/>\s+</g, '><');
-
-  return trimNbspEdges(cleaned).trim();
-}
 function normalizeLegacyPopupReferenceLayout($: cheerio.CheerioAPI): void {
   $('a[href*="javascript:popUp"]').each((_, el) => {
     const $link = $(el);
@@ -1556,38 +1473,6 @@ function splitBibleSections($: CheerioAPI): void {
       $currentBible = $newBible;
     }
   });
-}
-
-function trimNbspEdges(text: string): string {
-  return text.replace(/^(?:\s|&nbsp;|\u00A0)+/gi, '').replace(/(?:\s|&nbsp;|\u00A0)+$/gi, '');
-}
-
-function unwrapRedundantSpans($: cheerio.CheerioAPI, $root: cheerio.Cheerio<AnyNode>): void {
-  let changed = true;
-
-  while (changed) {
-    changed = false;
-
-    $root.find('span').each((_, el) => {
-      const $el = $(el);
-      const attrs = el.attribs || {};
-      const attrNames = Object.keys(attrs);
-
-      const hasOnlyColorBlack =
-        attrNames.length === 1 &&
-        attrNames[0] === 'style' &&
-        /^\s*color\s*:\s*black\s*;?\s*$/i.test(attrs.style || '');
-
-      const hasNoUsefulAttrs = attrNames.length === 0 || hasOnlyColorBlack;
-
-      if (!hasNoUsefulAttrs) {
-        return;
-      }
-
-      $el.replaceWith($el.html() || '');
-      changed = true;
-    });
-  }
 }
 
 export function migrateOldLessonHtmlToEditorJs(

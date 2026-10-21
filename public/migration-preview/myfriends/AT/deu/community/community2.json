@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "community-community2-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Hebräer 10,23-25",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>23</sup>Deshalb wollen wir weiter an der Hoffnung festhalten, die wir bekennen, denn Gott steht treu zu seinen Zusagen. <!--]--><!--[--><sup>24</sup>Spornt euch gegenseitig zu Liebe und zu guten Taten an.<!--]--><!--[--><sup>25</sup>Und lasst uns unsere Zusammenkünfte nicht versäumen, wie einige es tun, sondern ermutigt und ermahnt einander, besonders jetzt, da der Tag seiner Wiederkehr näher rückt! <!--]--><!--[--><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>23</sup>Deshalb wollen wir weiter an der Hoffnung festhalten, die wir bekennen, denn Gott steht treu zu seinen Zusagen. <sup>24</sup>Spornt euch gegenseitig zu Liebe und zu guten Taten an.<sup>25</sup>Und lasst uns unsere Zusammenkünfte nicht versäumen, wie einige es tun, sondern ermutigt und ermahnt einander, besonders jetzt, da der Tag seiner Wiederkehr näher rückt! </div>",
         "url": "https://bibleserver.com/NLB/Hebräer%2010,23-25",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "community-community2-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

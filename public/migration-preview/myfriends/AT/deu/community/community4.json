@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "community-community4-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Prediger 4, 9-12",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>9</sup>Zwei haben es besser als einer allein: Zusammen erhalten sie mehr Lohn für ihre Mühe.<!--]--><!--[--><sup>10</sup>Wenn sie hinfallen, kann einer dem anderen aufhelfen. Doch wie schlecht ist der dran, der allein ist und fällt, und keiner ist da, der ihm beim Aufstehen hilft!<!--]--><!--[--><sup>11</sup>Es können sich zwei, die in einer kalten Nacht unter einer Decke liegen, aneinander wärmen. Doch wie kann einer, der alleine liegt, warm werden? <!--]--><!--[--><sup>12</sup>Ein Einzelner kann leicht von hinten angegriffen und niedergeschlagen werden; zwei, die zusammenhalten, wehren den Überfall ab. Und: Ein dreifaches Seil kann man kaum zerreißen.<!--]--><!--[--><h4 class=\"bible\"></h4><!-- end bible --></div><!-- end bible -->",
+        "html": "<div><sup>9</sup>Zwei haben es besser als einer allein: Zusammen erhalten sie mehr Lohn für ihre Mühe.<sup>10</sup>Wenn sie hinfallen, kann einer dem anderen aufhelfen. Doch wie schlecht ist der dran, der allein ist und fällt, und keiner ist da, der ihm beim Aufstehen hilft!<sup>11</sup>Es können sich zwei, die in einer kalten Nacht unter einer Decke liegen, aneinander wärmen. Doch wie kann einer, der alleine liegt, warm werden? <sup>12</sup>Ein Einzelner kann leicht von hinten angegriffen und niedergeschlagen werden; zwei, die zusammenhalten, wehren den Überfall ab. Und: Ein dreifaches Seil kann man kaum zerreißen. <h3></h3> </div>",
         "url": "https://bibleserver.com/NLB/Ecclesiastes%204:9-12",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "community-community4-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

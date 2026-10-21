@@ -22,9 +22,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -44,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-1"
       }
     },
     {
@@ -60,10 +66,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Alle lesen den Text leise für sich.",
-          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
-          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
-          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          {
+            "text": "Alle lesen den Text leise für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln."
+          },
+          {
+            "text": "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln)."
+          },
+          {
+            "text": "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          }
         ]
       }
     },
@@ -71,7 +85,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Apostelgeschichte 1, 4-8",
-        "html": "<p class=\"bible\"><sup>4</sup>Einmal – es war bei einer gemeinsamen Mahlzeit – wies er sie an, Jerusalem vorläufig nicht zu verlassen, sondern die Erfüllung der Zusage abzuwarten, die der Vater ihnen gegeben hatte. »Ich habe darüber ja bereits mit euch gesprochen«, sagte er.<sup> 5 </sup>»Johannes hat mit Wasser getauft, ihr aber werdet mit dem Heiligen Geist getauft werden, und das schon in wenigen Tagen.« </p><p class=\"bible\"><sup>6</sup>Diese Ankündigung führte dazu, dass die Apostel, als sie ein weiteres Mal mit Jesus zusammen waren, ihm die Frage stellten: »Herr, ist jetzt die Zeit gekommen, in der du das israelitische Reich wiederherstellst?«<sup>7</sup>Jesus gab ihnen zur Antwort: »Es steht euch nicht zu, Zeitspannen und Zeitpunkte zu kennen, die der Vater festgelegt hat und über die er allein entscheidet.<sup> 8 </sup>Aber wenn der Heilige Geist auf euch herabkommt, werdet ihr mit seiner Kraft ausgerüstet werden, und das wird euch dazu befähigen, meine Zeugen zu sein – in Jerusalem, in ganz Judäa und Samarien und ´überall sonst auf der Welt, selbst` in den entferntesten Gegenden der Erde.« </p><p class=\"bible\"></p>",
+        "html": "<p> <sup>4</sup>Einmal – es war bei einer gemeinsamen Mahlzeit – wies er sie an, Jerusalem vorläufig nicht zu verlassen, sondern die Erfüllung der Zusage abzuwarten, die der Vater ihnen gegeben hatte. »Ich habe darüber ja bereits mit euch gesprochen«, sagte er.<sup> 5 </sup>»Johannes hat mit Wasser getauft, ihr aber werdet mit dem Heiligen Geist getauft werden, und das schon in wenigen Tagen.« </p> <p> <sup>6</sup>Diese Ankündigung führte dazu, dass die Apostel, als sie ein weiteres Mal mit Jesus zusammen waren, ihm die Frage stellten: »Herr, ist jetzt die Zeit gekommen, in der du das israelitische Reich wiederherstellst?«<sup>7</sup>Jesus gab ihnen zur Antwort: »Es steht euch nicht zu, Zeitspannen und Zeitpunkte zu kennen, die der Vater festgelegt hat und über die er allein entscheidet.<sup> 8 </sup>Aber wenn der Heilige Geist auf euch herabkommt, werdet ihr mit seiner Kraft ausgerüstet werden, und das wird euch dazu befähigen, meine Zeugen zu sein – in Jerusalem, in ganz Judäa und Samarien und ´überall sonst auf der Welt, selbst` in den entferntesten Gegenden der Erde.« </p>",
         "url": "https://biblegateway.com/passage/?search=Acts%201:4-8&version=NGU-DE",
         "isOpen": false
       }
@@ -80,7 +94,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Johannes 9, 1-15",
-        "html": "<p class=\"bible\"><sup>1</sup>Unterwegs sah Jesus einen Mann, der von Geburt an blind war.<sup>2</sup>»Rabbi«, fragten die Jünger, »wie kommt es, dass dieser Mann blind geboren wurde? Wer hat gesündigt – er selbst oder seine Eltern?« –<sup> 3 </sup>»Es ist weder seine Schuld noch die seiner Eltern«, erwiderte Jesus. »An ihm soll sichtbar werden, was Gott zu tun vermag.<sup> 4 </sup>Wir müssen den Auftrag dessen, der mich gesandt hat, ausführen, solange es Tag ist. Die Nacht kommt, in der niemand mehr etwas tun kann.<sup> 5 </sup>Solange ich in der Welt bin, bin ich das Licht der Welt.« </p><p class=\"bible\"><sup>6</sup>Nachdem Jesus seinen Jüngern diese Antwort gegeben hatte, spuckte er auf den Boden und machte aus ´Erde und` Speichel einen Brei, den er dem Blinden auf die Augen strich.<sup> 7 </sup>Dann befahl er ihm: »Geh zum Teich Schiloach und wasch dir das Gesicht!« (Schiloach bedeutet »Gesandter«.) Der Mann ging dorthin und wusch sich das Gesicht. Und als er von dort wegging, konnte er sehen. </p><p class=\"bible\"><sup>8</sup>Seine Nachbarn und die, die ihn bis dahin als Bettler gekannt hatten, fragten verwundert: »Ist das nicht der, der ´am Straßenrand` saß und bettelte?« –<sup>9</sup>»Ja«, sagten die einen, »er ist es.« – »Unmöglich!«, riefen die anderen. »Er sieht ihm nur sehr ähnlich.« – »Doch, ich bin es«, erklärte der Mann selbst.<sup>10</sup>»Aber wie kommt es denn, dass du auf einmal sehen kannst?«, wollten sie wissen.<sup> 11 </sup>Er gab ihnen zur Antwort: »Da ist doch dieser Mann, der Jesus heißt. Er hat einen Brei gemacht und ihn auf meine Augen gestrichen und gesagt: ›Geh zum Teich Schiloach und wasch dir das Gesicht!‹ Ich bin dorthin gegangen und habe mir das Gesicht gewaschen – und da konnte ich sehen!« –<sup> 12 </sup>»Und wo ist dieser Mann jetzt?«, fragten sie. »Ich weiß es nicht«, erwiderte er. </p><p class=\"bible\"><sup>13</sup><span class=\"normal\"> Sie brachten den Mann, der blind gewesen war, zu den Pharisäern. </span><sup>14</sup><span class=\"normal\"> Der Tag, an dem Jesus den Brei gemacht und den Blinden geheilt hatte, war ein Sabbat. </span><sup>15</sup><span class=\"normal\"> Nun fragten auch die Pharisäer den Mann, wie es kam, dass er auf einmal sehen konnte. »Er hat mir einen Brei auf die Augen gestrichen«, antwortete er, »dann habe ich mir das Gesicht gewaschen, und seitdem kann ich sehen.« – </span></p><p class=\"bible\"></p>",
+        "html": "<p> <sup>1</sup>Unterwegs sah Jesus einen Mann, der von Geburt an blind war.<sup>2</sup>»Rabbi«, fragten die Jünger, »wie kommt es, dass dieser Mann blind geboren wurde? Wer hat gesündigt – er selbst oder seine Eltern?« –<sup> 3 </sup>»Es ist weder seine Schuld noch die seiner Eltern«, erwiderte Jesus. »An ihm soll sichtbar werden, was Gott zu tun vermag.<sup> 4 </sup>Wir müssen den Auftrag dessen, der mich gesandt hat, ausführen, solange es Tag ist. Die Nacht kommt, in der niemand mehr etwas tun kann.<sup> 5 </sup>Solange ich in der Welt bin, bin ich das Licht der Welt.« </p> <p> <sup>6</sup>Nachdem Jesus seinen Jüngern diese Antwort gegeben hatte, spuckte er auf den Boden und machte aus ´Erde und` Speichel einen Brei, den er dem Blinden auf die Augen strich.<sup> 7 </sup>Dann befahl er ihm: »Geh zum Teich Schiloach und wasch dir das Gesicht!« (Schiloach bedeutet »Gesandter«.) Der Mann ging dorthin und wusch sich das Gesicht. Und als er von dort wegging, konnte er sehen. </p> <p> <sup>8</sup>Seine Nachbarn und die, die ihn bis dahin als Bettler gekannt hatten, fragten verwundert: »Ist das nicht der, der ´am Straßenrand` saß und bettelte?« –<sup>9</sup>»Ja«, sagten die einen, »er ist es.« – »Unmöglich!«, riefen die anderen. »Er sieht ihm nur sehr ähnlich.« – »Doch, ich bin es«, erklärte der Mann selbst.<sup>10</sup>»Aber wie kommt es denn, dass du auf einmal sehen kannst?«, wollten sie wissen.<sup> 11 </sup>Er gab ihnen zur Antwort: »Da ist doch dieser Mann, der Jesus heißt. Er hat einen Brei gemacht und ihn auf meine Augen gestrichen und gesagt: ›Geh zum Teich Schiloach und wasch dir das Gesicht!‹ Ich bin dorthin gegangen und habe mir das Gesicht gewaschen – und da konnte ich sehen!« –<sup> 12 </sup>»Und wo ist dieser Mann jetzt?«, fragten sie. »Ich weiß es nicht«, erwiderte er. </p> <p> <sup>13</sup> <span class=\"normal\"> Sie brachten den Mann, der blind gewesen war, zu den Pharisäern. </span> <sup>14</sup> <span class=\"normal\"> Der Tag, an dem Jesus den Brei gemacht und den Blinden geheilt hatte, war ein Sabbat. </span> <sup>15</sup> <span class=\"normal\"> Nun fragten auch die Pharisäer den Mann, wie es kam, dass er auf einmal sehen konnte. »Er hat mir einen Brei auf die Augen gestrichen«, antwortete er, »dann habe ich mir das Gesicht gewaschen, und seitdem kann ich sehen.« – </span> </p>",
         "url": "https://biblegateway.com/passage/?search=John%209:1-15&version=NGU-DE",
         "isOpen": false
       }
@@ -89,7 +103,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Johannes 9, 24-25",
-        "html": "<p class=\"bible\"><sup>24</sup>Die führenden Juden ließen den Mann, der blind gewesen war, ein zweites Mal rufen. »Bekenne dich vor Gott zur Wahrheit!«, forderten sie ihn auf. »Wir wissen, dass jener Mensch ein Sünder ist.« –<sup>25</sup>»Ob er ein Sünder ist, weiß ich nicht«, erwiderte der Geheilte. »Aber eins weiß ich: Ich war blind, und jetzt kann ich sehen.« – </p><p class=\"bible\"></p>",
+        "html": "<p> <sup>24</sup>Die führenden Juden ließen den Mann, der blind gewesen war, ein zweites Mal rufen. »Bekenne dich vor Gott zur Wahrheit!«, forderten sie ihn auf. »Wir wissen, dass jener Mensch ein Sünder ist.« –<sup>25</sup>»Ob er ein Sünder ist, weiß ich nicht«, erwiderte der Geheilte. »Aber eins weiß ich: Ich war blind, und jetzt kann ich sehen.« – </p>",
         "url": "https://biblegateway.com/passage/?search=John%209:24-25&version=NGU-DE",
         "isOpen": false
       }
@@ -99,8 +113,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Allgemeine Fragen:",
-          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          {
+            "text": "Allgemeine Fragen:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Ist dir etwas in diesem Text besonders aufgefallen?"
+                },
+                {
+                  "text": "Was gefällt dir an diesem Abschnitt? Was stört dich?"
+                },
+                {
+                  "text": "Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?"
+                },
+                {
+                  "text": "Was kannst du über die Menschheit lernen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          }
         ]
       }
     },
@@ -108,7 +143,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -124,9 +159,23 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was tut ganz generell ein Zeuge (siehe auch Johannes 9)?",
-          "Für was ist ein Zeuge verantwortlich, für was nicht?",
-          "Grundsätzlich sollte dein Erlebnis, das du erzählst, drei Teile haben: »» Das Vorher"
+          {
+            "text": "Was tut ganz generell ein Zeuge (siehe auch Johannes 9)?"
+          },
+          {
+            "text": "Für was ist ein Zeuge verantwortlich, für was nicht?"
+          },
+          {
+            "text": "Grundsätzlich sollte dein Erlebnis, das du erzählst, drei Teile haben: »» Das Vorher",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Erlebnis mit Gott / Eingreifen Gottes »» Das Nachher"
+                }
+              ]
+            }
+          }
         ]
       }
     },

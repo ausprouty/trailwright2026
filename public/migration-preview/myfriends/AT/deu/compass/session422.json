@@ -22,9 +22,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -44,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-1"
       }
     },
     {
@@ -66,10 +72,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Alle lesen den Text leise für sich.",
-          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
-          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
-          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          {
+            "text": "Alle lesen den Text leise für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln."
+          },
+          {
+            "text": "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln)."
+          },
+          {
+            "text": "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          }
         ]
       }
     },
@@ -77,7 +91,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 28, 18-20",
-        "html": "<p class=\"bible\"><sup>18</sup>Jesus trat auf sie zu und sagte: »Mir ist alle Macht im Himmel und auf der Erde gegeben.<sup> 19 </sup>Darum geht zu allen Völkern und macht die Menschen zu meinen Jüngern; tauft sie auf den Namen des Vaters, des Sohnes und des Heiligen Geistes<sup>20</sup>und lehrt sie, alles zu befolgen, was ich euch geboten habe. Und seid gewiss: Ich bin jeden Tag bei euch, bis zum Ende der Welt.« </p><p class=\"bible\"><br></p>",
+        "html": "<p> <sup>18</sup>Jesus trat auf sie zu und sagte: »Mir ist alle Macht im Himmel und auf der Erde gegeben.<sup> 19 </sup>Darum geht zu allen Völkern und macht die Menschen zu meinen Jüngern; tauft sie auf den Namen des Vaters, des Sohnes und des Heiligen Geistes<sup>20</sup>und lehrt sie, alles zu befolgen, was ich euch geboten habe. Und seid gewiss: Ich bin jeden Tag bei euch, bis zum Ende der Welt.« </p>",
         "url": "https://biblegateway.com/passage/?search=Matthew%2028:18-20&version=NGU-DE",
         "isOpen": false
       }
@@ -87,8 +101,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Allgemeine Fragen:",
-          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          {
+            "text": "Allgemeine Fragen:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Ist dir etwas in diesem Text besonders aufgefallen?"
+                },
+                {
+                  "text": "Was gefällt dir an diesem Abschnitt? Was stört dich?"
+                },
+                {
+                  "text": "Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?"
+                },
+                {
+                  "text": "Was kannst du über die Menschheit lernen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          }
         ]
       }
     },
@@ -96,7 +131,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -112,10 +147,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was steht gemäss dem ganzen Text im Zentrum von Jesus’ Willen?",
-          "Was bedeutet „macht zu Jüngern“ ganz praktisch? Welche Anhalts-punkte finden wir im Text? (siehe auch Kommentar zum Bibeltext).",
-          "Was hat Jesus während seines 3-jährigen Dienstes seine eigenen Jünger gelehrt, bzw. was tut eigentlich normalerweise ein Jünger von Jesus? (vgl. Johannes 8,31-32; Apostelgeschichte 1,8; Johannes 10,27; Matthäus 10,7-8; Matthäus 25,14-30; Matthäus 7,7-8).",
-          "Was ist gemäss unserem Text in Matthäus 28 die Voraussetzung, dass Menschen zu Jüngern werden?"
+          {
+            "text": "Was steht gemäss dem ganzen Text im Zentrum von Jesus’ Willen?"
+          },
+          {
+            "text": "Was bedeutet „macht zu Jüngern“ ganz praktisch? Welche Anhalts-punkte finden wir im Text? (siehe auch Kommentar zum Bibeltext)."
+          },
+          {
+            "text": "Was hat Jesus während seines 3-jährigen Dienstes seine eigenen Jünger gelehrt, bzw. was tut eigentlich normalerweise ein Jünger von Jesus? (vgl. Johannes 8,31-32; Apostelgeschichte 1,8; Johannes 10,27; Matthäus 10,7-8; Matthäus 25,14-30; Matthäus 7,7-8)."
+          },
+          {
+            "text": "Was ist gemäss unserem Text in Matthäus 28 die Voraussetzung, dass Menschen zu Jüngern werden?"
+          }
         ]
       }
     },

@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "hoffnung-hoffnung01-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Markus 10:46-52",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>46</sup>So erreichten sie Jericho. Als Jesus und seine Jünger die Stadt wieder verließen, folgte ihnen eine große Menschenmenge. Ein blinder Bettler namens Bartimäus (der Sohn des Timäus) saß am Straßenrand, als Jesus vorüberging. <sup>47</sup>Als Bartimäus hörte, dass Jesus von Nazareth in der Nähe war, begann er zu schreien: »Jesus, Sohn Davids, hab Erbarmen mit mir!« <sup>48</sup>»Sei still!«, fuhren die Leute ihn an. Aber er schrie nur noch lauter: »Sohn Davids, hab Erbarmen mit mir!« <sup>49</sup>Als Jesus ihn hörte, blieb er stehen und sagte: »Sagt ihm, er soll herkommen.« Da riefen sie den blinden Mann. »Nur Mut«, sagten sie. »Komm, er ruft dich!« <sup>50</sup>Bartimäus warf seinen Mantel ab, sprang auf und kam zu Jesus. <sup>51</sup>»Was soll ich für dich tun?«, fragte Jesus. »Rabbuni «, sagte der blinde Mann, »ich möchte sehen!« <sup>52</sup>Da sagte Jesus zu ihm: »Geh nur. Dein Glaube hat dich geheilt.« Und im selben Augenblick konnte der Blinde sehen! Dann folgte er Jesus auf seinem Weg. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>46</sup>So erreichten sie Jericho. Als Jesus und seine Jünger die Stadt wieder verließen, folgte ihnen eine große Menschenmenge. Ein blinder Bettler namens Bartimäus (der Sohn des Timäus) saß am Straßenrand, als Jesus vorüberging. <sup>47</sup>Als Bartimäus hörte, dass Jesus von Nazareth in der Nähe war, begann er zu schreien: »Jesus, Sohn Davids, hab Erbarmen mit mir!« <sup>48</sup>»Sei still!«, fuhren die Leute ihn an. Aber er schrie nur noch lauter: »Sohn Davids, hab Erbarmen mit mir!« <sup>49</sup>Als Jesus ihn hörte, blieb er stehen und sagte: »Sagt ihm, er soll herkommen.« Da riefen sie den blinden Mann. »Nur Mut«, sagten sie. »Komm, er ruft dich!« <sup>50</sup>Bartimäus warf seinen Mantel ab, sprang auf und kam zu Jesus. <sup>51</sup>»Was soll ich für dich tun?«, fragte Jesus. »Rabbuni «, sagte der blinde Mann, »ich möchte sehen!« <sup>52</sup>Da sagte Jesus zu ihm: »Geh nur. Dein Glaube hat dich geheilt.« Und im selben Augenblick konnte der Blinde sehen! Dann folgte er Jesus auf seinem Weg. </div>",
         "url": "https://bibleserver.com/NLB/Markieren%2010:46-52",
         "isOpen": false
       }
@@ -107,7 +109,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "hoffnung-hoffnung01-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -141,7 +143,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

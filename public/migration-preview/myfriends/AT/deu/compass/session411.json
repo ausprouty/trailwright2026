@@ -22,9 +22,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -44,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-1"
       }
     },
     {
@@ -60,10 +66,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Alle lesen den Text leise für sich.",
-          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
-          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
-          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          {
+            "text": "Alle lesen den Text leise für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln."
+          },
+          {
+            "text": "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln)."
+          },
+          {
+            "text": "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          }
         ]
       }
     },
@@ -71,7 +85,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "1 Koenige 17, 8-16",
-        "html": "<p class=\"bible\"><sup>8</sup>Da sagte der <span class=\"small-caps\"> Herr </span> zu Elia:<sup>9</sup>»Geh nach Phönizien in die Stadt Zarpat und bleib dort! Ich habe einer Witwe den Auftrag gegeben, dich zu versorgen.«<sup>10</sup>Sogleich machte Elia sich auf den Weg.</p><p class=\"bible\">Am Stadtrand von Zarpat traf er eine Witwe, die gerade Holz sammelte. Er bat sie um einen Becher Wasser.<sup>11</sup>Als sie davoneilte und das Wasser holen wollte, rief er ihr nach: »Bring mir bitte auch ein Stück Brot mit!«<sup>12</sup>Da blieb die Frau stehen und sagte: »Ich habe keinen Krümel Brot mehr, sondern nur noch eine Handvoll Mehl im Topf und ein paar Tropfen Öl im Krug. Das schwöre ich bei dem <span class=\"small-caps\"> Herr </span>n, deinem Gott. Gerade habe ich einige Holzscheite gesammelt. Ich will nun nach Hause gehen und die letzte Mahlzeit für mich und meinen Sohn zubereiten. Danach werden wir wohl verhungern.«</p><p class=\"bible\"><sup>13</sup>Elia tröstete sie: »Hab keine Angst, so weit wird es nicht kommen! Geh nur und tu, was du dir vorgenommen hast! Aber back zuerst für mich ein kleines Fladenbrot und bring es mir heraus! Nachher kannst du für dich und deinen Sohn etwas zubereiten.<sup> 14{' '} </sup>Denn der <span class=\"small-caps\"> Herr </span>, der Gott Israels, verspricht dir: Das Mehl in deinem Topf soll nicht ausgehen und das Öl in deinem Krug nicht weniger werden, bis ich, der <span class=\"small-caps\"> Herr </span>, es wieder regnen lasse.«</p><p class=\"bible\"><sup>15</sup>Die Frau ging nach Hause und tat, was Elia ihr gesagt hatte, und tatsächlich hatten Elia, die Frau und ihr Sohn Tag für Tag genug zu essen.<sup>16</sup>Mehl und Öl gingen nicht aus, genau wie der <span class=\"small-caps\"> Herr </span> es durch Elia angekündigt hatte.</p><p class=\"bible\"></p>",
+        "html": "<p><sup>8</sup>Da sagte der <span class=\"small-caps\"> Herr </span> zu Elia:<sup>9</sup>»Geh nach Phönizien in die Stadt Zarpat und bleib dort! Ich habe einer Witwe den Auftrag gegeben, dich zu versorgen.«<sup>10</sup>Sogleich machte Elia sich auf den Weg.</p> <p>Am Stadtrand von Zarpat traf er eine Witwe, die gerade Holz sammelte. Er bat sie um einen Becher Wasser.<sup>11</sup>Als sie davoneilte und das Wasser holen wollte, rief er ihr nach: »Bring mir bitte auch ein Stück Brot mit!«<sup>12</sup>Da blieb die Frau stehen und sagte: »Ich habe keinen Krümel Brot mehr, sondern nur noch eine Handvoll Mehl im Topf und ein paar Tropfen Öl im Krug. Das schwöre ich bei dem <span class=\"small-caps\"> Herr </span>n, deinem Gott. Gerade habe ich einige Holzscheite gesammelt. Ich will nun nach Hause gehen und die letzte Mahlzeit für mich und meinen Sohn zubereiten. Danach werden wir wohl verhungern.«</p> <p><sup>13</sup>Elia tröstete sie: »Hab keine Angst, so weit wird es nicht kommen! Geh nur und tu, was du dir vorgenommen hast! Aber back zuerst für mich ein kleines Fladenbrot und bring es mir heraus! Nachher kannst du für dich und deinen Sohn etwas zubereiten.<sup> 14{' '} </sup>Denn der <span class=\"small-caps\"> Herr </span>, der Gott Israels, verspricht dir: Das Mehl in deinem Topf soll nicht ausgehen und das Öl in deinem Krug nicht weniger werden, bis ich, der <span class=\"small-caps\"> Herr </span>, es wieder regnen lasse.«</p> <p><sup>15</sup>Die Frau ging nach Hause und tat, was Elia ihr gesagt hatte, und tatsächlich hatten Elia, die Frau und ihr Sohn Tag für Tag genug zu essen.<sup>16</sup>Mehl und Öl gingen nicht aus, genau wie der <span class=\"small-caps\"> Herr </span> es durch Elia angekündigt hatte.</p>",
         "url": "https://biblegateway.com/passage/?search=1%20Kings%2017:8-16&version=HOF",
         "isOpen": false
       }
@@ -81,8 +95,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Allgemeine Fragen: <ul class=\"arrows\"><li>Ist dir etwas in diesem Text besonders aufgefallen?</li><li>Was gefällt dir an diesem Abschnitt? Was stört dich?</li><li>Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?</li><li>Was kannst du über die Menschheit lernen?</li></ul>",
-          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          {
+            "text": "Allgemeine Fragen:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Ist dir etwas in diesem Text besonders aufgefallen?"
+                },
+                {
+                  "text": "Was gefällt dir an diesem Abschnitt? Was stört dich?"
+                },
+                {
+                  "text": "Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?"
+                },
+                {
+                  "text": "Was kannst du über die Menschheit lernen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          }
         ]
       }
     },
@@ -90,7 +125,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -106,10 +141,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was können wir über die Prinzipien von Geben lernen, das Gott gefällt? Lest auch 2.Korinther 9,6-8 und Lukas 6,38.",
-          "Hast du Glauben, dass Gott dein Versorger ist und dir nichts mangeln wird, wenn du ihm vertraust und seinem Plan folgst (Psalm 23,1)? Zweifelst du daran oder merkst du, dass du in einigen Bereichen (z.B. was Finanzen, deine Arbeit, Beziehungen usw. betrifft) eher aus Angst handelst?",
-          "Nach welchen Prinzipien lebst du, wenn es ums Geben geht? Was hast du heute gelernt, was möchtest du verändern? Schreib 2-3 der wichtigsten Punkte auf und teile sie mit der Gruppe.",
-          "Hast du ein evangelistisches Event oder Projekt geplant, das größere finanzielle Ressourcen benötigt? Oder gibt es wiederkehrende Ausgaben in deinem Movement (z.B. Miete fürs Büro)? Frag Jesus im Gebet, wie du dazu beitragen kannst, diesen finanziellen Bedarf zu decken (z.B. selbst spenden, in deinem Netzwerk nachfragen, ein Fundraising-Event organisieren, ...)."
+          {
+            "text": "Was können wir über die Prinzipien von Geben lernen, das Gott gefällt? Lest auch 2.Korinther 9,6-8 und Lukas 6,38."
+          },
+          {
+            "text": "Hast du Glauben, dass Gott dein Versorger ist und dir nichts mangeln wird, wenn du ihm vertraust und seinem Plan folgst (Psalm 23,1)? Zweifelst du daran oder merkst du, dass du in einigen Bereichen (z.B. was Finanzen, deine Arbeit, Beziehungen usw. betrifft) eher aus Angst handelst?"
+          },
+          {
+            "text": "Nach welchen Prinzipien lebst du, wenn es ums Geben geht? Was hast du heute gelernt, was möchtest du verändern? Schreib 2-3 der wichtigsten Punkte auf und teile sie mit der Gruppe."
+          },
+          {
+            "text": "Hast du ein evangelistisches Event oder Projekt geplant, das größere finanzielle Ressourcen benötigt? Oder gibt es wiederkehrende Ausgaben in deinem Movement (z.B. Miete fürs Büro)? Frag Jesus im Gebet, wie du dazu beitragen kannst, diesen finanziellen Bedarf zu decken (z.B. selbst spenden, in deinem Netzwerk nachfragen, ein Fundraising-Event organisieren, ...)."
+          }
         ]
       }
     },

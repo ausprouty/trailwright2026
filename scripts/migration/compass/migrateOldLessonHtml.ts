@@ -10,8 +10,14 @@ import { remapImagePaths } from '../remapImagePaths';
 import type { EditorJsContent, SectionTheme, VideoSource } from 'src/types/content/MigrationTypes';
 import type { AnyEditorJsBlock } from 'src/types/content/EditorBlocks';
 import type { ListItem } from 'src/types/content/ListBlock';
-import { extractPopupBibleReferences } from '../shared/extractPopupBibleReferences';
+import { buildBibleReferenceBlock } from '../shared/buildBibleReferenceBlock';
 
+import { extractPopupBibleReferences } from '../shared/extractPopupBibleReferences';
+import { extractListItems } from '../shared/extractLIstItems';
+import { cleanBibleHtml } from '../shared/cleanBibleHtml';
+import { looksLikeBibleReference } from '../shared/looksLikeBibleReference';
+import { normalizeInlineHtml } from '../shared/normalizeInlineHtml';
+import { trimNbspEdges } from '../shared/trimNbspEdges';
 import { extractInlineBibleRefs, type BibleRef } from '../shared/extractInlineBibleRefs';
 
 type MigrateOptions = {
@@ -80,14 +86,7 @@ function buildListOrBibleReferenceBlock(
     const popupResult = extractPopupBibleReferences($, $list);
 
     if (popupResult.hasReferences) {
-      return {
-        type: 'bibleReference',
-        data: {
-          text: popupResult.html,
-          references: popupResult.references,
-          isOpen: false,
-        },
-      };
+      return buildBibleReferenceBlock(popupResult.html, popupResult.references);
     }
   }
 
@@ -161,68 +160,6 @@ function buildVideoBlock(
   };
 }
 
-function cleanBibleHtml(rawHtml: string): string {
-  const $ = cheerio.load(`<div id="root">${rawHtml}</div>`);
-  const $root = $('#root');
-
-  $root.find('hr').remove();
-
-  $root.find('a.bible-readmore, a.readmore').remove();
-  $root.find('p.reference, p.myfriends-reference').remove();
-
-  const $firstParagraph = $root.children('p').first();
-  const firstParagraphText = $firstParagraph.text().trim();
-
-  if (looksLikeBibleReference(firstParagraphText)) {
-    $firstParagraph.remove();
-  }
-
-  // Bible passage is already inside a biblePassage block,
-  // so paragraph-level bible/rtl classes are redundant.
-  $root.find('p.bible, p.rtl').each((_, el) => {
-    $(el).removeAttr('class');
-  });
-
-  // Normalize verse numbers to plain <sup>.
-  $root.find('sup.versenum, sup.versenum-rtl').each((_, el) => {
-    const $sup = $(el);
-
-    $sup.removeAttr('class');
-
-    // Also fixes malformed numbers such as "۳ ۰" -> "۳۰".
-    const number = $sup.text().replace(/\s+/g, '');
-    $sup.text(number);
-  });
-
-  // Remove empty paragraphs such as:
-  // <p dir="rtl"><br><br></p>
-  $root.find('p').each((_, el) => {
-    const $p = $(el);
-
-    if (!$p.text().trim() && $p.find('img').length === 0) {
-      $p.remove();
-    }
-  });
-
-  // Remove all trailing <br> tags.
-  while ($root.children().last().is('br')) {
-    $root.children().last().remove();
-  }
-
-  // Remove redundant plain Bible wrappers.
-  // Preserve anything with additional classes, e.g. poetry formatting.
-  $root.find('div.bible').each((_, el) => {
-    const $div = $(el);
-
-    const classes = ($div.attr('class') || '').split(/\s+/).filter(Boolean);
-
-    if (classes.length === 1 && classes[0] === 'bible') {
-      $div.replaceWith($div.contents());
-    }
-  });
-
-  return normalizeInlineHtml($root.html() || '');
-}
 function cleanPopupPassageHtml($: cheerio.CheerioAPI, rawHtml: string): string {
   const $root = $('<div></div>').html(rawHtml);
 
@@ -319,14 +256,7 @@ function convertPopupLinksToBibleReferenceBlock(
     $link.replaceWith(`{${marker}}`);
   });
 
-  return {
-    type: 'bibleReference',
-    data: {
-      text: $el.html()?.trim() || '',
-      references,
-      isOpen: false,
-    },
-  };
+  return buildBibleReferenceBlock($el.html() || '', references);
 }
 
 function decodeHtmlEntities(text: string): string {
@@ -410,48 +340,6 @@ function extractLessonListItems(
   return items;
 }
 
-function extractListItems($: cheerio.CheerioAPI, $list: cheerio.Cheerio<AnyNode>): ListItem[] {
-  const items: ListItem[] = [];
-
-  $list.children('li').each((_, li) => {
-    const $li = $(li);
-
-    // Clone so we don't alter the source DOM.
-    const $clone = $li.clone();
-
-    // Nested lists belong in children, not in the item's text.
-    $clone.children('ul, ol').remove();
-
-    // A paragraph inside an LI is just legacy block formatting.
-    // Keep its contents, but remove the <p> wrapper.
-    $clone.children('p').each((_, p) => {
-      const $p = $(p);
-      $p.replaceWith($p.contents());
-    });
-
-    const text = normalizeInlineHtml($clone.html() || '');
-
-    const item: Exclude<ListItem, string> = {
-      text,
-    };
-
-    const $nestedList = $li.children('ul, ol').first();
-
-    if ($nestedList.length > 0) {
-      item.children = {
-        style: $nestedList.is('ol') ? 'ordered' : 'unordered',
-        items: extractListItems($, $nestedList),
-      };
-    }
-
-    if (!isIgnorableHtml(text) || item.children) {
-      items.push(item);
-    }
-  });
-
-  return items;
-}
-
 function extractRevealContentBlocks(
   $: cheerio.CheerioAPI,
   $container: cheerio.Cheerio<AnyNode>,
@@ -529,14 +417,7 @@ function extractRevealContentBlocks(
       const popupResult = extractPopupBibleReferences($, $element);
 
       if (popupResult.hasReferences) {
-        nestedBlocks.push({
-          type: 'bibleReference',
-          data: {
-            text: popupResult.html,
-            references: popupResult.references,
-            isOpen: false,
-          },
-        });
+        nestedBlocks.push(buildBibleReferenceBlock(popupResult.html, popupResult.references));
 
         return;
       }
@@ -893,10 +774,6 @@ function lessonIconKeyFromSrc(src: string): string {
   return fileName.replace(/\.png$/i, '');
 }
 
-function looksLikeBibleReference(text: string): boolean {
-  return /^[1-3]?\s?[A-Za-z]+(?:\s+[A-Za-z]+)*\s+\d+(?::\d+(?:-\d+)?)?$/.test(text.trim());
-}
-
 function normalizeArtificialSpaces(html: string): string {
   return html
     .replace(/\{\s*'\s+'\s*\}/g, ' ')
@@ -943,43 +820,6 @@ function normalizeChineseBibleSpacing($: CheerioAPI): void {
   });
 }
 
-function normalizeInlineHtml(html: string): string {
-  if (!html) {
-    return '';
-  }
-
-  const $ = cheerio.load(`<div id="root">${html}</div>`);
-  const $root = $('#root');
-
-  // Legacy spans with class="unknown" contain no useful formatting.
-  $root.find('span.unknown').each((_, el) => {
-    const $el = $(el);
-    $el.replaceWith($el.contents());
-  });
-
-  unwrapRedundantSpans($, $root);
-
-  $root.find('*').each((_, el) => {
-    const $el = $(el);
-    const style = $el.attr('style') || '';
-
-    if (/^\s*color\s*:\s*black\s*;?\s*$/i.test(style)) {
-      $el.removeAttr('style');
-    }
-  });
-
-  let cleaned = $root.html() || '';
-
-  cleaned = cleaned
-    .replace(/\r?\n/g, ' ')
-    .replace(/\t/g, ' ')
-    .replace(/\u00A0/g, ' ')
-    .replace(/&nbsp;/gi, ' ')
-    .replace(/\s{2,}/g, ' ')
-    .replace(/>\s+</g, '><');
-
-  return trimNbspEdges(cleaned).trim();
-}
 function normalizeLegacyPopupReferenceLayout($: cheerio.CheerioAPI): void {
   $('a[href*="javascript:popUp"]').each((_, el) => {
     const $link = $(el);
@@ -1396,38 +1236,6 @@ function splitBibleSections($: CheerioAPI): void {
       $currentBible = $newBible;
     }
   });
-}
-
-function trimNbspEdges(text: string): string {
-  return text.replace(/^(?:\s|&nbsp;|\u00A0)+/gi, '').replace(/(?:\s|&nbsp;|\u00A0)+$/gi, '');
-}
-
-function unwrapRedundantSpans($: cheerio.CheerioAPI, $root: cheerio.Cheerio<AnyNode>): void {
-  let changed = true;
-
-  while (changed) {
-    changed = false;
-
-    $root.find('span').each((_, el) => {
-      const $el = $(el);
-      const attrs = el.attribs || {};
-      const attrNames = Object.keys(attrs);
-
-      const hasOnlyColorBlack =
-        attrNames.length === 1 &&
-        attrNames[0] === 'style' &&
-        /^\s*color\s*:\s*black\s*;?\s*$/i.test(attrs.style || '');
-
-      const hasNoUsefulAttrs = attrNames.length === 0 || hasOnlyColorBlack;
-
-      if (!hasNoUsefulAttrs) {
-        return;
-      }
-
-      $el.replaceWith($el.html() || '');
-      changed = true;
-    });
-  }
 }
 
 export function migrateOldLessonHtmlToEditorJs(

@@ -90,7 +90,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-7"
+        "storageKey": "note-1"
       }
     },
     {
@@ -126,16 +126,10 @@
       }
     },
     {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
-      }
-    },
-    {
       "type": "biblePassage",
       "data": {
         "reference": "Markus 1:16-20",
-        "html": "<div><sup>16</sup>Eines Tages, als Jesus am Ufer des Sees Genezareth entlangging, sah er Simon und seinen Bruder Andreas. Sie warfen gerade ihr Netz aus, denn sie waren Fischer. <sup>17</sup>Jesus rief ihnen zu: »Kommt mit und folgt mir nach. Ich will euch zeigen, wie man Menschen fischt!« <sup>18</sup>Sofort ließen sie ihre Netze liegen und folgten ihm nach. <sup>19</sup>Nicht weit davon entfernt sah Jesus die Söhne des Zebedäus, Jakobus und Johannes. Sie saßen in einem Boot und flickten ihre Netze. <sup>20</sup>Auch sie forderte er auf, mit ihm zu kommen. Und ohne zu zögern ließen sie ihren Vater Zebedäus bei den Tagelöhnern im Boot zurück und gingen mit ihm.</div><p></p>",
+        "html": "<div><sup>16</sup>Eines Tages, als Jesus am Ufer des Sees Genezareth entlangging, sah er Simon und seinen Bruder Andreas. Sie warfen gerade ihr Netz aus, denn sie waren Fischer. <sup>17</sup>Jesus rief ihnen zu: »Kommt mit und folgt mir nach. Ich will euch zeigen, wie man Menschen fischt!« <sup>18</sup>Sofort ließen sie ihre Netze liegen und folgten ihm nach. <sup>19</sup>Nicht weit davon entfernt sah Jesus die Söhne des Zebedäus, Jakobus und Johannes. Sie saßen in einem Boot und flickten ihre Netze. <sup>20</sup>Auch sie forderte er auf, mit ihm zu kommen. Und ohne zu zögern ließen sie ihren Vater Zebedäus bei den Tagelöhnern im Boot zurück und gingen mit ihm.</div>",
         "url": "https://bibleserver.com/NLB/Markus%201:16-20",
         "isOpen": false
       }
@@ -199,7 +193,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-17"
+        "storageKey": "note-2"
       }
     },
     {
@@ -264,6 +258,12 @@
             "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
           }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply217-i-will"
       }
     },
     {

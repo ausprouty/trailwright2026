@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "community-community1-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Johannes 13,31-35",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>31</sup>Sobald Judas den Raum verlassen hatte, sagte Jesus: »Nun ist für den Menschensohn die Zeit gekommen, dass er verherrlicht wird. Gott wird durch alles, was geschieht, verherrlicht,<!--]--><!--[--><sup>32</sup>und das wird sehr bald geschehen.<!--]--><!--[--><sup>33</sup>Liebe Kinder, es ist nur noch kurze Zeit, bis ich fortgehen und euch verlassen muss! Ihr werdet nach mir suchen, doch wie ich schon den Juden gesagt habe: Wohin ich gehe, da könnt ihr nicht hinkommen.<!--]--><!--[--><sup>34</sup>So gebe ich euch nun ein neues Gebot: Liebt einander. So wie ich euch geliebt habe, sollt auch ihr einander lieben. <!--]--><!--[--><sup>35</sup>Eure Liebe zueinander wird der Welt zeigen, dass ihr meine Jünger seid.« <!--]--><!--[--><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div> <sup>31</sup>Sobald Judas den Raum verlassen hatte, sagte Jesus: »Nun ist für den Menschensohn die Zeit gekommen, dass er verherrlicht wird. Gott wird durch alles, was geschieht, verherrlicht,<sup>32</sup>und das wird sehr bald geschehen.<sup>33</sup>Liebe Kinder, es ist nur noch kurze Zeit, bis ich fortgehen und euch verlassen muss! Ihr werdet nach mir suchen, doch wie ich schon den Juden gesagt habe: Wohin ich gehe, da könnt ihr nicht hinkommen.<sup>34</sup>So gebe ich euch nun ein neues Gebot: Liebt einander. So wie ich euch geliebt habe, sollt auch ihr einander lieben. <sup>35</sup>Eure Liebe zueinander wird der Welt zeigen, dass ihr meine Jünger seid.« </div>",
         "url": "https://bibleserver.com/NLB/Johannes%2013,31-35",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "community-community1-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

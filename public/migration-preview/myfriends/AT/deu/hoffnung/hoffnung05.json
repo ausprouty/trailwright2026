@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "hoffnung-hoffnung05-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 18:9-17",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>9</sup>Dann erzählte Jesus ein paar Leuten, die sehr selbstgerecht waren und alle anderen mit Geringschätzung behandelten, folgendes Gleichnis: <sup>10</sup>»Zwei Männer gingen in den Tempel, um zu beten. Der eine war ein Pharisäer, der andere ein Steuereintreiber. <sup>11</sup>Der stolze Pharisäer stand da und betete: ›Ich danke dir, Gott, dass ich kein Sünder bin wie die anderen Menschen, wie die Räuber und die Ungerechten, die Ehebrecher oder besonders wie dieser Steuereintreiber da! Denn ich betrüge niemanden, ich begehe keinen Ehebruch, <sup>12</sup>ich faste zwei Mal in der Woche und gebe dir regelmäßig den zehnten Teil von meinem Einkommen.‹ <sup>13</sup>Der Steuereintreiber dagegen blieb in einigem Abstand stehen und wagte nicht einmal den Blick zu heben, während er betete: ›O Gott, sei mir gnädig, denn ich bin ein Sünder.‹ <sup>14</sup>Ich sage euch, dieser Sünder – und nicht der Pharisäer – kehrte heim als ein vor Gott Gerechtfertigter. Denn die Stolzen werden gedemütigt, die Demütigen aber werden geehrt werden. « <h4 class=\"bible\">Jesus segnet die Kinder</h4><sup>15</sup>Eines Tages brachten Eltern ihre kleinen Kinder zu Jesus. Er sollte ihnen die Hand auflegen und für sie beten. Doch die Jünger fuhren die Leute an, ihn nicht zu belästigen. <sup>16</sup>Da rief Jesus die Kinder zu sich und sagte zu den Jüngern: »Lasst die Kinder doch zu mir kommen. Hindert sie nicht daran! Denn solchen gehört das Reich Gottes. <sup>17</sup>Ich versichere euch: Wer nicht wie ein Kind glaubt, wird nicht ins Reich Gottes kommen.«<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>9</sup>Dann erzählte Jesus ein paar Leuten, die sehr selbstgerecht waren und alle anderen mit Geringschätzung behandelten, folgendes Gleichnis: <sup>10</sup>»Zwei Männer gingen in den Tempel, um zu beten. Der eine war ein Pharisäer, der andere ein Steuereintreiber. <sup>11</sup>Der stolze Pharisäer stand da und betete: ›Ich danke dir, Gott, dass ich kein Sünder bin wie die anderen Menschen, wie die Räuber und die Ungerechten, die Ehebrecher oder besonders wie dieser Steuereintreiber da! Denn ich betrüge niemanden, ich begehe keinen Ehebruch, <sup>12</sup>ich faste zwei Mal in der Woche und gebe dir regelmäßig den zehnten Teil von meinem Einkommen.‹ <sup>13</sup>Der Steuereintreiber dagegen blieb in einigem Abstand stehen und wagte nicht einmal den Blick zu heben, während er betete: ›O Gott, sei mir gnädig, denn ich bin ein Sünder.‹ <sup>14</sup>Ich sage euch, dieser Sünder – und nicht der Pharisäer – kehrte heim als ein vor Gott Gerechtfertigter. Denn die Stolzen werden gedemütigt, die Demütigen aber werden geehrt werden. « <h3>Jesus segnet die Kinder</h3> <sup>15</sup>Eines Tages brachten Eltern ihre kleinen Kinder zu Jesus. Er sollte ihnen die Hand auflegen und für sie beten. Doch die Jünger fuhren die Leute an, ihn nicht zu belästigen. <sup>16</sup>Da rief Jesus die Kinder zu sich und sagte zu den Jüngern: »Lasst die Kinder doch zu mir kommen. Hindert sie nicht daran! Denn solchen gehört das Reich Gottes. <sup>17</sup>Ich versichere euch: Wer nicht wie ein Kind glaubt, wird nicht ins Reich Gottes kommen.«</div>",
         "url": "https://bibleserver.com/NLB/Lukas%2018:9-17",
         "isOpen": false
       }
@@ -107,7 +109,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "hoffnung-hoffnung05-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -141,7 +143,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "hoffnung-hoffnung08-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 5:27-32",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>27</sup>Später, als Jesus die Stadt verließ, sah er einen Steuereintreiber namens Levi vor seinem Zollhäuschen sitzen. »Komm, folge mir nach!«, sagte Jesus zu ihm. <sup>28</sup>Da stand Levi auf, ließ alles liegen und folgte ihm nach. <sup>29</sup>Kurz darauf lud Levi Jesus als Ehrengast zu einem Festessen in sein Haus ein. Viele mit Levi befreundete Steuereinnehmer und andere Gäste waren anwesend. <sup>30</sup>Da machten die Pharisäer und Schriftgelehrten den Jüngern von Jesus heftige Vorhaltungen: »Wie könnt ihr nur mit diesem Abschaum essen und trinken?« <sup>31</sup>Jesus antwortete ihnen: »Nicht die Gesunden brauchen den Arzt, sondern die Kranken. <sup>32</sup>Ich bin gekommen, um Sünder zur Umkehr von ihren Sünden zu rufen, und nicht, um meine Zeit mit denen zu verbringen, die sich schon für gut genug halten.«<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>27</sup>Später, als Jesus die Stadt verließ, sah er einen Steuereintreiber namens Levi vor seinem Zollhäuschen sitzen. »Komm, folge mir nach!«, sagte Jesus zu ihm. <sup>28</sup>Da stand Levi auf, ließ alles liegen und folgte ihm nach. <sup>29</sup>Kurz darauf lud Levi Jesus als Ehrengast zu einem Festessen in sein Haus ein. Viele mit Levi befreundete Steuereinnehmer und andere Gäste waren anwesend. <sup>30</sup>Da machten die Pharisäer und Schriftgelehrten den Jüngern von Jesus heftige Vorhaltungen: »Wie könnt ihr nur mit diesem Abschaum essen und trinken?« <sup>31</sup>Jesus antwortete ihnen: »Nicht die Gesunden brauchen den Arzt, sondern die Kranken. <sup>32</sup>Ich bin gekommen, um Sünder zur Umkehr von ihren Sünden zu rufen, und nicht, um meine Zeit mit denen zu verbringen, die sich schon für gut genug halten.«</div>",
         "url": "https://bibleserver.com/NLB/Lukas%205:27-32",
         "isOpen": false
       }
@@ -107,7 +109,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "hoffnung-hoffnung08-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -141,7 +143,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

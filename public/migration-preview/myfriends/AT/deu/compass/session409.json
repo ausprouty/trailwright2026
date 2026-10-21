@@ -22,9 +22,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -44,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-1"
       }
     },
     {
@@ -60,10 +66,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Alle lesen den Text leise für sich.",
-          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
-          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
-          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          {
+            "text": "Alle lesen den Text leise für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln."
+          },
+          {
+            "text": "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln)."
+          },
+          {
+            "text": "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          }
         ]
       }
     },
@@ -71,7 +85,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 6, 25-34",
-        "html": "<p class=\"bible\"><sup>25</sup>»Deshalb sage ich euch: Macht euch keine Sorgen um das, was ihr an Essen und Trinken zum Leben und an Kleidung für euren Körper braucht. Ist das Leben nicht wichtiger als die Nahrung, und ist der Körper nicht wichtiger als die Kleidung?<sup>26</sup>Seht euch die Vögel an! Sie säen nicht, sie ernten nicht, sie sammeln keine Vorräte, und euer Vater im Himmel ernährt sie doch. Seid ihr nicht viel mehr wert als sie?<sup>27</sup>Wer von euch kann dadurch, dass er sich Sorgen macht, sein Leben auch nur um eine einzige Stunde verlängern?<sup>28</sup>Und warum macht ihr euch Sorgen um eure Kleidung? Seht euch die Lilien auf dem Feld an und lernt von ihnen! Sie wachsen, ohne sich abzumühen und ohne zu spinnen ´und zu weben`.<sup>29</sup>Und doch sage ich euch: Sogar Salomo in all seiner Pracht war nicht so schön gekleidet wie eine von ihnen.<sup>30</sup>Wenn Gott die Feldblumen, die heute blühen und morgen ins Feuer geworfen werden, so herrlich kleidet, wird er sich dann nicht erst recht um euch kümmern, ihr Kleingläubigen?<sup>31</sup>Macht euch also keine Sorgen! Fragt nicht: Was sollen wir essen? Was sollen wir trinken? Was sollen wir anziehen?<sup>32</sup>Denn um diese Dinge geht es den Heiden, ´die Gott nicht kennen`. Euer Vater im Himmel aber weiß, dass ihr das alles braucht.<sup>33</sup>Es soll euch zuerst um Gottes Reich und Gottes Gerechtigkeit gehen, dann wird euch das Übrige alles dazugegeben.<sup>34</sup>Macht euch keine Sorgen um den nächsten Tag! Der nächste Tag wird für sich selbst sorgen. Es genügt, dass jeder Tag seine eigene Last mit sich bringt.« </p><p class=\"bible\"><br><br></p>",
+        "html": "<p> <sup>25</sup>»Deshalb sage ich euch: Macht euch keine Sorgen um das, was ihr an Essen und Trinken zum Leben und an Kleidung für euren Körper braucht. Ist das Leben nicht wichtiger als die Nahrung, und ist der Körper nicht wichtiger als die Kleidung?<sup>26</sup>Seht euch die Vögel an! Sie säen nicht, sie ernten nicht, sie sammeln keine Vorräte, und euer Vater im Himmel ernährt sie doch. Seid ihr nicht viel mehr wert als sie?<sup>27</sup>Wer von euch kann dadurch, dass er sich Sorgen macht, sein Leben auch nur um eine einzige Stunde verlängern?<sup>28</sup>Und warum macht ihr euch Sorgen um eure Kleidung? Seht euch die Lilien auf dem Feld an und lernt von ihnen! Sie wachsen, ohne sich abzumühen und ohne zu spinnen ´und zu weben`.<sup>29</sup>Und doch sage ich euch: Sogar Salomo in all seiner Pracht war nicht so schön gekleidet wie eine von ihnen.<sup>30</sup>Wenn Gott die Feldblumen, die heute blühen und morgen ins Feuer geworfen werden, so herrlich kleidet, wird er sich dann nicht erst recht um euch kümmern, ihr Kleingläubigen?<sup>31</sup>Macht euch also keine Sorgen! Fragt nicht: Was sollen wir essen? Was sollen wir trinken? Was sollen wir anziehen?<sup>32</sup>Denn um diese Dinge geht es den Heiden, ´die Gott nicht kennen`. Euer Vater im Himmel aber weiß, dass ihr das alles braucht.<sup>33</sup>Es soll euch zuerst um Gottes Reich und Gottes Gerechtigkeit gehen, dann wird euch das Übrige alles dazugegeben.<sup>34</sup>Macht euch keine Sorgen um den nächsten Tag! Der nächste Tag wird für sich selbst sorgen. Es genügt, dass jeder Tag seine eigene Last mit sich bringt.« </p>",
         "url": "https://biblegateway.com/passage/?search=Matthew%206:25-34&version=NGU-DE",
         "isOpen": false
       }
@@ -81,8 +95,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Allgemeine Fragen:",
-          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          {
+            "text": "Allgemeine Fragen:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Ist dir etwas in diesem Text besonders aufgefallen?"
+                },
+                {
+                  "text": "Was gefällt dir an diesem Abschnitt? Was stört dich?"
+                },
+                {
+                  "text": "Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?"
+                },
+                {
+                  "text": "Was kannst du über die Menschheit lernen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          }
         ]
       }
     },
@@ -90,7 +125,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {

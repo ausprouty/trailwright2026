@@ -59,9 +59,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was lief bei dir gut diese Woche?",
-          "Was war schwierig für dich vergangene Woche?",
-          "Wo brauchst du Gottes Hilfe in deinem Leben?"
+          {
+            "text": "Was lief bei dir gut diese Woche?"
+          },
+          {
+            "text": "Was war schwierig für dich vergangene Woche?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe in deinem Leben?"
+          }
         ]
       }
     },
@@ -77,8 +83,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was konntest du seit unserem letzten Treffen praktisch umsetzen?",
-          "Welche Art von Gesprächen hattest du mit den Menschen auf deiner Gänseblümchen-Kette? <ul><li>ein lockeres Gespräch</li><li>ein ernsthaftes Gespräch</li><li>ein spirituelles Gespräch</li><li>ein Jesus-Gespräch</li></ul>"
+          {
+            "text": "Was konntest du seit unserem letzten Treffen praktisch umsetzen?"
+          },
+          {
+            "text": "Welche Art von Gesprächen hattest du mit den Menschen auf deiner Gänseblümchen-Kette?",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "ein lockeres Gespräch"
+                },
+                {
+                  "text": "ein ernsthaftes Gespräch"
+                },
+                {
+                  "text": "ein spirituelles Gespräch"
+                },
+                {
+                  "text": "ein Jesus-Gespräch"
+                }
+              ]
+            }
+          }
         ]
       }
     },
@@ -86,7 +113,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-8"
+        "storageKey": "note-1"
       }
     },
     {
@@ -111,7 +138,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -153,23 +180,23 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich oder seht euch das Video an.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+          {
+            "text": "Jeder liest den Text für sich oder seht euch das Video an."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+          }
         ]
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
       }
     },
     {
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 11:1-13",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Einmal hatte Jesus Halt gemacht, um zu beten. Als er aufgehört hatte zu beten, kam einer seiner Jünger zu ihm und bat: »Herr, lehre uns beten, so wie Johannes es seine Jünger gelehrt hat.« <sup>2</sup>Jesus antwortete: »Wenn ihr betet, dann sprecht: ›Vater, dein Name werde geehrt. Dein Reich komme bald. <sup>3</sup>Gib uns jeden Tag die Nahrung, die wir brauchen. <sup>4</sup>Und vergib uns unsere Schuld – so wie auch wir denen vergeben, die an uns schuldig geworden sind. Und lass nicht zu, dass wir der Versuchung nachgeben. ‹« <sup>5</sup>Er sagte ihnen noch mehr über das Beten und erzählte ihnen folgendes Beispiel: »Angenommen, ihr geht um Mitternacht zum Haus eines Freundes, um ihn um drei Brote zu bitten. Ihr erklärt ihm: <sup>6</sup>›Ein Freund von mir ist unerwartet zu Besuch gekommen, und ich habe nichts zu essen im Haus.‹ <sup>7</sup>Doch er ruft euch aus dem Schlafzimmer zu: ›Lass mich in Ruhe. Die Tür ist schon für die Nacht verriegelt, und wir liegen alle im Bett. Um diese Zeit kann ich dir nicht mehr helfen.‹ <sup>8</sup>Ich sage euch eins: Wenn er euch auch nicht aus Freundschaft helfen will, wird er doch am Ende aufstehen und euch geben, was ihr braucht, um seinem guten Ruf nicht zu schaden – wenn ihr nur beharrlich genug klopft. <sup>9</sup>Deshalb sage ich euch: Bittet, und ihr werdet erhalten. Sucht, und ihr werdet finden. Klopft an, und die Tür wird euch geöffnet werden. <sup>10</sup>Denn wer bittet, wird erhalten. Wer sucht, wird finden. Und die Tür wird jedem geöffnet, der anklopft. <sup>11</sup>Gibt es einen Vater, der seinem Kind eine Schlange hinhält, wenn es um einen Fisch bittet? <sup>12</sup>Oder wenn es um ein Ei bittet, reicht er ihm dann einen Skorpion? Natürlich nicht! <sup>13</sup>Wenn aber selbst ihr sündigen Menschen wisst, wie ihr euren Kindern Gutes tun könnt, wie viel eher wird euer Vater im Himmel denen, die ihn bitten, den Heiligen Geist schenken.« <h4 class=\"bible\">Jesus und der Oberste der Dämonen</h4><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>1</sup>Einmal hatte Jesus Halt gemacht, um zu beten. Als er aufgehört hatte zu beten, kam einer seiner Jünger zu ihm und bat: »Herr, lehre uns beten, so wie Johannes es seine Jünger gelehrt hat.« <sup>2</sup>Jesus antwortete: »Wenn ihr betet, dann sprecht: ›Vater, dein Name werde geehrt. Dein Reich komme bald. <sup>3</sup>Gib uns jeden Tag die Nahrung, die wir brauchen. <sup>4</sup>Und vergib uns unsere Schuld – so wie auch wir denen vergeben, die an uns schuldig geworden sind. Und lass nicht zu, dass wir der Versuchung nachgeben. ‹« <sup>5</sup>Er sagte ihnen noch mehr über das Beten und erzählte ihnen folgendes Beispiel: »Angenommen, ihr geht um Mitternacht zum Haus eines Freundes, um ihn um drei Brote zu bitten. Ihr erklärt ihm: <sup>6</sup>›Ein Freund von mir ist unerwartet zu Besuch gekommen, und ich habe nichts zu essen im Haus.‹ <sup>7</sup>Doch er ruft euch aus dem Schlafzimmer zu: ›Lass mich in Ruhe. Die Tür ist schon für die Nacht verriegelt, und wir liegen alle im Bett. Um diese Zeit kann ich dir nicht mehr helfen.‹ <sup>8</sup>Ich sage euch eins: Wenn er euch auch nicht aus Freundschaft helfen will, wird er doch am Ende aufstehen und euch geben, was ihr braucht, um seinem guten Ruf nicht zu schaden – wenn ihr nur beharrlich genug klopft. <sup>9</sup>Deshalb sage ich euch: Bittet, und ihr werdet erhalten. Sucht, und ihr werdet finden. Klopft an, und die Tür wird euch geöffnet werden. <sup>10</sup>Denn wer bittet, wird erhalten. Wer sucht, wird finden. Und die Tür wird jedem geöffnet, der anklopft. <sup>11</sup>Gibt es einen Vater, der seinem Kind eine Schlange hinhält, wenn es um einen Fisch bittet? <sup>12</sup>Oder wenn es um ein Ei bittet, reicht er ihm dann einen Skorpion? Natürlich nicht! <sup>13</sup>Wenn aber selbst ihr sündigen Menschen wisst, wie ihr euren Kindern Gutes tun könnt, wie viel eher wird euer Vater im Himmel denen, die ihn bitten, den Heiligen Geist schenken.« <h3>Jesus und der Oberste der Dämonen</h3> </div>",
         "url": "https://bibleserver.com/NLB/Lukas%2011:1-13",
         "isOpen": false
       }
@@ -199,12 +226,41 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was sticht für dich in dieser Bibelstelle heraus?",
-          "Was gefällt dir und was stört dich an diesem Text?",
-          "Warum glaubst du, ist diese Stelle wichtig?",
-          "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden?<br> Gibt es: <ul><li>eine Verhaltensweise zu ändern?</li><li>ein Versprechen einzuhalten?</li><li>ein Beispiel zu folgen?</li><li>ein Gebot zu befolgen?</li></ul>",
-          "Frage Gott, was er von dir als Antwort auf diese Bibelstelle möchte.",
-          "Teile dies mit der Gruppe."
+          {
+            "text": "Was sticht für dich in dieser Bibelstelle heraus?"
+          },
+          {
+            "text": "Was gefällt dir und was stört dich an diesem Text?"
+          },
+          {
+            "text": "Warum glaubst du, ist diese Stelle wichtig?"
+          },
+          {
+            "text": "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden?<br> Gibt es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Verhaltensweise zu ändern?"
+                },
+                {
+                  "text": "ein Versprechen einzuhalten?"
+                },
+                {
+                  "text": "ein Beispiel zu folgen?"
+                },
+                {
+                  "text": "ein Gebot zu befolgen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Frage Gott, was er von dir als Antwort auf diese Bibelstelle möchte."
+          },
+          {
+            "text": "Teile dies mit der Gruppe."
+          }
         ]
       }
     },
@@ -212,7 +268,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-21"
+        "storageKey": "note-3"
       }
     },
     {
@@ -233,10 +289,18 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Lobe ihn und stelle ihn in den Mittelpunkt,",
-                  "bitte ihn um das, was du brauchst,",
-                  "bekenne deine Sünden,",
-                  "übergib dein Leben seinem Willen und seinem Königreich."
+                  {
+                    "text": "Lobe ihn und stelle ihn in den Mittelpunkt,"
+                  },
+                  {
+                    "text": "bitte ihn um das, was du brauchst,"
+                  },
+                  {
+                    "text": "bekenne deine Sünden,"
+                  },
+                  {
+                    "text": "übergib dein Leben seinem Willen und seinem Königreich."
+                  }
                 ]
               }
             },
@@ -255,7 +319,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-4"
       }
     },
     {
@@ -328,8 +392,12 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Auf welche Arten spricht Gott zu uns? Was sind deine Erfahrungen?",
-                  "Diskutiert in der Gruppe"
+                  {
+                    "text": "Auf welche Arten spricht Gott zu uns? Was sind deine Erfahrungen?"
+                  },
+                  {
+                    "text": "Diskutiert in der Gruppe"
+                  }
                 ]
               }
             },
@@ -375,8 +443,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Schau dir deine Gänseblümchen-Kette nochmal an",
-          "Welche Schritte zeigt dir Gott, die du in der kommenden Woche mit ihm und anderen gehen sollst?"
+          {
+            "text": "Schau dir deine Gänseblümchen-Kette nochmal an"
+          },
+          {
+            "text": "Welche Schritte zeigt dir Gott, die du in der kommenden Woche mit ihm und anderen gehen sollst?"
+          }
         ]
       }
     },
@@ -384,7 +456,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-29"
+        "storageKey": "note-5"
       }
     },
     {
@@ -392,9 +464,19 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Teile den Schritt mit deiner Gruppe und bitte jemanden, für dich zu beten, dass du diesen Schritt in der Kraft des Heiligen Geistes tun kannst.",
-          "Übergebt alle eure Ziele dem Herrn. Bittet den Herrn, uns zu helfen, treu zu sein und dass er uns dazu verwendet, eine Bewegung von Menschen zu starten, die diesen MyFriends-Lifestyle leben"
+          {
+            "text": "Teile den Schritt mit deiner Gruppe und bitte jemanden, für dich zu beten, dass du diesen Schritt in der Kraft des Heiligen Geistes tun kannst."
+          },
+          {
+            "text": "Übergebt alle eure Ziele dem Herrn. Bittet den Herrn, uns zu helfen, treu zu sein und dass er uns dazu verwendet, eine Bewegung von Menschen zu starten, die diesen MyFriends-Lifestyle leben"
+          }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-multiply105-i-will"
       }
     },
     {

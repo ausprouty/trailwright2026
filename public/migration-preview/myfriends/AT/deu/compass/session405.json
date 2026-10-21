@@ -22,9 +22,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -44,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-1"
       }
     },
     {
@@ -60,10 +66,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Alle lesen den Text leise für sich.",
-          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
-          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
-          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          {
+            "text": "Alle lesen den Text leise für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln."
+          },
+          {
+            "text": "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln)."
+          },
+          {
+            "text": "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          }
         ]
       }
     },
@@ -71,7 +85,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Johannes 10, 27-28",
-        "html": "<p class=\"bible\"><sup>27</sup>Meine Schafe hören auf meine Stimme. Ich kenne sie, und sie folgen mir,<sup>28</sup>und ich gebe ihnen das ewige Leben. Sie werden niemals verloren gehen, und niemand wird sie aus meiner Hand reißen.</p><p class=\"bible\"></p>",
+        "html": "<p><sup>27</sup>Meine Schafe hören auf meine Stimme. Ich kenne sie, und sie folgen mir,<sup>28</sup>und ich gebe ihnen das ewige Leben. Sie werden niemals verloren gehen, und niemand wird sie aus meiner Hand reißen.</p>",
         "url": "https://biblegateway.com/passage/?search=John%2010:27-28&version=NGU-DE",
         "isOpen": false
       }
@@ -80,7 +94,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Apostelgeschichte 9, 10-19",
-        "html": "<p class=\"bible\"><sup>10</sup>In Damaskus lebte ein Jünger ´Jesu` namens Hananias. Zu ihm sagte der Herr in einer Vision: »Hananias!« – »Ja, Herr?«, erwiderte Hananias.<sup>11</sup>»Geh in die Gerade Straße«, befahl ihm der Herr, »und frage im Haus des Judas nach einem Saulus aus Tarsus. Du musst Folgendes wissen: Saulus betet,<sup>12</sup>und in einer Vision hat er gesehen, wie ein Mann namens Hananias in sein Zimmer tritt und ihm die Hände auflegt, damit er wieder sehen kann.«</p><p class=\"bible\"><sup>13</sup>»Herr«, entgegnete Hananias, »von den verschiedensten Seiten habe ich erfahren, wie viel schreckliche Dinge dieser Mann in Jerusalem denen angetan hat, die zu deiner Gemeinde gehören.<sup>14</sup>Außerdem ist er von den führenden Priestern dazu ermächtigt, hier in Damaskus alle zu verhaften, die sich zu deinem Namen bekennen.«</p><p class=\"bible\"><sup>15</sup>Aber der Herr sagte: »Geh ´trotzdem` zu ihm! Denn gerade ihn habe ich mir als Werkzeug ausgewählt, damit er meinen Namen ´in aller Welt` bekannt macht – bei den nichtjüdischen Völkern und ihren Herrschern ebenso wie bei den Israeliten.<sup>16</sup>Und ich will ihm zeigen, wie viel er ´von jetzt an` um meines Namens willen leiden muss.«</p><p class=\"bible\"><sup>17</sup>Da machte sich Hananias auf den Weg und ging in jenes Haus. Er legte Saulus die Hände auf und sagte: »Saul, mein Bruder! Der Herr selbst – Jesus, der dir auf deiner Reise hierher erschienen ist – hat mich geschickt. Er möchte, dass du wieder sehen kannst und mit dem Heiligen Geist erfüllt wirst.«<sup>18</sup>Im selben Augenblick war es, als würden Schuppen von Saulus’ Augen fallen: Er konnte wieder sehen! Saulus stand auf und ließ sich taufen.<sup>19</sup>Und nachdem er etwas gegessen hatte, kehrten seine Kräfte zurück.</p><p class=\"bible\"></p>",
+        "html": "<p><sup>10</sup>In Damaskus lebte ein Jünger ´Jesu` namens Hananias. Zu ihm sagte der Herr in einer Vision: »Hananias!« – »Ja, Herr?«, erwiderte Hananias.<sup>11</sup>»Geh in die Gerade Straße«, befahl ihm der Herr, »und frage im Haus des Judas nach einem Saulus aus Tarsus. Du musst Folgendes wissen: Saulus betet,<sup>12</sup>und in einer Vision hat er gesehen, wie ein Mann namens Hananias in sein Zimmer tritt und ihm die Hände auflegt, damit er wieder sehen kann.«</p> <p><sup>13</sup>»Herr«, entgegnete Hananias, »von den verschiedensten Seiten habe ich erfahren, wie viel schreckliche Dinge dieser Mann in Jerusalem denen angetan hat, die zu deiner Gemeinde gehören.<sup>14</sup>Außerdem ist er von den führenden Priestern dazu ermächtigt, hier in Damaskus alle zu verhaften, die sich zu deinem Namen bekennen.«</p> <p><sup>15</sup>Aber der Herr sagte: »Geh ´trotzdem` zu ihm! Denn gerade ihn habe ich mir als Werkzeug ausgewählt, damit er meinen Namen ´in aller Welt` bekannt macht – bei den nichtjüdischen Völkern und ihren Herrschern ebenso wie bei den Israeliten.<sup>16</sup>Und ich will ihm zeigen, wie viel er ´von jetzt an` um meines Namens willen leiden muss.«</p> <p><sup>17</sup>Da machte sich Hananias auf den Weg und ging in jenes Haus. Er legte Saulus die Hände auf und sagte: »Saul, mein Bruder! Der Herr selbst – Jesus, der dir auf deiner Reise hierher erschienen ist – hat mich geschickt. Er möchte, dass du wieder sehen kannst und mit dem Heiligen Geist erfüllt wirst.«<sup>18</sup>Im selben Augenblick war es, als würden Schuppen von Saulus’ Augen fallen: Er konnte wieder sehen! Saulus stand auf und ließ sich taufen.<sup>19</sup>Und nachdem er etwas gegessen hatte, kehrten seine Kräfte zurück.</p>",
         "url": "https://biblegateway.com/passage/?search=Acts%209:10-19&version=NGU-DE",
         "isOpen": false
       }
@@ -90,8 +104,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Allgemeine Fragen: <ul class=\"arrows\"><li>Ist dir etwas in diesem Text besonders aufgefallen?</li><li>Was gefällt dir an diesem Abschnitt? Was stört dich?</li><li>Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?</li><li>Was kannst du über die Menschheit lernen?</li></ul>",
-          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          {
+            "text": "Allgemeine Fragen:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Ist dir etwas in diesem Text besonders aufgefallen?"
+                },
+                {
+                  "text": "Was gefällt dir an diesem Abschnitt? Was stört dich?"
+                },
+                {
+                  "text": "Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?"
+                },
+                {
+                  "text": "Was kannst du über die Menschheit lernen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          }
         ]
       }
     },
@@ -99,7 +134,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -115,10 +150,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Warum ist es so wichtig, Gottes Stimme zu hören?",
-          "Glaubst du, dass Gott zu dir persönlich reden kann?",
-          "Wie hast du bisher das Reden Gottes erlebt?",
-          "Was hat dich möglicherweise dabei blockiert? Tipp: <ul><li>1. Unterstelle deine Seele – also dein Wille, deine Gefühle und deinen Verstand – dem Geist Gottes.</li><li>2. Es kann sein, dass du von Gott keine Antwort auf eine Frage bekommst, weil Gott von dir zuerst noch einen anderen Gehorsamsschritt erwartet. Tue darum zuerst das, was klar ist, was Gott von dir möchte, danach wirst du auch besser Gottes Stimme für dein persönliches Anliegen hören.</li></ul>"
+          {
+            "text": "Warum ist es so wichtig, Gottes Stimme zu hören?"
+          },
+          {
+            "text": "Glaubst du, dass Gott zu dir persönlich reden kann?"
+          },
+          {
+            "text": "Wie hast du bisher das Reden Gottes erlebt?"
+          },
+          {
+            "text": "Was hat dich möglicherweise dabei blockiert? Tipp:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "1. Unterstelle deine Seele – also dein Wille, deine Gefühle und deinen Verstand – dem Geist Gottes."
+                },
+                {
+                  "text": "2. Es kann sein, dass du von Gott keine Antwort auf eine Frage bekommst, weil Gott von dir zuerst noch einen anderen Gehorsamsschritt erwartet. Tue darum zuerst das, was klar ist, was Gott von dir möchte, danach wirst du auch besser Gottes Stimme für dein persönliches Anliegen hören."
+                }
+              ]
+            }
+          }
         ]
       }
     },
@@ -144,7 +198,7 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "<strong>Grundsätzliche Prinzipien</strong>"
+                "text": "Grundsätzliche Prinzipien"
               }
             },
             {
@@ -152,9 +206,15 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Gottes Wort zeigt uns Gottes grundsätzlichen Willen (z.B. Matthäus 28,18-20).",
-                  "„Dein Reich komme“ (Lukas 11,2) soll unser primäres und wichtigstes Anliegen sein bei allen Entscheidungen.",
-                  "In vielen konkreten Situationen finden wir nicht die direkte Antwort in der Bibel. Darum ist es wichtig, mit der Zeit eine Sensibilität für Gottes Willen zu entwickeln. Mit unserer Vertrautheit mit Gott wächst auch unsere Einsicht in seinen Willen (Römer 12,2)."
+                  {
+                    "text": "Gottes Wort zeigt uns Gottes grundsätzlichen Willen (z.B. Matthäus 28,18-20)."
+                  },
+                  {
+                    "text": "„Dein Reich komme“ (Lukas 11,2) soll unser primäres und wichtigstes Anliegen sein bei allen Entscheidungen."
+                  },
+                  {
+                    "text": "In vielen konkreten Situationen finden wir nicht die direkte Antwort in der Bibel. Darum ist es wichtig, mit der Zeit eine Sensibilität für Gottes Willen zu entwickeln. Mit unserer Vertrautheit mit Gott wächst auch unsere Einsicht in seinen Willen (Römer 12,2)."
+                  }
                 ]
               }
             },

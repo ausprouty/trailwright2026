@@ -1,9 +1,20 @@
 {
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "life",
+  "lessonId": "life201",
+  "sortOrder": 0,
   "blocks": [
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "back"
+        "theme": "review",
+        "title": "RÜCKBLICK",
+        "icon": "review"
       }
     },
     {
@@ -11,9 +22,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Was hat sich bei dir seit dem letzten Treffen verändert?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Was hat sich bei dir seit dem letzten Treffen verändert?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -27,13 +44,15 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "life-201-look-up"
+        "storageKey": "note-1"
       }
     },
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "up"
+        "theme": "bible-study",
+        "title": "BIBELSTUDIUM",
+        "icon": "bible-study"
       }
     },
     {
@@ -41,25 +60,25 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+          }
         ]
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
       }
     },
     {
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 7, 7-11",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>7</sup>Bittet, und ihr werdet erhalten. Sucht, und ihr werdet finden. Klopft an, und die Tür wird euch geöffnet werden. <sup>8</sup>Denn wer bittet, wird erhalten. Wer sucht, wird finden. Und die Tür wird jedem geöffnet, der anklopft. <sup>9</sup>Ihr Eltern – wenn euch eure Kinder um ein Stück Brot bitten, gebt ihr ihnen dann stattdessen einen Stein? <sup>10</sup>Oder wenn sie euch um einen Fisch bitten, gebt ihr ihnen eine Schlange? Natürlich nicht! <sup>11</sup>Wenn ihr, die ihr Sünder seid, wisst, wie man seinen Kindern Gutes tut, wie viel mehr wird euer Vater im Himmel denen, die ihn darum bitten, Gutes tun. <h4 class=\"bible\"></h4><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>7</sup>Bittet, und ihr werdet erhalten. Sucht, und ihr werdet finden. Klopft an, und die Tür wird euch geöffnet werden. <sup>8</sup>Denn wer bittet, wird erhalten. Wer sucht, wird finden. Und die Tür wird jedem geöffnet, der anklopft. <sup>9</sup>Ihr Eltern – wenn euch eure Kinder um ein Stück Brot bitten, gebt ihr ihnen dann stattdessen einen Stein? <sup>10</sup>Oder wenn sie euch um einen Fisch bitten, gebt ihr ihnen eine Schlange? Natürlich nicht! <sup>11</sup>Wenn ihr, die ihr Sünder seid, wisst, wie man seinen Kindern Gutes tut, wie viel mehr wird euer Vater im Himmel denen, die ihn darum bitten, Gutes tun. <h3> </h3> </div>",
         "url": "https://bibleserver.com/NLB/Matthäus%207,%207-11",
-        "isOpen": true
+        "isOpen": false
       }
     },
     {
@@ -73,9 +92,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir im Text etwas besonders aufgefallen? Was magst du, was stört dich?",
-          "Was kannst du in diesem Text über Gott und Jesus lernen?",
-          "Was kannst du über die Menschen lernen?"
+          {
+            "text": "Ist dir im Text etwas besonders aufgefallen? Was magst du, was stört dich?"
+          },
+          {
+            "text": "Was kannst du in diesem Text über Gott und Jesus lernen?"
+          },
+          {
+            "text": "Was kannst du über die Menschen lernen?"
+          }
         ]
       }
     },
@@ -90,9 +115,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Wie beeinflusst dieser Text die Art, wie du lebst?",
-          "Wie beeinflusst dieser Text deine Sicht über Gott und Jesus?",
-          "Wie beeinflusst dieser Text deinen Umgang mit anderen Menschen?"
+          {
+            "text": "Wie beeinflusst dieser Text die Art, wie du lebst?"
+          },
+          {
+            "text": "Wie beeinflusst dieser Text deine Sicht über Gott und Jesus?"
+          },
+          {
+            "text": "Wie beeinflusst dieser Text deinen Umgang mit anderen Menschen?"
+          }
         ]
       }
     },
@@ -100,13 +131,15 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "life-201-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "forward"
+        "theme": "challenge",
+        "title": "CHALLENGE",
+        "icon": "challenges"
       }
     },
     {
@@ -114,7 +147,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was wirst du die nächsten zwei, drei Tage ausprobieren / verbessern / tun?"
+          {
+            "text": "Was wirst du die nächsten zwei, drei Tage ausprobieren / verbessern / tun?"
+          }
         ]
       }
     },
@@ -125,18 +160,32 @@
       }
     },
     {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "GEBET",
+        "icon": "challenges"
+      }
+    },
+    {
       "type": "paragraph",
       "data": {
         "text": "▶ Gemeinsames Gebet: Sage Gott, was du ausprobieren / verbessern / tun wirst und bitte ihn um seine Hilfe und sein Wirken."
       }
     },
     {
-      "type": "iWill",
+      "type": "notesArea",
       "data": {
-        "storageKey": "life-201-i-will"
+        "notes": "",
+        "storageKey": "note-4"
       }
     }
-  ],
-  "time": 1776770695796,
-  "version": "2.31.5"
+  ]
 }

@@ -90,7 +90,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-7"
+        "storageKey": "note-1"
       }
     },
     {
@@ -126,16 +126,10 @@
       }
     },
     {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
-      }
-    },
-    {
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 5:27-39",
-        "html": "<div><sup>27</sup>Später, als Jesus die Stadt verließ, sah er einen Steuereintreiber namens Levi vor seinem Zollhäuschen sitzen. »Komm, folge mir nach!«, sagte Jesus zu ihm. <sup>28</sup>Da stand Levi auf, ließ alles liegen und folgte ihm nach. <sup>29</sup>Kurz darauf lud Levi Jesus als Ehrengast zu einem Festessen in sein Haus ein. Viele mit Levi befreundete Steuereinnehmer und andere Gäste waren anwesend. <sup>30</sup>Da machten die Pharisäer und Schriftgelehrten den Jüngern von Jesus heftige Vorhaltungen: »Wie könnt ihr nur mit diesem Abschaum essen und trinken?« <sup>31</sup>Jesus antwortete ihnen: »Nicht die Gesunden brauchen den Arzt, sondern die Kranken. <sup>32</sup>Ich bin gekommen, um Sünder zur Umkehr von ihren Sünden zu rufen, und nicht, um meine Zeit mit denen zu verbringen, die sich schon für gut genug halten.« <h3>Über das Fasten</h3><sup>33</sup>Die führenden Männer des Judentums kritisierten Jesus, weil seine Jünger aßen und tranken statt zu fasten. »Die Jünger von Johannes dem Täufer fasten und beten häufig«, erklärten sie, »und die Jünger der Pharisäer genauso. Wie kommt es, dass deine Jünger nicht fasten, sondern essen und trinken?« <sup>34</sup>Jesus fragte zurück: »Fasten etwa die Hochzeitsgäste, während sie mit dem Bräutigam feiern? <sup>35</sup>Eines Tages wird er ihnen weggenommen werden, und dann werden sie fasten.« <sup>36</sup>Und er gab ihnen folgendes Gleichnis: »Niemand reißt ein Stück Stoff aus einem neuen Kleid, um damit ein altes zu flicken. Denn das neue Kleid wäre zerrissen und der Flicken würde nicht zu dem alten passen. <sup>37</sup>Und niemand füllt neuen Wein in alte Weinschläuche. Der neue Wein würde die alten Weinschläuche platzen lassen, der Wein würde verschüttet und die Schläuche wären verdorben. <sup>38</sup>Neuer Wein gehört in neue Weinschläuche. <sup>39</sup>Aber keiner, der alten Wein trinkt, scheint neuen Wein zu wollen, denn er sagt: ›Der alte ist besser.‹« </div><p></p>",
+        "html": "<div><sup>27</sup>Später, als Jesus die Stadt verließ, sah er einen Steuereintreiber namens Levi vor seinem Zollhäuschen sitzen. »Komm, folge mir nach!«, sagte Jesus zu ihm. <sup>28</sup>Da stand Levi auf, ließ alles liegen und folgte ihm nach. <sup>29</sup>Kurz darauf lud Levi Jesus als Ehrengast zu einem Festessen in sein Haus ein. Viele mit Levi befreundete Steuereinnehmer und andere Gäste waren anwesend. <sup>30</sup>Da machten die Pharisäer und Schriftgelehrten den Jüngern von Jesus heftige Vorhaltungen: »Wie könnt ihr nur mit diesem Abschaum essen und trinken?« <sup>31</sup>Jesus antwortete ihnen: »Nicht die Gesunden brauchen den Arzt, sondern die Kranken. <sup>32</sup>Ich bin gekommen, um Sünder zur Umkehr von ihren Sünden zu rufen, und nicht, um meine Zeit mit denen zu verbringen, die sich schon für gut genug halten.« <h3>Über das Fasten</h3> <sup>33</sup>Die führenden Männer des Judentums kritisierten Jesus, weil seine Jünger aßen und tranken statt zu fasten. »Die Jünger von Johannes dem Täufer fasten und beten häufig«, erklärten sie, »und die Jünger der Pharisäer genauso. Wie kommt es, dass deine Jünger nicht fasten, sondern essen und trinken?« <sup>34</sup>Jesus fragte zurück: »Fasten etwa die Hochzeitsgäste, während sie mit dem Bräutigam feiern? <sup>35</sup>Eines Tages wird er ihnen weggenommen werden, und dann werden sie fasten.« <sup>36</sup>Und er gab ihnen folgendes Gleichnis: »Niemand reißt ein Stück Stoff aus einem neuen Kleid, um damit ein altes zu flicken. Denn das neue Kleid wäre zerrissen und der Flicken würde nicht zu dem alten passen. <sup>37</sup>Und niemand füllt neuen Wein in alte Weinschläuche. Der neue Wein würde die alten Weinschläuche platzen lassen, der Wein würde verschüttet und die Schläuche wären verdorben. <sup>38</sup>Neuer Wein gehört in neue Weinschläuche. <sup>39</sup>Aber keiner, der alten Wein trinkt, scheint neuen Wein zu wollen, denn er sagt: ›Der alte ist besser.‹« </div>",
         "url": "https://bibleserver.com/NLB/Lukas%205:27-39",
         "isOpen": false
       }
@@ -199,7 +193,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-17"
+        "storageKey": "note-2"
       }
     },
     {
@@ -264,6 +258,12 @@
             "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
           }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply223-i-will"
       }
     },
     {

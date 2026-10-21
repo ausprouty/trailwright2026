@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben02-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 5:27-30",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>27</sup>Ihr habt gehört, dass es im Gesetz von Mose heißt: ›Du sollst nicht die Ehe brechen.‹ <sup>28</sup>Ich aber sage: Wer eine Frau auch nur mit einem Blick voller Begierde ansieht, hat im Herzen schon mit ihr die Ehe gebrochen. <sup>29</sup>Wenn dich also dein Auge – auch wenn es dein gutes Auge ist – zur Begierde verführt, reiß es heraus und wirf es weg! Besser, du verlierst einen Körperteil, als dass dein ganzer Körper in die Hölle geworfen wird. <sup>30</sup>Und wenn dich deine Hand – auch wenn es deine kräftigere Hand ist – zum Bösen verführt, hack sie ab und wirf sie weg! Besser, du verlierst einen Körperteil, als dass dein ganzer Körper in die Hölle geworfen wird.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>27</sup>Ihr habt gehört, dass es im Gesetz von Mose heißt: ›Du sollst nicht die Ehe brechen.‹ <sup>28</sup>Ich aber sage: Wer eine Frau auch nur mit einem Blick voller Begierde ansieht, hat im Herzen schon mit ihr die Ehe gebrochen. <sup>29</sup>Wenn dich also dein Auge – auch wenn es dein gutes Auge ist – zur Begierde verführt, reiß es heraus und wirf es weg! Besser, du verlierst einen Körperteil, als dass dein ganzer Körper in die Hölle geworfen wird. <sup>30</sup>Und wenn dich deine Hand – auch wenn es deine kräftigere Hand ist – zum Bösen verführt, hack sie ab und wirf sie weg! Besser, du verlierst einen Körperteil, als dass dein ganzer Körper in die Hölle geworfen wird.</div>",
         "url": "https://bibleserver.com/NLB/Matthew%205:27-30",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben02-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

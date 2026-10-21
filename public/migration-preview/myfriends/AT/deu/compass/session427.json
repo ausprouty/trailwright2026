@@ -22,9 +22,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -44,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-1"
       }
     },
     {
@@ -66,10 +72,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Alle lesen den Text leise für sich.",
-          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
-          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
-          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          {
+            "text": "Alle lesen den Text leise für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln."
+          },
+          {
+            "text": "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln)."
+          },
+          {
+            "text": "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          }
         ]
       }
     },
@@ -77,7 +91,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Apostelgeschichte 4, 23-31",
-        "html": "<div class=\"bible\"><p class=\"bible\"><sup>23</sup>Sobald Petrus und Johannes wieder auf freiem Fuß waren, gingen sie zu den Mitchristen und berichteten ihnen, was die führenden Priester und die Ratsältesten zu ihnen gesagt hatten.<sup> 24 </sup>Die Reaktion der Versammelten auf das, was sie hörten, war, dass sich alle gemeinsam und einmütig an Gott wandten. Mit lauter Stimme beteten sie: »Du großer Herrscher! Du bist es, der den Himmel, die Erde und das Meer geschaffen hat, ´das ganze Universum` mit allem, was darin ist.<sup>25</sup>Du bist es auch, der durch unseren Vater David, deinen Diener, geredet hat, als dieser, vom Heiligen Geist geleitet, sagte: </p><div class=\"poetry\"><p class=\"bible\"> ›Was soll das Aufbegehren der Nationen?Was bringt es den Völkern, nutzlose Pläne zu schmieden? </p><p class=\"bible\"><br><sup>26</sup>Die Könige dieser Welt haben sich zum Angriff bereitgemacht,<br>und die Machthaber haben sich miteinander verbündetzum Kampf gegen den Herrn und gegen seinen Gesalbten.‹ </p></div><p class=\"bible\"><sup>27</sup>Und so ist es tatsächlich gekommen: Hier in dieser Stadt haben sich Herodes und Pontius Pilatus zusammen mit den heidnischen Nationen und den Stämmen Israels gegen deinen heiligen Diener Jesus verbündet, den du gesalbt hast.<sup> 28 </sup>Doch indem sie so vorgingen, ist genau das eingetreten, was du in deiner Macht vorherbestimmt hattest und was nach deinem Plan geschehen sollte. </p><p class=\"bible\"><sup>29</sup>Höre nun, Herr, wie sie uns drohen, und hilf uns als deinen Dienern, furchtlos und unerschrocken deine Botschaft zu verkünden.<sup>30</sup>Erweise deine Macht, und lass durch den Namen deines heiligen Dieners Jesus Kranke geheilt werden und Wunder und außergewöhnliche Dinge geschehen!« </p><p class=\"bible\"><sup>31</sup>Nachdem sie in dieser Weise gebetet hatten, bebte die Erde an dem Ort, an dem sie versammelt waren. Sie wurden alle mit dem Heiligen Geist erfüllt und verkündeten die Botschaft Gottes weiterhin frei und unerschrocken. </p><p class=\"bible\"><br><br></p></div>",
+        "html": "<p> <sup>23</sup>Sobald Petrus und Johannes wieder auf freiem Fuß waren, gingen sie zu den Mitchristen und berichteten ihnen, was die führenden Priester und die Ratsältesten zu ihnen gesagt hatten.<sup> 24 </sup>Die Reaktion der Versammelten auf das, was sie hörten, war, dass sich alle gemeinsam und einmütig an Gott wandten. Mit lauter Stimme beteten sie: »Du großer Herrscher! Du bist es, der den Himmel, die Erde und das Meer geschaffen hat, ´das ganze Universum` mit allem, was darin ist.<sup>25</sup>Du bist es auch, der durch unseren Vater David, deinen Diener, geredet hat, als dieser, vom Heiligen Geist geleitet, sagte: </p> <div class=\"poetry\"> <p> ›Was soll das Aufbegehren der Nationen?<br>Was bringt es den Völkern, nutzlose Pläne zu schmieden? </p> <p> <br> <sup>26</sup>Die Könige dieser Welt haben sich zum Angriff bereitgemacht,<br>und die Machthaber haben sich miteinander verbündet<br>zum Kampf gegen den Herrn und gegen seinen Gesalbten.‹ </p> </div> <p> <sup>27</sup>Und so ist es tatsächlich gekommen: Hier in dieser Stadt haben sich Herodes und Pontius Pilatus zusammen mit den heidnischen Nationen und den Stämmen Israels gegen deinen heiligen Diener Jesus verbündet, den du gesalbt hast.<sup> 28 </sup>Doch indem sie so vorgingen, ist genau das eingetreten, was du in deiner Macht vorherbestimmt hattest und was nach deinem Plan geschehen sollte. </p> <p> <sup>29</sup>Höre nun, Herr, wie sie uns drohen, und hilf uns als deinen Dienern, furchtlos und unerschrocken deine Botschaft zu verkünden.<sup>30</sup>Erweise deine Macht, und lass durch den Namen deines heiligen Dieners Jesus Kranke geheilt werden und Wunder und außergewöhnliche Dinge geschehen!« </p> <p> <sup>31</sup>Nachdem sie in dieser Weise gebetet hatten, bebte die Erde an dem Ort, an dem sie versammelt waren. Sie wurden alle mit dem Heiligen Geist erfüllt und verkündeten die Botschaft Gottes weiterhin frei und unerschrocken. </p>",
         "url": "https://biblegateway.com/passage/?search=Acts%204:23-31&version=NGU-DE",
         "isOpen": false
       }
@@ -87,8 +101,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Allgemeine Fragen:",
-          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          {
+            "text": "Allgemeine Fragen:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Ist dir etwas in diesem Text besonders aufgefallen?"
+                },
+                {
+                  "text": "Was gefällt dir an diesem Abschnitt? Was stört dich?"
+                },
+                {
+                  "text": "Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?"
+                },
+                {
+                  "text": "Was kannst du über die Menschheit lernen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          }
         ]
       }
     },
@@ -96,7 +131,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -112,8 +147,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Für was hättest du gebetet, wenn du wie Petrus und Johannes we-gen wegen deines Glaubens bedroht worden wärst?",
-          "Für was beteten die Christen? Was lehrt dich die Einstellung der ersten Christen und was willst du davon umsetzen? Gibt es etwas in deinem Leben, das du tun solltest und was einen mutigen Schritt von dir erfordert? Schreibe es auf und teile es der Gruppe mit."
+          {
+            "text": "Für was hättest du gebetet, wenn du wie Petrus und Johannes we-gen wegen deines Glaubens bedroht worden wärst?"
+          },
+          {
+            "text": "Für was beteten die Christen? Was lehrt dich die Einstellung der ersten Christen und was willst du davon umsetzen? Gibt es etwas in deinem Leben, das du tun solltest und was einen mutigen Schritt von dir erfordert? Schreibe es auf und teile es der Gruppe mit."
+          }
         ]
       }
     },
@@ -139,7 +178,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-3"
       }
     }
   ]

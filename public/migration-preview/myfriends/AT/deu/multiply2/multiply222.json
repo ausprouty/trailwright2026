@@ -90,7 +90,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-7"
+        "storageKey": "note-1"
       }
     },
     {
@@ -126,16 +126,10 @@
       }
     },
     {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
-      }
-    },
-    {
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 5:17-26",
-        "html": "<div><sup>17</sup>Eines Tages saßen einige Pharisäer und Schriftgelehrte dabei, als Jesus lehrte. Die Männer waren aus den Dörfern von ganz Galiläa und Judäa und sogar aus Jerusalem hergekommen. Und die heilende Kraft des Herrn ging von Jesus aus. <sup>18</sup>Da trugen ein paar Männer auf einer Matte einen Gelähmten herbei. Sie versuchten, durch die Menge zu Jesus vorzudringen, <sup>19</sup>doch es gelang ihnen nicht. Schließlich stiegen sie auf das Dach, nahmen ein paar Ziegel weg und ließen den Kranken auf der Matte mitten unter die Zuhörer hinab, Jesus direkt vor die Füße. <sup>20</sup>Als Jesus ihren Glauben sah, sagte er zu dem Mann: »Sohn, deine Sünden sind dir vergeben.« <sup>21</sup>»Für wen hält dieser Mann sich?«, sagten die Pharisäer und die Schriftgelehrten zueinander. »Das ist doch Gotteslästerung! Wer außer Gott kann Sünden vergeben?« <sup>22</sup>Jesus wusste, was sie dachten, und fragte sie: »Was macht ihr euch für Gedanken in euren Herzen? <sup>23</sup>Ist es leichter zu sagen: ›Deine Sünden sind dir vergeben‹ oder: ›Steh auf und geh‹? <sup>24</sup>Ich werde euch beweisen, dass der Menschensohn auf Erden die Vollmacht hat, Sünden zu vergeben.« Und er wandte sich an den Gelähmten und sagte: »Steh auf, nimm deine Matte und geh nach Hause!« <sup>25</sup>Da sprang der Mann vor den Augen aller Anwesenden auf die Füße, hob seine Matte auf und ging nach Hause und lobte Gott aus vollem Herzen. <sup>26</sup>Ehrfürchtiges Staunen erfasste die Zuschauer. Sie priesen Gott und sagten immer wieder: »Heute haben wir wirklich Unglaubliches gesehen.«</div><p></p>",
+        "html": "<div><sup>17</sup>Eines Tages saßen einige Pharisäer und Schriftgelehrte dabei, als Jesus lehrte. Die Männer waren aus den Dörfern von ganz Galiläa und Judäa und sogar aus Jerusalem hergekommen. Und die heilende Kraft des Herrn ging von Jesus aus. <sup>18</sup>Da trugen ein paar Männer auf einer Matte einen Gelähmten herbei. Sie versuchten, durch die Menge zu Jesus vorzudringen, <sup>19</sup>doch es gelang ihnen nicht. Schließlich stiegen sie auf das Dach, nahmen ein paar Ziegel weg und ließen den Kranken auf der Matte mitten unter die Zuhörer hinab, Jesus direkt vor die Füße. <sup>20</sup>Als Jesus ihren Glauben sah, sagte er zu dem Mann: »Sohn, deine Sünden sind dir vergeben.« <sup>21</sup>»Für wen hält dieser Mann sich?«, sagten die Pharisäer und die Schriftgelehrten zueinander. »Das ist doch Gotteslästerung! Wer außer Gott kann Sünden vergeben?« <sup>22</sup>Jesus wusste, was sie dachten, und fragte sie: »Was macht ihr euch für Gedanken in euren Herzen? <sup>23</sup>Ist es leichter zu sagen: ›Deine Sünden sind dir vergeben‹ oder: ›Steh auf und geh‹? <sup>24</sup>Ich werde euch beweisen, dass der Menschensohn auf Erden die Vollmacht hat, Sünden zu vergeben.« Und er wandte sich an den Gelähmten und sagte: »Steh auf, nimm deine Matte und geh nach Hause!« <sup>25</sup>Da sprang der Mann vor den Augen aller Anwesenden auf die Füße, hob seine Matte auf und ging nach Hause und lobte Gott aus vollem Herzen. <sup>26</sup>Ehrfürchtiges Staunen erfasste die Zuschauer. Sie priesen Gott und sagten immer wieder: »Heute haben wir wirklich Unglaubliches gesehen.«</div>",
         "url": "https://bibleserver.com/NLB/Lukas%205:17-26",
         "isOpen": false
       }
@@ -199,7 +193,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-17"
+        "storageKey": "note-2"
       }
     },
     {
@@ -264,6 +258,12 @@
             "text": "Bitte Gott, dir zwei oder drei Personen zu zeigen, für die du in der nächsten Woche beten sollst. Welche Schritte sind mit ihnen als Nächstes dran?"
           }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply222-i-will"
       }
     },
     {

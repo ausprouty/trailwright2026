@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "community-community3-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Philipper 2,3-8",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>3</sup>Seid nicht selbstsüchtig; strebt nicht danach, einen guten Eindruck auf andere zu machen, sondern seid bescheiden und achtet die anderen höher als euch selbst. <!--]--><!--[--><sup>4</sup>Denkt nicht nur an eure eigenen Angelegenheiten, sondern interessiert euch auch für die anderen und für das, was sie tun. <sup>5</sup>Geht so miteinander um, wie Christus es euch vorgelebt hat.<!--]--><!--[--><sup>6</sup>Obwohl er Gott war, bestand er nicht auf seinen göttlichen Rechten. <!--]--><!--[--><sup>7</sup>Er verzichtete auf alles; er nahm die niedrige Stellung eines Dieners an und wurde als Mensch geboren und als solcher erkannt. <!--]--><!--[--><sup>8</sup>Er erniedrigte sich selbst und war gehorsam bis zum Tod, indem er wie ein Verbrecher am Kreuz starb.<!--]--><!--[--><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>3</sup>Seid nicht selbstsüchtig; strebt nicht danach, einen guten Eindruck auf andere zu machen, sondern seid bescheiden und achtet die anderen höher als euch selbst. <sup>4</sup>Denkt nicht nur an eure eigenen Angelegenheiten, sondern interessiert euch auch für die anderen und für das, was sie tun. <sup>5</sup>Geht so miteinander um, wie Christus es euch vorgelebt hat.<sup>6</sup>Obwohl er Gott war, bestand er nicht auf seinen göttlichen Rechten. <sup>7</sup>Er verzichtete auf alles; er nahm die niedrige Stellung eines Dieners an und wurde als Mensch geboren und als solcher erkannt. <sup>8</sup>Er erniedrigte sich selbst und war gehorsam bis zum Tod, indem er wie ein Verbrecher am Kreuz starb. </div>",
         "url": "https://bibleserver.com/NLB/Philipper%202,3-8",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "community-community3-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

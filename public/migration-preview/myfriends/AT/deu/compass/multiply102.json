@@ -41,7 +41,9 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Lasst uns innehalten und Jesus sagen, wie dankbar wir für seine Liebe sind."
+                  {
+                    "text": "Lasst uns innehalten und Jesus sagen, wie dankbar wir für seine Liebe sind."
+                  }
                 ]
               }
             }
@@ -62,9 +64,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was lief bei dir gut diese Woche?",
-          "Was war schwierig für dich vergangene Woche?",
-          "Wo brauchst du Gottes Hilfe in deinem Leben?"
+          {
+            "text": "Was lief bei dir gut diese Woche?"
+          },
+          {
+            "text": "Was war schwierig für dich vergangene Woche?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe in deinem Leben?"
+          }
         ]
       }
     },
@@ -80,8 +88,26 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was konntest du seit unserem letzten Treffen praktisch umsetzen?",
-          "Wie geht es dir mit deiner Gänseblümchen-Kette? <ul><li>Wie oft hast du sie dir letzte Woche angesehen?</li><li>Was hat dir geholfen, dabei erfolgreich zu sein?</li><li>Hat Gott dich geleitet für jemanden aus dem Gänseblümchen zu beten, mit jemandem Kontakt aufzunehmen, jemandem zu helfen oder etwas mit jemandem zu teilen?</li></ul>"
+          {
+            "text": "Was konntest du seit unserem letzten Treffen praktisch umsetzen?"
+          },
+          {
+            "text": "Wie geht es dir mit deiner Gänseblümchen-Kette?",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Wie oft hast du sie dir letzte Woche angesehen?"
+                },
+                {
+                  "text": "Was hat dir geholfen, dabei erfolgreich zu sein?"
+                },
+                {
+                  "text": "Hat Gott dich geleitet für jemanden aus dem Gänseblümchen zu beten, mit jemandem Kontakt aufzunehmen, jemandem zu helfen oder etwas mit jemandem zu teilen?"
+                }
+              ]
+            }
+          }
         ]
       }
     },
@@ -89,7 +115,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-8"
+        "storageKey": "note-1"
       }
     },
     {
@@ -123,7 +149,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -159,23 +185,23 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich oder seht euch das Video an.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+          {
+            "text": "Jeder liest den Text für sich oder seht euch das Video an."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+          }
         ]
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
       }
     },
     {
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 15:11-24",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>11</sup>Und Jesus erzählte ihnen auch folgendes Gleichnis: »Ein Mann hatte zwei Söhne. <sup>12</sup>Der jüngere Sohn sagte zu seinem Vater: ›Ich möchte mein Erbteil von deinem Besitz schon jetzt haben.‹ Da erklärte der Vater sich bereit, seinen Besitz zwischen seinen Söhnen aufzuteilen. <sup>13</sup>Einige Tage später packte der jüngere Sohn seine Sachen und ging auf Reisen in ein fernes Land, wo er sein ganzes Geld verprasste. <sup>14</sup>Etwa um die Zeit, als ihm das Geld ausging, brach in jenem Land eine große Hungersnot aus, und er hatte nicht genug zu essen. <sup>15</sup>Da überredete er einen Bauern, ihm Arbeit zu geben, und er durfte seine Schweine hüten. <sup>16</sup>Der junge Mann war so hungrig, dass er die Schoten, die er an die Schweine verfütterte, am liebsten selbst gegessen hätte. Aber niemand gab ihm etwas. <sup>17</sup>Schließlich überlegte er und sagte sich: ›Daheim haben die Tagelöhner mehr als genug zu essen, und ich sterbe hier vor Hunger! <sup>18</sup>Ich will zu meinem Vater nach Hause gehen und sagen: Vater, ich habe gesündigt, gegen den Himmel und auch gegen dich, <sup>19</sup>und ich bin es nicht mehr wert, dein Sohn zu heißen. Bitte stell mich als einen deiner Tagelöhner ein.‹ <sup>20</sup>So kehrte er zu seinem Vater nach Hause zurück. Er war noch weit entfernt, als sein Vater ihn kommen sah. Voller Liebe und Mitleid lief er seinem Sohn entgegen, schloss ihn in die Arme und küsste ihn. <sup>21</sup>Sein Sohn sagte zu ihm: ›Vater, ich habe gesündigt, gegen den Himmel und auch gegen dich, und bin es nicht mehr wert, dein Sohn zu heißen. ‹ <sup>22</sup>Aber sein Vater sagte zu den Dienern: ›Schnell! Bringt die besten Kleider im Haus und zieht sie ihm an. Holt einen Ring für seinen Finger und Sandalen für seine Füße. <sup>23</sup>Und schlachtet das Kalb, das wir im Stall gemästet haben, <sup>24</sup>denn mein Sohn hier war tot und ist ins Leben zurückgekehrt. Er war verloren, aber nun ist er wiedergefunden.‹ Und ein Freudenfest begann. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>11</sup>Und Jesus erzählte ihnen auch folgendes Gleichnis: »Ein Mann hatte zwei Söhne. <sup>12</sup>Der jüngere Sohn sagte zu seinem Vater: ›Ich möchte mein Erbteil von deinem Besitz schon jetzt haben.‹ Da erklärte der Vater sich bereit, seinen Besitz zwischen seinen Söhnen aufzuteilen. <sup>13</sup>Einige Tage später packte der jüngere Sohn seine Sachen und ging auf Reisen in ein fernes Land, wo er sein ganzes Geld verprasste. <sup>14</sup>Etwa um die Zeit, als ihm das Geld ausging, brach in jenem Land eine große Hungersnot aus, und er hatte nicht genug zu essen. <sup>15</sup>Da überredete er einen Bauern, ihm Arbeit zu geben, und er durfte seine Schweine hüten. <sup>16</sup>Der junge Mann war so hungrig, dass er die Schoten, die er an die Schweine verfütterte, am liebsten selbst gegessen hätte. Aber niemand gab ihm etwas. <sup>17</sup>Schließlich überlegte er und sagte sich: ›Daheim haben die Tagelöhner mehr als genug zu essen, und ich sterbe hier vor Hunger! <sup>18</sup>Ich will zu meinem Vater nach Hause gehen und sagen: Vater, ich habe gesündigt, gegen den Himmel und auch gegen dich, <sup>19</sup>und ich bin es nicht mehr wert, dein Sohn zu heißen. Bitte stell mich als einen deiner Tagelöhner ein.‹ <sup>20</sup>So kehrte er zu seinem Vater nach Hause zurück. Er war noch weit entfernt, als sein Vater ihn kommen sah. Voller Liebe und Mitleid lief er seinem Sohn entgegen, schloss ihn in die Arme und küsste ihn. <sup>21</sup>Sein Sohn sagte zu ihm: ›Vater, ich habe gesündigt, gegen den Himmel und auch gegen dich, und bin es nicht mehr wert, dein Sohn zu heißen. ‹ <sup>22</sup>Aber sein Vater sagte zu den Dienern: ›Schnell! Bringt die besten Kleider im Haus und zieht sie ihm an. Holt einen Ring für seinen Finger und Sandalen für seine Füße. <sup>23</sup>Und schlachtet das Kalb, das wir im Stall gemästet haben, <sup>24</sup>denn mein Sohn hier war tot und ist ins Leben zurückgekehrt. Er war verloren, aber nun ist er wiedergefunden.‹ Und ein Freudenfest begann. </div>",
         "url": "https://bibleserver.com/NLB/Lukas%2015:11-24",
         "isOpen": false
       }
@@ -205,14 +231,47 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hat eure Aufmerksamkeit geweckt oder was hat dir am besten gefallen? Warum?",
-          "Was sagt dir diese Stelle über die Menschen?",
-          "Was sagt dir diese Stelle über Jesus?",
-          "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden?",
-          "Gibt es: <ul><li>eine Verhaltensweise zu ändern?</li><li>ein Versprechen einzuhalten?</li><li>ein Beispiel zum folgen?</li><li>ein Gebot zu befolgen?</li></ul>",
-          "Wer sollte diese Bibelstelle auch hören?",
-          "Frage Gott, was er von dir als Antwort auf diese Bibelstelle möchte. Schreibe ein „Ich werde…“ Statement auf.",
-          "Teile dieses mit der Gruppe und bitte einen/eine für das nächste Treffen mitzuschreiben."
+          {
+            "text": "Was hat eure Aufmerksamkeit geweckt oder was hat dir am besten gefallen? Warum?"
+          },
+          {
+            "text": "Was sagt dir diese Stelle über die Menschen?"
+          },
+          {
+            "text": "Was sagt dir diese Stelle über Jesus?"
+          },
+          {
+            "text": "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden?"
+          },
+          {
+            "text": "Gibt es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Verhaltensweise zu ändern?"
+                },
+                {
+                  "text": "ein Versprechen einzuhalten?"
+                },
+                {
+                  "text": "ein Beispiel zum folgen?"
+                },
+                {
+                  "text": "ein Gebot zu befolgen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Wer sollte diese Bibelstelle auch hören?"
+          },
+          {
+            "text": "Frage Gott, was er von dir als Antwort auf diese Bibelstelle möchte. Schreibe ein „Ich werde…“ Statement auf."
+          },
+          {
+            "text": "Teile dieses mit der Gruppe und bitte einen/eine für das nächste Treffen mitzuschreiben."
+          }
         ]
       }
     },
@@ -220,7 +279,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-20"
+        "storageKey": "note-3"
       }
     },
     {
@@ -261,7 +320,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-4"
       }
     },
     {
@@ -303,8 +362,29 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Zu zweit: Fragt den Heiligen Geist, für welche zwei Personen eurer Gänseblümchen-Kette ihr jetzt beten sollt.",
-                  "Als Gruppe, in welcher Weise hast du gezeigt, dass du dich um die Menschen kümmerst, die Jesus nicht kennen? <ul><li>physisch</li><li>sozial</li><li>emotional</li><li>mental </li></ul>"
+                  {
+                    "text": "Zu zweit: Fragt den Heiligen Geist, für welche zwei Personen eurer Gänseblümchen-Kette ihr jetzt beten sollt."
+                  },
+                  {
+                    "text": "Als Gruppe, in welcher Weise hast du gezeigt, dass du dich um die Menschen kümmerst, die Jesus nicht kennen?",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "physisch"
+                        },
+                        {
+                          "text": "sozial"
+                        },
+                        {
+                          "text": "emotional"
+                        },
+                        {
+                          "text": "mental"
+                        }
+                      ]
+                    }
+                  }
                 ]
               }
             }
@@ -331,7 +411,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Welche Schritte zeigt dir Gott, die du in der kommenden Woche mit ihm und anderen gehen sollst?"
+          {
+            "text": "Welche Schritte zeigt dir Gott, die du in der kommenden Woche mit ihm und anderen gehen sollst?"
+          }
         ]
       }
     },
@@ -339,7 +421,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-29"
+        "storageKey": "note-5"
       }
     },
     {
@@ -347,9 +429,19 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Teile diesen Schritt mit deiner Gruppe und bitte jemanden der Gruppe, für dich zu beten, diesen Schritt in der Kraft des Heiligen Geistes zu tun.",
-          "Betet für die Schritte von jedem. Lasst uns den Herrn um seine Hilfe bitten, dass wir treu sind und uns dazu verwendet, eine Bewegung von Menschen, die den MyFriends-Lifestyle leben, zu starten..."
+          {
+            "text": "Teile diesen Schritt mit deiner Gruppe und bitte jemanden der Gruppe, für dich zu beten, diesen Schritt in der Kraft des Heiligen Geistes zu tun."
+          },
+          {
+            "text": "Betet für die Schritte von jedem. Lasst uns den Herrn um seine Hilfe bitten, dass wir treu sind und uns dazu verwendet, eine Bewegung von Menschen, die den MyFriends-Lifestyle leben, zu starten..."
+          }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-multiply102-i-will"
       }
     },
     {

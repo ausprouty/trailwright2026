@@ -1,4 +1,13 @@
 {
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "community",
+  "sortOrder": 11,
   "blocks": [
     {
       "type": "sectionMarker",
@@ -20,7 +29,5 @@
         "text": "Wenn ihr den Eindruck habt, ein anderes Thema reinzubringen, findet ihr hoffentlich was in unserer Themensammlung \"Compass\" oder ihr findet selbst einen passenden Bibeltext und entdeckt ihn gemeinsam mit den Fragen, die ihr im Punkt \"Bible Discovery\" findet.<br>"
       }
     }
-  ],
-  "time": 1778401521726,
-  "version": "2.31.5"
+  ]
 }

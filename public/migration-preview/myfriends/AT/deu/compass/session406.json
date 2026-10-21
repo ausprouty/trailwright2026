@@ -22,9 +22,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Konntest du in den letzten Tagen jemandem, der Jesus noch nicht persönlich kennt und dir nahe steht, von einem Erlebnis mit Gott er-zählen, praktisch helfen oder für jemanden beten?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -44,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-1"
       }
     },
     {
@@ -60,10 +66,18 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Alle lesen den Text leise für sich.",
-          "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln.",
-          "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln).",
-          "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          {
+            "text": "Alle lesen den Text leise für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor, die anderen schliessen ihre Bibeln."
+          },
+          {
+            "text": "Jemand erzählt den Text in eigenen Worten nach (bei geschlossenen Bibeln)."
+          },
+          {
+            "text": "Die anderen ergänzen bei Bedarf (bei geschlossenen Bibeln)."
+          }
         ]
       }
     },
@@ -71,7 +85,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Lukas 5, 27-32",
-        "html": "<p class=\"bible\"><sup>27</sup>Als Jesus danach weiterging und am Zollhaus vorbeikam, sah er dort einen Zolleinnehmer sitzen, einen Mann namens Levi. Jesus sagte zu ihm: »Folge mir nach!«<sup>28</sup>Da stand Levi auf, ließ alles zurück und folgte Jesus. </p><p class=\"bible\"><sup>29</sup>Levi gab Jesus zu Ehren in seinem Haus ein großes Fest. Zusammen mit Jesus und seinen Jüngern nahmen zahlreiche Zolleinnehmer und andere ´Leute von zweifelhaftem Ruf` an dem Essen teil.<sup> 30 </sup>Die Pharisäer und ihre Anhänger unter den Schriftgelehrten waren darüber empört und stellten die Jünger zur Rede. »Wie könnt ihr nur zusammen mit Zolleinnehmern und Sündern essen und trinken?«, sagten sie.<sup> 31 </sup>Jesus selbst gab ihnen die Antwort: »Nicht die Gesunden brauchen den Arzt, sondern die Kranken.<sup>32</sup>Ich bin nicht gekommen, um Gerechte zu rufen; ich bin gekommen, um Sünder zur Umkehr zu rufen.« </p><p class=\"bible\"><br></p>",
+        "html": "<p> <sup>27</sup>Als Jesus danach weiterging und am Zollhaus vorbeikam, sah er dort einen Zolleinnehmer sitzen, einen Mann namens Levi. Jesus sagte zu ihm: »Folge mir nach!«<sup>28</sup>Da stand Levi auf, ließ alles zurück und folgte Jesus. </p> <p> <sup>29</sup>Levi gab Jesus zu Ehren in seinem Haus ein großes Fest. Zusammen mit Jesus und seinen Jüngern nahmen zahlreiche Zolleinnehmer und andere ´Leute von zweifelhaftem Ruf` an dem Essen teil.<sup> 30 </sup>Die Pharisäer und ihre Anhänger unter den Schriftgelehrten waren darüber empört und stellten die Jünger zur Rede. »Wie könnt ihr nur zusammen mit Zolleinnehmern und Sündern essen und trinken?«, sagten sie.<sup> 31 </sup>Jesus selbst gab ihnen die Antwort: »Nicht die Gesunden brauchen den Arzt, sondern die Kranken.<sup>32</sup>Ich bin nicht gekommen, um Gerechte zu rufen; ich bin gekommen, um Sünder zur Umkehr zu rufen.« </p>",
         "url": "https://biblegateway.com/passage/?search=Luke%205:27-32&version=NGU-DE",
         "isOpen": false
       }
@@ -81,8 +95,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Allgemeine Fragen:",
-          "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          {
+            "text": "Allgemeine Fragen:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Ist dir etwas in diesem Text besonders aufgefallen?"
+                },
+                {
+                  "text": "Was gefällt dir an diesem Abschnitt? Was stört dich?"
+                },
+                {
+                  "text": "Was kannst du in diesem Text über Gott und über die Prinzipien des Reiches Gottes lernen?"
+                },
+                {
+                  "text": "Was kannst du über die Menschheit lernen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Text anwenden: Wo spricht Gott durch den Text zu dir persönlich?"
+          }
         ]
       }
     },
@@ -90,7 +125,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -106,8 +141,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was für eine Atmosphäre verbreiten wir unter unseren Freunden, die noch keine persönliche Beziehung zu Jesus haben? Wie sehen und behandeln wir sie?",
-          "Hast du schon einmal Freunde oder Studienkollegen, die Jesus noch nicht kennen, zu einem Fest von dir eingeladen? Welcher Anlass würde sich in nächster Zeit dazu eignen?"
+          {
+            "text": "Was für eine Atmosphäre verbreiten wir unter unseren Freunden, die noch keine persönliche Beziehung zu Jesus haben? Wie sehen und behandeln wir sie?"
+          },
+          {
+            "text": "Hast du schon einmal Freunde oder Studienkollegen, die Jesus noch nicht kennen, zu einem Fest von dir eingeladen? Welcher Anlass würde sich in nächster Zeit dazu eignen?"
+          }
         ]
       }
     },

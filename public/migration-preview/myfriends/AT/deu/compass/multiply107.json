@@ -59,9 +59,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was lief bei dir gut diese Woche?",
-          "Was war schwierig für dich vergangene Woche?",
-          "Wo brauchst du Gottes Hilfe in deinem Leben?"
+          {
+            "text": "Was lief bei dir gut diese Woche?"
+          },
+          {
+            "text": "Was war schwierig für dich vergangene Woche?"
+          },
+          {
+            "text": "Wo brauchst du Gottes Hilfe in deinem Leben?"
+          }
         ]
       }
     },
@@ -77,8 +83,29 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was konntest du seit unserem letzten Treffen praktisch umsetzen?",
-          "Welche Art von Gesprächen hattest du mit den Menschen auf deiner Gänseblümchen-Kette? <ul><li>ein lockeres Gespräch</li><li>ein ernsthaftes Gespräch</li><li>ein spirituelles Gespräch</li><li>ein Jesus-Gespräch</li></ul>"
+          {
+            "text": "Was konntest du seit unserem letzten Treffen praktisch umsetzen?"
+          },
+          {
+            "text": "Welche Art von Gesprächen hattest du mit den Menschen auf deiner Gänseblümchen-Kette?",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "ein lockeres Gespräch"
+                },
+                {
+                  "text": "ein ernsthaftes Gespräch"
+                },
+                {
+                  "text": "ein spirituelles Gespräch"
+                },
+                {
+                  "text": "ein Jesus-Gespräch"
+                }
+              ]
+            }
+          }
         ]
       }
     },
@@ -86,7 +113,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-8"
+        "storageKey": "note-1"
       }
     },
     {
@@ -101,8 +128,12 @@
               "data": {
                 "style": "unordered",
                 "items": [
-                  "Der Herr liebt uns nicht nur, er hat auch eine Vision für uns. Wie schaut diese Vision aus? So zu sein wie Jesus. Römer 8:29 sagt, dass es Gottes Plan ist, Christus gleich zu werden, um den Vater zu erkennen und ihn zu widerspiegeln, so wie Jesus ihn widergespiegelt hat. Die gute Nachricht ist, dass wir nicht aus eigener Anstrengung mehr wie Jesus werden müssen, sondern dass Gott uns Jesus ähnlicher werden lässt.",
-                  "Philipper 1:6 verspricht, dass er, der sein gutes Werk in euch angefangen hat, damit weitermachen und es vollenden wird! Vertraut darauf, dass Gott in euer Leben eingreifen wird, damit ihr wie Christus werdet."
+                  {
+                    "text": "Der Herr liebt uns nicht nur, er hat auch eine Vision für uns. Wie schaut diese Vision aus? So zu sein wie Jesus. Römer 8:29 sagt, dass es Gottes Plan ist, Christus gleich zu werden, um den Vater zu erkennen und ihn zu widerspiegeln, so wie Jesus ihn widergespiegelt hat. Die gute Nachricht ist, dass wir nicht aus eigener Anstrengung mehr wie Jesus werden müssen, sondern dass Gott uns Jesus ähnlicher werden lässt."
+                  },
+                  {
+                    "text": "Philipper 1:6 verspricht, dass er, der sein gutes Werk in euch angefangen hat, damit weitermachen und es vollenden wird! Vertraut darauf, dass Gott in euer Leben eingreifen wird, damit ihr wie Christus werdet."
+                  }
                 ]
               }
             }
@@ -115,7 +146,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -151,23 +182,23 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich oder seht euch das Video an.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+          {
+            "text": "Jeder liest den Text für sich oder seht euch das Video an."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+          }
         ]
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
       }
     },
     {
       "type": "biblePassage",
       "data": {
         "reference": "Apostelgeschichte 8:26-40",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>26</sup>Zu Philippus aber sagte ein Engel des Herrn: »Geh nach Süden auf der einsamen Straße, die von Jerusalem nach Gaza führt.« <sup>27</sup>Philippus ging und begegnete auf dem Weg dem Schatzmeister Äthiopiens, einem Eunuchen der äthiopischen Königin , der großen Einfluss hatte. Er war nach Jerusalem gekommen, um dort anzubeten, <sup>28</sup>und befand sich nun auf dem Heimweg. Er saß in seinem Wagen und las im Buch des Propheten Jesaja. <sup>29</sup>Der Heilige Geist sagte zu Philippus: »Lauf hinüber und geh neben dem Wagen her.« <sup>30</sup>Da lief Philippus hin und hörte, wie der Mann aus dem Propheten Jesaja las. Er fragte ihn: »Verstehst du auch, was du da liest?« <sup>31</sup>Der Mann erwiderte: »Wie soll ich es verstehen, wenn es mir niemand erklärt?« Und er bat Philippus, einzusteigen und sich neben ihn zu setzen. <sup>32</sup>Er hatte gerade folgende Schriftstelle gelesen: »Er wurde wie ein Schaf zum Schlachten geführt. Und wie ein Lamm vor dem Scherer verstummt, so machte er den Mund nicht auf. <sup>33</sup>Er wurde gedemütigt und erfuhr kein gerechtes Urteil. Wer kann von seinen Nachkommen sprechen? Denn sein Leben wurde von der Erde fortgenommen.« <sup>34</sup>Der Hofbeamte fragte Philippus: »Von wem spricht der Prophet? Von sich selbst oder von jemand anderem?« <sup>35</sup>Da begann Philippus bei dieser Schriftstelle und erklärte ihm die gute Botschaft von Jesus. <sup>3637</sup>Unterwegs kamen sie an einem Gewässer vorbei, und der Hofbeamte meinte: »Sieh, da ist Wasser! Kann ich mich nicht hier taufen lassen?« <sup>38</sup>Er ließ den Wagen anhalten. Sie stiegen in das Wasser, und Philippus taufte ihn. <sup>39</sup>Als sie wieder aus dem Wasser herauskamen, nahm der Geist Gottes Philippus fort und der Hofbeamte sah ihn nicht mehr. Aber er setzte seine Reise voller Freude fort. <sup>40</sup>Philippus fand sich in der Stadt Aschdod wieder. Er verkündete die Botschaft Gottes dort und in jeder Stadt auf dem Weg, bis er nach Cäsarea kam. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div> <sup>26</sup>Zu Philippus aber sagte ein Engel des Herrn: »Geh nach Süden auf der einsamen Straße, die von Jerusalem nach Gaza führt.« <sup>27</sup>Philippus ging und begegnete auf dem Weg dem Schatzmeister Äthiopiens, einem Eunuchen der äthiopischen Königin , der großen Einfluss hatte. Er war nach Jerusalem gekommen, um dort anzubeten, <sup>28</sup>und befand sich nun auf dem Heimweg. Er saß in seinem Wagen und las im Buch des Propheten Jesaja. <sup>29</sup>Der Heilige Geist sagte zu Philippus: »Lauf hinüber und geh neben dem Wagen her.« <sup>30</sup>Da lief Philippus hin und hörte, wie der Mann aus dem Propheten Jesaja las. Er fragte ihn: »Verstehst du auch, was du da liest?« <sup>31</sup>Der Mann erwiderte: »Wie soll ich es verstehen, wenn es mir niemand erklärt?« Und er bat Philippus, einzusteigen und sich neben ihn zu setzen. <sup>32</sup>Er hatte gerade folgende Schriftstelle gelesen: »Er wurde wie ein Schaf zum Schlachten geführt. Und wie ein Lamm vor dem Scherer verstummt, so machte er den Mund nicht auf. <sup>33</sup>Er wurde gedemütigt und erfuhr kein gerechtes Urteil. Wer kann von seinen Nachkommen sprechen? Denn sein Leben wurde von der Erde fortgenommen.« <sup>34</sup>Der Hofbeamte fragte Philippus: »Von wem spricht der Prophet? Von sich selbst oder von jemand anderem?« <sup>35</sup>Da begann Philippus bei dieser Schriftstelle und erklärte ihm die gute Botschaft von Jesus. <sup>3637</sup>Unterwegs kamen sie an einem Gewässer vorbei, und der Hofbeamte meinte: »Sieh, da ist Wasser! Kann ich mich nicht hier taufen lassen?« <sup>38</sup>Er ließ den Wagen anhalten. Sie stiegen in das Wasser, und Philippus taufte ihn. <sup>39</sup>Als sie wieder aus dem Wasser herauskamen, nahm der Geist Gottes Philippus fort und der Hofbeamte sah ihn nicht mehr. Aber er setzte seine Reise voller Freude fort. <sup>40</sup>Philippus fand sich in der Stadt Aschdod wieder. Er verkündete die Botschaft Gottes dort und in jeder Stadt auf dem Weg, bis er nach Cäsarea kam. </div>",
         "url": "https://bibleserver.com/NLB/Apostelgeschichte%208:26-40",
         "isOpen": false
       }
@@ -197,12 +228,41 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was sticht für dich in dieser Bibelstelle heraus?",
-          "Was gefällt dir und was stört dich an diesem Text?",
-          "Warum glaubst du, ist diese Stelle wichtig?",
-          "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden?<br> Gibt es: <ul><li>eine Verhaltensweise zu ändern?</li><li>ein Versprechen einzuhalten?</li><li>ein Beispiel zu folgen?</li><li>ein Gebot zu befolgen?</li></ul>",
-          "Frage Gott, was er von dir als Antwort auf diese Bibelstelle möchte.",
-          "Teile dies mit der Gruppe."
+          {
+            "text": "Was sticht für dich in dieser Bibelstelle heraus?"
+          },
+          {
+            "text": "Was gefällt dir und was stört dich an diesem Text?"
+          },
+          {
+            "text": "Warum glaubst du, ist diese Stelle wichtig?"
+          },
+          {
+            "text": "Welche Möglichkeiten gibt es, diese Stelle praktisch anzuwenden?<br> Gibt es:",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "eine Verhaltensweise zu ändern?"
+                },
+                {
+                  "text": "ein Versprechen einzuhalten?"
+                },
+                {
+                  "text": "ein Beispiel zu folgen?"
+                },
+                {
+                  "text": "ein Gebot zu befolgen?"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Frage Gott, was er von dir als Antwort auf diese Bibelstelle möchte."
+          },
+          {
+            "text": "Teile dies mit der Gruppe."
+          }
         ]
       }
     },
@@ -210,7 +270,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-20"
+        "storageKey": "note-3"
       }
     },
     {
@@ -241,7 +301,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-4"
       }
     },
     {
@@ -342,8 +402,12 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Schau dir deine Gänseblümchen-Kette nochmal an",
-          "Welche Schritte zeigt dir Gott, die du in der kommenden Woche mit ihm und anderen gehen sollst?"
+          {
+            "text": "Schau dir deine Gänseblümchen-Kette nochmal an"
+          },
+          {
+            "text": "Welche Schritte zeigt dir Gott, die du in der kommenden Woche mit ihm und anderen gehen sollst?"
+          }
         ]
       }
     },
@@ -351,7 +415,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-28"
+        "storageKey": "note-5"
       }
     },
     {
@@ -359,9 +423,19 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Teile den Schritt mit deiner Gruppe und bitte jemanden, für dich zu beten, dass du diesen Schritt in der Kraft des Heiligen Geistes tun kannst.",
-          "Übergebt alle eure Ziele dem Herrn. Bittet den Herrn, uns zu helfen, treu zu sein und dass er uns dazu verwendet, eine Bewegung von Menschen zu starten, die diesen MyFriends-Lifestyle leben"
+          {
+            "text": "Teile den Schritt mit deiner Gruppe und bitte jemanden, für dich zu beten, dass du diesen Schritt in der Kraft des Heiligen Geistes tun kannst."
+          },
+          {
+            "text": "Übergebt alle eure Ziele dem Herrn. Bittet den Herrn, uns zu helfen, treu zu sein und dass er uns dazu verwendet, eine Bewegung von Menschen zu starten, die diesen MyFriends-Lifestyle leben"
+          }
         ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "compass-multiply107-i-will"
       }
     },
     {

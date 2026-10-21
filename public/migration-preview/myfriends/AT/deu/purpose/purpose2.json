@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "purpose-purpose2-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Epheser 2,9-10",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>9</sup>Ihr werdet also nicht aufgrund eurer guten Taten gerettet, damit sich niemand etwas darauf einbilden kann. <!--]--><!--[--><sup>10</sup>Denn wir sind Gottes Schöpfung. Er hat uns in Christus Jesus neu geschaffen, damit wir die guten Taten ausführen, die er für unser Leben vorbereitet hat.<!--]--><!--[--><h4 class=\"bible\"></h4><!-- end bible --></div><!-- end bible -->",
+        "html": "<div><sup>9</sup>Ihr werdet also nicht aufgrund eurer guten Taten gerettet, damit sich niemand etwas darauf einbilden kann. <sup>10</sup>Denn wir sind Gottes Schöpfung. Er hat uns in Christus Jesus neu geschaffen, damit wir die guten Taten ausführen, die er für unser Leben vorbereitet hat. <h3></h3> </div>",
         "url": "https://bibleserver.com/NLB/Epheser%202,9-10",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "purpose-purpose2-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

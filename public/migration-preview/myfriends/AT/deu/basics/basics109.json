@@ -1,12 +1,14 @@
 {
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "basics",
+  "lessonId": "basics109",
+  "sortOrder": 8,
   "blocks": [
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "back",
-        "title": "ZUSAMMENKOMMEN"
-      }
-    },
     {
       "type": "iconList",
       "data": {
@@ -31,28 +33,10 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Betet füreinander."
+          {
+            "text": "Betet füreinander."
+          }
         ]
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- ENTDECKEN -->"
-      }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "basics-basics109-look-up"
-      }
-    },
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "up",
-        "title": "ENTDECKEN"
       }
     },
     {
@@ -71,27 +55,21 @@
       }
     },
     {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
-      }
-    },
-    {
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 7:24-29",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>24</sup>Wer auf mich hört und danach handelt, ist klug und handelt wie ein Mann, der ein Haus auf massiven Fels baut. <sup>25</sup>Auch wenn der Regen in Sturzbächen vom Himmel rauscht, das Wasser über die Ufer tritt und die Stürme an diesem Haus rütteln, wird es nicht einstürzen, weil es auf Fels gebaut ist. <sup>26</sup>Doch wer auf mich hört und nicht danach handelt, ist ein Dummkopf; er ist wie ein Mann, der ein Haus auf Sand baut. <sup>27</sup>Wenn der Regen und das Hochwasser kommen und die Stürme an diesem Haus rütteln, wird es mit Getöse einstürzen.« <sup>28</sup>Als Jesus seine Rede beendet hatte, waren die Menschen überwältigt von seiner Lehre, <sup>29</sup>denn er sprach mit Vollmacht – anders als die Schriftgelehrten. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>24</sup>Wer auf mich hört und danach handelt, ist klug und handelt wie ein Mann, der ein Haus auf massiven Fels baut. <sup>25</sup>Auch wenn der Regen in Sturzbächen vom Himmel rauscht, das Wasser über die Ufer tritt und die Stürme an diesem Haus rütteln, wird es nicht einstürzen, weil es auf Fels gebaut ist. <sup>26</sup>Doch wer auf mich hört und nicht danach handelt, ist ein Dummkopf; er ist wie ein Mann, der ein Haus auf Sand baut. <sup>27</sup>Wenn der Regen und das Hochwasser kommen und die Stürme an diesem Haus rütteln, wird es mit Getöse einstürzen.« <sup>28</sup>Als Jesus seine Rede beendet hatte, waren die Menschen überwältigt von seiner Lehre, <sup>29</sup>denn er sprach mit Vollmacht – anders als die Schriftgelehrten. </div>",
         "url": "https://bibleserver.com/NLB/Matthäus%207:24-29",
-        "isOpen": true
+        "isOpen": false
       }
     },
     {
       "type": "biblePassage",
       "data": {
         "reference": "Jakobus 1:22",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>22</sup>Aber es reicht nicht, nur auf die Botschaft zu hören – ihr müsst auch danach handeln! Sonst betrügt ihr euch nur selbst. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>22</sup>Aber es reicht nicht, nur auf die Botschaft zu hören – ihr müsst auch danach handeln! Sonst betrügt ihr euch nur selbst. </div>",
         "url": "https://bibleserver.com/NLB/Jakobus%201:22",
-        "isOpen": true
+        "isOpen": false
       }
     },
     {
@@ -113,7 +91,7 @@
       "type": "collapsibleGroup",
       "data": {
         "title": "Kommentar zum Bibeltext",
-        "isOpen": true,
+        "isOpen": false,
         "content": {
           "blocks": [
             {
@@ -125,20 +103,6 @@
           ],
           "version": "2.31.5"
         }
-      }
-    },
-    {
-      "type": "notesArea",
-      "data": {
-        "notes": "",
-        "storageKey": "basics-basics109-look-forward"
-      }
-    },
-    {
-      "type": "sectionMarker",
-      "data": {
-        "theme": "forward",
-        "title": "WEITERGEBEN"
       }
     },
     {
@@ -165,7 +129,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Betet füreinander und für die erwähnten Personen."
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },
@@ -175,7 +141,5 @@
         "storageKey": "basics-basics109-i-will"
       }
     }
-  ],
-  "time": 1778401521645,
-  "version": "2.31.5"
+  ]
 }

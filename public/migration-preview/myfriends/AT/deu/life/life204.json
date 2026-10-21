@@ -1,9 +1,20 @@
 {
+  "site": "myfriends",
+  "country": "AT",
+  "language": "deu",
+  "htmlLang": "de",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "life",
+  "lessonId": "life204",
+  "sortOrder": 3,
   "blocks": [
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "back"
+        "theme": "review",
+        "title": "RÜCKBLICK",
+        "icon": "review"
       }
     },
     {
@@ -11,9 +22,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was hast du diese Woche mit Gott erlebt?",
-          "Was hat sich bei dir seit dem letzten Treffen verändert?",
-          "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          {
+            "text": "Was hast du diese Woche mit Gott erlebt?"
+          },
+          {
+            "text": "Was hat sich bei dir seit dem letzten Treffen verändert?"
+          },
+          {
+            "text": "Brauchst du in einem Bereich deines Lebens die Hilfe von Gott?"
+          }
         ]
       }
     },
@@ -27,13 +44,15 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "life-204-look-up"
+        "storageKey": "note-1"
       }
     },
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "up"
+        "theme": "bible-study",
+        "title": "BIBELSTUDIUM",
+        "icon": "bible-study"
       }
     },
     {
@@ -41,25 +60,25 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Jeder liest den Text für sich.",
-          "Jemand liest den Text laut vor.",
-          "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+          {
+            "text": "Jeder liest den Text für sich."
+          },
+          {
+            "text": "Jemand liest den Text laut vor."
+          },
+          {
+            "text": "Jemand erzählt den Text nach, mit Unterstützung der Gruppe (ohne im Text nachzuschauen)."
+          }
         ]
-      }
-    },
-    {
-      "type": "paragraph",
-      "data": {
-        "text": "<!-- default BibleBlock -->"
       }
     },
     {
       "type": "biblePassage",
       "data": {
         "reference": "Johannes 7, 37-39",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>37</sup>Am letzten Tag, dem Höhepunkt des Festes, stellte Jesus sich hin und rief der Menge zu: »Wenn jemand Durst hat, soll er zu mir kommen und trinken! <sup>38</sup>Wer an mich glaubt, aus dessen Innerem werden Ströme lebendigen Wassers fließen, wie es in der Schrift heißt.« <sup>39</sup>Mit dem »lebendigen Wasser« meinte er den Geist, der jedem zuteilwerden sollte, der an ihn glaubte. Aber der Geist war noch nicht gekommen, weil Jesus noch nicht verherrlicht worden war.<!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>37</sup>Am letzten Tag, dem Höhepunkt des Festes, stellte Jesus sich hin und rief der Menge zu: »Wenn jemand Durst hat, soll er zu mir kommen und trinken! <sup>38</sup>Wer an mich glaubt, aus dessen Innerem werden Ströme lebendigen Wassers fließen, wie es in der Schrift heißt.« <sup>39</sup>Mit dem »lebendigen Wasser« meinte er den Geist, der jedem zuteilwerden sollte, der an ihn glaubte. Aber der Geist war noch nicht gekommen, weil Jesus noch nicht verherrlicht worden war.</div>",
         "url": "https://bibleserver.com/NLB/Johannes%207,%2037-39",
-        "isOpen": true
+        "isOpen": false
       }
     },
     {
@@ -73,9 +92,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Ist dir in diesem Text etwas besonders aufgefallen? Was magst du, was stört dich?",
-          "Was kannst du in diesem Text über Gott und Jesus lernen?",
-          "Was kannst du über die Menschen lernen?"
+          {
+            "text": "Ist dir in diesem Text etwas besonders aufgefallen? Was magst du, was stört dich?"
+          },
+          {
+            "text": "Was kannst du in diesem Text über Gott und Jesus lernen?"
+          },
+          {
+            "text": "Was kannst du über die Menschen lernen?"
+          }
         ]
       }
     },
@@ -90,9 +115,15 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Wie beeinflusst dieser Text die Art, wie du lebst?",
-          "Wie beeinflusst dieser Text deine Sicht über Gott und Jesus?",
-          "Wie beeinflusst dieser Text deinen Umgang mit anderen Menschen?"
+          {
+            "text": "Wie beeinflusst dieser Text die Art, wie du lebst?"
+          },
+          {
+            "text": "Wie beeinflusst dieser Text deine Sicht über Gott und Jesus?"
+          },
+          {
+            "text": "Wie beeinflusst dieser Text deinen Umgang mit anderen Menschen?"
+          }
         ]
       }
     },
@@ -100,13 +131,15 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "life-204-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
       "type": "sectionMarker",
       "data": {
-        "theme": "forward"
+        "theme": "challenge",
+        "title": "CHALLENGE",
+        "icon": "challenges"
       }
     },
     {
@@ -114,7 +147,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "Was wirst du die nächsten zwei, drei Tage ausprobieren / verbessern / tun?"
+          {
+            "text": "Was wirst du die nächsten zwei, drei Tage ausprobieren / verbessern / tun?"
+          }
         ]
       }
     },
@@ -125,18 +160,32 @@
       }
     },
     {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "challenge",
+        "title": "GEBET",
+        "icon": "challenges"
+      }
+    },
+    {
       "type": "paragraph",
       "data": {
         "text": "▶ Gemeinsames Gebet: Sage Gott, was du ausprobieren / verbessern / tun wirst und bitte ihn um seine Hilfe und sein Wirken."
       }
     },
     {
-      "type": "iWill",
+      "type": "notesArea",
       "data": {
-        "storageKey": "life-204-i-will"
+        "notes": "",
+        "storageKey": "note-4"
       }
     }
-  ],
-  "time": 1776770695854,
-  "version": "2.31.5"
+  ]
 }

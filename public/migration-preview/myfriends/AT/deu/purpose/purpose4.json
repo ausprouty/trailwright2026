@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "purpose-purpose4-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 28,16-20",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>16</sup>Dann gingen die elf Jünger nach Galiläa zu dem Berg, den Jesus ihnen genannt hatte.<!--]--><!--[--><sup>17</sup>Als sie ihn sahen, beteten sie ihn an – aber einige zweifelten immer noch.<!--]--><!--[--><sup>18</sup>Jesus kam und sagte zu seinen Jüngern: »Mir ist alle Macht im Himmel und auf der Erde gegeben. <!--]--><!--[--><sup>19</sup>Darum geht und macht alle Völker zu Jüngern. Tauft sie im Namen des Vaters und des Sohnes und des Heiligen Geistes <!--]--><!--[--><sup>20</sup>und lehrt sie, alles zu befolgen, was ich euch aufgetragen habe. Und ich versichere euch: Ich bin immer bei euch bis ans Ende der Zeit.«<!--]--><!--]--><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>16</sup>Dann gingen die elf Jünger nach Galiläa zu dem Berg, den Jesus ihnen genannt hatte.<sup>17</sup>Als sie ihn sahen, beteten sie ihn an – aber einige zweifelten immer noch.<sup>18</sup>Jesus kam und sagte zu seinen Jüngern: »Mir ist alle Macht im Himmel und auf der Erde gegeben. <sup>19</sup>Darum geht und macht alle Völker zu Jüngern. Tauft sie im Namen des Vaters und des Sohnes und des Heiligen Geistes <sup>20</sup>und lehrt sie, alles zu befolgen, was ich euch aufgetragen habe. Und ich versichere euch: Ich bin immer bei euch bis ans Ende der Zeit.« </div>",
         "url": "https://bibleserver.com/NLB/Matthäus%2028,16-20",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "purpose-purpose4-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

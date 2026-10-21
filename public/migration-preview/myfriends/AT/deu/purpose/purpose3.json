@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "purpose-purpose3-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "2. Korinther 5,17-20",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>17</sup>Das bedeutet aber, wer mit Christus lebt, wird ein neuer Mensch. Er ist nicht mehr derselbe, denn sein altes Leben ist vorbei. Ein neues Leben hat begonnen! <!--]--><!--[--><sup>18</sup>Dieses neue Leben kommt allein von Gott, der uns durch das, was Christus getan hat, mit sich versöhnt hat. Und er hat uns in den Dienst dieser Versöhnung gestellt. <!--]--><!--[--><sup>19</sup>Denn Gott war in Christus und versöhnte so die Welt mit sich selbst und rechnete den Menschen ihre Sünden nicht mehr an. Das ist die herrliche Botschaft der Versöhnung, die er uns anvertraut hat, damit wir sie anderen verkünden. <!--]--><!--[--><sup>20</sup>So sind wir Botschafter von Christus, und Gott gebraucht uns, um durch uns zu sprechen. Wir bitten inständig, so, als würde Christus es persönlich tun: »Lasst euch mit Gott versöhnen!« <!--]--><!--[--><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>17</sup>Das bedeutet aber, wer mit Christus lebt, wird ein neuer Mensch. Er ist nicht mehr derselbe, denn sein altes Leben ist vorbei. Ein neues Leben hat begonnen! <sup>18</sup>Dieses neue Leben kommt allein von Gott, der uns durch das, was Christus getan hat, mit sich versöhnt hat. Und er hat uns in den Dienst dieser Versöhnung gestellt. <sup>19</sup>Denn Gott war in Christus und versöhnte so die Welt mit sich selbst und rechnete den Menschen ihre Sünden nicht mehr an. Das ist die herrliche Botschaft der Versöhnung, die er uns anvertraut hat, damit wir sie anderen verkünden. <sup>20</sup>So sind wir Botschafter von Christus, und Gott gebraucht uns, um durch uns zu sprechen. Wir bitten inständig, so, als würde Christus es persönlich tun: »Lasst euch mit Gott versöhnen!« </div>",
         "url": "https://bibleserver.com/NLB/2%20Corinthians%205,17-20",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "purpose-purpose3-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

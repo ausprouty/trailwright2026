@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben01-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Matthäus 5:23-25",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>23</sup>Wenn ihr also vor dem Altar im Tempel steht, um zu opfern, und es fällt euch mit einem Mal ein, dass jemand etwas gegen euch hat, <sup>24</sup>dann lasst euer Opfer vor dem Altar liegen, geht zu dem Betreffenden und versöhnt euch mit ihm. Erst dann kommt zurück und bringt Gott euer Opfer dar. <sup>25</sup>Einigt euch rasch mit eurem Gegner, bevor es zu spät ist und ihr vor Gericht gestellt, einem Gerichtsdiener übergeben und ins Gefängnis geworfen werdet. <!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>23</sup>Wenn ihr also vor dem Altar im Tempel steht, um zu opfern, und es fällt euch mit einem Mal ein, dass jemand etwas gegen euch hat, <sup>24</sup>dann lasst euer Opfer vor dem Altar liegen, geht zu dem Betreffenden und versöhnt euch mit ihm. Erst dann kommt zurück und bringt Gott euer Opfer dar. <sup>25</sup>Einigt euch rasch mit eurem Gegner, bevor es zu spät ist und ihr vor Gericht gestellt, einem Gerichtsdiener übergeben und ins Gefängnis geworfen werdet. </div>",
         "url": "https://bibleserver.com/NLB/Matthew%205:23-25",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "leben-leben01-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreinander und für die erwähnten Personen."
+          }
         ]
       }
     },

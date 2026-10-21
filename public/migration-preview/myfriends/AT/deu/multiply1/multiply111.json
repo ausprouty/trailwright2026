@@ -33,7 +33,7 @@
                     "id": "popup_pop1",
                     "marker": "Romans 11:33-36",
                     "label": "Romans 11:33-36",
-                    "passage": "<p><sup>33</sup>Oh, the depth of the riches of the wisdom and knowledge of God!<br>How unsearchable his judgments,<br>and his paths beyond tracing out!<br><sup>34</sup>“Who has known the mind of the Lord?<br>Or who has been his counselor?”<br><sup>35</sup>“Who has ever given to God,<br>that God should repay them?”<br><sup>36</sup>For from him and through him and for him are all things.<br>To him be the glory forever! Amen.</p>"
+                    "passage": "<p><sup class=\"versenum\">33 </sup>Oh, the depth of the riches of the wisdom and knowledge of God!<br>\n    How unsearchable his judgments,<br>\n    and his paths beyond tracing out!<br>\n<sup class=\"versenum\">34 </sup>“Who has known the mind of the Lord?<br>\n    Or who has been his counselor?”<br>\n<sup class=\"versenum\">35 </sup>“Who has ever given to God,<br>\n    that God should repay them?”<br>\n<sup class=\"versenum\">36 </sup>For from him and through him and for him are all things.<br>\n    To him be the glory forever! Amen.</p>"
                   }
                 ],
                 "isOpen": false
@@ -92,7 +92,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-5"
+        "storageKey": "note-1"
       }
     },
     {
@@ -129,7 +129,7 @@
                     "id": "popup_pop2",
                     "marker": "John 3:8",
                     "label": "John 3:8",
-                    "passage": "<p><sup>8</sup>The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going. So it is with everyone born of the Spirit.”</p>"
+                    "passage": "<p><sup class=\"versenum\">8 </sup>The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going. So it is with everyone born of the Spirit.”</p>"
                   }
                 ],
                 "isOpen": false
@@ -144,7 +144,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-2"
       }
     },
     {
@@ -190,7 +190,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Acts 22:1-21",
-        "html": "<p><sup>2 </sup>When they heard him speak to them in Aramaic, they became very quiet.</p><p>Then Paul said:<sup>3</sup>“I am a Jew, born in Tarsus of Cilicia, but brought up in this city. I studied under Gamaliel and was thoroughly trained in the law of our ancestors. I was just as zealous for God as any of you are today.<sup>4</sup>I persecuted the followers of this Way to their death, arresting both men and women and throwing them into prison,<sup>5</sup>as the high priest and all the Council can themselves testify. I even obtained letters from them to their associates in Damascus, and went there to bring these people as prisoners to Jerusalem to be punished.</p><p><sup>6</sup>“About noon as I came near Damascus, suddenly a bright light from heaven flashed around me.<sup>7</sup>I fell to the ground and heard a voice say to me, ‘Saul! Saul! Why do you persecute me?’</p><p><sup>8</sup>“‘Who are you, Lord?’ I asked.</p><p>“ ‘I am Jesus of Nazareth, whom you are persecuting,’ he replied.<sup>9</sup>My companions saw the light, but they did not understand the voice of him who was speaking to me.</p><p><sup>10</sup>“‘What shall I do, Lord?’ I asked.</p><p>“ ‘Get up,’ the Lord said, ‘and go into Damascus. There you will be told all that you have been assigned to do.’<sup>11</sup>My companions led me by the hand into Damascus, because the brilliance of the light had blinded me.</p><p><sup>12</sup>“A man named Ananias came to see me. He was a devout observer of the law and highly respected by all the Jews living there.<sup>13</sup>He stood beside me and said, ‘Brother Saul, receive your sight!’ And at that very moment I was able to see him.</p><p><sup>14</sup>“Then he said: ‘The God of our ancestors has chosen you to know his will and to see the Righteous One and to hear words from his mouth.<sup>15</sup>You will be his witness to all people of what you have seen and heard.<sup>16</sup>And now what are you waiting for? Get up, be baptized and wash your sins away, calling on his name.’</p><p><sup>17</sup>“When I returned to Jerusalem and was praying at the temple, I fell into a trance<sup>18</sup>and saw the Lord speaking to me. ‘Quick!’ he said. ‘Leave Jerusalem immediately, because the people here will not accept your testimony about me.’</p><p><sup>19</sup>“‘Lord,’ I replied, ‘these people know that I went from one synagogue to another to imprison and beat those who believe in you.<sup>20</sup>And when the blood of your martyr Stephen was shed, I stood there giving my approval and guarding the clothes of those who were killing him.’</p><p><sup>21</sup>“Then the Lord said to me, ‘Go; I will send you far away to the Gentiles.’ ”</p>",
+        "html": "<p><sup>2</sup>When they heard him speak to them in Aramaic, they became very quiet.</p> <p>Then Paul said:<sup>3</sup>“I am a Jew, born in Tarsus of Cilicia, but brought up in this city. I studied under Gamaliel and was thoroughly trained in the law of our ancestors. I was just as zealous for God as any of you are today.<sup>4</sup>I persecuted the followers of this Way to their death, arresting both men and women and throwing them into prison,<sup>5</sup>as the high priest and all the Council can themselves testify. I even obtained letters from them to their associates in Damascus, and went there to bring these people as prisoners to Jerusalem to be punished.</p> <p><sup>6</sup>“About noon as I came near Damascus, suddenly a bright light from heaven flashed around me.<sup>7</sup>I fell to the ground and heard a voice say to me, ‘Saul! Saul! Why do you persecute me?’</p> <p><sup>8</sup>“‘Who are you, Lord?’ I asked.</p> <p>“ ‘I am Jesus of Nazareth, whom you are persecuting,’ he replied.<sup>9</sup>My companions saw the light, but they did not understand the voice of him who was speaking to me.</p> <p><sup>10</sup>“‘What shall I do, Lord?’ I asked.</p> <p>“ ‘Get up,’ the Lord said, ‘and go into Damascus. There you will be told all that you have been assigned to do.’<sup>11</sup>My companions led me by the hand into Damascus, because the brilliance of the light had blinded me.</p> <p><sup>12</sup>“A man named Ananias came to see me. He was a devout observer of the law and highly respected by all the Jews living there.<sup>13</sup>He stood beside me and said, ‘Brother Saul, receive your sight!’ And at that very moment I was able to see him.</p> <p><sup>14</sup>“Then he said: ‘The God of our ancestors has chosen you to know his will and to see the Righteous One and to hear words from his mouth.<sup>15</sup>You will be his witness to all people of what you have seen and heard.<sup>16</sup>And now what are you waiting for? Get up, be baptized and wash your sins away, calling on his name.’</p> <p><sup>17</sup>“When I returned to Jerusalem and was praying at the temple, I fell into a trance<sup>18</sup>and saw the Lord speaking to me. ‘Quick!’ he said. ‘Leave Jerusalem immediately, because the people here will not accept your testimony about me.’</p> <p><sup>19</sup>“‘Lord,’ I replied, ‘these people know that I went from one synagogue to another to imprison and beat those who believe in you.<sup>20</sup>And when the blood of your martyr Stephen was shed, I stood there giving my approval and guarding the clothes of those who were killing him.’</p> <p><sup>21</sup>“Then the Lord said to me, ‘Go; I will send you far away to the Gentiles.’ ”</p>",
         "url": "https://biblegateway.com/passage/?search=Acts%2022:1-21&version=NIV",
         "isOpen": false
       }
@@ -262,7 +262,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-17"
+        "storageKey": "note-3"
       }
     },
     {
@@ -328,7 +328,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note"
+        "storageKey": "note-4"
       }
     },
     {
@@ -463,7 +463,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "note-25"
+        "storageKey": "note-5"
       }
     },
     {
@@ -508,7 +508,7 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "<strong>BEFORE I ACCEPTED CHRIST</strong>"
+                "text": "BEFORE I ACCEPTED CHRIST"
               }
             },
             {
@@ -534,7 +534,7 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "<strong>HOW I ACCEPTED CHRIST</strong>"
+                "text": "HOW I ACCEPTED CHRIST"
               }
             },
             {
@@ -557,7 +557,7 @@
             {
               "type": "paragraph",
               "data": {
-                "text": "<strong>NOW I HAVE ACCEPTED CHRIST</strong>"
+                "text": "NOW I HAVE ACCEPTED CHRIST"
               }
             },
             {
@@ -580,6 +580,12 @@
           ],
           "version": "2.31.5"
         }
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply111-i-will"
       }
     },
     {

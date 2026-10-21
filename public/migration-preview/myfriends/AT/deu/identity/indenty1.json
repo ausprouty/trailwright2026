@@ -40,7 +40,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreinander.</p>"
+          {
+            "text": "Betet füreinander."
+          }
         ]
       }
     },
@@ -48,7 +50,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "identity-indenty1-look-up"
+        "storageKey": "note-1"
       }
     },
     {
@@ -62,7 +64,7 @@
       "type": "biblePassage",
       "data": {
         "reference": "Psalm 139",
-        "html": "<!-- begin bible --><div><!-- begin bible --><sup>1</sup>Für den Chorleiter: Ein Psalm Davids. HERR, du hast mein Herz geprüft und weißt alles über mich. <!--]--><!--[--><sup>2</sup>Wenn ich sitze oder wenn ich aufstehe, du weißt es. Du kennst alle meine Gedanken. <!--]--><!--[--><sup>3</sup>Wenn ich gehe oder wenn ich ausruhe, du siehst es und bist mit allem, was ich tue, vertraut. <!--]--><!--[--><sup>4</sup>Und du, HERR, weißt, was ich sagen möchte, noch bevor ich es ausspreche. <!--]--><!--[--><sup>5</sup>Du bist vor mir und hinter mir und legst deine schützende Hand auf mich. <!--]--><!--[--><sup>6</sup>Dieses Wissen ist zu wunderbar für mich, zu groß, als dass ich es begreifen könnte! <!--]--><!--[--><sup>7</sup>Wohin sollte ich fliehen vor deinem Geist, und wo könnte ich deiner Gegenwart entrinnen? <!--]--><!--[--><sup>8</sup>Flöge ich hinauf in den Himmel, so bist du da; stiege ich hinab ins Totenreich, so bist du auch da. <!--]--><!--[--><sup>9</sup>Nähme ich die Flügel der Morgenröte oder wohnte am äußersten Meer,<!--]--><!--[--><sup>10</sup>würde deine Hand mich auch dort führen und dein starker Arm mich halten. <!--]--><!--[--><sup>11</sup>Bäte ich die Finsternis, mich zu verbergen, und das Licht um mich her, Nacht zu werden – <!--]--><!--[--><sup>12</sup>könnte ich mich dennoch nicht vor dir verstecken; denn die Nacht leuchtet so hell wie der Tag und die Finsternis wie das Licht. <!--]--><!--[--><sup>13</sup>Du hast alles in mir geschaffen und hast mich im Leib meiner Mutter geformt. <!--]--><!--[--><sup>14</sup>Ich danke dir, dass du mich so herrlich und ausgezeichnet gemacht hast! Wunderbar sind deine Werke, das weiß ich wohl.<!--]--><!--[--><sup>15</sup>Du hast zugesehen, wie ich im Verborgenen gestaltet wurde, wie ich gebildet wurde im Dunkel des Mutterleibes. <!--]--><!--[--><sup>16</sup>Du hast mich gesehen, bevor ich geboren war. Jeder Tag meines Lebens war in deinem Buch geschrieben. Jeder Augenblick stand fest, noch bevor der erste Tag begann. <!--]--><!--[--><sup>17</sup>Wie kostbar sind deine Gedanken über mich, Gott! Es sind unendlich viele. <!--]--><!--[--><sup>18</sup>Wollte ich sie zählen, so sind sie zahlreicher als der Sand! Und wenn ich am Morgen erwache, bin ich immer noch bei dir!<!--]--><!--[--><sup>19</sup>Gott, wenn du doch nur die Gottlosen vernichten wolltest! Fort mit euch aus meinem Leben, ihr Mörder! <!--]--><!--[--><sup>20</sup>Sie verhöhnen dich und lehnen sich gegen dich auf. <!--]--><!--[--><sup>21</sup>Sollte ich die nicht hassen, HERR, die dich hassen, und sollte ich die nicht verachten, die sich dir widersetzen?<!--]--><!--[--><sup>22</sup>Ja, ich hasse sie von ganzem Herzen, denn deine Feinde sind auch meine Feinde.<!--]--><!--[--><sup>23</sup>Erforsche mich, Gott, und erkenne mein Herz, prüfe mich und erkenne meine Gedanken. <!--]--><!--[--><sup>24</sup>Zeige mir, wenn ich auf falschen Wegen gehe, und führe mich den Weg zum ewigen Leben. <!--]--><!--]--><!-- end bible --></div><!-- end bible --><p class=\"bible\"></p>",
+        "html": "<div><sup>1</sup>Für den Chorleiter: Ein Psalm Davids. HERR, du hast mein Herz geprüft und weißt alles über mich. <sup>2</sup>Wenn ich sitze oder wenn ich aufstehe, du weißt es. Du kennst alle meine Gedanken. <sup>3</sup>Wenn ich gehe oder wenn ich ausruhe, du siehst es und bist mit allem, was ich tue, vertraut. <sup>4</sup>Und du, HERR, weißt, was ich sagen möchte, noch bevor ich es ausspreche. <sup>5</sup>Du bist vor mir und hinter mir und legst deine schützende Hand auf mich. <sup>6</sup>Dieses Wissen ist zu wunderbar für mich, zu groß, als dass ich es begreifen könnte! <sup>7</sup>Wohin sollte ich fliehen vor deinem Geist, und wo könnte ich deiner Gegenwart entrinnen? <sup>8</sup>Flöge ich hinauf in den Himmel, so bist du da; stiege ich hinab ins Totenreich, so bist du auch da. <sup>9</sup>Nähme ich die Flügel der Morgenröte oder wohnte am äußersten Meer,<sup>10</sup>würde deine Hand mich auch dort führen und dein starker Arm mich halten. <sup>11</sup>Bäte ich die Finsternis, mich zu verbergen, und das Licht um mich her, Nacht zu werden – <sup>12</sup>könnte ich mich dennoch nicht vor dir verstecken; denn die Nacht leuchtet so hell wie der Tag und die Finsternis wie das Licht. <sup>13</sup>Du hast alles in mir geschaffen und hast mich im Leib meiner Mutter geformt. <sup>14</sup>Ich danke dir, dass du mich so herrlich und ausgezeichnet gemacht hast! Wunderbar sind deine Werke, das weiß ich wohl.<sup>15</sup>Du hast zugesehen, wie ich im Verborgenen gestaltet wurde, wie ich gebildet wurde im Dunkel des Mutterleibes. <sup>16</sup>Du hast mich gesehen, bevor ich geboren war. Jeder Tag meines Lebens war in deinem Buch geschrieben. Jeder Augenblick stand fest, noch bevor der erste Tag begann. <sup>17</sup>Wie kostbar sind deine Gedanken über mich, Gott! Es sind unendlich viele. <sup>18</sup>Wollte ich sie zählen, so sind sie zahlreicher als der Sand! Und wenn ich am Morgen erwache, bin ich immer noch bei dir!<sup>19</sup>Gott, wenn du doch nur die Gottlosen vernichten wolltest! Fort mit euch aus meinem Leben, ihr Mörder! <sup>20</sup>Sie verhöhnen dich und lehnen sich gegen dich auf. <sup>21</sup>Sollte ich die nicht hassen, HERR, die dich hassen, und sollte ich die nicht verachten, die sich dir widersetzen?<sup>22</sup>Ja, ich hasse sie von ganzem Herzen, denn deine Feinde sind auch meine Feinde.<sup>23</sup>Erforsche mich, Gott, und erkenne mein Herz, prüfe mich und erkenne meine Gedanken. <sup>24</sup>Zeige mir, wenn ich auf falschen Wegen gehe, und führe mich den Weg zum ewigen Leben. </div>",
         "url": "https://bibleserver.com/NLB/Psalms%20139",
         "isOpen": false
       }
@@ -94,7 +96,7 @@
       "type": "notesArea",
       "data": {
         "notes": "",
-        "storageKey": "identity-indenty1-look-forward"
+        "storageKey": "note-2"
       }
     },
     {
@@ -128,7 +130,9 @@
       "data": {
         "style": "unordered",
         "items": [
-          "<p>Betet füreiander und für die erwähnten Personen.</p>"
+          {
+            "text": "Betet füreiander und für die erwähnten Personen."
+          }
         ]
       }
     },

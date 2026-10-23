@@ -1,7 +1,71 @@
 // Run: npx tsx scripts/migration/build-migration-preview-index.ts
-// Builds ONLY the site-level index used by MigrationPreviewIndex.
-// Does not read raw HTML, transform content, or modify lesson JSON files.
-
+/**
+ * BUILD MIGRATION PREVIEW INDEX
+ *
+ * Run from the project root:
+ *   npx tsx scripts/migration/build-migration-preview-index.ts
+ *
+ * PURPOSE
+ * -------
+ * Builds the site-level index.json files used by MigrationPreviewIndex.
+ *
+ * INPUT DIRECTORY
+ * ---------------
+ * Reads the directory structure under:
+ *   public/migration-preview/
+ *
+ * Expected structure:
+ *   public/migration-preview/
+ *     <site>/
+ *       <country>/
+ *         <language>/
+ *           <series>/
+ *             lesson1.json
+ *             lesson2.json
+ *
+ * For example:
+ *   public/migration-preview/myfriends/AU/eng/basics/
+ *   public/migration-preview/myfriends/AT/deu/compass/
+ *
+ * A series is included only if its folder contains at least one
+ * .json file other than index.json.
+ *
+ * OUTPUT
+ * ------
+ * Creates or overwrites one index.json for each site:
+ *   public/migration-preview/<site>/index.json
+ *
+ * Example:
+ *   public/migration-preview/myfriends/index.json
+ *
+ * Output format:
+ * {
+ *   "AU": {
+ *     "eng": ["basics", "compass"]
+ *   },
+ *   "AT": {
+ *     "deu": ["basics", "compass"]
+ *   }
+ * }
+ *
+ * BEHAVIOUR
+ * ---------
+ * - Automatically discovers all sites, countries, languages and series.
+ * - Processes all sites found under public/migration-preview/.
+ * - Sorts directory names alphabetically.
+ * - Excludes series without lesson JSON files.
+ * - Skips sites that contain no lesson JSON files.
+ * - Overwrites existing site-level index.json files.
+ * - Does not delete stale index.json files for skipped sites.
+ * - Does not read raw HTML or transform lesson content.
+ * - Does not create, modify or delete lesson JSON files.
+ *
+ * NOTE
+ * ----
+ * Run this script after generating or updating migration preview
+ * lesson JSON files so MigrationPreviewIndex reflects the available
+ * countries, languages and series.
+ */
 import fs from 'node:fs/promises';
 import path from 'node:path';
 

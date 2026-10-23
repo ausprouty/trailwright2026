@@ -1,4 +1,4 @@
-import type { NumberSystem } from 'app/scripts/migration/createLessonJson';
+import type { NumberSystem } from 'app/scripts/migration/myfriends/createLessonJson';
 import type { BiblePassageBlockData } from './BiblePassageBlock';
 import type { BibleReferenceBlockData } from './BibleReferenceBlock';
 import type { CollapsibleGroupBlockData } from './CollapsibleGroupBlock';

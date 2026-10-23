@@ -1,0 +1,442 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply247",
+  "sortOrder": 52,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louvar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia uma passagem das Escrituras e louvem com uma canção de adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">(Opcional) Jesus Cristo é o Senhor, para a gloria de Deus Pai. Ele deseja que todos os homens sejam salvos e cheguem ao pleno conhecimento da verdade. Porque há um só Deus e um único mediador entre Deus e os homens, o homem Jesus Cristo, que a si mesmo se entregou como resgate por todos. ({Filipenses 2:11}; {1 Timóteo 2:4-6}) </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>e declarem abertamente<br>que Jesus Cristo é o Senhor,<br>para a glória de Deus, o Pai.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timóteo 2:4-6",
+                    "label": "1 Timóteo 2:4-6",
+                    "passage": "<p><sup>4</sup>Ele quer que todos sejam salvos e venham a conhecer a verdade.</p><p><sup>5</sup>Pois existe um só Deus e uma só pessoa que une Deus com os seres humanos — o ser humano Cristo Jesus,<sup>6</sup>que deu a sua vida para que todos fiquem livres dos seus pecados. Esta foi a prova, dada no tempo certo, de que Deus quer que todos sejam salvos.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar sobre as necessidades dos demais em oração, conselho bíblico e ânimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça a cada pessoa que compartilhe acontecimento especial e um desafio que tenha experimentado nesta semana."
+          },
+          {
+            "text": "Pergunte: \"O que você deseja que Jesus faça por você nesta semana? Ore pelas necessidades dos demais."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<span style=\"background-color:white\"><span lang=\"PT-BR\">Pergunte: \"O que aconteceu quando você confiou em Deus sobre suas metas e suas declarações: Eu farei.... no dia......?\"</span></span>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Escolha uma maneira de dar a visão de quem eles podem chegar a ser em Cristo e o que Deus pode fazer através deles ao:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartilhar um versículo Bíblico que os faça lembrar o Coração do Pai e a visão final, ou"
+                  },
+                  {
+                    "text": "Refletir sobre as mudanças que aconteceram em suas vidas desde que começaram a seguir a Cristo, ou"
+                  },
+                  {
+                    "text": "recordar o que Deus quer fazer através deles."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Compartilhe a GRANDE visão de \"Uma igreja para cada cidade e comunidade, e o evangelho para cada pessoa”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Peça ao grupo que conte a história da semana passada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista João 13:1-38 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "João 13",
+        "html": "<h3>Jesus lava os pés dos discípulos</h3> <p><sup>1</sup>Faltava somente um dia para a Festa da Páscoa. Jesus sabia que tinha chegado a hora de deixar este mundo e ir para o Pai. Ele sempre havia amado os seus que estavam neste mundo e os amou até o fim.</p> <p><sup>2</sup>Jesus e os seus discípulos estavam jantando. O Diabo já havia posto na cabeça de Judas, filho de Simão Iscariotes, a ideia de trair Jesus.<sup>3</sup>Jesus sabia que o Pai lhe tinha dado todo o poder. E sabia também que tinha vindo de Deus e ia para Deus.<sup>4</sup>Então se levantou, tirou a sua capa, pegou uma toalha e amarrou na cintura.<sup>5</sup>Em seguida pôs água numa bacia e começou a lavar os pés dos discípulos e a enxugá-los com a toalha.<sup>6</sup>Quando chegou perto de Simão Pedro, este lhe perguntou:</p> <p>— Vai lavar os meus pés, Senhor?</p> <p><sup>7</sup>Jesus respondeu:</p> <p>— Agora você não entende o que estou fazendo, porém mais tarde vai entender!</p> <p><sup>8</sup>— O senhor nunca lavará os meus pés! — disse Pedro.</p> <p>— Se eu não lavar, você não será mais meu discípulo! — respondeu Jesus.</p> <p><sup>9</sup>— Então, Senhor, não lave somente os meus pés; lave também as minhas mãos e a minha cabeça! — pediu Simão Pedro.</p> <p><sup>10</sup>Aí Jesus disse:</p> <p>— Quem já tomou banho está completamente limpo e precisa lavar somente os pés. Vocês todos estão limpos, isto é, todos menos um.</p> <p><sup>11</sup>Jesus sabia quem era o traidor. Foi por isso que disse: “Todos menos um.”</p> <p><sup>12</sup>Depois de lavar os pés dos seus discípulos, Jesus vestiu de novo a capa, sentou-se outra vez à mesa e perguntou:</p> <p>— Vocês entenderam o que eu fiz?<sup>13</sup>Vocês me chamam de “Mestre” e de “Senhor” e têm razão, pois eu sou mesmo.<sup>14</sup>Se eu, o Senhor e o Mestre, lavei os pés de vocês, então vocês devem lavar os pés uns dos outros.<sup>15</sup>Pois eu dei o exemplo para que vocês façam o que eu fiz.<sup>16</sup>Eu afirmo a vocês que isto é verdade: o empregado não é mais importante do que o patrão, e o mensageiro não é mais importante do que aquele que o enviou.<sup>17</sup>Já que vocês conhecem esta verdade, serão felizes se a praticarem.</p> <p><sup>18</sup>— Não estou falando de vocês todos; eu conheço aqueles que escolhi. Pois tem de se cumprir o que as Escrituras Sagradas dizem: “Aquele que toma refeições comigo se virou contra mim”.<sup>19</sup>Digo isso a vocês agora, antes que aconteça, para que, quando acontecer, vocês creiam que “<span class=\"small-caps\">Eu Sou Quem Sou”.<sup>20</sup>Eu afirmo a vocês que isto é verdade: quem receber aquele que eu enviar estará também me recebendo; e quem me recebe recebe aquele que me enviou.</span></p> <h3>Jesus aponta o traidor</h3> <p><sup>21</sup>Depois de dizer isso, Jesus ficou muito aflito e declarou abertamente aos discípulos:</p> <p>— Eu afirmo a vocês que isto é verdade: um de vocês vai me trair.</p> <p><sup>22</sup>Então eles olharam uns para os outros, sem saber de quem ele estava falando.<sup>23</sup>Ao lado de Jesus estava sentado um deles, a quem Jesus amava.<sup>24</sup>Simão Pedro fez um sinal para ele e disse:</p> <p>— Pergunte de quem o Mestre está falando.</p> <p><sup>25</sup>Então aquele discípulo chegou mais perto de Jesus e perguntou:</p> <p>— Senhor, quem é ele?</p> <p><sup>26</sup>— É aquele a quem vou dar um pedaço de pão passado no molho! — respondeu Jesus.</p> <p>Em seguida pegou um pedaço de pão, passou no molho e deu a Judas, filho de Simão Iscariotes.<sup>27</sup>E assim que Judas recebeu o pão, Satanás entrou nele. Então Jesus disse a Judas:</p> <p>— O que você vai fazer faça logo!</p> <p><sup>28</sup>Nenhum dos que estavam à mesa entendeu por que Jesus disse isso.<sup>29</sup>Como era Judas que tomava conta da bolsa do dinheiro, alguns pensaram que Jesus tinha mandado que ele comprasse alguma coisa para a festa ou desse alguma ajuda aos pobres.</p> <p><sup>30</sup>Judas recebeu o pão e saiu logo. E era noite.</p> <h3>O novo mandamento</h3> <p><sup>31</sup>Quando Judas saiu, Jesus disse:</p> <p>— Agora a natureza divina do Filho do Homem é revelada, e por meio dele é revelada também a natureza gloriosa de Deus.<sup>32</sup>E, se por meio dele a natureza gloriosa de Deus for revelada, então Deus revelará em si mesmo a natureza divina do Filho do Homem. E Deus fará isso agora mesmo.<sup>33</sup>Meus filhos, não vou ficar com vocês por muito tempo. Vocês vão me procurar, mas eu digo agora o que já disse aos líderes judeus: vocês não podem ir para onde eu vou.<sup>34</sup>Eu lhes dou este novo mandamento: amem uns aos outros. Assim como eu os amei, amem também uns aos outros.<sup>35</sup>Se tiverem amor uns pelos outros, todos saberão que vocês são meus discípulos.</p> <h3>Pedro é avisado</h3> <p><sup>36</sup>Simão Pedro perguntou a Jesus:</p> <p>— Senhor, para onde é que o senhor vai?</p> <p>Jesus respondeu:</p> <p>— Você não pode ir agora para onde eu vou. Um dia você poderá me seguir!</p> <p><sup>37</sup>Pedro tornou a perguntar:</p> <p>— Senhor, por que eu não posso segui-lo agora? Eu estou pronto para morrer pelo senhor!</p> <p><sup>38</sup>— Está mesmo? — perguntou Jesus. — Pois eu afirmo a você que isto é verdade: antes que o galo cante, você dirá três vezes que não me conhece.</p>",
+        "url": "https://biblegateway.com/passage/?search=John%2013:1-38&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "João 13:1-38",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2214",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2214",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que te chamou a atenção ou o que você mais gostou? Por quê?"
+          },
+          {
+            "text": "Existe algo novo ou algo que tenha desenvolvido até este ponto da história de Jesus?"
+          },
+          {
+            "text": "O que aprendemos sobre a humanidade ou a divindade de Jesus nessa passagem?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que conhecemos essa história?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Perguntas adicionais que você pode usar:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que estão aprendendo seus seguidores?"
+          },
+          {
+            "text": "O que Jesus está modelando sobre a vida, o ministério e a liderança piedosa?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus passa a semana final de Sua vida, ensinando no Templo durante o dia e orando no Monte das Oliveiras a noite. Na última noite com Seus discípulos, Ele ensina muito sobre liderança. Jesus “mostra quão grande é Seu amor”. Ele surpreende os discípulos ao tomar o papel de servo da casa e lava os pés de todos os 12. Nenhum deles havia feito isso! Jesus disse que eles devem seguir Seu exemplo de se humilharem, se abaixarem e servir uns aos outros fazendo o que for necessário. Na maioria das culturas um líder ser servo é visto como fraqueza mas é assim que a liderança funciona no Reino de Deus. Conforme Jesus dividia a última ceia com Sua equipe mais próxima, Ele se preocupava, sabendo que um deles O trairia. Judas havia se desiludido com a liderança de Jesus e já havia feito um acordo para ajudar os líderes religiosos a prendê-Lo em um lugar silencioso longe das multidões. Judas se permitiu ser manipulado pelo velho inimigo de Jesus, Satanás. Nesse contexto, Jesus dá uma ordem aos discípulos de se amarem, uns aos outros."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Para Estudo Adicional: <a href=\"javascript:popUp('pop3')\">Lucas 22:7-38</a>; <a href=\"javascript:popUp('pop4')\">Mateus 26:17-29</a>; <a href=\"javascript:popUp('pop5')\">Marcos 14:12-25</a>",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratique ofertar e a comunhão aqui ou na sessão Preparar para a Missão.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pratique as habilidades necessárias ou assuntos prévios para te ajudar a preparar-se para ministrar aos demais:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar e Compartilhar"
+                  },
+                  {
+                    "text": "Compartilhar o Evangelho"
+                  },
+                  {
+                    "text": "Estudos Bíblicos Fundamentais"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique pessoas ou lugares onde tomará a iniciativa de ministrar nessa semana."
+          },
+          {
+            "text": "Escreva suas declarações de “Eu farei........ no dia ........” e compartilhe em seu pequeno grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Apresente as metas de todos ao Senhor. Peça ao Senhor que nos ajude a ser fiéis e que Ele nos use para iniciar um movimento de fazedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benção (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply247-i-will"
+      }
+    }
+  ]
+}

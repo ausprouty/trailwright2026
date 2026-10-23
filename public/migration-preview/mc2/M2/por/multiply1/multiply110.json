@@ -1,0 +1,406 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply110",
+  "sortOrder": 11,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Adoração",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia a Bíblia para fundamentar louvor e adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">Leia {Salmos 66:1-4} e cante 1-2 músicas.</li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Salmos 66:1-4",
+                    "label": "Salmos 66:1-4",
+                    "passage": "<h4 class=\"psalm-title\">Salmo. Canção. Ao regente do coro.</h4><p><sup>1</sup>Que todos os povos louvem a Deus<br>com gritos de alegria!<br><sup>2</sup>Cantem hinos de louvor a ele;<br>ofereçam a ele louvores gloriosos.<br><sup>3</sup>Digam isto a Deus:<br>“Como são espantosas<br>as coisas que fazes!<br>O teu poder é tão grande,<br>que os teus inimigos ficam com medo<br>e se curvam diante de ti.<br><sup>4</sup>O mundo inteiro te adora<br>e canta louvores a ti;<br>todos cantam hinos em tua honra.”</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Sirvam uns aos outros através de oração, aconselhamento bíblico e encorajamento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça para cada pessoa compartilhar um ponto alto da semana e explicar um desafio pelo o qual passaram."
+          },
+          {
+            "text": "Pergunte, “O que você gostaria que Jesus fizesse por você esta semana?” Ore pelas necessidades uns dos outros."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pergunte, “O que aconteceu quando você confiou suas metas e suas declarações “Eu vou____” a Deus?”"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Esboce uma visão de quem eles podem se tornar em Cristo e o que Deus pode fazer através deles.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Exemplo: Em {João 3:8}, o Espírito de Deus é descrito como vento. Não podemos controlar ou fazer o Espírito se mover; Ele sopra onde quer. Não podemos criar movimentos, apenas o Espírito de Deus pode. Mas podemos nos posicionar para que quando Ele se mover, estejamos prontos para ser movidos com Ele. As simples habilidades que você tem aprendido ajudam a fazer exatamente isso. A boa notícia é essa: o Espírito de Deus está trabalhando em todo lugar! Vamos continuar nos preparando e orando para o Espírito se mover e nos mover.",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "João 3:8",
+                    "label": "João 3:8",
+                    "passage": "<p><sup>8</sup>O vento sopra onde quer, e ouve-se o barulho que ele faz, mas não se sabe de onde ele vem, nem para onde vai. A mesma coisa acontece com todos os que nascem do Espírito.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Paulo havia sido preso porque foi falsamente acusado pelos líderes judeus de quebrar uma lei do templo. Durante sua defesa perante o Governador, Paulo compartilhou a história de como veio conhecer a Cristo"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista Atos 22:1-21 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Atos 22:1-21",
+        "html": "<p><sup>1</sup>— Meus senhores, irmãos e pais, escutem o que eu vou dizer a vocês em minha defesa!</p> <p><sup>2</sup>Quando o ouviram falar em hebraico, eles ficaram mais quietos ainda. Então Paulo disse:</p> <p><sup>3</sup>— Eu sou judeu, nascido em Tarso, na região da Cilícia, mas fui criado aqui em Jerusalém como aluno de Gamaliel. Fui educado muito rigorosamente dentro da lei dos nossos antepassados. Eu era muito dedicado a Deus, como todos vocês aqui também são.<sup>4</sup>Persegui os que seguiam este Caminho e fiz com que alguns fossem condenados à morte. Prendi homens e mulheres e os joguei na cadeia.<sup>5</sup>O Grande Sacerdote e todo o Conselho Superior podem provar que estou dizendo a verdade, pois eu recebi cartas deles, escritas para os irmãos judeus que moram em Damasco. E fui até lá para prender os seguidores deste Caminho e trazê-los presos com correntes a Jerusalém, a fim de serem castigados.</p> <h3>Paulo conta a sua conversão</h3> <p><sup>6</sup>E Paulo continuou:</p> <p>— Eu estava viajando, já perto de Damasco, e era mais ou menos meio-dia. De repente, uma forte luz que vinha do céu brilhou em volta de mim.<sup>7</sup>Eu caí no chão e ouvi uma voz que me dizia: “Saulo, Saulo, por que você me persegue?”</p> <p><sup>8</sup>— Então eu perguntei: “Quem é o senhor?”</p> <p>— “Eu sou Jesus de Nazaré, aquele que você persegue!” — respondeu ele.</p> <p><sup>9</sup>— Os homens que viajavam comigo viram a luz, porém não ouviram a voz de quem falava comigo.<sup>10</sup>Eu perguntei: “Senhor, o que devo fazer?”</p> <p>— E o Senhor respondeu: “Levante-se e entre na cidade de Damasco. Ali alguém vai lhe dizer tudo o que Deus quer que você faça.”</p> <p><sup>11</sup>— Aquela luz brilhante tinha me deixado cego. Por isso os meus companheiros me pegaram pela mão e me levaram até Damasco.<sup>12</sup>Havia ali um homem chamado Ananias. Ele era religioso, obedecia à nossa Lei, e todos os judeus que moravam em Damasco o respeitavam.<sup>13</sup>Esse homem veio me procurar, chegou perto de mim e disse: “Irmão Saulo, veja de novo!”</p> <p>— No mesmo instante comecei a ver de novo e olhei para ele.<sup>14</sup>Então ele disse: “Saulo, o Deus dos nossos antepassados escolheu você para conhecer a vontade dele, para ver o seu Bom Servo e para ouvir o Servo falar com você pessoalmente.<sup>15</sup>Pois você será testemunha dele para dizer a todos aquilo que você tem visto e ouvido.<sup>16</sup>E agora não espere mais. Levante-se, peça a ajuda do Senhor e seja batizado, e os seus pecados serão perdoados.”</p> <h3>A missão de Paulo</h3> <p><sup>17</sup>E Paulo terminou, dizendo:</p> <p>— Então eu voltei para Jerusalém. Quando estava orando no Templo, tive uma visão.<sup>18</sup>Vi o Senhor, e ele me disse: “Saia depressa de Jerusalém porque as pessoas daqui não aceitarão o que você vai dizer a meu respeito.”</p> <p><sup>19</sup>— Eu respondi: “Senhor, eles sabem muito bem que eu ia às sinagogas, e prendia os que criam em ti, e batia neles.<sup>20</sup>Quando estavam matando Estêvão, que falava a respeito de ti, ó Senhor, eu estava ali, concordando com aquele crime. E até tomei conta das capas dos assassinos dele.”</p> <p><sup>21</sup>— Aí o Senhor disse: “Vá, pois eu vou enviá-lo para bem longe; vou enviá-lo aos não judeus.”</p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%2022:1-21&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Atos 22:1-21",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_20615-Acts7359-0-0",
+        "source": "arclight",
+        "refId": "2_20615-Acts7359-0-0",
+        "startTime": "0:45",
+        "endTime": "4:56",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Todos contam o que chamou mais a atenção para cada um (ou do que mais gostaram) e porquê."
+          },
+          {
+            "text": "Por que você acha que esta história é importante?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que ouvimos esta história (passagem)?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "A história de Paulo (testemunho) pode ser resumida em 3 partes:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Sua vida antes de conhecer a Cristo,"
+                  },
+                  {
+                    "text": "como ele conheceu Cristo, e"
+                  },
+                  {
+                    "text": "Sua vida após conhecer Cristo."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Esse padrão ainda é um meio eficaz para contar a outras pessoas o que Jesus fez em nossas vidas. Nossas histórias são um testemunho poderoso dos benefícios de conhecer o Senhor."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Dê um exemplo moderno contando sua própria história e destacando as 3 partesPeça para que pratiquem compartilhar suas história com um parceiro"
+                  },
+                  {
+                    "text": "Peça que escolham 1 palavra que descreva as 3 partes de suas histórias"
+                  },
+                  {
+                    "text": "Peça para que aumentem a descrição escrevendo 2-3 frases para cada uma das 3 partes"
+                  },
+                  {
+                    "text": "Deixe-os praticar contar suas histórias com um parceiro. Após 3 minutos, peça para que façam comentários sobre a história do parceiro e depois mude-os de lugar (o que contou agora escuta)."
+                  },
+                  {
+                    "text": "Se o tempo permitir, peça para trocarem de parceiros e repetir o mesmo processo"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique 5 pessoas de sua Lista de Relacionamentos com quem você tomará a iniciativa esta semana e tentará ministrar na vida delas."
+          },
+          {
+            "text": "Use o que você aprendeu esta semana com pelo menos 3 dessas pessoas."
+          },
+          {
+            "text": "Escreva suas declarações ‘Eu vou____” e compartilhe-as com seu pequeno grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Entregue as metas de todos ao Senhor. Peça ao Senhor para nos ajudar a sermos fiéis e para nos usar para iniciar um movimento de discipuladores."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply110-i-will"
+      }
+    }
+  ]
+}

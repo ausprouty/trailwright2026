@@ -1,0 +1,450 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply344",
+  "sortOrder": 50,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lisez un passage biblique et exécutez un chant d’adoration.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Facultatif) Jésus-Christ est Seigneur, à la gloire de Dieu le Père ; qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité. Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus-Christ homme, qui s’est donné lui-même en rançon pour tous. ({Philippiens 2:11}; {1 Timothée 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippiens 2:11",
+                    "label": "Philippiens 2:11",
+                    "passage": "<p><sup>11</sup>et que toute langue confesse que Jésus Christ est Seigneur, à la gloire de Dieu le Père.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timothée 2:4-6",
+                    "label": "1 Timothée 2:4-6",
+                    "passage": "<p><sup>4</sup>qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité.</p><p><sup>5</sup>Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus Christ homme,</p><p><sup>6</sup>qui s'est donné lui-même en rançon pour tous. C'est là le témoignage rendu en son propre temps,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation et encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Trouvez un moyen de projeter une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "un passage qui leur rappelle le cœur du Père et de la vision final."
+                  },
+                  {
+                    "text": "réfléchir sur des changements intervenus dans leur vie depuis qu’ils ont commencé à suivre Christ"
+                  },
+                  {
+                    "text": "leur rappeler ce que Dieu veut faire à travers eux"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Partagez la GRANDE vision</strong> <em>« une église pour chaque village et communauté, l’évangile pour chaque personne ».</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexte",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Demandez au groupe de raconter l’histoire de la semaine passée."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lisez",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Actes 21:27-36 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Actes 21:27-36",
+        "html": "<p><sup>27</sup>Sur la fin des sept jours, les Juifs d'Asie, ayant vu Paul dans le temple, soulevèrent toute la foule, et mirent la main sur lui,</p> <p><sup>28</sup>en criant: Hommes Israélites, au secours! Voici l'homme qui prêche partout et à tout le monde contre le peuple, contre la loi et contre ce lieu; il a même introduit des Grecs dans le temple, et a profané ce saint lieu.</p> <p><sup>29</sup>Car ils avaient vu auparavant Trophime d'Éphèse avec lui dans la ville, et ils croyaient que Paul l'avait fait entrer dans le temple.</p> <p><sup>30</sup>Toute la ville fut émue, et le peuple accourut de toutes parts. Ils se saisirent de Paul, et le traînèrent hors du temple, dont les portes furent aussitôt fermées.</p> <p><sup>31</sup>Comme ils cherchaient à le tuer, le bruit vint au tribun de la cohorte que tout Jérusalem était en confusion.</p> <p><sup>32</sup>A l'instant il prit des soldats et des centeniers, et courut à eux. Voyant le tribun et les soldats, ils cessèrent de frapper Paul.</p> <p><sup>33</sup>Alors le tribun s'approcha, se saisit de lui, et le fit lier de deux chaînes. Puis il demanda qui il était, et ce qu'il avait fait.</p> <p><sup>34</sup>Mais dans la foule les uns criaient d'une manière, les autres d'une autre; ne pouvant donc rien apprendre de certain, à cause du tumulte, il ordonna de le mener dans la forteresse.</p> <p><sup>35</sup>Lorsque Paul fut sur les degrés, il dut être porté par les soldats, à cause de la violence de la foule;</p> <p><sup>36</sup>car la multitude du peuple suivait, en criant: Fais-le mourir!</p>",
+        "url": "https://biblegateway.com/passage/?search=Actes%2021:27-36&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Actes 21:27-36",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_496-Acts7358-0-0",
+        "source": "arclight",
+        "refId": "2_496-Acts7358-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ? Pourquoi ?"
+          },
+          {
+            "text": "À ce niveau de l’histoire, qu’est-ce qui est nouveau ou est développé ?"
+          },
+          {
+            "text": "Quel modèle a été donné quant à la vie dépendante de l’Esprit, faire de disciples ou au leadership ?"
+          },
+          {
+            "text": "Comment pouvons-nous vivre différemment maintenant que nous connaissons cette histoire?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Des questions supplémentaires dont vous pouvez faire usage:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comment les disciples de Jésus poursuivent-ils Son œuvre de faire des disciples et d’implantation d’églises ?"
+          },
+          {
+            "text": "Comment l’évangile impacte-t-il les gens et la société ?"
+          },
+          {
+            "text": "Quels étaient les barrières et les obstacles qui ont été surmontés et comment ont-ils été surmontés ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Les Juifs de la province d'Asie connaissaient très bien Paul et Trophime en raison du long séjour de Paul à Éphèse. Ils ont saisi une occasion pour arrêter Paul en soulevant la foule contre lui. Lorsqu’ils sont venus contre Paul, il était effectivement dans le temple en train de pratiquer la purification que la loi juive exigeait. Les accusations des Juifs étaient fausses, mais leurs actions démontraient les malentendus courants qu’il y avait au sujet de ce que Paul enseignait. Les Juifs étaient tellement passionnés par leur religion qu'ils ont rapidement réagi avec violence. Le Seigneur a utilisé les autorités romaines pour sauver Paul des mains de la foule. Les prophéties données par l'Esprit se sont réalisées ({Actes 21: 4}, {Actes 21:11}) et les païens ont lié Paul avec les chaînes. Même au milieu de violentes persécutions, le Seigneur a accompli son dessein en protégeant la vie de Paul.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Actes 21: 4",
+                    "label": "Actes 21: 4",
+                    "passage": "<p><sup>4</sup>Nous trouvâmes les disciples, et nous restâmes là sept jours. Les disciples, poussés par l'Esprit, disaient à Paul de ne pas monter à Jérusalem.</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Actes 21:11",
+                    "label": "Actes 21:11",
+                    "passage": "<p><sup>11</sup>et vint nous trouver. Il prit la ceinture de Paul, se lia les pieds et les mains, et dit: Voici ce que déclare le Saint Esprit: L'homme à qui appartient cette ceinture, les Juifs le lieront de la même manière à Jérusalem, et le livreront entre les mains des païens.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratiquez ici la libéralité et la sainte-cène ou dans la section Se préparer pour la mission.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se préparer pour la mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez des gens vers qui ou des endroits où vous pouvez prendre l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez des promesses « Je ferai d’ici quand » et partagez cela avec votre petit groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bénédiction (facultatif)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply344-i-will"
+      }
+    }
+  ]
+}

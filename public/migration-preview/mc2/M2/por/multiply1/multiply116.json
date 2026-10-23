@@ -1,0 +1,387 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply116",
+  "sortOrder": 17,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Adoração",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia a Bíblia para fundamentar louvor e adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">Leia {Hebreus 13:14-15} e cante algumas músicas.</li> <li class=\"back\">(opcional) Use uma Declaração de Fé sobre Jesus como {Filipenses 2:11}b + {1 Timóteo 2:4-6}a. </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Hebreus 13:14-15",
+                    "label": "Hebreus 13:14-15",
+                    "passage": "<p><sup>14</sup>Porque neste mundo não temos nenhuma cidade que dure para sempre; pelo contrário, procuramos a cidade que virá depois.<sup>15</sup>Por isso, por meio de Jesus Cristo, ofereçamos sempre louvor a Deus. Esse louvor é o sacrifício que apresentamos, a oferta que é dada por lábios que confessam a sua fé nele.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>e declarem abertamente<br>que Jesus Cristo é o Senhor,<br>para a glória de Deus, o Pai.</p>"
+                  },
+                  {
+                    "id": "popup_pop3",
+                    "marker": "1 Timóteo 2:4-6",
+                    "label": "1 Timóteo 2:4-6",
+                    "passage": "<p><sup>4</sup>Ele quer que todos sejam salvos e venham a conhecer a verdade.</p><p><sup>5</sup>Pois existe um só Deus e uma só pessoa que une Deus com os seres humanos — o ser humano Cristo Jesus,<sup>6</sup>que deu a sua vida para que todos fiquem livres dos seus pecados. Esta foi a prova, dada no tempo certo, de que Deus quer que todos sejam salvos.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Sirvam uns aos outros através de oração, aconselhamento bíblico e encorajamento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça para cada pessoa compartilhar um ponto alto da semana e explicar um desafio pelo o qual passaram."
+          },
+          {
+            "text": "Pergunte, “O que você gostaria que Jesus fizesse por você esta semana?” Ore pelas necessidades uns dos outros."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pergunte, “O que aconteceu quando você confiou suas metas e suas declarações “Eu vou____” a Deus?”"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Esboce uma visão de quem eles podem se tornar em Cristo e o que Deus pode fazer através deles.</em>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Um versículo que os lembra do Coração do Pai e da visão final. Refletir na trans formação de suas vidas desde que começaram a seguir Cristo, lembrando do que Deus quer fazer através deles Compartilhe a GRANDE visão “Uma igreja para cada povoado e comunidade, e o evangelho compartilhado com cada pessoa”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Peça ao grupo para contar a história da lição anterior."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista a nova história duas vezes enquanto todos escutam"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Use as perguntas e histórias encontradas no Estudo da Vida de Cristo - Ser como Jesus: O Modelo de Reino"
+          },
+          {
+            "text": "Use as perguntas e histórias encontradas no estudo de Atos - Enviado como Jesus: O Reino em Expansão"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Resuma os principais pontos da discussão de descoberta."
+                  },
+                  {
+                    "text": "Leia o resumo do Guia do Facilitador."
+                  },
+                  {
+                    "text": "Inclua um verso ou versículo do resumo ou da história"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Pratique ofertar e comunhão aqui ou na seção \"Preparar para a Missão\""
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pratique as habilidades necessárias ou tópicos anteriores para ajudar na preparação ao ministrar para outras pessoas:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Oração, Cuidado, Compartilhar"
+                  },
+                  {
+                    "text": "Evangelho"
+                  },
+                  {
+                    "text": "Estudo Bíblico Fundamental."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pratique doar ou ofertar, conforme o combinado."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lembre do sacrifício de Jesus através de comunhão, se apropriado."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique 5 pessoas de sua Lista de Relacionamentos com quem você possa compartilhar esta história ou o evangelho esta semana."
+          },
+          {
+            "text": "Escreva suas declarações “Eu vou_____” e compartilhe-as com seu grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Entregue as metas de todos ao Senhor. Peça ao Senhor para nos ajudar a sermos fiéis e para nos usar para iniciar um movimento de discipuladores."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply116-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro0",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<span><span><span>Jesús fue enviado del cielo para una misión del reino global. Él comenzó Su ministerio con unos pocos discípulos que vinieron del ministerio de Juan el Bautista. El alcance declarado de Su obra era llegar a todas las ciudades de Israel ({Marcos 1:38}), </span></span></span> <span><span><span>pero Él estaba preparando a Sus seguidores para más. Él no sólo les enseñó verdades sobre el Reino, sino que, en Su humanidad, Él modeló a Sus seguidores una vida centrada en el Reino y dependiente del Espíritu. El ministerio de Jesús se extendió por todas partes seleccionando líderes y empoderándolos para ir a nuevos lugares. Luego, antes de Su muerte en la cruz, Jesús compartió con ellos todo el alcance de la misión del Reino: \"Este Evangelio del Reino será proclamado como un testimonio para todas las naciones, entonces vendrá el fin\". ({Mateo 24:14}). </span></span></span> <span><span><span>Su visión fue y sigue siendo el establecimiento del Reino de Dios entre los miles de grupos de personas en todo el mundo, donde su nombre sería honrado, y su voluntad sería hecha ({Mateo 6:9-10}). </span></span></span> <span><span><span>Jesús había mostrado a sus discípulos cómo conectarse con las personas perdidas, para hacer discípulos que también harían discípulos, y cómo identificar y entrenar a los líderes que irían a repetir este proceso en todos los grupos de personas. Lo que Jesús comenzó a hacer mientras estaba en la tierra, continuó desde el cielo a través de Sus seguidores llenos del Espíritu de acuerdo con Su promesa: \"Cualquiera que crea en mí hará las obras que he estado haciendo, y hará obras mayores que lo que he hecho\". ({Juan 14:12}); </span></span></span> <span><span><span> \"Es bueno para ti que me vaya. Te enviaré un Ayudante.\" ({Juan 16:7});</span></span></span> <span><span><span> \"... recibirás poder cuando el Espíritu Santo venga sobre ti; y ustedes serán mis testigos en Jerusalén, y en toda Judea y Samaria, y hasta los confines de la tierra.\" ({Hechos 1:8}).</span></span></span>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Marcos 1:38",
+            "label": "Marcos 1:38",
+            "passage": "<span><span><span><!-- begin bible --></span></span></span><p><span><span><span><sup>38</sup>Jesús respondió:</span></span></span></p><p><span><span><span>—Vámonos de aquí a otras aldeas cercanas donde también pueda predicar; para esto he venido.</span></span></span></p><span><span><span><!-- end bible --></span></span></span>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "Mateo 24:14",
+            "label": "Mateo 24:14",
+            "passage": "<span><span><span><!-- begin bible --></span></span></span><p><span><span><span><sup>14</sup>Y este evangelio del reino se predicará en todo el mundo como testimonio a todas las naciones, y entonces vendrá el fin.</span></span></span></p><span><span><span><!-- end bible --></span></span></span>"
+          },
+          {
+            "id": "popup_pop3",
+            "marker": "Mateo 6:9-10",
+            "label": "Mateo 6:9-10",
+            "passage": "<span><span><span><!-- begin bible --></span></span></span><div><p><span><span><span><sup>9</sup>»Ustedes deben orar así:</span></span></span></p><p><span><span><span>»“Padre nuestro que estás en el cielo,<br>santificado sea tu nombre,<br><sup>10</sup>venga tu reino,<br>hágase tu voluntad<br>en la tierra como en el cielo.</span></span></span></p></div><span><span><span><!-- end bible --></span></span></span>"
+          },
+          {
+            "id": "popup_pop4",
+            "marker": "Juan 14:12",
+            "label": "Juan 14:12",
+            "passage": "<span><span><span><!-- begin bible --></span></span></span><p><span><span><span><sup>12</sup>Ciertamente les aseguro que el que cree en mí las obras que yo hago también él las hará, y aun las hará mayores, porque yo vuelvo al Padre.</span></span></span></p><span><span><span><!-- end bible --></span></span></span>"
+          },
+          {
+            "id": "popup_pop6",
+            "marker": "Juan 16:7",
+            "label": "Juan 16:7",
+            "passage": "<span><span><span><!-- begin bible --></span></span></span><p><span><span><span><sup>7</sup>Pero les digo la verdad: Les conviene que me vaya porque, si no lo hago, el Consolador no vendrá a ustedes; en cambio, si me voy, se lo enviaré a ustedes.</span></span></span></p><span><span><span><!-- end bible --></span></span></span>"
+          },
+          {
+            "id": "popup_pop5",
+            "marker": "Hechos 1:8",
+            "label": "Hechos 1:8",
+            "passage": "<span><span><span><!-- begin bible --></span></span></span><p><span><span><span><sup>8</sup>Pero, cuando venga el Espíritu Santo sobre ustedes, recibirán poder y serán mis testigos tanto en Jerusalén como en toda Judea y Samaria, y hasta los confines de la tierra.</span></span></span></p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Esta es la historia de Hechos. Captura para nosotros el movimiento del Espíritu de Dios estableciendo y expandiendo el Reino a todos los pueblos. Sus discípulos comenzaron a vivir la vida dependiente del Espíritu que se les enseñó. También proporciona el contexto del movimiento que nos ayuda a aplicar el resto de las cartas del Nuevo Testamento a la misión de Jesús. A través de un período de sólo 30 años, se sentaron las bases para la expansión del Reino, que se caracterizó por su impacto en la sociedad y el desarrollo de nuevos discípulos y nuevas iglesias en todas partes."
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Los Viajes de Pablo",
+        "url": "https://www.youtube.com/watch?v=biTh0SIiHWQ",
+        "source": "youtube",
+        "refId": "",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "mutiply317",
+  "sortOrder": 19,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lisez un passage biblique et exécutez un chant d’adoration.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Facultatif) Jésus-Christ est Seigneur, à la gloire de Dieu le Père ; qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité. Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus-Christ homme, qui s’est donné lui-même en rançon pour tous. ({Philippiens 2:11}; {1 Timothée 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippiens 2:11",
+                    "label": "Philippiens 2:11",
+                    "passage": "<p><sup>11</sup>et que toute langue confesse que Jésus Christ est Seigneur, à la gloire de Dieu le Père.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timothée 2:4-6",
+                    "label": "1 Timothée 2:4-6",
+                    "passage": "<p><sup>4</sup>qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité.</p><p><sup>5</sup>Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus Christ homme,</p><p><sup>6</sup>qui s'est donné lui-même en rançon pour tous. C'est là le témoignage rendu en son propre temps,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation et encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Trouvez un moyen de projeter une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "un passage qui leur rappelle le cœur du Père et de la vision final."
+                  },
+                  {
+                    "text": "réfléchir sur des changements intervenus dans leur vie depuis qu’ils ont commencé à suivre Christ"
+                  },
+                  {
+                    "text": "leur rappeler ce que Dieu veut faire à travers eux"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Partagez la GRANDE vision</strong> <em>« une église pour chaque village et communauté, l’évangile pour chaque personne ».</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexte",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Demandez au groupe de raconter l’histoire de la semaine passée."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lisez",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Actes 9:20-31 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Actes 9:20-31",
+        "html": "<p><sup>20</sup>Et aussitôt il prêcha dans les synagogues que Jésus est le Fils de Dieu.</p> <p><sup>21</sup>Tous ceux qui l'entendaient étaient dans l'étonnement, et disaient: N'est-ce pas celui qui persécutait à Jérusalem ceux qui invoquent ce nom, et n'est-il pas venu ici pour les emmener liés devant les principaux sacrificateurs?</p> <p><sup>22</sup>Cependant Saul se fortifiait de plus en plus, et il confondait les Juifs qui habitaient Damas, démontrant que Jésus est le Christ.</p> <p><sup>23</sup>Au bout d'un certain temps, les Juifs se concertèrent pour le tuer,</p> <p><sup>24</sup>et leur complot parvint à la connaissance de Saul. On gardait les portes jour et nuit, afin de lui ôter la vie.</p> <p><sup>25</sup>Mais, pendant une nuit, les disciples le prirent, et le descendirent par la muraille, dans une corbeille.</p> <p><sup>26</sup>Lorsqu'il se rendit à Jérusalem, Saul tâcha de se joindre à eux; mais tous le craignaient, ne croyant pas qu'il fût un disciple.</p> <p><sup>27</sup>Alors Barnabas, l'ayant pris avec lui, le conduisit vers les apôtres, et leur raconta comment sur le chemin Saul avait vu le Seigneur, qui lui avait parlé, et comment à Damas il avait prêché franchement au nom de Jésus.</p> <p><sup>28</sup>Il allait et venait avec eux dans Jérusalem, et s'exprimait en toute assurance au nom du Seigneur.</p> <p><sup>29</sup>Il parlait aussi et disputait avec les Hellénistes; mais ceux-ci cherchaient à lui ôter la vie.</p> <p><sup>30</sup>Les frères, l'ayant su, l'emmenèrent à Césarée, et le firent partir pour Tarse.</p> <p><sup>31</sup>L'Église était en paix dans toute la Judée, la Galilée et la Samarie, s'édifiant et marchant dans la crainte du Seigneur, et elle s'accroissait par l'assistance du Saint Esprit.</p>",
+        "url": "https://biblegateway.com/passage/?search=Actes%209:20-31&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Actes 9:20-31",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_496-Acts7324-0-0",
+        "source": "arclight",
+        "refId": "2_496-Acts7324-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ? Pourquoi ?"
+          },
+          {
+            "text": "À ce niveau de l’histoire, qu’est-ce qui est nouveau ou est développé ?"
+          },
+          {
+            "text": "Quel modèle a été donné quant à la vie dépendante de l’Esprit, faire de disciples ou au leadership ?"
+          },
+          {
+            "text": "Comment pouvons-nous vivre différemment maintenant que nous connaissons cette histoire?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Des questions supplémentaires dont vous pouvez faire usage:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comment les disciples de Jésus poursuivent-ils Son œuvre de faire des disciples et d’implantation d’églises ?"
+          },
+          {
+            "text": "Comment l’évangile impacte-t-il les gens et la société ?"
+          },
+          {
+            "text": "Quels étaient les barrières et les obstacles qui ont été surmontés et comment ont-ils été surmontés ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Les croyants de Damas étaient étonnés au sujet de Saul. Au lieu de les arrêter, Saul a commencé par prêcher Jésus comme étant le Fils vivant De Dieu. Les études avancées de Saul lui ont permis d’appliquer immédiatement sa connaissance de l’Écriture pour donner une preuve convaincante que Jésus était le Messie promis. Jésus a enseigné que les gens qui sont dotés de telle connaissance étaient capables de ressortir des trésors de l’Ancien Testament et de nouveaux enseignements sur le Royaume ({Matthieu 13 :52}). Saul était si convaincant dans sa déclaration de témoin que les Juifs ont du mal à trouver des arguments pour le conteste. Ils essayaient donc de le tuer à Damas. Quand Saul est venu en Jérusalem, seul Barnabas l’a accepté et l’a conduit vers les Apôtres. La vie de Saul était encore menacée, donc les disciples le font partir, pour Tarse, sa ville natale dans la province de Cilicie située à environ 930 km du Nord-Est de Jérusalem. Cette histoire comprend la deuxième déclaration sommaire trouvée dans le livre des Actes : l’église était en paix et s’accroissait en nombre en marchant dans la crainte et la puissance de Dieu ({Actes 9 :31}).",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Matthieu 13 :52",
+                    "label": "Matthieu 13 :52",
+                    "passage": "<p><sup>52</sup>Et il leur dit: C'est pourquoi, tout scribe instruit de ce qui regarde le royaume des cieux est semblable à un maître de maison qui tire de son trésor des choses nouvelles et des choses anciennes.</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Actes 9 :31",
+                    "label": "Actes 9 :31",
+                    "passage": "<p><sup>31</sup>L'Église était en paix dans toute la Judée, la Galilée et la Samarie, s'édifiant et marchant dans la crainte du Seigneur, et elle s'accroissait par l'assistance du Saint Esprit.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratiquez ici la libéralité et la sainte-cène ou dans la section Se préparer pour la mission.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se préparer pour la mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez des gens vers qui ou des endroits où vous pouvez prendre l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez des promesses « Je ferai d’ici quand » et partagez cela avec votre petit groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bénédiction (facultatif)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-mutiply317-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply110a",
+  "sortOrder": 12,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "（一）信主前的生命境况为何？"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "（信耶稣之前，你对属灵的事情，如对神、对永恒、对未来、对罪、对审判、对基督教…等等的看法如何？你对你的人生觉得如何？你的生命态度为何？…）"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "（二）信主的过程如何？"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "（什么事引起你渴慕追求属灵的真理？你怎样接触福音？什么信息/内容使你相信耶稣基督能拯救你？那段经文深深打动你的心？你怎么做出信主的决定?...）"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "（三）信主后属灵生命有何改变？"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "（ 信了耶稣后，你的价值观有何改变？你与耶稣的关系如何？你对属灵事物有何新的看法？你的属灵生命如何成长？你对亲朋邻舍的救恩有何新的看法？…）"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    }
+  ]
+}

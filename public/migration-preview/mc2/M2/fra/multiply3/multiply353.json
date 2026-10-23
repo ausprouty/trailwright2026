@@ -1,0 +1,444 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply353",
+  "sortOrder": 59,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lisez un passage biblique et exécutez un chant d’adoration.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Facultatif) Jésus-Christ est Seigneur, à la gloire de Dieu le Père ; qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité. Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus-Christ homme, qui s’est donné lui-même en rançon pour tous. ({Philippiens 2:11}; {1 Timothée 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippiens 2:11",
+                    "label": "Philippiens 2:11",
+                    "passage": "<p><sup>11</sup>et que toute langue confesse que Jésus Christ est Seigneur, à la gloire de Dieu le Père.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timothée 2:4-6",
+                    "label": "1 Timothée 2:4-6",
+                    "passage": "<p><sup>4</sup>qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité.</p><p><sup>5</sup>Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus Christ homme,</p><p><sup>6</sup>qui s'est donné lui-même en rançon pour tous. C'est là le témoignage rendu en son propre temps,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation et encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Trouvez un moyen de projeter une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "un passage qui leur rappelle le cœur du Père et de la vision final."
+                  },
+                  {
+                    "text": "réfléchir sur des changements intervenus dans leur vie depuis qu’ils ont commencé à suivre Christ"
+                  },
+                  {
+                    "text": "leur rappeler ce que Dieu veut faire à travers eux"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Partagez la GRANDE vision</strong> <em>« une église pour chaque village et communauté, l’évangile pour chaque personne ».</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexte",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Demandez au groupe de raconter l’histoire de la semaine passée."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lisez",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Actes 28:1-10 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Actes 28:1-10",
+        "html": "<p><sup>1</sup>Après nous être sauvés, nous reconnûmes que l'île s'appelait Malte.</p> <p><sup>2</sup>Les barbares nous témoignèrent une bienveillance peu commune; ils nous recueillirent tous auprès d'un grand feu, qu'ils avaient allumé parce que la pluie tombait et qu'il faisait grand froid.</p> <p><sup>3</sup>Paul ayant ramassé un tas de broussailles et l'ayant mis au feu, une vipère en sortit par l'effet de la chaleur et s'attacha à sa main.</p> <p><sup>4</sup>Quand les barbares virent l'animal suspendu à sa main, ils se dirent les uns aux autres: Assurément cet homme est un meurtrier, puisque la Justice n'a pas voulu le laisser vivre, après qu'il a été sauvé de la mer.</p> <p><sup>5</sup>Paul secoua l'animal dans le feu, et ne ressentit aucun mal.</p> <p><sup>6</sup>Ces gens s'attendaient à le voir enfler ou tomber mort subitement; mais, après avoir longtemps attendu, voyant qu'il ne lui arrivait aucun mal, ils changèrent d'avis et dirent que c'était un dieu.</p> <p><sup>7</sup>Il y avait, dans les environs, des terres appartenant au principal personnage de l'île, nommé Publius, qui nous reçut et nous logea pendant trois jours de la manière la plus amicale.</p> <p><sup>8</sup>Le père de Publius était alors au lit, malade de la fièvre et de la dysenterie; Paul, s'étant rendu vers lui, pria, lui imposa les mains, et le guérit.</p> <p><sup>9</sup>Là-dessus, vinrent les autres malades de l'île, et ils furent guéris.</p> <p><sup>10</sup>On nous rendit de grands honneurs, et, à notre départ, on nous fournit les choses dont nous avions besoin.</p>",
+        "url": "https://biblegateway.com/passage/?search=Actes%2028:1-10&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Actes 28:1-10",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_496-Acts7371-0-0",
+        "source": "arclight",
+        "refId": "2_496-Acts7371-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ? Pourquoi ?"
+          },
+          {
+            "text": "À ce niveau de l’histoire, qu’est-ce qui est nouveau ou est développé ?"
+          },
+          {
+            "text": "Quel modèle a été donné quant à la vie dépendante de l’Esprit, faire de disciples ou au leadership ?"
+          },
+          {
+            "text": "Comment pouvons-nous vivre différemment maintenant que nous connaissons cette histoire?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Des questions supplémentaires dont vous pouvez faire usage:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comment les disciples de Jésus poursuivent-ils Son œuvre de faire des disciples et d’implantation d’églises ?"
+          },
+          {
+            "text": "Comment l’évangile impacte-t-il les gens et la société ?"
+          },
+          {
+            "text": "Quels étaient les barrières et les obstacles qui ont été surmontés et comment ont-ils été surmontés ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Lisez {Romains 8: 28-39}. Même si, aux yeux de l’homme, c’était un arrêt imprévu et indésirable, cela faisait partie du plan souverain de Dieu. Quelles que soient les circonstances, Paul recherchait la bonté et le dessein de Dieu. Dans la dépendance du Saint-Esprit, il était intentionnel dans ses relations et obéissant au programme du Royaume de Jésus pendant qu’il faisait le ministère auprès de ceux qui l’entouraient. Le Seigneur a même protégé Paul de manière surnaturelle d'une morsure de serpent venimeux. Le terrible désastre du naufrage s'est avéré être une bénédiction pour le peuple de Malte, et le Seigneur a reçu la gloire. Même sur cette île éloignée, Paul a trouvé une personne de paix préparée par Dieu, le principal personnage de l’ïle, Publius. La maison de Publius est devenue un centre de ministère pendant les trois mois qu'ils sont restés sur l'île. Publius était si reconnaissant au point où il fournit tout ce dont Paul, ses compagnons et les soldats avaient besoin pour se rendre à Rome. Le Seigneur a non seulement sauvé la vie de ceux qui ont fait naufrage et de ceux de l'île, mais il a également restauré tout ce qui avait été perdu pendant la tempête.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Romains 8: 28-39",
+                    "label": "Romains 8: 28-39",
+                    "passage": "<p><sup>28</sup>Nous savons, du reste, que toutes choses concourent au bien de ceux qui aiment Dieu, de ceux qui sont appelés selon son dessein.</p><p><sup>29</sup>Car ceux qu'il a connus d'avance, il les a aussi prédestinés à être semblables à l'image de son Fils, afin que son Fils fût le premier-né entre plusieurs frères.</p><p><sup>30</sup>Et ceux qu'il a prédestinés, il les a aussi appelés; et ceux qu'il a appelés, il les a aussi justifiés; et ceux qu'il a justifiés, il les a aussi glorifiés.</p><p><sup>31</sup>Que dirons-nous donc à l'égard de ces choses? Si Dieu est pour nous, qui sera contre nous?</p><p><sup>32</sup>Lui, qui n'a point épargné son propre Fils, mais qui l'a livré pour nous tous, comment ne nous donnera-t-il pas aussi toutes choses avec lui?</p><p><sup>33</sup>Qui accusera les élus de Dieu? C'est Dieu qui justifie!</p><p><sup>34</sup>Qui les condamnera? Christ est mort; bien plus, il est ressuscité, il est à la droite de Dieu, et il intercède pour nous!</p><p><sup>35</sup>Qui nous séparera de l'amour de Christ? Sera-ce la tribulation, ou l'angoisse, ou la persécution, ou la faim, ou la nudité, ou le péril, ou l'épée?</p><p><sup>36</sup>selon qu'il est écrit: C'est à cause de toi qu'on nous met à mort tout le jour, Qu'on nous regarde comme des brebis destinées à la boucherie.</p><p><sup>37</sup>Mais dans toutes ces choses nous sommes plus que vainqueurs par celui qui nous a aimés.</p><p><sup>38</sup>Car j'ai l'assurance que ni la mort ni la vie, ni les anges ni les dominations, ni les choses présentes ni les choses à venir,</p><p><sup>39</sup>ni les puissances, ni la hauteur, ni la profondeur, ni aucune autre créature ne pourra nous séparer de l'amour de Dieu manifesté en Jésus Christ notre Seigneur.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratiquez ici la libéralité et la sainte-cène ou dans la section Se préparer pour la mission.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se préparer pour la mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez des gens vers qui ou des endroits où vous pouvez prendre l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez des promesses « Je ferai d’ici quand » et partagez cela avec votre petit groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bénédiction (facultatif)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply353-i-will"
+      }
+    }
+  ]
+}

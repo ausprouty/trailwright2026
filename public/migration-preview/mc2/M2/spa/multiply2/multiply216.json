@@ -1,0 +1,457 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply216",
+  "sortOrder": 20,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Opcional) Jesucristo es el Señor, para la gloria de Dios Padre. Él quiere que todos los hombres sean salvos y lleguen al conocimiento de la verdad. Porque hay un solo Dios y un mediador también entre Dios y el hombre, el hombre Jesucristo, que se entregó a sí mismo como rescate por todos. ({Filipenses 2:11}; {1 Timoteo 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>y toda lengua confiese que Jesucristo es el Señor,<br>para gloria de Dios Padre.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timoteo 2:4-6",
+                    "label": "1 Timoteo 2:4-6",
+                    "passage": "<p><sup>4</sup>pues él quiere que todos sean salvos y lleguen a conocer la verdad.<sup>5</sup>Porque hay un solo Dios y un solo mediador entre Dios y los hombres, Jesucristo hombre,<sup>6</sup>quien dio su vida como rescate por todos. Este testimonio Dios lo ha dado a su debido tiempo,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidar",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar las necesidades de los demás en oración, consejo bíblico y ánimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrar la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunte: ¿Qué pasó cuando confiaste en Dios tus metas y tus declaraciones: Yo haré… cuándo…'\" ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivar y animar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Elija una manera de proyectar la visión de quiénes pueden llegar a ser en Cristo o de lo que Dios puede hacer a través de ellos, mediante :</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "un versículo bíblico que les recuerde el corazón del Padre y la visión,"
+                  },
+                  {
+                    "text": "una reflexión sobre los cambios en sus vidas desde que comenzaron a seguir a Cristo,"
+                  },
+                  {
+                    "text": "un recordatorio de lo que Dios quiere hacer a través de ellos."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Nuestra visión es : \"<em>Una iglesia para cada ciudad y comunidad, y el Evangelio para cada persona”</em>"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-4"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando hacia arriba",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídale al grupo que cuente la historia de la semana pasada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Mateo 4:12-17</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Mateo 4:12-17",
+        "html": "<div> <h3>Jesús comienza a predicar</h3> <p><sup>12</sup>Cuando Jesús oyó que habían encarcelado a Juan, regresó a Galilea.<sup>13</sup>Partió de Nazaret y se fue a vivir a Capernaúm, que está junto al lago en la región de Zabulón y de Neftalí,<sup>14</sup>para cumplir lo dicho por el profeta Isaías:</p> <p><sup>15</sup>«Tierra de Zabulón y tierra de Neftalí,<br> camino del mar, al otro lado del Jordán,<br> Galilea de los gentiles;<br> <sup>16</sup>el pueblo que habitaba en la oscuridad<br> ha visto una gran luz;<br> sobre los que vivían en densas tinieblas<br> la luz ha resplandecido».</p> </div> <p><sup>17</sup>Desde entonces comenzó Jesús a predicar: «Arrepiéntanse, porque el reino de los cielos está cerca».</p>",
+        "url": "https://biblegateway.com/passage/?search=Mateo%204:12-17&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Mateo 4:12-17",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_21028-GOMatt2502",
+        "source": "arclight",
+        "refId": "6_21028-GOMatt2502",
+        "startTime": "5:16",
+        "endTime": "6:03",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de descubrimiento (todos responden)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué llamó tu atención o qué fue lo que más te gustó? ¿Por qué?"
+          },
+          {
+            "text": "¿Hay algo nuevo o qué se ha desarrollado hasta este punto en la historia de Jesús?"
+          },
+          {
+            "text": "¿Qué aprendemos sobre la humanidad o divinidad de Jesús en este pasaje?"
+          },
+          {
+            "text": "¿Cómo podemos vivir de manera diferente ahora que conocemos esta historia?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Preguntas adicionales:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué están aprendiendo sus seguidores?"
+          },
+          {
+            "text": "¿Qué nos está modelando Jesús sobre la vida y el ministerio, o sobre el liderazgo piadoso?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia nuevamente. Pida que alguien cuente la historia y que el grupo corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesús ahora se mueve en un período de transición en Su ministerio. Al comienzo de este período, Juan fue puesto en prisión y esto llevó a Jesús a trasladarse al norte de Galilea. Jesús fue entonces rechazado en su pueblo natal de Nazaret. Se traslada, eligiendo la ciudad de Capernaum en la orilla del lago como su nueva base de operaciones. Este es un lugar estratégico, ya que se encuentra en una de las principales carreteras internacionales de la época. La fama de Jesús está creciendo y extendiéndose. Con Juan el Bautista ahora en prisión, hay una transición del liderazgo del mensaje del Reino. Jesús comienza a enfocar Su mensaje en el mismo mensaje que Juan tenía, “arrepentirse porque el reino de los cielos está cerca\"."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Estudio adicional: {Marcos 1:14-15}.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Marcos 1:14-15",
+                    "label": "Marcos 1:14-15",
+                    "passage": "<p><sup>14</sup>Después de que encarcelaron a Juan, Jesús se fue a Galilea a anunciar las buenas nuevas de Dios.<sup>15</sup>«Se ha cumplido el tiempo —decía—. El reino de Dios está cerca. ¡Arrepiéntanse y crean las buenas nuevas!»</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Si su grupo tiene la práctica de hacerlo, este es un buen momento para practicar el dar y celebrar la Santa Cena, o hacerlo en la sección de Preparación para la Misión; de lo contrario, anímeles a participar de ellas en la congregación local.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Practique las habilidades necesarias o temas previos para ayudar a prepararse para ministrar a los demás:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar, Compartir"
+                  },
+                  {
+                    "text": "Compartir el Evangelio"
+                  },
+                  {
+                    "text": "Estudios Bíblicos Fundacionales"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica personas o lugares a los que tomarás la iniciativa de ministrar esta semana."
+          },
+          {
+            "text": "Escriba sus declaraciones de “Yo haré…para cuando…” y compártala en su pequeño grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orar por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos con el Señor. Pídele al Señor que nos ayude a ser fieles y úsanos para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bendición (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply216-i-will"
+      }
+    }
+  ]
+}

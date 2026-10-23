@@ -1,0 +1,41 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply109",
+  "sortOrder": 9,
+  "blocks": [
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<div class=\"lesson\"><img class=\"lesson-icon\" src=\"/sites/mc2/images/standard/look-back.png\"> <div class=\"lesson-subtitle\">Regarder Derrière</div> </div> <div class=\"reveal\"> <hr> <h2>Louange</h2> <p>Lisez un passage biblique et exécutez un chant d’adoration.</p> <ul> <li>Exemple: Lisez {Romains 11:33-36} et exécutez 1-2 chants. </li> </ul> <hr></div> <ul> </ul> <h2>Soin</h2> <p>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</p> <ul> <li>Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine.</li> <li>Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels.</li> </ul> <h2>Célébrer la Fidélité</h2> <p>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour</p> <ul> <li>Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »</li> </ul> <div class=\"reveal\"> <hr> <h2>Projection de Vision</h2> <p>Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux.</p> <p>Exemple: Dieu change les vies et les utilise pour Sa gloire. Un exemple est l'histoire d'un homme du Moyen-Orient nommé Adam. Il a été formé pour être un martyr pour sa religion. Mais tout cela a changé une nuit lorsqu’il a rencontré Christ de façon dramatique. Il était tellement enthousiasmé par sa nouvelle relation avec Christ, qu’il a commencé à témoigner à tous ceux qu'il connaissait. Malgré sa persécution, il continue de partager l'Évangile et de former les autres. Encouragez-les en lisant{1 Corinthiens 1: 24-31}.</p> </div>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Romains 11:33-36",
+            "label": "Romains 11:33-36",
+            "passage": "<p><sup>33</sup>O profondeur de la richesse, de la sagesse et de la science de Dieu! Que ses jugements sont insondables, et ses voies incompréhensibles! Car</p><p><sup>34</sup>Qui a connu la pensée du Seigneur, Ou qui a été son conseiller?</p><p><sup>35</sup>Qui lui a donné le premier, pour qu'il ait à recevoir en retour?</p><p><sup>36</sup>C'est de lui, par lui, et pour lui que sont toutes choses. A lui la gloire dans tous les siècles! Amen!</p>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "1 Corinthiens 1: 24-31",
+            "label": "1 Corinthiens 1: 24-31",
+            "passage": "<p><sup>24</sup>mais puissance de Dieu et sagesse de Dieu pour ceux qui sont appelés, tant Juifs que Grecs.</p><p><sup>25</sup>Car la folie de Dieu est plus sage que les hommes, et la faiblesse de Dieu est plus forte que les hommes.</p><p><sup>26</sup>Considérez, frères, que parmi vous qui avez été appelés il n'y a ni beaucoup de sages selon la chair, ni beaucoup de puissants, ni beaucoup de nobles.</p><p><sup>27</sup>Mais Dieu a choisi les choses folles du monde pour confondre les sages; Dieu a choisi les choses faibles du monde pour confondre les fortes;</p><p><sup>28</sup>et Dieu a choisi les choses viles du monde et celles qu'on méprise, celles qui ne sont point, pour réduire à néant celles qui sont,</p><p><sup>29</sup>afin que nulle chair ne se glorifie devant Dieu.</p><p><sup>30</sup>Or, c'est par lui que vous êtes en Jésus Christ, lequel, de par Dieu, a été fait pour nous sagesse, justice et sanctification et rédemption,</p><p><sup>31</sup>afin, comme il est écrit, Que celui qui se glorifie se glorifie dans le Seigneur.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    }
+  ]
+}

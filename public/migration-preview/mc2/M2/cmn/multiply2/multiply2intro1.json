@@ -1,0 +1,64 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply2intro1",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img src=\"/sites/mc2/content/M2/cmn/images/custom/image13.png\"></span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "这段时期从耶稣在公元前4年左右出生到大约30岁，其特点如下："
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li>成为祂要倍增别人的榜样</li> <li>为敬虔生命和倍增运动做准备</li> 耶稣在人生的首30年里，“渐渐长大成”（{路加福音2:40}, {路加福音2:51-52}） 祂将在其他人中所倍增的人。这一切都发生在祂开始公开事工之前。从祂开始传道，很显然地，耶稣一直祈祷、计划并澄清祂的事工将会是什么，以及祂将如何去做。",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "路加福音2:40",
+            "label": "路加福音2:40",
+            "passage": "<p><sup>40</sup>孩子渐渐长大，强健起来，充满智慧，又有神的恩在他身上。</p>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "路加福音2:51-52",
+            "label": "路加福音2:51-52",
+            "passage": "<p><sup>51</sup>他就同他们下去，回到拿撒勒，并且顺从他们。他母亲把这一切的事都存在心里。</p><p><sup>52</sup>耶稣的智慧和身量，并神和人喜爱他的心，都一齐增长。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "祂心中的热忱很单纯。祂的目标很清晰。祂决定的事工过程也很简单。祂与失丧者连接，得着他们，建立他们成为门徒，训练他们成为得人的渔夫，并差派他们以同样的过程去倍增其他人。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "耶稣定意去寻找祂父所预备的人并借着他们作成祂的工。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"Map1\" src=\"/sites/mc2/content/M2/cmn/multiply2/M2map.png\"></span>"
+      }
+    }
+  ]
+}

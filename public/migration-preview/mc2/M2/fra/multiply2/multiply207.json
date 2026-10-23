@@ -1,0 +1,366 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply207",
+  "sortOrder": 10,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lisez un passage biblique et exécutez un chant d’adoration."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la Fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Projection de Vision",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Luc 4:1-13 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luc 4:1-13",
+        "html": "<p><sup>1</sup>Jésus, rempli du Saint Esprit, revint du Jourdain, et il fut conduit par l'Esprit dans le désert,</p> <p><sup>2</sup>où il fut tenté par le diable pendant quarante jours. Il ne mangea rien durant ces jours-là, et, après qu'ils furent écoulés, il eut faim.</p> <p><sup>3</sup>Le diable lui dit: Si tu es Fils de Dieu, ordonne à cette pierre qu'elle devienne du pain.</p> <p><sup>4</sup>Jésus lui répondit: Il est écrit: L'Homme ne vivra pas de pain seulement.</p> <p><sup>5</sup>Le diable, l'ayant élevé, lui montra en un instant tous les royaumes de la terre,</p> <p><sup>6</sup>et lui dit: Je te donnerai toute cette puissance, et la gloire de ces royaumes; car elle m'a été donnée, et je la donne à qui je veux.</p> <p><sup>7</sup>Si donc tu te prosternes devant moi, elle sera toute à toi.</p> <p><sup>8</sup>Jésus lui répondit: Il est écrit: Tu adoreras le Seigneur, ton Dieu, et tu le serviras lui seul.</p> <p><sup>9</sup>Le diable le conduisit encore à Jérusalem, le plaça sur le haut du temple, et lui dit: Si tu es Fils de Dieu, jette-toi d'ici en bas; car il est écrit:</p> <p><sup>10</sup>Il donnera des ordres à ses anges à ton sujet, Afin qu'ils te gardent;</p> <p><sup>11</sup>et: Ils te porteront sur les mains, De peur que ton pied ne heurte contre une pierre.</p> <p><sup>12</sup>Jésus lui répondit: Il es dit: Tu ne tenteras point le Seigneur, ton Dieu.</p> <p><sup>13</sup>Après l'avoir tenté de toutes ces manières, le diable s'éloigna de lui jusqu'à un moment favorable.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%204:1-13&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luc 4:1-13",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOLuke2604",
+        "source": "arclight",
+        "refId": "6_496-GOLuke2604",
+        "startTime": "start",
+        "endTime": "1:51",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de Découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Etudiez chaque passage en utilisant les questions de discussion suivantes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ?"
+          },
+          {
+            "text": "Qu’est ce qui est nouveau ou s’est développé à ce point de l’histoire de Jésus?"
+          },
+          {
+            "text": "Quelle implication du point de vue de l’humanité ou de la divinité de Jésus voyez-vous dans ce passage ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Questions supplémentaires que vous pouvez poser:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce que ses disciples apprennent?"
+          },
+          {
+            "text": "Qu’est-ce que Jésus est en train de nous montrer au sujet de sa vie et de son ministère (ou leadership) ?"
+          },
+          {
+            "text": "Qu’est ce que Jésus est en train de montrer au sujet du leadership empreint de piété ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jésus était conduit dans le désert afin d’être tenté par Satan lui-même. Après 40 jours de tentation de toutes sortes, l’ennemi vient à nouveau à Jésus. Jésus est maintenant faible, fatigué et il a incroyablement faim. La tentation de Satan était une attaque directe de la vérité de la Parole de Dieu. C’est la stratégie de Satan depuis le commencement quand il l’a utilisée avec Adam et Eve (Genèse 3). Jésus nous montre comment citer la promesse de Dieu pour contrer les attaques de l’ennemi."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Pour une étude approfondie : {Matthieu 4:1-11}.",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Matthieu 4:1-11",
+                    "label": "Matthieu 4:1-11",
+                    "passage": "<p><sup>1</sup>Alors Jésus fut emmené par l'Esprit dans le désert, pour être tenté par le diable.</p><p><sup>2</sup>Après avoir jeûné quarante jours et quarante nuits, il eut faim.</p><p><sup>3</sup>Le tentateur, s'étant approché, lui dit: Si tu es Fils de Dieu, ordonne que ces pierres deviennent des pains.</p><p><sup>4</sup>Jésus répondit: Il est écrit: L'homme ne vivra pas de pain seulement, mais de toute parole qui sort de la bouche de Dieu.</p><p><sup>5</sup>Le diable le transporta dans la ville sainte, le plaça sur le haut du temple,</p><p><sup>6</sup>et lui dit: Si tu es Fils de Dieu, jette-toi en bas; car il est écrit: Il donnera des ordres à ses anges à ton sujet; Et ils te porteront sur les mains, De peur que ton pied ne heurte contre une pierre.</p><p><sup>7</sup>Jésus lui dit: Il est aussi écrit: Tu ne tenteras point le Seigneur, ton Dieu.</p><p><sup>8</sup>Le diable le transporta encore sur une montagne très élevée, lui montra tous les royaumes du monde et leur gloire,</p><p><sup>9</sup>et lui dit: Je te donnerai toutes ces choses, si tu te prosternes et m'adores.</p><p><sup>10</sup>Jésus lui dit: Retire-toi, Satan! Car il est écrit: Tu adoreras le Seigneur, ton Dieu, et tu le serviras lui seul.</p><p><sup>11</sup>Alors le diable le laissa. Et voici, des anges vinrent auprès de Jésus, et le servaient.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se Préparer pour la Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez 5 personnes de votre Liste de Réseau envers qui vous prendrez l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez les promesses « je le ferai d’ici quand » et parlez-en à votre groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply207-i-will"
+      }
+    }
+  ]
+}

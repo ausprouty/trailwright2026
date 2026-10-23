@@ -1,0 +1,57 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro2",
+  "sortOrder": 15,
+  "blocks": [
+    {
+      "type": "header",
+      "data": {
+        "text": "Le cœur de Jésus pour tout le monde (les barrières interculturelles)",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "[32-45 ap .J.-C.]"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Résumé",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Cette période couvre environ 12 années de croissances et de ministère. Elle est marquée par le passage de nouvelles barrières culturelles lorsque Jésus oriente les croyants à aller en dehors de Jérusalem pour faire des disciples. Faire des disciples et l’implantation d’église se répandaient de Jérusalem dans la Judée, la Samarie et dans le monde Païen."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Les lettres écrites pendant cette période",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Jacques, au milieu des années 40<br>"
+          }
+        ]
+      }
+    }
+  ]
+}

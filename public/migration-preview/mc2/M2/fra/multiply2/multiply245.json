@@ -1,0 +1,348 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply245",
+  "sortOrder": 50,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lisez un passage biblique et exécutez un chant d’adoration."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la Fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Projection de Vision",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Luc 19:1-27 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luc 19:1-27",
+        "html": "<p><sup>1</sup>Jésus, étant entré dans Jéricho, traversait la ville.</p> <p><sup>2</sup>Et voici, un homme riche, appelé Zachée, chef des publicains, cherchait à voir qui était Jésus;</p> <p><sup>3</sup>mais il ne pouvait y parvenir, à cause de la foule, car il était de petite taille.</p> <p><sup>4</sup>Il courut en avant, et monta sur un sycomore pour le voir, parce qu'il devait passer par là.</p> <p><sup>5</sup>Lorsque Jésus fut arrivé à cet endroit, il leva les yeux et lui dit: Zachée, hâte-toi de descendre; car il faut que je demeure aujourd'hui dans ta maison.</p> <p><sup>6</sup>Zachée se hâta de descendre, et le reçut avec joie.</p> <p><sup>7</sup>Voyant cela, tous murmuraient, et disaient: Il est allé loger chez un homme pécheur.</p> <p><sup>8</sup>Mais Zachée, se tenant devant le Seigneur, lui dit: Voici, Seigneur, je donne aux pauvres la moitié de mes biens, et, si j'ai fait tort de quelque chose à quelqu'un, je lui rends le quadruple.</p> <p><sup>9</sup>Jésus lui dit: Le salut est entré aujourd'hui dans cette maison, parce que celui-ci est aussi un fils d'Abraham.</p> <p><sup>10</sup>Car le Fils de l'homme est venu chercher et sauver ce qui était perdu.</p> <p><sup>11</sup>Ils écoutaient ces choses, et Jésus ajouta une parabole, parce qu'il était près de Jérusalem, et qu'on croyait qu'à l'instant le royaume de Dieu allait paraître.</p> <p><sup>12</sup>Il dit donc: Un homme de haute naissance s'en alla dans un pays lointain, pour se faire investir de l'autorité royale, et revenir ensuite.</p> <p><sup>13</sup>Il appela dix de ses serviteurs, leur donna dix mines, et leur dit: Faites-les valoir jusqu'à ce que je revienne.</p> <p><sup>14</sup>Mais ses concitoyens le haïssaient, et ils envoyèrent une ambassade après lui, pour dire: Nous ne voulons pas que cet homme règne sur nous.</p> <p><sup>15</sup>Lorsqu'il fut de retour, après avoir été investi de l'autorité royale, il fit appeler auprès de lui les serviteurs auxquels il avait donné l'argent, afin de connaître comment chacun l'avait fait valoir.</p> <p><sup>16</sup>Le premier vint, et dit: Seigneur, ta mine a rapporté dix mines.</p> <p><sup>17</sup>Il lui dit: C'est bien, bon serviteur; parce que tu as été fidèle en peu de chose, reçois le gouvernement de dix villes.</p> <p><sup>18</sup>Le second vint, et dit: Seigneur, ta mine a produit cinq mines.</p> <p><sup>19</sup>Il lui dit: Toi aussi, sois établi sur cinq villes.</p> <p><sup>20</sup>Un autre vint, et dit: Seigneur, voici ta mine, que j'ai gardée dans un linge;</p> <p><sup>21</sup>car j'avais peur de toi, parce que tu es un homme sévère; tu prends ce que tu n'as pas déposé, et tu moissonnes ce que tu n'as pas semé.</p> <p><sup>22</sup>Il lui dit: Je te juge sur tes paroles, méchant serviteur; tu savais que je suis un homme sévère, prenant ce que je n'ai pas déposé, et moissonnant ce que je n'ai pas semé;</p> <p><sup>23</sup>pourquoi donc n'as-tu pas mis mon argent dans une banque, afin qu'à mon retour je le retirasse avec un intérêt?</p> <p><sup>24</sup>Puis il dit à ceux qui étaient là: Otez-lui la mine, et donnez-la à celui qui a les dix mines.</p> <p><sup>25</sup>Ils lui dirent: Seigneur, il a dix mines. -</p> <p><sup>26</sup>Je vous le dis, on donnera à celui qui a, mais à celui qui n'a pas on ôtera même ce qu'il a.</p> <p><sup>27</sup>Au reste, amenez ici mes ennemis, qui n'ont pas voulu que je régnasse sur eux, et tuez-les en ma présence.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%2019:1-27&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luc 19:1-27",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOLuke2619",
+        "source": "arclight",
+        "refId": "6_496-GOLuke2619",
+        "startTime": "start",
+        "endTime": "3:44",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de Découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Etudiez chaque passage en utilisant les questions de discussion suivantes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ?"
+          },
+          {
+            "text": "Qu’est ce qui est nouveau ou s’est développé à ce point de l’histoire de Jésus?"
+          },
+          {
+            "text": "Quelle implication du point de vue de l’humanité ou de la divinité de Jésus voyez-vous dans ce passage ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Questions supplémentaires que vous pouvez poser:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce que ses disciples apprennent?"
+          },
+          {
+            "text": "Qu’est-ce que Jésus est en train de nous montrer au sujet de sa vie et de son ministère (ou leadership) ?"
+          },
+          {
+            "text": "Qu’est ce que Jésus est en train de montrer au sujet du leadership empreint de piété ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jésus a vécu ce qu'Il a enseigné. A Jéricho, Jésus rencontre un autre homme très riche mais extrêmement impopulaire qui est le chef publicain de la région pour Rome. Jésus révèle que le Père veut qu'Il aille à la maison de Zachée. Les gens sont choqués mais Zachée est content et le temps passé avec Jésus change son cœur. Il reçoit le pardon et commence à changer ses habitudes. Il demande pardon et corrige les choses avec ceux qu'il a lésés. Alors qu'ils célèbrent la vie changée de Zachée, Jésus enseigne une parabole sur le fait d'être un intendant de ce que Dieu nous a donné. Un jour, nous devrons rendre compte de la façon dont nous avons utilisé les choses de Dieu. Nous sommes les intendants des choses matérielles et aussi des choses spirituelles profondes. En tant que vrais disciples de Jésus, nous réalisons que nous ne possédons rien mais que Dieu est le propriétaire et nous sommes appelés à gérer ce qu'il nous confie. Cela implique notre temps, nos paroles, nos pensées et nos actions."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se Préparer pour la Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez 5 personnes de votre Liste de Réseau envers qui vous prendrez l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez les promesses « je le ferai d’ici quand » et parlez-en à votre groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply245-i-will"
+      }
+    }
+  ]
+}

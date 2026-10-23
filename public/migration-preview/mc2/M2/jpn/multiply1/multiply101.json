@@ -1,0 +1,74 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "jpn",
+  "htmlLang": "ja",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply101",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "振り返ろう",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "賛美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "御言葉を読んで、礼拝と賛美に向けて心を整える。"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"bible-link\">詩篇118篇28節</span>を読む。"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "「あなたは私の神。私はあなたをあがめます。」"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "今日は、どのようなことに関して、神さまに感謝と賛美をささげますか？"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply320",
+  "sortOrder": 23,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Opcional) Jesucristo es el Señor, para la gloria de Dios Padre. Él quiere que todos los hombres sean salvos y lleguen al conocimiento de la verdad. Porque hay un solo Dios y un mediador también entre Dios y el hombre, el hombre Jesucristo, que se entregó a sí mismo como rescate por todos. ({Filipenses 2:11b}; {1 Timoteo 2:4-6a)}",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11b",
+                    "label": "Filipenses 2:11b",
+                    "passage": "<p><sup>11</sup>... para gloria de Dios Padre.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timoteo 2:4-6a)",
+                    "label": "1 Timoteo 2:4-6a)",
+                    "passage": "<p><sup>4</sup>pues él quiere que todos sean salvos y lleguen a conocer la verdad.<sup>5</sup>Porque hay un solo Dios y un solo mediador entre Dios y los hombres, Jesucristo hombre,<sup>6</sup>quien dio su vida como rescate por todos. Este testimonio Dios lo ha dado a su debido tiempo,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar a las necesidades de los demás en oración, consejo bíblico y aliento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunta: \"¿Qué pasó cuando confiaste en Dios tus metas y tu declaración: “Yo haré…”?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y Animo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Elija una manera de proyectar visión de quiénes pueden llegar a ser en Cristo o lo que Dios puede hacer a través de ellos al</em>:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartir un versículo Bíblico que les recuerde el Corazón del Padre y la visión final."
+                  },
+                  {
+                    "text": "Reflexionando sobre los cambios en su vida desde que comenzaron a seguir a Cristo"
+                  },
+                  {
+                    "text": "recordándoles lo que Dios quiere hacer a través de ellos"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Comparta la GRAN visión de \"Una iglesia para cada pueblo y comunidad, y el Evangelio para cada persona\"."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídale al grupo que cuente la historia de la semana pasada"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Hechos 10:34-48</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Hechos 10:34-48",
+        "html": "<p><sup>34</sup>Pedro tomó la palabra, y dijo:</p> <p>—Ahora comprendo que en realidad para Dios no hay favoritismos,<sup>35</sup>sino que en toda nación él ve con agrado a los que le temen y actúan con justicia.<sup>36</sup>Dios envió su mensaje al pueblo de Israel, anunciando las buenas nuevas de la paz por medio de Jesucristo, que es el Señor de todos.<sup>37</sup>Ustedes conocen este mensaje que se difundió por toda Judea, comenzando desde Galilea, después del bautismo que predicó Juan.<sup>38</sup>Me refiero a Jesús de Nazaret: cómo lo ungió Dios con el Espíritu Santo y con poder, y cómo anduvo haciendo el bien y sanando a todos los que estaban oprimidos por el diablo, porque Dios estaba con él.<sup>39</sup>Nosotros somos testigos de todo lo que hizo en la tierra de los judíos y en Jerusalén. Lo mataron, colgándolo de un madero,<sup>40</sup>pero Dios lo resucitó al tercer día y dispuso que se apareciera,<sup>41</sup>no a todo el pueblo, sino a nosotros, testigos previamente escogidos por Dios, que comimos y bebimos con él después de su resurrección.<sup>42</sup>Él nos mandó a predicar al pueblo y a dar solemne testimonio de que ha sido nombrado por Dios como juez de vivos y muertos.<sup>43</sup>De él dan testimonio todos los profetas, que todo el que cree en él recibe, por medio de su nombre, el perdón de los pecados.</p> <p><sup>44</sup>Mientras Pedro estaba todavía hablando, el Espíritu Santo descendió sobre todos los que escuchaban el mensaje.<sup>45</sup>Los defensores de la circuncisión que habían llegado con Pedro se quedaron asombrados de que el don del Espíritu Santo se hubiera derramado también sobre los gentiles,<sup>46</sup>pues los oían hablar en lenguas y alabar a Dios. Entonces Pedro respondió:</p> <p><sup>47</sup>—¿Acaso puede alguien negar el agua para que sean bautizados estos que han recibido el Espíritu Santo lo mismo que nosotros?</p> <p><sup>48</sup>Y mandó que fueran bautizados en el nombre de Jesucristo. Entonces le pidieron que se quedara con ellos algunos días.</p>",
+        "url": "https://biblegateway.com/passage/?search=Hechos%2010:34-48&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Hechos 10:34-48",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7328-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7328-0-0",
+        "startTime": "1:35",
+        "endTime": "3:54",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de Descubrimiento",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención o qué es lo que más te gustó? ¿por qué?"
+          },
+          {
+            "text": "¿Qué hay de nuevo o se ha desarrollado a estas alturas de la historia?"
+          },
+          {
+            "text": "¿Qué se está modelando acerca de una vida dependiente del Espíritu, haciendo discípulos o liderazgo?"
+          },
+          {
+            "text": "¿Cómo podemos vivir de manera diferente ahora que conocemos esta historia?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Preguntas adicionales que puede utilizar:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Cómo continúan los seguidores de Jesús Su obra de hacer discípulos y plantar iglesias?"
+          },
+          {
+            "text": "¿Cómo está impactando el Evangelio en las personas y en la sociedad?"
+          },
+          {
+            "text": "¿Qué barreras u obstáculos se superaron y cómo se superaron?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "El Señor usa a Pedro para traer la salvación a Cornelio y a su familia. Esta experiencia también enseña a Pedro, y a los otros creyentes judíos con él, una importante verdad teológica: el Señor acepta a personas de todas las naciones y su oferta de salvación es la misma para todas las personas. Como refuerzo de esta verdad, los gentiles experimentan el don del Espíritu Santo de la misma manera que los judíos lo habían hecho en Pentecostés ({Hechos 2:4}; {Hechos 10:47}). Pedro reconoce la aceptación del Señor del pueblo no judío y ordena que sean bautizados inmediatamente, tal como lo hicieron con los nuevos creyentes judíos. Pedro permanece varios días más en un hogar no judío para hacer un seguimiento inmediato con los nuevos creyentes. Pedro ahora ha sido parte de ver iglesias plantadas más allá de todas las barreras culturales de las que Jesús habló ({Hechos 1:8}): entre los judíos en Jerusalén y Judea, entre los samaritanos ({Hechos 8}), y ahora entre los gentiles ({Hechos 10}). Las puertas a todas las fronteras culturales ahora están abiertas para la expansión del Reino.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Hechos 2:4",
+                    "label": "Hechos 2:4",
+                    "passage": "<p><sup>4</sup>Todos fueron llenos del Espíritu Santo y comenzaron a hablar en diferentes lenguas, según el Espíritu les concedía expresarse.</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Hechos 10:47",
+                    "label": "Hechos 10:47",
+                    "passage": "<p><sup>47</sup>—¿Acaso puede alguien negar el agua para que sean bautizados estos que han recibido el Espíritu Santo lo mismo que nosotros?</p>"
+                  },
+                  {
+                    "id": "popup_pop5",
+                    "marker": "Hechos 1:8",
+                    "label": "Hechos 1:8",
+                    "passage": "<p><sup>8</sup>Pero, cuando venga el Espíritu Santo sobre ustedes, recibirán poder y serán mis testigos tanto en Jerusalén como en toda Judea y Samaria, y hasta los confines de la tierra.</p>"
+                  },
+                  {
+                    "id": "popup_pop6",
+                    "marker": "Hechos 8",
+                    "label": "Hechos 8",
+                    "passage": "<div><p><sup>1</sup>Y Saulo estaba allí, aprobando la muerte de Esteban.</p><h3>La iglesia perseguida y dispersa</h3><p>Aquel día se desató una gran persecución contra la iglesia en Jerusalén, y todos, excepto los apóstoles, se dispersaron por las regiones de Judea y Samaria.<sup>2</sup>Unos hombres piadosos sepultaron a Esteban e hicieron gran duelo por él.<sup>3</sup>Saulo, por su parte, causaba estragos en la iglesia: entrando de casa en casa, arrastraba a hombres y mujeres y los metía en la cárcel.</p><h3>Felipe en Samaria</h3><p><sup>4</sup>Los que se habían dispersado predicaban la palabra por dondequiera que iban.<sup>5</sup>Felipe bajó a una ciudad de Samaria y les anunciaba al Mesías.<sup>6</sup>Al oír a Felipe y ver las señales milagrosas que realizaba, mucha gente se reunía y todos prestaban atención a su mensaje.<sup>7</sup>De muchos endemoniados los espíritus malignos salían dando alaridos, y un gran número de paralíticos y cojos quedaban sanos.<sup>8</sup>Y aquella ciudad se llenó de alegría.</p><h3>Simón el hechicero</h3><p><sup>9</sup>Ya desde antes había en esa ciudad un hombre llamado Simón que, jactándose de ser un gran personaje, practicaba la hechicería y asombraba a la gente de Samaria.<sup>10</sup>Todos, desde el más pequeño hasta el más grande, le prestaban atención y exclamaban: «¡Este hombre es al que llaman el Gran Poder de Dios!»</p><p><sup>11</sup>Lo seguían porque por mucho tiempo los había tenido deslumbrados con sus artes mágicas.<sup>12</sup>Pero, cuando creyeron a Felipe, que les anunciaba las buenas nuevas del reino de Dios y el nombre de Jesucristo, tanto hombres como mujeres se bautizaron.<sup>13</sup>Simón mismo creyó y, después de bautizarse, seguía a Felipe por todas partes, asombrado de los grandes milagros y señales que veía.</p><p><sup>14</sup>Cuando los apóstoles que estaban en Jerusalén se enteraron de que los samaritanos habían aceptado la palabra de Dios, les enviaron a Pedro y a Juan.<sup>15</sup>Estos, al llegar, oraron por ellos para que recibieran el Espíritu Santo,<sup>16</sup>porque el Espíritu aún no había descendido sobre ninguno de ellos; solamente habían sido bautizados en el nombre del Señor Jesús.<sup>17</sup>Entonces Pedro y Juan les impusieron las manos, y ellos recibieron el Espíritu Santo.</p><p><sup>18</sup>Al ver Simón que mediante la imposición de las manos de los apóstoles se daba el Espíritu Santo, les ofreció dinero<sup>19</sup>y les pidió:</p><p>—Denme también a mí ese poder, para que todos a quienes yo les imponga las manos reciban el Espíritu Santo.</p><p><sup>20</sup>—¡Que tu dinero perezca contigo —le contestó Pedro—, porque intentaste comprar el don de Dios con dinero!<sup>21</sup>No tienes arte ni parte en este asunto, porque no eres íntegro delante de Dios.<sup>22</sup>Por eso, arrepiéntete de tu maldad y ruega al Señor. Tal vez te perdone el haber tenido esa mala intención.<sup>23</sup>Veo que vas camino a la amargura y a la esclavitud del pecado.</p><p><sup>24</sup>—Rueguen al Señor por mí —respondió Simón—, para que no me suceda nada de lo que han dicho.</p><p><sup>25</sup>Después de testificar y proclamar la palabra del Señor, Pedro y Juan se pusieron en camino de vuelta a Jerusalén, y de paso predicaron el evangelio en muchas poblaciones de los samaritanos.</p><p><sup>26</sup>Un ángel del Señor le dijo a Felipe: «Ponte en marcha hacia el sur, por el camino del desierto que baja de Jerusalén a Gaza».<sup>27</sup>Felipe emprendió el viaje, y resulta que se encontró con un etíope eunuco, alto funcionario encargado de todo el tesoro de la Candace, reina de los etíopes. Este había ido a Jerusalén para adorar<sup>28</sup>y, en el viaje de regreso a su país, iba sentado en su carroza, leyendo el libro del profeta Isaías.<sup>29</sup>El Espíritu le dijo a Felipe: «Acércate y júntate a ese carro».</p><p><sup>30</sup>Felipe se acercó de prisa a la carroza y, al oír que el hombre leía al profeta Isaías, le preguntó:</p><p>—¿Acaso entiende usted lo que está leyendo?</p><p><sup>31</sup>—¿Y cómo voy a entenderlo —contestó— si nadie me lo explica?</p><p>Así que invitó a Felipe a subir y sentarse con él.<sup>32</sup>El pasaje de la Escritura que estaba leyendo era el siguiente:</p><p>«Como oveja, fue llevado al matadero;<br>y como cordero que enmudece ante su trasquilador,<br>ni siquiera abrió su boca.<br><sup>33</sup>Lo humillaron y no le hicieron justicia.<br>¿Quién describirá su descendencia?<br>Porque su vida fue arrancada de la tierra».</p></div><p><sup>34</sup>—Dígame usted, por favor, ¿de quién habla aquí el profeta, de sí mismo o de algún otro? —le preguntó el eunuco a Felipe.</p><p><sup>35</sup>Entonces Felipe, comenzando con ese mismo pasaje de la Escritura, le anunció las buenas nuevas acerca de Jesús.<sup>36</sup>Mientras iban por el camino, llegaron a un lugar donde había agua, y dijo el eunuco:</p><p>—Mire usted, aquí hay agua. ¿Qué impide que yo sea bautizado?</p><p><sup>38</sup>Entonces mandó parar la carroza, y ambos bajaron al agua, y Felipe lo bautizó.<sup>39</sup>Cuando subieron del agua, el Espíritu del Señor se llevó de repente a Felipe. El eunuco no volvió a verlo, pero siguió alegre su camino.<sup>40</sup>En cuanto a Felipe, apareció en Azoto, y se fue predicando el evangelio en todos los pueblos hasta que llegó a Cesarea.</p>"
+                  },
+                  {
+                    "id": "popup_pop7",
+                    "marker": "Hechos 10",
+                    "label": "Hechos 10",
+                    "passage": "<h3>Cornelio manda llamar a Pedro</h3><p><sup>1</sup>Vivía en Cesarea un centurión llamado Cornelio, del regimiento conocido como el Italiano.<sup>2</sup>Él y toda su familia eran devotos y temerosos de Dios. Realizaba muchas obras de beneficencia para el pueblo de Israel y oraba a Dios constantemente.<sup>3</sup>Un día, como a las tres de la tarde, tuvo una visión. Vio claramente a un ángel de Dios que se le acercaba y le decía:</p><p>—¡Cornelio!</p><p><sup>4</sup>—¿Qué quieres, Señor? —le preguntó Cornelio, mirándolo fijamente y con mucho miedo.</p><p>—Dios ha recibido tus oraciones y tus obras de beneficencia como una ofrenda —le contestó el ángel—.<sup>5</sup>Envía de inmediato a algunos hombres a Jope para que hagan venir a un tal Simón, apodado Pedro.<sup>6</sup>Él se hospeda con Simón el curtidor, que tiene su casa junto al mar.</p><p><sup>7</sup>Después de que se fue el ángel que le había hablado, Cornelio llamó a dos de sus siervos y a un soldado devoto de los que le servían regularmente.<sup>8</sup>Les explicó todo lo que había sucedido y los envió a Jope.</p><h3>La visión de Pedro</h3><p><sup>9</sup>Al día siguiente, mientras ellos iban de camino y se acercaban a la ciudad, Pedro subió a la azotea a orar. Era casi el mediodía.<sup>10</sup>Tuvo hambre y quiso algo de comer. Mientras se lo preparaban, le sobrevino un éxtasis.<sup>11</sup>Vio el cielo abierto y algo parecido a una gran sábana que, suspendida por las cuatro puntas, descendía hacia la tierra.<sup>12</sup>En ella había toda clase de cuadrúpedos, como también reptiles y aves.</p><p><sup>13</sup>—Levántate, Pedro; mata y come —le dijo una voz.</p><p><sup>14</sup>—¡De ninguna manera, Señor! —replicó Pedro—. Jamás he comido nada impuro o inmundo.</p><p><sup>15</sup>Por segunda vez le insistió la voz:</p><p>—Lo que Dios ha purificado, tú no lo llames impuro.</p><p><sup>16</sup>Esto sucedió tres veces, y en seguida la sábana fue recogida al cielo.</p><p><sup>17</sup>Pedro no atinaba a explicarse cuál podría ser el significado de la visión. Mientras tanto, los hombres enviados por Cornelio, que estaban preguntando por la casa de Simón, se presentaron a la puerta.<sup>18</sup>Llamando, averiguaron si allí se hospedaba Simón, apodado Pedro.</p><p><sup>19</sup>Mientras Pedro seguía reflexionando sobre el significado de la visión, el Espíritu le dijo: «Mira, Simón, tres hombres te buscan.<sup>20</sup>Date prisa, baja y no dudes en ir con ellos, porque yo los he enviado».</p><p><sup>21</sup>Pedro bajó y les dijo a los hombres:</p><p>—Aquí estoy; yo soy el que ustedes buscan. ¿Qué asunto los ha traído por acá?</p><p><sup>22</sup>Ellos le contestaron:</p><p>—Venimos de parte del centurión Cornelio, un hombre justo y temeroso de Dios, respetado por todo el pueblo judío. Un ángel de Dios le dio instrucciones de invitarlo a usted a su casa para escuchar lo que usted tiene que decirle.</p><p><sup>23</sup>Entonces Pedro los invitó a pasar y los hospedó.</p><p>Al día siguiente, Pedro se fue con ellos acompañado de algunos creyentes de Jope.<sup>24</sup>Un día después llegó a Cesarea. Cornelio estaba esperándolo con los parientes y amigos íntimos que había reunido.<sup>25</sup>Al llegar Pedro a la casa, Cornelio salió a recibirlo y, postrándose delante de él, le rindió homenaje.<sup>26</sup>Pero Pedro hizo que se levantara, y le dijo:</p><p>—Ponte de pie, que solo soy un hombre como tú.</p><p><sup>27</sup>Pedro entró en la casa conversando con él, y encontró a muchos reunidos.</p><p><sup>28</sup>Entonces les habló así:</p><p>—Ustedes saben muy bien que nuestra ley prohíbe que un judío se junte con un extranjero o lo visite. Pero Dios me ha hecho ver que a nadie debo llamar impuro o inmundo.<sup>29</sup>Por eso, cuando mandaron por mí, vine sin poner ninguna objeción. Ahora permítanme preguntarles: ¿para qué me hicieron venir?</p><p><sup>30</sup>Cornelio contestó:</p><p>—Hace cuatro días a esta misma hora, las tres de la tarde, estaba yo en casa orando. De repente apareció delante de mí un hombre vestido con ropa brillante,<sup>31</sup>y me dijo: “Cornelio, Dios ha oído tu oración y se ha acordado de tus obras de beneficencia.<sup>32</sup>Por lo tanto, envía a alguien a Jope para hacer venir a Simón, apodado Pedro, que se hospeda en casa de Simón el curtidor, junto al mar”.<sup>33</sup>Así que inmediatamente mandé a llamarte, y tú has tenido la bondad de venir. Ahora estamos todos aquí, en la presencia de Dios, para escuchar todo lo que el Señor te ha encomendado que nos digas.</p><p><sup>34</sup>Pedro tomó la palabra, y dijo:</p><p>—Ahora comprendo que en realidad para Dios no hay favoritismos,<sup>35</sup>sino que en toda nación él ve con agrado a los que le temen y actúan con justicia.<sup>36</sup>Dios envió su mensaje al pueblo de Israel, anunciando las buenas nuevas de la paz por medio de Jesucristo, que es el Señor de todos.<sup>37</sup>Ustedes conocen este mensaje que se difundió por toda Judea, comenzando desde Galilea, después del bautismo que predicó Juan.<sup>38</sup>Me refiero a Jesús de Nazaret: cómo lo ungió Dios con el Espíritu Santo y con poder, y cómo anduvo haciendo el bien y sanando a todos los que estaban oprimidos por el diablo, porque Dios estaba con él.<sup>39</sup>Nosotros somos testigos de todo lo que hizo en la tierra de los judíos y en Jerusalén. Lo mataron, colgándolo de un madero,<sup>40</sup>pero Dios lo resucitó al tercer día y dispuso que se apareciera,<sup>41</sup>no a todo el pueblo, sino a nosotros, testigos previamente escogidos por Dios, que comimos y bebimos con él después de su resurrección.<sup>42</sup>Él nos mandó a predicar al pueblo y a dar solemne testimonio de que ha sido nombrado por Dios como juez de vivos y muertos.<sup>43</sup>De él dan testimonio todos los profetas, que todo el que cree en él recibe, por medio de su nombre, el perdón de los pecados.</p><p><sup>44</sup>Mientras Pedro estaba todavía hablando, el Espíritu Santo descendió sobre todos los que escuchaban el mensaje.<sup>45</sup>Los defensores de la circuncisión que habían llegado con Pedro se quedaron asombrados de que el don del Espíritu Santo se hubiera derramado también sobre los gentiles,<sup>46</sup>pues los oían hablar en lenguas y alabar a Dios. Entonces Pedro respondió:</p><p><sup>47</sup>—¿Acaso puede alguien negar el agua para que sean bautizados estos que han recibido el Espíritu Santo lo mismo que nosotros?</p><p><sup>48</sup>Y mandó que fueran bautizados en el nombre de Jesucristo. Entonces le pidieron que se quedara con ellos algunos días.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practique el dar y la Santa Cena aquí o en la sección Preparación para la Misión</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Practique las habilidades necesarias o temas previos para ayudar a prepararse para ministrar a los demás:",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "Orar, Cuidar, Compartir"
+                        },
+                        {
+                          "text": "Evangelio"
+                        },
+                        {
+                          "text": "Estudios Bíblicos Fundamentales"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica personas o lugares a los que tomarás la iniciativa de ministrar esta semana."
+          },
+          {
+            "text": "Escriba declaraciones usando de \"Yo haré…. cuando…” y que lo comparan con a su grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos al Señor. Pídele al Señor que nos ayude a ser fieles y que nos use para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bendición (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply320-i-will"
+      }
+    }
+  ]
+}

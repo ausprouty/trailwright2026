@@ -1,0 +1,373 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply210",
+  "sortOrder": 13,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向后看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "敬拜赞美",
+        "level": 2
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "祷告关怀",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感谢神和需要耶稣为你做的事，并彼此感恩代祷"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "庆贺实践",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li style=\"text-align:justify\"><span><span><span><span lang=\"ZH-CN\">请分享上周你因信靠神忠心地操练和实践基督生命的福音行动</span></span></span></span></li> <li class=\"back\">背诵上周经文（{约2:11}） </li>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "约2:11",
+            "label": "约2:11",
+            "passage": "<p><sup>11</sup>这是耶稣所行的头一件神迹，是在加利利的迦拿行的，显出他的荣耀来，他的门徒就信他了。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "天父心意",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "{约翰福音3:8} 描述圣灵就像风一样。我们既不能控制圣灵，也不能使唤祂，因祂随自己的意思运行。我们无法产生运动，因为只有圣灵自己才能做成这事。然而，我们能做的是预备好自己，当圣灵动工时，我们就能与祂同工。感恩，圣灵在各处运行！让我们预备自己，存祷告和敬畏的心与圣灵同行。",
+        "references": [
+          {
+            "id": "popup_pop2",
+            "marker": "约翰福音3:8",
+            "label": "约翰福音3:8",
+            "passage": "<p><sup>8</sup>风随着意思吹，你听见风的响声，却不晓得从哪里来，往哪里去。凡从圣灵生的，也是如此。”</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "学像耶稣",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>经文背景</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "迦南婚姻不久以后，耶稣和门徒来到耶路撒冷过逾越节，许多人因为耶稣所行的一些神迹就相信了祂。作者约翰没有记下这些神迹，却记下了耶稣在圣殿中一次破天荒的行动，耶稣赶出了圣殿中做买卖的人，祂“洁净圣殿”的行动引发宗教领袖前来兴师问罪。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>阅读经文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "阅读或观看《约翰福音 2:12-25》两遍。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "约翰福音 2:12-25",
+        "html": "<p><sup>12</sup> 这事以后，耶稣与他的母亲、弟兄和门徒都下迦百农去，在那里住了不多几日。<sup>13</sup>犹太人的逾越节近了，耶稣就上耶路撒冷去。<sup>14</sup>看见殿里有卖牛、羊、鸽子的，并有兑换银钱的人坐在那里。<sup>15</sup>耶稣就拿绳子做成鞭子，把牛羊都赶出殿去，倒出兑换银钱之人的银钱，推翻他们的桌子。<sup>16</sup>又对卖鸽子的说：“把这些东西拿去！不要将我父的殿当作买卖的地方。”<sup>17</sup>他的门徒就想起经上记着说：“我为你的殿，心里焦急，如同火烧。”<sup>18</sup>因此犹太人问他说：“你既做这些事，还显什么神迹给我们看呢？”<sup>19</sup>耶稣回答说：“你们拆毁这殿，我三日内要再建立起来。”<sup>20</sup>犹太人便说：“这殿是四十六年才造成的，你三日内就再建立起来吗？”<sup>21</sup>但耶稣这话，是以他的身体为殿。<sup>22</sup>所以到他从死里复活以后，门徒就想起他说过这话，便信了圣经和耶稣所说的。<sup>23</sup>当耶稣在耶路撒冷过逾越节的时候，有许多人看见他所行的神迹，就信了他的名。<sup>24</sup>耶稣却不将自己交托他们，因为他知道万人；<sup>25</sup>也用不着谁见证人怎样，因他知道人心里所存的。</p>",
+        "url": "https://biblegateway.com/passage/?search=约翰福音%202:12-25&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "约翰福音 2:12-25",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOJohn2202",
+        "source": "arclight",
+        "refId": "6_20615-GOJohn2202",
+        "startTime": "4:41",
+        "endTime": "7:12",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索与讨论</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "让你印象深刻的经文/部分是什么？为什么？"
+                },
+                {
+                  "text": "在这段经文中，你对耶稣的神性或人性有何认识？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再读一次这段故事。请小组中一个人口头讲述这故事，并根据需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "耶稣带门徒到耶路撒冷守逾越节。逾越节为期七天，是为了庆祝摩西带领以色列人出埃及。耶稣为天父的圣名与声誉心里火热。祂生气以色列人不再将心思放在敬拜天父的上面，而是想在他人身上赚取钱财。我们从耶稣的身上看见属人的真实情感，也看见属神的真实勇气。爱天父的心使祂无法忍受人利用圣殿赚钱而坐视不管。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小结</strong>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "经文背诵",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "约2:17"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "他的门徒就想起经上记着说：“我为你的殿，心里焦急，如同火烧。”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音预备",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "如果耶稣今天来到了我们的教会，你想祂可能会有什么反应（我们可以相信，祂对我们的教会了如指掌）？祂会为什么事情责备我们教会吗？我们有哪些地方违反了祂的心意吗？"
+          },
+          {
+            "text": "“耶稣知道人心里所存的”这件事会令你害怕、放心或大感安慰？为什么？"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行动",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "主动向教会牧者/同工了解教会和小组的使命和异象，为教会和小组守望，并主动参与教会的服事，同心建造神的家。"
+          },
+          {
+            "text": "主动关心牧者/同工，问他们可以如何为教会和他们个人及家庭的需要代祷，并且以实际的行动来表达爱与服事。"
+          },
+          {
+            "text": "本周提早到教会的聚会或小组，留意教会的需要，看日后可以在哪方面应用你的恩赐、专业、才干、祷告和金钱来参与神家里的事。"
+          },
+          {
+            "text": "依照你今天所学到的，写下一个“届时我会”的宣告，并于组内分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在________________（时间/地点）将会__________________（对象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分钟写下你在本课的学习心得，或是你未来一周可能有的其他行动点。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音祷告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "教会的元首耶稣基督，我们赞美与称谢祢，祢是昔在今在以后永在的神！感谢祢以宝血拯救我们，把我们从罪恶当中拯救出来，分别为圣，归入祢的名下，为要我们爱祢、敬拜祢和事奉祢。主啊，教会有做不好或得罪祢的地方，求主赦免与炼净。主啊，我们愿意竭力多做主工，自己做门徒，也使人作主的门徒，凡事讨祢的喜悦，成为小区的光和盐，见证并荣耀祢的圣名。奉主耶稣基督的名求，阿们！"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply210-i-will"
+      }
+    }
+  ]
+}

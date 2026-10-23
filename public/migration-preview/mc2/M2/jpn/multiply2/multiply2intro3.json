@@ -1,0 +1,73 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "jpn",
+  "htmlLang": "ja",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply2intro3",
+  "sortOrder": 19,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"Stage of Ministry\" class=\"lesson_image\" src=\"/sites/mc2/content/M2/jpn/images/standard/Phase34.png\"></span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "第3期：働きの訓練、第4期：宣教の拡大<br> 西暦27年末から西暦28年末まで"
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "この期間は、イエスさまがカペナウムに移られてからの6〜9か月間を指します。イエスさまはこの時期に、ご自身が洗礼を受けて以来、ずっと後についてきていた四人の漁師に召しを与えられました（{マルコ1章16〜20節}）。彼らの人生における優先順位はイエスさまによって変えられ、彼らは「人をとる漁師」として訓練されていきました。この四人が最初の宣教チームでしたが、イエスさまはやがて、そこにレビ（{マルコ2章13〜17節}）や他の人たちを加えていかれました。",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "マルコ1章16〜20節",
+            "label": "マルコ1章16〜20節",
+            "passage": ""
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "マルコ2章13〜17節",
+            "label": "マルコ2章13〜17節",
+            "passage": ""
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "この段階は、6〜9か月の期間であり、段階3と同時進行して進められました。イエスさまは、宣教の働きを共に行う最初のチームを集めながら、地元や周辺地域（{マルコ1章21〜34節}）、そしてさらに広い地域への宣教活動を通して、「実地訓練」の機会を作り出しました（{マルコ1章35～39節}）。このように宣教が拡大していくにつれ、ムーブメントは加速していきましたが、その一方で、反発も強まっていきました（{マルコ3章6節}）。",
+        "references": [
+          {
+            "id": "popup_pop3",
+            "marker": "マルコ1章21〜34節",
+            "label": "マルコ1章21〜34節",
+            "passage": ""
+          },
+          {
+            "id": "popup_pop4",
+            "marker": "マルコ1章35～39節",
+            "label": "マルコ1章35～39節",
+            "passage": ""
+          },
+          {
+            "id": "popup_pop5",
+            "marker": "マルコ3章6節",
+            "label": "マルコ3章6節",
+            "passage": ""
+          }
+        ],
+        "isOpen": false
+      }
+    }
+  ]
+}

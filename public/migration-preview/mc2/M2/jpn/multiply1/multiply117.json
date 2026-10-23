@@ -1,0 +1,359 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "jpn",
+  "htmlLang": "ja",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply117",
+  "sortOrder": 17,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "振り返ろう",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "賛美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "御言葉を読み、歌を通して神さまに賛美と礼拝をささげる。"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"bible-link\">ヘブル13章14〜15節</span>を読み、賛美の歌を歌う。"
+                  },
+                  {
+                    "text": "（任意で）<span class=\"bible-link\">ピリピ2章11節後半</span>や、<span class=\"bible-link\">第一テモテ2章4〜6節前半</span>などにある、イエスさまに関する信仰告白の言葉を用いて、主を賛美する。"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "お互いを支え合う",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "祈り、御言葉に基づいた助言、また励ましをもって、互いの必要に応え合う。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "今週あったことの中で最もうれしかったことと、困難だったことを互いに分かち合う。"
+          },
+          {
+            "text": "今週は、イエスさまがどんなことをしてくださると期待しているのか分かち合い、互いの必要のために祈り合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "神さまの誠実さを喜ぶ",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "イエスさまに従っていくように、愛をもって励まし合う。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "自分の目標と、「私は、〜までに〜をする」という形式で書き出した決意を神さまに委ねた結果、どのようなことが起こったかを聞き合い、分かち合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "動機づけと励まし",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "キリストにあって、私たちはどのような者に変えられることができるのか、また神さまが私たちを通してどんなことをすることができるのか、ビジョンを投げかける。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "神さまの心は、すべての失われた人々に向けられています。しかし、私たちの周りにはまだ、地域の光となって神さまの愛を人々に示すイエスさまの弟子がいない場所が多くあります。神さまは、イエスさまの弟子である私たちに対して、すべての失われた人に向けられているご自身の心と同じ心を持つように呼びかけています。私たちは、周囲にある失われた人々のいるすべての地域や共同体に届いていくという、大きなビジョンを持たなければなりません。神さまが私たちを用いてくださり、すべての町に教会が起こされ、すべての人に福音が届けられるように、神さまに信頼しましょう。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "見上げよう",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "背景",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "大勢の人々が、イエスさまに従い始めていました。彼らは、イエスさまが奇跡を行なって病を癒し、群衆に食事を与えたことを耳にしており、イエスさまから何らかの恩恵を受けられることを期待して、イエスさまに惹きつけられていたのです。しかし、イエスさまは人々の心をよくご存じでした。彼らが無条件にイエスさまに従おうとしているわけではないことを、見抜いておられたのです。ゆえに、イエスさまに従うということは、すべてをイエスさまに明け渡すことを意味するのだということを、人々が理解するように望んでおられました。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "読む",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"https://www.seisho.or.jp/bible_3/luk/#luk-14\" target=\"_blank\">ルカ14章25〜33節</a>を、声を出して２回読む。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "[BibleBlock]"
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "ルカ14章25〜33節",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_7083-GOLuke2615",
+        "source": "arclight",
+        "refId": "6_7083-GOLuke2615",
+        "startTime": "4:01",
+        "endTime": "5:26",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "発見のためのディスカッション（全員が答える）",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "どのようなことが、心に留まったか。（一番気に入ったことは？）その理由は？"
+          },
+          {
+            "text": "イエスさまについて、どのようなことを学んだか。"
+          },
+          {
+            "text": "人について、どのようなことを学んだか。"
+          },
+          {
+            "text": "これらのことを知った今、これからどのようにイエスさまに従っていくか。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "読み、語り、修正する",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "聖書の箇所をもう一度読む。誰かに、自分の言葉でそのストーリーを語ってもらい、必要に応じて他のメンバーが修正する。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "まとめ",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "罪の赦し、救い、そして王の王・主の主であるイエスさまにある確信など、私たちがキリストに従うことによって得るものは、永遠に続くものであり、すべてに勝る祝福です。しかし、イエスさまの弟子であるからといって、痛みや苦難を経験しないわけではありません。私たちは、悪に支配されたこの世界に生きている限り、キリストに従う者として迫害や困難に直面するのです。イエスさまとの関係を通して神さまを敬う人生を歩もうとする者は誰でも、必ず迫害に遭います。けれども私たちは、イエスさまの最も親しい友のひとりであったペテロの言葉から、励ましを受けることができるのです。<span class=\"bible-link\">第一ペテロ4章12〜16節、19節</span>を読みましょう。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "前を見よう",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "ミッションに備える",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "他の人々に仕える備えとして、これまでのレッスンで学んだスキルや内容を練習する。"
+                  },
+                  {
+                    "text": "前回一緒に決めたことに従って、「ささげること」を実践する。"
+                  },
+                  {
+                    "text": "適切であるとみなされる場合は、聖餐を通して、イエスさまが私たちのために払ってくださった犠牲を思い起こす。"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ミッションに出ていく",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "オイコスリストから、今週福音を伝え、関わり仕える相手5人を選び出す。"
+          },
+          {
+            "text": "「私は、～までに〜をする」という形式で書き出し、スモールグループで分かち合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ミッションのために祈る",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "全員の目標を、神さまに委ねる。私たちが忠実であり続けることができるよう、また、主が私たちを用いてくださって弟子作りのムーブメントをスタートさせてくださるように祈る。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply117-i-will"
+      }
+    }
+  ]
+}

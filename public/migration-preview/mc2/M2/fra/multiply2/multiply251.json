@@ -1,0 +1,348 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply251",
+  "sortOrder": 56,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lisez un passage biblique et exécutez un chant d’adoration."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la Fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Projection de Vision",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Jean 21:1-25 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Jean 21",
+        "html": "<p><sup>1</sup>Après cela, Jésus se montra encore aux disciples, sur les bords de la mer de Tibériade. Et voici de quelle manière il se montra.</p> <p><sup>2</sup>Simon Pierre, Thomas, appelé Didyme, Nathanaël, de Cana en Galilée, les fils de Zébédée, et deux autres disciples de Jésus, étaient ensemble.</p> <p><sup>3</sup>Simon Pierre leur dit: Je vais pêcher. Ils lui dirent: Nous allons aussi avec toi. Ils sortirent et montèrent dans une barque, et cette nuit-là ils ne prirent rien.</p> <p><sup>4</sup>Le matin étant venu, Jésus se trouva sur le rivage; mais les disciples ne savaient pas que c'était Jésus.</p> <p><sup>5</sup>Jésus leur dit: Enfants, n'avez-vous rien à manger? Ils lui répondirent: Non.</p> <p><sup>6</sup>Il leur dit: Jetez le filet du côté droit de la barque, et vous trouverez. Ils le jetèrent donc, et ils ne pouvaient plus le retirer, à cause de la grande quantité de poissons.</p> <p><sup>7</sup>Alors le disciple que Jésus aimait dit à Pierre: C'est le Seigneur! Et Simon Pierre, dès qu'il eut entendu que c'était le Seigneur, mit son vêtement et sa ceinture, car il était nu, et se jeta dans la mer.</p> <p><sup>8</sup>Les autres disciples vinrent avec la barque, tirant le filet plein de poissons, car ils n'étaient éloignés de terre que d'environ deux cents coudées.</p> <p><sup>9</sup>Lorsqu'ils furent descendus à terre, ils virent là des charbons allumés, du poisson dessus, et du pain.</p> <p><sup>10</sup>Jésus leur dit: Apportez des poissons que vous venez de prendre.</p> <p><sup>11</sup>Simon Pierre monta dans la barque, et tira à terre le filet plein de cent cinquante-trois grands poissons; et quoiqu'il y en eût tant, le filet ne se rompit point.</p> <p><sup>12</sup>Jésus leur dit: Venez, mangez. Et aucun des disciples n'osait lui demander: Qui es-tu? sachant que c'était le Seigneur.</p> <p><sup>13</sup>Jésus s'approcha, prit le pain, et leur en donna; il fit de même du poisson.</p> <p><sup>14</sup>C'était déjà la troisième fois que Jésus se montrait à ses disciples depuis qu'il était ressuscité des morts.</p> <p><sup>15</sup>Après qu'ils eurent mangé, Jésus dit à Simon Pierre: Simon, fils de Jonas, m'aimes-tu plus que ne m'aiment ceux-ci? Il lui répondit: Oui, Seigneur, tu sais que je t'aime. Jésus lui dit: Pais mes agneaux.</p> <p><sup>16</sup>Il lui dit une seconde fois: Simon, fils de Jonas, m'aimes-tu? Pierre lui répondit: Oui, Seigneur, tu sais que je t'aime. Jésus lui dit: Pais mes brebis.</p> <p><sup>17</sup>Il lui dit pour la troisième fois: Simon, fils de Jonas, m'aimes-tu? Pierre fut attristé de ce qu'il lui avait dit pour la troisième fois: M'aimes-tu? Et il lui répondit: Seigneur, tu sais toutes choses, tu sais que je t'aime. Jésus lui dit: Pais mes brebis.</p> <p><sup>18</sup>En vérité, en vérité, je te le dis, quand tu étais plus jeune, tu te ceignais toi-même, et tu allais où tu voulais; mais quand tu seras vieux, tu étendras tes mains, et un autre te ceindra, et te mènera où tu ne voudras pas.</p> <p><sup>19</sup>Il dit cela pour indiquer par quelle mort Pierre glorifierait Dieu. Et ayant ainsi parlé, il lui dit: Suis-moi.</p> <p><sup>20</sup>Pierre, s'étant retourné, vit venir après eux le disciple que Jésus aimait, celui qui, pendant le souper, s'était penché sur la poitrine de Jésus, et avait dit: Seigneur, qui est celui qui te livre?</p> <p><sup>21</sup>En le voyant, Pierre dit à Jésus: Et celui-ci, Seigneur, que lui arrivera-t-il?</p> <p><sup>22</sup>Jésus lui dit: Si je veux qu'il demeure jusqu'à ce que je vienne, que t'importe? Toi, suis-moi.</p> <p><sup>23</sup>Là-dessus, le bruit courut parmi les frères que ce disciple ne mourrait point. Cependant Jésus n'avait pas dit à Pierre qu'il ne mourrait point; mais: Si je veux qu'il demeure jusqu'à ce que je vienne, que t'importe?</p> <p><sup>24</sup>C'est ce disciple qui rend témoignage de ces choses, et qui les a écrites. Et nous savons que son témoignage est vrai.</p> <p><sup>25</sup>Jésus a fait encore beaucoup d'autres choses; si on les écrivait en détail, je ne pense pas que le monde même pût contenir les livres qu'on écrirait.</p>",
+        "url": "https://biblegateway.com/passage/?search=John%2021:1-25&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Jean 21:1-25",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOJohn2221",
+        "source": "arclight",
+        "refId": "6_496-GOJohn2221",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de Découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Etudiez chaque passage en utilisant les questions de discussion suivantes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ?"
+          },
+          {
+            "text": "Qu’est ce qui est nouveau ou s’est développé à ce point de l’histoire de Jésus?"
+          },
+          {
+            "text": "Quelle implication du point de vue de l’humanité ou de la divinité de Jésus voyez-vous dans ce passage ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Questions supplémentaires que vous pouvez poser:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce que ses disciples apprennent?"
+          },
+          {
+            "text": "Qu’est-ce que Jésus est en train de nous montrer au sujet de sa vie et de son ministère (ou leadership) ?"
+          },
+          {
+            "text": "Qu’est ce que Jésus est en train de montrer au sujet du leadership empreint de piété ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Après être ressuscité des morts, Jésus apparaît à ses disciples à plusieurs reprises. Jusqu'à 500 personnes l’ont vu. A une de ces occasions, en Galilée, il rend visite à Ses leaders qui sont retournés à leur ancienne vie de pêche. Ils se sont rappeler l’occasion précédente où ils ont pêché toute la nuit et n'ont rien attrapé. Quand ils ont expérimenté le même type de miracle de fourniture de poisson comme ils l'ont eu quelques années auparavant, ils reconnaissent que c'était Jésus. Pierre était ravi de revoir le Seigneur. Jésus a parlé avec lui de son engagement du fond de son cœur. Il a demandé si Pierre l'aime plus que son ancien mode de vie. Si c'est le cas, alors il devrait se préoccuper des choses dont Jésus se soucie. Il devrait prendre soin des autres comme Jésus l'a fait pour lui. Une fois de plus, Pierre fut restauré et appelé à suivre Jésus et continuer le travail de pêche et de soin des hommes. C'est la dernière fois que nous voyons Pierre retourner à la pêche."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se Préparer pour la Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez 5 personnes de votre Liste de Réseau envers qui vous prendrez l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez les promesses « je le ferai d’ici quand » et parlez-en à votre groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply251-i-will"
+      }
+    }
+  ]
+}

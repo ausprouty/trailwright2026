@@ -1,0 +1,366 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply226",
+  "sortOrder": 31,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lisez un passage biblique et exécutez un chant d’adoration."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la Fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Projection de Vision",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Luc 6:12-19 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luc 6:12-19",
+        "html": "<p><sup>12</sup>En ce temps-là, Jésus se rendit sur la montagne pour prier, et il passa toute la nuit à prier Dieu.</p> <p><sup>13</sup>Quand le jour parut, il appela ses disciples, et il en choisit douze, auxquels il donna le nom d'apôtres:</p> <p><sup>14</sup>Simon, qu'il nomma Pierre; André, son frère; Jacques; Jean; Philippe; Barthélemy;</p> <p><sup>15</sup>Matthieu; Thomas; Jacques, fils d'Alphée; Simon, appelé le zélote;</p> <p><sup>16</sup>Jude, fils de Jacques; et Judas Iscariot, qui devint traître.</p> <p><sup>17</sup>Il descendit avec eux, et s'arrêta sur un plateau, où se trouvaient une foule de ses disciples et une multitude de peuple de toute la Judée, de Jérusalem, et de la contrée maritime de Tyr et de Sidon. Ils étaient venus pour l'entendre, et pour être guéris de leurs maladies.</p> <p><sup>18</sup>Ceux qui étaient tourmentés par des esprits impurs étaient guéris.</p> <p><sup>19</sup>Et toute la foule cherchait à le toucher, parce qu'une force sortait de lui et les guérissait tous.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%206:12-19&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luc 6:12-19",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOLuke2606",
+        "source": "arclight",
+        "refId": "6_496-GOLuke2606",
+        "startTime": "2:05",
+        "endTime": "3:23",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de Découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Etudiez chaque passage en utilisant les questions de discussion suivantes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ?"
+          },
+          {
+            "text": "Qu’est ce qui est nouveau ou s’est développé à ce point de l’histoire de Jésus?"
+          },
+          {
+            "text": "Quelle implication du point de vue de l’humanité ou de la divinité de Jésus voyez-vous dans ce passage ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Questions supplémentaires que vous pouvez poser:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce que ses disciples apprennent?"
+          },
+          {
+            "text": "Qu’est-ce que Jésus est en train de nous montrer au sujet de sa vie et de son ministère (ou leadership) ?"
+          },
+          {
+            "text": "Qu’est ce que Jésus est en train de montrer au sujet du leadership empreint de piété ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jésus se déplace vers une nouvelle période du mouvement. Le ministère et l'élan grandissaient et les gens de partout en Israël croyaient en Lui en tant que Messie. C'est à ce moment crucial que Jésus lance un appel à ses disciples à se réunir. Pendant qu'ils se rassemblent, Jésus monte sur la montagne pour prier, nous donnant le premier principe du développement du leadership - la dépendance à Dieu. Revenu fraîchement de la prière, Jésus descend de la montagne à un endroit plus bas et, de nombreux disciples (peut-être plus de 100), Il désigne publiquement les 12 premiers leaders du mouvement et les appelle «apôtres» ou «envoyés». C'est le deuxième principe du leadership, la désignation publique. Les leaders sont choisis parmi un groupe plus large de disciples qui ont été formés à pêcher des hommes. Il les a choisis pour qu'ils soient avec Lui (développement personnel) et pour qu'Il les envoie faire les choses qu'il avait commencé à faire (autorité pour le ministère)."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Etude approfondie: {Marc 3:13-19}.",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Marc 3:13-19",
+                    "label": "Marc 3:13-19",
+                    "passage": "<p><sup>13</sup>Il monta ensuite sur la montagne; il appela ceux qu'il voulut, et ils vinrent auprès de lui.</p><p><sup>14</sup>Il en établit douze, pour les avoir avec lui,</p><p><sup>15</sup>et pour les envoyer prêcher avec le pouvoir de chasser les démons.</p><p><sup>16</sup>Voici les douze qu'il établit: Simon, qu'il nomma Pierre;</p><p><sup>17</sup>Jacques, fils de Zébédée, et Jean, frère de Jacques, auxquels il donna le nom de Boanergès, qui signifie fils du tonnerre;</p><p><sup>18</sup>André; Philippe; Barthélemy; Matthieu; Thomas; Jacques, fils d'Alphée; Thaddée; Simon le Cananite;</p><p><sup>19</sup>et Judas Iscariot, celui qui livra Jésus.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se Préparer pour la Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez 5 personnes de votre Liste de Réseau envers qui vous prendrez l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez les promesses « je le ferai d’ici quand » et parlez-en à votre groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply226-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply2intro34",
+  "sortOrder": 19,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"Stage of Ministry\" class=\"lesson_image\" src=\"/sites/mc2/content/M2/eng/multiply2/Period34.png\"></span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Period 3: Ministry Training &amp; Period 4: Expanded Outreach"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "around Late 27 AD – Late 28 AD"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Recruit, train and mobilize a growing mission team into broad sowing and making new disciples"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br> <strong>Period 3 Ministry Training</strong>"
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "This period lasts for 6-9 months and starts with Jesus moving to Capernaum. During this period, Jesus challenges the four fishermen ({Mark 1:16-20}) who had already been followers of Jesus since His baptism. Jesus begins to change their priorities and they become trainees in fishing for men. These four men form the initial mission team but Jesus soon adds Levi ({Mark 2:13-17}) and others.",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Mark 1:16-20",
+            "label": "Mark 1:16-20",
+            "passage": "<p><sup>16</sup>As Jesus walked beside the Sea of Galilee, he saw Simon and his brother Andrew casting a net into the lake, for they were fishermen.<sup>17</sup>“Come, follow me,” Jesus said, “and I will send you out to fish for people.”<sup>18</sup>At once they left their nets and followed him.</p><p><sup>19</sup>When he had gone a little farther, he saw James son of Zebedee and his brother John in a boat, preparing their nets.<sup>20</sup>Without delay he called them, and they left their father Zebedee in the boat with the hired men and followed him.</p>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "Mark 2:13-17",
+            "label": "Mark 2:13-17",
+            "passage": "<p><sup>13</sup>Once again Jesus went out beside the lake. A large crowd came to him, and he began to teach them.<sup>14</sup>As he walked along, he saw Levi son of Alphaeus sitting at the tax collector’s booth. “Follow me,” Jesus told him, and Levi got up and followed him.</p><p><sup>15</sup>While Jesus was having dinner at Levi’s house, many tax collectors and sinners were eating with him and his disciples, for there were many who followed him.<sup>16</sup>When the teachers of the law who were Pharisees saw him eating with the sinners and tax collectors, they asked his disciples: “Why does he eat with tax collectors and sinners?”</p><p><sup>17</sup>On hearing this, Jesus said to them, “It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners.”</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<br> <strong>Period 4 Expanded Outreach</strong>"
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "This period lasts for 6-9 months and runs parallel with Period 3. While Jesus is recruiting an initial ministry team to share in the work of the mission, He generates opportunities for their ‘field training’ through local outreaches ({Mark 1:21-34}) , regional outreaches and expanded campaigns ({Mark 1:35-39}). This expanded outreach is characterized by an acceleration of the movement but also brings increased opposition ({Mark 3:6}).",
+        "references": [
+          {
+            "id": "popup_pop3",
+            "marker": "Mark 1:21-34",
+            "label": "Mark 1:21-34",
+            "passage": "<h3>Jesus Drives Out an Impure Spirit</h3><p><sup>21</sup>They went to Capernaum, and when the Sabbath came, Jesus went into the synagogue and began to teach.<sup>22</sup>The people were amazed at his teaching, because he taught them as one who had authority, not as the teachers of the law.<sup>23</sup>Just then a man in their synagogue who was possessed by an impure spirit cried out,<sup>24</sup>“What do you want with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God!”</p><p><sup>25</sup>“Be quiet!” said Jesus sternly. “Come out of him!”<sup>26</sup>The impure spirit shook the man violently and came out of him with a shriek.</p><p><sup>27</sup>The people were all so amazed that they asked each other, “What is this? A new teaching—and with authority! He even gives orders to impure spirits and they obey him.”<sup>28</sup>News about him spread quickly over the whole region of Galilee.</p><p><sup>29</sup>As soon as they left the synagogue, they went with James and John to the home of Simon and Andrew.<sup>30</sup>Simon’s mother-in-law was in bed with a fever, and they immediately told Jesus about her.<sup>31</sup>So he went to her, took her hand and helped her up. The fever left her and she began to wait on them.</p><p><sup>32</sup>That evening after sunset the people brought to Jesus all the sick and demon-possessed.<sup>33</sup>The whole town gathered at the door,<sup>34</sup>and Jesus healed many who had various diseases. He also drove out many demons, but he would not let the demons speak because they knew who he was.</p>"
+          },
+          {
+            "id": "popup_pop4",
+            "marker": "Mark 1:35-39",
+            "label": "Mark 1:35-39",
+            "passage": "<p><sup>35</sup>Very early in the morning, while it was still dark, Jesus got up, left the house and went off to a solitary place, where he prayed.<sup>36</sup>Simon and his companions went to look for him,<sup>37</sup>and when they found him, they exclaimed: “Everyone is looking for you!”</p><p><sup>38</sup>Jesus replied, “Let us go somewhere else—to the nearby villages—so I can preach there also. That is why I have come.”<sup>39</sup>So he traveled throughout Galilee, preaching in their synagogues and driving out demons.</p>"
+          },
+          {
+            "id": "popup_pop5",
+            "marker": "Mark 3:6",
+            "label": "Mark 3:6",
+            "passage": "<p><sup>6</sup>Then the Pharisees went out and began to plot with the Herodians how they might kill Jesus.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    }
+  ]
+}

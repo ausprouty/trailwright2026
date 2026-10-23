@@ -1,0 +1,52 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "zzz",
+  "htmlLang": "zzz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply101",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Read Psalm 118:28 “You are my God and I will praise you.”"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<ul class=\"back\"> <li>What can we thank or praise God for today?</li> </ul>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    }
+  ]
+}

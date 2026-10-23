@@ -1,0 +1,348 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply211",
+  "sortOrder": 14,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lisez un passage biblique et exécutez un chant d’adoration."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la Fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Projection de Vision",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Jean 3:1-21 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Jean 3:1-21",
+        "html": "<p><sup>1</sup>Mais il y eut un homme d'entre les pharisiens, nommé Nicodème, un chef des Juifs,</p> <p><sup>2</sup>qui vint, lui, auprès de Jésus, de nuit, et lui dit: Rabbi, nous savons que tu es un docteur venu de Dieu; car personne ne peut faire ces miracles que tu fais, si Dieu n'est avec lui.</p> <p><sup>3</sup>Jésus lui répondit: En vérité, en vérité, je te le dis, si un homme ne naît de nouveau, il ne peut voir le royaume de Dieu.</p> <p><sup>4</sup>Nicodème lui dit: Comment un homme peut-il naître quand il est vieux? Peut-il rentrer dans le sein de sa mère et naître?</p> <p><sup>5</sup>Jésus répondit: En vérité, en vérité, je te le dis, si un homme ne naît d'eau et d'Esprit, il ne peut entrer dans le royaume de Dieu.</p> <p><sup>6</sup>Ce qui est né de la chair est chair, et ce qui est né de l'Esprit est Esprit.</p> <p><sup>7</sup>Ne t'étonne pas que je t'aie dit: Il faut que vous naissiez de nouveau.</p> <p><sup>8</sup>Le vent souffle où il veut, et tu en entends le bruit; mais tu ne sais d'où il vient, ni où il va. Il en est ainsi de tout homme qui est né de l'Esprit.</p> <p><sup>9</sup>Nicodème lui dit: Comment cela peut-il se faire?</p> <p><sup>10</sup>Jésus lui répondit: Tu es le docteur d'Israël, et tu ne sais pas ces choses!</p> <p><sup>11</sup>En vérité, en vérité, je te le dis, nous disons ce que nous savons, et nous rendons témoignage de ce que nous avons vu; et vous ne recevez pas notre témoignage.</p> <p><sup>12</sup>Si vous ne croyez pas quand je vous ai parlé des choses terrestres, comment croirez-vous quand je vous parlerai des choses célestes?</p> <p><sup>13</sup>Personne n'est monté au ciel, si ce n'est celui qui est descendu du ciel, le Fils de l'homme qui est dans le ciel.</p> <p><sup>14</sup>Et comme Moïse éleva le serpent dans le désert, il faut de même que le Fils de l'homme soit élevé,</p> <p><sup>15</sup>afin que quiconque croit en lui ait la vie éternelle.</p> <p><sup>16</sup>Car Dieu a tant aimé le monde qu'il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu'il ait la vie éternelle.</p> <p><sup>17</sup>Dieu, en effet, n'a pas envoyé son Fils dans le monde pour qu'il juge le monde, mais pour que le monde soit sauvé par lui.</p> <p><sup>18</sup>Celui qui croit en lui n'est point jugé; mais celui qui ne croit pas est déjà jugé, parce qu'il n'a pas cru au nom du Fils unique de Dieu.</p> <p><sup>19</sup>Et ce jugement c'est que, la lumière étant venue dans le monde, les hommes ont préféré les ténèbres à la lumière, parce que leurs oeuvres étaient mauvaises.</p> <p><sup>20</sup>Car quiconque fait le mal hait la lumière, et ne vient point à la lumière, de peur que ses oeuvres ne soient dévoilées;</p> <p><sup>21</sup>mais celui qui agit selon la vérité vient à la lumière, afin que ses oeuvres soient manifestées, parce qu'elles sont faites en Dieu.</p>",
+        "url": "https://biblegateway.com/passage/?search=John%203:1-21&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Jean 3:1-21",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOJohn2203",
+        "source": "arclight",
+        "refId": "6_496-GOJohn2203",
+        "startTime": "0:36",
+        "endTime": "4:39",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de Découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Etudiez chaque passage en utilisant les questions de discussion suivantes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ?"
+          },
+          {
+            "text": "Qu’est ce qui est nouveau ou s’est développé à ce point de l’histoire de Jésus?"
+          },
+          {
+            "text": "Quelle implication du point de vue de l’humanité ou de la divinité de Jésus voyez-vous dans ce passage ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Questions supplémentaires que vous pouvez poser:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce que ses disciples apprennent?"
+          },
+          {
+            "text": "Qu’est-ce que Jésus est en train de nous montrer au sujet de sa vie et de son ministère (ou leadership) ?"
+          },
+          {
+            "text": "Qu’est ce que Jésus est en train de montrer au sujet du leadership empreint de piété ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<hr> Quand Jésus a chassé les changeurs d'argent au temple, Il a attiré l'attention de tout le monde. Un chef religieux de haut rang nommé Nicodème est venu enquêter sur Jésus. Jésus le met au défi de ne pas regarder lui-même et ce qui semble impossible, et le met au défi d'ouvrir ses yeux de foi. Jésus partage que ce que Nicodème pense être impossible devient possible. En Christ, il peut vivre dans la lumière sans crainte. Même si vous ne pouvez pas voir le vent, vous pouvez voir ses effets. Jésus dit que c'est la même chose pour ceux qui sont nés dans l'Esprit. Dieu nous a tellement aimés qu'Il nous a donné un moyen de renaître, d'avoir une nouvelle vie en Lui. <hr>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se Préparer pour la Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez 5 personnes de votre Liste de Réseau envers qui vous prendrez l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez les promesses « je le ferai d’ici quand » et parlez-en à votre groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply211-i-will"
+      }
+    }
+  ]
+}

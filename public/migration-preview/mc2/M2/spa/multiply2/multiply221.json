@@ -1,0 +1,451 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply221",
+  "sortOrder": 25,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Opcional) Jesucristo es el Señor, para la gloria de Dios Padre. Él quiere que todos los hombres sean salvos y lleguen al conocimiento de la verdad. Porque hay un solo Dios y un mediador también entre Dios y el hombre, el hombre Jesucristo, que se entregó a sí mismo como rescate por todos. ({Filipenses 2:11}; {1 Timoteo 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>y toda lengua confiese que Jesucristo es el Señor,<br>para gloria de Dios Padre.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timoteo 2:4-6",
+                    "label": "1 Timoteo 2:4-6",
+                    "passage": "<p><sup>4</sup>pues él quiere que todos sean salvos y lleguen a conocer la verdad.<sup>5</sup>Porque hay un solo Dios y un solo mediador entre Dios y los hombres, Jesucristo hombre,<sup>6</sup>quien dio su vida como rescate por todos. Este testimonio Dios lo ha dado a su debido tiempo,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidar",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar las necesidades de los demás en oración, consejo bíblico y ánimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrar la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunte: ¿Qué pasó cuando confiaste en Dios tus metas y tus declaraciones: \"Yo haré… cuándo…\" ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivar y animar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Elija una manera de proyectar la visión de quiénes pueden llegar a ser en Cristo o de lo que Dios puede hacer a través de ellos, mediante :</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "un versículo bíblico que les recuerde el corazón del Padre y la visión,"
+                  },
+                  {
+                    "text": "una reflexión sobre los cambios en sus vidas desde que comenzaron a seguir a Cristo,"
+                  },
+                  {
+                    "text": "un recordatorio de lo que Dios quiere hacer a través de ellos."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Nuestra visión es : \"<em>Una iglesia para cada ciudad y comunidad, y el Evangelio para cada persona</em>”"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-4"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando hacia arriba",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídale al grupo que cuente la historia de la semana pasada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Lucas 5:12-16</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 5:12-16",
+        "html": "<h3>Jesús sana a un leproso</h3> <p><sup>12</sup>En otra ocasión, cuando Jesús estaba en un pueblo, se presentó un hombre cubierto de lepra. Al ver a Jesús, cayó rostro en tierra y le suplicó:</p> <p>—Señor, si quieres, puedes limpiarme.</p> <p><sup>13</sup>Jesús extendió la mano y tocó al hombre.</p> <p>—Sí, quiero —le dijo—. ¡Queda limpio!</p> <p>Y al instante se le quitó la lepra.</p> <p><sup>14</sup>—No se lo digas a nadie —le ordenó Jesús—; solo ve, preséntate al sacerdote y lleva por tu purificación lo que ordenó Moisés, para que les sirva de testimonio.</p> <p><sup>15</sup>Sin embargo, la fama de Jesús se extendía cada vez más, de modo que acudían a él multitudes para oírlo y para que los sanara de sus enfermedades.<sup>16</sup>Él, por su parte, solía retirarse a lugares solitarios para orar.</p>",
+        "url": "https://biblegateway.com/passage/?search=Lucas%205:12-16&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lucas 5:12-16",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_21028-GOLuke2605",
+        "source": "arclight",
+        "refId": "6_21028-GOLuke2605",
+        "startTime": "1:56",
+        "endTime": "3:10",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de descubrimiento (todos responden)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué llamó tu atención o qué fue lo que más te gustó? ¿Por qué?"
+          },
+          {
+            "text": "¿Hay algo nuevo o qué se ha desarrollado hasta este punto en la historia de Jesús?"
+          },
+          {
+            "text": "¿Qué aprendemos sobre la humanidad o divinidad de Jesús en este pasaje?"
+          },
+          {
+            "text": "¿Cómo podemos vivir de manera diferente ahora que conocemos esta historia?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Preguntas adicionales :</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué están aprendiendo sus seguidores?"
+          },
+          {
+            "text": "¿Qué nos está modelando Jesús sobre la vida y el ministerio, o sobre el liderazgo piadoso?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia nuevamente. Pida que alguien cuente la historia y que el grupo corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "La cuarta misión de Jesús estaba dirigida a los humildes y marginados de la sociedad. Jesús y los discípulos viajaban de ciudad en ciudad y de pueblo en pueblo. En una de esas ciudades, se encontró con un hombre cubierto de lepra. La lepra era una enfermedad muy contagiosa y los leprosos eran marginados sociales y religiosos que no tenían esperanza. Los leprosos eran rechazados por la sociedad y se consideraba que estaban condenados por Dios. Solo Dios podía curar esta enfermedad. Jesús se compadeció y no tuvo miedo de la lepra del hombre. Jesús dio ejemplo de amor hacia los marginados, los poco queridos y los rechazados socialmente, y se acercó a ellos. Jesús ordenó al hombre que fuera a mostrarse ante el sacerdote como testimonio para los sacerdotes de que el Mesías había venido. Este hombre salió y comenzó a hablar abiertamente de Jesús. Como resultado, Jesús ya no pudo entrar abiertamente en ninguna aldea. ({Marcos 1:45})",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Marcos 1:45",
+                    "label": "Marcos 1:45",
+                    "passage": "<p><sup>45</sup>Pero él salió y comenzó a hablar sin reserva, divulgando lo sucedido. Como resultado, Jesús ya no podía entrar en ningún pueblo abiertamente, sino que se quedaba afuera, en lugares solitarios. Aun así, gente de todas partes seguía acudiendo a él.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Si su grupo tiene la práctica de hacerlo, este es un buen momento para practicar el dar y celebrar la Santa Cena, o hacerlo en la sección de Preparación para la Misión; de lo contrario, anímeles a participar de ellas en la congregación local.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Practique las habilidades necesarias o temas previos para ayudar a prepararse para ministrar a los demás:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar, Compartir"
+                  },
+                  {
+                    "text": "Compartir el Evangelio"
+                  },
+                  {
+                    "text": "Estudios Bíblicos Fundacionales"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica personas o lugares a los que tomarás la iniciativa de ministrar esta semana."
+          },
+          {
+            "text": "Escriba sus declaraciones de “Yo haré…para cuando…” y compártala en su pequeño grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orar por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos con el Señor. Pídele al Señor que nos ayude a ser fieles y úsanos para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bendición (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply221-i-will"
+      }
+    }
+  ]
+}

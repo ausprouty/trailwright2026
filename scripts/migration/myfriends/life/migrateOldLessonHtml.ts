@@ -3,14 +3,13 @@
 import * as cheerio from 'cheerio';
 import type { AnyNode } from 'domhandler';
 import { isTag } from 'domhandler';
-import { cleanBibleHtml } from '../shared/cleanBibleHtml';
+import { cleanBibleHtml } from '../../shared/cleanBibleHtml';
 import type { ListItem } from 'src/types/content/ListBlock';
 
-
-import { extractListItems } from '../shared/extractLIstItems';
-import { looksLikeBibleReference } from '../shared/looksLikeBibleReference';
-import { normalizeInlineHtml } from '../shared/normalizeInlineHtml';
-import { trimNbspEdges } from '../shared/trimNbspEdges';
+import { extractListItems } from '../../shared/extractLIstItems';
+import { looksLikeBibleReference } from '../../shared/looksLikeBibleReference';
+import { normalizeInlineHtml } from '../../shared/normalizeInlineHtml';
+import { trimNbspEdges } from '../../shared/trimNbspEdges';
 import type {
   EditorJsContent,
   AnyEditorJsBlock,
@@ -47,9 +46,6 @@ function detectVideoSource(url: string): VideoSource {
 
   return '';
 }
-
-
-
 
 function extractBibleReference($container: cheerio.Cheerio<AnyNode>): string {
   const explicitReference = $container.find('p.reference').first().text().trim();
@@ -239,7 +235,6 @@ function isFilmReveal($el: cheerio.Cheerio<AnyNode>): boolean {
   return $el.is('div.reveal.film');
 }
 
-
 function extractRevealContentBlocks(
   $: cheerio.CheerioAPI,
   $container: cheerio.Cheerio<AnyNode>,
@@ -286,8 +281,6 @@ function isIgnorableHtml(html: string): boolean {
   return textOnly === '';
 }
 
-
-
 function collapsePlainTextWhitespace(text: string): string {
   return text
     .replace(/\u00A0/g, ' ')
@@ -300,10 +293,6 @@ function decodeHtmlEntities(text: string): string {
   const $ = cheerio.load(`<div id="decode-root">${text}</div>`);
   return $('#decode-root').text();
 }
-
-
-
-
 
 function normalizeTextForEditor(text: string): string {
   if (!text) {

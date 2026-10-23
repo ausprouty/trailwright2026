@@ -1,0 +1,291 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "jpn",
+  "htmlLang": "ja",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply113",
+  "sortOrder": 13,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "振り返ろう",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "賛美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "御言葉を読み、歌を通して神さまに賛美と礼拝をささげる。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "お互いを支え合う",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "祈り、御言葉に基づいた助言、また励ましをもって、互いの必要に応え合う。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "今週あったことの中で最もうれしかったことと、困難だったことを互いに分かち合う。"
+          },
+          {
+            "text": "今週は、イエスさまがどんなことをしてくださると期待しているか分かち合い、互いの必要のために祈り合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "神さまの誠実さを喜ぶ",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "イエスさまに従っていくように、愛をもって励まし合う。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "自分の目標と、「私は、〜までに〜をする」という形式で書き出した決意を神さまに委ねた結果、どのようなことが起こったかを聞き合い、分かち合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "動機づけと励まし",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "キリストにあって、私たちはどのような者に変えられることができるのか、また神さまが私たちを通してどんなことをすることができるのか、ビジョンを投げかける。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "すべての人間は、イエスさまに従い、人をとる漁師となるように主から召されています。この世には、「失われている人」と「救われている人」の２つのタイプの人しかいません。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "失われている人々はイエスさまを知る必要があります。そして救われている人々は、失われている人々をとる漁師となる必要があります。この２つのタイプの人がいるということを理解すると、日々の生活における人々との関わりに、明確な方向性が与えられます。私たちは、イエスさまをまだ知らない人には証しをし、すでに救われている人には、「人をとる漁師」となる訓練を受けるように励ますことができます。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "見上げよう",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "背景",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<a href=\"https://www.seisho.or.jp/bible_3/act/#act-10\" target=\"_blank\">使徒の働き10章1〜8節を読んでください。ペテロは、海辺の町カイサリアに行くように、御霊によって導かれました。そこにはコルネリウスという百人隊長が住んでいました。彼は、神さまによって備えられた「平安の子」でした。ペテロは御霊に従い、カイサリアに行ってコルネリウスにイエスさまについて語りました。そこで何が起きたかを見てみましょう。 読む 使徒の働き10章24〜35節</a>を、声を出して２回読む。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "[BibleBlock]"
+              }
+            },
+            {
+              "type": "header",
+              "data": {
+                "text": "発見のためのディスカッション（全員が答える）",
+                "level": 2
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "どのようなことが、心に留まったか。（一番気に入ったことは？）その理由は？"
+                  },
+                  {
+                    "text": "イエスさまについて、どのようなことを学んだか。"
+                  },
+                  {
+                    "text": "人について、どのようなことを学んだか。"
+                  },
+                  {
+                    "text": "これらのことを知った今、これからどのようにイエスさまに従っていくか。"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note1"
+              }
+            },
+            {
+              "type": "header",
+              "data": {
+                "text": "読み、語り、修正する",
+                "level": 2
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "聖書の箇所をもう一度読む。誰かに、自分の言葉でそのストーリーを語ってもらい、必要に応じて他のメンバーが修正する。"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<hr> <h2 class=\"up\">まとめ</h2> <p class=\"up\">「平安の子」（<span class=\"bible-link\">ルカ10章6節</span>）は、多くの人とつながりを持つ人物です。私たちは、個々の人に福音を伝えていくこともできますが、「平安の子」の友人や家族に対して開かれた扉はないかを探す必要もあります。人間関係を通して福音が広がっていった例としては、リディアとその家族（<span class=\"bible-link\">使徒の働き16章14〜15節</span>）、ピリピの看守とその家族（<span class=\"bible-link\">使徒の働き16章30〜33節</span>）、取税人マタイと彼の友人たち（<span class=\"bible-link\">マタイ9章9〜10節</span>）などが挙げられます。</p> <hr>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"forward\">前を見よう</span>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<hr> <h2 class=\"forward\">ミッションに備える</h2> <p>「平安の子」の自宅で主催する、宣教を目的とした集まりの準備として、以下の事柄について考えて練習する。</p> <ul class=\"forward\"> <li>このような集まりを主催することに関して、「平安の子」にどのようにアプローチすればよいか。</li> <li>２つの質問（１. この場面で最も重要だと思うことは何ですか？ ２. この場面を見て、どんなことを考えさせられ、どんな疑問を持ちましたか？）を用いて霊的な会話へと導いていくために、短編映画や映画「ジーザス」からの抜粋をどのように用いたらよいか。</li> <li>どのように祈りを導いたらよいか。</li> <li>キリストを信じた人たちを、どのようにフォローアップしていけばよいか。</li> </ul> <hr>"
+              }
+            },
+            {
+              "type": "header",
+              "data": {
+                "text": "ミッションに出ていく",
+                "level": 2
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "宣教目的の集まりをお願いできそうな「平安の子」を、少なくとも１人選び出す。"
+                  },
+                  {
+                    "text": "オイコスリストから、今週福音を伝え、関わり仕える相手5人を選び出す。"
+                  },
+                  {
+                    "text": "「私は、～までに～をする」という形式で書き出し、グループで分かち合う。"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-13"
+              }
+            },
+            {
+              "type": "header",
+              "data": {
+                "text": "ミッションのために祈る",
+                "level": 2
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "全員の目標を、主に委ねる。私たちが忠実であり続けることができるよう、また、主が私たちを用いてくださって弟子作りのムーブメントをスタートさせてくださるように祈る。"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<p>教材は、以下のサイトからダウンロードできます：mc2.online</p>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    }
+  ]
+}

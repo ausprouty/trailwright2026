@@ -1,0 +1,572 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply105",
+  "sortOrder": 6,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "本课目的让我们看到研读查考圣经，是帮助我们更认识神、明白神的心意，并遵行祂的话语而行。主耶稣要我们明白圣经上的话并祂的教导。祂告诉我们，基督徒属灵生命的成长，乃靠上帝的话语（圣经）。"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向后看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "敬拜赞美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "诗篇119:9-12"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>9</sup>少年人用甚么洁净他的行为呢？是要遵行你的话。<sup>10</sup>我一心寻求了你，求你不要叫我偏离你的命令。<sup>11</sup>我将你的话藏在心里，免得我得罪你。<sup>12</sup>耶和华啊，你是应当称颂的！求你将你的律例教训我。”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "现在让我们用祷告或一首诗歌来开声赞美我们的神，求神借着祂的话语更新和洁净我们，为祂而活。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "祷告关怀",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感谢神和需要耶稣为你做的事，并彼此感恩代祷。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "庆贺实践",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"back\">请分享上周你因信靠神而实践“届时我会”的福音行动</li> <li class=\"back\">背诵上周经文（{使徒行传8:37}） </li>",
+        "references": [
+          {
+            "id": "popup_pop11",
+            "marker": "使徒行传8:37",
+            "label": "使徒行传8:37",
+            "passage": "腓利说：“你若是一心相信，就可以。”他回答说：“我信耶稣基督是神的儿子。”"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "天父心意",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "上帝在基督里曾赐给我们各样的属灵福气，使我们得以进入祂的家中，称为祂的儿女。 “你们既听见真理的道，就是那叫你们得救的福音，也信了基督，既然信他，就受了所应许的圣灵为印记。这圣灵是我们得基业的凭据”。（{以弗所书1:13-14}） 多奇妙的礼物！这是上帝给我们这些信祂儿子耶稣基督之人的应许。愿我们将神的话藏在心里，免得我们得罪祂！",
+                "references": [
+                  {
+                    "id": "popup_pop7",
+                    "marker": "以弗所书1:13-14",
+                    "label": "以弗所书1:13-14",
+                    "passage": "<p><sup>13</sup>你们既听见真理的道，就是那叫你们得救的福音，也信了基督，既然信他，就受了所应许的圣灵为印记。<sup>14</sup>这圣灵是我们得基业的凭据，直等到神之民被赎，使他的荣耀得着称赞。</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "被主呼召",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事背景</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "耶稣复活后，四十天之久多次向门徒显现。有一次，门徒在屋里聚集时，耶稣向他们显现并解释圣经的重要性。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>阅读经文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "阅读或观看《路加福音24:36-49》两遍。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "路加福音24:36-49",
+        "html": "<p><sup>36</sup>正说这话的时候，耶稣亲自站在他们当中，说：“愿你们平安！”<sup>37</sup>他们却惊慌害怕，以为所看见的是魂。<sup>38</sup>耶稣说：“你们为什么愁烦？为什么心里起疑念呢？<sup>39</sup>你们看我的手、我的脚，就知道实在是我了。摸我看看！魂无骨无肉，你们看，我是有的。”<sup>40</sup>说了这话，就把手和脚给他们看。<sup>41</sup>他们正喜得不敢信，并且稀奇，耶稣就说：“你们这里有什么吃的没有？”<sup>42</sup>他们便给他一片烧鱼，<sup>43</sup>他接过来，在他们面前吃了。</p> <p><sup>44</sup>耶稣对他们说：“这就是我从前与你们同在之时所告诉你们的话说：<u class=\"person underline\">摩西</u>的律法、先知的书和诗篇上所记的，凡指着我的话都必须应验。”<sup>45</sup>于是耶稣开他们的心窍，使他们能明白圣经。<sup>46</sup>又对他们说：“照经上所写的，基督必受害，第三日从死里复活，<sup>47</sup>并且人要奉他的名传悔改、赦罪的道，从耶路撒冷起直传到万邦。<sup>48</sup>你们就是这些事的见证。<sup>49</sup>我要将我父所应许的降在你们身上，你们要在城里等候，直到你们领受从上头来的能力。”</p>",
+        "url": "https://biblegateway.com/passage/?search=路加福音24:36-49&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "路加福音24:36-49",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOLuke2625",
+        "source": "arclight",
+        "refId": "6_20615-GOLuke2625",
+        "startTime": "5:39",
+        "endTime": "7:55",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索与讨论</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "经文中让你印象最深刻的是什么？为什么？"
+                },
+                {
+                  "text": "从这段经文中你对耶稣有什么新的认识？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再读一次这段故事。请小组中一个人口头讲述这故事，并根据需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "耶稣要我们明白圣经上的话，以及经上关于祂的教导。耶稣的一生应验圣经中神的应许。他要我们将所知道的一切传给其他人，并教导他们认识神。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小结</strong>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "经文背诵",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "路加福音24:45"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "于是耶稣开他们的心窍，使他们能明白圣经。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "福音预备",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "阅读提摩太后书3:16-17；罗马书10:17；希伯来书 4:12，找出关于“圣经”的真理，并填在表格内。"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "{提摩太后书 3:16-17}",
+                "references": [
+                  {
+                    "id": "popup_pop10",
+                    "marker": "提摩太后书 3:16-17",
+                    "label": "提摩太后书 3:16-17",
+                    "passage": "<p><sup>16</sup>圣经都是神所默示的，于教训、督责、使人归正、教导人学义都是有益的，<sup>17</sup>叫属神的人得以完全，预备行各样的善事。</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-3"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "{罗马书 10:17}",
+                "references": [
+                  {
+                    "id": "popup_pop4",
+                    "marker": "罗马书 10:17",
+                    "label": "罗马书 10:17",
+                    "passage": "<p><sup>17</sup>可见信道是从听道来的，听道是从基督的话来的。</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-5"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "{希伯来书 4:12}",
+                "references": [
+                  {
+                    "id": "popup_pop9",
+                    "marker": "希伯来书 4:12",
+                    "label": "希伯来书 4:12",
+                    "passage": "<p><sup>12</sup>神的道是活泼的，是有功效的，比一切两刃的剑更快，甚至魂与灵、骨节与骨髓，都能刺入、剖开，连心中的思念和主意都能辨明；</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-7"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "当你阅读圣经时，祈求圣灵指教你明白："
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "1. （观察）这段经文在讲什么？"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "2. （解释）作者写这段经文的目的是什么？"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "3. （应用）我可以如何应用在生活中？"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "读经示范"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "下面的例子是用以上三个步骤来查考彼得前书5:7"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "经文 你们要将一切的忧虑卸给 神，因为他顾念你们（彼前5:7 观察 卸是什么意思？ 卸的意思是交出去。 顾念是什么意思？ 神顾念表示神知道、在乎、顾惜我们。 一切的忧虑有哪些？ 可能是难题或挂心的事。 我们可以把忧虑卸给谁？ 我们可以安心卸给神。 为什么我需要卸下我的忧虑？ 因祂顾念我们。 解释 要把我们的难题或挂心的事交出去给神，因为神知道、在乎和顾惜我们。 应用 <p class=\"forward\">我不必为我的任何困扰来忧虑，特别是现在的 。</p> <p class=\"forward\">我可以祷告并信靠神帮助我，因祂顾念我。</p>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"forward\">读经操练</li> {约翰福音15:10-12}， 照着上面的例子，练习使用这三个步骤，学习明白神要对你说的话。你可以用下面这个表。现在就花10分钟的时间来查考这段经文。完成后互相分享。",
+                "references": [
+                  {
+                    "id": "popup_pop6",
+                    "marker": "约翰福音15:10-12",
+                    "label": "约翰福音15:10-12",
+                    "passage": "<p><sup>10</sup>你们若遵守我的命令，就常在我的爱里，正如我遵守了我父的命令，常在他的爱里。<sup>11</sup>这些事我已经对你们说了，是要叫我的喜乐存在你们心里，并叫你们的喜乐可以满足。<sup>12</sup>你们要彼此相爱，像我爱你们一样，这就是我的命令。</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-16"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "组长可以赠送每位组员一本读经（灵修）笔记本，以记录每天读经心得和祷告。"
+                  },
+                  {
+                    "text": "你可以立志在神面前，每天至少阅读一章圣经（建议从路加福音开始）。"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行动",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "设定每天读经的时间段、地点，并于组内分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我立志每天在_____________（时间）________________（地点）阅读圣经。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "学习每天灵修时，写灵修笔记（就是写下你从神话语的领受，反思、感恩和祷告的内容）"
+          },
+          {
+            "text": "依照你今天所学到的，写下一个“届时我会”的宣告，并于组内分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在________________（时间/地点）将会__________________（对象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分钟写下你在本课的学习心得，或是你未来一周可能有的其他行动点。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音祷告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "亲爱的天父，感谢祢赐下祢宝贵的话语——圣经。正如诗人说的：少年人用什么洁净他的行为呢？是要遵行祢的话！ 天父啊，我们愿意一心寻求祢，求祢不要叫我们偏离祢的命令。我们要将祢的话藏在心里，免得我们得罪祢。祈求圣灵保惠师指教我们明白一切真理，使我们有能力遵行祢的话，凡事荣耀祢的名而行。奉主耶稣的名祷告，阿们！"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply105-i-will"
+      }
+    }
+  ]
+}

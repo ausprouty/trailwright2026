@@ -1,0 +1,487 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply341",
+  "sortOrder": 46,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lisez un passage biblique et exécutez un chant d’adoration.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Facultatif) Jésus-Christ est Seigneur, à la gloire de Dieu le Père ; qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité. Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus-Christ homme, qui s’est donné lui-même en rançon pour tous. ({Philippiens 2:11}; {1 Timothée 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippiens 2:11",
+                    "label": "Philippiens 2:11",
+                    "passage": "<p><sup>11</sup>et que toute langue confesse que Jésus Christ est Seigneur, à la gloire de Dieu le Père.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timothée 2:4-6",
+                    "label": "1 Timothée 2:4-6",
+                    "passage": "<p><sup>4</sup>qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité.</p><p><sup>5</sup>Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus Christ homme,</p><p><sup>6</sup>qui s'est donné lui-même en rançon pour tous. C'est là le témoignage rendu en son propre temps,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation et encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Trouvez un moyen de projeter une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "un passage qui leur rappelle le cœur du Père et de la vision final."
+                  },
+                  {
+                    "text": "réfléchir sur des changements intervenus dans leur vie depuis qu’ils ont commencé à suivre Christ"
+                  },
+                  {
+                    "text": "leur rappeler ce que Dieu veut faire à travers eux"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Partagez la GRANDE vision</strong> <em>« une église pour chaque village et communauté, l’évangile pour chaque personne ».</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexte",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Demandez au groupe de raconter l’histoire de la semaine passée."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lisez",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Actes 20:1-12\\ deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Actes 20:1-12",
+        "html": "<p><sup>1</sup>Lorsque le tumulte eut cessé, Paul réunit les disciples, et, après les avoir exhortés, prit congé d'eux, et partit pour aller en Macédoine.</p> <p><sup>2</sup>Il parcourut cette contrée, en adressant aux disciples de nombreuses exhortations.</p> <p><sup>3</sup>Puis il se rendit en Grèce, où il séjourna trois mois. Il était sur le point de s'embarquer pour la Syrie, quand les Juifs lui dressèrent des embûches. Alors il se décida à reprendre la route de la Macédoine.</p> <p><sup>4</sup>Il avait pour l'accompagner jusqu'en Asie: Sopater de Bérée, fils de Pyrrhus, Aristarque et Second de Thessalonique, Gaïus de Derbe, Timothée, ainsi que Tychique et Trophime, originaires d'Asie.</p> <p><sup>5</sup>Ceux-ci prirent les devants, et nous attendirent à Troas.</p> <p><sup>6</sup>Pour nous, après les jours des pains sans levain, nous nous embarquâmes à Philippes, et, au bout de cinq jours, nous les rejoignîmes à Troas, où nous passâmes sept jours.</p> <p><sup>7</sup>Le premier jour de la semaine, nous étions réunis pour rompre le pain. Paul, qui devait partir le lendemain, s'entretenait avec les disciples, et il prolongea son discours jusqu'à minuit.</p> <p><sup>8</sup>Il y avait beaucoup de lampes dans la chambre haute où nous étions assemblés.</p> <p><sup>9</sup>Or, un jeune homme nommé Eutychus, qui était assis sur la fenêtre, s'endormit profondément pendant le long discours de Paul; entraîné par le sommeil, il tomba du troisième étage en bas, et il fut relevé mort.</p> <p><sup>10</sup>Mais Paul, étant descendu, se pencha sur lui et le prit dans ses bras, en disant: Ne vous troublez pas, car son âme est en lui.</p> <p><sup>11</sup>Quand il fut remonté, il rompit le pain et mangea, et il parla longtemps encore jusqu'au jour. Après quoi il partit.</p> <p><sup>12</sup>Le jeune homme fut ramené vivant, et ce fut le sujet d'une grande consolation.</p>",
+        "url": "https://biblegateway.com/passage/?search=Actes%2020:1-12\\&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Actes 20:1-6",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_496-Acts7353-0-0",
+        "source": "arclight",
+        "refId": "2_496-Acts7353-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Actes 20:7-12",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_496-Acts7354-0-0",
+        "source": "arclight",
+        "refId": "2_496-Acts7354-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ? Pourquoi ?"
+          },
+          {
+            "text": "À ce niveau de l’histoire, qu’est-ce qui est nouveau ou est développé ?"
+          },
+          {
+            "text": "Quel modèle a été donné quant à la vie dépendante de l’Esprit, faire de disciples ou au leadership ?"
+          },
+          {
+            "text": "Comment pouvons-nous vivre différemment maintenant que nous connaissons cette histoire?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Des questions supplémentaires dont vous pouvez faire usage:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comment les disciples de Jésus poursuivent-ils Son œuvre de faire des disciples et d’implantation d’églises ?"
+          },
+          {
+            "text": "Comment l’évangile impacte-t-il les gens et la société ?"
+          },
+          {
+            "text": "Quels étaient les barrières et les obstacles qui ont été surmontés et comment ont-ils été surmontés ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Comme à l’accoutumé, Paul a revisité les églises qu’il a implantées afin de les encouragé et de leur donner plus d’enseignement. Il va d’abord en Macédoine dans les villes de Philippes, Thessalonique et Bérée. Pendant son séjour, il écrivit une autre lettre aux Corinthiens. Après plusieurs mois a Macédoine, Paul s’embarqua à Achaïe pour visiter les croyants à Corinthe. Avant son départ pour Jérusalem, il a écrit une lettre aux églises à Rome pour leur faire connaitre ses plans de voyage et leur expliquer plus en profondeur l’évangile ({Romains 1 :11}, {Romains 15 :28}). On voit comment Paul répandait toujours son équipe de ministère, en développant les leaders issus de la moisson pour aller dans le champ de la moisson. Il est mention de sept personnes venues d’autres centres de mouvement. On apprend des lettres de Paul, qu’il a créé une unité au sein des différentes églises en collectant une offrande pour aider les croyants pauvres à Jérusalem. ({2 Corinthiens 8 :1-7}, {Romains 15 :25-26}). Elle a réuni les leaders et les églises ensemble pour les aider à comprendre qu’ils font partie d’un grand mouvement ({1 Thessaloniciens 2:14}; {2 Thessaloniciens 1:4}). [L’Épitre aux Romains peut être lue ici.]",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Romains 1 :11",
+                    "label": "Romains 1 :11",
+                    "passage": "<p><sup>11</sup>Car je désire vous voir, pour vous communiquer quelque don spirituel, afin que vous soyez affermis,</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Romains 15 :28",
+                    "label": "Romains 15 :28",
+                    "passage": "<p><sup>28</sup>Dès que j'aurai terminé cette affaire et que je leur aurai remis ces dons, je partirai pour l'Espagne et passerai chez vous.</p>"
+                  },
+                  {
+                    "id": "popup_pop5",
+                    "marker": "2 Corinthiens 8 :1-7",
+                    "label": "2 Corinthiens 8 :1-7",
+                    "passage": "<p><sup>1</sup>Nous vous faisons connaître, frères, la grâce de Dieu qui s'est manifestée dans les Églises de la Macédoine.</p><p><sup>2</sup>Au milieu de beaucoup de tribulations qui les ont éprouvées, leur joie débordante et leur pauvreté profonde ont produit avec abondance de riches libéralités de leur part.</p><p><sup>3</sup>Ils ont, je l'atteste, donné volontairement selon leurs moyens, et même au delà de leurs moyens,</p><p><sup>4</sup>nous demandant avec de grandes instances la grâce de prendre part à l'assistance destinée aux saints.</p><p><sup>5</sup>Et non seulement ils ont contribué comme nous l'espérions, mais ils se sont d'abord donnés eux-mêmes au Seigneur, puis à nous, par la volonté de Dieu.</p><p><sup>6</sup>Nous avons donc engagé Tite à achever chez vous cette oeuvre de bienfaisance, comme il l'avait commencée.</p><p><sup>7</sup>De même que vous excellez en toutes choses, en foi, en parole, en connaissance, en zèle à tous égards, et dans votre amour pour nous, faites en sorte d'exceller aussi dans cette oeuvre de bienfaisance.</p>"
+                  },
+                  {
+                    "id": "popup_pop6",
+                    "marker": "Romains 15 :25-26",
+                    "label": "Romains 15 :25-26",
+                    "passage": "<p><sup>25</sup>Présentement je vais à Jérusalem, pour le service des saints.</p><p><sup>26</sup>Car la Macédoine et l'Achaïe ont bien voulu s'imposer une contribution en faveur des pauvres parmi les saints de Jérusalem.</p>"
+                  },
+                  {
+                    "id": "popup_pop9",
+                    "marker": "1 Thessaloniciens 2:14",
+                    "label": "1 Thessaloniciens 2:14",
+                    "passage": "<p><sup>14</sup>Car vous, frères, vous êtes devenus les imitateurs des Églises de Dieu qui sont en Jésus Christ dans la Judée, parce que vous aussi, vous avez souffert de la part de vos propres compatriotes les mêmes maux qu'elles ont soufferts de la part des Juifs.</p>"
+                  },
+                  {
+                    "id": "popup_pop8",
+                    "marker": "2 Thessaloniciens 1:4",
+                    "label": "2 Thessaloniciens 1:4",
+                    "passage": "<p><sup>4</sup>Aussi nous glorifions-nous de vous dans les Églises de Dieu, à cause de votre persévérance et de votre foi au milieu de toutes vos persécutions et des tribulations que vous avez à supporter.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratiquez ici la libéralité et la sainte-cène ou dans la section Se préparer pour la mission.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se préparer pour la mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez des gens vers qui ou des endroits où vous pouvez prendre l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez des promesses « Je ferai d’ici quand » et partagez cela avec votre petit groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bénédiction (facultatif)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply341-i-will"
+      }
+    }
+  ]
+}

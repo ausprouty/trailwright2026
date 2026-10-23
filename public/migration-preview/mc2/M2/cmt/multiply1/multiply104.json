@@ -1,0 +1,467 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmt",
+  "htmlLang": "zh-Hant",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply104",
+  "sortOrder": 5,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "本課透過馬太福音3:13-17清楚闡明耶穌受洗，成為跟隨者的榜樣。自基督時代，每個跟隨祂的人都如此行。我們受洗是表明生命真正的改變，象徵我們與耶穌聯合，同死、同埋葬和同復活（羅馬書6:4-5），並委身加入主的教會。"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向後看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "敬拜讚美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "詩篇29:1-4"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>1</sup>神的眾子啊，你們要將榮耀能力歸給耶和華，歸給耶和華。<sup>2</sup>要將耶和華的名所當得的榮耀歸給他，以聖潔的妝飾敬拜耶和華。<sup>3</sup>耶和華的聲音發在水上，榮耀的　神打雷，耶和華打雷在大水之上。<sup>4</sup>耶和華的聲音大有能力；耶和華的聲音滿有威嚴。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "現在讓我們以詩歌敬拜讚美上帝的創造、大能和威嚴，並將榮耀歸給祂。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "禱告關懷",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感謝神和需要耶穌為你做的事，並彼此感恩代禱。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "慶賀實踐",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "請分享上週你因信靠神而實踐“屆時我會”的福音行動"
+          },
+          {
+            "text": "背誦上週經文（以弗所書5:18；約翰壹書5:14-15）"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "天父心意",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "約翰福音十六章說聖靈在我們身邊的人心中積極地動工：祂顯明人的罪、使人渴望與上帝和好、讓人不再害怕死亡（即最後的審判），並拆毀人心中對福音的反抗。我們應當互相提醒並彼此鼓勵：“聖靈在我們行動以前，就在人的心裡動工”。所以我們可以放膽與聖靈同工，主動與人分享耶穌的好消息，相信神會在人心中動工。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "被主呼召",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事背景</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "耶穌的跟隨者腓利在以色列境內的撒馬利亞向人傳揚福音。主耶穌打斷他的工作，告訴他向南走，往那下埃及的路上去。當他到達時，他看見一個非洲國家的領袖正往回家的路上。今天的故事會告訴我們接下來發生的事。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>閱讀經文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "閱讀使徒行傳 8:34-40兩遍，或觀看視頻《徒22 腓利與衣索比亞太監》。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "使徒行傳 8:34-40",
+        "html": "<p><sup>34</sup>太監對<u class=\"person underline\">腓利</u>說：「請問，先知說這話是指著誰？是指著自己呢，是指著別人呢？」<sup>35</sup><u class=\"person underline\">腓利</u>就開口從這經上起，對他傳講耶穌。</p> <p><sup>36</sup>二人正往前走，到了有水的地方，太監說：「看哪，這裡有水！我受洗有什麼妨礙呢？」<sup>38</sup>於是吩咐車站住，<u class=\"person underline\">腓利</u>和太監二人同下水裡去，<u class=\"person underline\">腓利</u>就給他施洗。<sup>39</sup>從水裡上來，主的靈把<u class=\"person underline\">腓利</u>提了去。太監也不再見他了，就歡歡喜喜地走路。<sup>40</sup>後來有人在亞鎖都遇見<u class=\"person underline\">腓利</u>；他走遍那地方，在各城宣傳福音，直到愷撒利亞。</p> <p>經文</p>",
+        "url": "https://biblegateway.com/passage/?search=使徒行傳%208:34-40&version=CUVMPT",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "使徒行傳 8:34-40",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_20615-Acts7322-0-0",
+        "source": "arclight",
+        "refId": "2_20615-Acts7322-0-0",
+        "startTime": "1:39",
+        "endTime": "2:41",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索與討論</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "分享讓你印象最深刻的部分，為什麼？"
+                },
+                {
+                  "text": "從這段經文中你對耶穌有什麼新的認識？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再讀一次這段故事。請小組中一個人口頭講述這故事，並根據需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "馬太福音3:13-17記載：“13當下，耶穌從加利利來到約旦河，見了約翰，要受他的洗。14約翰想要攔住他，說：“我當受你的洗，你反倒上我這裡來嗎？”15耶穌回答說：“你暫且許我，因為我們理當這樣盡諸般的義。 ”於是約翰許了他。16耶穌受了洗，隨即從水裡上來。天忽然為他開了，他就看見　神的靈彷佛鴿子降下 ，落在他身上。17從天上有聲音說：“這是我的愛子，我所喜悅的。” 耶穌受了洗，成為跟隨者的榜樣。我們也藉着洗禮，表明我們的生命在基督里有了真正的改變，並象徵我們願意與耶穌聯合，同死、同埋葬和同復活。（羅馬書6:4-5）。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小結</strong>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "經文背誦",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "使徒行傳8:37"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "腓利說：“你若是一心相信，就可以。”他回答說：“我信耶穌基督是神的兒子。”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "福音預備",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>為什麼要接受洗禮</strong>"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "主耶穌基督命令門徒必須要受洗禮，並且奉聖父、聖子、聖靈的名受洗 （太 28:18-20）。受洗者的唯一條件，就是已經悔改信主，重生得救的人。 而且聖經中的記載，大多信主者很快的就接受洗禮。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "雖然洗禮不是我們得救的條件，但是受洗卻是："
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "1) 主耶穌基督門徒的記號，因為我們公開順服遵從祂的命令。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "2) 一個終生不變的決定，至死忠心跟隨耶穌。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "3) 表明我們的生命在基督里已經有了真正的改變，叫我們一舉一動都有新生的樣式。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "4) 同時也是一個蒙福的事，因為我們信心藉洗禮得以堅定。"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "​​​​​​<strong>洗禮的意義有三方面</strong>："
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "1) 見證我們已經與主聯合，並認同主耶穌基督的死、埋葬及復活（羅6:4-5）"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "2) 見證我們已經重生，罪得赦免，是新造的人（羅 6:4）"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "3) 見證我們已經歸入基督的身體，成為教會的一分子，並同為基督的肢體（林前 12:13）"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>預備心接受洗禮</strong>，並計劃參加教會的洗禮班。"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行動",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "在《信徒動員表》裡寫下2位你認識且受過洗禮的基督徒，聽聽他們生命的故事，並了解他們為何接受受洗。另外寫下1位還未受洗的弟兄/姊妹的名字，向他們分享今天你所學的，邀請他們與你考慮一同接受洗禮。"
+          },
+          {
+            "text": "依照你今天所學到的，寫下一個“屆時我會”的宣告，並於組內分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在_______________（時間/地點）將會_________________（對象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分鐘寫下你在本課的學習心得，或是你未來一週可能有的其他行動點。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音禱告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "親愛的天父，祢從起初就愛我們，並決意使我們與祢和好，在祢裡面擁有一切的豐富。感謝祢賜下耶穌基督，為我們流血、捨命、復活，使我們與基督聯合，得着新生命，成為天父的兒女。我們願意接受洗禮，公開表明我們是屬於禰的，並且加入教會成為肢體的一部分，同心侍奉祢。我們立志願意為主而活，奉主耶穌的名禱告，阿們！"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply104-i-will"
+      }
+    }
+  ]
+}

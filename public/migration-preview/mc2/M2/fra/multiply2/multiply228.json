@@ -1,0 +1,366 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply228",
+  "sortOrder": 33,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lisez un passage biblique et exécutez un chant d’adoration."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la Fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Projection de Vision",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Luc 6:27-49 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luc 6:27-49",
+        "html": "<p><sup>27</sup>Mais je vous dis, à vous qui m'écoutez: Aimez vos ennemis, faites du bien à ceux qui vous haïssent,</p> <p><sup>28</sup>bénissez ceux qui vous maudissent, priez pour ceux qui vous maltraitent.</p> <p><sup>29</sup>Si quelqu'un te frappe sur une joue, présente-lui aussi l'autre. Si quelqu'un prend ton manteau, ne l'empêche pas de prendre encore ta tunique.</p> <p><sup>30</sup>Donne à quiconque te demande, et ne réclame pas ton bien à celui qui s'en empare.</p> <p><sup>31</sup>Ce que vous voulez que les hommes fassent pour vous, faites-le de même pour eux.</p> <p><sup>32</sup>Si vous aimez ceux qui vous aiment, quel gré vous en saura-t-on? Les pécheurs aussi aiment ceux qui les aiment.</p> <p><sup>33</sup>Si vous faites du bien à ceux qui vous font du bien, quel gré vous en saura-t-on? Les pécheurs aussi agissent de même.</p> <p><sup>34</sup>Et si vous prêtez à ceux de qui vous espérez recevoir, quel gré vous en saura-t-on? Les pécheurs aussi prêtent aux pécheurs, afin de recevoir la pareille.</p> <p><sup>35</sup>Mais aimez vos ennemis, faites du bien, et prêtez sans rien espérer. Et votre récompense sera grande, et vous serez fils du Très Haut, car il est bon pour les ingrats et pour les méchants.</p> <p><sup>36</sup>Soyez donc miséricordieux, comme votre Père est miséricordieux.</p> <p><sup>37</sup>Ne jugez point, et vous ne serez point jugés; ne condamnez point, et vous ne serez point condamnés; absolvez, et vous serez absous.</p> <p><sup>38</sup>Donnez, et il vous sera donné: on versera dans votre sein une bonne mesure, serrée, secouée et qui déborde; car on vous mesurera avec la mesure dont vous vous serez servis.</p> <p><sup>39</sup>Il leur dit aussi cette parabole: Un aveugle peut-il conduire un aveugle? Ne tomberont-ils pas tous deux dans une fosse?</p> <p><sup>40</sup>Le disciple n'est pas plus que le maître; mais tout disciple accompli sera comme son maître.</p> <p><sup>41</sup>Pourquoi vois-tu la paille qui est dans l'oeil de ton frère, et n'aperçois-tu pas la poutre qui est dans ton oeil?</p> <p><sup>42</sup>Ou comment peux-tu dire à ton frère: Frère, laisse-moi ôter la paille qui est dans ton oeil, toi qui ne vois pas la poutre qui est dans le tien? Hypocrite, ôte premièrement la poutre de ton oeil, et alors tu verras comment ôter la paille qui est dans l'oeil de ton frère.</p> <p><sup>43</sup>Ce n'est pas un bon arbre qui porte du mauvais fruit, ni un mauvais arbre qui porte du bon fruit.</p> <p><sup>44</sup>Car chaque arbre se connaît à son fruit. On ne cueille pas des figues sur des épines, et l'on ne vendange pas des raisins sur des ronces.</p> <p><sup>45</sup>L'homme bon tire de bonnes choses du bon trésor de son coeur, et le méchant tire de mauvaises choses de son mauvais trésor; car c'est de l'abondance du coeur que la bouche parle.</p> <p><sup>46</sup>Pourquoi m'appelez-vous Seigneur, Seigneur! et ne faites-vous pas ce que je dis?</p> <p><sup>47</sup>Je vous montrerai à qui est semblable tout homme qui vient à moi, entend mes paroles, et les met en pratique.</p> <p><sup>48</sup>Il est semblable à un homme qui, bâtissant une maison, a creusé, creusé profondément, et a posé le fondement sur le roc. Une inondation est venue, et le torrent s'est jeté contre cette maison, sans pouvoir l'ébranler, parce qu'elle était bien bâtie.</p> <p><sup>49</sup>Mais celui qui entend, et ne met pas en pratique, est semblable à un homme qui a bâti une maison sur la terre, sans fondement. Le torrent s'est jeté contre elle: aussitôt elle est tombée, et la ruine de cette maison a été grande.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%206:27-49&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luc 6:27-49",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOLuke2606",
+        "source": "arclight",
+        "refId": "6_496-GOLuke2606",
+        "startTime": "4:29",
+        "endTime": "9:16",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de Découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Etudiez chaque passage en utilisant les questions de discussion suivantes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ?"
+          },
+          {
+            "text": "Qu’est ce qui est nouveau ou s’est développé à ce point de l’histoire de Jésus?"
+          },
+          {
+            "text": "Quelle implication du point de vue de l’humanité ou de la divinité de Jésus voyez-vous dans ce passage ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Questions supplémentaires que vous pouvez poser:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce que ses disciples apprennent?"
+          },
+          {
+            "text": "Qu’est-ce que Jésus est en train de nous montrer au sujet de sa vie et de son ministère (ou leadership) ?"
+          },
+          {
+            "text": "Qu’est ce que Jésus est en train de montrer au sujet du leadership empreint de piété ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jésus explique la vie future dans le Royaume aux disciples. Une partie du plan pour l'expansion du Royaume est d’aimer vos ennemis. C'est un amour qui n'attend rien en retour. C'est un amour radical, divin, qui va changer le monde. Une partie de l'amour des autres comprend, arrêter de juger les autres et arrêter de condamner les autres pour leurs actions. Au lieu de cela, étendez le pardon au nom de Jésus, non pas parce qu'ils le méritent mais parce qu'Il nous le demande. Nous devrons prendre le temps d'examiner nos propres vies. Il instruit les dirigeants avec «l’aveugle ne peut pas conduire l’aveugle», ils ont besoin de s’approprier ce style de vie. Il leur rappelle qu'ils ont besoin de regarder sa vie et son ministère de près. « Ne m'appelez pas Seigneur si vous ne faites pas ce que je dis. »"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Pour une étude approfondie {Matthieu 5:17-8:1}",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Matthieu 5:17-8:1",
+                    "label": "Matthieu 5:17-8:1",
+                    "passage": "<div><p><sup>5:17</sup>Ne croyez pas que je sois venu pour abolir la loi ou les prophètes; je suis venu non pour abolir, mais pour accomplir.</p><p><sup>18</sup>Car, je vous le dis en vérité, tant que le ciel et la terre ne passeront point, il ne disparaîtra pas de la loi un seul iota ou un seul trait de lettre, jusqu'à ce que tout soit arrivé.</p><p><sup>19</sup>Celui donc qui supprimera l'un de ces plus petits commandements, et qui enseignera aux hommes à faire de même, sera appelé le plus petit dans le royaume des cieux; mais celui qui les observera, et qui enseignera à les observer, celui-là sera appelé grand dans le royaume des cieux.</p><p><sup>20</sup>Car, je vous le dis, si votre justice ne surpasse celle des scribes et des pharisiens, vous n'entrerez point dans le royaume des cieux.</p><p><sup>21</sup>Vous avez entendu qu'il a été dit aux anciens: Tu ne tueras point; celui qui tuera mérite d'être puni par les juges.</p><p><sup>22</sup>Mais moi, je vous dis que quiconque se met en colère contre son frère mérite d'être puni par les juges; que celui qui dira à son frère: Raca! mérite d'être puni par le sanhédrin; et que celui qui lui dira: Insensé! mérite d'être puni par le feu de la géhenne.</p><p><sup>23</sup>Si donc tu présentes ton offrande à l'autel, et que là tu te souviennes que ton frère a quelque chose contre toi,</p><p><sup>24</sup>laisse là ton offrande devant l'autel, et va d'abord te réconcilier avec ton frère; puis, viens présenter ton offrande.</p><p><sup>25</sup>Accorde-toi promptement avec ton adversaire, pendant que tu es en chemin avec lui, de peur qu'il ne te livre au juge, que le juge ne te livre à l'officier de justice, et que tu ne sois mis en prison.</p><p><sup>26</sup>Je te le dis en vérité, tu ne sortiras pas de là que tu n'aies payé le dernier quadrant.</p><p><sup>27</sup>Vous avez appris qu'il a été dit: Tu ne commettras point d'adultère.</p><p><sup>28</sup>Mais moi, je vous dis que quiconque regarde une femme pour la convoiter a déjà commis un adultère avec elle dans son coeur.</p><p><sup>29</sup>Si ton oeil droit est pour toi une occasion de chute, arrache-le et jette-le loin de toi; car il est avantageux pour toi qu'un seul de tes membres périsse, et que ton corps entier ne soit pas jeté dans la géhenne.</p><p><sup>30</sup>Et si ta main droite est pour toi une occasion de chute, coupe-la et jette-la loin de toi; car il est avantageux pour toi qu'un seul de tes membres périsse, et que ton corps entier n'aille pas dans la géhenne.</p><p><sup>31</sup>Il a été dit: Que celui qui répudie sa femme lui donne une lettre de divorce.</p><p><sup>32</sup>Mais moi, je vous dis que celui qui répudie sa femme, sauf pour cause d'infidélité, l'expose à devenir adultère, et que celui qui épouse une femme répudiée commet un adultère.</p><p><sup>33</sup>Vous avez encore appris qu'il a été dit aux anciens: Tu ne te parjureras point, mais tu t'acquitteras envers le Seigneur de ce que tu as déclaré par serment.</p><p><sup>34</sup>Mais moi, je vous dis de ne jurer aucunement, ni par le ciel, parce que c'est le trône de Dieu;</p><p><sup>35</sup>ni par la terre, parce que c'est son marchepied; ni par Jérusalem, parce que c'est la ville du grand roi.</p><p><sup>36</sup>Ne jure pas non plus par ta tête, car tu ne peux rendre blanc ou noir un seul cheveu.</p><p><sup>37</sup>Que votre parole soit oui, oui, non, non; ce qu'on y ajoute vient du malin.</p><p><sup>38</sup>Vous avez appris qu'il a été dit: oeil pour oeil, et dent pour dent.</p><p><sup>39</sup>Mais moi, je vous dis de ne pas résister au méchant. Si quelqu'un te frappe sur la joue droite, présente-lui aussi l'autre.</p><p><sup>40</sup>Si quelqu'un veut plaider contre toi, et prendre ta tunique, laisse-lui encore ton manteau.</p><p><sup>41</sup>Si quelqu'un te force à faire un mille, fais-en deux avec lui.</p><p><sup>42</sup>Donne à celui qui te demande, et ne te détourne pas de celui qui veut emprunter de toi.</p><p><sup>43</sup>Vous avez appris qu'il a été dit: Tu aimeras ton prochain, et tu haïras ton ennemi.</p><p><sup>44</sup>Mais moi, je vous dis: Aimez vos ennemis, bénissez ceux qui vous maudissent, faites du bien à ceux qui vous haïssent, et priez pour ceux qui vous maltraitent et qui vous persécutent,</p><p><sup>45</sup>afin que vous soyez fils de votre Père qui est dans les cieux; car il fait lever son soleil sur les méchants et sur les bons, et il fait pleuvoir sur les justes et sur les injustes.</p><p><sup>46</sup>Si vous aimez ceux qui vous aiment, quelle récompense méritez-vous? Les publicains aussi n'agissent-ils pas de même?</p><p><sup>47</sup>Et si vous saluez seulement vos frères, que faites-vous d'extraordinaire? Les païens aussi n'agissent-ils pas de même?</p><p><sup>48</sup>Soyez donc parfaits, comme votre Père céleste est parfait.</p><p><sup>6:5:1</sup>Gardez-vous de pratiquer votre justice devant les hommes, pour en être vus; autrement, vous n'aurez point de récompense auprès de votre Père qui est dans les cieux.</p><p><sup>2</sup>Lors donc que tu fais l'aumône, ne sonne pas de la trompette devant toi, comme font les hypocrites dans les synagogues et dans les rues, afin d'être glorifiés par les hommes. Je vous le dis en vérité, ils reçoivent leur récompense.</p><p><sup>3</sup>Mais quand tu fais l'aumône, que ta main gauche ne sache pas ce que fait ta droite,</p><p><sup>4</sup>afin que ton aumône se fasse en secret; et ton Père, qui voit dans le secret, te le rendra.</p><p><sup>5</sup>Lorsque vous priez, ne soyez pas comme les hypocrites, qui aiment à prier debout dans les synagogues et aux coins des rues, pour être vus des hommes. Je vous le dis en vérité, ils reçoivent leur récompense.</p><p><sup>6</sup>Mais quand tu pries, entre dans ta chambre, ferme ta porte, et prie ton Père qui est là dans le lieu secret; et ton Père, qui voit dans le secret, te le rendra.</p><p><sup>7</sup>En priant, ne multipliez pas de vaines paroles, comme les païens, qui s'imaginent qu'à force de paroles ils seront exaucés.</p><p><sup>8</sup>Ne leur ressemblez pas; car votre Père sait de quoi vous avez besoin, avant que vous le lui demandiez.</p><p><sup>9</sup>Voici donc comment vous devez prier: Notre Père qui es aux cieux! Que ton nom soit sanctifié;</p><p><sup>10</sup>que ton règne vienne; que ta volonté soit faite sur la terre comme au ciel.</p><p><sup>11</sup>Donne-nous aujourd'hui notre pain quotidien;</p><p><sup>12</sup>pardonne-nous nos offenses, comme nous aussi nous pardonnons à ceux qui nous ont offensés;</p><p><sup>13</sup>ne nous induis pas en tentation, mais délivre-nous du malin. Car c'est à toi qu'appartiennent, dans tous les siècles, le règne, la puissance et la gloire. Amen!</p><p><sup>14</sup>Si vous pardonnez aux hommes leurs offenses, votre Père céleste vous pardonnera aussi;</p><p><sup>15</sup>mais si vous ne pardonnez pas aux hommes, votre Père ne vous pardonnera pas non plus vos offenses.</p><p><sup>16</sup>Lorsque vous jeûnez, ne prenez pas un air triste, comme les hypocrites, qui se rendent le visage tout défait, pour montrer aux hommes qu'ils jeûnent. Je vous le dis en vérité, ils reçoivent leur récompense.</p><p><sup>17</sup>Mais quand tu jeûnes, parfume ta tête et lave ton visage,</p><p><sup>18</sup>afin de ne pas montrer aux hommes que tu jeûnes, mais à ton Père qui est là dans le lieu secret; et ton Père, qui voit dans le secret, te le rendra.</p><p><sup>19</sup>Ne vous amassez pas des trésors sur la terre, où la teigne et la rouille détruisent, et où les voleurs percent et dérobent;</p><p><sup>20</sup>mais amassez-vous des trésors dans le ciel, où la teigne et la rouille ne détruisent point, et où les voleurs ne percent ni ne dérobent.</p><p><sup>21</sup>Car là où est ton trésor, là aussi sera ton coeur.</p><p><sup>22</sup>L'oeil est la lampe du corps. Si ton oeil est en bon état, tout ton corps sera éclairé;</p><p><sup>23</sup>mais si ton oeil est en mauvais état, tout ton corps sera dans les ténèbres. Si donc la lumière qui est en toi est ténèbres, combien seront grandes ces ténèbres!</p><p><sup>24</sup>Nul ne peut servir deux maîtres. Car, ou il haïra l'un, et aimera l'autre; ou il s'attachera à l'un, et méprisera l'autre. Vous ne pouvez servir Dieu et Mamon.</p><p><sup>25</sup>C'est pourquoi je vous dis: Ne vous inquiétez pas pour votre vie de ce que vous mangerez, ni pour votre corps, de quoi vous serez vêtus. La vie n'est-elle pas plus que la nourriture, et le corps plus que le vêtement?</p><p><sup>26</sup>Regardez les oiseaux du ciel: ils ne sèment ni ne moissonnent, et ils n'amassent rien dans des greniers; et votre Père céleste les nourrit. Ne valez-vous pas beaucoup plus qu'eux?</p><p><sup>27</sup>Qui de vous, par ses inquiétudes, peut ajouter une coudée à la durée de sa vie?</p><p><sup>28</sup>Et pourquoi vous inquiéter au sujet du vêtement? Considérez comment croissent les lis des champs: ils ne travaillent ni ne filent;</p><p><sup>29</sup>cependant je vous dis que Salomon même, dans toute sa gloire, n'a pas été vêtu comme l'un d'eux.</p><p><sup>30</sup>Si Dieu revêt ainsi l'herbe des champs, qui existe aujourd'hui et qui demain sera jetée au four, ne vous vêtira-t-il pas à plus forte raison, gens de peu de foi?</p><p><sup>31</sup>Ne vous inquiétez donc point, et ne dites pas: Que mangerons-nous? que boirons-nous? de quoi serons-nous vêtus?</p><p><sup>32</sup>Car toutes ces choses, ce sont les païens qui les recherchent. Votre Père céleste sait que vous en avez besoin.</p><p><sup>33</sup>Cherchez premièrement le royaume et la justice de Dieu; et toutes ces choses vous seront données par-dessus.</p><p><sup>34</sup>Ne vous inquiétez donc pas du lendemain; car le lendemain aura soin de lui-même. A chaque jour suffit sa peine.</p><p><sup>7:1</sup>Ne jugez point, afin que vous ne soyez point jugés.</p><p><sup>2</sup>Car on vous jugera du jugement dont vous jugez, et l'on vous mesurera avec la mesure dont vous mesurez.</p><p><sup>3</sup>Pourquoi vois-tu la paille qui est dans l'oeil de ton frère, et n'aperçois-tu pas la poutre qui est dans ton oeil?</p><p><sup>4</sup>Ou comment peux-tu dire à ton frère: Laisse-moi ôter une paille de ton oeil, toi qui as une poutre dans le tien?</p><p><sup>5</sup>Hypocrite, ôte premièrement la poutre de ton oeil, et alors tu verras comment ôter la paille de l'oeil de ton frère.</p><p><sup>6</sup>Ne donnez pas les choses saintes aux chiens, et ne jetez pas vos perles devant les pourceaux, de peur qu'ils ne les foulent aux pieds, ne se retournent et ne vous déchirent.</p><p><sup>7</sup>Demandez, et l'on vous donnera; cherchez, et vous trouverez; frappez, et l'on vous ouvrira.</p><p><sup>8</sup>Car quiconque demande reçoit, celui qui cherche trouve, et l'on ouvre à celui qui frappe.</p><p><sup>9</sup>Lequel de vous donnera une pierre à son fils, s'il lui demande du pain?</p><p><sup>10</sup>Ou, s'il demande un poisson, lui donnera-t-il un serpent?</p><p><sup>11</sup>Si donc, méchants comme vous l'êtes, vous savez donner de bonnes choses à vos enfants, à combien plus forte raison votre Père qui est dans les cieux donnera-t-il de bonnes choses à ceux qui les lui demandent.</p><p><sup>12</sup>Tout ce que vous voulez que les hommes fassent pour vous, faites-le de même pour eux, car c'est la loi et les prophètes.</p><p><sup>13</sup>Entrez par la porte étroite. Car large est la porte, spacieux est le chemin qui mènent à la perdition, et il y en a beaucoup qui entrent par là.</p><p><sup>14</sup>Mais étroite est la porte, resserré le chemin qui mènent à la vie, et il y en a peu qui les trouvent.</p><p><sup>15</sup>Gardez-vous des faux prophètes. Ils viennent à vous en vêtement de brebis, mais au dedans ce sont des loups ravisseurs.</p><p><sup>16</sup>Vous les reconnaîtrez à leurs fruits. Cueille-t-on des raisins sur des épines, ou des figues sur des chardons?</p><p><sup>17</sup>Tout bon arbre porte de bons fruits, mais le mauvais arbre porte de mauvais fruits.</p><p><sup>18</sup>Un bon arbre ne peut porter de mauvais fruits, ni un mauvais arbre porter de bons fruits.</p><p><sup>19</sup>Tout arbre qui ne porte pas de bons fruits est coupé et jeté au feu.</p><p><sup>20</sup>C'est donc à leurs fruits que vous les reconnaîtrez.</p><p><sup>21</sup>Ceux qui me disent: Seigneur, Seigneur! n'entreront pas tous dans le royaume des cieux, mais celui-là seul qui fait la volonté de mon Père qui est dans les cieux.</p><p><sup>22</sup>Plusieurs me diront en ce jour-là: Seigneur, Seigneur, n'avons-nous pas prophétisé par ton nom? n'avons-nous pas chassé des démons par ton nom? et n'avons-nous pas fait beaucoup de miracles par ton nom?</p><p><sup>23</sup>Alors je leur dirai ouvertement: Je ne vous ai jamais connus, retirez-vous de moi, vous qui commettez l'iniquité.</p><p><sup>24</sup>C'est pourquoi, quiconque entend ces paroles que je dis et les met en pratique, sera semblable à un homme prudent qui a bâti sa maison sur le roc.</p><p><sup>25</sup>La pluie est tombée, les torrents sont venus, les vents ont soufflé et se sont jetés contre cette maison: elle n'est point tombée, parce qu'elle était fondée sur le roc.</p><p><sup>26</sup>Mais quiconque entend ces paroles que je dis, et ne les met pas en pratique, sera semblable à un homme insensé qui a bâti sa maison sur le sable.</p><p><sup>27</sup>La pluie est tombée, les torrents sont venus, les vents ont soufflé et ont battu cette maison: elle est tombée, et sa ruine a été grande.</p><p><sup>28</sup>Après que Jésus eut achevé ces discours, la foule fut frappée de sa doctrine;</p><p><sup>29</sup>car il enseignait comme ayant autorité, et non pas comme leurs scribes.</p><p><sup>8:1</sup>Lorsque Jésus fut descendu de la montagne, une grande foule le suivit.</p></div>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se Préparer pour la Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez 5 personnes de votre Liste de Réseau envers qui vous prendrez l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez les promesses « je le ferai d’ici quand » et parlez-en à votre groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply228-i-will"
+      }
+    }
+  ]
+}

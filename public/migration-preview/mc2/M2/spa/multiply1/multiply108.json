@@ -1,0 +1,365 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply108",
+  "sortOrder": 9,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">Ejemplo: {Salmos 33:1-5} y canten 1 o 2 alabanzas.</li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Salmos 33:1-5",
+                    "label": "Salmos 33:1-5",
+                    "passage": "<div><p><sup>1</sup>Canten al<span class=\"divine-name small-caps\">Señor con alegría, ustedes los justos;<br>es propio de los íntegros alabar al<span class=\"divine-name small-caps\">Señor.<br><sup>2</sup>Alaben al<span class=\"divine-name small-caps\">Señor al son del arpa;<br>entonen alabanzas con el decacordio.<br><sup>3</sup>Cántenle una canción nueva;<br>toquen con destreza,<br>y den voces de alegría.</span></span></span></p></div><p><sup>4</sup>La palabra del<span class=\"divine-name small-caps\">Señor es justa;<br>fieles son todas sus obras.<br><sup>5</sup>El<span class=\"divine-name small-caps\">Señor ama la justicia y el derecho;<br>llena está la tierra de su amor.</span></span></p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar las necesidades de los demás en oración, consejo bíblico y ánimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunta: \"¿Qué pasó cuando confiaste en Dios tus metas y tu declaración: “Yo haré…”?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y Animo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Proyectar visión de quiénes pueden llegar a ser en Cristo o lo que Dios puede hacer a través de ellos.</em>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Las primeras palabras de Jesús en Marcos fueron decirle a la gente que se \"arrepientan\". Esto significa cambiar toda nuestra forma de pensar porque los caminos de Dios son muy diferentes de los nuestros. Un área es cómo nos vemos a nosotros mismos. Necesitamos una nueva comprensión de la vida con Dios y lo que Él puede hacer en nuestras vidas. Las siguientes palabras de Jesús fueron: \"Sígueme, y yo os haré pescadores de hombres\". Cada discípulo de Jesús ha sido llamado a vivir este doble llamado a seguirlo y ser pescador de hombres. Nuestro compromiso sacrificial con Jesús transforma la vida diaria y todas nuestras relaciones. ¡Animémonos unos a otros a arrepentirnos, a seguir y pescar continuamente!"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Un par de semanas antes de la muerte de Jesús, Él y Sus seguidores estaban en una ciudad cerca de Jericó. Cuando salieron a recorrer los 24 km hasta la montaña hasta Jerusalén, un ciego llama a Jesús tratando de llamar su atención. Esta historia nos cuenta lo que sucedió después."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Lucas 18:35-43</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 18:35-43",
+        "html": "<h3>Un mendigo ciego recibe la vista</h3> <p><sup>35</sup>Sucedió que al acercarse Jesús a Jericó, estaba un ciego sentado junto al camino pidiendo limosna.<sup>36</sup>Cuando oyó a la multitud que pasaba, preguntó qué acontecía.</p> <p><sup>37</sup>—Jesús de Nazaret está pasando por aquí —le respondieron.</p> <p><sup>38</sup>—¡Jesús, Hijo de David, ten compasión de mí! —gritó el ciego.</p> <p><sup>39</sup>Los que iban delante lo reprendían para que se callara, pero él se puso a gritar aún más fuerte:</p> <p>—¡Hijo de David, ten compasión de mí!</p> <p><sup>40</sup>Jesús se detuvo y mandó que se lo trajeran. Cuando el ciego se acercó, le preguntó Jesús:</p> <p><sup>41</sup>—¿Qué quieres que haga por ti?</p> <p>—Señor, quiero ver.</p> <p><sup>42</sup>—¡Recibe la vista! —le dijo Jesús—. Tu fe te ha sanado.</p> <p><sup>43</sup>Al instante recobró la vista. Entonces, glorificando a Dios, comenzó a seguir a Jesús, y todos los que lo vieron daban alabanza a Dios.</p>",
+        "url": "https://biblegateway.com/passage/?search=Lucas%2018:35-43&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lucas 18:35-43",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOLuke2618",
+        "source": "arclight",
+        "refId": "6_20615-GOLuke2618",
+        "startTime": "4:20",
+        "endTime": "5:36",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de Descubrimiento (Todos responden)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención (o qué te gustó más) y por qué?"
+          },
+          {
+            "text": "¿Qué aprendiste acerca de Jesús?"
+          },
+          {
+            "text": "¿Qué aprendiste sobre las personas?"
+          },
+          {
+            "text": "¿Cómo obedecerás a Jesús ahora que sabes esto?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "¡Jesús tiene una gran compasión por las personas! Le hizo al ciego una pregunta increíble: \"¿Qué quieres que haga por ti?\" Entonces Él satisfizo las necesidades del hombre. En Juan 14:12-13 Jesús dijo: \" El que en mí cree, las obras que yo hago, él las hará también; y aun mayores hará, porque yo voy al Padre. Y todo lo que pidiereis al Padre en mi nombre, lo haré, para que el Padre sea glorificado en el Hijo.\" Como seguidores de Jesús, tomamos la iniciativa de mostrar compasión por las personas en el poder del Espíritu haciendo a las personas la misma Pregunta Asombrosa y satisfaciendo sus necesidades de manera práctica."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Practique contar la historia y usar la Pregunta Asombrosa. Incluya la práctica de la transición de una conversación a la historia."
+                  },
+                  {
+                    "text": "Opcional: contar la historia usando el segmento de la película JESUS"
+                  },
+                  {
+                    "text": "Actualice su lista Oikos con nuevas personas si es necesario"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique a 5 personas de su lista Oikos con las que puede orar y cuidar de ellas usando la pregunta asombrosa."
+          },
+          {
+            "text": "Escriba declaraciones usando de \"Yo haré…. cuando…” y que lo compartan con su grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos al Señor. Pídele al Señor que nos ayude a ser fieles y que nos use para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply108-i-will"
+      }
+    }
+  ]
+}

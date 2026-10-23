@@ -1,0 +1,461 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "mutiply319",
+  "sortOrder": 21,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lisez un passage biblique et exécutez un chant d’adoration.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Facultatif) Jésus-Christ est Seigneur, à la gloire de Dieu le Père ; qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité. Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus-Christ homme, qui s’est donné lui-même en rançon pour tous. ({Philippiens 2:11}; {1 Timothée 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippiens 2:11",
+                    "label": "Philippiens 2:11",
+                    "passage": "<p><sup>11</sup>et que toute langue confesse que Jésus Christ est Seigneur, à la gloire de Dieu le Père.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timothée 2:4-6",
+                    "label": "1 Timothée 2:4-6",
+                    "passage": "<p><sup>4</sup>qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité.</p><p><sup>5</sup>Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus Christ homme,</p><p><sup>6</sup>qui s'est donné lui-même en rançon pour tous. C'est là le témoignage rendu en son propre temps,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation et encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Trouvez un moyen de projeter une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "un passage qui leur rappelle le cœur du Père et de la vision final."
+                  },
+                  {
+                    "text": "réfléchir sur des changements intervenus dans leur vie depuis qu’ils ont commencé à suivre Christ"
+                  },
+                  {
+                    "text": "leur rappeler ce que Dieu veut faire à travers eux"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Partagez la GRANDE vision</strong> <em>« une église pour chaque village et communauté, l’évangile pour chaque personne ».</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexte",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Demandez au groupe de raconter l’histoire de la semaine passée."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lisez",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Actes 10:1-33 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Actes 10:1-33",
+        "html": "<p><sup>1</sup>Il y avait à Césarée un homme nommé Corneille, centenier dans la cohorte dite italienne.</p> <p><sup>2</sup>Cet homme était pieux et craignait Dieu, avec toute sa maison; il faisait beaucoup d'aumônes au peuple, et priait Dieu continuellement.</p> <p><sup>3</sup>Vers la neuvième heure du jour, il vit clairement dans une vision un ange de Dieu qui entra chez lui, et qui lui dit: Corneille!</p> <p><sup>4</sup>Les regards fixés sur lui, et saisi d'effroi, il répondit: Qu'est-ce, Seigneur? Et l'ange lui dit: Tes prières et tes aumônes sont montées devant Dieu, et il s'en est souvenu.</p> <p><sup>5</sup>Envoie maintenant des hommes à Joppé, et fais venir Simon, surnommé Pierre;</p> <p><sup>6</sup>il est logé chez un certain Simon, corroyeur, dont la maison est près de la mer.</p> <p><sup>7</sup>Dès que l'ange qui lui avait parlé fut parti, Corneille appela deux de ses serviteurs, et un soldat pieux d'entre ceux qui étaient attachés à sa personne;</p> <p><sup>8</sup>et, après leur avoir tout raconté, il les envoya à Joppé.</p> <p><sup>9</sup>Le lendemain, comme ils étaient en route, et qu'ils approchaient de la ville, Pierre monta sur le toit, vers la sixième heure, pour prier.</p> <p><sup>10</sup>Il eut faim, et il voulut manger. Pendant qu'on lui préparait à manger, il tomba en extase.</p> <p><sup>11</sup>Il vit le ciel ouvert, et un objet semblable à une grande nappe attachée par les quatre coins, qui descendait et s'abaissait vers la terre,</p> <p><sup>12</sup>et où se trouvaient tous les quadrupèdes et les reptiles de la terre et les oiseaux du ciel.</p> <p><sup>13</sup>Et une voix lui dit: Lève-toi, Pierre, tue et mange.</p> <p><sup>14</sup>Mais Pierre dit: Non, Seigneur, car je n'ai jamais rien mangé de souillé ni d'impur.</p> <p><sup>15</sup>Et pour la seconde fois la voix se fit encore entendre à lui: Ce que Dieu a déclaré pur, ne le regarde pas comme souillé.</p> <p><sup>16</sup>Cela arriva jusqu'à trois fois; et aussitôt après, l'objet fut retiré dans le ciel.</p> <p><sup>17</sup>Tandis que Pierre ne savait en lui-même que penser du sens de la vision qu'il avait eue, voici, les hommes envoyés par Corneille, s'étant informés de la maison de Simon, se présentèrent à la porte,</p> <p><sup>18</sup>et demandèrent à haute voix si c'était là que logeait Simon, surnommé Pierre.</p> <p><sup>19</sup>Et comme Pierre était à réfléchir sur la vision, l'Esprit lui dit: Voici, trois hommes te demandent;</p> <p><sup>20</sup>lève-toi, descends, et pars avec eux sans hésiter, car c'est moi qui les ai envoyés.</p> <p><sup>21</sup>Pierre donc descendit, et il dit à ces hommes: Voici, je suis celui que vous cherchez; quel est le motif qui vous amène?</p> <p><sup>22</sup>Ils répondirent: Corneille, centenier, homme juste et craignant Dieu, et de qui toute la nation des Juifs rend un bon témoignage, a été divinement averti par un saint ange de te faire venir dans sa maison et d'entendre tes paroles.</p> <p><sup>23</sup>Pierre donc les fit entrer, et les logea. Le lendemain, il se leva, et partit avec eux. Quelques-uns des frères de Joppé l'accompagnèrent.</p> <p><sup>24</sup>Ils arrivèrent à Césarée le jour suivant. Corneille les attendait, et avait invité ses parents et ses amis intimes.</p> <p><sup>25</sup>Lorsque Pierre entra, Corneille, qui était allé au-devant de lui, tomba à ses pieds et se prosterna.</p> <p><sup>26</sup>Mais Pierre le releva, en disant: Lève-toi; moi aussi, je suis un homme.</p> <p><sup>27</sup>Et conversant avec lui, il entra, et trouva beaucoup de personnes réunies.</p> <p><sup>28</sup>Vous savez, leur dit-il, qu'il est défendu à un Juif de se lier avec un étranger ou d'entrer chez lui; mais Dieu m'a appris à ne regarder aucun homme comme souillé et impur.</p> <p><sup>29</sup>C'est pourquoi je n'ai pas eu d'objection à venir, puisque vous m'avez appelé; je vous demande donc pour quel motif vous m'avez envoyé chercher.</p> <p><sup>30</sup>Corneille dit: Il y a quatre jours, à cette heure-ci, je priais dans ma maison à la neuvième heure; et voici, un homme vêtu d'un habit éclatant se présenta devant moi, et dit:</p> <p><sup>31</sup>Corneille, ta prière a été exaucée, et Dieu s'est souvenu de tes aumônes.</p> <p><sup>32</sup>Envoie donc à Joppé, et fais venir Simon, surnommé Pierre; il est logé dans la maison de Simon, corroyeur, près de la mer.</p> <p><sup>33</sup>Aussitôt j'ai envoyé vers toi, et tu as bien fait de venir. Maintenant donc nous sommes tous devant Dieu, pour entendre tout ce que le Seigneur t'a ordonné de nous dire.</p>",
+        "url": "https://biblegateway.com/passage/?search=Actes%2010:1-33&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Actes 10:1-8",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_496-Acts7326-0-0",
+        "source": "arclight",
+        "refId": "2_496-Acts7326-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Actes 10:9-23",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_496-Acts7327-0-0",
+        "source": "arclight",
+        "refId": "2_496-Acts7327-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Actes 10:24-33",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_496-Acts7328-0-0",
+        "source": "arclight",
+        "refId": "2_496-Acts7328-0-0",
+        "startTime": "start",
+        "endTime": "1:35",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ? Pourquoi ?"
+          },
+          {
+            "text": "À ce niveau de l’histoire, qu’est-ce qui est nouveau ou est développé ?"
+          },
+          {
+            "text": "Quel modèle a été donné quant à la vie dépendante de l’Esprit, faire de disciples ou au leadership ?"
+          },
+          {
+            "text": "Comment pouvons-nous vivre différemment maintenant que nous connaissons cette histoire?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Des questions supplémentaires dont vous pouvez faire usage:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comment les disciples de Jésus poursuivent-ils Son œuvre de faire des disciples et d’implantation d’églises ?"
+          },
+          {
+            "text": "Comment l’évangile impacte-t-il les gens et la société ?"
+          },
+          {
+            "text": "Quels étaient les barrières et les obstacles qui ont été surmontés et comment ont-ils été surmontés ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Il s’agissait d’un voyage de 2-jours de Joppé à Césarée. Á travers une série de vision, Jésus aide Pierre et les croyants juifs qui sont avec lui à franchir une barrière culturelle dans l’église Juive. Il était interdit à un bon praticien Juif d’entrer dans la maison d’un païen. Jésus envoie encore Pierre dans la maison de Corneille. Non seulement Corneille était un païen mais aussi un centenier de l’Empire Romain – un officier chargé d’environ 80-100 soldats du régiment italien. Corneille est un bon exemple d’une personne de paix. C’est quelqu’un qu’on n’espérait pas et dont le cœur a été disposé par Jésus, et qui rassemble d’autres personnes de son réseau relationnel pour écouter avec lui au sujet de Jésus. Cette histoire montre comment le Seigneur dispose le cœur d’un messager et celui d’une personne de paix."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratiquez ici la libéralité et la sainte-cène ou dans la section Se préparer pour la mission.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se préparer pour la mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez des gens vers qui ou des endroits où vous pouvez prendre l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez des promesses « Je ferai d’ici quand » et partagez cela avec votre petit groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bénédiction (facultatif)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-mutiply319-i-will"
+      }
+    }
+  ]
+}

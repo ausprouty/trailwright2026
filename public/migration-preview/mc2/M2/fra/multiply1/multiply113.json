@@ -1,0 +1,55 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply113",
+  "sortOrder": 13,
+  "blocks": [
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<div class=\"lesson\"><img class=\"lesson-icon\" src=\"/sites/mc2/images/standard/look-back.png\"> <div class=\"lesson-subtitle\">Regarder Derrière</div> </div> <div class=\"reveal\"> <hr> <h2>Louange</h2> <p>Lisez un passage biblique et exécutez un chant d’adoration</p> <ul> <li>Exemple: Lisez {Psaumes 100} et exécutez des chants. </li> </ul> <hr></div> <ul> </ul> <h2>Soin</h2> <p>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</p> <ul> <li>Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine.</li> <li>Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels.</li> </ul> <h2>Célébrer la Fidélité</h2> <p>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour.</p> <ul> <li>Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »</li> </ul> <div class=\"reveal\"> <hr> <h2>Projection de Vision</h2> <p>Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux.</p> <p>Exemple: Lisez {Ephesiens 2:1-10}. </p> N’est-ce pas merveilleux? Nous étions morts dans nos péchés, mais Dieu nous a rendus vivants. Il a fait tout ceci afin que vous puissiez accomplir les bonnes œuvres qu’Il a préparées pour vous. Nos vies sont pleines d’objectifs et de sens! Encourageons-nous mutuellement en nous rappelant ces vérités. <p> </p> <hr></div>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Psaumes 100",
+            "label": "Psaumes 100",
+            "passage": "<div><p><sup>1</sup>Psaume de louange. Poussez vers l'Éternel des cris de joie, Vous tous, habitants de la terre!</p><p><sup>2</sup>Servez l'Éternel, avec joie, Venez avec allégresse en sa présence!</p><p><sup>3</sup>Sachez que l'Éternel est Dieu! C'est lui qui nous a faits, et nous lui appartenons; Nous sommes son peuple, et le troupeau de son pâturage.</p><p><sup>4</sup>Entrez dans ses portes avec des louanges, Dans ses parvis avec des cantiques! Célébrez-le, bénissez son nom!</p><p><sup>5</sup>Car l'Éternel est bon; sa bonté dure toujours, Et sa fidélité de génération en génération.</p></div>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "Ephesiens 2:1-10",
+            "label": "Ephesiens 2:1-10",
+            "passage": "<p><sup>1</sup>Vous étiez morts par vos offenses et par vos péchés,</p><p><sup>2</sup>dans lesquels vous marchiez autrefois, selon le train de ce monde, selon le prince de la puissance de l'air, de l'esprit qui agit maintenant dans les fils de la rébellion.</p><p><sup>3</sup>Nous tous aussi, nous étions de leur nombre, et nous vivions autrefois selon les convoitises de notre chair, accomplissant les volontés de la chair et de nos pensées, et nous étions par nature des enfants de colère, comme les autres...</p><p><sup>4</sup>Mais Dieu, qui est riche en miséricorde, à cause du grand amour dont il nous a aimés,</p><p><sup>5</sup>nous qui étions morts par nos offenses, nous a rendus à la vie avec Christ (c'est par grâce que vous êtes sauvés);</p><p><sup>6</sup>il nous a ressuscités ensemble, et nous a fait asseoir ensemble dans les lieux célestes, en Jésus Christ,</p><p><sup>7</sup>afin de montrer dans les siècles à venir l'infinie richesse de sa grâce par sa bonté envers nous en Jésus Christ.</p><p><sup>8</sup>Car c'est par la grâce que vous êtes sauvés, par le moyen de la foi. Et cela ne vient pas de vous, c'est le don de Dieu.</p><p><sup>9</sup>Ce n'est point par les oeuvres, afin que personne ne se glorifie.</p><p><sup>10</sup>Car nous sommes son ouvrage, ayant été créés en Jésus Christ pour de bonnes oeuvres, que Dieu a préparées d'avance, afin que nous les pratiquions.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Pour en savoir davantage veuillez lire le <a href=\"/sites/mc2/content/M2/fra/tc/ct08.html\">Message transmissible N° 8 : Comment Aimer par la Foi</a> et en discuter avec un autre membre du groupe.",
+        "className": "for-enrichment"
+      }
+    }
+  ]
+}

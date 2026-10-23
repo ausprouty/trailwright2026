@@ -1,0 +1,353 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply201",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向后看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "敬拜赞美——以神的话、诗歌称颂赞美神",
+        "level": 2
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "祷告关怀——以祷告、勉励，合乎圣经的教导彼此服侍",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感谢神和需要耶稣为你做的事，并彼此感恩代祷"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "庆贺实践——鼓励小组在爱中互相督促，一同顺服耶稣",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"back\">自从参加《倍增门徒—基础查经》，你最大的得着或心得是什么？</li> <li class=\"back\">背诵经文（{路14:26-27}) </li>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "路14:26-27",
+            "label": "路14:26-27",
+            "passage": "<p><sup>26</sup>“人到我这里来，若不爱我胜过爱自己的父母、妻子、儿女、弟兄、姐妹和自己的性命，就不能做我的门徒。<sup>27</sup>凡不背着自己十字架跟从我的，也不能做我的门徒。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "天父心意——体恤神的心意，成为我们行事的动机与激励",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">耶稣是完全的神成为人，并进入人类的历史中，将上帝完全启示出来。祂在十字架上受死，说出神何等爱我们。故此，耶稣基督就是神给人活泼的道，表达神对世人的爱。未来一年在《倍增门徒之天国典范》小组里，我们将从人子耶稣的一生与事工，来看神如何造就和建立门徒的生命，并使他们建立与人连结、以上帝为中心的基础，去使多人作主的门徒（参看课程说明与目录）。</span>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "学像耶稣——学习为要应用，应用带来生命改变",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>经文背景</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "作者约翰以“道”作为福音书之始。英语的“道”字（word）是说话的单位，用以向人表达自己。这里的“道”不是指一段说话或演辞，乃指一个人──神的儿子主耶稣基督。神在主耶稣身上全面向人类彰显祂自己。基督来到世上，完美地向我们显明神的形象。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>阅读经文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "阅读或观看《约翰福音1:1-14》两遍。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "约翰福音1:1-14",
+        "html": "<p><sup>1</sup>太初有道，道与神同在，道就是神。<sup>2</sup>这道太初与神同在。<sup>3</sup>万物是借着他造的。凡被造的，没有一样不是借着他造的。<sup>4</sup>生命在他里头。这生命就是人的光。<sup>5</sup>光照在黑暗里，黑暗却不接受光。<sup>6</sup>有一个人，是从神那里差来的，名叫约翰。<sup>7</sup>这人来，为要作见证，就是为光作见证，叫众人因他可以信。<sup>8</sup>他不是那光，乃是要为光作见证。<sup>9</sup>那光是真光，照亮一切生在世上的人。<sup>10</sup>他在世界，世界也是借着他造的，世界却不认识他。<sup>11</sup>他到自己的地方来，自己的人倒不接待他。<sup>12</sup>凡接待他的，就是信他名的人，他就赐他们权柄，作神的儿女。<sup>13</sup>这等人不是从血气生的，不是从情欲生的，也不是从人意生的，乃是从神生的。<sup>14</sup>道成了肉身住在我们中间，充充满满的有恩典有真理。我们也见过他的荣光，正是父独生子的荣光。</p>",
+        "url": "https://biblegateway.com/passage/?search=约翰福音1:1-14&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "约翰福音1:1-14",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOJohn2201",
+        "source": "arclight",
+        "refId": "6_20615-GOJohn2201",
+        "startTime": "start",
+        "endTime": "2:47",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索与讨论</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "让你印象深刻的经文/部分是什么？为什么？"
+                },
+                {
+                  "text": "在这段经文中，你对耶稣的神性或人性有何认识？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再读一遍故事。请小组一员口述这故事，其他人根据需要作补充或更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<hr> <ul> <li class=\"up\"><strong>小结</strong></li> </ul> <p class=\"up\"> </p> <ul> 翻阅{腓立比书2:5-11}。 全能的上帝成了人的样式。祂选择降生成为一个婴孩，而非成人的样式。圣经说：祂“反倒虚己”， 成为一个“人”与我们同住在这世界。 然而，祂也一直是完全的神，是全能、全知、全在的。祂隐藏了神性，定意使自己和自己的大能受到限制，成为一个真正的人。 </ul> <hr>",
+        "references": [
+          {
+            "id": "popup_pop2",
+            "marker": "腓立比书2:5-11",
+            "label": "腓立比书2:5-11",
+            "passage": "<p><sup>5</sup>你们当以基督耶稣的心为心。<sup>6</sup>他本有神的形象，不以自己与神同等为强夺的，<sup>7</sup>反倒虚己，取了奴仆的形象，成为人的样式；<sup>8</sup>既有人的样子，就自己卑微，存心顺服以至于死，且死在十字架上。</p><p><sup>9</sup>所以神将他升为至高，又赐给他那超乎万名之上的名，<sup>10</sup>叫一切在天上的、地上的和地底下的，因耶稣的名无不屈膝，<sup>11</sup>无不口称耶稣基督为主，使荣耀归于父神。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "经文背诵——将神话语藏在心里，成为我们行事的准则",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "约1:1-2"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>1</sup>太初有道，道与神同在，道就是神。<sup>2</sup>这道太初与神同在。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音预备——操练有信心并忠心地实践和训练他人",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "如果我们不明白耶稣独特的源头和使命，我们就无法真的认识祂。在你“认识神”的过程中，你对耶稣有过什么错误的看法吗？这段经文如何帮助你认识耶稣？"
+          },
+          {
+            "text": "作为“人的儿女”，我们没有选择的自由，但我们却有自由选择作“上帝的儿女”，你的选择是什么？是什么因素促成你做这样的选择？"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行动——设定行动点，彼此督责，勉励行道",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花一段时间来到神的面前，回顾你接受主耶稣作你生命的救主之后，你的生命经历什么改变？把它写下，下周在小组里分享。"
+          },
+          {
+            "text": "在你的人际网络中想出2-3位你将与他们分享你遇见耶稣生命改变的故事，并在《福音行动表》写下他们的名字。"
+          },
+          {
+            "text": "依照你今天所学到的，写下一个“届时我会”的宣告，并于组内分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在________________（时间/地点）将会__________________（对象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分钟写下你在本课的学习心得，或是你未来一周可能有的其他行动点。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音祷告——将所行的交托神，求主按祂旨意成就",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "亲爱的天父，感谢祢那么爱我们，借着祢的爱子耶稣基督降世为人，为要拯救我们世人。我们本不认识祢，甚至曾公然反对祢，但祢不离不弃的爱，却一再将我们挽回。如今我们可以因信耶稣为基督，成为祢的儿女。天父啊，我们愿意更认识祢，真知道祢，求祢帮助我们在福音书中对主耶稣有正确的认识，并效法祂的生命。奉主耶稣的圣名祷告，阿们！"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply201-i-will"
+      }
+    }
+  ]
+}

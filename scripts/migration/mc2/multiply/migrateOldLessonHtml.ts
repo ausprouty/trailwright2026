@@ -8,25 +8,26 @@ import { isTag, isText } from 'domhandler';
 
 import { ElementType } from 'domelementtype';
 import type { SectionMarkerBlockData } from 'src/types/content/MigrationTypes';
-import { remapImagePaths } from '../remapImagePaths';
+import { remapMc2ImagePaths } from '../remapMc2ImagePaths';
 import type { EditorJsContent, SectionTheme, VideoSource } from 'src/types/content/MigrationTypes';
 import type { AnyEditorJsBlock } from 'src/types/content/EditorBlocks';
 
 import type { ListItem } from 'src/types/content/ListBlock';
-import { buildBibleReferenceBlock } from '../shared/buildBibleReferenceBlock';
+import { buildBibleReferenceBlock } from '../../shared/buildBibleReferenceBlock';
 
-import { extractPopupBibleReferences } from '../shared/extractPopupBibleReferences';
-import { extractInlineBibleRefs, type BibleRef } from '../shared/extractInlineBibleRefs';
-import { extractListItems } from '../shared/extractLIstItems';
-import { cleanBibleHtml } from '../shared/cleanBibleHtml';
-import { looksLikeBibleReference } from '../shared/looksLikeBibleReference';
-import { normalizeInlineHtml } from '../shared/normalizeInlineHtml';
-import { trimNbspEdges } from '../shared/trimNbspEdges';
+import { extractPopupBibleReferences } from '../../shared/extractPopupBibleReferences';
+import { extractInlineBibleRefs, type BibleRef } from '../../shared/extractInlineBibleRefs';
+import { extractListItems } from '../../shared/extractLIstItems';
+import { cleanBibleHtml } from '../../shared/cleanBibleHtml';
+import { looksLikeBibleReference } from '../../shared/looksLikeBibleReference';
+import { normalizeInlineHtml } from '../../shared/normalizeInlineHtml';
+import { trimNbspEdges } from '../../shared/trimNbspEdges';
 
 type MigrateOptions = {
   includeTime?: boolean;
   includeVersion?: boolean;
 };
+
 
 function buildBiblePassageBlock(reference: string, html: string, url: string): AnyEditorJsBlock {
   return {
@@ -269,9 +270,9 @@ function convertPopupLinksToBibleReferenceBlock(
     const popupId = getPopUpIdFromHref(href);
 
     if (!popupId) return;
-    console.log('popupId:', popupId);
-    console.log('popupMap keys:', Array.from(popupMap.keys()));
-    console.log('passage:', popupMap.get(popupId));
+    //console.log('popupId:', popupId);
+   // console.log('popupMap keys:', Array.from(popupMap.keys()));
+   // console.log('passage:', popupMap.get(popupId));
 
     const label = $link.text().trim();
     const marker = label;
@@ -647,6 +648,8 @@ function getSectionTheme($el: cheerio.Cheerio<AnyNode>): SectionTheme {
 
   if (
     imageSrc.includes('arrowleft') ||
+    imageSrc.includes('look-back') ||
+    imageSrc.includes('mc2back') ||
     $el.find(
       '.lesson-section.back, .lesson-subtitle.back, .lesson-section .back, .lesson-subtitle .back',
     ).length > 0 ||
@@ -657,6 +660,8 @@ function getSectionTheme($el: cheerio.Cheerio<AnyNode>): SectionTheme {
 
   if (
     imageSrc.includes('arrowup') ||
+    imageSrc.includes('look-up') ||
+    imageSrc.includes('mc2up') ||
     $el.find('.lesson-section.up, .lesson-subtitle.up, .lesson-section .up, .lesson-subtitle .up')
       .length > 0 ||
     subtitleText === 'ENTDECKEN' ||
@@ -668,6 +673,8 @@ function getSectionTheme($el: cheerio.Cheerio<AnyNode>): SectionTheme {
 
   if (
     imageSrc.includes('arrowright') ||
+    imageSrc.includes('look-forward') ||
+    imageSrc.includes('mc2forward') ||
     $el.find(
       '.lesson-section.forward, .lesson-subtitle.forward, .lesson-section .forward, .lesson-subtitle .forward',
     ).length > 0 ||
@@ -994,7 +1001,7 @@ export function migrateOldLessonHtmlToEditorJs(
   html: string,
   options: MigrateOptions = {},
 ): EditorJsContent {
-  const remappedHtml = remapImagePaths(html);
+  const remappedHtml = remapMc2ImagePaths(html);
   const repairedHtml = repairMojibakeText(remappedHtml);
   const $ = cheerio.load(repairedHtml);
 
@@ -1010,13 +1017,14 @@ export function migrateOldLessonHtmlToEditorJs(
 
   function processNode($el: cheerio.Cheerio<AnyNode>): void {
     const node = $el[0];
-    console.log(
+   /* console.log(
       'PROCESS NODE:',
       node?.type,
       node && isTag(node) ? node.name : undefined,
       $el.attr?.('class'),
       $el.html()?.slice(0, 120),
     );
+    */
     // 1. Ignore / cleanup cases first.
     if (!$el.length) return;
     if (isEmptyLessonDiv($el)) {

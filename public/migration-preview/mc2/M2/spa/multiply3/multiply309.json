@@ -1,0 +1,471 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply309",
+  "sortOrder": 11,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li>(Opcional) Jesucristo es el Señor, para la gloria de Dios Padre. Él quiere que todos los hombres sean salvos y lleguen al conocimiento de la verdad. Porque hay un solo Dios y un mediador también entre Dios y el hombre, el hombre Jesucristo, que se entregó a sí mismo como rescate por todos. ({Filipenses 2:11b}; {1 Timoteo 2:4-6a)} </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11b",
+                    "label": "Filipenses 2:11b",
+                    "passage": "<p><sup>11</sup>... para gloria de Dios Padre.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timoteo 2:4-6a)",
+                    "label": "1 Timoteo 2:4-6a)",
+                    "passage": "<p><sup>4</sup>pues él quiere que todos sean salvos y lleguen a conocer la verdad.<sup>5</sup>Porque hay un solo Dios y un solo mediador entre Dios y los hombres, Jesucristo hombre,<sup>6</sup>quien dio su vida como rescate por todos. Este testimonio Dios lo ha dado a su debido tiempo,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar a las necesidades de los demás en oración, consejo bíblico y aliento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunta: \"¿Qué pasó cuando confiaste en Dios tus metas y tu declaración: “Yo haré…”?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y Animo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Elija una manera de proyectar visión de quiénes pueden llegar a ser en Cristo o lo que Dios puede hacer a través de ellos al</em>:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartir un versículo Bíblico que les recuerde el Corazón del Padre y la visión final."
+                  },
+                  {
+                    "text": "Reflexionando sobre los cambios en su vida desde que comenzaron a seguir a Cristo"
+                  },
+                  {
+                    "text": "recordándoles lo que Dios quiere hacer a través de ellos"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Comparta la GRAN visión de \"Una iglesia para cada pueblo y comunidad, y el Evangelio para cada persona\"."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídale al grupo que cuente la historia de la semana pasada"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Hechos 5:12-42</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Hechos 5:12-42",
+        "html": "<h3>Los apóstoles sanan a muchas personas</h3> <p><sup>12</sup>Por medio de los apóstoles ocurrían muchas señales y prodigios entre el pueblo; y todos los creyentes se reunían de común acuerdo en el Pórtico de Salomón.<sup>13</sup>Nadie entre el pueblo se atrevía a juntarse con ellos, aunque los elogiaban.<sup>14</sup>Y seguía aumentando el número de los que confiaban en el Señor.<sup>15</sup>Era tal la multitud de hombres y mujeres que hasta sacaban a los enfermos a las plazas y los ponían en camillas para que, al pasar Pedro, por lo menos su sombra cayera sobre alguno de ellos.<sup>16</sup>También de los pueblos vecinos a Jerusalén acudían multitudes que llevaban personas enfermas y atormentadas por espíritus malignos, y todas eran sanadas.</p> <h3>Persiguen a los apóstoles</h3> <p><sup>17</sup>El sumo sacerdote y todos sus partidarios, que pertenecían a la secta de los saduceos, se llenaron de envidia.<sup>18</sup>Entonces arrestaron a los apóstoles y los metieron en la cárcel común.<sup>19</sup>Pero en la noche un ángel del Señor abrió las puertas de la cárcel y los sacó.<sup>20</sup>«Vayan —les dijo—, preséntense en el templo y comuniquen al pueblo todo este mensaje de vida».</p> <p><sup>21</sup>Conforme a lo que habían oído, al amanecer entraron en el templo y se pusieron a enseñar. Cuando llegaron el sumo sacerdote y sus partidarios, convocaron al Consejo, es decir, a la asamblea general de los ancianos de Israel, y mandaron traer de la cárcel a los apóstoles.<sup>22</sup>Pero, al llegar los guardias a la cárcel, no los encontraron. Así que volvieron con el siguiente informe:<sup>23</sup>«Encontramos la cárcel cerrada, con todas las medidas de seguridad, y a los guardias firmes a las puertas; pero, cuando abrimos, no encontramos a nadie adentro».</p> <p><sup>24</sup>Al oírlo, el capitán de la guardia del templo y los jefes de los sacerdotes se quedaron perplejos, preguntándose en qué terminaría todo aquello.<sup>25</sup>En esto, se presentó alguien que les informó: «¡Miren! Los hombres que ustedes metieron en la cárcel están en el templo y siguen enseñando al pueblo».<sup>26</sup>Fue entonces el capitán con sus guardias y trajo a los apóstoles sin recurrir a la fuerza, porque temían ser apedreados por la gente.<sup>27</sup>Los condujeron ante el Consejo, y el sumo sacerdote les reclamó:</p> <p><sup>28</sup>—Terminantemente les hemos prohibido enseñar en ese nombre. Sin embargo, ustedes han llenado a Jerusalén con sus enseñanzas, y se han propuesto echarnos la culpa a nosotros de la muerte de ese hombre.</p> <p><sup>29</sup>—¡Es necesario obedecer a Dios antes que a los hombres! —respondieron Pedro y los demás apóstoles—.<sup>30</sup>El Dios de nuestros antepasados resucitó a Jesús, a quien ustedes mataron colgándolo de un madero.<sup>31</sup>Por su poder, Dios lo exaltó como Príncipe y Salvador, para que diera a Israel arrepentimiento y perdón de pecados.<sup>32</sup>Nosotros somos testigos de estos acontecimientos, y también lo es el Espíritu Santo que Dios ha dado a quienes le obedecen.</p> <p><sup>33</sup>A los que oyeron esto se les subió la sangre a la cabeza y querían matarlos.<sup>34</sup>Pero un fariseo llamado Gamaliel, maestro de la ley muy respetado por todo el pueblo, se puso de pie en el Consejo y mandó que hicieran salir por un momento a los apóstoles.<sup>35</sup>Luego dijo: «Hombres de Israel, piensen dos veces en lo que están a punto de hacer con estos hombres.<sup>36</sup>Hace algún tiempo surgió Teudas, jactándose de ser alguien, y se le unieron unos cuatrocientos hombres. Pero lo mataron y todos sus seguidores se dispersaron y allí se acabó todo.<sup>37</sup>Después de él surgió Judas el galileo, en los días del censo, y logró que la gente lo siguiera. A él también lo mataron, y todos sus secuaces se dispersaron.<sup>38</sup>En este caso les aconsejo que dejen a estos hombres en paz. ¡Suéltenlos! Si lo que se proponen y hacen es de origen humano, fracasará;<sup>39</sup>pero, si es de Dios, no podrán destruirlos, y ustedes se encontrarán luchando contra Dios».</p> <p>Se dejaron persuadir por Gamaliel.<sup>40</sup>Entonces llamaron a los apóstoles y, luego de azotarlos, les ordenaron que no hablaran más en el nombre de Jesús. Después de eso los soltaron.</p> <p><sup>41</sup>Así, pues, los apóstoles salieron del Consejo, llenos de gozo por haber sido considerados dignos de sufrir afrentas por causa del Nombre.<sup>42</sup>Y día tras día, en el templo y de casa en casa, no dejaban de enseñar y anunciar las buenas nuevas de que Jesús es el Mesías.</p>",
+        "url": "https://biblegateway.com/passage/?search=Hechos%205:12-42&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Hechos 5:12-42",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7313-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7313-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Hechos 5:12-42",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7314-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7314-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de Descubrimiento",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención o qué es lo que más te gustó? ¿por qué?"
+          },
+          {
+            "text": "¿Qué hay de nuevo o se ha desarrollado a estas alturas de la historia?"
+          },
+          {
+            "text": "¿Qué se está modelando acerca de una vida dependiente del Espíritu, haciendo discípulos o liderazgo?"
+          },
+          {
+            "text": "¿Cómo podemos vivir de manera diferente ahora que conocemos esta historia?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Preguntas adicionales que puede utilizar:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Cómo continúan los seguidores de Jesús Su obra de hacer discípulos y plantar iglesias?"
+          },
+          {
+            "text": "¿Cómo está impactando el Evangelio en las personas y en la sociedad?"
+          },
+          {
+            "text": "¿Qué barreras u obstáculos se superaron y cómo se superaron?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Los creyentes tenían una buena reputación entre las personas que vivían en Jerusalén. Muchos de los pueblos y ciudades cercanas estaban siendo atraídos por el ministerio de la iglesia de Jerusalén. Los Apóstoles estaban viviendo lo que habían sido entrenados para hacer por Jesús: sanar a los enfermos, expulsar demonios y predicar las buenas nuevas del Reino ({Mateo 10}, {Lucas 10}). Sin embargo, no iban a la gente fuera de Jerusalén como Jesús les había instruido ({Hechos 1:8}). Los líderes religiosos reaccionaron a la creciente popularidad de esta nueva comunidad con celos al igual que reaccionaron a la popularidad de Jesús. Esto llevó a que los Apóstoles fueran perseguidos. Jesús intervino una vez más y envió un ángel para ayudarlos milagrosamente a escapar de la prisión. Cuando se enfrentó a los líderes religiosos de nuevo, Pedro insistió en que debían obedecer a Dios por encima de todos los demás. Los líderes religiosos ahora intensificaron su persecución para incluir la violencia física. Los Apóstoles se regocijaron en medio de estas circunstancias y consideraron un honor sufrir como Jesús.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Mateo 10",
+                    "label": "Mateo 10",
+                    "passage": "<div><p><sup>1</sup>Reunió a sus doce discípulos y les dio autoridad para expulsar a los espíritus malignos y sanar toda enfermedad y toda dolencia.</p><p><sup>2</sup>Estos son los nombres de los doce apóstoles: primero Simón, llamado Pedro, y su hermano Andrés; Jacobo y su hermano Juan, hijos de Zebedeo;<sup>3</sup>Felipe y Bartolomé; Tomás y Mateo, el recaudador de impuestos; Jacobo, hijo de Alfeo, y Tadeo;<sup>4</sup>Simón el Zelote y Judas Iscariote, el que lo traicionó.</p><p><sup>5</sup>Jesús envió a estos doce con las siguientes instrucciones: «No vayan entre los gentiles ni entren en ningún pueblo de los samaritanos.<sup>6</sup>Vayan más bien a las ovejas descarriadas del pueblo de Israel.<sup>7</sup>Dondequiera que vayan, prediquen este mensaje: “El reino de los cielos está cerca”.<sup>8</sup>Sanen a los enfermos, resuciten a los muertos, limpien de su enfermedad a los que tienen lepra, expulsen a los demonios. Lo que ustedes recibieron gratis, denlo gratuitamente.<sup>9</sup>No lleven oro ni plata ni cobre en el cinturón,<sup>10</sup>ni bolsa para el camino, ni dos mudas de ropa, ni sandalias, ni bastón; porque el trabajador merece que se le dé su sustento.</p><p><sup>11</sup>»En cualquier pueblo o aldea donde entren, busquen a alguien que merezca recibirlos, y quédense en su casa hasta que se vayan de ese lugar.<sup>12</sup>Al entrar, digan: “Paz a esta casa”.<sup>13</sup>Si el hogar se lo merece, que la paz de ustedes reine en él; y, si no, que la paz se vaya con ustedes.<sup>14</sup>Si alguno no los recibe bien ni escucha sus palabras, al salir de esa casa o de ese pueblo, sacúdanse el polvo de los pies.<sup>15</sup>Les aseguro que en el día del juicio el castigo para Sodoma y Gomorra será más tolerable que para ese pueblo.<sup>16</sup>Los envío como ovejas en medio de lobos. Por tanto, sean astutos como serpientes y sencillos como palomas.</p><p><sup>17</sup>»Tengan cuidado con la gente; los entregarán a los tribunales y los azotarán en las sinagogas.<sup>18</sup>Por mi causa los llevarán ante gobernadores y reyes para dar testimonio a ellos y a los gentiles.<sup>19</sup>Pero, cuando los arresten, no se preocupen por lo que van a decir o cómo van a decirlo. En ese momento se les dará lo que han de decir,<sup>20</sup>porque no serán ustedes los que hablen, sino que el Espíritu de su Padre hablará por medio de ustedes.</p><p><sup>21</sup>»El hermano entregará a la muerte al hermano, y el padre al hijo. Los hijos se rebelarán contra sus padres y harán que los maten.<sup>22</sup>Por causa de mi nombre todo el mundo los odiará, pero el que se mantenga firme hasta el fin será salvo.<sup>23</sup>Cuando los persigan en una ciudad, huyan a otra. Les aseguro que no terminarán de recorrer las ciudades de Israel antes de que venga el Hijo del hombre.</p><p><sup>24</sup>»El discípulo no es superior a su maestro, ni el siervo superior a su amo.<sup>25</sup>Basta con que el discípulo sea como su maestro, y el siervo como su amo. Si al jefe de la casa lo han llamado Beelzebú, ¡cuánto más a los de su familia!</p><p><sup>26</sup>»Así que no les tengan miedo; porque no hay nada encubierto que no llegue a revelarse, ni nada escondido que no llegue a conocerse.<sup>27</sup>Lo que les digo en la oscuridad, díganlo ustedes a plena luz; lo que se les susurra al oído, proclámenlo desde las azoteas.<sup>28</sup>No teman a los que matan el cuerpo, pero no pueden matar el alma. Teman más bien al que puede destruir alma y cuerpo en el infierno.<sup>29</sup>¿No se venden dos gorriones por una monedita? Sin embargo, ni uno de ellos caerá a tierra sin que lo permita el Padre;<sup>30</sup>y él les tiene contados a ustedes aun los cabellos de la cabeza.<sup>31</sup>Así que no tengan miedo; ustedes valen más que muchos gorriones.</p><p><sup>32</sup>»A cualquiera que me reconozca delante de los demás, yo también lo reconoceré delante de mi Padre que está en el cielo.<sup>33</sup>Pero a cualquiera que me desconozca delante de los demás, yo también lo desconoceré delante de mi Padre que está en el cielo.</p><p><sup>34</sup>»No crean que he venido a traer paz a la tierra. No vine a traer paz, sino espada.<sup>35</sup>Porque he venido a poner en conflicto</p><p>»“al hombre contra su padre,<br>a la hija contra su madre,<br>a la nuera contra su suegra;<br><sup>36</sup>los enemigos de cada cual<br>serán los de su propia familia”.</p></div><p><sup>37</sup>»El que quiere a su padre o a su madre más que a mí no es digno de mí; el que quiere a su hijo o a su hija más que a mí no es digno de mí;<sup>38</sup>y el que no toma su cruz y me sigue no es digno de mí.<sup>39</sup>El que se aferre a su propia vida, la perderá, y el que renuncie a su propia vida por mi causa, la encontrará.</p><p><sup>40</sup>»Quien los recibe a ustedes me recibe a mí; y quien me recibe a mí recibe al que me envió.<sup>41</sup>Cualquiera que recibe a un profeta por tratarse de un profeta recibirá recompensa de profeta; y el que recibe a un justo por tratarse de un justo recibirá recompensa de justo.<sup>42</sup>Y quien dé siquiera un vaso de agua fresca a uno de estos pequeños por tratarse de uno de mis discípulos, les aseguro que no perderá su recompensa».</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Lucas 10",
+                    "label": "Lucas 10",
+                    "passage": "<h3>Jesús envía a los setenta y dos</h3><p><sup>1</sup>Después de esto, el Señor escogió a otros setenta y dos para enviarlos de dos en dos delante de él a todo pueblo y lugar adonde él pensaba ir.<sup>2</sup>«Es abundante la cosecha —les dijo—, pero son pocos los obreros. Pídanle, por tanto, al Señor de la cosecha que mande obreros a su campo.<sup>3</sup>¡Vayan ustedes! Miren que los envío como corderos en medio de lobos.<sup>4</sup>No lleven monedero ni bolsa ni sandalias; ni se detengan a saludar a nadie por el camino.</p><p><sup>5</sup>»Cuando entren en una casa, digan primero: “Paz a esta casa”.<sup>6</sup>Si hay allí alguien digno de paz, gozará de ella; y, si no, la bendición no se cumplirá.<sup>7</sup>Quédense en esa casa, y coman y beban de lo que ellos tengan, porque el trabajador tiene derecho a su sueldo. No anden de casa en casa.</p><p><sup>8</sup>»Cuando entren en un pueblo y los reciban, coman lo que les sirvan.<sup>9</sup>Sanen a los enfermos que encuentren allí y díganles: “El reino de Dios ya está cerca de ustedes”.<sup>10</sup>Pero, cuando entren en un pueblo donde no los reciban, salgan a las plazas y digan:<sup>11</sup>“Aun el polvo de este pueblo, que se nos ha pegado a los pies, nos lo sacudimos en protesta contra ustedes. Pero tengan por seguro que ya está cerca el reino de Dios”.<sup>12</sup>Les digo que en aquel día será más tolerable el castigo para Sodoma que para ese pueblo.</p><p><sup>13</sup>»¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! Si se hubieran hecho en Tiro y en Sidón los milagros que se hicieron en medio de ustedes, ya hace tiempo que se habrían arrepentido con grandes lamentos.<sup>14</sup>Pero en el juicio será más tolerable el castigo para Tiro y Sidón que para ustedes.<sup>15</sup>Y tú, Capernaúm, ¿acaso serás levantada hasta el cielo? No, sino que descenderás hasta el abismo.</p><p><sup>16</sup>»El que los escucha a ustedes, me escucha a mí; el que los rechaza a ustedes, me rechaza a mí; y el que me rechaza a mí, rechaza al que me envió».</p><p><sup>17</sup>Cuando los setenta y dos regresaron, dijeron contentos:</p><p>—Señor, hasta los demonios se nos someten en tu nombre.</p><p><sup>18</sup>—Yo veía a Satanás caer del cielo como un rayo —respondió él—.<sup>19</sup>Sí, les he dado autoridad a ustedes para pisotear serpientes y escorpiones y vencer todo el poder del enemigo; nada les podrá hacer daño.<sup>20</sup>Sin embargo, no se alegren de que puedan someter a los espíritus, sino alégrense de que sus nombres están escritos en el cielo.</p><p><sup>21</sup>En aquel momento Jesús, lleno de alegría por el Espíritu Santo, dijo: «Te alabo, Padre, Señor del cielo y de la tierra, porque habiendo escondido estas cosas de los sabios e instruidos, se las has revelado a los que son como niños. Sí, Padre, porque esa fue tu buena voluntad.</p><p><sup>22</sup>»Mi Padre me ha entregado todas las cosas. Nadie sabe quién es el Hijo, sino el Padre, y nadie sabe quién es el Padre, sino el Hijo y aquel a quien el Hijo quiera revelárselo».</p><p><sup>23</sup>Volviéndose a sus discípulos, les dijo aparte: «Dichosos los ojos que ven lo que ustedes ven.<sup>24</sup>Les digo que muchos profetas y reyes quisieron ver lo que ustedes ven, pero no lo vieron; y oír lo que ustedes oyen, pero no lo oyeron».</p><h3>Parábola del buen samaritano</h3><p><sup>25</sup>En esto se presentó un experto en la ley y, para poner a prueba a Jesús, le hizo esta pregunta:</p><p>—Maestro, ¿qué tengo que hacer para heredar la vida eterna?</p><p><sup>26</sup>Jesús replicó:</p><p>—¿Qué está escrito en la ley? ¿Cómo la interpretas tú?</p><p><sup>27</sup>Como respuesta el hombre citó:</p><p>—“Ama al Señor tu Dios con todo tu corazón, con todo tu ser, con todas tus fuerzas y con toda tu mente”, y: “Ama a tu prójimo como a ti mismo”.</p><p><sup>28</sup>—Bien contestado —le dijo Jesús—. Haz eso y vivirás.</p><p><sup>29</sup>Pero él quería justificarse, así que le preguntó a Jesús:</p><p>—¿Y quién es mi prójimo?</p><p><sup>30</sup>Jesús respondió:</p><p>—Bajaba un hombre de Jerusalén a Jericó, y cayó en manos de unos ladrones. Le quitaron la ropa, lo golpearon y se fueron, dejándolo medio muerto.<sup>31</sup>Resulta que viajaba por el mismo camino un sacerdote quien, al verlo, se desvió y siguió de largo.<sup>32</sup>Así también llegó a aquel lugar un levita y, al verlo, se desvió y siguió de largo.<sup>33</sup>Pero un samaritano que iba de viaje llegó adonde estaba el hombre y, viéndolo, se compadeció de él.<sup>34</sup>Se acercó, le curó las heridas con vino y aceite, y se las vendó. Luego lo montó sobre su propia cabalgadura, lo llevó a un alojamiento y lo cuidó.<sup>35</sup>Al día siguiente, sacó dos monedas de plata y se las dio al dueño del alojamiento. “Cuídemelo —le dijo—, y lo que gaste usted de más, se lo pagaré cuando yo vuelva”.<sup>36</sup>¿Cuál de estos tres piensas que demostró ser el prójimo del que cayó en manos de los ladrones?</p><p><sup>37</sup>—El que se compadeció de él —contestó el experto en la ley.</p><p>—Anda entonces y haz tú lo mismo —concluyó Jesús.</p><p><sup>38</sup>Mientras iba de camino con sus discípulos, Jesús entró en una aldea, y una mujer llamada Marta lo recibió en su casa.<sup>39</sup>Tenía ella una hermana llamada María que, sentada a los pies del Señor, escuchaba lo que él decía.<sup>40</sup>Marta, por su parte, se sentía abrumada porque tenía mucho que hacer. Así que se acercó a él y le dijo:</p><p>—Señor, ¿no te importa que mi hermana me haya dejado sirviendo sola? ¡Dile que me ayude!</p><p><sup>41</sup>—Marta, Marta —le contestó Jesús—, estás inquieta y preocupada por muchas cosas,<sup>42</sup>pero solo una es necesaria. María ha escogido la mejor, y nadie se la quitará.</p>"
+                  },
+                  {
+                    "id": "popup_pop5",
+                    "marker": "Hechos 1:8",
+                    "label": "Hechos 1:8",
+                    "passage": "<p><sup>8</sup>Pero, cuando venga el Espíritu Santo sobre ustedes, recibirán poder y serán mis testigos tanto en Jerusalén como en toda Judea y Samaria, y hasta los confines de la tierra.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practique el dar y la Santa Cena aquí o en la sección Preparación para la Misión</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Practique las habilidades necesarias o temas previos para ayudar a prepararse para ministrar a los demás:",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "Orar, Cuidar, Compartir"
+                        },
+                        {
+                          "text": "Evangelio"
+                        },
+                        {
+                          "text": "Estudios Bíblicos Fundamentales"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica personas o lugares a los que tomarás la iniciativa de ministrar esta semana."
+          },
+          {
+            "text": "Escriba declaraciones usando de \"Yo haré…. cuando…” y que lo comparan con a su grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos al Señor. Pídele al Señor que nos ayude a ser fieles y que nos use para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bendición (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply309-i-will"
+      }
+    }
+  ]
+}

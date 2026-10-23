@@ -1,0 +1,374 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply103",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Adoração",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia a Bíblia para fundamentar louvor e adoração.</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Salmos 66:4 “Toda a terra te adora e canta louvores a ti, canta louvores ao teu nome.” Vamos louvar a Deus com uma música simples."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Sirvam uns aos outros através de oração, aconselhamento bíblico e encorajamento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça para cada pessoa compartilhar um ponto alto da semana e explicar um desafio pelo o qual passaram."
+          },
+          {
+            "text": "Pergunte, “O que você gostaria que Jesus fizesse por você esta semana?” Ore pelas necessidades uns dos outros."
+          },
+          {
+            "text": "Pergunte, “Você conseguiu contar a alguém sobre sua decisão de seguir a Cristo?”"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Esboce uma visão de quem eles podem se tornar em Cristo e o que Deus pode fazer através deles.</em>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Exemplo: Um dia uma mulher visitar sua vizinha. Enquanto conversavam ela compartilhou o evangelho com a vizinha e esta depositou sua fé em Cristo. Mas depois a mulher começou a chorar. “Meu esposo morreu há duas semanas. Por que não me disse antes?” Vê, não temos como saber que será o último dia de alguém. Por isso temos que compartilhar o evangelho enquanto temos chance."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Quando depositamos nossa fé em Jesus, o Espírito de Deus vem habitar em nós. Ele é chamado de Espírito Santo, o Espírito da Verdade e nosso Auxiliador. Seu ministério em nossas vidas é tão importante que passaremos um tempo estudando nosso relacionamento com o Espírito Santo."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista 1 Corintios 2:14-3:3 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1 Coríntios 2:14-3:3",
+        "html": "<p><sup>14 </sup>Mas quem não tem o Espírito de Deus não pode receber os dons que vêm do Espírito e, de fato, nem mesmo pode entendê-los. Essas verdades são loucura para essa pessoa porque o sentido delas só pode ser entendido de modo espiritual. <sup>15 </sup>A pessoa que tem o Espírito Santo pode julgar o valor de todas as coisas, porém ela mesma não pode ser julgada por ninguém. <sup>16 </sup>Como dizem as Escrituras Sagradas: “Quem pode conhecer a mente do Senhor? Quem é capaz de lhe dar conselhos?” Mas nós pensamos como Cristo pensa.</p> <h3>Servidores de Deus</h3> <p>3 Na verdade, irmãos, eu não pude falar com vocês como costumo fazer com as pessoas que têm o Espírito de Deus. Tive de falar com vocês como se vocês fossem pessoas do mundo, como se fossem crianças na fé cristã. <sup>2 </sup>Tive de alimentá-los com leite e não com comida forte, pois vocês não estavam prontos para isso. E ainda não estão prontos, <sup>3 </sup>porque vivem como se fossem pessoas deste mundo.</p> <p>Quando existem ciumeiras e brigas entre vocês, será que isso não prova que vocês são pessoas deste mundo e fazem o que todos fazem?</p>",
+        "url": "https://biblegateway.com/passage/?search=1%20Coríntios%202:14-3:3&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Todos contam o que chamou mais a atenção para cada um (ou do que mais gostaram) e porquê."
+          },
+          {
+            "text": "Por que você acha que esta história é importante?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que ouvimos esta história (passagem)?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Apesar de todo o cristão ter o Espírito Santo vivendo dentro de si, nem todo cristão são guiados e capacitados pelo Espírito. Quando confiamos em nossas próprias forças ou tomamos controle de nossas vidas, a Bíblia nos chama de carnais e não experimentamos uma vida plena ou frutífera. Leia {Gálatas 5:22-24}. Podemos usar 3 círculos para nos ajudar a lembrar os 3 tipos de pessoas descritas em 1 Coríntios (desenhe os 3 círculos).",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Gálatas 5:22-24",
+                    "label": "Gálatas 5:22-24",
+                    "passage": "<p><sup>22</sup>Mas o Espírito de Deus produz o amor, a alegria, a paz, a paciência, a delicadeza, a bondade, a fidelidade,<sup>23</sup>a humildade e o domínio próprio. E contra essas coisas não existe lei.<sup>24</sup>As pessoas que pertencem a Cristo Jesus crucificaram a natureza humana delas, junto com todas as paixões e desejos dessa natureza.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Para mais crescimento: Leia o Conceito Transferível #3: Como Ser Cheio do Espírito Santo e converse com um outro membro do grupo."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Ensine o princípio de Respirar Espiritual"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li>Exalar – {1 João 1:9} confessar nossos pecados, concordar em mudar nossa atitude ou ações</li> <li>Inalar – entregar o controle de nossa vida para Cristo Peça para que eles orem para serem controlados e capacitados pelo Espírito Santo</li>",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 João 1:9",
+                    "label": "1 João 1:9",
+                    "passage": "<p><sup>9</sup>Mas, se confessarmos os nossos pecados a Deus, ele cumprirá a sua promessa e fará o que é correto: ele perdoará os nossos pecados e nos limpará de toda maldade.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pai, preciso de Ti. Reconheço que tenho tentando controlar minha vida; e que pequei contra Ti. Obrigado(a) por perdoar meus pecados através do sacrifício de Jesus na cruz. Te convido para tomar o controle da minha vida e me encher do Teu Espírito Santo. Oro em nome de Jesus como uma expressão da minha fé. Obrigado por tomar o controle da minha vida e me preencher com Teu Espírito Santo."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pratique desenhar os 3 círculos e ensinar o princípio de Respirar Espiritual."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique 3 pessoas para quem você pode contar o que aprendeu sobre o Espírito Santo."
+          },
+          {
+            "text": "Identifique 2 pessoas com quem você irá falar sobre o evangelho nesta semana"
+          },
+          {
+            "text": "Escreva suas declarações “Eu vou___” e compartilhe-as com seu pequeno grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Entregue as metas de todos ao Senhor. Peça ao Senhor para nos ajudar a sermos fiéis e para nos usar para iniciar um movimento de discipuladores."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply103-i-will"
+      }
+    }
+  ]
+}

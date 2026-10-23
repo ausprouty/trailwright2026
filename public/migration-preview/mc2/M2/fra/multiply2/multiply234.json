@@ -1,0 +1,388 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply234",
+  "sortOrder": 39,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lisez un passage biblique et exécutez un chant d’adoration."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la Fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Projection de Vision",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Luc 9:1-6; Matthieu 10:5-23 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luc 9:1-6",
+        "html": "<p><sup>1</sup>Jésus, ayant assemblé les douze, leur donna force et pouvoir sur tous les démons, avec la puissance de guérir les maladies.</p> <p><sup>2</sup>Il les envoya prêcher le royaume de Dieu, et guérir les malades.</p> <p><sup>3</sup>Ne prenez rien pour le voyage, leur dit-il, ni bâton, ni sac, ni pain, ni argent, et n'ayez pas deux tuniques.</p> <p><sup>4</sup>Dans quelque maison que vous entriez, restez-y; et c'est de là que vous partirez.</p> <p><sup>5</sup>Et, si les gens ne vous reçoivent pas, sortez de cette ville, et secouez la poussière de vos pieds, en témoignage contre eux.</p> <p><sup>6</sup>Ils partirent, et ils allèrent de village en village, annonçant la bonne nouvelle et opérant partout des guérisons.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%209:1-6&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luc 9:1-6",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOLuke2609",
+        "source": "arclight",
+        "refId": "6_496-GOLuke2609",
+        "startTime": "3:33",
+        "endTime": "4:20",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthieu 10:5-23",
+        "html": "<p><sup>5</sup>Tels sont les douze que Jésus envoya, après leur avoir donné les instructions suivantes: N'allez pas vers les païens, et n'entrez pas dans les villes des Samaritains;</p> <p><sup>6</sup>allez plutôt vers les brebis perdues de la maison d'Israël.</p> <p><sup>7</sup>Allez, prêchez, et dites: Le royaume des cieux est proche.</p> <p><sup>8</sup>Guérissez les malades, ressuscitez les morts, purifiez les lépreux, chassez les démons. Vous avez reçu gratuitement, donnez gratuitement.</p> <p><sup>9</sup>Ne prenez ni or, ni argent, ni monnaie, dans vos ceintures;</p> <p><sup>10</sup>ni sac pour le voyage, ni deux tuniques, ni souliers, ni bâton; car l'ouvrier mérite sa nourriture.</p> <p><sup>11</sup>Dans quelque ville ou village que vous entriez, informez-vous s'il s'y trouve quelque homme digne de vous recevoir; et demeurez chez lui jusqu'à ce que vous partiez.</p> <p><sup>12</sup>En entrant dans la maison, saluez-la;</p> <p><sup>13</sup>et, si la maison en est digne, que votre paix vienne sur elle; mais si elle n'en est pas digne, que votre paix retourne à vous.</p> <p><sup>14</sup>Lorsqu'on ne vous recevra pas et qu'on n'écoutera pas vos paroles, sortez de cette maison ou de cette ville et secouez la poussière de vos pieds.</p> <p><sup>15</sup>Je vous le dis en vérité: au jour du jugement, le pays de Sodome et de Gomorrhe sera traité moins rigoureusement que cette ville-là.</p> <p><sup>16</sup>Voici, je vous envoie comme des brebis au milieu des loups. Soyez donc prudents comme les serpents, et simples comme les colombes.</p> <p><sup>17</sup>Mettez-vous en garde contre les hommes; car ils vous livreront aux tribunaux, et ils vous battront de verges dans leurs synagogues;</p> <p><sup>18</sup>vous serez menés, à cause de moi, devant des gouverneurs et devant des rois, pour servir de témoignage à eux et aux païens.</p> <p><sup>19</sup>Mais, quand on vous livrera, ne vous inquiétez ni de la manière dont vous parlerez ni de ce que vous direz: ce que vous aurez à dire vous sera donné à l'heure même;</p> <p><sup>20</sup>car ce n'est pas vous qui parlerez, c'est l'Esprit de votre Père qui parlera en vous.</p> <p><sup>21</sup>Le frère livrera son frère à la mort, et le père son enfant; les enfants se soulèveront contre leurs parents, et les feront mourir.</p> <p><sup>22</sup>Vous serez haïs de tous, à cause de mon nom; mais celui qui persévérera jusqu'à la fin sera sauvé.</p> <p><sup>23</sup>Quand on vous persécutera dans une ville, fuyez dans une autre. Je vous le dis en vérité, vous n'aurez pas achevé de parcourir les villes d'Israël que le Fils de l'homme sera venu.</p>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%2010:5-23&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Matthieu 10:5-23",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOMatt2507",
+        "source": "arclight",
+        "refId": "6_496-GOMatt2507",
+        "startTime": "0:42",
+        "endTime": "3:11",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de Découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Etudiez chaque passage en utilisant les questions de discussion suivantes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ?"
+          },
+          {
+            "text": "Qu’est ce qui est nouveau ou s’est développé à ce point de l’histoire de Jésus?"
+          },
+          {
+            "text": "Quelle implication du point de vue de l’humanité ou de la divinité de Jésus voyez-vous dans ce passage ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Questions supplémentaires que vous pouvez poser:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce que ses disciples apprennent?"
+          },
+          {
+            "text": "Qu’est-ce que Jésus est en train de nous montrer au sujet de sa vie et de son ministère (ou leadership) ?"
+          },
+          {
+            "text": "Qu’est ce que Jésus est en train de montrer au sujet du leadership empreint de piété ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Après des mois de formation au ministère, les leaders sont prêts à être envoyés par leurs propres moyens. Rappelez-vous qu'ils ont été désignés en tant que leaders afin qu'ils puissent être avec Lui et qu'Il puisse les envoyer pour faire les mêmes choses qu'Il faisait. Avant de les envoyer en équipe de deux, il a donné des instructions claires sur ce qu'il fallait faire, quoi dire, combien de temps rester, et comment réagir quand ils sont persécutés. Il les a envoyés comme le Père l'avait envoyé dans le monde, dans une dépendance complète de Dieu pour tout ce dont ils auraient besoin. Cette mission à court terme était dans leur propre pays, envers des gens qui leur ressemblaient et parlaient leur langue. C’est pour la première fois qu’ils sont envoyés faire le ministère sans que Jésus soit avec eux. Ce qui avait été une seule équipe de Jésus avec les Douze est maintenant restructuré en sept équipes, six équipes de deux et Jésus qui continue avec d’autres dans la formation."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li>Pour une étude approfondie {Marc 6:7-13}. </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Marc 6:7-13",
+                    "label": "Marc 6:7-13",
+                    "passage": "<p><sup>7</sup>Alors il appela les douze, et il commença à les envoyer deux à deux, en leur donnant pouvoir sur les esprits impurs.</p><p><sup>8</sup>Il leur prescrivit de ne rien prendre pour le voyage, si ce n'est un bâton; de n'avoir ni pain, ni sac, ni monnaie dans la ceinture;</p><p><sup>9</sup>de chausser des sandales, et de ne pas revêtir deux tuniques.</p><p><sup>10</sup>Puis il leur dit: Dans quelque maison que vous entriez, restez-y jusqu'à ce que vous partiez de ce lieu.</p><p><sup>11</sup>Et, s'il y a quelque part des gens qui ne vous reçoivent ni ne vous écoutent, retirez-vous de là, et secouez la poussière de vos pieds, afin que cela leur serve de témoignage.</p><p><sup>12</sup>Ils partirent, et ils prêchèrent la repentance.</p><p><sup>13</sup>Ils chassaient beaucoup de démons, et ils oignaient d'huile beaucoup de malades et les guérissaient.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se Préparer pour la Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez 5 personnes de votre Liste de Réseau envers qui vous prendrez l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez les promesses « je le ferai d’ici quand » et parlez-en à votre groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply234-i-will"
+      }
+    }
+  ]
+}

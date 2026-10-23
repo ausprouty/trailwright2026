@@ -1,0 +1,442 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply220",
+  "sortOrder": 24,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Opcional) Jesucristo es el Señor, para la gloria de Dios Padre. Él quiere que todos los hombres sean salvos y lleguen al conocimiento de la verdad. Porque hay un solo Dios y un mediador también entre Dios y el hombre, el hombre Jesucristo, que se entregó a sí mismo como rescate por todos. ({Filipenses 2:11}; {1 Timoteo 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>y toda lengua confiese que Jesucristo es el Señor,<br>para gloria de Dios Padre.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timoteo 2:4-6",
+                    "label": "1 Timoteo 2:4-6",
+                    "passage": "<p><sup>4</sup>pues él quiere que todos sean salvos y lleguen a conocer la verdad.<sup>5</sup>Porque hay un solo Dios y un solo mediador entre Dios y los hombres, Jesucristo hombre,<sup>6</sup>quien dio su vida como rescate por todos. Este testimonio Dios lo ha dado a su debido tiempo,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidar",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar las necesidades de los demás en oración, consejo bíblico y ánimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrar la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunte: ¿Qué pasó cuando confiaste en Dios tus metas y tus declaraciones: \"Yo haré… cuándo…\" ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivar y animar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Elija una manera de proyectar la visión de quiénes pueden llegar a ser en Cristo o de lo que Dios puede hacer a través de ellos, mediante :</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "un versículo bíblico que les recuerde el corazón del Padre y la visión,"
+                  },
+                  {
+                    "text": "una reflexión sobre los cambios en sus vidas desde que comenzaron a seguir a Cristo,"
+                  },
+                  {
+                    "text": "un recordatorio de lo que Dios quiere hacer a través de ellos."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Nuestra visión es : <em>\"Una iglesia para cada ciudad y comunidad, y el Evangelio para cada persona</em>”"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-4"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando hacia arriba",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídale al grupo que cuente la historia de la semana pasada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Lucas 5:1-11</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 5:1-11",
+        "html": "<h3>Llamamiento de los primeros discípulos</h3> <p><sup>1</sup>Un día estaba Jesús a orillas del lago de Genesaret, y la gente lo apretujaba para escuchar el mensaje de Dios.<sup>2</sup>Entonces vio dos barcas que los pescadores habían dejado en la playa mientras lavaban las redes.<sup>3</sup>Subió a una de las barcas, que pertenecía a Simón, y le pidió que la alejara un poco de la orilla. Luego se sentó, y enseñaba a la gente desde la barca.</p> <p><sup>4</sup>Cuando acabó de hablar, le dijo a Simón:</p> <p>—Lleva la barca hacia aguas más profundas, y echen allí las redes para pescar.</p> <p><sup>5</sup>—Maestro, hemos estado trabajando duro toda la noche y no hemos pescado nada —le contestó Simón—. Pero, como tú me lo mandas, echaré las redes.</p> <p><sup>6</sup>Así lo hicieron, y recogieron una cantidad tan grande de peces que las redes se les rompían.<sup>7</sup>Entonces llamaron por señas a sus compañeros de la otra barca para que los ayudaran. Ellos se acercaron y llenaron tanto las dos barcas que comenzaron a hundirse.</p> <p><sup>8</sup>Al ver esto, Simón Pedro cayó de rodillas delante de Jesús y le dijo:</p> <p>—¡Apártate de mí, Señor; soy un pecador!</p> <p><sup>9</sup>Es que él y todos sus compañeros estaban asombrados ante la pesca que habían hecho,<sup>10</sup>como también lo estaban Jacobo y Juan, hijos de Zebedeo, que eran socios de Simón.</p> <p>—No temas; desde ahora serás pescador de hombres —le dijo Jesús a Simón.</p> <p><sup>11</sup>Así que llevaron las barcas a tierra y, dejándolo todo, siguieron a Jesús.</p>",
+        "url": "https://biblegateway.com/passage/?search=Lucas%205:1-11&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lucas 5:1-11",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_21028-GOLuke2605",
+        "source": "arclight",
+        "refId": "6_21028-GOLuke2605",
+        "startTime": "0",
+        "endTime": "1:46",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de descubrimiento (todos responden)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué llamó tu atención o qué fue lo que más te gustó? ¿Por qué?"
+          },
+          {
+            "text": "¿Hay algo nuevo o qué se ha desarrollado hasta este punto en la historia de Jesús?"
+          },
+          {
+            "text": "¿Qué aprendemos sobre la humanidad o divinidad de Jesús en este pasaje?"
+          },
+          {
+            "text": "¿Cómo podemos vivir de manera diferente ahora que conocemos esta historia?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Preguntas adicionales :</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué están aprendiendo sus seguidores?"
+          },
+          {
+            "text": "¿Qué nos está modelando Jesús sobre la vida y el ministerio, o sobre el liderazgo piadoso?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia nuevamente. Pida que alguien cuente la historia y que el grupo corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Ahora Jesús está teniendo un alcance en el lugar de trabajo de su equipo, el propio barco de Pedro. Continúa proporcionando capacitación en el trabajo para desarrollarlos como \"pescadores de hombres\". Jesús llega temprano en la mañana cuando la gente habría venido a comprar pescado fresco de la pesca de la noche. Jesús aprovecha la oportunidad para llevar a cabo un evento de divulgación al aire libre. Él no trata de reunir a una gran multitud, Él sólo va donde la gente está. Él utiliza un evento local ya existente y lo convierte en una oportunidad para hacer algo de Su propia evangelización y entrenamiento. Es interesante ver que Pedro había vuelto a la pesca. Probablemente estaba luchando con su compromiso de seguir a Jesús en la misión. Pero Pedro tenía un corazón dispuesto a obedecer a Jesús. Jesús le dio a Pedro otro desafío. Pedro acepta el desafío y deja todo para seguir a Jesús a tiempo completo."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Si su grupo tiene la práctica de hacerlo, este es un buen momento para practicar el dar y celebrar la Santa Cena, o hacerlo en la sección de Preparación para la Misión; de lo contrario, anímeles a participar de ellas en la congregación local.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Practique las habilidades necesarias o temas previos para ayudar a prepararse para ministrar a los demás:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar, Compartir"
+                  },
+                  {
+                    "text": "Compartir el Evangelio"
+                  },
+                  {
+                    "text": "Estudios Bíblicos Fundacionales"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica personas o lugares a los que tomarás la iniciativa de ministrar esta semana."
+          },
+          {
+            "text": "Escriba sus declaraciones de “Yo haré…para cuando…” y compártala en su pequeño grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orar por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos con el Señor. Pídele al Señor que nos ayude a ser fieles y úsanos para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bendición (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply220-i-will"
+      }
+    }
+  ]
+}

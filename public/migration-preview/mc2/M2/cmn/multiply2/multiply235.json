@@ -1,0 +1,373 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply235",
+  "sortOrder": 40,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向后看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "敬拜赞美",
+        "level": 2
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "祷告关怀",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感谢神和需要耶稣为你做的事，并彼此感恩代祷"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "庆贺实践",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"back\">请分享上周你因信靠神忠心地操练和实践基督生命的福音行动</li> <li class=\"back\">背诵上周经文（{太10:1-2}） </li>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "太10:1-2",
+            "label": "太10:1-2",
+            "passage": "<p><sup>1</sup>耶稣叫了十二个门徒来，给他们权柄，能赶逐污鬼，并医治各样的病症。</p><p><sup>2</sup>这十二使徒的名：头一个叫<u class=\"person underline\">西门</u>，又称<u class=\"person underline\">彼得</u>，还有他兄弟<u class=\"person underline\">安得烈</u>，<u class=\"person underline\">西庇太</u>的儿子<u class=\"person underline\">雅各</u>和<u class=\"person underline\">雅各</u>的兄弟<u class=\"person underline\">约翰</u>，</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "天父心意",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "主耶稣吩我们要去使万民作祂的门徒，祂应许圣灵必赐我们能力为祂作见证。我们无法产生运动，因为只有圣灵自己才能做成这事。然而，我们能做的是预备好自己，当圣灵动工时，我们就能与祂同工。感恩，圣灵在各处运行！让我们预备自己，存祷告和敬畏的心与圣灵同行，一起见证天父在这世代所要成就的奇妙作为。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "学像耶稣",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"up\"><strong>经文背景</strong></li> <li class=\"up\">耶稣在加利利的事奉已进入尾声，在这个阶段，从耶稣的本乡开始，耶稣将受到更强烈的拒绝。祂在自己家乡拿撒勒的会堂中，遭到轻蔑和厌弃，以至于祂将自己比做历来在本乡不被尊重的先知（{太13:54-58}）； 接下来，作者马太以施洗约翰被杀害的事件将敌对的主题带到高峰，同时也预告了耶稣在地上最后的命运，世人如何对待弥赛亚的先锋也必如何对待弥赛亚。</li> <li class=\"up\"><strong>阅读经文</strong></li>",
+        "references": [
+          {
+            "id": "popup_pop2",
+            "marker": "太13:54-58",
+            "label": "太13:54-58",
+            "passage": "<p><sup>54</sup>来到自己的家乡，在会堂里教训人，甚至他们都稀奇，说：“这人从哪里有这等智慧和异能呢？<sup>55</sup>这不是木匠的儿子吗？他母亲不是叫<u class=\"person underline\">马利亚</u>吗？他弟兄们不是叫<u class=\"person underline\">雅各</u>、<u class=\"person underline\">约西</u>、<u class=\"person underline\">西门</u>、<u class=\"person underline\">犹大</u>吗？<sup>56</sup>他妹妹们不是都在我们这里吗？这人从哪里有这一切的事呢？”<sup>57</sup>他们就厌弃他。耶稣对他们说：“大凡先知，除了本地、本家之外，没有不被人尊敬的。”<sup>58</sup>耶稣因为他们不信，就在那里不多行异能了。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "阅读或观看《马太福音14:1-14; 马可福音6:30 》两遍。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "马太福音14:1-14",
+        "html": "<p><sup>1</sup>那时，分封的王希律听见耶稣的名声，<sup>2</sup>就对臣仆说：“这是施洗的约翰从死里复活，所以这些异能从他里面发出来。”<sup>3</sup>起先希律为他兄弟腓力的妻子希罗底的缘故，把约翰拿住锁在监里。<sup>4</sup>因为约翰曾对他说：“你娶这妇人是不合理的。” <sup>5</sup>希律就想要杀他，只是怕百姓，因为他们以约翰为先知。<sup>6</sup>到了希律的生日，希罗底的女儿在众人面前跳舞，使希律欢喜。<sup>7</sup>希律就起誓，应许随她所求的给她。<sup>8</sup>女儿被母亲所使，就说：“请把施洗约翰的头放在盘子里，拿来给我。”<sup>9</sup>王便忧愁，但因他所起的誓，又因同席的人，就吩咐给她。<sup>10</sup>于是打发人去，在监里斩了约翰，<sup>11</sup>把头放在盘子里，拿来给了女子，女子拿去给她母亲。<sup>12</sup>约翰的门徒来，把尸首领去埋葬了，就去告诉耶稣。<sup>13</sup>耶稣听见了，就上船从那里独自退到野地里去。众人听见，就从各城里步行跟随他。<sup>14</sup>耶稣出来，见有许多的人，就怜悯他们，治好了他们的病人。</p>",
+        "url": "https://biblegateway.com/passage/?search=马太福音14:1-14&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "马太福音14:1-14",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOMatt2510",
+        "source": "arclight",
+        "refId": "6_20615-GOMatt2510",
+        "startTime": "6:18",
+        "endTime": "7:47",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "马可福音6:30",
+        "html": "<p><sup>30</sup> 使徒聚集到耶稣那里，将一切所做的事，所传的道全告诉他。</p>",
+        "url": "https://biblegateway.com/passage/?search=马可福音6:30&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "马可福音6:30",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOMark1505",
+        "source": "arclight",
+        "refId": "6_20615-GOMark1505",
+        "startTime": "4:44",
+        "endTime": "4:50",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索与讨论</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "让你印象深刻的经文/部分是什么？为什么？"
+                },
+                {
+                  "text": "耶稣怎样向门徒示范生活和事奉，作属神的领袖？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再读一次这段故事。请小组中一个人口头讲述这故事，并根据需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "小结",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "众使徒出去传道的时候，希律王安提帕正在庆祝自己的生日。他大摆宴席，请了千夫长并加利利的首领到宫殿来。又愚蠢地答应要给侄女所求的，因为喜欢她在客人面前跳舞的样子。她询问母亲的意见。正好使她母亲可以逮到机会向施洗约翰报复，便建议她跟希律要施洗约翰的头。希律不想在客人面前丢脸，就答应她的要求，斩了约翰。当时耶稣继续往各城去传道和训练其他门徒（{太11:1}）。 约翰被斩的消息传到耶稣耳中的同时，众使徒也刚好回来了。耶稣哀悼逝世的约翰，只想和最亲近的领袖团队一起退到旷野。祂展现了在哀伤和耗尽的时候如何领导。 （进深学习：{马可福音6:14-34}； {路加福音9:7-11}）",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "太11:1",
+                    "label": "太11:1",
+                    "passage": "<p><sup>1</sup>耶稣吩咐完了十二个门徒，就离开那里，往各城去传道、教训人。</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "马可福音6:14-34",
+                    "label": "马可福音6:14-34",
+                    "passage": "<h3>约翰责备希律被斩</h3><p><sup>14</sup>耶稣的名声传扬出来。<u class=\"person underline\">希律</u>王听见了，就说：“施洗的<u class=\"person underline\">约翰</u>从死里复活了，所以这些异能由他里面发出来。”<sup>15</sup>但别人说是<u class=\"person underline\">以利亚</u>，又有人说是先知，正像先知中的一位。<sup>16</sup><u class=\"person underline\">希律</u>听见却说：“是我所斩的<u class=\"person underline\">约翰</u>，他复活了。”<sup>17</sup>先是<u class=\"person underline\">希律</u>为他兄弟<u class=\"person underline\">腓力</u>的妻子<u class=\"person underline\">希罗底</u>的缘故，差人去拿住<u class=\"person underline\">约翰</u>，锁在监里，因为<u class=\"person underline\">希律</u>已经娶了那妇人。<sup>18</sup><u class=\"person underline\">约翰</u>曾对<u class=\"person underline\">希律</u>说：“你娶你兄弟的妻子是不合理的。”<sup>19</sup>于是<u class=\"person underline\">希罗底</u>怀恨他，想要杀他，只是不能。<sup>20</sup>因为<u class=\"person underline\">希律</u>知道<u class=\"person underline\">约翰</u>是义人，是圣人，所以敬畏他，保护他，听他讲论就多照着行，并且乐意听他。<sup>21</sup>有一天，恰巧是<u class=\"person underline\">希律</u>的生日，<u class=\"person underline\">希律</u>摆设筵席，请了大臣和千夫长并加利利做首领的。<sup>22</sup><u class=\"person underline\">希罗底</u>的女儿进来跳舞，使<u class=\"person underline\">希律</u>和同席的人都欢喜。王就对女子说：“你随意向我求什么，我必给你。”<sup>23</sup>又对她起誓说：“随你向我求什么，就是我国的一半，我也必给你！”<sup>24</sup>她就出去对她母亲说：“我可以求什么呢？”她母亲说：“施洗<u class=\"person underline\">约翰</u>的头！”<sup>25</sup>她就急忙进去见王，求他说：“我愿王立时把施洗<u class=\"person underline\">约翰</u>的头放在盘子里给我。”<sup>26</sup>王就甚忧愁，但因他所起的誓，又因同席的人，就不肯推辞，<sup>27</sup>随即差一个护卫兵，吩咐拿<u class=\"person underline\">约翰</u>的头来。护卫兵就去，在监里斩了<u class=\"person underline\">约翰</u>，<sup>28</sup>把头放在盘子里，拿来给女子，女子就给她母亲。<sup>29</sup><u class=\"person underline\">约翰</u>的门徒听见了，就来把他的尸首领去，葬在坟墓里。</p><p><sup>30</sup>使徒聚集到耶稣那里，将一切所做的事、所传的道全告诉他。<sup>31</sup>他就说：“你们来，同我暗暗地到旷野地方去歇一歇。”这是因为来往的人多，他们连吃饭也没有工夫。<sup>32</sup>他们就坐船，暗暗地往旷野地方去。<sup>33</sup>众人看见他们去，有许多认识他们的，就从各城步行，一同跑到那里，比他们先赶到了。<sup>34</sup>耶稣出来，见有许多的人，就怜悯他们，因为他们如同羊没有牧人一般，于是开口教训他们许多道理。</p>"
+                  },
+                  {
+                    "id": "popup_pop5",
+                    "marker": "路加福音9:7-11",
+                    "label": "路加福音9:7-11",
+                    "passage": "<p><sup>7</sup>分封的王<u class=\"person underline\">希律</u>听见耶稣所做的一切事，就游移不定，因为有人说是<u class=\"person underline\">约翰</u>从死里复活，<sup>8</sup>又有人说是<u class=\"person underline\">以利亚</u>显现，还有人说是古时的一个先知又活了。<sup>9</sup><u class=\"person underline\">希律</u>说：“<u class=\"person underline\">约翰</u>我已经斩了，这却是什么人，我竟听见他这样的事呢？”就想要见他。</p><p><sup>10</sup>使徒回来，将所做的事告诉耶稣。耶稣就带他们暗暗地离开那里，往一座城去，那城名叫伯赛大。<sup>11</sup>但众人知道了，就跟着他去。耶稣便接待他们，对他们讲论神国的道，医治那些需医的人。</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "经文背诵",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "太14:12-13"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>12</sup>约翰的门徒来，把尸首领去埋葬了，就去告诉耶稣。<sup>13</sup>耶稣听见了，就上船从那里独自退到野地里去。众人听见，就从各城里步行跟随他。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音预备",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"forward\">{马可福音6:20} 记载希律知道约翰是义人，敬畏他，保护他，听他讲论。就多照着行（游移不定），并且乐意听他。新译本的翻译较为清晰：希律惧怕约翰，。。。希律听了约翰的话，就非常困扰，却仍然喜欢听他。但最后希律仍杀害了约翰。从希律对约翰的态度对我们的信仰有何提醒和反思？为什么？</li> <li class=\"forward\">当你听到神重用的仆人因基督信仰受逼迫、监禁甚至杀害，你的心情会是如何？为什么你会做这样的感受和反应呢？</li> <li class=\"forward\">在人生重大的时刻或是需要做一个关键性的决定时，一般你会怎么做？为什么？耶稣是独自安静祷告，寻求神的旨意，你会这样做吗？为什么？</li>",
+        "references": [
+          {
+            "id": "popup_pop6",
+            "marker": "马可福音6:20",
+            "label": "马可福音6:20",
+            "passage": "<p><sup>20</sup>因为<u class=\"person underline\">希律</u>知道<u class=\"person underline\">约翰</u>是义人，是圣人，所以敬畏他，保护他，听他讲论就多照着行，并且乐意听他。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行动",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "为你认识的那些被叫去问话，甚至被囚禁的牧者或弟兄姐妹祷告，求神安慰和医治他们的心。若他们心里有害怕丧胆或后退的，求神坚定他们的心，让他们能以体会基督的爱是何等长阔高深，并知道那叫基督从死里复活的能力是何等浩大，他们的心因此就喜乐和坚固。"
+          },
+          {
+            "text": "为教会的牧者/同工，并教会开展的事工，求主保守我们无论在任何境况和处境都靠主常喜乐，有从神而来的平安和喜乐做主，靠主抵挡并站立得住。"
+          },
+          {
+            "text": "求主监察你的心，最近什么事让你丧胆、后退，耗尽或是哀伤的，你就一一带到施恩的主面前，并分别一段可以安静退修并与主面对面的时间。同时把你从主领受的话语和安慰写下，下周与组员分享。"
+          },
+          {
+            "text": "花3分钟写下你在本课的学习心得，或是你未来一周可能有的其他行动点。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音祷告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "教会的元首耶稣基督，我们赞美与称谢祢，祢是昔在、今在、以后永在的神！感谢祢以宝血拯救我们，把我们从罪恶当中拯救出来，分别为圣，归入祢的名下，特作你光明的儿女。主啊，我们知道末世的时候，必有许多假先知、异端冒祢的名行异能，甚至连祢的选民都被迷惑了。民攻打民，国攻打国，多处多有地震、瘟疫和饥荒；也因着不法的事增多，人的爱心也渐渐冷淡。求主帮助我们常在祢里面，因为知道离了祢，我们什么也不能做。求主坚定我们在祢里面的爱心和信心，奉主耶稣基督的名求，阿们！"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply235-i-will"
+      }
+    }
+  ]
+}

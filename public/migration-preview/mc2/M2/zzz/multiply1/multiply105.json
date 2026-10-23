@@ -1,0 +1,399 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "zzz",
+  "htmlLang": "zzz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply105",
+  "sortOrder": 5,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Read Rev 7:12 “Let’s honour and worship the Lord through a song.”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What is one highlight from this week?"
+          },
+          {
+            "text": "What is one challenge from this past week?"
+          },
+          {
+            "text": "What do you want Jesus to do for you this week?"
+          },
+          {
+            "text": "Pray for each other’s needs."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating God's Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What happened as you trusted God with your goals and <em>I will</em> statements?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "God has given us every spiritual blessing through Jesus. He has adopted us into His family and calls us His children. “You were included in Christ when you heard the word of truth, the gospel of your salvation. Having believed, you were marked in Him with a seal, the promised Holy Spirit, who is a deposit guaranteeing our inheritance.” ({Ephesians 3:13-14a}). What an amazing gift! This is God’s promise for you.",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Ephesians 3:13-14a",
+                    "label": "Ephesians 3:13-14a",
+                    "passage": "<p><sup>13</sup>I ask you, therefore, not to be discouraged because of my sufferings for you, which are your glory.</p><p><sup>14</sup>For this reason I kneel before the Father,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Context",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "After Jesus’ resurrection, He appeared to His disciples many times during a 40-day period. One of the times He appeared while they were meeting in a large room and He explained the importance of His Word."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Read or watch Luke 24:36-49 two times as everyone listens"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luke 24:36-49",
+        "html": "<p><sup>36 </sup>While they were still talking about this, Jesus himself stood among them and said to them, “Peace be with you.”</p> <p><sup>37</sup>They were startled and frightened, thinking they saw a ghost.<sup>38</sup>He said to them, “Why are you troubled, and why do doubts rise in your minds?<sup>39</sup>Look at my hands and my feet. It is I myself! Touch me and see; a ghost does not have flesh and bones, as you see I have.”</p> <p><sup>40</sup>When he had said this, he showed them his hands and feet.<sup>41</sup>And while they still did not believe it because of joy and amazement, he asked them, “Do you have anything here to eat?”<sup>42</sup>They gave him a piece of broiled fish,<sup>43</sup>and he took it and ate it in their presence.</p> <p><sup>44</sup>He said to them, “This is what I told you while I was still with you: Everything must be fulfilled that is written about me in the Law of Moses, the Prophets and the Psalms.”</p> <p><sup>45</sup>Then he opened their minds so they could understand the Scriptures.<sup>46</sup>He told them, “This is what is written: The Messiah will suffer and rise from the dead on the third day,<sup>47</sup>and repentance for the forgiveness of sins will be preached in his name to all nations, beginning at Jerusalem.<sup>48</sup>You are witnesses of these things.<sup>49</sup>I am going to send you what my Father has promised; but stay in the city until you have been clothed with power from on high.”</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%2024:36-49&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luke 24:36-49",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2625",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2625",
+        "startTime": "5:39",
+        "endTime": "7:55",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What caught your attention (or what did you like best) and why?"
+          },
+          {
+            "text": "What did you learn about Jesus?"
+          },
+          {
+            "text": "What did you learn about people?"
+          },
+          {
+            "text": "How will you obey Jesus now that you know this?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus wants us to understand God’s Word and what it teaches us about Him. Jesus’ life fulfilled the promises in God’s Word. He wants us to tell others about what we learn."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Read {2 Timothy 3:16-17}, {Romans 10:17} and {Hebrews 4:12} to highlight truths about God’s Word.",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "2 Timothy 3:16-17",
+                    "label": "2 Timothy 3:16-17",
+                    "passage": "<p><sup>16</sup>All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness,<sup>17</sup>so that the servant of God may be thoroughly equipped for every good work.</p>"
+                  },
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Romans 10:17",
+                    "label": "Romans 10:17",
+                    "passage": "<p><sup>17</sup>Consequently, faith comes from hearing the message, and the message is heard through the word about Christ.</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Hebrews 4:12",
+                    "label": "Hebrews 4:12",
+                    "passage": "<p><sup>12</sup>For the word of God is alive and active. Sharper than any double-edged sword, it penetrates even to dividing soul and spirit, joints and marrow; it judges the thoughts and attitudes of the heart.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Reading the Bible each day is an important part of getting to know Jesus."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparing for Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Make a commitment to read at least one chapter from the Word of God each day, beginning with the Gospel of John."
+                  },
+                  {
+                    "text": "Pray that the Holy Spirit will teach you through His Word, read the chapter, and then answer three questions:",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "What is this passage about?"
+                        },
+                        {
+                          "text": "How can I apply it?"
+                        },
+                        {
+                          "text": "Who can I help using this passage?"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "text": "Meditate on what the Holy Spirit has taught about the meaning of this passage."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identify 5 people from your Network List with whom you will tell the story or share the gospel this week."
+          },
+          {
+            "text": "Write “I will by when” statements and tell them to your small group."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying for the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<p>For further enrichment: Read <a href=\"/sites/mc2/content/M2/eng/tc/tc01.html\">Transferable Concept #1: How You Can Be Sure You Are A Christian</a> and discuss with another group member.</p>",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply105-i-will"
+      }
+    }
+  ]
+}

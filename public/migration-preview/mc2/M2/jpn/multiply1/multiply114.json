@@ -1,0 +1,336 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "jpn",
+  "htmlLang": "ja",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply114",
+  "sortOrder": 14,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "振り返ろう",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "賛美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "御言葉を読んで、賛美の歌を練習する。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "お互いを支え合う",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "祈り、御言葉に基づいた助言、また励ましをもって、互いの必要に応え合う。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "今週あったことの中で最もうれしかったことと、困難だったことを互いに分かち合う。"
+          },
+          {
+            "text": "今週は、イエスさまがどんなことをしてくださると期待しているのか分かち合い、互いの必要のために祈り合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "神さまの誠実さを喜ぶ",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "イエスさまに従っていくように、愛をもって励まし合う。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "自分の目標と、「私は、〜までに〜をする」という形式で書き出した決意を神さまに委ねた結果、どのようなことが起こったかを聞き合い分かち合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "動機づけと励まし",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "キリストにあって、私たちはどのような者に変えられることができるのか、また神さまが私たちを通してどんなことをすることができるのか、ビジョンを投げかける。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"bible-link\">エペソ2章1〜10節</span>を読みましょう。私たちは、罪の中にあって死んでいましたが、神さまは私たちを生かしてくださいました。なんと素晴らしいことでしょう！　神さまは、私たちが神さまによってあらかじめ備えられた良い働きを行うことができるように、このすべてを成してくださいました。私たちの人生は、目的と意義に満ちています。これらの真理を思い起こし、互いに励まし合いましょう。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "見上げよう",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "背景",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "五旬祭というユダヤ教のお祭りで、エルサレムには、世界中から多くのユダヤ人が集まっていました。その時神さまは、そこにいた120人のイエスさまの弟子たちに聖霊を注がれました。その弟子たちは、聖霊の力によって、世界各地から来ていた人々の言語で話し始めました。ペテロは、イエスさまの死と復活について群衆に語りかけ、イエスさまこそメシア（救い主）であることを証ししました。その結果、3,000人がイエスさまを信じ、バプテスマを受けました。では、彼らが信じた後に、何が起こったのでしょうか。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "読む",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"https://www.seisho.or.jp/bible_3/act/#act-2\" target=\"_blank\">使徒の働き2章41〜47節</a>を、声を出して２回読む。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "[BibleBlock]"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "発見のためのディスカッション（全員が答える）",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "どのようなことが、心に留まったか。（一番気に入ったことは？）その理由は？"
+          },
+          {
+            "text": "イエスさまについて、どのようなことを学んだか。"
+          },
+          {
+            "text": "人について、どのようなことを学んだか。"
+          },
+          {
+            "text": "これらのことを知った今、これからどのようにイエスさまに従っていくか。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "読み、語り、修正する",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "聖書の箇所をもう一度読む。誰かに、自分の言葉でそのストーリーを語ってもらい、必要に応じて他のメンバーが修正する。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "まとめ",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"bible-link\">マタイ16章18節</span>を読みましょう。聖霊は、初代教会の信徒たちを導き、礼拝、祈り、交わり、御言葉の学び、互いに愛を示し合うこと、そしてまだキリストを知らない人々への働きのために、定期的に集まるようにしました。「使徒の働き」の中のあらゆる箇所には、人々がキリストに従うようになった後、同じように互いに励まし合っていた様子が記録されています。これこそが、地域教会の姿なのです。信じる者たちが共に集まることは、御国の成長過程の結果でもあります。新しく起こされた信徒たちの集まりは、別の新しい場所でも同じようなプロセスが繰り返されていくことを目指すべきです。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "前を見よう",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "ミッションに備える",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "教会の特性を覚えておくための簡単な方法として、教会の健全さを表す「世代マッピングの円」の図を描く。図に、「礼拝」、「交わり」、「御言葉の学び」、「祈り」、「聖餐」、「洗礼」、「証し」、「与えること」、「群れをケアするリーダーたち」と書き込む。"
+                  },
+                  {
+                    "text": "以下について話し合う：「このグループは、使徒の働きに登場する群れと同じように、互いに献身しようという思いがあるだろうか？また、この場所で主の教会になりたいという思いがあるだろうか？」"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ミッションに出ていく",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "オイコスリストから、今週福音を伝え、関わり仕える相手5人を選び出す。"
+          },
+          {
+            "text": "「私は、～までに～をする」という形式で書き出し、グループで分かち合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ミッションのために祈る",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "全員の目標を、主に委ねる。私たちが忠実であり続けることができるよう、また、主が私たちを用いてくださって弟子作りのムーブメントをスタートさせてくださるように祈る。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<p>教材は、以下のサイトからダウンロードできます：mc2.online</p>",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply114-i-will"
+      }
+    }
+  ]
+}

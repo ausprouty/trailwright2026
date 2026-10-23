@@ -1,0 +1,430 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "jpn",
+  "htmlLang": "ja",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply103",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "振り返ろう",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "賛美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "御言葉を読んで、歌によって主を賛美する。"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "「全地はあなたを伏し拝みます。あなたをほめ歌い、あなたの御名をほめ歌います。」（<span class=\"bible-link\">詩篇66篇4節</span>）"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "静まって、簡単な歌を通して賛美をささげましょう。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "お互いを支え合う",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "祈り、御言葉に基づいた助言、また励ましの言葉をもって、互いの必要に応え合う。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "今週あったことの中で最もうれしかったことと、困難だったことを互いに分かち合う。"
+          },
+          {
+            "text": "今週は、イエスさまがどんなことをしてくださると期待しているか分かち合い、互いの必要のために祈り合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "神さまの誠実さを喜ぶ",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "イエスさまに従っていくように、愛をもって励まし合う。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "自分の目標と、「私は、〜までに〜をする」という形式で書き出した決意を神さまに委ねた結果、どのようなことが起こったかを聞き合い分かち合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "動機づけと励まし",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "キリストにあって、私たちはどのような者に変えられることができるのか、また神さまが私たちを通してどのようなことをすることができるのか、ビジョンを投げかける。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "ある日、ひとりの女性が近所の人を訪ねました。そして、おしゃべりをしながら福音を伝えると、その人はキリストを受け入れました。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "すると、彼女は突然涙を流しながら言いました。「夫は、２週間前に亡くなりました。なぜもっと早く私に教えてくれなかったのですか？」"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "人は、自分の最期の日がいつ来るのかを知ることはできません。だからこそ、まだ機会があるうちに、福音を伝えなければならないのです。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "見上げよう",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "背景",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "私たちがイエスさまを心に受け入れた時から、神さまの御霊が私たちの内に住まわれます。御霊は、「聖霊」、「真理の御霊」、「助け主」とも呼ばれるお方です。私たちの日々の生活における御霊の働きは、とても重要です。しっかりと時間をとって、私たちと御霊との関係について学びましょう。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "読む",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"https://www.seisho.or.jp/bible_3/1co/#1co-2\" target=\"_blank\">第一コリント2章14節〜3章3節</a>を、声を出して２回読む。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "[BibleBlock]"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "発見のためのディスカッション（全員が答える）",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "どのようなことが、心に留まったか。（一番気に入ったことは？）その理由は？"
+          },
+          {
+            "text": "イエスさまについて、どのようなことを学んだか。"
+          },
+          {
+            "text": "人について、どのようなことを学んだか。"
+          },
+          {
+            "text": "これらのことを知った今、これからどのようにイエスさまに従っていくか。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "読み、語り、修正する",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "聖書の箇所をもう一度読む。誰かに、自分の言葉でそのストーリーを語ってもらい、必要に応じて他のメンバーが修正する。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "まとめ",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "御霊は、すべてのクリスチャンの内に住んでおられますが、すべてのクリスチャンが、御霊の導きに従って御霊の力によって生きているわけではありません。自分の努力を信じ、自分の人生の主導権を握ろうとする人のことを、聖書は「肉に属する人」と呼んでいます。そのような人は、豊かな人生、または実り多い人生を歩むことができません。<span class=\"bible-link\">ガラテヤ5章22〜24節</span>を読みましょう。3つの円を使って、第一コリントにある3つの種類の人について、円を3つ描きながら復習しましょう。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<img alt=\"3 circles\" src=\"/sites/mc2/content/M2/eng/tc/transferable-concepts-image-20.png\">"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "前を見よう",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "ミッションに備える",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "video",
+              "data": {
+                "title": "霊的呼吸",
+                "url": "https://api.arclight.org/videoPlayerUrl?refId=2_7083-0-LeaderImpact_10",
+                "source": "arclight",
+                "refId": "2_7083-0-LeaderImpact_10",
+                "startTime": "start",
+                "endTime": "end",
+                "isOpen": false,
+                "isEditing": false
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "霊的呼吸の原則を教える。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>息を吐く（<span class=\"bible-link\">第一ヨハネ1章9節</span>）</strong>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "罪を告白し、自分の態度や行いを改めなければならないことを認める。"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>息を吸う</strong>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "自分の人生の支配権をイエスさまに明け渡す。"
+                  },
+                  {
+                    "text": "聖霊が私たちの人生を支配してくださり、力を与えてくださるように祈る。"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<p class=\"forward\"><em>「父なる神さま、私はあなたを必要としています。これまで、自分で人生を支配してきたことを認めます。私は、あなたに対して罪を犯しました。十字架上でのイエスさまの死を通して、私の罪を赦してくださったことを感謝します。私の人生を支配し、私をあなたの御霊で満たしてください。信仰の表現として、イエスさまの御名によってお祈りします。私の人生を支配し、御霊で満たしてくださりありがとうございます。」</em></p>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "3つの円を描きながら、霊的呼吸の原則を教える練習をする。"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ミッションに出ていく",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "聖霊について学んだことを誰に伝えたいか、各自考える（「私は、〜までに〜をする」という形式で書き出す）。"
+          },
+          {
+            "text": "他の人たちに対して、さらにどのような信仰のステップを踏んでいきたいか、各自考える（「私は、～までに〜をする」という形式で書き出す）。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ミッションのために祈る",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "全員の目標を、神さまに委ねる。私たちが忠実であり続けることができるよう、また、主が私たちを用いてくださって弟子作りのムーブメントをスタートさせてくださるように祈る。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<p>さらに学びを深めるために</p> <p>ＴＣシリーズ3の「御霊に満たされるには」を読み、グループのメンバーと一緒にディスカッションをしましょう。</p>",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply103-i-will"
+      }
+    }
+  ]
+}

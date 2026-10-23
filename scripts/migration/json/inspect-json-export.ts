@@ -1,4 +1,4 @@
-#! npx tsx scripts/migration/json/inspect-json-export.ts data/sql_exports/myfriends/json_content.json
+#! npx tsx scripts/migration/json/inspect-json-export.ts data/sql_exports/mc2/json_content.json
 
 
 
@@ -30,13 +30,13 @@
  *
  * Specifying an input file:
  *
- *   npx tsx scripts/migration/json/inspect-json-export.ts data/sql_exports/myfriends/json_content.json
+ *   npx tsx scripts/migration/json/inspect-json-export.ts data/sql_exports/mc2/json_content.json
  *
  * INPUT
  * -----
  * Default:
  *
- *   data/sql_exports/myfriends/json_content.json
+ *   data/sql_exports/mc2/json_content.json
  *
  * Accepts either:
  *
@@ -87,7 +87,7 @@
  * -------------------------
  * The script calculates where extracted files would go:
  *
- *   data/processed_json/myfriends/
+ *   data/processed_json/mc2/
  *     <country>/
  *       <language>/
  *         <folder>/
@@ -95,7 +95,7 @@
  *
  * Example:
  *
- *   data/processed_json/myfriends/AU/eng/basics/lesson1.json
+ *   data/processed_json/mc2/AU/eng/basics/lesson1.json
  *
  * Country, language and folder components are omitted when blank.
  *
@@ -165,7 +165,7 @@ const PROJECT_ROOT = process.cwd();
 
 const INPUT_FILE =
   process.argv[2] ||
-  path.join(PROJECT_ROOT, 'data', 'sql_exports', 'myfriends', 'json_content.json');
+  path.join(PROJECT_ROOT, 'data', 'sql_exports', 'mc2', 'json_content.json');
 
 function clean(value: string | null | undefined): string {
   return String(value || '').trim();
@@ -186,7 +186,7 @@ function buildOutputPath(record: SqlJsonRecord): string {
   const folderName = clean(record.folder_name);
   const filename = clean(record.filename).replace(/\.json$/i, '');
 
-  const parts = [PROJECT_ROOT, 'data', 'processed_json', 'myfriends'];
+  const parts = [PROJECT_ROOT, 'data', 'processed_json', 'mc2'];
 
   if (countryCode) {
     parts.push(countryCode);

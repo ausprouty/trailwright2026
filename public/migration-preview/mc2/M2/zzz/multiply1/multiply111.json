@@ -1,0 +1,369 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "zzz",
+  "htmlLang": "zzz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply111",
+  "sortOrder": 12,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Read {Psalm 95:1-7} and sing songs.",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Psalm 95:1-7",
+                    "label": "Psalm 95:1-7",
+                    "passage": "<div><div><div><p><sup>1</sup>Come, let us sing for joy to the<span class=\"small-caps\">Lord;<br>let us shout aloud to the Rock of our salvation.<br><sup>2</sup>Let us come before him with thanksgiving<br>and extol him with music and song.</span></p></div><p><sup>3</sup>For the<span class=\"small-caps\">Lord is the great God,<br>the great King above all gods.<br><sup>4</sup>In his hand are the depths of the earth,<br>and the mountain peaks belong to him.<br><sup>5</sup>The sea is his, for he made it,<br>and his hands formed the dry land.</span></p></div><p><sup>6</sup>Come, let us bow down in worship,<br>let us kneel before the<span class=\"small-caps\">Lord our Maker;<br><sup>7</sup>for he is our God<br>and we are the people of his pasture,<br>the flock under his care.</span></p></div><p>Today, if only you would hear his voice,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What is one highlight from this week?"
+          },
+          {
+            "text": "What is one challenge from this past week?"
+          },
+          {
+            "text": "What do you want Jesus to do for you this week?"
+          },
+          {
+            "text": "Pray for each other’s needs."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating God's Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What happened as you trusted God with your goals and <em>I will</em> statements?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<span class=\"back\">In the book of Acts, we see how believers trained others to be trainers of others. One of the first followers of Jesus was a man named Barnabas. He found a new believer named Paul and helped him. Paul found a young believer named Timothy and took Timothy with him to share the gospel in many places. Later, Paul wrote to Timothy that he should train faithful men in the churches to find other younger Christians to train. Read {2 Timothy 2:2}. </span> <p> Jesus to Barnabas to Paul to Timothy to faithful men to other younger Christians. All Christians are called to train trainers who can train trainers to train others. In this way the gospel spreads rapidly!</p>",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "2 Timothy 2:2",
+                    "label": "2 Timothy 2:2",
+                    "passage": "<span class=\"back\"><!-- begin bible --></span><div><div><p><span class=\"back\"><sup>2</sup>And the things you have heard me say in the presence of many witnesses entrust to reliable people who will also be qualified to teach others.</span></p></div></div>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Context",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"up\">After Jesus was raised from the dead, He continued teaching His disciples about God’s Kingdom. During His last meeting with them, He reinforced the mission they were being called to and about the help that would be provided to them.</span>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"up\">Read or watch Acts 1:1-8 two times as everyone listens</span>"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Acts 1:1-8",
+        "html": "<p><span class=\"up\"><sup>1</sup> In my former book, Theophilus, I wrote about all that Jesus began to do and to teach<sup>2</sup>until the day he was taken up to heaven, after giving instructions through the Holy Spirit to the apostles he had chosen.<sup>3</sup>After his suffering, he presented himself to them and gave many convincing proofs that he was alive. He appeared to them over a period of forty days and spoke about the kingdom of God.<sup>4</sup>On one occasion, while he was eating with them, he gave them this command: “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about.<sup>5</sup>For John baptized with water, but in a few days you will be baptized with the Holy Spirit.”</span></p> <p><span class=\"up\"><sup>6</sup>Then they gathered around him and asked him, “Lord, are you at this time going to restore the kingdom to Israel?”</span></p> <p><span class=\"up\"><sup>7</sup>He said to them: “It is not for you to know the times or dates the Father has set by his own authority.<sup>8</sup>But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”</span></p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%201:1-8&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Acts 1:1-8",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7302-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7302-0-0",
+        "startTime": "start",
+        "endTime": "1:43",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What caught your attention (or what did you like best) and why?"
+          },
+          {
+            "text": "What did you learn about Jesus?"
+          },
+          {
+            "text": "What did you learn about people?"
+          },
+          {
+            "text": "How will you obey Jesus now that you know this?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "To follow Jesus means that we will obey His command to be His witnesses. But we can only do what is needed with the help of the power of the Holy Spirit in our lives. Only as He empowers us, can we be effective witnesses. God’s desire is that we witness to everyone--those like us and those not like us; those near to us and those who live all over the world. Knowing how to share the gospel is a key skill in field 2 of the Kingdom Growth Process."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparing for Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Remind them: Success in witnessing is simply taking the initiative to share Christ in the power of the Holy Spirit and leaving the results to God."
+                  },
+                  {
+                    "text": "Review the Spiritual Breathing principle and give personal opportunity to Exhale and Inhale"
+                  },
+                  {
+                    "text": "Give time for praying to be controlled and empowered by the Holy Spirit"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identify 5 people from your Network List with whom you will take the initiative to minister to this week.",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Use what you learned this week with at least 3 of these people."
+                }
+              ]
+            }
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying for the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<p>For further enrichment: Read <em><a href=\"/sites/mc2/content/M2/eng/tc/tc05.html\">Transferable Concept #5: How you can be a fruitful witness</a></em> and discuss with another group member.</p>",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply111-i-will"
+      }
+    }
+  ]
+}

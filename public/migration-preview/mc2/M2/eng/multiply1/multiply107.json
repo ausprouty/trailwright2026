@@ -1,0 +1,358 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply107",
+  "sortOrder": 7,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">Read {Psalm 16:7-11} and teach a new song </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Psalm 16:7-11",
+                    "label": "Psalm 16:7-11",
+                    "passage": "<div><p><sup>7</sup>I will praise the<span class=\"small-caps\">Lord, who counsels me;<br>even at night my heart instructs me.<br><sup>8</sup>I keep my eyes always on the<span class=\"small-caps\">Lord.<br>With him at my right hand, I will not be shaken.</span></span></p></div><p><sup>9</sup>Therefore my heart is glad and my tongue rejoices;<br>my body also will rest secure,<br><sup>10</sup>because you will not abandon me to the realm of the dead,<br>nor will you let your faithful one see decay.<br><sup>11</sup>You make known to me the path of life;<br>you will fill me with joy in your presence,<br>with eternal pleasures at your right hand.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What is one highlight from this week?"
+          },
+          {
+            "text": "What is one challenge from this past week?"
+          },
+          {
+            "text": "What do you want Jesus to do for you this week?"
+          },
+          {
+            "text": "Pray for each other’s needs."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating God's Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What happened as you trusted God with your goals and <em>I will</em> statements?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">{John 16} teaches us that the Holy Spirit is actively at work in the hearts of those around us. He is showing them their sin. He is creating a desire to be right with God. He is creating a longing to avoid the fear of death, which is eternal judgment. He is tearing down the objections of their minds and hearts. Our job is to fish for those people through witnessing, finding those whose hearts are ready. Let’s encourage each other by reminding each other that the Spirit is already working before we even go.</li>",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "John 16",
+                    "label": "John 16",
+                    "passage": "<p><sup>1</sup>“All this I have told you so that you will not fall away.<sup>2</sup>They will put you out of the synagogue; in fact, the time is coming when anyone who kills you will think they are offering a service to God.<sup>3</sup>They will do such things because they have not known the Father or me.<sup>4</sup>I have told you this, so that when their time comes you will remember that I warned you about them. I did not tell you this from the beginning because I was with you,<sup>5</sup>but now I am going to him who sent me. None of you asks me, ‘Where are you going?’<sup>6</sup>Rather, you are filled with grief because I have said these things.<sup>7</sup>But very truly I tell you, it is for your good that I am going away. Unless I go away, the Advocate will not come to you; but if I go, I will send him to you.<sup>8</sup>When he comes, he will prove the world to be in the wrong about sin and righteousness and judgment:<sup>9</sup>about sin, because people do not believe in me;<sup>10</sup>about righteousness, because I am going to the Father, where you can see me no longer;<sup>11</sup>and about judgment, because the prince of this world now stands condemned.</p><p><sup>12</sup>“I have much more to say to you, more than you can now bear.<sup>13</sup>But when he, the Spirit of truth, comes, he will guide you into all the truth. He will not speak on his own; he will speak only what he hears, and he will tell you what is yet to come.<sup>14</sup>He will glorify me because it is from me that he will receive what he will make known to you.<sup>15</sup>All that belongs to the Father is mine. That is why I said the Spirit will receive from me what he will make known to you.”</p><p><sup>16</sup>Jesus went on to say, “In a little while you will see me no more, and then after a little while you will see me.”</p><p><sup>17</sup>At this, some of his disciples said to one another, “What does he mean by saying, ‘In a little while you will see me no more, and then after a little while you will see me,’ and ‘Because I am going to the Father’?”<sup>18</sup>They kept asking, “What does he mean by ‘a little while’? We don’t understand what he is saying.”</p><p><sup>19</sup>Jesus saw that they wanted to ask him about this, so he said to them, “Are you asking one another what I meant when I said, ‘In a little while you will see me no more, and then after a little while you will see me’?<sup>20</sup>Very truly I tell you, you will weep and mourn while the world rejoices. You will grieve, but your grief will turn to joy.<sup>21</sup>A woman giving birth to a child has pain because her time has come; but when her baby is born she forgets the anguish because of her joy that a child is born into the world.<sup>22</sup>So with you: Now is your time of grief, but I will see you again and you will rejoice, and no one will take away your joy.<sup>23</sup>In that day you will no longer ask me anything. Very truly I tell you, my Father will give you whatever you ask in my name.<sup>24</sup>Until now you have not asked for anything in my name. Ask and you will receive, and your joy will be complete.</p><p><sup>25</sup>“Though I have been speaking figuratively, a time is coming when I will no longer use this kind of language but will tell you plainly about my Father.<sup>26</sup>In that day you will ask in my name. I am not saying that I will ask the Father on your behalf.<sup>27</sup>No, the Father himself loves you because you have loved me and have believed that I came from God.<sup>28</sup>I came from the Father and entered the world; now I am leaving the world and going back to the Father.”</p><p><sup>29</sup>Then Jesus’ disciples said, “Now you are speaking clearly and without figures of speech.<sup>30</sup>Now we can see that you know all things and that you do not even need to have anyone ask you questions. This makes us believe that you came from God.”</p><p><sup>31</sup>“Do you now believe?” Jesus replied.<sup>32</sup>“A time is coming and in fact has come when you will be scattered, each to your own home. You will leave me all alone. Yet I am not alone, for my Father is with me.</p><p><sup>33</sup>“I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.”</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Context",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "The night before Jesus was crucified, he had dinner with his 12 closest disciples. He told them He was going away but that He was going to send the Counsellor, the Holy Spirit, to be with them forever. He teaches them that through the presence of the Holy Spirit living in them, He himself will be with them. This story uses the image of a vine and its branches to describe what our relationship with Jesus should be like."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Read or watch John 15:1-11 two times as everyone listens"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "John 15:1-11",
+        "html": "<p><sup>1</sup>I am the true vine, and my Father is the gardener.<sup>2</sup>He cuts off every branch in me that bears no fruit, while every branch that does bear fruit he prunes so that it will be even more fruitful.<sup>3</sup>You are already clean because of the word I have spoken to you.<sup>4</sup>Remain in me, as I also remain in you. No branch can bear fruit by itself; it must remain in the vine. Neither can you bear fruit unless you remain in me.</p> <p><sup>5</sup>“I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing.<sup>6</sup>If you do not remain in me, you are like a branch that is thrown away and withers; such branches are picked up, thrown into the fire and burned.<sup>7</sup>If you remain in me and my words remain in you, ask whatever you wish, and it will be done for you.<sup>8</sup>This is to my Father’s glory, that you bear much fruit, showing yourselves to be my disciples.</p> <p><sup>9</sup>“As the Father has loved me, so have I loved you. Now remain in my love.<sup>10</sup>If you keep my commands, you will remain in my love, just as I have kept my Father’s commands and remain in his love.<sup>11</sup>I have told you this so that my joy may be in you and that your joy may be complete.</p>",
+        "url": "https://biblegateway.com/passage/?search=John%2015:1-11&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "John 15:1-11",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2216",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2216",
+        "startTime": "start",
+        "endTime": "2:02",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What caught your attention (or what did you like best) and why?"
+          },
+          {
+            "text": "What did you learn about Jesus?"
+          },
+          {
+            "text": "What did you learn about people?"
+          },
+          {
+            "text": "How will you obey Jesus now that you know this?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Without Jesus, we cannot do anything. We can only have a fruitful life when we depend on and remain in Him. This happens as we submit in obedience to His ways, allowing his life to flow in and through us so that we can bear fruit for the glory of God. In other words, we need to let the Spirit of Christ, the Holy Spirit, direct and empower our lives by faith."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparing for Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Review the principles of Spiritual Breathing from lesson 3, “<a href=\"https://staging.mc2.online/content/M2/eng/multiply1/multiply103.html\">Keeping in Step with the Spirit</a>”"
+                  },
+                  {
+                    "text": "Practice any skill or topic from previous lessons as needed"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identify 5 people from your Network List with whom you will tell the story or share the gospel with this week."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying for the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<p>For further enrichment: Read <em><a href=\"/sites/mc2/content/M2/eng/tc/tc04.html\">Transferable Concept #4: How to Walk in the Spirit</a></em> and discuss with another group member.</p>",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply107-i-will"
+      }
+    }
+  ]
+}

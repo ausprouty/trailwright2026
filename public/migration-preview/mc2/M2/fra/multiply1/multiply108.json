@@ -1,0 +1,42 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply108",
+  "sortOrder": 8,
+  "blocks": [
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<div class=\"lesson\"><img class=\"lesson-icon\" src=\"/sites/mc2/images/standard/look-back.png\"> <div class=\"lesson-subtitle\">Regarder Derrière</div> </div> <div class=\"reveal\"> <hr> <h2>Louange</h2> <p>Lisez un passage biblique et exécutez un chant d’adoration.</p> <ul> <li>Exemple: {Psaumes 33:1-5} et 1-2 chants </li> </ul> <hr></div> <ul> </ul> <h2>Soin</h2> <p>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</p> <ul> <li>Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine.</li> <li>Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels.</li> </ul> <h2>Célébrer la Fidélité</h2> <p>Encourager l’obéissance à Jésus à travers une responsabilité empreinte d’amour</p> <ul> <li>Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »</li> </ul> <div class=\"reveal\"> <hr> <h2>Projection de Vision</h2> <p>Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux.</p> <p>Les premières paroles de Jésus dans Marc disaient aux gens de se «repentir.» Cela signifie changer toute notre façon de penser parce que les voies de Dieu sont si différentes des nôtres. La façon dont nous nous voyons en est un domaine. Nous avons besoin d'une nouvelle compréhension de la vie avec Dieu et de ce qu'il peut faire dans nos vies. Les paroles suivantes de Jésus furent « Suivez-Moi, et Je vous ferai pêcheurs d’hommes. » Chaque disciple de Jésus est appelé à vivre ce double appel à le suivre et à pêcher des hommes. Notre engagement sacrificiel envers Jésus transforme la vie quotidienne et toutes nos relations. Encourageons-nous à nous repentir continuellement, à suivre et à pêcher!</p> <hr></div>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Psaumes 33:1-5",
+            "label": "Psaumes 33:1-5",
+            "passage": "<p><sup>1</sup>Justes, réjouissez-vous en l'Éternel! La louange sied aux hommes droits.</p><p><sup>2</sup>Célébrez l'Éternel avec la harpe, Célébrez-le sur le luth à dix cordes.</p><p><sup>3</sup>Chantez-lui un cantique nouveau! Faites retentir vos instruments et vos voix!</p><p><sup>4</sup>Car la parole de l'Éternel est droite, Et toutes ses oeuvres s'accomplissent avec fidélité;</p><p><sup>5</sup>Il aime la justice et la droiture; La bonté de l'Éternel remplit la terre.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    }
+  ]
+}

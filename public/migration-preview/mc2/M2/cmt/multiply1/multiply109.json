@@ -1,0 +1,488 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmt",
+  "htmlLang": "zh-Hant",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply109",
+  "sortOrder": 10,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "本課的目的，是了解尋找神所預備的人——“和平之子”的原則，以及“和平之子”所擁有的特質。我們也將學習借着“禱告，關懷與分享”（Prayer-Care-Share）來辨認“和平之子”，他們對建立屬靈倍增運動有重要的影響力。"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向後看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "敬拜讚美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "羅馬書11:33-36"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>33</sup>深哉！神豐富的智慧和知識。他的判斷何其難測！祂的蹤跡何其難尋！<sup>34</sup>誰知道主的心？誰作過祂的謀士呢？<sup>35</sup>誰是先給了祂，使祂後來償還呢？<sup>36</sup>因為萬有都是本於祂，倚靠祂，歸於祂。願榮耀歸給祂，直到永遠。阿們！"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "現在讓我們誦讀經文兩遍，並按經文輪流開聲讚美我們的神！"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "禱告關懷",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感謝神和需要耶穌為你做的事，並彼此感恩代禱。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "慶賀實踐",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "請分享上周你因信靠神而實踐“屆時我會”的福音行動"
+          },
+          {
+            "text": "背誦上周經文（路18:40-41）"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "天父心意",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "上帝改變人的生命，使用人來榮耀祂。有一個中東人，名叫阿當，過去被他的宗教訓練成隨時可以殉道的人。但就在他遇見基督時，他的人生一夜之間改變了。與基督之間的新關係讓他興奮不已，他四處向認識的人作見證。儘管遭受逼迫，他仍繼續向人傳福音、訓練門徒。神今天也要使用我們尋找祂所預備的人，使福音廣傳。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "被主呼召",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事背景</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "耶穌呼召四個人撇下所有來跟從他，過“得人如魚”的新生活。祂六次向門徒示範，教導他們得人。最後一次則是一個讓人意想不到的官員（路加福音5：27-32）加入他們的行列，成為耶穌親近的門徒之一。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>閱讀經文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "閱讀路加福音10:1-24兩遍"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "路加福音10:1-24",
+        "html": "<p><sup>1</sup>這事以後，主又設立七十個人，差遣他們兩個兩個地在他前面，往自己所要到的各城各地方去。<sup>2</sup>就對他們說：「要收的莊稼多，做工的人少。所以，你們當求莊稼的主，打發工人出去收他的莊稼。<sup>3</sup>你們去吧！我差你們出去，如同羊羔進入狼群。<sup>4</sup>不要帶錢囊，不要帶口袋，不要帶鞋，在路上也不要問人的安。<sup>5</sup>無論進哪一家，先要說：『願這一家平安！』<sup>6</sup>那裡若有當得平安的人，你們所求的平安就必臨到那家；不然，就歸於你們了。<sup>7</sup>你們要住在那家，吃喝他們所供給的，因為工人得工價是應當的。不要從這家搬到那家。</p> <p><sup>8</sup>「無論進哪一城，人若接待你們，給你們擺上什麼，你們就吃什麼。<sup>9</sup>要醫治那城裡的病人，對他們說：『神的國臨近你們了。』<sup>10</sup>無論進哪一城，人若不接待你們，你們就到街上去，<sup>11</sup>說：『就是你們城裡的塵土粘在我們的腳上，我們也當著你們擦去。雖然如此，你們該知道神的國臨近了。』<sup>12</sup>我告訴你們：當審判的日子，所多瑪所受的比那城還容易受呢！<sup>13</sup>哥拉汛哪，你有禍了！伯賽大啊，你有禍了！因為在你們中間所行的異能，若行在推羅、西頓，他們早已披麻蒙灰、坐在地上悔改了。<sup>14</sup>當審判的日子，推羅、西頓所受的比你們還容易受呢！<sup>15</sup>迦百農啊，你已經升到天上，將來必推下陰間！」<sup>16</sup>又對門徒說：「聽從你們的，就是聽從我；棄絕你們的，就是棄絕我；棄絕我的，就是棄絕那差我來的。」</p> <p><sup>17</sup>那七十個人歡歡喜喜地回來，說：「主啊，因你的名，就是鬼也服了我們！」<sup>18</sup>耶穌對他們說：「我曾看見<u class=\"person underline\">撒旦</u>從天上墜落，像閃電一樣。<sup>19</sup>我已經給你們權柄可以踐踏蛇和蠍子，又勝過仇敵一切的能力，斷沒有什麼能害你們。<sup>20</sup>然而，不要因鬼服了你們就歡喜，要因你們的名記錄在天上歡喜。」</p> <p><sup>21</sup>正當那時，耶穌被聖靈感動就歡樂，說：「父啊，天地的主，我感謝你！因為你將這些事向聰明通達人就藏起來，向嬰孩就顯出來。父啊，是的，因為你的美意本是如此。<sup>22</sup>一切所有的，都是我父交付我的。除了父，沒有人知道子是誰；除了子和子所願意指示的，沒有人知道父是誰。」<sup>23</sup>耶穌轉身暗暗地對門徒說：「看見你們所看見的，那眼睛就有福了！<sup>24</sup>我告訴你們：從前有許多先知和君王要看你們所看的，卻沒有看見；要聽你們所聽的，卻沒有聽見。」</p>",
+        "url": "https://biblegateway.com/passage/?search=路加福音10:1-24&version=CUVMPT",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "路加福音10:1-24",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOLuke2611",
+        "source": "arclight",
+        "refId": "6_20615-GOLuke2611",
+        "startTime": "start",
+        "endTime": "4:09",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索與討論</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "經文中讓你印象最深刻的是什麼？為什麼？"
+                },
+                {
+                  "text": "從這段經文中你對耶穌有什麼新的認識？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再讀一次這段故事。請小組中一個人口頭講述這故事，並根據需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "耶穌差遣跟隨者出去做跟祂一樣的事：為人禱告、關懷他人的需要，以及分享天國的事。總結為“禱告，關懷與分享”（PCS）。 祂以訓練、差遣新工人出去的方式，倍增人數。“和平之子”是神所預備好的人，他們接受你和你所傳的信息。透過他們與其他人的關係，將開啟新的人際網絡，使更多人聽見福音。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小結</strong>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "經文背誦",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "路加福音10:2"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "（主）就對他們說：“要收的莊稼多，作工的人少。所以你們當求莊稼的主，打發工人出去收他的莊稼。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音預備",
+        "level": 2
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "認識“和平之子”的聖經例子",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "閱讀以下經文或觀看視頻"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "井邊撒瑪利亞婦人（約4:1-42）"
+                  },
+                  {
+                    "text": "撒該（路19:1-10）"
+                  },
+                  {
+                    "text": "被鬼附的人（路8:26-39）"
+                  },
+                  {
+                    "text": "呂底亞（徒16:11-15）"
+                  },
+                  {
+                    "text": "耶孫（徒17:1-9）"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "看完視頻或分組閱讀以下經文，之後各自回答並寫下以下有關和平之子問題的答案，然後報告。"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-4"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "“和平之子”：",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "——是會接受你和你的信息的人（基督徒或非信徒），"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "——是注重關係的人；"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "——在某些情況下，他們甚至是一個我們意想不到的人，"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "——他們會積極和熱忱地接觸身邊的親朋鄰舍，並分享福音，"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "——借着他們，福音因此擴展到新的群體和領域。"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "我們應該主動接觸和期待找到上帝所預備的人，這是教會倍增的核心觀念。我們已經學會如何使用“奇妙的問題”接觸並關懷人，這是一個得着“和平之子”的好方法。"
+                  },
+                  {
+                    "text": "如果上周你有分享“奇妙的問題”，請辨識哪些對象有“和平之子”的特質。然後在小組裡分享自己的《福音行動表》，並為有潛力的“和平之子”禱告。"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行動",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "在今天查考聖經中的“和平之子”人物，試想你是和平之子嗎？為什麼？下周與組員分享。"
+          },
+          {
+            "text": "從《福音行動表》中選出2人，本周與他們分享“奇妙的問題”，求神為你預備和平之子。"
+          },
+          {
+            "text": "依照你今天所學習到的，寫下一個“屆時我會”的宣告，並於組內分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在________________（時間/地點）將會__________________（對象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分鐘寫下你在本課的學習心得，或是你未來一周可能有的其他行動點。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音禱告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "親愛的天父，感謝禰沒有按我們的過犯來待我們，禰借着禰的獨生愛子捨命流血，為我們的罪付上刑罰，將我們挽回，使我們親自經歷禰的拯救和生命的轉變。求禰幫助我們，在家人、親友、校園、職場和社區的面前，凡事蒙恩寵有美名；在自己的崗位上盡忠，發揮影響力，借着“奇妙的問題”主動關懷人，並在他們當中找到禰已預備的“和平之子”。奉主耶穌基督的名禱告，阿們！"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply109-i-will"
+      }
+    }
+  ]
+}

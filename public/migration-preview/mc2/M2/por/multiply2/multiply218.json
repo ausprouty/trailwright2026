@@ -1,0 +1,442 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply218",
+  "sortOrder": 22,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louvar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia uma passagem das Escrituras e louvem com uma canção de adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">(Opcional) Jesus Cristo é o Senhor, para a gloria de Deus Pai. Ele deseja que todos os homens sejam salvos e cheguem ao pleno conhecimento da verdade. Porque há um só Deus e um único mediador entre Deus e os homens, o homem Jesus Cristo, que a si mesmo se entregou como resgate por todos. ({Filipenses 2:11}; {1 Timóteo 2:4-6}) </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>e declarem abertamente<br>que Jesus Cristo é o Senhor,<br>para a glória de Deus, o Pai.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timóteo 2:4-6",
+                    "label": "1 Timóteo 2:4-6",
+                    "passage": "<p><sup>4</sup>Ele quer que todos sejam salvos e venham a conhecer a verdade.</p><p><sup>5</sup>Pois existe um só Deus e uma só pessoa que une Deus com os seres humanos — o ser humano Cristo Jesus,<sup>6</sup>que deu a sua vida para que todos fiquem livres dos seus pecados. Esta foi a prova, dada no tempo certo, de que Deus quer que todos sejam salvos.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar sobre as necessidades dos demais em oração, conselho bíblico e ânimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça a cada pessoa que compartilhe acontecimento especial e um desafio que tenha experimentado nesta semana."
+          },
+          {
+            "text": "Pergunte: \"O que você deseja que Jesus faça por você nesta semana? Ore pelas necessidades dos demais."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<span style=\"background-color:white\"><span lang=\"PT-BR\">Pergunte: \"O que aconteceu quando você confiou em Deus sobre suas metas e suas declarações: Eu farei.... no dia......?\"</span></span>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Escolha uma maneira de dar a visão de quem eles podem chegar a ser em Cristo e o que Deus pode fazer através deles ao:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartilhar um versículo Bíblico que os faça lembrar o Coração do Pai e a visão final, ou"
+                  },
+                  {
+                    "text": "Refletir sobre as mudanças que aconteceram em suas vidas desde que começaram a seguir a Cristo, ou"
+                  },
+                  {
+                    "text": "recordar o que Deus quer fazer através deles."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Compartilhe a GRANDE visão de \"Uma igreja para cada cidade e comunidade, e o evangelho para cada pessoa”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Peça ao grupo que conte a história da semana passada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista Marcos 1:21-28 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Marcos 1:21-28",
+        "html": "<h3>Um homem dominado por um espírito mau</h3> <p><sup>21</sup>Jesus e os discípulos chegaram à cidade de Cafarnaum, e, no sábado, ele foi ensinar na sinagoga.<sup>22</sup>As pessoas que o escutavam ficaram muito admiradas com a sua maneira de ensinar. É que Jesus ensinava com a autoridade dele mesmo e não como os mestres da Lei.<sup>23</sup>Então chegou ali um homem que estava dominado por um espírito mau. O homem gritou:</p> <p><sup>24</sup>— O que quer de nós, Jesus de Nazaré? Você veio para nos destruir? Sei muito bem quem é você: é o Santo que Deus enviou!</p> <p><sup>25</sup>Então Jesus ordenou ao espírito mau:</p> <p>— Cale a boca e saia desse homem!</p> <p><sup>26</sup>Aí o espírito sacudiu o homem com violência e, dando um grito, saiu dele.<sup>27</sup>Todos ficaram espantados e diziam uns para os outros:</p> <p>— Que quer dizer isso? É um novo ensinamento dado com autoridade. Ele manda até nos espíritos maus, e eles obedecem.</p> <p><sup>28</sup>E a fama de Jesus se espalhou depressa por toda a região da Galileia.</p>",
+        "url": "https://biblegateway.com/passage/?search=Mark%201:21-28&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Marcos 1:21-28",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMark1501",
+        "source": "arclight",
+        "refId": "6_529-GOMark1501",
+        "startTime": "4:42",
+        "endTime": "5:56",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que te chamou a atenção ou o que você mais gostou? Por quê?"
+          },
+          {
+            "text": "Existe algo novo ou algo que tenha desenvolvido até este ponto da história de Jesus?"
+          },
+          {
+            "text": "O que aprendemos sobre a humanidade ou a divindade de Jesus nessa passagem?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que conhecemos essa história?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Perguntas adicionais que você pode usar:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que estão aprendendo seus seguidores?"
+          },
+          {
+            "text": "O que Jesus está modelando sobre a vida, o ministério e a liderança piedosa?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus inicia o primeiro de seis eventos de envolvimento para treinar Sua jovem equipe a alcançar as multidões com as Boas Novas de que Jesus é o Messias. A primeira viagem é ao lugar de adoração, a Sinagoga local. Ali eles encontram um grupo de religiosos. Jesus usou os primeiros cincos livros da Bíblia para contar aos religiosos quem Ele é. Jesus combina as Boas Novas com a mensagem de que é hora de se arrepender porque o Reino de Deus está aqui. A multidão reconheceu que Jesus era diferente estavam maravilhados que Jesus tinha controle sobre os espíritos malignos. Parece que esta é a primeira vez que Jesus expulsou um demônio e notícias sobre esse evento se espalharam rapidamente. O demônio demonstrou saber exatamente quem Jesus era, “o Santo de Deus”."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Para Estudo Adicional: <a href=\"javascript:popUp('pop3')\">Lucas 4:31-37</a>",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratique ofertar e a comunhão aqui ou na sessão Preparar para a Missão.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pratique as habilidades necessárias ou assuntos prévios para te ajudar a preparar-se para ministrar aos demais:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar e Compartilhar"
+                  },
+                  {
+                    "text": "Compartilhar o Evangelho"
+                  },
+                  {
+                    "text": "Estudos Bíblicos Fundamentais"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique pessoas ou lugares onde tomará a iniciativa de ministrar nessa semana."
+          },
+          {
+            "text": "Escreva suas declarações de “Eu farei........ no dia ........” e compartilhe em seu pequeno grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Apresente as metas de todos ao Senhor. Peça ao Senhor que nos ajude a ser fiéis e que Ele nos use para iniciar um movimento de fazedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benção (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply218-i-will"
+      }
+    }
+  ]
+}

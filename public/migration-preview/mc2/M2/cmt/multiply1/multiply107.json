@@ -1,0 +1,417 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmt",
+  "htmlLang": "zh-Hant",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply107",
+  "sortOrder": 8,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">本課教導我們住在基督裡的重要性，因為離了耶穌</span><span lang=\"ZH-CN\">基督</span><span lang=\"ZH-CN\">，我們什麼都不能做。惟有依靠祂，並住在祂裡面，我們才能活出多結果子的生命。</span>"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向後看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "敬拜讚美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "詩篇16:7-11"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>7</sup>我必稱頌那指教我的耶和華，我的心腸在夜間也警戒我。<sup>8</sup>我將耶和華常擺在我面前，因他在我右邊，我便不至搖動。<sup>9</sup>因此，我的心歡喜，我的靈快樂，我的肉身也要安然居住。<sup>10</sup>因為你必不將我的靈魂撇在陰間，也不叫你的聖者見朽壞。<sup>11</sup>你必將生命的道路指示我。在你面前有滿足的喜樂，在你右手中有永遠的福樂。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "現在讓我們用“行動”（ACTS）向上帝感恩讚美和禱告。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "禱告關懷",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感謝神和需要耶穌為你做的事，並彼此感恩代禱。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "慶賀實踐",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "請分享上週你因信靠神而實踐“屆時我會”的福音行動"
+          },
+          {
+            "text": "背誦上週經文（路加福音11:10）"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "天父心意",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "上帝不只愛我們，祂更要讓我們效法祂兒子耶穌基督的模樣，像祂一樣經歷天父，並讓人從我們身上看見天父的樣子（羅馬書8:29）。好消息是“變得像基督”是上帝的工作，在腓立比書1:6應許我們：“那在你們心裡動了善工的，必成全這工”。上帝會在你我生命中動工，使我們能像基督，願我們因這應許大受激勵。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "被主呼召",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事背景</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "耶穌被釘十字架的前一晚，祂和親近的十二門徒共進晚餐。祂告訴門徒自己將離去，但是祂會差聖靈保惠師來，與他們永遠同在。祂說透過聖靈同在，住在他們裡面，祂要與他們同在。今天的故事用葡萄樹和枝子的比喻描繪出我們與耶穌應有的關係。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>閱讀經文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "閱讀約翰福音15:1-11兩遍，或觀看視頻《約36 葡萄樹與枝子》。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "約翰福音15:1-11",
+        "html": "<p><sup>1</sup>「我是真葡萄樹，我父是栽培的人。<sup>2</sup>凡屬我不結果子的枝子，他就剪去；凡結果子的，他就修理乾淨，使枝子結果子更多。<sup>3</sup>現在你們因我講給你們的道，已經乾淨了。<sup>4</sup>你們要常在我裡面，我也常在你們裡面。枝子若不常在葡萄樹上，自己就不能結果子；你們若不常在我裡面，也是這樣。<sup>5</sup>我是葡萄樹，你們是枝子。常在我裡面的，我也常在他裡面，這人就多結果子；因為離了我，你們就不能做什麼。<sup>6</sup>人若不常在我裡面，就像枝子丟在外面枯乾，人拾起來扔在火裡燒了。<sup>7</sup>你們若常在我裡面，我的話也常在你們裡面，凡你們所願意的，祈求，就給你們成就。<sup>8</sup>你們多結果子，我父就因此得榮耀，你們也就是我的門徒了。</p> <p><sup>9</sup>「我愛你們，正如父愛我一樣，你們要常在我的愛裡。<sup>10</sup>你們若遵守我的命令，就常在我的愛裡，正如我遵守了我父的命令，常在他的愛裡。<sup>11</sup>這些事我已經對你們說了，是要叫我的喜樂存在你們心裡，並叫你們的喜樂可以滿足。</p>",
+        "url": "https://biblegateway.com/passage/?search=約翰福音15:1-11&version=CUVMPT",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "約翰福音15:1-11",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOJohn2216",
+        "source": "arclight",
+        "refId": "6_20615-GOJohn2216",
+        "startTime": "start",
+        "endTime": "2:02",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索與討論</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "經文中讓你印象最深刻的是什麼？為什麼？"
+                },
+                {
+                  "text": "從這段經文中你對耶穌有什麼新的認識？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再讀一次這段故事。請小組中一個人口頭講述這故事，並根據需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "離了耶穌，我們就不能做什麼。惟有倚靠祂，住在祂裡面，我們才能有結果子的生命。當我們順從祂的道路，讓祂的生命涌流在我們裡面，就能多結果子，榮耀上帝。換句話說，我們必須讓基督的靈，也就是聖靈，藉着上帝所賜的信心，充滿我們並引導我們的生命。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小結</strong>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "經文背誦",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "約翰福音15:5"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "我是葡萄樹，你們是枝子；常在我裡面的，我也常在他裡面，這人就多結果子；因為離了我，你們就不能作什麼。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "福音預備",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "複習第三課《與聖靈同行》當中“屬靈呼吸”的原則。（第10頁）"
+                  },
+                  {
+                    "text": "操練對講《被聖靈充滿》小冊子並熟悉它。",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "每人拿一本《被聖靈充滿》小冊子"
+                        },
+                        {
+                          "text": "使用開場白打開話題：“你好，我有一本小冊子解釋怎樣活出豐盛的基督徒生活，我想與你分享”。並與同伴分享小冊子。"
+                        },
+                        {
+                          "text": "10分鐘後，對換角色，繼續分享完整本小冊子。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "（讀到禱告文的部分，如果對方願意憑信心禱告來被聖靈充滿，就帶領他禱告。）"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行動",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "想出2位你將與他們分享《被聖靈充滿》小冊子的主內弟兄姊妹（基督徒），並在《信徒動員表》寫下他們的名字，本週與他們分享。"
+          },
+          {
+            "text": "在你的靈修筆記本上寫下，有哪兩種生命的品格是你希望主耶穌幫助你“結果子”的，寫下原因和你的行動步驟，下週與小組成員分享。"
+          },
+          {
+            "text": "依照你今天所學到的，寫下一個“屆時我會”的宣告，並於組內分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在_______________（時間/地點）將會_________________（對象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分鐘寫下你在本課的學習心得，或是你未來一週，可能有的其他行動點。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音禱告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "親愛的天父，謝謝祢寶貴的話語應許我們，祢說我們若常在祢裡面，祢的話也常在我們裡面；凡我們所願意的，祈求就給我們成就。我們多結果子，天父就因此得榮耀，我們也就是主耶穌的門徒了。感謝主耶穌愛我們，正如父神愛主耶穌一樣，我們要常在主耶穌的愛里。因為離了祢，我們無法活出耶穌並結出生命的果子來榮耀天父的名，求主耶穌幫助我們。奉主的名禱告，阿們！"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply107-i-will"
+      }
+    }
+  ]
+}

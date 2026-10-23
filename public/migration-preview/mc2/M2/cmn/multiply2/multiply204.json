@@ -1,0 +1,393 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply204",
+  "sortOrder": 6,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向后看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "敬拜赞美",
+        "level": 2
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "祷告关怀",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感谢神和需要耶稣为你做的事，并彼此感恩代祷"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "庆贺实践",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li style=\"text-align:justify\"><span><span><span><span lang=\"ZH-CN\">请分享上周你因信靠神忠心地操练和实践基督生命的福音行动</span></span></span></span></li> <li class=\"back\">背诵上周经文（{太2:10-11}） </li>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "太2:10-11",
+            "label": "太2:10-11",
+            "passage": "<p><sup>10</sup>他们看见那星，就大大地欢喜。<sup>11</sup>进了房子，看见小孩子和他母亲<u class=\"person underline\">马利亚</u>，就俯伏拜那小孩子，揭开宝盒，拿黄金、乳香、没药为礼物献给他。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "天父心意",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "神的爱子，道成肉身的耶稣基督，为拯救世人，降世为人，然而客店里竟然没有接待他的地方，只好用布包起来，放在马槽里。祂本有神的形像，反倒虚己成为人的样式，就自己卑微，以至于死，且死在十字架上。神的爱就在此向世人显明了，让我们敞开心扉邀请我们的君王耶稣基督在我们心中作主掌王权。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "学像耶稣",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"up\"><strong>经文背景</strong></li> <span><span><span lang=\"ZH-CN\">耶稣不但照预言为女子所生，且生在律法之下。摩西的律法规定，妇人生男孩，四十天才得洁净，满了四十天，耶稣的母亲马利亚和约瑟才可带耶稣去耶路撒冷，按着律法规定，将头生的献给主（{参出 13:2}）。 </span></span></span> <span><span><span lang=\"ZH-CN\">耶稣被献给神，满足律法的要求，为要把律法之下的人救赎出来，叫我们信祂的人也得着儿子的名分（{参加4:4-5}）。 </span></span></span>",
+        "references": [
+          {
+            "id": "popup_pop10",
+            "marker": "参出 13:2",
+            "label": "参出 13:2",
+            "passage": "<span><span><span lang=\"ZH-CN\"><!-- begin bible --></span></span></span><p><span><span><span lang=\"ZH-CN\"><sup>2</sup>“以色列中凡头生的，无论是人是牲畜，都是我的，要分别为圣归我。”</span></span></span></p><span><span><span lang=\"ZH-CN\"><!-- end bible --></span></span></span>"
+          },
+          {
+            "id": "popup_pop11",
+            "marker": "参加4:4-5",
+            "label": "参加4:4-5",
+            "passage": "<span><span><span lang=\"ZH-CN\"><!-- begin bible --></span></span></span><p><span><span><span lang=\"ZH-CN\"><sup>4</sup>及至时候满足，神就差遣他的儿子，为女子所生，且生在律法以下，<sup>5</sup>要把律法以下的人赎出来，叫我们得着儿子的名分。</span></span></span></p><span><span><span lang=\"ZH-CN\"><!-- end bible --></span></span></span>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">阅读或观看《</span> 马太福音2:19-23; 路加福音 2:39-52<span lang=\"ZH-CN\">》两遍。</span>"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "马太福音2:19-23",
+        "html": "<p><sup>19</sup>希律死了以后，有主的使者在埃及向约瑟梦中显现，说：<sup>20</sup>“起来！带着小孩子和他母亲往以色列地去，因为要害小孩子性命的人已经死了。”<sup>21</sup>约瑟就起来，把小孩子和他母亲带到以色列地去，<sup>22</sup>只因听见亚基老接着他父亲希律作了犹太王，就怕往那里去，又在梦中被主指示，便往加利利境内去了。<sup>23</sup>到了一座城，名叫拿撒勒，就住在那里。这是要应验先知所说，他将称为拿撒勒人的话了。</p>",
+        "url": "https://biblegateway.com/passage/?search=马太福音2:19-23&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "马太福音2:19-23",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOMatt2501",
+        "source": "arclight",
+        "refId": "6_20615-GOMatt2501",
+        "startTime": "8:41",
+        "endTime": "9:33",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "路加福音 2:39-52",
+        "html": "<p><sup>39</sup>约瑟和马利亚照主的律法办完了一切的事，就回加利利，到自己的城拿撒勒去了。<sup>40</sup>孩子渐渐长大，强健起来，充满智慧，又有　神的恩在他身上。</p> <p><sup>41</sup>每年到逾越节，他父母就上耶路撒冷去。<sup>42</sup>当他十二岁的时候，他们按着节期的规矩上去。<sup>43</sup>守满了节期，他们回去，孩童耶稣仍旧在耶路撒冷。他的父母并不知道，<sup>44</sup>以为他在同行的人中间，走了一天的路程，就在亲族和熟识的人中找他，<sup>45</sup>既找不着，就回耶路撒冷去找他。<sup>46</sup>过了三天，就遇见他在殿里，坐在教师中间，一面听，一面问。<sup>47</sup>凡听见他的，都希奇他的聪明和他的应对。<sup>48</sup>他父母看见就很希奇。他母亲对他说：“我儿，为什么向我们这样行呢？看哪，你父亲和我伤心来找你！”<sup>49</sup> 耶稣说：“为什么找我呢？岂不知我应当以我父的事为念吗？（注：或作“岂不知我应当在我父的家里吗？”）”<sup>50</sup>他所说的这话，他们不明白。<sup>51</sup>他就同他们下去，回到拿撒勒，并且顺从他们。他母亲把这一切的事都存在心里。<sup>52</sup>耶稣的智慧和身量（注：或作：“年纪”），并　神和人喜爱他的心，都一齐增长。</p>",
+        "url": "https://biblegateway.com/passage/?search=路加福音%202:39-52&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "路加福音 2:41-52",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOLuke2603",
+        "source": "arclight",
+        "refId": "6_20615-GOLuke2603",
+        "startTime": "start",
+        "endTime": "1:53",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索与讨论</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "让你印象深刻的经文/部分是什么？为什么？"
+                },
+                {
+                  "text": "在这段经文中，你对耶稣的神性或人性有何认识？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再读一次这段故事。请小组中一个人口头讲述这故事，并根据需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "小结",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "每一年耶稣全家会上耶路撒冷朝圣，和亲戚朋友一起守逾越节。敬虔的马利亚和约瑟，按着律法，当孩童耶稣满了12岁时，就带祂一同上耶路撒冷过逾越节。节期共有七天，除了献祭诵经和许多宗教活动节目之外，也是亲友和族人难得的相聚机会。耶稣12岁那年是特别的一年({路2:40})， 因为祂开始与当时的宗教领袖互动、问问题。耶稣这时已很明显的表明祂与父神的关系，同时也表明了祂降世的使命：“是以我父的事为念。” 耶稣顺从父母与他们回到拿撒勒去，是儿女当顺从父母的好榜样。而{路加福音2:52} 则记录耶稣18岁到30岁左右的成长过程。",
+                "references": [
+                  {
+                    "id": "popup_pop12",
+                    "marker": "路2:40",
+                    "label": "路2:40",
+                    "passage": "<p><sup>40</sup>孩子渐渐长大，强健起来，充满智慧，又有神的恩在他身上。</p>"
+                  },
+                  {
+                    "id": "popup_pop13",
+                    "marker": "路加福音2:52",
+                    "label": "路加福音2:52",
+                    "passage": "<p><sup>52</sup>耶稣的智慧和身量，并神和人喜爱他的心，都一齐增长。</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "经文背诵",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "路2:52"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "耶稣的智慧和身量（注：或作：“年纪”），并　神和人喜爱他的心，都一齐增长。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音预备",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"forward\">耶稣的成长过程：智能和身量，并神与人喜爱祂的心，都一齐增长（{路2:40}, {路2:52}）。 我们生命成长的表现又是什么呢？为什么？</li> <li class=\"forward\">身为神子，耶稣没有轻看作为人的家庭责任。我们基督徒该如何看待我们在世上的人际关系及家庭责任，并有美好的见证？</li> <li class=\"forward\">我们如何面对所看见的事、所经历的事？为什么要存在心理，反复思想？</li>",
+        "references": [
+          {
+            "id": "popup_pop8",
+            "marker": "路2:40",
+            "label": "路2:40",
+            "passage": "<p><sup>40</sup>孩子渐渐长大，强健起来，充满智慧，又有神的恩在他身上。</p>"
+          },
+          {
+            "id": "popup_pop9",
+            "marker": "路2:52",
+            "label": "路2:52",
+            "passage": "<p><sup>52</sup>耶稣的智慧和身量，并神和人喜爱他的心，都一齐增长。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行动",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "在未来的人际关系与家庭责任里，有哪些是神提醒你要加强或修复的？我们会否因许多宗教活动的活动或只顾与亲友交往应酬，而忽略我们的子女或是我们在家中当尽的责任？"
+          },
+          {
+            "text": "年纪老迈的西面渴望见到救恩而得蒙神的悦纳。你是否渴慕这种与主面对面的关系呢？鼓励你继续分别30分钟有个人灵修的时间，单单亲近神，寻求神的面，为要遇见神。"
+          },
+          {
+            "text": "依照你今天所学到的，写下一个“届时我会”的宣告，并于组内分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在________________（时间/地点）将会__________________（对象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分钟写下你在本课的学习心得，或是你未来一周可能有的其他行动点。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音祷告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "亲爱的天父，我赞美祢，因祢满有智慧与能力。求祢帮助我在灵性、智性和身量上一同增长；在个人生活、家庭、课业、工作与关系上有美好的见证，使认识我的家人亲友、同事同学都可以从我身上看见祢的作为。天父啊，我愿意凡事荣耀祢的名，在各样的事上尽职忠心，并不找借口推脱我当付的责任，多结生命的果子，使人认出我是祢的门徒。奉主耶稣的名祷告，阿们！"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply204-i-will"
+      }
+    }
+  ]
+}

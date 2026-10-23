@@ -1,0 +1,443 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmt",
+  "htmlLang": "zh-Hant",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply108",
+  "sortOrder": 9,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "本課強調禱告與關懷的重要性，主耶穌賜給我們禱告的權柄，叫我們藉着禱告支取上帝豐盛的慈愛和憐憫；也藉着禱告關懷行動，關懷並幫助有需要的人。"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向後看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "敬拜讚美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "詩篇33:1-5"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>1</sup>義人哪，你們應當靠耶和華歡樂，正直人的讚美是合宜的。<sup>2</sup>你們應當彈琴稱謝耶和華，用十弦瑟歌頌他。<sup>3</sup>應當向他唱新歌，彈得巧妙，聲音洪亮。<sup>4</sup>因為耶和華的言語正直，凡他所作的，盡都誠實。<sup>5</sup>他喜愛仁義公平，遍地滿了耶和華的慈愛。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "現在讓我們藉着詩歌一起歌頌讚美我們的神！"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "禱告關懷",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感謝神和需要耶穌為你做的事，並彼此感恩代禱。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "慶賀實踐",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "請分享上週你因信靠神而實踐“屆時我會”的福音行動"
+          },
+          {
+            "text": "背誦上週經文（約翰福音15:5）"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "天父心意",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "在馬可福音中，耶穌一開始就告訴人要“悔改”。意思是改變我們的思考方式，因為上帝的道路不同於我們的道路。其中要改變的是我們看待自己的方式。我們需要重新理解自己與上帝的關係，並祂在我們生命中能成就的事。接着，耶穌告訴人“來跟從我！我要叫你們得人如得魚一樣。”耶穌呼召每個門徒活出這“跟從祂”和“得人如得魚”的雙重呼召。我們奉獻委身於耶穌，並轉變我們的日常生活和人際關係。讓我們彼此鼓勵，持續不斷地悔改、跟隨主和得人。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "被主呼召",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事背景</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "耶穌受死的幾個星期前，祂和跟隨者在耶利哥城。當他們要離開上耶路撒冷時，路途尚有24公里之遠。有一個瞎子大聲呼叫耶穌的名字，要得祂的注意。今天的故事會告訴我們接下來發生的事。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>閱讀經文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "閱讀路加福音18:35-43兩遍，或觀看耶穌傳（Jesus Film）視頻《醫治巴底買》"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "路加福音18:35-43",
+        "html": "<p><sup>35</sup>耶穌將近耶利哥的時候，有一個瞎子坐在路旁討飯。<sup>36</sup>聽見許多人經過，就問是什麼事。<sup>37</sup>他們告訴他，是拿撒勒人耶穌經過。<sup>38</sup>他就呼叫說：「<u class=\"person underline\">大衛</u>的子孫耶穌啊，可憐我吧！」<sup>39</sup>在前頭走的人就責備他，不許他作聲，他卻越發喊叫說：「<u class=\"person underline\">大衛</u>的子孫，可憐我吧！」<sup>40</sup>耶穌站住，吩咐把他領過來。到了跟前，就問他說：<sup>41</sup>「你要我為你做什麼？」他說：「主啊，我要能看見！」<sup>42</sup>耶穌說：「你可以看見！你的信救了你了。」<sup>43</sup>瞎子立刻看見了，就跟隨耶穌，一路歸榮耀於神。眾人看見這事，也讚美神。</p>",
+        "url": "https://biblegateway.com/passage/?search=路加福音18:35-43&version=CUVMPT",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "路加福音18:35-43",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOLuke2618",
+        "source": "arclight",
+        "refId": "6_20615-GOLuke2618",
+        "startTime": "4:18",
+        "endTime": "5:36",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索與討論</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "經文中讓你印象最深刻的是什麼？為什麼？"
+                },
+                {
+                  "text": "從這段經文中你對耶穌有什麼新的認識？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再讀一次這段故事。請小組中一個人口頭講述這故事，並根據需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "耶穌對世人有極大的憐憫之心！祂問那位瞎子一個奇妙的問題：“你要我為你做什麼？”然後滿足了這瞎子的需要。在約翰福音14:12-13，耶穌說：“我所做的事，信我的人也要做，並且要做比這更大的事，因為我往父那裡去。你們奉我的名無論求甚麼，我必成就，叫父因兒子得榮耀。”作為耶穌的跟隨者，我們依靠聖靈的能力，主動憐憫他人，像耶穌一樣問“要我為你做什麼？”這個奇妙的問題（Amazing Question），來滿足他人實際的需要。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小結</strong>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "經文背誦",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "路加福音18:40-41"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>40</sup>耶穌站住，吩咐把他領過來。到了跟前，就問他說：<sup>41</sup>“你要我為你作什麼？” 他說：“主阿，我要能看見。”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "福音預備",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "下載耶穌生平“JesusFilm”的App，並把“醫治巴底買”（路加福音18:35-43）的視頻存到自己的手機上。"
+                  },
+                  {
+                    "text": "組長示範：如何分享“奇妙的問題”。",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "示範步驟如下："
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "1. 一個開場白"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "2. 分享故事與提出“奇妙的問題”"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "3. 與對方一起為需求禱告"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "4. 請他想出可能因這個故事受益的2-3人"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "5. 詢問：“我可以做什麼”來滿足他的需要，以表達關心"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "接下來，你與一位組員按照上述示範的步驟練習“奇妙的問題”，10分鐘後互換角色練習“奇妙的問題”。"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行動",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "從你《信徒動員表》和《福音行動表》選2-4個人，這週藉着“奇妙的問題”表達對他們的代禱與關懷。"
+          },
+          {
+            "text": "依照你今天所學習到的，寫下一個“屆時我會”的宣告，並於組內分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在_______________（時間/地點）將會_________________（對象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分鐘寫下你在本課的學習心得，或是你未來一週，可能有的其他行動點。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音禱告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "憐憫施恩我們的主，我們感謝祢，祢完全知曉我們心中的需要，並能帶給我們真正的滿足和喜樂。求禰也使用我們的生命，為身邊的人來代禱，向他們提問“奇妙的問題”，並以實際的行動來表達關心和滿足他們的需要，把他們完全帶到天父的面前，使他們可以親自體驗祢豐盛的慈愛和赦免。奉主耶穌的名禱告，阿們！"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply108-i-will"
+      }
+    }
+  ]
+}

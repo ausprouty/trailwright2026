@@ -1,0 +1,396 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "zzz",
+  "htmlLang": "zzz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply115",
+  "sortOrder": 16,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">Read. {Hebrews 4:14-16} and sing songs </li> <li class=\"back\">Use a Statement of Faith about Jesus like {Philippians 2:11}b and {1 Timothy 2:4-6}a </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Hebrews 4:14-16",
+                    "label": "Hebrews 4:14-16",
+                    "passage": "<p><sup>14</sup>Therefore, since we have a great high priest who has ascended into heaven, Jesus the Son of God, let us hold firmly to the faith we profess.<sup>15</sup>For we do not have a high priest who is unable to empathize with our weaknesses, but we have one who has been tempted in every way, just as we are—yet he did not sin.<sup>16</sup>Let us then approach God’s throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Philippians 2:11",
+                    "label": "Philippians 2:11",
+                    "passage": "<p><sup>11</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>to the glory of God the Father.</p>"
+                  },
+                  {
+                    "id": "popup_pop3",
+                    "marker": "1 Timothy 2:4-6",
+                    "label": "1 Timothy 2:4-6",
+                    "passage": "<p><sup>4</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup>5</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup>6</sup>who gave himself as a ransom for all people.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What is one highlight from this week?"
+          },
+          {
+            "text": "What is one challenge from this past week?"
+          },
+          {
+            "text": "What do you want Jesus to do for you this week?"
+          },
+          {
+            "text": "Pray for each other’s needs."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating God's Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What happened as you trusted God with your goals and <em>I will</em> statements?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "One day Jesus sent out His followers to minister to people in the surrounding villages. When they returned they were so excited about all that God had done through them, “Lord, even the demons obey us when we use your name!” After Jesus celebrated with them, He gave them this perspective: “But don’t rejoice because evil spirits obey you; rejoice because your names are registered in heaven.” ({Luke 10:17-20}). Jesus reminds us that our joy is not found in results but that we know Him!",
+                "references": [
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Luke 10:17-20",
+                    "label": "Luke 10:17-20",
+                    "passage": "<p><sup>17</sup>The seventy-two returned with joy and said, “Lord, even the demons submit to us in your name.”</p><p><sup>18</sup>He replied, “I saw Satan fall like lightning from heaven.<sup>19</sup>I have given you authority to trample on snakes and scorpions and to overcome all the power of the enemy; nothing will harm you.<sup>20</sup>However, do not rejoice that the spirits submit to you, but rejoice that your names are written in heaven.”</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Context",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "The early church was committed to one another. They were meeting together regularly, and many new people were coming to Christ. After a time of persecution, they prayed for boldness and the Lord helped them speak the gospel boldly. This story about the believers in Jerusalem shows their commitment to one another."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Read or watch Acts 4:32-37 two times as everyone listens"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Acts 4:32-37",
+        "html": "<p><sup>32 </sup>All the believers were one in heart and mind. No one claimed that any of their possessions was their own, but they shared everything they had.<sup>33</sup>With great power the apostles continued to testify to the resurrection of the Lord Jesus. And God’s grace was so powerfully at work in them all<sup>34</sup>that there were no needy persons among them. For from time to time those who owned land or houses sold them, brought the money from the sales<sup>35</sup>and put it at the apostles’ feet, and it was distributed to anyone who had need.</p> <p><sup>36</sup>Joseph, a Levite from Cyprus, whom the apostles called Barnabas (which means “son of encouragement”),<sup>37</sup>sold a field he owned and brought the money and put it at the apostles’ feet.</p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%204:32-37&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Acts 4:32-37",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_20615-Acts7311-0-0",
+        "source": "arclight",
+        "refId": "2_20615-Acts7311-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What caught your attention (or what did you like best) and why?"
+          },
+          {
+            "text": "What did you learn about Jesus?"
+          },
+          {
+            "text": "What did you learn about people?"
+          },
+          {
+            "text": "How will you obey Jesus now that you know this?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Even from the beginning of the church, the believers cared for one another’s needs by giving. We learn from this story that we should give willingly, not under compulsion. This is clearly stated in {2 Corinthians 9:7}. Read{Acts 11:27-29}. The early church also gave to believers in other churches. This shows us that our giving can be used for needs outside of our own church. Read {Luke 8:1-3}. This story shows us that giving is also used for taking the gospel to other places and spread God’s message. In {1 Corinthians 16:2}, Paul encourages people to practice giving each week to be used for these purposes.",
+                "references": [
+                  {
+                    "id": "popup_pop5",
+                    "marker": "2 Corinthians 9:7",
+                    "label": "2 Corinthians 9:7",
+                    "passage": "<p><sup>7</sup>Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.</p>"
+                  },
+                  {
+                    "id": "popup_pop6",
+                    "marker": "Acts 11:27-29",
+                    "label": "Acts 11:27-29",
+                    "passage": "<p><sup>27</sup>During this time some prophets came down from Jerusalem to Antioch.<sup>28</sup>One of them, named Agabus, stood up and through the Spirit predicted that a severe famine would spread over the entire Roman world. (This happened during the reign of Claudius.)<sup>29</sup>The disciples, as each one was able, decided to provide help for the brothers and sisters living in Judea.</p>"
+                  },
+                  {
+                    "id": "popup_pop7",
+                    "marker": "Luke 8:1-3",
+                    "label": "Luke 8:1-3",
+                    "passage": "<p><sup>1</sup>After this, Jesus traveled about from one town and village to another, proclaiming the good news of the kingdom of God. The Twelve were with him,<sup>2</sup>and also some women who had been cured of evil spirits and diseases: Mary (called Magdalene) from whom seven demons had come out;<sup>3</sup>Joanna the wife of Chuza, the manager of Herod’s household; Susanna; and many others. These women were helping to support them out of their own means.</p>"
+                  },
+                  {
+                    "id": "popup_pop8",
+                    "marker": "1 Corinthians 16:2",
+                    "label": "1 Corinthians 16:2",
+                    "passage": "<p><sup>2</sup>On the first day of every week, each one of you should set aside a sum of money in keeping with your income, saving it up, so that when I come no collections will have to be made.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparing for Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Discuss how giving will be handled."
+                  },
+                  {
+                    "text": "Identify needs where your giving can be used."
+                  },
+                  {
+                    "text": "Remember Jesus’ sacrifice through communion if appropriate."
+                  },
+                  {
+                    "text": "Practice any skill or topic from previous lessons to help prepare to minister to others."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identify 5 people from your Network List with whom you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and tell them to your small group."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying for the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply115-i-will"
+      }
+    }
+  ]
+}

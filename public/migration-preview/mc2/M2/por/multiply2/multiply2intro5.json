@@ -1,0 +1,70 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply2intro5",
+  "sortOrder": 30,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"\" src=\"/sites/mc2/content/M2/por/multiply2/Period5.png\" style=\"width:100%\"></span>"
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "Durou cerca de 15 meses, começando com a escolha dos 12 como Apóstolos sendo efetivamente líderes em treinamento dentro do grupo mais amplo de trabalhadores do ministério e ainda com um grupo maior de seguidores e pessoas que buscavam conhecer mais a Jesus ({Lucas 6:12-19}).",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Lucas 6:12-19",
+            "label": "Lucas 6:12-19",
+            "passage": "<h3>Jesus escolhe os doze apóstolos</h3><p><sup>12</sup>Naquela ocasião Jesus subiu um monte para orar e passou a noite orando a Deus.<sup>13</sup>Quando amanheceu, chamou os seus discípulos e escolheu doze deles. E deu o nome de apóstolos a estes doze:<sup>14</sup>Simão, em quem pôs o nome de Pedro, e o seu irmão André; Tiago e João; Filipe e Bartolomeu;<sup>15</sup>Mateus e Tomé; Tiago, filho de Alfeu; Simão, o nacionalista;<sup>16</sup>Judas, filho de Tiago; e Judas Iscariotes, que foi o traidor.</p><p><sup>17</sup>Jesus desceu do monte com eles e parou com muitos dos seus seguidores num lugar plano. Uma grande multidão estava ali. Era gente de toda a Judeia, de Jerusalém e das cidades de Tiro e Sidom, que ficam na beira do mar.<sup>18</sup>Eles tinham vindo para ouvir Jesus e para serem curados das suas doenças. Os que estavam atormentados por espíritos maus também vieram e foram curados.<sup>19</sup>Todos queriam tocar em Jesus porque dele saía um poder que curava todas as pessoas.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "Os 12 são claramente líderes e o fruto da deliberada seleção, escolha, de Jesus, o treinamento e investimento pessoal neles é evidente após o Pentecostes e ao decorrer do Livro de Atos. Mais tarde nesse mesmo Período Jesus delegou outros 70 seguidores ({Lucas 10:1})",
+        "references": [
+          {
+            "id": "popup_pop2",
+            "marker": "Lucas 10:1",
+            "label": "Lucas 10:1",
+            "passage": "<p><sup>1</sup>Depois disso o Senhor escolheu mais setenta e dois dos seus seguidores e os enviou de dois em dois a fim de que fossem adiante dele para cada cidade e lugar aonde ele tinha de ir.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "e mesmo que ainda não tivessem recebido a mesma posição de liderança nos registros do Evangelho eles também foram escolhidos como “apóstolos” (enviados) e foram também receberam a ordem de orar pela próxima geração de trabalhadores que viriam através deles ({Lucas 10:2}).",
+        "references": [
+          {
+            "id": "popup_pop3",
+            "marker": "Lucas 10:2",
+            "label": "Lucas 10:2",
+            "passage": "<p><sup>2</sup>Antes de os enviar, ele disse:</p><p>— A colheita é grande, mas os trabalhadores são poucos. Por isso, peçam ao dono da plantação que mande trabalhadores para fazerem a colheita.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Sem dúvida, muitos desses 70 missionários não identificados apareceram na igreja primitiva e entre os 120 no cenáculo e as 500 pessoas a quem Jesus apareceu."
+      }
+    }
+  ]
+}

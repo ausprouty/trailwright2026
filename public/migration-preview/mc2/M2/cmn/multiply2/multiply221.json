@@ -1,0 +1,404 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply221",
+  "sortOrder": 25,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向后看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "敬拜赞美",
+        "level": 2
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "祷告关怀",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感谢神和需要耶稣为你做的事，并彼此感恩代祷"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "庆贺实践",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li style=\"text-align:justify\"><span><span><span><span lang=\"ZH-CN\">请分享上周你因信靠神忠心地操练和实践基督生命的福音行动</span></span></span></span></li> <li class=\"back\">背诵上周经文（{路5:10-11}） </li>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "路5:10-11",
+            "label": "路5:10-11",
+            "passage": "<p><sup>10</sup>他的伙伴<u class=\"person underline\">西庇太</u>的儿子<u class=\"person underline\">雅各</u>、<u class=\"person underline\">约翰</u>也是这样。耶稣对<u class=\"person underline\">西门</u>说：“不要怕，从今以后你要得人了。”<sup>11</sup>他们把两只船拢了岸，就撇下所有的，跟从了耶稣。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "天父心意",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "人若看见基督的丰满，就必认识自己的败坏；我们越认识主，也必越觉得自己的败 坏。所以神要我们脱离罪恶，并不是要我们消极的对付自己，乃是要积极的看见基督的赦免与能力。当彼得俯伏在耶稣膝前，说：“主啊，离开我，我是个罪人！”（{路5:8}） 耶稣非但没有责备，反而赋予他生命新的意义。他们因此撇下一切跟随耶稣，成为得人的渔夫。今天神呼召你和我，也要我们成为得人的渔夫。",
+        "references": [
+          {
+            "id": "popup_pop2",
+            "marker": "路5:8",
+            "label": "路5:8",
+            "passage": "<p><sup>8</sup><u class=\"person underline\">西门</u><u class=\"person underline\">彼得</u>看见，就俯伏在耶稣膝前，说：“主啊！离开我，我是个罪人！”</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "学像耶稣",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>经文背景</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "大痳疯是一种皮肤溃烂的疾病，在当时被认为是一种可怕的传染病。 当时麻疯病人的处境十分可怜﹔得了麻疯病不只意味着身体受折磨，更残酷的是被社会、人群的弃绝。犹太人更视大麻疯为不洁净，认为一定是得罪神了才会染病。病人因此常被赶到山区，与人隔离。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>阅读经文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "阅读或观看《路加福音5:12-16》两遍。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "路加福音5:12-16",
+        "html": "<p><sup>12</sup>有一回，耶稣在一个城里，有人满身长了大麻疯，看见他，就俯伏在地，求他说：“主若肯，必能叫我洁净了。”<sup>13</sup>耶稣伸手摸他，说：“我肯，你洁净了吧！”大麻疯立刻就离了他的身。<sup>14</sup>耶稣嘱咐他：“你切不可告诉人，只要去把身体给祭司察看，又要为你得了洁净，照摩西所吩咐的献上礼物，对众人作证据。”<sup>15</sup>但耶稣的名声越发传扬出去。有极多的人聚集来听道，也指望医治他们的病。<sup>16</sup>耶稣却退到旷野去祷告。</p>",
+        "url": "https://biblegateway.com/passage/?search=路加福音5:12-16&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "路加福音5:12-16",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOLuke2605",
+        "source": "arclight",
+        "refId": "6_20615-GOLuke2605",
+        "startTime": "1:56",
+        "endTime": "3:10",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索与讨论</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "让你印象深刻的经文/部分是什么？为什么？"
+                },
+                {
+                  "text": "在这段经文中，你对耶稣的神性或人性有何认识？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再读一次这段故事。请小组中一个人口头讲述这故事，并根据需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "小结",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "耶稣和门徒走遍各城各乡。有一次在一个城里，耶稣遇见一个全身长满大麻疯的人。麻疯病是一种容易传染的疾病。染上这种疾病的人会被社会和宗教群体排斥，人生了无希望。这些人不但被整个社会拒绝，也被认为是上帝定罪的人，因此只有上帝能医好这种疾病。耶稣动了怜悯的心，并不害怕麻疯病。祂爱这群被社会弃绝、讨厌的人，并还要得着这些人。祂嘱咐这人切不可告诉人只把身体给祭司察看，对祭司作证据，让祭司知道弥赛亚已经来到（摩西律法：{利14:1-20}）。 但那人出去，倒说许多的话，叫耶稣以后不得再明明的进城（{可1:45}）。",
+                "references": [
+                  {
+                    "id": "popup_pop7",
+                    "marker": "利14:1-20",
+                    "label": "利14:1-20",
+                    "passage": "<p><sup>1</sup>耶和华晓谕<u class=\"person underline\">摩西</u>说：<sup>2</sup>“长大麻风得洁净的日子，其例乃是这样：要带他去见祭司，<sup>3</sup>祭司要出到营外察看，若见他的大麻风痊愈了，<sup>4</sup>就要吩咐人为那求洁净的拿两只洁净的活鸟和香柏木、朱红色线并牛膝草来。<sup>5</sup>祭司要吩咐用瓦器盛活水，把一只鸟宰在上面。<sup>6</sup>至于那只活鸟，祭司要把它和香柏木、朱红色线并牛膝草一同蘸于宰在活水上的鸟血中，<sup>7</sup>用以在那长大麻风求洁净的人身上洒七次，就定他为洁净，又把活鸟放在田野里。<sup>8</sup>求洁净的人当洗衣服，剃去毛发，用水洗澡，就洁净了，然后可以进营，只是要在自己的帐篷外居住七天。<sup>9</sup>第七天，再把头上所有的头发与胡须、眉毛并全身的毛都剃了，又要洗衣服，用水洗身，就洁净了。</p><p><sup>10</sup>“第八天，他要取两只没有残疾的公羊羔和一只没有残疾、一岁的母羊羔，又要把调油的细面伊法十分之三为素祭，并油一罗革，一同取来。<sup>11</sup>行洁净之礼的祭司要将那求洁净的人和这些东西安置在会幕门口，耶和华面前。<sup>12</sup>祭司要取一只公羊羔献为赎愆祭，和那一罗革油一同做摇祭，在耶和华面前摇一摇。<sup>13</sup>把公羊羔宰于圣地，就是宰赎罪祭牲和燔祭牲之地，赎愆祭要归祭司，与赎罪祭一样，是至圣的。<sup>14</sup>祭司要取些赎愆祭牲的血，抹在求洁净人的右耳垂上和右手的大拇指上，并右脚的大拇指上。<sup>15</sup>祭司要从那一罗革油中取些倒在自己的左手掌里，<sup>16</sup>把右手的一个指头蘸在左手的油里，在耶和华面前用指头弹七次，<sup>17</sup>将手里所剩的油抹在那求洁净人的右耳垂上和右手的大拇指上，并右脚的大拇指上，就是抹在赎愆祭牲的血上。<sup>18</sup>祭司手里所剩的油要抹在那求洁净人的头上，在耶和华面前为他赎罪。<sup>19</sup>祭司要献赎罪祭，为那本不洁净求洁净的人赎罪，然后要宰燔祭牲，<sup>20</sup>把燔祭和素祭献在坛上，为他赎罪，他就洁净了。</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "可1:45",
+                    "label": "可1:45",
+                    "passage": "<p><sup>45</sup>那人出去，倒说许多的话，把这件事传扬开了，叫耶稣以后不得再明明地进城，只好在外边旷野地方。人从各处都就了他来。</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<ul> <span><span><span lang=\"ZH-TW\">(</span><span lang=\"ZH-CN\">进深学习：{马太福音8:2-4}； </span></span></span> <span><span><span lang=\"ZH-CN\">{马可福音1:40-45}) </span></span></span> </ul>",
+                "references": [
+                  {
+                    "id": "popup_pop5",
+                    "marker": "马太福音8:2-4",
+                    "label": "马太福音8:2-4",
+                    "passage": "<span><span><span lang=\"ZH-CN\"><!-- begin bible --></span></span></span><p><span><span><span lang=\"ZH-CN\"><sup>2</sup>有一个长大麻风的来拜他，说：“主若肯，必能叫我洁净了。”<sup>3</sup>耶稣伸手摸他，说：“我肯，你洁净了吧！”他的大麻风立刻就洁净了。<sup>4</sup>耶稣对他说：“你切不可告诉人，只要去把身体给祭司察看，献上<u class=\"person underline\">摩西</u>所吩咐的礼物，对众人做证据。”</span></span></span></p><span><span><span lang=\"ZH-CN\"><!-- end bible --></span></span></span>"
+                  },
+                  {
+                    "id": "popup_pop6",
+                    "marker": "马可福音1:40-45",
+                    "label": "马可福音1:40-45",
+                    "passage": "<span><span><span lang=\"ZH-CN\"><!-- begin bible --></span></span></span><p><span><span><span lang=\"ZH-CN\"><sup>40</sup>有一个长大麻风的来求耶稣，向他跪下，说：“你若肯，必能叫我洁净了。”<sup>41</sup>耶稣动了慈心，就伸手摸他，说：“我肯，你洁净了吧！”<sup>42</sup>大麻风即时离开他，他就洁净了。<sup>43</sup>耶稣严严地嘱咐他，就打发他走，<sup>44</sup>对他说：“你要谨慎，什么话都不可告诉人，只要去把身体给祭司察看，又因为你洁净了，献上<u class=\"person underline\">摩西</u>所吩咐的礼物，对众人做证据。”<sup>45</sup>那人出去，倒说许多的话，把这件事传扬开了，叫耶稣以后不得再明明地进城，只好在外边旷野地方。人从各处都就了他来。</span></span></span></p><span><span><span lang=\"ZH-CN\"><!-- end bible --></span></span></span>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "经文背诵",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "路5:13"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "耶稣伸手摸他，说：“我肯，你洁净了吧！”大麻疯立刻就离了他的身。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音预备",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "我们生命中有没有让我们与他人隔绝的地方，需要神来洁净？为什么？"
+          },
+          {
+            "text": "当我们得了神的赦罪和医治，有没有将荣耀归于神并存敬畏的心？从经文中得医治的麻风病人身上，让我们知道当如何表明将荣耀归于神和敬畏神的心呢？"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行动",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "在《福音行动表》中写下2-3位，在本周使用“奇妙的问题”与他们分享自己的故事和传福音。"
+          },
+          {
+            "text": "邀请弟兄姐妹与你关心和探访在病痛中的亲友，为他们祷告，相信神要使用你们走入人群，为祂得着更多的人，让他们也来尝尝主恩的滋味和医治。"
+          },
+          {
+            "text": "每天学习记下两件感恩的事，并将荣耀归给神。与属灵同伴分享，彼此激励和守望。"
+          },
+          {
+            "text": "依照你今天所学到的，写下一个“届时我会”的宣告，并于组内分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-TW\">我在________________（时间/地点）将会__________________（对象/事情）。</span>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分钟写下你在本课的学习心得，或是你未来一周可能有的其他行动点。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音祷告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "耶和华拉法，我们的神啊，赞美祢是赦免和医治的神，投靠祢的人何等有福！世人都是按祢的形象被造，在祢眼中都是宝贝。谢谢祢从没有遗弃或轻看任何来到祢面前寻求帮助的人，祢知道世人的软弱与悖逆，但祢却仍然以无条件的爱来包容和接纳。感谢主耶稣来到世上，向我们彰显天父的公义和慈爱。愿我们的生命被祢更新和医治，常存感恩的心。我们愿寻求祢、爱祢并服事祢。奉主耶稣的圣名祷告，阿们！"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply221-i-will"
+      }
+    }
+  ]
+}

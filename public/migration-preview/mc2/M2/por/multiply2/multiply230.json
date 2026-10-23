@@ -1,0 +1,442 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply230",
+  "sortOrder": 35,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louvar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia uma passagem das Escrituras e louvem com uma canção de adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">(Opcional) Jesus Cristo é o Senhor, para a gloria de Deus Pai. Ele deseja que todos os homens sejam salvos e cheguem ao pleno conhecimento da verdade. Porque há um só Deus e um único mediador entre Deus e os homens, o homem Jesus Cristo, que a si mesmo se entregou como resgate por todos. ({Filipenses 2:11}; {1 Timóteo 2:4-6}) </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>e declarem abertamente<br>que Jesus Cristo é o Senhor,<br>para a glória de Deus, o Pai.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timóteo 2:4-6",
+                    "label": "1 Timóteo 2:4-6",
+                    "passage": "<p><sup>4</sup>Ele quer que todos sejam salvos e venham a conhecer a verdade.</p><p><sup>5</sup>Pois existe um só Deus e uma só pessoa que une Deus com os seres humanos — o ser humano Cristo Jesus,<sup>6</sup>que deu a sua vida para que todos fiquem livres dos seus pecados. Esta foi a prova, dada no tempo certo, de que Deus quer que todos sejam salvos.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar sobre as necessidades dos demais em oração, conselho bíblico e ânimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça a cada pessoa que compartilhe acontecimento especial e um desafio que tenha experimentado nesta semana."
+          },
+          {
+            "text": "Pergunte: \"O que você deseja que Jesus faça por você nesta semana? Ore pelas necessidades dos demais."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<span style=\"background-color:white\"><span lang=\"PT-BR\">Pergunte: \"O que aconteceu quando você confiou em Deus sobre suas metas e suas declarações: Eu farei.... no dia......?\"</span></span>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Escolha uma maneira de dar a visão de quem eles podem chegar a ser em Cristo e o que Deus pode fazer através deles ao:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartilhar um versículo Bíblico que os faça lembrar o Coração do Pai e a visão final, ou"
+                  },
+                  {
+                    "text": "Refletir sobre as mudanças que aconteceram em suas vidas desde que começaram a seguir a Cristo, ou"
+                  },
+                  {
+                    "text": "recordar o que Deus quer fazer através deles."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Compartilhe a GRANDE visão de \"Uma igreja para cada cidade e comunidade, e o evangelho para cada pessoa”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Peça ao grupo que conte a história da semana passada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista Lucas 7:18-35 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 7:18-35",
+        "html": "<div> <h3>Os mensageiros de João Batista</h3> <p><sup>18</sup>Os discípulos de João Batista contaram tudo isso a ele. Aí João chamou dois deles<sup>19</sup>e os enviou ao Senhor Jesus para perguntarem: “O senhor é aquele que ia chegar ou devemos esperar outro?”<sup>20</sup>Então eles foram até o lugar onde Jesus estava e disseram:</p> <p>— João Batista nos mandou perguntar o seguinte: o senhor é aquele que ia chegar ou devemos esperar outro?</p> <p><sup>21</sup>Naquele momento Jesus curou muitas pessoas das suas doenças e dos seus sofrimentos, expulsou espíritos maus e também curou muitos cegos.<sup>22</sup>Depois respondeu aos discípulos de João:</p> <p>— Voltem e contem a João o que vocês viram e ouviram. Digam a ele que os cegos veem, os coxos andam, os leprosos são curados, os surdos ouvem, os mortos são ressuscitados, e os pobres recebem o evangelho.<sup>23</sup>E felizes são as pessoas que não duvidam de mim!</p> <p><sup>24</sup>Quando os discípulos de João foram embora, Jesus começou a dizer ao povo o seguinte a respeito de João:</p> <p>— O que vocês foram ver no deserto? Um caniço sacudido pelo vento?<sup>25</sup>O que foram ver? Um homem bem-vestido? Ora, os que se vestem bem e vivem no luxo moram nos palácios!<sup>26</sup>Então me digam: o que foram ver? Um profeta? Sim. E eu afirmo que vocês viram muito mais do que um profeta.<sup>27</sup>Porque João é aquele a respeito de quem as Escrituras Sagradas dizem: “Aqui está o meu mensageiro, disse Deus. Eu o enviarei adiante de você para preparar o seu caminho.”</p> <p><sup>28</sup>— Eu digo a vocês que de todos os homens que já nasceram João é o maior. Porém quem é o menor no Reino de Deus é maior do que ele.</p> <p><sup>29</sup>Os cobradores de impostos e todo o povo ouviram isso. Eles eram aqueles que haviam obedecido às ordens justas de Deus e tinham sido batizados por João.<sup>30</sup>Mas os fariseus e os mestres da Lei não quiseram ser batizados por João e assim rejeitaram o plano de Deus para eles.</p> <p><sup>31</sup>E Jesus terminou, dizendo:</p> <p>— Mas com quem posso comparar as pessoas de hoje? Com quem elas são parecidas?<sup>32</sup>Elas são como crianças sentadas na praça. Um grupo grita para o outro:</p> <p>“Nós tocamos músicas de casamento,<br> mas vocês não dançaram!<br> Cantamos músicas de sepultamento,<br> mas vocês não choraram!”</p> </div> <p><sup>33</sup>João Batista jejua e não bebe vinho, e vocês dizem: “Ele está dominado por um demônio.”<sup>34</sup>O Filho do Homem come e bebe, e vocês dizem: “Vejam! Esse homem é comilão e beberrão; é amigo dos cobradores de impostos e de outras pessoas de má fama.”<sup>35</sup>Mas aqueles que aceitam a sabedoria de Deus mostram que ela é verdadeira.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%207:18-35&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lucas 7:18-35",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2607",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2607",
+        "startTime": "3:08",
+        "endTime": "6:18",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que te chamou a atenção ou o que você mais gostou? Por quê?"
+          },
+          {
+            "text": "Existe algo novo ou algo que tenha desenvolvido até este ponto da história de Jesus?"
+          },
+          {
+            "text": "O que aprendemos sobre a humanidade ou a divindade de Jesus nessa passagem?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que conhecemos essa história?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Perguntas adicionais que você pode usar:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que estão aprendendo seus seguidores?"
+          },
+          {
+            "text": "O que Jesus está modelando sobre a vida, o ministério e a liderança piedosa?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus era muitas vezes mal entendido como líder. Durante sua história Ele defende Seu amigo João Batista como um líder. João Batista estava na prisão e lutava com dúvidas se Jesus traria o Reino de Deus. Então ele enviou alguns de seus discípulos remanescentes para falar com Jesus sobre suas dúvidas. Jesus envia-os de volta com uma passagem do Velho Testamento de Isaías (a mesma que Ele usou em Nazaré) para que João Batista soubesse que Jesus estava fazendo as obras do Messias. Jesus elogiou João Batista para os discípulos dizendo que ele era o maior de todos. Jesus contrapôs isso com coisas ruins que pessoas já disseram sobre João Batista. Mesmo após observar Jesus por mais de dois anos, pessoas acusavam Jesus de estar possuído por um demônio, glutão e bêbado. Ser incompreendido faz parte da liderança."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Para Estudo Adicional: <a href=\"javascript:popUp('pop3')\">Mateus 11:2-19</a>",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratique ofertar e a comunhão aqui ou na sessão Preparar para a Missão.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pratique as habilidades necessárias ou assuntos prévios para te ajudar a preparar-se para ministrar aos demais:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar e Compartilhar"
+                  },
+                  {
+                    "text": "Compartilhar o Evangelho"
+                  },
+                  {
+                    "text": "Estudos Bíblicos Fundamentais"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique pessoas ou lugares onde tomará a iniciativa de ministrar nessa semana."
+          },
+          {
+            "text": "Escreva suas declarações de “Eu farei........ no dia ........” e compartilhe em seu pequeno grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Apresente as metas de todos ao Senhor. Peça ao Senhor que nos ajude a ser fiéis e que Ele nos use para iniciar um movimento de fazedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benção (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply230-i-will"
+      }
+    }
+  ]
+}

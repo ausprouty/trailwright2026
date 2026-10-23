@@ -1,0 +1,394 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply108B",
+  "sortOrder": 8,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "OLHANDO PARA TRAS",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Adoração",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li><strong><em>Leia a Bíblia para fundamentar louvor e adoração.</em></strong></li> <li class=\"back\">{Salmos 92:1-2} </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Salmos 92:1-2",
+                    "label": "Salmos 92:1-2",
+                    "passage": "<h4>Hino de gratidão a Deus<br>Salmo. Canção para os sábados.<br>1 Ó Senhor Deus, como é bom<br>dar-te graças!<br>Como é bom cantar hinos em tua honra,<br>ó Altíssimo!<br>2 Como é bom anunciar de manhã<br>o teu amor<br>e de noite, a tua fidelidade,</h4>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça para cada pessoa compartilhar um ponto alto da semana e explicar um desafio pelo o qual passaram."
+          },
+          {
+            "text": "Pergunte, “O que você gostaria que Jesus fizesse por você esta semana?”"
+          },
+          {
+            "text": "Ore pelas necessidades uns dos outros."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Incentive a responsabilidade amorosa em obedecer a Jesus."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pergunte, “O que aconteceu quando você confiou suas metas e suas declarações ‘Eu vou____’ a Deus?”"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Todos nós enfrentamos medos. Até mesmo os melhores líderes de Jesus encontrados na Bíblia enfrentaram medos. Um dos jovens líderes que lutou contra os medos foi Timóteo. Seu mentor, Paulo, o encorajou lembrando-o do dom do Espírito Santo em sua vida. Paulo escreveu a ele em uma carta: \"Deus não nos deu um espírito de medo, mas um espírito de poder, de amor e de autodisciplina. (2 Timóteo 1:7). Porque isso é verdade, não precisamos ter vergonha ou medo de falar sobre Jesus e o que ele fez por nós. Vamos continuar encorajando uns aos outros a viver de acordo com o que é verdade para nós."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "OLHANDO PARA CIMA",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Ao treinar seus discípulos para o ministério, Jesus ensinou-lhes muitos princípios espirituais sobre o Reino de Deus. Esses ensinamentos foram dados em parábolas. Em certa ocasião, Jesus compartilhou uma parábola que descrevia como o Reino de Deus cresce."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Leia Marcos 4:26-29 e assista"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Marcos 4:26-29",
+        "html": "<div> <p><sup>26</sup>Jesus disse:</p> <p>— O Reino de Deus é como um homem que joga a semente na terra. <sup>27</sup>Quer ele esteja acordado, quer esteja dormindo, ela brota e cresce, sem ele saber como isso acontece. <sup>28</sup>É a própria terra que dá o seu fruto: primeiro aparece a planta, depois a espiga, e, mais tarde, os grãos que enchem a espiga. <sup>29</sup>Quando as espigas ficam maduras, o homem começa a cortá-las com a foice, pois chegou o tempo da colheita.</p> </div>",
+        "url": "https://biblegateway.com/passage/?search=Mark%204:26-29&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Marcos 4:26-29",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMark1503",
+        "source": "arclight",
+        "refId": "6_529-GOMark1503",
+        "startTime": "6:48",
+        "endTime": "7:16",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Todos contam o que chamou mais a atenção e por quê."
+          },
+          {
+            "text": "Por que você acha que esta história é importante?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que ouvimos esta história?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar e ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "[Use o diagrama de 4 campos para explicar]"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<img alt=\"4 fields kingdom growth process\" src=\"/sites/mc2/content/M2/por/images/custom/FourFields.png\" style=\"width:100%\">"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "A partir dessa história, aprendemos que há um processo de como o Reino cresce. Pode ser ilustrado por 4 tipos de campos."
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Campo 1 – entrada (campo vazio)."
+                  },
+                  {
+                    "text": "Campo 2 – evangelismo (semeando)."
+                  },
+                  {
+                    "text": "Campo 3 – discipulado (crescimento)."
+                  },
+                  {
+                    "text": "Campo 4 – formação de igreja ou grupo (colheita)."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus também compartilhou que há um ator invisível nos bastidores causando o crescimento (o Espírito Santo). Tanto o fazendeiro quanto o Espírito trabalham juntos. Esta parábola nos ajuda a entender como é o Reino de Deus."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "OLHANDO PARA A FRENTE",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pratique contar a história e desenhar os 4 campos do Processo de Crescimento do Reino."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<img src=\"/sites/mc2/content/M2/eng/images/custom/4fields.png\" style=\"height:155px; width:200px\">"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Atualize sua lista de rede com nomes de pessoas adicionais, se necessário."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique 5 pessoas de sua Lista de Relacionamentos com quem você possa compartilhar esta história ou o evangelho esta semana."
+          },
+          {
+            "text": "Escreva suas declarações “Eu vou_____” e compartilhe-as com seu grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Entregue as metas de todos ao Senhor. Peça ao Senhor para nos ajudar a sermos fiéis e para nos usar para iniciar um movimento de discipuladores."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply108B-i-will"
+      }
+    }
+  ]
+}

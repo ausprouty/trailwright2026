@@ -1,0 +1,55 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply102",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<div class=\"lesson\"><img class=\"lesson-icon\" src=\"/sites/mc2/images/standard/look-back.png\"> <div class=\"lesson-subtitle\">Regarder Derrière</div> </div> <div class=\"reveal\"> <hr> <h2>Louange</h2> <p>Lisez un passage biblique pour commencer à poser les fondements de l'adoration et de la louange.</p> <ul> <li>Exemple: {Psaumes 48:9} « O Dieu, nous pensons à ta bonté Au milieu de ton temple. » Faisons une pause et disons à Jésus combien nous sommes reconnaissants pour Son amour pour nous.</li> </ul> <hr></div> <ul> </ul> <h2>Soin</h2> <p>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</p> <ul> <li>Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine.</li> <li>Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels.</li> </ul> <h2>Célébrer la Fidélité</h2> <p>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour.</p> <ul> <li>Demandez, « Avez-vous pu parler à quelqu'un de votre décision de suivre Christ? »</li> </ul> <div class=\"reveal\"> <hr> <h2>Projection de Vision</h2> <p>Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux.</p> <ul> Exemple: lorsque nous acceptons Christ notre vie change pour toujours. {2 Corinthiens 5:17} dit: Si quelqu’un est en Christ, il est une nouvelle créature. Les choses anciennes sont passées ; voici, toutes choses sont devenues nouvelles! C’est nous! Nous sommes une nouvelle créature et puisque nous suivons Christ, nos vies continueront par changer, pleines d’objectifs et de sens. Encourageons-nous les uns les autres avec cette vérité en continuant notre voyage ensemble dans cette nouvelle vie. </ul> <hr></div>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Psaumes 48:9",
+            "label": "Psaumes 48:9",
+            "passage": "<p><sup>9</sup>(48:10) O Dieu, nous pensons à ta bonté Au milieu de ton temple.</p>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "2 Corinthiens 5:17",
+            "label": "2 Corinthiens 5:17",
+            "passage": "<p><sup>17</sup>Si quelqu'un est en Christ, il est une nouvelle créature. Les choses anciennes sont passées; voici, toutes choses sont devenues nouvelles.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Pour en savoir davantage veuillez lire le <a href=\"/sites/mc2/content/M2/fra/tc/ct02.html\">Message transmissible N° 2 : L'amour et le pardon de Dieu</a> et en discuter avec un autre membre du groupe.",
+        "className": "for-enrichment"
+      }
+    }
+  ]
+}

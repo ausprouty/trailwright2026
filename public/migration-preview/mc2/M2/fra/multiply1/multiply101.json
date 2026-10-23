@@ -1,0 +1,55 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply101",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<div class=\"lesson\"><img class=\"lesson-icon\" src=\"/sites/mc2/images/standard/look-back.png\"> <div class=\"lesson-subtitle\">Regarder Derrière</div> </div> <div class=\"reveal\"> <hr> <h2>Louange</h2> <p>Lisez un passage biblique pour commencer à poser les fondements de l'adoration et de la louange.</p> <ul> <li>Lisez {Psaumes 118:28} « Tu es mon Dieu, et je te louerai ; Mon Dieu! je t’exalterai. » Pour quoi pouvons-nous remercier et louer Dieu aujourd’hui?</li> </ul> <hr></div> <ul> </ul> <h2>Soin</h2> <p>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</p> <ul> <li>Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine.</li> <li>Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels.</li> </ul> <h2>Célébrer la Fidélité</h2> <p>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour.</p> <ul> <li>Demandez, « Avez-vous pu parler à quelqu'un de votre décision de suivre Christ? »</li> </ul> <div class=\"reveal\"> <hr> <h2>Projection de Vision</h2> <p>Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux.</p> <ul> Exemple: Dieu aime les hommes! La Bible nous dit que le désir de Dieu est que tous les hommes soient sauvés et parviennent à la connaissance de la vérité. ({1 Timothée 2:4}). L’évangile n’est pas pour vous seuls mais pour tous vos amis et famille. Dieu les aime et va vous utiliser pour leur transmettre ce que vous apprenez au sujet de Jésus pour qu’ils puissent aussi suivre Jésus. Puisque nous voyageons ensemble, il serait passionnant de voir ce que Dieu fera dans la vie de ceux qui nous entourent. </ul> <hr></div>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Psaumes 118:28",
+            "label": "Psaumes 118:28",
+            "passage": "<p><sup>28</sup>Tu es mon Dieu, et je te louerai; Mon Dieu! je t'exalterai.</p>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "1 Timothée 2:4",
+            "label": "1 Timothée 2:4",
+            "passage": "<p><sup>4</sup>qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Pour en savoir davantage veuillez lire le <a href=\"/sites/mc2/content/M2/fra/tc/ct01.html\">Message transmissible N° 1 : Comment etre surs que vous etes un chretien</a> et en discuter avec un autre membre du groupe.",
+        "className": "for-enrichment"
+      }
+    }
+  ]
+}

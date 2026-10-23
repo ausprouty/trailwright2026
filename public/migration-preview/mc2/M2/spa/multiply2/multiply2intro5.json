@@ -1,0 +1,91 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply2intro5",
+  "sortOrder": 30,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"\" src=\"/sites/mc2/content/M2/spa/images/custom/Period5.png\" style=\"width:100%\"></span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Alrededor de finales del 28 d.C – primavera del 30 d.C Multiplicación del movimiento: seleccionando y desarrollando nuevos líderes con espíritu de oración, enviando multiplicadores probados para continuar como líderes de construcción de movimiento"
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<span><span>Este período dura unos 15 meses y comienza con el nombramiento de los Doce como Apóstoles. Los Apóstoles se convierten en “líderes en entrenamiento” dentro del grupo más grande de obreros del ministerio. Todavía hay un grupo más grande de seguidores y buscadores ({Lucas 6:12-19}). </span></span>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Lucas 6:12-19",
+            "label": "Lucas 6:12-19",
+            "passage": "<h3>Los doce apóstoles</h3><p><sup>12</sup>Por aquel tiempo se fue Jesús a la montaña a orar, y pasó toda la noche en oración a Dios.<sup>13</sup>Al llegar la mañana, llamó a sus discípulos y escogió a doce de ellos, a los que nombró apóstoles:<sup>14</sup>Simón (a quien llamó Pedro), su hermano Andrés, Jacobo, Juan, Felipe, Bartolomé,<sup>15</sup>Mateo, Tomás, Jacobo hijo de Alfeo, Simón, al que llamaban el Zelote,<sup>16</sup>Judas hijo de Jacobo, y Judas Iscariote, que llegó a ser el traidor.</p><p><sup>17</sup>Luego bajó con ellos y se detuvo en un llano. Había allí una gran multitud de sus discípulos y mucha gente de toda Judea, de Jerusalén y de la costa de Tiro y Sidón,<sup>18</sup>que habían llegado para oírlo y para que los sanara de sus enfermedades. Los que eran atormentados por espíritus malignos quedaban liberados;<sup>19</sup>así que toda la gente procuraba tocarlo, porque de él salía poder que sanaba a todos.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Los Doce son el fruto de la selección deliberada, el nombramiento, la formación y la inversión personal de Jesús. Esto se demuestra aún más después de Pentecostés a través de la expansión del Reino capturada en el Libro de los Hechos."
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<span><span>Más tarde en este periodo, Jesús envió a otros 72 ({Lucas 10:1}). </span></span>",
+        "references": [
+          {
+            "id": "popup_pop2",
+            "marker": "Lucas 10:1",
+            "label": "Lucas 10:1",
+            "passage": "<p><sup>1</sup>Después de esto, el Señor escogió a otros setenta y dos para enviarlos de dos en dos delante de él a todo pueblo y lugar adonde él pensaba ir.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "A pesar de que no se les dio el mismo estatus de liderazgo formal dentro del registro del Evangelio que los Doce, también fueron comisionados como \"apóstoles\" (es decir, los enviados). Vemos la multiplicación incorporada de líderes a medida que se le ordenó a este nuevo grupo orar por la próxima generación de obreros que serían levantados a través de su trabajo ({Lucas 10:2}).",
+        "references": [
+          {
+            "id": "popup_pop3",
+            "marker": "Lucas 10:2",
+            "label": "Lucas 10:2",
+            "passage": "<p><sup>2</sup>«Es abundante la cosecha —les dijo—, pero son pocos los obreros. Pídanle, por tanto, al Señor de la cosecha que mande obreros a su campo.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "Sin duda, muchos de estos 72 misioneros sin nombre estaban presentes en la iglesia primitiva, entre los 120 en el cuarto superior e incluidos entre las 500 personas a las que Jesús se apareció después de Su resurrección ({1 Corintios 15:6}).",
+        "references": [
+          {
+            "id": "popup_pop4",
+            "marker": "1 Corintios 15:6",
+            "label": "1 Corintios 15:6",
+            "passage": "<p><sup>6</sup>Después se apareció a más de quinientos hermanos a la vez, la mayoría de los cuales vive todavía, aunque algunos han muerto.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    }
+  ]
+}

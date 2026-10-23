@@ -1,0 +1,488 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmt",
+  "htmlLang": "zh-Hant",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply106",
+  "sortOrder": 7,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "本課告訴我們，禱告就是和天父說話。禱告對我們屬靈生命很重要，耶穌也親自為我們做了禱告的榜樣。"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向後看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "敬拜讚美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "詩篇100:1-5"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>1</sup>你們當樂意事奉耶和華，當來向祂歌唱！普天下當向耶和華歡呼！<sup>2</sup>你們當樂意事奉耶和華，當來向他歌唱！<sup>3</sup>你們當曉得耶和華是　神。我們是他造的，也是屬他的；我們是他的民，也是他草場的羊。<sup>4</sup>當稱謝進入他的門，當讚美進入他的院；當感謝他，稱頌他的名。<sup>5</sup>因為耶和華本為善，他的慈愛存到永遠，他的信實直到萬代！〔大衛的詩〕"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "現在讓我們一起用詩歌來稱謝讚美神，我們是祂的子民，神本為善，當受極大讚美。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "禱告關懷",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感謝神和需要耶穌為你做的事，並彼此感恩代禱。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "慶賀實踐",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "請分享上週你因信靠神而實踐“屆時我會”的福音行動"
+          },
+          {
+            "text": "背誦上週經文（路加福音24:45）"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "天父心意",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "耶穌走遍各城各鄉時，祂看到人們的需要，就憐憫他們。祂對門徒說：“要收的莊稼多，做工的人少。所以，你們當求莊稼的主打發工人出去收他的莊稼。”天父的心意是願意所有人都認識並體驗祂的愛。當門徒跟隨耶穌並看到祂的一生與事奉，他們請求耶穌教導他們如何禱告，使他們能凡事討神的喜悅並按神的心意來行事。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "被主呼召",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事背景</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "耶穌雖然忙於事工，但仍然花許多時間與天父說話。他的跟隨者看見他禱告，也想學習如何向天父說話。今天我們將學習耶穌所教導他們的。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>閱讀經文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "閱讀路加福音11:1-13兩遍，或觀看視頻《路25 主的禱告》"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "路加福音11:1-13",
+        "html": "<p><sup>1</sup>耶穌在一個地方禱告，禱告完了，有個門徒對他說：「求主教導我們禱告，像<u class=\"person underline\">約翰</u>教導他的門徒。」<sup>2</sup>耶穌說：「你們禱告的時候，要說：『我們在天上的父，願人都尊你的名為聖，願你的國降臨，願你的旨意行在地上，如同行在天上。<sup>3</sup>我們日用的飲食，天天賜給我們。<sup>4</sup>赦免我們的罪，因為我們也赦免凡虧欠我們的人。不叫我們遇見試探，救我們脫離凶惡。』」</p> <p><sup>5</sup>耶穌又說：「你們中間誰有一個朋友半夜到他那裡去，說：『朋友，請借給我三個餅，<sup>6</sup>因為我有一個朋友行路，來到我這裡，我沒有什麼給他擺上。』<sup>7</sup>那人在裡面回答說：『不要攪擾我，門已經關閉，孩子們也同我在床上了，我不能起來給你。』<sup>8</sup>我告訴你們：雖不因他是朋友起來給他，但因他情詞迫切地直求，就必起來照他所需用的給他。<sup>9</sup>我又告訴你們：你們祈求，就給你們；尋找，就尋見；叩門，就給你們開門。<sup>10</sup>因為凡祈求的，就得著；尋找的，就尋見；叩門的，就給他開門。<sup>11</sup>你們中間做父親的，誰有兒子求餅，反給他石頭呢？求魚，反拿蛇當魚給他呢？<sup>12</sup>求雞蛋，反給他蠍子呢？<sup>13</sup>你們雖然不好，尚且知道拿好東西給兒女，何況天父，豈不更將聖靈給求他的人嗎？」</p>",
+        "url": "https://biblegateway.com/passage/?search=路加福音11:1-13&version=CUVMPT",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "路加福音11:1-13",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOLuke2612",
+        "source": "arclight",
+        "refId": "6_20615-GOLuke2612",
+        "startTime": "start",
+        "endTime": "2:19",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索與討論</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "經文中讓你印象最深刻的是什麼？為什麼？"
+                },
+                {
+                  "text": "從這段經文中你對耶穌有什麼新的認識？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再讀一次這段故事。請小組中一個人口頭講述這故事，並根據需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "禱告就是和天父說話。我們可以用以下四點總結耶穌的教導：",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小結</strong>"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "讚美祂，以祂為中心。"
+                  },
+                  {
+                    "text": "向祂祈求你一切需要，並承認你的罪。"
+                  },
+                  {
+                    "text": "順服於祂的旨意並求祂的國度降臨。"
+                  },
+                  {
+                    "text": "如此禱告，我們就有把握祂會垂聽，並知道祂樂意給我們好東西。"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "經文背誦",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "路加福音11:10"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "因為凡祈求的，就得着；尋找的，就尋見；叩門的，就給他開門。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "福音預備",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "禱告是跟神交談。每個基督徒都有特權跟神直接的交談。如果我們想有活力充沛的基督徒生命，我們就必須學會與神交談。透過禱告，我們可以支取神在耶穌基督里給我們的資源。"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "總結耶穌的教導，我們可以用“行動”（ACTS）來操練禱告："
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "ordered",
+                "items": [
+                  {
+                    "text": "讚美Adoration"
+                  },
+                  {
+                    "text": "認罪Confession"
+                  },
+                  {
+                    "text": "感恩Thanksgiving"
+                  },
+                  {
+                    "text": "祈求Supplication"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "現在讓我們花一些時間操練向神“禱告”。"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "ordered",
+                "items": [
+                  {
+                    "text": "讚美：用幾分鐘來敬拜和讚美神。歷代志上 29:11-12，說：“11耶和華啊，尊大、能力、榮耀、強勝、威嚴都是你的；凡天上地下的都是你的；國度也是你的；並且你為至高，為萬有之首。12豐富尊榮都從你而來。你也治理萬物。在你手裡有大能大力，使人尊大強盛都出於你。” 讓我們按照經文所描寫有關神的性情或屬性，輪流開聲向神發出我們對他的敬愛與讚美。"
+                  },
+                  {
+                    "text": "認罪：用幾分鐘來禱告，祈求神指示你什麼地方不討祂喜悅，把它列在一張紙上， 然後承認這些罪，並支取約翰壹書 1:9 的應許，最後撕毀這張紙。"
+                  },
+                  {
+                    "text": "感謝：要凡事謝恩（帖撒羅尼迦前書 5:18）。用幾分鐘感謝神為你做過的事情（你想感謝祂的事），以及你尚未感謝神的事情（可能是那些不愉快的事或任何的難處）。"
+                  },
+                  {
+                    "text": "祈求：明確的代求(代別人)和祈求(為自己)。接下來用幾分鐘，明確列出祈求和代禱的需要，並開始禱告。"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "每天有規律地禱告，把每天祈求的事項寫在讀經筆記本上。若神應允你的禱告，請把日期寫上。"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span lang=\"ZH-CN\">日期</span> <span lang=\"ZH-CN\">祈求事項</span> <span lang=\"ZH-CN\">應允日期</span> <span lang=\"ZH-CN\">神如何成就？</span>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行動",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "你可以按以上的各方面，每天向神禱告，持之以恆，不但可養成習慣，更重要的是可以體驗神和經歷神，增進你與祂親密的交通。"
+          },
+          {
+            "text": "在《信徒動員表》和《福音行動表》中寫下2-3個需要關心的親朋鄰舍，為他們的需要代求，並主動關心他們。"
+          },
+          {
+            "text": "依照你今天所學到的，寫下一個“屆時我會”的宣告，並於組內分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在________________（時間/地點）將會__________________（對象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分鐘寫下你在本課的學習心得，或是你未來一週，可能有的其他行動點。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音禱告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "親愛的天父，祢眷顧並知道我們一切的需要。主耶穌在世上的時候，非常注重禱告。祂透過禱告尋求與天父的同在和旨意。我們願意效法主耶穌，時刻與天父親近。願我們常在基督裡面，榮耀天父，明白祢的心意，向祢禱告。我們也願意在真理上不斷生根建造，不僅顧自己的事，也顧別人的事，為他人代求。奉主耶穌的名禱告，阿們！"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply106-i-will"
+      }
+    }
+  ]
+}

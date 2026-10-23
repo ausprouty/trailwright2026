@@ -1,0 +1,451 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply207",
+  "sortOrder": 10,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louvar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia uma passagem das Escrituras e louvem com uma canção de adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">(Opcional) Jesus Cristo é o Senhor, para a gloria de Deus Pai. Ele deseja que todos os homens sejam salvos e cheguem ao pleno conhecimento da verdade. Porque há um só Deus e um único mediador entre Deus e os homens, o homem Jesus Cristo, que a si mesmo se entregou como resgate por todos. ({Filipenses 2:11}; {1 Timóteo 2:4-6}) </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>e declarem abertamente<br>que Jesus Cristo é o Senhor,<br>para a glória de Deus, o Pai.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timóteo 2:4-6",
+                    "label": "1 Timóteo 2:4-6",
+                    "passage": "<p><sup>4</sup>Ele quer que todos sejam salvos e venham a conhecer a verdade.</p><p><sup>5</sup>Pois existe um só Deus e uma só pessoa que une Deus com os seres humanos — o ser humano Cristo Jesus,<sup>6</sup>que deu a sua vida para que todos fiquem livres dos seus pecados. Esta foi a prova, dada no tempo certo, de que Deus quer que todos sejam salvos.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar sobre as necessidades dos demais em oração, conselho bíblico e ânimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça a cada pessoa que compartilhe acontecimento especial e um desafio que tenha experimentado nesta semana."
+          },
+          {
+            "text": "Pergunte: \"O que você deseja que Jesus faça por você nesta semana? Ore pelas necessidades dos demais."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<span style=\"background-color:white\"><span lang=\"PT-BR\">Pergunte: \"O que aconteceu quando você confiou em Deus sobre suas metas e suas declarações: Eu farei.... no dia......?\"</span></span>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Escolha uma maneira de dar a visão de quem eles podem chegar a ser em Cristo e o que Deus pode fazer através deles ao:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartilhar um versículo Bíblico que os faça lembrar o Coração do Pai e a visão final, ou"
+                  },
+                  {
+                    "text": "Refletir sobre as mudanças que aconteceram em suas vidas desde que começaram a seguir a Cristo, ou"
+                  },
+                  {
+                    "text": "recordar o que Deus quer fazer através deles."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Compartilhe a GRANDE visão de \"Uma igreja para cada cidade e comunidade, e o evangelho para cada pessoa”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Peça ao grupo que conte a história da semana passada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista Lucas 4:1-13 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 4:1-13",
+        "html": "<div> <div> <h3>A tentação de Jesus</h3> <p><sup>1</sup>Jesus, cheio do Espírito Santo, voltou do rio Jordão e foi levado pelo Espírito ao deserto.<sup>2</sup>Ali ele foi tentado pelo Diabo durante quarenta dias. Nesse tempo todo ele não comeu nada e depois sentiu fome.<sup>3</sup>Então o Diabo lhe disse:</p> <p>— Se você é o Filho de Deus, mande que esta pedra vire pão.</p> <p><sup>4</sup>Jesus respondeu:</p> <p>— As Escrituras Sagradas afirmam que o ser humano não vive só de pão.</p> <p><sup>5</sup>Aí o Diabo levou Jesus para o alto, mostrou-lhe num instante todos os reinos do mundo<sup>6</sup>e disse:</p> <p>— Eu lhe darei todo este poder e toda esta riqueza, pois tudo isto me foi dado, e posso dar a quem eu quiser.<sup>7</sup>Isto tudo será seu se você se ajoelhar diante de mim e me adorar.</p> <p><sup>8</sup>Jesus respondeu:</p> <p>— As Escrituras Sagradas afirmam:</p> <p>“Adore o Senhor, seu Deus,<br> e sirva somente a ele.”</p> </div> <p><sup>9</sup>Depois o Diabo o levou a Jerusalém e o colocou na parte mais alta do Templo e disse:</p> <p>— Se você é o Filho de Deus, jogue-se daqui,<sup>10</sup>pois as Escrituras Sagradas afirmam:</p> <p>“Deus mandará que os seus anjos<br> cuidem de você.<br> <sup>11</sup>Eles vão segurá-lo com as suas mãos,<br> para que nem mesmo os seus pés<br> sejam feridos nas pedras.”</p> </div> <p><sup>12</sup>Então Jesus respondeu:</p> <p>— As Escrituras Sagradas afirmam: “Não ponha à prova o Senhor, seu Deus.”</p> <p><sup>13</sup>Quando o Diabo acabou de tentar Jesus de todas as maneiras, foi embora por algum tempo.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%204:1-13&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lucas 4:1-13",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2604",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2604",
+        "startTime": "start",
+        "endTime": "1:51",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que te chamou a atenção ou o que você mais gostou? Por quê?"
+          },
+          {
+            "text": "Existe algo novo ou algo que tenha desenvolvido até este ponto da história de Jesus?"
+          },
+          {
+            "text": "O que aprendemos sobre a humanidade ou a divindade de Jesus nessa passagem?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que conhecemos essa história?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Perguntas adicionais que você pode usar:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que estão aprendendo seus seguidores?"
+          },
+          {
+            "text": "O que Jesus está modelando sobre a vida, o ministério e a liderança piedosa?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Jesus foi levado ao deserto para ser tentado pelo próprio Satanás. Após 40 dias de tentações de todo tipo, o inimigo aparece novamente para Jesus. Jesus agora está fraco, cansado, e com muita, muita fome. A tentação de Satanás foi um ataque direto às verdades das palavras de Deus. Essa tem sido a estratégia de Satanás desde o início, quando usou o mesmo método com Adão e Eva ({Gênesis 3}). Jesus nos mostra como convocar as promessas de Deus para tratar ataques do inimigo.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Gênesis 3",
+                    "label": "Gênesis 3",
+                    "passage": "<strong>A desobediência do primeiro casal</strong><p>3 A cobra era o animal mais esperto que o Senhor Deus havia feito. Ela perguntou à mulher:</p><p>— É verdade que Deus mandou que vocês não comessem as frutas de nenhuma árvore do jardim?</p><p><sup>2</sup>A mulher respondeu:</p><p>— Podemos comer as frutas de qualquer árvore,<sup>3</sup>menos a fruta da árvore que fica no meio do jardim. Deus nos disse que não devemos comer dessa fruta, nem tocar nela. Se fizermos isso, morreremos.</p><p><sup>4</sup>Mas a cobra afirmou:</p><p>— Vocês não morrerão coisa nenhuma!<sup>5</sup>Deus disse isso porque sabe que, quando vocês comerem a fruta dessa árvore, os seus olhos se abrirão, e vocês serão como Deus, conhecendo o bem e o mal.</p><p><sup>6</sup>A mulher viu que a árvore era bonita e que as suas frutas eram boas de se comer. E ela pensou como seria bom ter entendimento. Aí apanhou uma fruta e comeu; e deu ao seu marido, e ele também comeu.<sup>7</sup>Nesse momento os olhos dos dois se abriram, e eles perceberam que estavam nus. Então costuraram umas folhas de figueira para usar como tangas.</p><p><sup>8</sup>Naquele dia, quando soprava o vento suave da tarde, o homem e a sua mulher ouviram a voz do Senhor Deus, que estava passeando pelo jardim. Então se esconderam dele, no meio das árvores.<sup>9</sup>Mas o Senhor Deus chamou o homem e perguntou:</p><p>— Onde é que você está?</p><p><sup>10</sup>O homem respondeu:</p><p>— Eu ouvi a tua voz, quando estavas passeando pelo jardim, e fiquei com medo porque estava nu. Por isso me escondi.</p><p><sup>11</sup>Aí Deus perguntou:</p><p>— E quem foi que lhe disse que você estava nu? Por acaso você comeu a fruta da árvore que eu o proibi de comer?</p><p><sup>12</sup>O homem disse:</p><p>— A mulher que me deste para ser a minha companheira me deu a fruta, e eu comi.</p><p><sup>13</sup>Então o Senhor Deus perguntou à mulher:</p><p>— Por que você fez isso?</p><p>A mulher respondeu:</p><p>— A cobra me enganou, e eu comi.</p><h3>O castigo</h3><p><sup>14</sup>Então o Senhor Deus disse à cobra:</p><p>— Por causa do que você fez você será castigada. Entre todos os animais só você receberá esta maldição: de hoje em diante você vai andar se arrastando pelo chão e vai comer o pó da terra.<sup>15</sup>Eu farei com que você e a mulher sejam inimigas uma da outra, e assim também serão inimigas a sua descendência e a descendência dela. Esta esmagará a sua cabeça, e você picará o calcanhar da descendência dela.</p><p><sup>16</sup>Para a mulher Deus disse:</p><p>— Vou aumentar o seu sofrimento na gravidez, e com muita dor você dará à luz filhos. Apesar disso, você terá desejo de estar com o seu marido, e ele a dominará.</p><p><sup>17</sup>E para Adão Deus disse o seguinte:</p><p>— Você fez o que a sua mulher disse e comeu a fruta da árvore que eu o proibi de comer. Por causa do que você fez, a terra será maldita. Você terá de trabalhar duramente a vida inteira a fim de que a terra produza alimento suficiente para você.<sup>18</sup>Ela lhe dará mato e espinhos, e você terá de comer ervas do campo.<sup>19</sup>Terá de trabalhar no pesado e suar para fazer com que a terra produza algum alimento; isso até que você volte para a terra, pois dela você foi formado. Você foi feito de terra e vai virar terra outra vez.</p><p><sup>20</sup>O homem pôs na sua mulher o nome de Eva por ser ela a mãe de todos os seres humanos.<sup>21</sup>E o Senhor Deus fez roupas de peles de animais para Adão e a sua mulher se vestirem.</p><h3>Adão e Eva são expulsos do jardim</h3><p><sup>22</sup>Então o Senhor Deus disse o seguinte:</p><p>— Agora o homem se tornou como um de nós, pois conhece o bem e o mal. Ele não deve comer a fruta da árvore da vida e viver para sempre.</p><p><sup>23</sup>Por isso o Senhor Deus expulsou o homem do jardim do Éden e fez com que ele cultivasse a terra da qual havia sido formado.<sup>24</sup>Deus expulsou o homem e no lado leste do jardim pôs os querubins e uma espada de fogo que dava voltas em todas as direções. Deus fez isso para que ninguém chegasse perto da árvore da vida.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Para Estudo Adicional: <a href=\"javascript:popUp('pop4')\">Mateus 4:1-11</a>",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratique ofertar e a comunhão aqui ou na sessão Preparar para a Missão.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pratique as habilidades necessárias ou assuntos prévios para te ajudar a preparar-se para ministrar aos demais:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar e Compartilhar"
+                  },
+                  {
+                    "text": "Compartilhar o Evangelho"
+                  },
+                  {
+                    "text": "Estudos Bíblicos Fundamentais"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique pessoas ou lugares onde tomará a iniciativa de ministrar nessa semana."
+          },
+          {
+            "text": "Escreva suas declarações de “Eu farei........ no dia ........” e compartilhe em seu pequeno grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Apresente as metas de todos ao Senhor. Peça ao Senhor que nos ajude a ser fiéis e que Ele nos use para iniciar um movimento de fazedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benção (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply207-i-will"
+      }
+    }
+  ]
+}

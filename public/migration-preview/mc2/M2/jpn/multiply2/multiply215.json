@@ -1,0 +1,410 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "jpn",
+  "htmlLang": "ja",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply215",
+  "sortOrder": 18,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "振り返ろう",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "賛美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>御言葉を読み、歌によって主を賛美する。</em>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "例：<br> 「すべての舌が、『イエス・キリストは主です』と告白して、父なる神に栄光を帰するためです。神は、すべての人が救われて、真理を知るようになることを望んでおられます。神は唯一です。神と人との間の仲介者も唯一であり、それは人としてのキリスト・イエスです。キリストは、すべての人の贖いの代価として、ご自分を与えてくださいました。」（<span class=\"bible-link\">ピリピ2章11節後半</span>、<span class=\"bible-link\">第一テモテ2章4〜6節前半</span>）"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "お互いを支え合う",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>祈り、御言葉に基づいた助言、また励ましの言葉をもって、互いの必要に応え合う。</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "今週あったことの中で最もうれしかったことと、困難だったことを互いに分かち合う。"
+          },
+          {
+            "text": "今週は、イエスさまがどんな事をしてくださると期待しているか分かち合い、互いの必要のために祈り合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "神さまの誠実さを喜ぶ",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>イエスさまに従っていくように、愛をもって励まし合う。</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "自分の目標と、「私は、～までに～をする」という形式で書き出した決意を神さまに委ねた結果、どのようなことが起こったかを聞き合い分かち合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "動機づけと励まし",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>以下のいずれかの方法で、キリストにあって私たちはどのような者に変えられるのか、また神さまが私たちを通してどんなことができるのか、ビジョンを投げかける。</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "天のお父さまの心と、天のお父さまが思い描いているビジョンについて思い出させてくれる御言葉を読む。"
+                  },
+                  {
+                    "text": "キリストに従い始めてから自分の人生に起こった変化を振り返る。"
+                  },
+                  {
+                    "text": "神さまが、グループのメンバー一人ひとりを通して、どのようなことをしたいと思っておられるかについて話す。"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "私たちのビジョンは、<em>「すべての市町村や共同体に教会が起こされ、すべての人に福音が伝えられる」</em>ことです。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "見上げよう",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "背景",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "グループのメンバーに、先週学んだストーリーを語ってもらう。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "読む",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"https://www.seisho.or.jp/bible_3/luk/#luk-4\" target=\"_blank\">ルカ4章16〜30節</a>を、声を出して２回読む。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "[BibleBlock]"
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "ルカ4章16〜30節",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_7083-GOLuke2604",
+        "source": "arclight",
+        "refId": "6_7083-GOLuke2604",
+        "startTime": "2:13",
+        "endTime": "4:53",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "発見のためのディスカッション",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "どのようなことが、心に留まったか。一番気に入ったことは？その理由は？"
+          },
+          {
+            "text": "この時点で、イエスさまのストーリーにどのような新しい展開が見られるだろうか。"
+          },
+          {
+            "text": "この聖書箇所から、イエスさまの人間性と神性について、どのようなことを学ぶことができるだろうか。"
+          },
+          {
+            "text": "このストーリーを知った今、自分の生き方をどのように変えたらよいだろうか。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "追加の質問："
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "イエスさまの弟子たちは、どのようなことを学んでいるだろうか。"
+          },
+          {
+            "text": "生活、働き、また神さまを反映するリーダーシップについて、イエスさまはどのような模範を私たちに示しておられるだろうか。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ストーリーを語る練習と確認",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "聖書の箇所をもう一度読む。誰かに、自分の言葉でそのストーリーを語ってもらい、必要に応じて他のメンバーが修正する。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "まとめ",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "イエスさまはナザレに戻り、地元の会堂で教えておられました。そこに集まっていた人々は、イエスさまが幼い頃から、イエスさまとその家族のことを知っていました。彼らは、イエスさまが王室の役人の息子を癒やしたように、自分たちの間でも癒やしを行ってくれることを期待していました。しかしイエスさまは、彼らがご自身を本当は信じていないことをご存知でした。彼らには信仰がなかったのです。人々は当初、イエスさまが語られるメッセージを喜んで受け入れていました。ところが、イエスさまが非ユダヤ人に対する神さまの祝福のご計画について語り始めると、彼らの態度は一変しました。彼らは非ユダヤ人に対して自分たちが持っていた偏見のために、イエスさまに反感を抱き、ついには拒絶したのです。私たちは、信仰によって生きる時にはじめて、神さまが不可能を可能にしてくださるお方であることを目の当たりにするのです。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>この時点か、「ミッションに備える」の中で、献金と聖餐を実践しましょう。</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "前を見よう",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ミッションに備える",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "人々に関わり仕える準備として、必要なスキルを練習したり、これまで学んだトピックを復習したりしましょう。",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "祈り、お互いに対するケア、分かち合い"
+                },
+                {
+                  "text": "福音の分かち合い"
+                },
+                {
+                  "text": "基礎バイブルスタディー"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ミッションに出ていく",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "今週出ていって、関わり仕える場所や相手を特定する。"
+          },
+          {
+            "text": "「私は、～までに～をする」という形式で書きだし、グループのメンバーに分かち合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ミッションのために祈る",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "全員の目標を、主に委ねる。私たちが忠実であり続けることができるよう、また、主が私たちを用いてくださって弟子作りのムーブメントをスタートさせてくださるように祈る。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "祝福の祈り",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "お互いを祝福し、送り出す祈りで締めくくる。"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply215-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply216",
+  "sortOrder": 20,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向后看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "敬拜赞美",
+        "level": 2
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "祷告关怀",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感谢神和需要耶稣为你做的事，并彼此感恩代祷"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "庆贺实践",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li style=\"text-align:justify\"><span><span><span><span lang=\"ZH-CN\">请分享上周你因信靠神忠心地操练和实践基督生命的福音行动</span></span></span></span></li> <li class=\"back\">背诵上周经文（{路4:18-19}） </li>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "路4:18-19",
+            "label": "路4:18-19",
+            "passage": "<p><sup>18</sup>“主的灵在我身上，因为他用膏膏我，叫我传福音给贫穷的人，差遣我报告被掳的得释放、瞎眼的得看见，叫那受压制的得自由，<sup>19</sup>报告神悦纳人的禧年。”</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "天父心意",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "施洗约翰在犹太的旷野传道，说：“天国近了，你们应当悔改！”（{太3:1-2}） “天国”是犹太人对永恒的特定称呼，外邦人很少这样提，这也是《马太福音》的写作特点，因为这是马太专为犹太人所写的福音。天国近了提醒我们要趁着还有今日，赶紧向神悔改。有耳可听的，都应当听！",
+        "references": [
+          {
+            "id": "popup_pop2",
+            "marker": "太3:1-2",
+            "label": "太3:1-2",
+            "passage": "<p><sup>1</sup>那时，有施洗的<u class=\"person underline\">约翰</u>出来，在犹太的旷野传道说：<sup>2</sup>“天国近了，你们应当悔改！”</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "学像耶稣",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>经文背景</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "这一段记载耶稣在加利利、拿撒勒一带开始他传道的工作。不久加利利、叙利亚、 底加波利、耶路撒冷、犹太、约旦河外的人纷纷来跟随耶稣。马太引用以赛亚书描绘世人的属灵光景是“在黑暗里”和“坐在死荫之地”。圣经把福音比喻成照亮黑暗的“大光”，能够把世人从死亡中拯救出来。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>阅读经文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "阅读或观看《马太福音 4:12-17》两遍。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "马太福音 4:12-17",
+        "html": "<p><sup>12</sup>耶稣听见约翰下了监，就退到加利利去；<sup>13</sup>后又离开拿撒勒，往迦百农去，就住在那里。那地方靠海，在西布伦和拿弗他利的边界上。<sup>14</sup>这是要应验先知以赛亚的话，<sup>15</sup>说：“西布伦地，拿弗他利地，就是沿海的路，约旦河外，外邦人的加利利地。<sup>16</sup>那坐在黑暗里的百姓，看见了大光；坐在死荫之地的人，有光发现照着他们。” <sup>17</sup>从那时候，耶稣就传起道来，说：“天国近了，你们应当悔改！”</p>",
+        "url": "https://biblegateway.com/passage/?search=马太福音%204:12-17&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "马太福音 4:12-17",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOMatt2502",
+        "source": "arclight",
+        "refId": "6_20615-GOMatt2502",
+        "startTime": "5:16",
+        "endTime": "6:03",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索与讨论</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "让你印象深刻的经文/部分是什么？为什么？"
+                },
+                {
+                  "text": "在这段经文中，你对耶稣的神性或人性有何认识？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再读一次这段故事。请小组中一个人口头讲述这故事，并根据需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "耶稣进入事工的转换期，这段期间的一开始，约翰被下到监里，促使耶稣往北回到加利利。耶稣在自己的家乡遭到拒绝后，祂迁到湖边的迦百农城，居住在那里，名声开始传遍四方。祂的新住处就在当时主要的跨国高速公路上，这显然是有策略性的安排。此时，施洗约翰被监禁，需要新的领导人来传讲天国信息。从那时候，耶稣开始宣讲和约翰一样的信息：“天国近了，你们应当悔改”。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小结</strong>"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(进深学习：{马可福音1:14-15})",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "马可福音1:14-15",
+                    "label": "马可福音1:14-15",
+                    "passage": "<p><sup>14</sup><u class=\"person underline\">约翰</u>下监以后，耶稣来到加利利，宣传神的福音，<sup>15</sup>说：“日期满了，神的国近了！你们当悔改，信福音！”</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "经文背诵",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "太4:17"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "从那时候，耶稣就传起道来，说：“天国近了，你们应当悔改！”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音预备",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "施洗约翰非常清楚自己的身份和使命，眼见自己事奉的目的已经达成，他由衷地欢喜快乐并且坦然断言“他必兴旺，我必衰微”。今天，神给你我的呼召和人生使命是什么？你在忠心执行吗？"
+          },
+          {
+            "text": "你会如何形容所住的城市？他们需要耶稣吗？你想若我们这个社区、这个城市、这个国家的同胞都愿意接受耶稣“真光”照进来和改变，这种情景将会如何？"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行动",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "立定心志，在神的话语上下功夫，并在生活和家庭上尽职，凡事讨主的喜悦。"
+          },
+          {
+            "text": "求主开你的心眼，有敏锐的洞察能力，接下来一周，为你的家庭、所在的职场、学校、小区、城市和国家祷告。求主的真光照进每个人心中、显明黑暗角落一切不公不义的恶行。愿众人的心都愿意“行公义、好怜悯，存谦卑的心与神同行。”"
+          },
+          {
+            "text": "依照你今天所学到的，写下一个“届时我会”的宣告，并于组内分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在________________（时间/地点）将会__________________（对象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分钟写下你在本课的学习心得，或是你未来一周可能有的其他行动点。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音祷告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">监察人心的主，祢知道人心所存的，世人无法在祢里面隐藏自己。主啊，我们心中的意念祢都晓得。我们为所处的环境，城市和国家祷告，任何不公不义的事、人心的一切诡诈和败坏，甚至公然悖逆和逼迫祢的百姓和教会的罪，求主赦免。求主真光照耀，将一切的黑暗驱散，将人心夺回。我们祷告每一千人中就有一间教会或小组，成为这地的灯塔，指引他们回到父神的身边。感恩祷告是奉我们主耶稣的圣名，阿们！</span>"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply216-i-will"
+      }
+    }
+  ]
+}

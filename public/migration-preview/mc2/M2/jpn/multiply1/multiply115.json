@@ -1,0 +1,407 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "jpn",
+  "htmlLang": "ja",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply115",
+  "sortOrder": 15,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "振り返ろう",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "賛美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "御言葉を読み、歌を通して神さまに賛美と礼拝をささげる。"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"bible-link\">マタイ10章28〜30節</span>を読み、賛美の歌を歌う。"
+                  },
+                  {
+                    "text": "（任意で）<span class=\"bible-link\">ピリピ2章11節後半</span>や、<span class=\"bible-link\">第一テモテ2章4〜6節前半</span>などにある、イエスさまに関する信仰告白の言葉を用いて、主を賛美する。"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "お互いを支え合う",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "祈り、御言葉に基づいた助言、また励ましをもって、互いの必要に応え合う。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "今週あったことの中で最もうれしかったことと、困難だったことを互いに分かち合う。"
+          },
+          {
+            "text": "今週は、イエスさまがどんなことをしてくださると期待しているか分かち合い、互いの必要のために祈り合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "神さまの誠実さを喜ぶ",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "イエスさまに従っていくように、愛をもって励まし合う。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "自分の目標と、「私は、〜までに〜をする」という形式で書き出した決意を神さまに委ねた結果、どのようなことが起こったかを聞き合い、分かち合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "動機づけと励まし",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "キリストにあって、私たちはどのような者に変えられることができるのか、また神さまが私たちを通してどんなことをすることができるのか、ビジョンを投げかける。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"bible-link\">ヘブル10章19〜25節</span>を読みましょう。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "主は、私たちがひとりで歩むことを望んでおられません。むしろ、私たちが共に歩むことを望んでおられます。私たちは、人生の中で多くの困難に直面します。だからこそ、主に従っていくことを互いに励まし合うような関係が必要です。イエスさまに従うことは、共同体の中で共に行うのが最善です。私たちは、お互いの存在を必要としています。ですから、集まることをやめないようにしましょう。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "見上げよう",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "背景",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "神さまは、「過越（すぎこし）」という特別なお祭りをイスラエルの民に与えられました。それは、神さまが彼らをエジプトでの奴隷生活から救い出してくださったことを思い起こすための祭りです。イエスさまは、十字架にかかられる前の夜、この過越の祭りを弟子たちと共に祝い、この過越がご自分のことを指し示していると説明されました。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "読む",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"https://www.seisho.or.jp/bible_3/luk/#luk-22\" target=\"_blank\">ルカ22章14〜20節</a>を、声を出して２回読む。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "[BibleBlock]"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "発見のためのディスカッション（全員が答える）",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "どのようなことが、心に留まったか。（一番気に入ったことは？）その理由は？"
+          },
+          {
+            "text": "イエスさまについて、どのようなことを学んだか。"
+          },
+          {
+            "text": "人について、どのようなことを学んだか。"
+          },
+          {
+            "text": "これらのことを知った今、これからどのようにイエスさまに従っていくか。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "読み、語り、修正する",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "聖書の箇所をもう一度読む。誰かに、自分の言葉でそのストーリーを語ってもらい、必要に応じて他のメンバーが修正する。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "まとめ",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "イエスさまは弟子たちに、ご自身が犠牲となって十字架の上で死なれたことを、どのように思い起こせばよいのか、その模範を示されました。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "【パンを手に取りましょう】"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "このパンは、私たちのために裂かれたイエスさまのからだを象徴しています。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "【「ぶどう酒」を見せましょう】"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "この杯は、私たちのために流されたイエスさまの血を象徴し、私たちが神さまと新しい関係に入ったことを表しています。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "イエスさまは、これを続けて行うように、弟子たちに命じられました。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"bible-link\">第一コリント11章23〜30節</span>を読むと、パウロが新しい教会をスタートさせたとき、どのようにこのイエスさまの命令に従うべきかを、すべての新しい信者たちに教えていたことが分かります。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "前を見よう",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "ミッションに備える",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "聖餐を実践する。地域の教会指導者が教えている手順、あるいは下記の手順を用いる。"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"bible-link\">第一コリント11章23〜30節</span>を読む。"
+                  },
+                  {
+                    "text": "静まり、罪を告白して主と語り合う時間を取る。"
+                  },
+                  {
+                    "text": "パンを配り、それが私たちのために裂かれたイエスさまのからだを象徴していることを説明し、共にパンをいただく。"
+                  },
+                  {
+                    "text": "「ぶどう酒」を配り、それが私たちのために流されたイエスさまの血を象徴していることを説明し、共に飲む。"
+                  },
+                  {
+                    "text": "祈り、主が私たちのためにしてくださったことを感謝する。"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ミッションに出て行く",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "作成したオイコスリストから、今週福音を伝え、関わり仕える相手5人を選び出す。"
+          },
+          {
+            "text": "「私は、～までに〜をする」という形式で書き出し、グループで分かち合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ミッションのために祈る",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "全員の目標を、神さまに委ねる。私たちが忠実であり続けることができるよう、また、主が私たちを用いてくださって弟子作りのムーブメントをスタートさせてくださるように祈る。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<p>教材は、以下のサイトからダウンロードできます：mc2.online</p>",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply115-i-will"
+      }
+    }
+  ]
+}

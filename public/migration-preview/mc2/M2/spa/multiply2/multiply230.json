@@ -1,0 +1,447 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply230",
+  "sortOrder": 35,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Opcional) Jesucristo es el Señor, para la gloria de Dios Padre. Él quiere que todos los hombres sean salvos y lleguen al conocimiento de la verdad. Porque hay un solo Dios y un mediador también entre Dios y el hombre, el hombre Jesucristo, que se entregó a sí mismo como rescate por todos. ({Filipenses 2:11}; {1 Timoteo 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>y toda lengua confiese que Jesucristo es el Señor,<br>para gloria de Dios Padre.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timoteo 2:4-6",
+                    "label": "1 Timoteo 2:4-6",
+                    "passage": "<p><sup>4</sup>pues él quiere que todos sean salvos y lleguen a conocer la verdad.<sup>5</sup>Porque hay un solo Dios y un solo mediador entre Dios y los hombres, Jesucristo hombre,<sup>6</sup>quien dio su vida como rescate por todos. Este testimonio Dios lo ha dado a su debido tiempo,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar las necesidades de los demás en oración, consejo bíblico y ánimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunte: \"¿Qué pasó cuando confiaste en Dios tus metas y tus declaraciones: Yo haré… cuándo…?\""
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y estímulo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Elija una manera de proyectar visión de quiénes pueden llegar a ser en Cristo o lo que Dios puede hacer a través de ellos al:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartir un versículo Bíblico que les recuerde el Corazón del Padre y la visión final, o"
+                  },
+                  {
+                    "text": "reflexionando sobre los cambios en su vida desde que comenzaron a seguir a Cristo, o"
+                  },
+                  {
+                    "text": "recordándoles lo que Dios quiere hacer a través de ellos."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Comparta la GRAN visión de \"Una iglesia para cada ciudad y comunidad, y el Evangelio para cada persona”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídale al grupo que cuente la historia de la semana pasada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Lucas 7:18-35</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 7:18-35",
+        "html": "<div> <div> <h3>Jesús y Juan el Bautista</h3> <p><sup>18</sup>Los discípulos de Juan le contaron todo esto. Él llamó a dos de ellos<sup>19</sup>y los envió al Señor a preguntarle:</p> <p>—¿Eres tú el que ha de venir, o debemos esperar a otro?</p> <p><sup>20</sup>Cuando se acercaron a Jesús, ellos le dijeron:</p> <p>—Juan el Bautista nos ha enviado a preguntarte: “¿Eres tú el que ha de venir, o debemos esperar a otro?”</p> <p><sup>21</sup>En ese mismo momento Jesús sanó a muchos que tenían enfermedades, dolencias y espíritus malignos, y les dio la vista a muchos ciegos.<sup>22</sup>Entonces les respondió a los enviados:</p> <p>—Vayan y cuéntenle a Juan lo que han visto y oído: Los ciegos ven, los cojos andan, los que tienen lepra son sanados, los sordos oyen, los muertos resucitan y a los pobres se les anuncian las buenas nuevas.<sup>23</sup>Dichoso el que no tropieza por causa mía.</p> <p><sup>24</sup>Cuando se fueron los enviados, Jesús comenzó a hablarle a la multitud acerca de Juan: «¿Qué salieron a ver al desierto? ¿Una caña sacudida por el viento?<sup>25</sup>Si no, ¿qué salieron a ver? ¿A un hombre vestido con ropa fina? Claro que no, pues los que se visten ostentosamente y llevan una vida de lujo están en los palacios reales.<sup>26</sup>Entonces, ¿qué salieron a ver? ¿A un profeta? Sí, les digo, y más que profeta.<sup>27</sup>Este es de quien está escrito:</p> <p>»“Yo estoy por enviar a mi mensajero delante de ti,<br> el cual preparará el camino”.</p> </div> <p><sup>28</sup>Les digo que entre los mortales no ha habido nadie más grande que Juan; sin embargo, el más pequeño en el reino de Dios es más grande que él».</p> <p><sup>29</sup>Al oír esto, todo el pueblo, y hasta los recaudadores de impuestos, reconocieron que el camino de Dios era justo, y fueron bautizados por Juan.<sup>30</sup>Pero los fariseos y los expertos en la ley no se hicieron bautizar por Juan, rechazando así el propósito de Dios respecto a ellos.</p> <p><sup>31</sup>«Entonces, ¿con qué puedo comparar a la gente de esta generación? ¿A quién se parecen ellos?<sup>32</sup>Se parecen a niños sentados en la plaza que se gritan unos a otros:</p> <p>»“Tocamos la flauta,<br> y ustedes no bailaron;<br> entonamos un canto fúnebre,<br> y ustedes no lloraron”.</p> </div> <p><sup>33</sup>Porque vino Juan el Bautista, que no comía pan ni bebía vino, y ustedes dicen: “Tiene un demonio”.<sup>34</sup>Vino el Hijo del hombre, que come y bebe, y ustedes dicen: “Este es un glotón y un borracho, amigo de recaudadores de impuestos y de pecadores”.<sup>35</sup>Pero la sabiduría queda demostrada por los que la siguen».</p>",
+        "url": "https://biblegateway.com/passage/?search=Lucas%207:18-35&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lucas 7:18-35",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_21028-GOLuke2607",
+        "source": "arclight",
+        "refId": "6_21028-GOLuke2607",
+        "startTime": "3:16",
+        "endTime": "6:21",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discusión de descubrimiento",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención o qué es lo que más te gustó? ¿Por qué?"
+          },
+          {
+            "text": "¿Hay algo nuevo o algo que ha desarrollado hasta este punto de la historia de Jesús?"
+          },
+          {
+            "text": "¿Qué aprendemos acerca de la humanidad o divinidad de Jesús en este pasaje?"
+          },
+          {
+            "text": "¿Cómo podemos vivir de manera diferente ahora que conocemos esta historia?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Preguntas adicionales que puede utilizar:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué están aprendiendo sus seguidores?"
+          },
+          {
+            "text": "¿Qué es lo que Jesús nos está modelando acerca de la vida, el ministerio o el liderazgo piadoso?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesús fue a menudo incomprendido. Juan el Bautista había estado sentado en prisión y estaba luchando con las dudas acerca de que Jesús era el que traía el Reino de Dios. Así que Juan envió a algunos de sus discípulos restantes a preguntarle a Jesús al respecto. Jesús envía a los hombres de vuelta con una escritura del Antiguo Testamento de Isaías (que es la misma que usó en Nazaret) para hacerle saber a Juan que estaba haciendo las obras del Mesías. Jesús entonces apoya el liderazgo de Juan a Sus discípulos. Él contrastó esto con las cosas malas que la gente dijo acerca de Juan y acerca de Sí mismo. Incluso después de ver a Jesús durante más de dos años, los líderes religiosos acusaron a Jesús de ser poseído por demonios, un glotón y un borracho. Aprendemos que ser incomprendido es parte del liderazgo."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Para más estudio: {Mateo 11:2-19}.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Mateo 11:2-19",
+                    "label": "Mateo 11:2-19",
+                    "passage": "<div><div><p><sup>2</sup>Juan estaba en la cárcel, y al enterarse de lo que Cristo estaba haciendo, envió a sus discípulos a que le preguntaran:</p><p><sup>3</sup>—¿Eres tú el que ha de venir, o debemos esperar a otro?</p><p><sup>4</sup>Les respondió Jesús:</p><p>—Vayan y cuéntenle a Juan lo que están viendo y oyendo:<sup>5</sup>Los ciegos ven, los cojos andan, los que tienen lepra son sanados, los sordos oyen, los muertos resucitan y a los pobres se les anuncian las buenas nuevas.<sup>6</sup>Dichoso el que no tropieza por causa mía.</p><p><sup>7</sup>Mientras se iban los discípulos de Juan, Jesús comenzó a hablarle a la multitud acerca de Juan: «¿Qué salieron a ver al desierto? ¿Una caña sacudida por el viento?<sup>8</sup>Si no, ¿qué salieron a ver? ¿A un hombre vestido con ropa fina? Claro que no, pues los que usan ropa de lujo están en los palacios de los reyes.<sup>9</sup>Entonces, ¿qué salieron a ver? ¿A un profeta? Sí, les digo, y más que profeta.<sup>10</sup>Este es de quien está escrito:</p><p>»“Yo estoy por enviar a mi mensajero delante de ti,<br>el cual preparará tu camino”.</p></div><p><sup>11</sup>Les aseguro que entre los mortales no se ha levantado nadie más grande que Juan el Bautista; sin embargo, el más pequeño en el reino de los cielos es más grande que él.<sup>12</sup>Desde los días de Juan el Bautista hasta ahora, el reino de los cielos ha venido avanzando contra viento y marea, y los que se esfuerzan logran aferrarse a él.<sup>13</sup>Porque todos los profetas y la ley profetizaron hasta Juan.<sup>14</sup>Y, si quieren aceptar mi palabra, Juan es el Elías que había de venir.<sup>15</sup>El que tenga oídos, que oiga.</p><p><sup>16</sup>»¿Con qué puedo comparar a esta generación? Se parece a los niños sentados en la plaza que gritan a los demás:</p><p><sup>17</sup>»“Tocamos la flauta,<br>y ustedes no bailaron;<br>Cantamos por los muertos,<br>y ustedes no lloraron”.</p></div><p><sup>18</sup>»Porque vino Juan, que no comía ni bebía, y ellos dicen: “Tiene un demonio”.<sup>19</sup>Vino el Hijo del hombre, que come y bebe, y dicen: “Este es un glotón y un borracho, amigo de recaudadores de impuestos y de pecadores”. Pero la sabiduría queda demostrada por sus hechos».</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practique la entrega y la comunión aquí o en la sección Preparación para la Misión</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Practique las habilidades necesarias o temas previos para ayudar a prepararse para ministrar a los demás:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar, Compartir"
+                  },
+                  {
+                    "text": "Compartir el Evangelio"
+                  },
+                  {
+                    "text": "Estudios Bíblicos Fundacionales"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica personas o lugares a los que tomarás la iniciativa de ministrar esta semana."
+          },
+          {
+            "text": "Escriba sus declaraciones de “Yo haré…para cuando…” y compártala en su pequeño grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos con el Señor. Pídele al Señor que nos ayude a ser fieles y úsanos para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bendición (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply230-i-will"
+      }
+    }
+  ]
+}

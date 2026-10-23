@@ -1,0 +1,65 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro6",
+  "sortOrder": 48,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"\" src=\"/sites/mc2/content/M2/eng/multiply3/Trip4.webp\"></span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "[57- 62 AD]"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Summary:",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "After laying the foundation of 6-7 movement centers across the eastern part of the Roman Empire, Paul’s role now shifts to opportunities to defend the faith. This period is marked by long journeys, prison, dangerous circumstances, and legal defenses before the highest government leaders in Judea and Rome."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Letters written during this period",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Colossians, 60-62 AD"
+          },
+          {
+            "text": "Philemon, 60-62 AD"
+          },
+          {
+            "text": "Ephesians, 60-62 AD"
+          },
+          {
+            "text": "Philippians, 60-62 AD"
+          }
+        ]
+      }
+    }
+  ]
+}

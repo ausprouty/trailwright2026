@@ -7,19 +7,19 @@ import { isTag, isText } from 'domhandler';
 import { ElementType } from 'domelementtype';
 import type { ListItem } from 'src/types/content/ListBlock';
 import type { SectionMarkerBlockData } from 'src/types/content/MigrationTypes';
-import { remapImagePaths } from '../remapImagePaths';
+import { remapMyFriendsImagePaths } from '../remapMyFriendsImagePaths';
 import type { EditorJsContent, SectionTheme, VideoSource } from 'src/types/content/MigrationTypes';
 import type { AnyEditorJsBlock } from 'src/types/content/EditorBlocks';
-import { extractPopupBibleReferences } from '../shared/extractPopupBibleReferences';
+import { extractPopupBibleReferences } from '../../shared/extractPopupBibleReferences';
 
-import { extractListItems } from '../shared/extractLIstItems';
-import { buildBibleReferenceBlock } from '../shared/buildBibleReferenceBlock';
+import { extractListItems } from '../../shared/extractLIstItems';
+import { buildBibleReferenceBlock } from '../../shared/buildBibleReferenceBlock';
 
-import { cleanBibleHtml } from '../shared/cleanBibleHtml';
-import { looksLikeBibleReference } from '../shared/looksLikeBibleReference';
-import { normalizeInlineHtml } from '../shared/normalizeInlineHtml';
-import { trimNbspEdges } from '../shared/trimNbspEdges';
-import { extractInlineBibleRefs, type BibleRef } from '../shared/extractInlineBibleRefs';
+import { cleanBibleHtml } from '../../shared/cleanBibleHtml';
+import { looksLikeBibleReference } from '../../shared/looksLikeBibleReference';
+import { normalizeInlineHtml } from '../../shared/normalizeInlineHtml';
+import { trimNbspEdges } from '../../shared/trimNbspEdges';
+import { extractInlineBibleRefs, type BibleRef } from '../../shared/extractInlineBibleRefs';
 
 type MigrateOptions = {
   includeTime?: boolean;
@@ -1473,7 +1473,7 @@ export function migrateOldLessonHtmlToEditorJs(
   html: string,
   options: MigrateOptions = {},
 ): EditorJsContent {
-  const remappedHtml = remapImagePaths(html);
+  const remappedHtml = remapMyFriendsImagePaths(html);
 
   let normalizedHtml = repairMojibakeText(remappedHtml);
 

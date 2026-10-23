@@ -1,0 +1,368 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply101",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Adoração",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia a Bíblia para fundamentar louvor e adoração.</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Leia Salmos 118:28 “Tu és o meu Deus; graças te darei.”"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Sirvam uns aos outros através de oração, aconselhamento bíblico e encorajamento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça para cada pessoa compartilhar um ponto alto da semana e explicar um desafio pelo o qual passaram."
+          },
+          {
+            "text": "Pergunte, “O que você gostaria que Jesus fizesse por você esta semana?” Ore pelas necessidades uns dos outros."
+          },
+          {
+            "text": "Pergunte, “Você conseguiu contar a alguém sobre sua decisão de seguir a Cristo?”"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Esboce uma visão de quem eles podem se tornar em Cristo e o que Deus pode fazer através deles.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Exemplo: Deus ama a todos! A Bíblia nos conta sobre o desejo de Deus de que todos sejam salvos e venham a compreender a verdade ({1 Timóteo 2:4}). O evangelho não é apenas para você ou para mim, mas sim para todos os seus amigos e familiares. Deus também os ama e irá usar você para transmitir o que está aprendendo sobre Jesus para que eles também possam seguir a Jesus. Conforme caminhamos juntos, será maravilhoso ver o que Deus fará nas vidas daqueles ao nosso redor.",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "1 Timóteo 2:4",
+                    "label": "1 Timóteo 2:4",
+                    "passage": "<p><sup>4</sup>Ele quer que todos sejam salvos e venham a conhecer a verdade.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus ensinava que Ele é o bom pastor que dá sua vida por suas ovelhas (v 11). Ele também disse, “conheço minhas ovelhas e elas me conhecem,” e “vim para que tenham vida, e a tenham plenamente.” No entanto, muitos dos judeus não acreditaram, e duvidaram de Suas declarações. E é aqui que nossa história começa"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista João 10:22-30 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "João 10:22-30",
+        "html": "<h3>O povo rejeita Jesus</h3> <p><sup>22</sup>Era inverno, e em Jerusalém estavam comemorando a Festa da Dedicação.<sup>23</sup>Jesus estava andando pelo pátio do Templo, perto da entrada chamada “Alpendre de Salomão”.<sup>24</sup>Então o povo se ajuntou em volta dele e perguntou:</p> <p>— Até quando você vai nos deixar na dúvida? Diga com franqueza: você é ou não é o Messias?</p> <p><sup>25</sup>Jesus respondeu:</p> <p>— Eu já disse, mas vocês não acreditaram. As obras que eu faço pelo poder do nome do meu Pai falam a favor de mim,<sup>26</sup>mas vocês não creem porque não são minhas ovelhas.<sup>27</sup>As minhas ovelhas escutam a minha voz; eu as conheço, e elas me seguem.<sup>28</sup>Eu lhes dou a vida eterna, e por isso elas nunca morrerão. Ninguém poderá arrancá-las da minha mão.<sup>29</sup>O poder que o Pai me deu é maior do que tudo, e ninguém pode arrancá-las da mão dele.<sup>30</sup>Eu e o Pai somos um.</p>",
+        "url": "https://biblegateway.com/passage/?search=John%2010:22-30&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "João 10:22-30",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2211",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2211",
+        "startTime": "2:50",
+        "endTime": "3:49",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Todos contam o que chamou mais a atenção para cada um (ou do que mais gostaram) e porquê."
+          },
+          {
+            "text": "Por que você acha que esta história é importante?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que ouvimos esta história (passagem)?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Na cruz, Jesus, o bom pastor, deu sua vida como sacrifício por nossos pecados. Como uma de suas ovelhas, ele quer que você saiba que você tem vida eterna e nunca irá perecer. Você está seguro em Suas mão e ninguém, incluindo Satanás, pode te tirar esta segurança. Leia a seção de certeza do folheto evangelístico."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Para mais crescimento: Leia o Conceito Transferível #1: Como ter certeza de que você é salvo e converse com outro membro do grupo."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Praticar compartilhar o evangelho"
+                  },
+                  {
+                    "text": "Lembre-os do que fazer quando alguém diz SIM ao evangelho."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Crie uma Lista de Relacionamentos escrevendo os nomes de 10 ou mais pessoas que eles conhecem."
+          },
+          {
+            "text": "Identifique 5 pessoas de sua Lista de Relacionamentos com quem você possa compartilhar esta história ou o evangelho esta semana."
+          },
+          {
+            "text": "Escreva suas declarações “Eu vou_____” e compartilhe-as com seu grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Entregue as metas de todos ao Senhor. Peça ao Senhor para nos ajudar a sermos fiéis e para nos usar para iniciar um movimento de discipuladores."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply101-i-will"
+      }
+    }
+  ]
+}

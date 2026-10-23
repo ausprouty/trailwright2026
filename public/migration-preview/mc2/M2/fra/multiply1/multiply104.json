@@ -1,0 +1,54 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply104",
+  "sortOrder": 4,
+  "blocks": [
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<div class=\"lesson\"><img class=\"lesson-icon\" src=\"/sites/mc2/images/standard/look-back.png\"> <div class=\"lesson-subtitle\">Regarder Derrière</div> </div> <div class=\"reveal\"> <hr> <h2>Louange</h2> <p>Lisez un passage biblique pour commencer à poser les fondements de l’adoration et de la louange.</p> <p>Exemple: {Psaumes 29:2}</p> « Rendez à l’Eternel gloire pour son nom! Prosternez-vous devant l’Éternel avec des ornements sacrés! » Marquons une pause et rendons gloire à l’Éternel en Le louant. <p> </p> <hr></div> <h2>Soin</h2> <p>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</p> <ul> <li>Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine.</li> <li>Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels.</li> </ul> <h2>Célébrer la Fidélité</h2> <p>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour</p> <ul> <li>Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »</li> </ul> <div class=\"reveal\"> <hr> <h2>Projection de Vision</h2> <p>Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux.</p> <ul> Exemple: Non seulement le Seigneur nous aime, mais il a aussi une vision pour nos vies. Qu’est-ce que la vision? C’est d’être comme Christ. {Romains 8:29} déclare que Son plan est que nous soyons à l’image de son Fils pour expérimenter et refléter le Père comme le Fils l’a fait, et la bonne nouvelle est que cette œuvre qui consiste à refléter Christ est l’œuvre de Dieu. {Philippiens 1:6} nous fait la promesse que « Celui qui a commencé en vous cette bonne œuvre la rendra parfaite pour le jour de Jésus Christ ». Soyez encouragés du fait que Dieu fera son œuvre dans votre vie pour qu’elle reflète celle de Christ. </ul> <hr></div>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Psaumes 29:2",
+            "label": "Psaumes 29:2",
+            "passage": "<p><sup>2</sup>Rendez à l'Éternel gloire pour son nom! Prosternez-vous devant l'Éternel avec des ornements sacrés!</p>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "Romains 8:29",
+            "label": "Romains 8:29",
+            "passage": "<p><sup>29</sup>Car ceux qu'il a connus d'avance, il les a aussi prédestinés à être semblables à l'image de son Fils, afin que son Fils fût le premier-né entre plusieurs frères.</p>"
+          },
+          {
+            "id": "popup_pop3",
+            "marker": "Philippiens 1:6",
+            "label": "Philippiens 1:6",
+            "passage": "<p><sup>6</sup>Je suis persuadé que celui qui a commencé en vous cette bonne oeuvre la rendra parfaite pour le jour de Jésus Christ.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    }
+  ]
+}

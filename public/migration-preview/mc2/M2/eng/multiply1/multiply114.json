@@ -1,0 +1,382 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply114",
+  "sortOrder": 15,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">Read {Matthew 10:28-30} and sing songs. </li> <li class=\"back\">Use a Statement of Faith about Jesus, like{Philippians 2:11}b; {1 Timothy 2:4-6}a </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Matthew 10:28-30",
+                    "label": "Matthew 10:28-30",
+                    "passage": "<p><sup>28</sup>Do not be afraid of those who kill the body but cannot kill the soul. Rather, be afraid of the One who can destroy both soul and body in hell.<sup>29</sup>Are not two sparrows sold for a penny? Yet not one of them will fall to the ground outside your Father’s care.<sup>30</sup>And even the very hairs of your head are all numbered.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Philippians 2:11",
+                    "label": "Philippians 2:11",
+                    "passage": "<p><sup>11</sup>and every tongue acknowledge that Jesus Christ is Lord,<br>to the glory of God the Father.</p>"
+                  },
+                  {
+                    "id": "popup_pop3",
+                    "marker": "1 Timothy 2:4-6",
+                    "label": "1 Timothy 2:4-6",
+                    "passage": "<p><sup>4</sup>who wants all people to be saved and to come to a knowledge of the truth.<sup>5</sup>For there is one God and one mediator between God and mankind, the man Christ Jesus,<sup>6</sup>who gave himself as a ransom for all people.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What is one highlight from this week?"
+          },
+          {
+            "text": "What is one challenge from this past week?"
+          },
+          {
+            "text": "What do you want Jesus to do for you this week?"
+          },
+          {
+            "text": "Pray for each other’s needs."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating God's Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What happened as you trusted God with your goals and <em>I will</em> statements?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Read {Hebrews 10:19-25}. The Lord did not call us to be alone. He called us to be together. We face many challenges and we need encouragement and accountability to obey the Lord. Following Jesus is best done in community. We need each other so let’s not quit meeting together!",
+                "references": [
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Hebrews 10:19-25",
+                    "label": "Hebrews 10:19-25",
+                    "passage": "<p><sup>19</sup>Therefore, brothers and sisters, since we have confidence to enter the Most Holy Place by the blood of Jesus,<sup>20</sup>by a new and living way opened for us through the curtain, that is, his body,<sup>21</sup>and since we have a great priest over the house of God,<sup>22</sup>let us draw near to God with a sincere heart and with the full assurance that faith brings, having our hearts sprinkled to cleanse us from a guilty conscience and having our bodies washed with pure water.<sup>23</sup>Let us hold unswervingly to the hope we profess, for he who promised is faithful.<sup>24</sup>And let us consider how we may spur one another on toward love and good deeds,<sup>25</sup>not giving up meeting together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Context",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "God gave the Jews a special celebration called the Passover to remember how He delivered them from slavery in Egypt. The night before Jesus died on the cross, He celebrated the Passover with His disciples and explained how the Passover pointed to Him."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Read or watch Luke 22:14-20 two times as everyone listens"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luke 22:14-20",
+        "html": "<p><sup>14 </sup>When the hour came, Jesus and his apostles reclined at the table.<sup>15</sup>And he said to them, “I have eagerly desired to eat this Passover with you before I suffer.<sup>16</sup>For I tell you, I will not eat it again until it finds fulfillment in the kingdom of God.”</p> <p><sup>17</sup>After taking the cup, he gave thanks and said, “Take this and divide it among you.<sup>18</sup>For I tell you I will not drink again from the fruit of the vine until the kingdom of God comes.”</p> <p><sup>19</sup>And he took bread, gave thanks and broke it, and gave it to them, saying, “This is my body given for you; do this in remembrance of me.”</p> <p><sup>20</sup>In the same way, after the supper he took the cup, saying, “This cup is the new covenant in my blood, which is poured out for you.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%2022:14-20&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luke 22:14-20",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2622",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2622",
+        "startTime": "1:49",
+        "endTime": "3:17",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What caught your attention (or what did you like best) and why?"
+          },
+          {
+            "text": "What did you learn about Jesus?"
+          },
+          {
+            "text": "What did you learn about people?"
+          },
+          {
+            "text": "How will you obey Jesus now that you know this?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus modelled to His followers a way to remember His sacrificial death on the cross. [Take a piece of bread] The bread represents His body that was broken for us. [Show them wine or juice] The drink represents His blood that was shed for us and opened a new way to relate to God. He also commanded them to keep practicing it."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "In {1 Corinthians 11:23-30}, we see that as Paul started new churches, he taught all new believers how to obey Jesus’ command.",
+                "references": [
+                  {
+                    "id": "popup_pop5",
+                    "marker": "1 Corinthians 11:23-30",
+                    "label": "1 Corinthians 11:23-30",
+                    "passage": "<p><sup>23</sup>For I received from the Lord what I also passed on to you: The Lord Jesus, on the night he was betrayed, took bread,<sup>24</sup>and when he had given thanks, he broke it and said, “This is my body, which is for you; do this in remembrance of me.”<sup>25</sup>In the same way, after supper he took the cup, saying, “This cup is the new covenant in my blood; do this, whenever you drink it, in remembrance of me.”<sup>26</sup>For whenever you eat this bread and drink this cup, you proclaim the Lord’s death until he comes.</p><p><sup>27</sup>So then, whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of sinning against the body and blood of the Lord.<sup>28</sup>Everyone ought to examine themselves before they eat of the bread and drink from the cup.<sup>29</sup>For those who eat and drink without discerning the body of Christ eat and drink judgment on themselves.<sup>30</sup>That is why many among you are weak and sick, and a number of you have fallen asleep.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparing for Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Practice the Lord’s supper. Use what local church leaders have given or use the suggested practice below."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li>Read {1 Corinthians 11:23-30} .</li> <li>Pause and give them time to confess their sins and talk to the Lord.</li> <li>Give the bread, tell them this represents His body that was broken for us. Eat it together.</li> <li>Give the drink. Tell them this represents His blood that was shed for us. Drink it together.</li> <li>Pray and thank the Lord for what He has done for us.</li>",
+                "references": [
+                  {
+                    "id": "popup_pop6",
+                    "marker": "1 Corinthians 11:23-30",
+                    "label": "1 Corinthians 11:23-30",
+                    "passage": "<p><sup>23</sup>For I received from the Lord what I also passed on to you: The Lord Jesus, on the night he was betrayed, took bread,<sup>24</sup>and when he had given thanks, he broke it and said, “This is my body, which is for you; do this in remembrance of me.”<sup>25</sup>In the same way, after supper he took the cup, saying, “This cup is the new covenant in my blood; do this, whenever you drink it, in remembrance of me.”<sup>26</sup>For whenever you eat this bread and drink this cup, you proclaim the Lord’s death until he comes.</p><p><sup>27</sup>So then, whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of sinning against the body and blood of the Lord.<sup>28</sup>Everyone ought to examine themselves before they eat of the bread and drink from the cup.<sup>29</sup>For those who eat and drink without discerning the body of Christ eat and drink judgment on themselves.<sup>30</sup>That is why many among you are weak and sick, and a number of you have fallen asleep.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identify 5 people from your Network List with whom you will take the initiative to minister to this week."
+          },
+          {
+            "text": "Write “I will by when” statements and tell them to your small group."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying for the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply114-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply249",
+  "sortOrder": 54,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向后看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "敬拜赞美",
+        "level": 2
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "祷告关怀",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感谢神和需要耶稣为你做的事，并彼此感恩代祷"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "庆贺实践",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"back\">请分享上周你因信靠神忠心地操练和实践基督生命的福音行动</li> <li class=\"back\">背诵上周经文（{约14:21}） </li>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "约14:21",
+            "label": "约14:21",
+            "passage": "<p><sup>21</sup>“有了我的命令又遵守的，这人就是爱我的。爱我的必蒙我父爱他，我也要爱他，并且要向他显现。”</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "天父心意",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "主耶稣靠着天父做工，祂示范领导力就是顺服天父，靠祂的能力遵行天父的旨意，最终荣耀了天父。祂也提醒门徒最要紧的是：倚靠圣灵、警醒祷告、凡事遵从天父旨意、以祂为首，并与人建立爱和牺牲的关系。同样，天父对我们生命有美好的计划，我们需要时刻寻求天父的心，行在祂的心意里面，讨祂的喜悦，凡事尊荣祂的圣名。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "学像耶稣",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"up\"><strong>经文背景</strong></li> <span><span><span lang=\"ZH-CN\">耶稣的时候到了！临行前对门徒的牵挂已经交代完毕，对父神的祷告也已诉尽衷肠，深信父所赐给祂的门徒必蒙保守。越过汲沦溪，耶稣知道即将临到自己的一切事，在黑夜的掩护下，身为门徒的犹大带头领了一群人将耶稣拘捕，耶稣却在这一刻护卫着祂的门徒，将自己交给逮捕祂的人，祂甘心领受父所赐的苦杯<span>（{约18:1-11}</span><span lang=\"ZH-CN\"><span>）</span></span><span lang=\"ZH-CN\">。</span><span> </span></span></span></span> <span><span><span lang=\"ZH-CN\">耶稣先后被带到大祭司亚那和该亚法的面前接受审讯，耶稣沉着勇敢地面对质问祂的人<span>（{约18:12-14}</span><span lang=\"ZH-CN\"><span>、</span></span><span> </span></span></span></span> <span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span>{约18:19-24}</span><span lang=\"ZH-CN\"><span>）</span></span><span lang=\"ZH-CN\">；</span><span> </span></span></span></span></span> <span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\">相对于耶稣的沉稳，自信冲动的彼得却在巨大的压力之下三次否认了爱他的主，应验了耶稣之前的预言<span>（{约18:15-18}</span><span lang=\"ZH-CN\"><span>、</span></span><span> </span></span></span></span></span></span> <span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span>{约18:25-27}</span><span lang=\"ZH-CN\"><span>）</span></span><span lang=\"ZH-CN\">；</span><span> </span></span></span></span></span></span></span> <span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\">由于在罗马人的治理之下，犹太人没有判决死刑的权力，耶稣从大祭司亚那的住所被押解到了罗马巡抚的总部，在巡抚彼拉多面前受审，耶稣对彼拉多澄清祂作王的性质，祂的国度不同于世界的国度，祂的国对罗马政府没有任何威胁<span>（{约18:28-38}</span><span lang=\"ZH-CN\"><span>上）</span></span><span lang=\"ZH-CN\">；</span><span> </span></span></span></span></span></span></span></span> <span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\">彼拉多理解耶稣并不是政治上的危险人物，并非基于公正，而是不屑受到犹太领袖的左右，彼拉多有意开脱耶稣，然而最终屈服在群众的压力之下，基于政治上的考虑，将耶稣交给了犹太人去钉十字架，却释放了一个真正对罗马有威胁的叛乱份子巴拉巴<span>（{约18:38-19:16}</span><span lang=\"ZH-CN\"><span>）。</span></span><span> </span></span></span></span></span></span></span></span></span> <li class=\"up\"><strong>阅读经文</strong></li>",
+        "references": [
+          {
+            "id": "popup_pop2",
+            "marker": "约18:1-11",
+            "label": "约18:1-11",
+            "passage": "<span><span><span lang=\"ZH-CN\"><span><!-- begin bible --></span></span></span></span><p><span><span><span lang=\"ZH-CN\"><span><sup>1</sup>耶稣说了这话，就同门徒出去，过了汲沦溪。在那里有一个园子，他和门徒进去了。<sup>2</sup>卖耶稣的<u class=\"person underline\">犹大</u>也知道那地方，因为耶稣和门徒屡次上那里去聚集。<sup>3</sup><u class=\"person underline\">犹大</u>领了一队兵，和祭司长并法利赛人的差役拿着灯笼、火把、兵器，就来到园里。<sup>4</sup>耶稣知道将要临到自己的一切事，就出来对他们说：“你们找谁？”<sup>5</sup>他们回答说：“找拿撒勒人耶稣。”耶稣说：“我就是。”卖他的<u class=\"person underline\">犹大</u>也同他们站在那里。<sup>6</sup>耶稣一说“我就是”，他们就退后倒在地上。<sup>7</sup>他又问他们说：“你们找谁？”他们说：“找拿撒勒人耶稣。”<sup>8</sup>耶稣说：“我已经告诉你们：我就是。你们若找我，就让这些人去吧！”<sup>9</sup>这要应验耶稣从前的话说：“你所赐给我的人，我没有失落一个。”<sup>10</sup><u class=\"person underline\">西门</u><u class=\"person underline\">彼得</u>带着一把刀，就拔出来，将大祭司的仆人砍了一刀，削掉他的右耳。那仆人名叫<u class=\"person underline\">马勒古</u>。<sup>11</sup>耶稣就对<u class=\"person underline\">彼得</u>说：“收刀入鞘吧！我父所给我的那杯，我岂可不喝呢？”</span></span></span></span></p><span><span><span lang=\"ZH-CN\"><span><!-- end bible --></span></span></span></span>"
+          },
+          {
+            "id": "popup_pop3",
+            "marker": "约18:12-14",
+            "label": "约18:12-14",
+            "passage": "<span><span><span lang=\"ZH-CN\"><span><!-- begin bible --></span></span></span></span><p><span><span><span lang=\"ZH-CN\"><span><sup>12</sup>那队兵和千夫长并犹太人的差役就拿住耶稣，把他捆绑了，<sup>13</sup>先带到<u class=\"person underline\">亚那</u>面前，因为<u class=\"person underline\">亚那</u>是本年做大祭司<u class=\"person underline\">该亚法</u>的岳父。<sup>14</sup>这<u class=\"person underline\">该亚法</u>就是从前向犹太人发议论说“一个人替百姓死是有益的”那位。</span></span></span></span></p><span><span><span lang=\"ZH-CN\"><span><!-- end bible --></span></span></span></span>"
+          },
+          {
+            "id": "popup_pop4",
+            "marker": "约18:19-24",
+            "label": "约18:19-24",
+            "passage": "<span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span><!-- begin bible --></span></span></span></span></span><p><span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span><sup>19</sup>大祭司就以耶稣的门徒和他的教训盘问他。<sup>20</sup>耶稣回答说：“我从来是明明地对世人说话。我常在会堂和殿里，就是犹太人聚集的地方教训人，我在暗地里并没有说什么。<sup>21</sup>你为什么问我呢？可以问那听见的人我对他们说的是什么，我所说的，他们都知道。”<sup>22</sup>耶稣说了这话，旁边站着的一个差役用手掌打他，说：“你这样回答大祭司吗？”<sup>23</sup>耶稣说：“我若说的不是，你可以指证那不是。我若说得是，你为什么打我呢？”<sup>24</sup><u class=\"person underline\">亚那</u>就把耶稣解到大祭司<u class=\"person underline\">该亚法</u>那里，仍是捆着解去的。</span></span></span></span></span></p><span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span><!-- end bible --></span></span></span></span></span>"
+          },
+          {
+            "id": "popup_pop5",
+            "marker": "约18:15-18",
+            "label": "约18:15-18",
+            "passage": "<span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span><!-- begin bible --></span></span></span></span></span></span><p><span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span><sup>15</sup><u class=\"person underline\">西门</u><u class=\"person underline\">彼得</u>跟着耶稣，还有一个门徒跟着。那门徒是大祭司所认识的，他就同耶稣进了大祭司的院子，<sup>16</sup><u class=\"person underline\">彼得</u>却站在门外。大祭司所认识的那个门徒出来，和看门的使女说了一声，就领<u class=\"person underline\">彼得</u>进去。<sup>17</sup>那看门的使女对<u class=\"person underline\">彼得</u>说：“你不也是这人的门徒吗？”他说：“我不是。”<sup>18</sup>仆人和差役因为天冷，就生了炭火，站在那里烤火，<u class=\"person underline\">彼得</u>也同他们站着烤火。</span></span></span></span></span></span></p><span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span><!-- end bible --></span></span></span></span></span></span>"
+          },
+          {
+            "id": "popup_pop6",
+            "marker": "约18:25-27",
+            "label": "约18:25-27",
+            "passage": "<span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span><!-- begin bible --></span></span></span></span></span></span></span><p><span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span><sup>25</sup><u class=\"person underline\">西门</u><u class=\"person underline\">彼得</u>正站着烤火，有人对他说：“你不也是他的门徒吗？”<u class=\"person underline\">彼得</u>不承认，说：“我不是。”<sup>26</sup>有大祭司的一个仆人，是<u class=\"person underline\">彼得</u>削掉耳朵那人的亲属，说：“我不是看见你同他在园子里吗？”<sup>27</sup><u class=\"person underline\">彼得</u>又不承认。立时鸡就叫了。</span></span></span></span></span></span></span></p><span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span><!-- end bible --></span></span></span></span></span></span></span>"
+          },
+          {
+            "id": "popup_pop7",
+            "marker": "约18:28-38",
+            "label": "约18:28-38",
+            "passage": "<span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span><!-- begin bible --></span></span></span></span></span></span></span></span><p><span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span><sup>28</sup>众人将耶稣从<u class=\"person underline\">该亚法</u>那里往衙门内解去，那时天还早。他们自己却不进衙门，恐怕染了污秽，不能吃逾越节的筵席。<sup>29</sup><u class=\"person underline\">彼拉多</u>就出来，到他们那里，说：“你们告这人是为什么事呢？”<sup>30</sup>他们回答说：“这人若不是作恶的，我们就不把他交给你。”<sup>31</sup><u class=\"person underline\">彼拉多</u>说：“你们自己带他去，按着你们的律法审问他吧！”犹太人说：“我们没有杀人的权柄。”<sup>32</sup>这要应验耶稣所说自己将要怎样死的话了。</span></span></span></span></span></span></span></span></p><span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span></span></span></span></span></span></span></span></span><h3><span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span>耶稣在彼拉多前受审</span></span></span></span></span></span></span></span></h3><p><span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span><sup>33</sup><u class=\"person underline\">彼拉多</u>又进了衙门，叫耶稣来，对他说：“你是犹太人的王吗？”<sup>34</sup>耶稣回答说：“这话是你自己说的，还是别人论我对你说的呢？”<sup>35</sup><u class=\"person underline\">彼拉多</u>说：“我岂是犹太人呢？你本国的人和祭司长把你交给我。你做了什么事呢？”<sup>36</sup>耶稣回答说：“我的国不属这世界。我的国若属这世界，我的臣仆必要争战，使我不至于被交给犹太人。只是我的国不属这世界。”<sup>37</sup><u class=\"person underline\">彼拉多</u>就对他说：“这样，你是王吗？”耶稣回答说：“你说我是王。我为此而生，也为此来到世间，特为给真理作见证。凡属真理的人就听我的话。”</span></span></span></span></span></span></span></span></p><span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span></span></span></span></span></span></span></span></span><p><span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span><sup>38</sup><u class=\"person underline\">彼拉多</u>说：“真理是什么呢？”说了这话，又出来到犹太人那里，对他们说：“我查不出他有什么罪来。</span></span></span></span></span></span></span></span></p><span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span><!-- end bible --></span></span></span></span></span></span></span></span>"
+          },
+          {
+            "id": "popup_pop8",
+            "marker": "约18:38-19:16",
+            "label": "约18:38-19:16",
+            "passage": "<span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span><!-- begin bible --></span></span></span></span></span></span></span></span></span><h3><span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span>查不出耶稣有什么罪</span></span></span></span></span></span></span></span></span></h3><p><span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span><sup>38</sup><u class=\"person underline\">彼拉多</u>说：“真理是什么呢？”说了这话，又出来到犹太人那里，对他们说：“我查不出他有什么罪来。<sup>39</sup>但你们有个规矩，在逾越节要我给你们释放一个人，你们要我给你们释放犹太人的王吗？”<sup>40</sup>他们又喊着说：“不要这人！要<u class=\"person underline\">巴拉巴</u>！”这<u class=\"person underline\">巴拉巴</u>是个强盗。</span></span></span></span></span></span></span></span></span></p><span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span></span></span></span></span></span></span></span></span></span><p><span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span><sup>1</sup>当下<u class=\"person underline\">彼拉多</u>将耶稣鞭打了。<sup>2</sup>兵丁用荆棘编做冠冕，戴在他头上，给他穿上紫袍，<sup>3</sup>又挨近他，说：“恭喜，犹太人的王啊！”他们就用手掌打他。<sup>4</sup><u class=\"person underline\">彼拉多</u>又出来对众人说：“我带他出来见你们，叫你们知道我查不出他有什么罪来。”<sup>5</sup>耶稣出来，戴着荆棘冠冕，穿着紫袍。<u class=\"person underline\">彼拉多</u>对他们说：“你们看，这个人！”<sup>6</sup>祭司长和差役看见他，就喊着说：“钉他十字架！钉他十字架！”<u class=\"person underline\">彼拉多</u>说：“你们自己把他钉十字架吧，我查不出他有什么罪来。”<sup>7</sup>犹太人回答说：“我们有律法，按那律法，他是该死的！因他以自己为神的儿子。”<sup>8</sup><u class=\"person underline\">彼拉多</u>听见这话，越发害怕，<sup>9</sup>又进衙门，对耶稣说：“你是哪里来的？”耶稣却不回答。<sup>10</sup><u class=\"person underline\">彼拉多</u>说：“你不对我说话吗？你岂不知我有权柄释放你，也有权柄把你钉十字架吗？”<sup>11</sup>耶稣回答说：“若不是从上头赐给你的，你就毫无权柄办我。所以，把我交给你的那人罪更重了。”<sup>12</sup>从此<u class=\"person underline\">彼拉多</u>想要释放耶稣，无奈犹太人喊着说：“你若释放这个人，就不是恺撒的忠臣。凡以自己为王的，就是背叛恺撒了。”<sup>13</sup><u class=\"person underline\">彼拉多</u>听见这话，就带耶稣出来，到了一个地方，名叫铺华石处，希伯来话叫厄巴大，就在那里坐堂。<sup>14</sup>那日是预备逾越节的日子，约有午正。<u class=\"person underline\">彼拉多</u>对犹太人说：“看哪，这是你们的王！”<sup>15</sup>他们喊着说：“除掉他！除掉他！钉他在十字架上！”<u class=\"person underline\">彼拉多</u>说：“我可以把你们的王钉十字架吗？”祭司长回答说：“除了恺撒，我们没有王！”<sup>16</sup>于是，<u class=\"person underline\">彼拉多</u>将耶稣交给他们去钉十字架。</span></span></span></span></span></span></span></span></span></p><span><span><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><span><!-- end bible --></span></span></span></span></span></span></span></span></span>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "阅读或观看《约翰福音19:13-30; 马太福音27:45-46》两遍。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "约翰福音19:13-30",
+        "html": "<p><sup>13</sup>彼拉多听见这话，就带耶稣出来，到了一个地方，名叫铺华石处，希伯来话叫厄巴大，就在那里坐堂。<sup>14</sup>那日是预备逾越节的日子。约有午正，彼拉多对犹太人说：“看哪，这是你们的王！”<sup>15</sup>他们喊着说：“除掉他！除掉他！钉他在十字架上！”彼拉多说：“我可以把你们的王钉十字架吗？”祭司长回答说：“除了凯撒，我们没有王！”<sup>16</sup>于是，彼拉多将耶稣交给他们去钉十字架。</p> <p><sup>17</sup>他们就把耶稣带了去。耶稣背着自己的十字架出来，到了一个地方，名叫髑髅地，希伯来话叫各各他。<sup>18</sup>他们就在那里钉他在十字架上，还有两个人和他一同钉着，一边一个，耶稣在中间。<sup>19</sup>彼拉多又用牌子写了一个名号，安在十字架上，写的是：“犹太人的王，拿撒勒人耶稣。”<sup>20</sup>有许多犹太人念这名号，因为耶稣被钉十字架的地方，与城相近，并且是用希伯来、罗马、希腊三样文字写的。<sup>21</sup>犹太人的祭司长就对彼拉多说：“不要写‘犹太人的王’，要写‘他自己说我是犹太人的王’。”<sup>22</sup>彼拉多说：“我所写的，我已经写上了。”<sup>23</sup>兵丁既然将耶稣钉在十字架上，就拿他的衣服分为四份，每兵一份；又拿他的里衣，这件里衣原来没有缝儿，是上下一片织成的。<sup>24</sup>他们就彼此说：“我们不要撕开，只要拈阄，看谁得着。”这要应验经上的话说：“他们分了我的外衣，为我的里衣拈阄。”兵丁果然做了这事。</p> <p><sup>25</sup>站在耶稣十字架旁边的，有他母亲与他母亲的姊妹，并革罗罢的妻子马利亚和抹大拉的马利亚。<sup>26</sup>耶稣见母亲和他所爱的那门徒站在旁边，就对他母亲说：“母亲（注：原文作“妇人”），看，你的儿子！”<sup>27</sup>又对那门徒说：“看，你的母亲！”从此那门徒就接她到自己家里去了。<sup>28</sup>这事以后，耶稣知道各样的事已经成了，为要使经上的话应验，就说：“我渴了。”<sup>29</sup>有一个器皿盛满了醋，放在那里，他们就拿海绒蘸满了醋，绑在牛膝草上，送到他口。<sup>30</sup>耶稣尝（注：原文作“受”）了那醋，就说：“成了！”，便低下头，将灵魂交付　神了。</p>",
+        "url": "https://biblegateway.com/passage/?search=约翰福音19:13-30&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "约翰福音19:13-30",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOJohn2219",
+        "source": "arclight",
+        "refId": "6_20615-GOJohn2219",
+        "startTime": "1:51",
+        "endTime": "7:05",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "马太福音27:45-46",
+        "html": "<p><sup>45</sup>从午正到申初，遍地都黑暗了。<sup>46</sup>约在申初，耶稣大声喊着说：“以利！以利！拉马撒巴各大尼？”就是说：“我的　神！我的　神！为什么离弃我？”</p>",
+        "url": "https://biblegateway.com/passage/?search=马太福音27:45-46&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "马太福音27:45-46",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOMatt2524",
+        "source": "arclight",
+        "refId": "6_20615-GOMatt2524",
+        "startTime": "2:26",
+        "endTime": "2:54",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索与讨论</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "让你印象深刻的经文/部分是什么？为什么？"
+                },
+                {
+                  "text": "耶稣怎样向门徒示范生活和事奉，作属神的领袖？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再读一次这段故事。请小组中一个人口头讲述这故事，并根据需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "小结",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "耶稣历经人的背叛、欺骗、不公平对待、击打、鞭打，最后与两名犯人一同被钉死在十字架上。祂在世的最后几个小时，以全然的人性受尽苦难。上帝把全世界的罪放在耶稣身上，使那无罪的代替有罪的。耶稣生平第一次与天父分离。因耶稣身上背负着全世界的罪，天父离弃耶稣，不理会祂。上帝的逾越节羔羊被杀流血，圣殿里的幔子裂开。耶稣是最后的献祭，使我们能到永活上帝的面前， 相信的人就能作上帝家中的儿女。祂舍了自己的生命，偿清我们的罪债，开了一条通往天父的道路。这是十字架上发生的奇妙交换：“上帝使那无罪的，替我们成为罪，好叫我们在他里面成为上帝的义。”（{林后5:21}）。",
+                "references": [
+                  {
+                    "id": "popup_pop9",
+                    "marker": "林后5:21",
+                    "label": "林后5:21",
+                    "passage": "<p><sup>21</sup>神使那无罪的替我们成为罪，好叫我们在他里面成为神的义。</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<ul> <span><span><span lang=\"ZH-CN\">（进深学习：{路加福音23:26-49}； </span></span></span> <span><span><span lang=\"ZH-CN\">{马太福音27:27-56}； </span></span></span> <span><span><span lang=\"ZH-CN\">{马可福音15:16-41}） </span></span></span> </ul>",
+                "references": [
+                  {
+                    "id": "popup_pop10",
+                    "marker": "路加福音23:26-49",
+                    "label": "路加福音23:26-49",
+                    "passage": "<span><span><span lang=\"ZH-CN\"><!-- begin bible --></span></span></span><p><span><span><span lang=\"ZH-CN\"><sup>26</sup>带耶稣去的时候，有一个古利奈人<u class=\"person underline\">西门</u>从乡下来，他们就抓住他，把十字架搁在他身上，叫他背着跟随耶稣。</span></span></span></p><span><span><span lang=\"ZH-CN\"></span></span></span><h3><span><span><span lang=\"ZH-CN\">许多人为耶稣号啕痛哭</span></span></span></h3><p><span><span><span lang=\"ZH-CN\"><sup>27</sup>有许多百姓跟随耶稣，内中有好些妇女，妇女们为他号啕痛哭。<sup>28</sup>耶稣转身对她们说：“耶路撒冷的女子，不要为我哭，当为自己和自己的儿女哭。<sup>29</sup>因为日子要到，人必说：‘不生育的和未曾怀胎的、未曾乳养婴孩的有福了！’<sup>30</sup>那时，人要向大山说‘倒在我们身上！’，向小山说‘遮盖我们！’。<sup>31</sup>这些事既行在有汁水的树上，那枯干的树将来怎么样呢？”</span></span></span></p><span><span><span lang=\"ZH-CN\"></span></span></span><p><span><span><span lang=\"ZH-CN\"><sup>32</sup>又有两个犯人，和耶稣一同带来处死。</span></span></span></p><span><span><span lang=\"ZH-CN\"></span></span></span><h3><span><span><span lang=\"ZH-CN\">耶稣被钉十字架</span></span></span></h3><p><span><span><span lang=\"ZH-CN\"><sup>33</sup>到了一个地方，名叫髑髅地，就在那里把耶稣钉在十字架上，又钉了两个犯人，一个在左边，一个在右边。<sup>34</sup>当下耶稣说：“父啊，赦免他们！因为他们所做的他们不晓得。”兵丁就拈阄分他的衣服。<sup>35</sup>百姓站在那里观看。官府也嗤笑他，说：“他救了别人，他若是基督，神所拣选的，可以救自己吧！”<sup>36</sup>兵丁也戏弄他，上前拿醋送给他喝，<sup>37</sup>说：“你若是犹太人的王，可以救自己吧！”<sup>38</sup>在耶稣以上有一个牌子，写着：“这是犹太人的王。”</span></span></span></p><span><span><span lang=\"ZH-CN\"></span></span></span><h3><span><span><span lang=\"ZH-CN\">犯人求主记念</span></span></span></h3><p><span><span><span lang=\"ZH-CN\"><sup>39</sup>那同钉的两个犯人，有一个讥诮他说：“你不是基督吗？可以救自己和我们吧！”<sup>40</sup>那一个就应声责备他说：“你既是一样受刑的，还不怕神吗？<sup>41</sup>我们是应该的，因我们所受的与我们所做的相称，但这个人没有做过一件不好的事。”<sup>42</sup>就说：“耶稣啊，你得国降临的时候，求你记念我！”<sup>43</sup>耶稣对他说：“我实在告诉你：今日你要同我在乐园里了！”</span></span></span></p><span><span><span lang=\"ZH-CN\"></span></span></span><p><span><span><span lang=\"ZH-CN\"><sup>44</sup>那时约有午正，遍地都黑暗了，直到申初，<sup>45</sup>日头变黑了，殿里的幔子从当中裂为两半。<sup>46</sup>耶稣大声喊着说：“父啊，我将我的灵魂交在你手里！”说了这话，气就断了。<sup>47</sup>百夫长看见所成的事，就归荣耀于神，说：“这真是个义人！”<sup>48</sup>聚集观看的众人见了这所成的事，都捶着胸回去了。<sup>49</sup>还有一切与耶稣熟识的人和从加利利跟着他来的妇女们，都远远地站着看这些事。</span></span></span></p><span><span><span lang=\"ZH-CN\"><!-- end bible --></span></span></span>"
+                  },
+                  {
+                    "id": "popup_pop11",
+                    "marker": "马太福音27:27-56",
+                    "label": "马太福音27:27-56",
+                    "passage": "<span><span><span lang=\"ZH-CN\"><!-- begin bible --></span></span></span><h3><span><span><span lang=\"ZH-CN\">戏弄耶稣</span></span></span></h3><p><span><span><span lang=\"ZH-CN\"><sup>27</sup>巡抚的兵就把耶稣带进衙门，叫全营的兵都聚集在他那里。<sup>28</sup>他们给他脱了衣服，穿上一件朱红色袍子，<sup>29</sup>用荆棘编做冠冕，戴在他头上，拿一根苇子放在他右手里，跪在他面前，戏弄他，说：“恭喜，犹太人的王啊！”<sup>30</sup>又吐唾沫在他脸上，拿苇子打他的头。<sup>31</sup>戏弄完了，就给他脱了袍子，仍穿上他自己的衣服，带他出去，要钉十字架。</span></span></span></p><span><span><span lang=\"ZH-CN\"></span></span></span><p><span><span><span lang=\"ZH-CN\"><sup>32</sup>他们出来的时候，遇见一个古利奈人，名叫<u class=\"person underline\">西门</u>，就勉强他同去，好背着耶稣的十字架。</span></span></span></p><span><span><span lang=\"ZH-CN\"></span></span></span><h3><span><span><span lang=\"ZH-CN\">耶稣被钉十字架</span></span></span></h3><p><span><span><span lang=\"ZH-CN\"><sup>33</sup>到了一个地方名叫各各他，意思就是“髑髅地”；<sup>34</sup>兵丁拿苦胆调和的酒给耶稣喝。他尝了，就不肯喝。<sup>35</sup>他们既将他钉在十字架上，就拈阄分他的衣服，<sup>36</sup>又坐在那里看守他。<sup>37</sup>在他头以上安一个牌子，写着他的罪状说：“这是犹太人的王耶稣。”</span></span></span></p><span><span><span lang=\"ZH-CN\"></span></span></span><h3><span><span><span lang=\"ZH-CN\">讥诮主不能救自己</span></span></span></h3><p><span><span><span lang=\"ZH-CN\"><sup>38</sup>当时，有两个强盗和他同钉十字架，一个在右边，一个在左边。<sup>39</sup>从那里经过的人讥诮他，摇着头说：<sup>40</sup>“你这拆毁圣殿、三日又建造起来的，可以救自己吧！你如果是神的儿子，就从十字架上下来吧！”<sup>41</sup>祭司长和文士并长老也是这样戏弄他说：<sup>42</sup>“他救了别人，不能救自己。他是以色列的王，现在可以从十字架上下来，我们就信他！<sup>43</sup>他倚靠神，神若喜悦他，现在可以救他！因为他曾说：‘我是神的儿子。’”<sup>44</sup>那和他同钉的强盗也是这样地讥诮他。</span></span></span></p><span><span><span lang=\"ZH-CN\"></span></span></span><p><span><span><span lang=\"ZH-CN\"><sup>45</sup>从午正到申初，遍地都黑暗了。<sup>46</sup>约在申初，耶稣大声喊着说：“<u class=\"person underline\">以利</u>！<u class=\"person underline\">以利</u>！拉马撒巴各大尼？”就是说：“我的神！我的神！为什么离弃我？”<sup>47</sup>站在那里的人，有的听见就说：“这个人呼叫<u class=\"person underline\">以利亚</u>呢！”<sup>48</sup>内中有一个人赶紧跑去，拿海绒蘸满了醋，绑在苇子上，送给他喝。<sup>49</sup>其余的人说：“且等着，看<u class=\"person underline\">以利亚</u>来救他不来。”<sup>50</sup>耶稣又大声喊叫，气就断了。</span></span></span></p><span><span><span lang=\"ZH-CN\"></span></span></span><p><span><span><span lang=\"ZH-CN\"><sup>51</sup>忽然，殿里的幔子从上到下裂为两半，地也震动，磐石也崩裂，<sup>52</sup>坟墓也开了，已睡圣徒的身体多有起来的。<sup>53</sup>到耶稣复活以后，他们从坟墓里出来，进了圣城，向许多人显现。<sup>54</sup>百夫长和一同看守耶稣的人看见地震并所经历的事，就极其害怕，说：“这真是神的儿子了！”<sup>55</sup>有好些妇女在那里远远地观看，她们是从加利利跟随耶稣来服侍他的。<sup>56</sup>内中有抹大拉的<u class=\"person underline\">马利亚</u>，又有<u class=\"person underline\">雅各</u>和<u class=\"person underline\">约西</u>的母亲<u class=\"person underline\">马利亚</u>，并有<u class=\"person underline\">西庇太</u>两个儿子的母亲。</span></span></span></p><span><span><span lang=\"ZH-CN\"><!-- end bible --></span></span></span>"
+                  },
+                  {
+                    "id": "popup_pop12",
+                    "marker": "马可福音15:16-41",
+                    "label": "马可福音15:16-41",
+                    "passage": "<span><span><span lang=\"ZH-CN\"><!-- begin bible --></span></span></span><h3><span><span><span lang=\"ZH-CN\">戏弄耶稣</span></span></span></h3><p><span><span><span lang=\"ZH-CN\"><sup>16</sup>兵丁把耶稣带进衙门院里，叫齐了全营的兵。<sup>17</sup>他们给他穿上紫袍，又用荆棘编做冠冕给他戴上，<sup>18</sup>就庆贺他说：“恭喜，犹太人的王啊！”<sup>19</sup>又拿一根苇子打他的头，吐唾沫在他脸上，屈膝拜他。<sup>20</sup>戏弄完了，就给他脱了紫袍，仍穿上他自己的衣服，带他出去，要钉十字架。</span></span></span></p><span><span><span lang=\"ZH-CN\"></span></span></span><h3><span><span><span lang=\"ZH-CN\">耶稣被钉十字架</span></span></span></h3><p><span><span><span lang=\"ZH-CN\"><sup>21</sup>有一个古利奈人<u class=\"person underline\">西门</u>，就是<u class=\"person underline\">亚历山大</u>和<u class=\"person underline\">鲁孚</u>的父亲，从乡下来，经过那地方。他们就勉强他同去，好背着耶稣的十字架。<sup>22</sup>他们带耶稣到了各各他地方（“各各他”翻出来就是“髑髅地”），<sup>23</sup>拿没药调和的酒给耶稣，他却不受。<sup>24</sup>于是将他钉在十字架上，拈阄分他的衣服，看是谁得什么。<sup>25</sup>钉他在十字架上是巳初的时候。<sup>26</sup>在上面有他的罪状，写的是：“犹太人的王。”<sup>27</sup>他们又把两个强盗和他同钉十字架，一个在右边，一个在左边。</span></span></span></p><span><span><span lang=\"ZH-CN\"></span></span></span><h3><span><span><span lang=\"ZH-CN\">辱骂主不能救自己</span></span></span></h3><p><span><span><span lang=\"ZH-CN\"><sup>29</sup>从那里经过的人辱骂他，摇着头说：“咳！你这拆毁圣殿、三日又建造起来的，<sup>30</sup>可以救自己，从十字架上下来吧！”<sup>31</sup>祭司长和文士也是这样戏弄他，彼此说：“他救了别人，不能救自己。<sup>32</sup>以色列的王基督，现在可以从十字架上下来，叫我们看见就信了！”那和他同钉的人也是讥诮他。<sup>33</sup>从午正到申初，遍地都黑暗了。<sup>34</sup>申初的时候，耶稣大声喊着说：“以罗伊！以罗伊！拉马撒巴各大尼？”（翻出来就是：“我的神！我的神！为什么离弃我？”）<sup>35</sup>旁边站着的人，有的听见就说：“看哪，他叫<u class=\"person underline\">以利亚</u>呢！”<sup>36</sup>有一个人跑去，把海绒蘸满了醋，绑在苇子上，送给他喝，说：“且等着，看<u class=\"person underline\">以利亚</u>来不来把他取下。”</span></span></span></p><span><span><span lang=\"ZH-CN\"></span></span></span><p><span><span><span lang=\"ZH-CN\"><sup>37</sup>耶稣大声喊叫，气就断了。<sup>38</sup>殿里的幔子从上到下裂为两半。<sup>39</sup>对面站着的百夫长看见耶稣这样喊叫断气，就说：“这人真是神的儿子！”<sup>40</sup>还有些妇女远远地观看，内中有抹大拉的<u class=\"person underline\">马利亚</u>，又有小<u class=\"person underline\">雅各</u>和<u class=\"person underline\">约西</u>的母亲<u class=\"person underline\">马利亚</u>，并有<u class=\"person underline\">撒罗米</u>，<sup>41</sup>就是耶稣在加利利的时候，跟随他、服侍他的那些人；还有同耶稣上耶路撒冷的好些妇女在那里观看。</span></span></span></p><span><span><span lang=\"ZH-CN\"><!-- end bible --></span></span></span>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "经文背诵",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "约19:30"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>30</sup>耶稣尝（注：原文作“受”）了那醋，就说：“成了！”，便低下头，将灵魂交付　神了。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音预备",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "耶稣在十字架上所流的血洗净了我们一切的罪，使我们可以坦然无惧地来到神的面前，请分享十字架带给你的感动和对你的意义。有哪一首十字架的诗歌是你最喜爱的？为什么？"
+          },
+          {
+            "text": "你曾经是隐藏或无声的基督徒吗？当你思想到耶稣在十字架上的爱，会不会激励你勇敢地踏出一步，公开为主作见证？为什么？"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行动",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "思想并写下若耶稣没有来到这世上、如果耶稣没有死，今天这个世界是怎样的？你会是怎样的？下周在小组分享。"
+          },
+          {
+            "text": "你会如何形容你的城市和国家？她们最需要的是什么？为什么？下周在小组分享，并讨论如何以爱心服事小区的行动。"
+          },
+          {
+            "text": "与一位弟兄或姐妹分享《被圣灵充满》，并听听他对主耶稣和圣灵的认识。"
+          },
+          {
+            "text": "花3分钟写下你在本课的学习心得，或是你未来一周可能有的其他行动点。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音祷告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "逾越节的羔羊主耶稣基督，谢谢祢为我们舍命流血。祢在十字架上经历人的背叛、不公对待、击打鞭伤，最后与两名犯人同钉，且死在十字架上。特别祢在世的最后几个小时，以全然的人性受尽一切苦难，因为世人的罪都归到祢一人身上，为要使那无罪的代替有罪的。就在那时，祢生平第一次经历与天父的分离，天父离弃祢，不理会祢。谢谢祢舍了自己的生命，偿清我们世人的一切罪债，并给我们开了一条通往天父的道路，使我们与天父和好。感谢祢为我们所承受的一切！感恩是奉主的圣名，阿们。"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply249-i-will"
+      }
+    }
+  ]
+}

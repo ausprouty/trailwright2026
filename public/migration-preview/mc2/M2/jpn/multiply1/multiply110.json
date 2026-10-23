@@ -1,0 +1,358 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "jpn",
+  "htmlLang": "ja",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply110",
+  "sortOrder": 10,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "振り返ろう",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "賛美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "御言葉を読んで、賛美の歌を練習する。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "お互いを支え合う",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "祈り、御言葉に基づいた助言、また励ましをもって、互いの必要に応え合う。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "今週あったことの中で最もうれしかったことと、困難だったことを互いに分かち合う。"
+          },
+          {
+            "text": "今週は、イエスさまがどんなことをしてくださると期待しているのか分かち合い、互いの必要のために祈り合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "神さまの誠実さを喜ぶ",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "イエスさまに従っていくように、愛をもって励まし合う。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "自分の目標と、「私は、〜までに〜をする」という形式で書き出した決意を神さまに委ねた結果、どのようなことが起こったかを聞き合い分かち合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "動機づけと励まし",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "キリストにあって、私たちはどのような者に変えられることができるのか、また神さまが私たちを通してどんなことをすることができるのか、ビジョンを投げかける。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "神さまは人々の人生を変え、ご自身のご栄光のために人々を用いられます。その一つの例が、アダムという名の中東に住む男性です。彼はかつて、自分の信じる宗教の殉教者となる訓練を受けました。しかし、ある晩キリストと劇的に出会い、その時から全てが変わったのです。彼は、キリストとの新たな関係から生じる喜びに満ちあふれ、すべての知人に証しをし始めました。迫害されても続けて福音を宣べ伝え、他の人たちを訓練しています。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "グループのメンバーの励ましとなるように、<span class=\"bible-link\">第一コリント1章24〜31節</span>を読みましょう。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "見上げよう",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "背景",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "イエスさまは4人の男性に、「私に従ってきなさい。あなたがたは人間をとる漁師になるのです。」と、声をかけました。そして、この4人の弟子たちを人間をとる漁師として訓練する際に、6つの異なる状況を用いて模範を示しました。その最後の状況では、この4人に加えて、政府の役人という意外な立場の人物がイエスさまの親しい弟子のひとりとなりました。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "読む",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"https://www.seisho.or.jp/bible_3/luk/#luk-5\" target=\"_blank\">ルカ5章27〜32節</a>を、声を出して２回読む。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "[BibleBlock]"
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "ルカ5章27〜32節",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_7083-GOLuke2605",
+        "source": "arclight",
+        "refId": "6_7083-GOLuke2605",
+        "startTime": "6:12",
+        "endTime": "7:22",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "発見のためのディスカッション（全員が答える）",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "どのようなことが、心に留まったか。（一番気に入ったことは？）その理由は？"
+          },
+          {
+            "text": "イエスさまについて、どのようなことを学んだか。"
+          },
+          {
+            "text": "人について、どのようなことを学んだか。"
+          },
+          {
+            "text": "これらのことを知った今、これからどのようにイエスさまに従っていくか。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "読み、語り、修正する",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "聖書の箇所をもう一度読む。誰かに、自分の言葉でそのストーリーを語ってもらい、必要に応じて他のメンバーが修正する。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "まとめ",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"bible-link\">ルカ10章1〜11節</span>を読みましょう。イエスさまは、ご自分がなさっていたことを弟子たちにも行わせるために、彼らを遣わしました。すなわち、人々のために祈り、人々の必要に応え、神の国について語ることです。これは祈り、ケア、分かち合いに要約することができます。主は新しい働き人を訓練し、彼らを遣わすことによって、ご自身の働きを担う人を倍加させました。「平安の子」とは神さまによって備えられた人のことで、あなたとあなたのメッセージを受け入れる人を指します。その人たちの人間関係を通して新しいネットワークができ、そこにも福音が届けられていきます。この「平安の子」は、御国の成長プロセスの「第１の畑」の中で探します。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "前を見よう",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "ミッションに備える",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "レッスン9の「究極の問い」を復習し、他の人たちをケアする。"
+                  },
+                  {
+                    "text": "必要に応じて以前のレッスンで学んだスキルやトピックを練習する。"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ミッションに出ていく",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "オイコスリストから、今週福音を伝え、関わり仕える相手5人を選び出す。"
+          },
+          {
+            "text": "今週学んだことを、少なくとも3人に対して用いる。"
+          },
+          {
+            "text": "「私は、～までに～をする」という形式で書き出し、グループで分かち合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ミッションのために祈る",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "全員の目標を、主に委ねる。私たちが忠実であり続けることができるよう、また、主が私たちを用いてくださって弟子作りのムーブメントをスタートさせてくださるように祈る。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<p>さらに学びを深めるために</p> <p><span class=\"bible-link\">ルカ19章1〜10節</span>、<span class=\"bible-link\">マルコ5章14〜20節</span>、<span class=\"bible-link\">ヨハネ4章1〜42節</span>、<span class=\"bible-link\">使徒の働き16章13〜15節</span>を通して「平安の子」について学び、グループの他のメンバーと一緒にディスカッションしましょう。</p>",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply110-i-will"
+      }
+    }
+  ]
+}

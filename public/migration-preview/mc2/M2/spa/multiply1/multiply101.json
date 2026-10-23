@@ -1,0 +1,362 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply101",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lea el Salmo 118:28 \"Mi Dios eres tú, y te alabaré”."
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "¿Cuales son algunos motivos o razones por las que hoy quieras agradecer o alabar a Dios?"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado unos por los otros",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué ha sido lo más destacado de esta semana?"
+          },
+          {
+            "text": "¿Qué desafío has afrontado la semana pasada?"
+          },
+          {
+            "text": "¿Qué te gustaría que Jesús hiciera por ti esta semana?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebremos la fidelidad de Dios",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Pudiste contarle a alguien acerca de tu decisión por seguir a Cristo?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y Animo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<p class=\"back\">¡Dios ama a las personas! La Biblia nos dice que el deseo de Dios es que todas las personas sean salvas y lleguen a entender la verdad ({1 Timoteo 2:4}). </p> <p class=\"back\">El Evangelio no es sólo para ti, sino para todos tus amigos y familiares. Dios los ama y te usará para compartir lo que tú estás aprendiendo acerca de Jesús para que ellos también puedan seguir a Jesús. A medida que viajemos juntos, será emocionante ver lo que Dios hará en las vidas de los que nos rodean.</p>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "1 Timoteo 2:4",
+                    "label": "1 Timoteo 2:4",
+                    "passage": "<p><sup>4</sup>pues él quiere que todos sean salvos y lleguen a conocer la verdad.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<hr> <ul> Jesús enseñaba que él es el buen pastor que da la vida por sus ovejas (v. 11). También dijo: «Conozco a mis ovejas y mis ovejas me conocen», y «He venido para que tengan vida y la tengan en abundancia». Sin embargo, muchos de los judíos no le creen y dudan de sus afirmaciones. Aquí comienza nuestra historia. </ul> <hr>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Juan 10:22-30</strong> dos veces seguidas mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Juan 10:22-30",
+        "html": "<h3>Jesús y la fiesta de la Dedicación</h3> <p><sup>22</sup>Por esos días se celebraba en Jerusalén la fiesta de la Dedicación. Era invierno,<sup>23</sup>y Jesús andaba en el templo, por el pórtico de Salomón.<sup>24</sup>Entonces lo rodearon los judíos y le preguntaron:</p> <p>—¿Hasta cuándo vas a tenernos en suspenso? Si tú eres el Cristo, dínoslo con franqueza.</p> <p><sup>25</sup>—Ya se lo he dicho a ustedes, y no lo creen. Las obras que hago en nombre de mi Padre son las que me acreditan,<sup>26</sup>pero ustedes no creen porque no son de mi rebaño.<sup>27</sup>Mis ovejas oyen mi voz; yo las conozco y ellas me siguen.<sup>28</sup>Yo les doy vida eterna, y nunca perecerán, ni nadie podrá arrebatármelas de la mano.<sup>29</sup>Mi Padre, que me las ha dado, es más grande que todos; y de la mano del Padre nadie las puede arrebatar.<sup>30</sup>El Padre y yo somos uno.</p>",
+        "url": "https://biblegateway.com/passage/?search=Juan%2010:22-30&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Juan 10:22-30",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2211",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2211",
+        "startTime": "2:50",
+        "endTime": "3:49",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de Descubrimiento (Todos responden)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención (o qué te gustó más) y por qué?"
+          },
+          {
+            "text": "¿Qué aprendiste acerca de Jesús?"
+          },
+          {
+            "text": "¿Qué aprendiste sobre las personas?"
+          },
+          {
+            "text": "¿Cómo obedecerás a Jesús ahora que sabes esto?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, cuente y corrija",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o miren la historia una vez más. Pídale a alguien que cuente la historia y que el grupo corrija de ser necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "En la cruz, Jesús, el buen pastor, entregó su vida como sacrificio por tus pecados. Como una de sus ovejas, quiere que sepas que tienes vida eterna y que nunca perecerás. Estás a salvo en sus manos y nadie, ni el mismo Satanás, puede arrebatarte."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparándose para la misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídales que practiquen compartir el Evangelio"
+                  },
+                  {
+                    "text": "Comenten juntos qué hacer cuando alguien dice SÍ al Evangelio."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pídales que elaboren una Lista, a la que llamaremos <em>Red Relacional</em>, donde escribiran los nombres de al menos 10 personas con las que se relacionan en la semana."
+          },
+          {
+            "text": "Identifica a 5 personas de <em>Red Relacional</em> a las que les contarás la historia de hoy o le compartirás el Evangelio esta semana. (use la declaración: \"Yo haré……. cuando…”)."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Entregar al Señor las metas de cada uno. Pidamos al Señor que nos ayude a ser fieles y nos use para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Para un mayor enriquecimiento: <a href=\"https://staging.mc2.online/content/M2/spa/tc/tc01.html\" target=\"_blank\">Lea el concepto transferible #1: Cómo puede estar seguro de conocer a Dios?</a>, comparta lo aprendido con otro miembro del grupo.",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply101-i-will"
+      }
+    }
+  ]
+}

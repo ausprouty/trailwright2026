@@ -1,0 +1,140 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply2intro",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<span><span>La Navidad es el tiempo que celebramos el misterio de La Palabra ({Juan 1:1}). </span></span> <span><span> La Palabra se hizo plenamente humana ({Juan 1:14)} </span></span> <span><span> nacida como un niño, Jesús de Nazaret. Vino de la eternidad y entró en el tiempo y en el espacio. Entró en una familia, una cultura, un pueblo, una tribu y vivió la vida un día a la vez en el siglo I romano controlado Israel. </span></span>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Juan 1:1",
+            "label": "Juan 1:1",
+            "passage": "<span><span><!-- begin bible --></span></span><div><p><span><span><sup>1</sup>En el principio ya existía el Verbo,<br>y el Verbo estaba con Dios,<br>y el Verbo era Dios.</span></span></p></div><span><span><!-- end bible --></span></span>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "Juan 1:14)",
+            "label": "Juan 1:14)",
+            "passage": "<span><span><!-- begin bible --></span></span><p><span><span><sup>14</sup>Y el Verbo se hizo hombre y habitó entre nosotros. Y hemos contemplado su gloria, la gloria que corresponde al Hijo unigénito del Padre, lleno de gracia y de verdad.</span></span></p><span><span><!-- end bible --></span></span>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Aunque plenamente Dios, eligió vivir Su vida como plenamente hombre, en total obediencia entregada a Su Padre celestial. Lo que Él logró en Su vida y ministerio, lo logró como el hombre de Nazaret, el Hijo del Hombre, a través del poder y la presencia del Espíritu Santo en cumplimiento de la voluntad del Padre. Aunque Él tenía todo el derecho de operar fuera de su divinidad, Él eligió vivir sólo de Su perfecta humanidad sin pecado para ser nuestro ejemplo de cómo glorificar completamente a Dios en nuestra vida y ministerio."
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<span><span>Jesús fue y siempre será plenamente Dios. Aunque tenía toda la autoridad, el poder y los recursos del cielo a sus órdenes, nunca lo usó. En cambio, Él eligió \"llegar a ser como sus hermanos en todos los sentidos\" ({Hebreos 2:17}) </span></span> <span><span> pero sin pecado. Debido a esto, el libro de Hebreos nos anima, \"Por lo tanto, hermanos santos, que comparten el llamado celestial, fijen sus pensamientos en Jesús, el apóstol y sumo sacerdote a quien confesamos\". ({Hebreos 3:1})</span></span>",
+        "references": [
+          {
+            "id": "popup_pop3",
+            "marker": "Hebreos 2:17",
+            "label": "Hebreos 2:17",
+            "passage": "<span><span><!-- begin bible --></span></span><p><span><span><sup>17</sup>Por eso era preciso que en todo se asemejara a sus hermanos, para ser un sumo sacerdote fiel y misericordioso al servicio de Dios, a fin de expiar los pecados del pueblo.</span></span></p><span><span><!-- end bible --></span></span>"
+          },
+          {
+            "id": "popup_pop4",
+            "marker": "Hebreos 3:1",
+            "label": "Hebreos 3:1",
+            "passage": "<span><span><!-- begin bible --></span></span><p><span><span><sup>1</sup>Por lo tanto, hermanos, ustedes que han sido santificados y que tienen parte en el mismo llamamiento celestial, consideren a Jesús, apóstol y sumo sacerdote de la fe que profesamos.</span></span></p><span><span><!-- end bible --></span></span>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Los cuatro escritores del Evangelio registran un resumen de Su vida y enseñanzas. Al estudiar su testimonio escrito, podemos aprender acerca del desarrollo de Su movimiento. En Su humanidad, incluso Jesús estaba sujeto al tiempo y al espacio y vivía en la secuencia de horas, días, semanas, años. Él inició y desarrolló Su movimiento en el tiempo. Por lo tanto, el estudio de caso de Jesús es muy instructivo para los líderes. Obtenemos una visión de cómo su vida y movimiento se desarrollaron a lo largo del tiempo mediante la reconstrucción de una secuencia cronológica a partir de la evidencia proporcionada por los Evangelios."
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<span><span>Lucas nos dice que trató de proporcionar un \"relato ordenado\" bien investigado y ordenado de la vida de Jesús ({Lucas 1:1-4}).</span></span> <span><span> Los otros escritores no se preocuparon por el orden de los eventos, sino que organizaron sus relatos en torno a temas. Por ejemplo, Juan, el último de los cuatro en escribir su evangelio, registró una gran cantidad de material nuevo que llena algunos de los vacíos en el tiempo, especialmente el primer año y medio (Juan 1-4) y las últimas semanas (Juan 12-21) de la vida terrenal y el ministerio de Jesús. ¡De hecho, Juan 13-20 cubre sólo tres días! </span></span>",
+        "references": [
+          {
+            "id": "popup_pop5",
+            "marker": "Lucas 1:1-4",
+            "label": "Lucas 1:1-4",
+            "passage": "<span><span><!-- begin bible --></span></span><p><span><span><sup>1</sup>Muchos han intentado hacer un relato de las cosas que se han cumplido entre nosotros,<sup>2</sup>tal y como nos las transmitieron los que desde el principio fueron testigos presenciales y servidores de la palabra.<sup>3</sup>Por lo tanto, yo también, excelentísimo Teófilo, habiendo investigado todo esto con esmero desde su origen, he decidido escribírtelo ordenadamente,<sup>4</sup>para que llegues a tener plena seguridad de lo que te enseñaron.</span></span></p><span><span><!-- end bible --></span></span>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "El Evangelio de Lucas nos da algunos marcadores de fecha para que podamos localizar a Jesús en un contexto histórico."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em><sup>1</sup></em><em>Muchos se han comprometido a hacer un relato de las cosas que se han cumplido entre nosotros, </em> <em><sup>2</sup>tal como nos las transmitieron aquellos que desde el principio fueron testigos presenciales y siervos de la palabra.</em> <em><sup>3</sup>Con esto en mente, ya que yo mismo he investigado cuidadosamente todo desde el principio, yo también decidí escribir un relato ordenado para ti, el más excelente Teófilo, </em> <em><sup>4</sup></em>para <em>que puedas conocer la certeza de las cosas que te han enseñado.</em> <em>– Lucas 1:1-4.</em>"
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<span lang=\"es\"><span><span>Lucas nos dice que Jesús nació durante el reinado del rey Herodes [el Grande] ({Lucas 1:5}), </span></span></span> <span lang=\"es\"><span><span> durante el reinado de César Augusto ({Lucas 2:1-7}) </span></span></span> <span lang=\"es\"><span><span> y mientras Quirinio era gobernador de Siria ({Lucas 2:2}). </span></span></span> <span lang=\"es\"><span><span> También afirma que Jesús comenzó su ministerio durante el 15º reinado de Tiberio César (Lucas 3:1-2) y que Jesús tenía unos 30 años cuando comenzó ({Lucas 3:21-23}). </span></span></span> <span lang=\"es\"><span><span> Esto es importante porque nos ayuda a aprender más acerca de cuándo y cuánto tiempo Jesús hizo su ministerio. Podemos comenzar a ver los pasos que tomó para sentar las bases para la formación de discípulos, el desarrollo de sus seguidores en hacedores de discípulos y, con el tiempo, equipar a los hacedores de discípulos probados para convertirse en líderes de movimientos multiplicadores.</span></span></span>",
+        "references": [
+          {
+            "id": "popup_pop6",
+            "marker": "Lucas 1:5",
+            "label": "Lucas 1:5",
+            "passage": "<span lang=\"es\"><span><span><!-- begin bible --></span></span></span><p><span lang=\"es\"><span><span><sup>5</sup>En tiempos de Herodes, rey de Judea, hubo un sacerdote llamado Zacarías, miembro del grupo de Abías. Su esposa Elisabet también era descendiente de Aarón.</span></span></span></p><span lang=\"es\"><span><span><!-- end bible --></span></span></span>"
+          },
+          {
+            "id": "popup_pop7",
+            "marker": "Lucas 2:1-7",
+            "label": "Lucas 2:1-7",
+            "passage": "<span lang=\"es\"><span><span><!-- begin bible --></span></span></span><p><span lang=\"es\"><span><span><sup>1</sup>Por aquellos días Augusto César decretó que se levantara un censo en todo el Imperio romano.<sup>2</sup>(Este primer censo se efectuó cuando Cirenio gobernaba en Siria).<sup>3</sup>Así que iban todos a inscribirse, cada cual a su propio pueblo.</span></span></span></p><span lang=\"es\"><span><span></span></span></span><p><span lang=\"es\"><span><span><sup>4</sup>También José, que era descendiente del rey David, subió de Nazaret, ciudad de Galilea, a Judea. Fue a Belén, la Ciudad de David,<sup>5</sup>para inscribirse junto con María su esposa. Ella se encontraba encinta<sup>6</sup>y, mientras estaban allí, se le cumplió el tiempo.<sup>7</sup>Así que dio a luz a su hijo primogénito. Lo envolvió en pañales y lo acostó en un pesebre, porque no había lugar para ellos en la posada.</span></span></span></p><span lang=\"es\"><span><span><!-- end bible --></span></span></span>"
+          },
+          {
+            "id": "popup_pop8",
+            "marker": "Lucas 2:2",
+            "label": "Lucas 2:2",
+            "passage": "<span lang=\"es\"><span><span><!-- begin bible --></span></span></span><p><span lang=\"es\"><span><span><sup>2</sup>(Este primer censo se efectuó cuando Cirenio gobernaba en Siria).</span></span></span></p><span lang=\"es\"><span><span><!-- end bible --></span></span></span>"
+          },
+          {
+            "id": "popup_pop9",
+            "marker": "Lucas 3:21-23",
+            "label": "Lucas 3:21-23",
+            "passage": "<span lang=\"es\"><span><span><!-- begin bible --></span></span></span><div><p><span lang=\"es\"><span><span><sup>21</sup>Un día en que todos acudían a Juan para que los bautizara, Jesús fue bautizado también. Y mientras oraba, se abrió el cielo,<sup>22</sup>y el Espíritu Santo bajó sobre él en forma de paloma. Entonces se oyó una voz del cielo que decía: «Tú eres mi Hijo amado; estoy muy complacido contigo».</span></span></span></p><p><span lang=\"es\"><span><span><sup>23</sup>Jesús tenía unos treinta años cuando comenzó su ministerio. Era hijo, según se creía, de José,</span></span></span></p><p><span lang=\"es\"><span><span>hijo de Elí,</span></span></span></p></div><span lang=\"es\"><span><span><!-- end bible --></span></span></span>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Desarrollando líderes para la multiplicación",
+        "url": "https://www.youtube.com/watch?v=MpsnJAExC0g",
+        "source": "youtube",
+        "refId": "",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,598 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmt",
+  "htmlLang": "zh-Hant",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply115",
+  "sortOrder": 23,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "本課目的是說明奉獻的重要與態度、如何收取與管理奉獻，並奉獻的賜福。"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向後看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "敬拜讚美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "希伯來書4:14-16"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>14</sup>我們既然有一位已經升入高天尊榮的大祭司，就是神的兒子耶穌，便當持定所承認的道。<sup>15</sup>因我們的大祭司並非不能體恤我們的軟弱，他也曾凡事受過試探，與我們一樣，只是他沒有犯罪。<sup>16</sup>所以我們只管坦然無懼地來到施恩的寶座前，為要得憐恤，蒙恩惠，作隨時的幫助。”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "讓我們誦讀經文兩遍，用信心宣告關於主耶穌的真理，並為主耶穌成就的一切向神感恩和讚美！"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "禱告關懷",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感謝神和需要耶穌為你做的事，並彼此感恩代禱。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "慶賀實踐",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "請分享上週你因信靠神而實踐“屆時我會”的福音行動。"
+          },
+          {
+            "text": "背誦上週經文（林前11:26）"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "天父心意",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "有一天，耶穌差遣祂的門徒去附近的村落服事人。當他們回來時，都非常高興上帝透過他們成就許多事：“主啊！因你的名，就是鬼也服了我們！”耶穌與他們一同歡喜，並對他們說：“然而，不要因鬼服了你們而歡喜，要因你們的名記錄在天上歡喜。” 耶穌提醒：我們歡喜並非因為工作有成效，乃是因為真正認識主。（路加福音10:17-24）"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "被主呼召",
+        "level": 2
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "初代教會的信徒彼此委身，穩定聚會，領人歸主。受到逼迫後，他們向主求膽量，主就幫助他們放膽傳講福音。這個關於耶路撒冷信徒的故事，顯示他們彼此的委身。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>故事背景</strong>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>閱讀經文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "閱讀使徒行傳4:32-5:11兩遍，或觀看使徒行傳視頻《亞拿尼亞與撒非喇》"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "使徒行傳4:32-5:11",
+        "html": "<div> <div> <div> <div> <div> <div> <p><sup>32</sup>那許多信的人都是一心一意的，沒有一人說他的東西有一樣是自己的，都是大家公用。<sup>33</sup>使徒大有能力，見證主耶穌復活，眾人也都蒙大恩。<sup>34</sup>內中也沒有一個缺乏的，因為人人將田產房屋都賣了，把所賣的價銀拿來，<sup>35</sup>放在使徒腳前，照各人所需用的分給各人。</p> <p><sup>36</sup>有一個利未人，生在塞浦路斯，名叫<u class=\"person underline\">約瑟</u>，使徒稱他為<u class=\"person underline\">巴拿巴</u>（「<u class=\"person underline\">巴拿巴</u>」翻出來就是「勸慰子」）。<sup>37</sup>他有田地，也賣了，把價銀拿來放在使徒腳前。</p> <p><sup>1</sup>有一個人名叫<u class=\"person underline\">亞拿尼亞</u>，同他的妻子<u class=\"person underline\">撒非喇</u>賣了田產，<sup>2</sup>把價銀私自留下幾份，他的妻子也知道，其餘的幾份拿來放在使徒腳前。<sup>3</sup><u class=\"person underline\">彼得</u>說：「<u class=\"person underline\">亞拿尼亞</u>，為什麼<u class=\"person underline\">撒旦</u>充滿了你的心，叫你欺哄聖靈，把田地的價銀私自留下幾份呢？<sup>4</sup>田地還沒有賣，不是你自己的嗎？既賣了，價銀不是你做主嗎？你怎麼心裡起這意念呢？你不是欺哄人，是欺哄神了！」<sup>5</sup><u class=\"person underline\">亞拿尼亞</u>聽見這話，就仆倒，斷了氣。聽見的人都甚懼怕。<sup>6</sup>有些少年人起來，把他包裹，抬出去埋葬了。</p> <p><sup>7</sup>約過了三小時，他的妻子進來，還不知道這事。<sup>8</sup><u class=\"person underline\">彼得</u>對她說：「你告訴我，你們賣田地的價銀就是這些嗎？」她說：「就是這些。」<sup>9</sup><u class=\"person underline\">彼得</u>說：「你們為什麼同心試探主的靈呢？埋葬你丈夫之人的腳已到門口，他們也要把你抬出去。」<sup>10</sup>婦人立刻仆倒在<u class=\"person underline\">彼得</u>腳前，斷了氣。那些少年人進來，見她已經死了，就抬出去，埋在她丈夫旁邊。<sup>11</sup>全教會和聽見這事的人都甚懼怕。</p> </div> </div> </div> </div> </div> </div>",
+        "url": "https://biblegateway.com/passage/?search=使徒行傳4:32-5:11&version=CUVMPT",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "使徒行傳4:32-37",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7311-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7311-0-0",
+        "startTime": "start",
+        "endTime": "0:50",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索與討論</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "經文中讓你印象最深刻的是什麼？為什麼？"
+                },
+                {
+                  "text": "從這段經文中你對主耶穌和聖靈有什麼新的認識？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再讀一次這段故事。請小組中一個人口頭講述這故事，並根據需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "初代教會的信徒藉着奉獻的方式，照顧彼此的需要。從今天的故事中，我們學習奉獻要捐得樂意，而不是出於勉強（哥林多後書9:7）。使徒行傳11:27-29顯示，初代教會也可以捐贈給其他教會的信徒，把奉獻使用在自己教會以外的需要。路加福音8:1-3告訴我們，大家的奉獻可以使神國的福音在別處被傳開。另外，在哥林多前書16:2，保羅勉勵眾人每週奉獻，並將奉獻使用在這些用途上。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小結</strong>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "經文背誦",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "哥林多後書9:7"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "各人要隨本心所酌定的，不要作難，不要勉強，因為捐得樂意的人是神所喜愛的。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "福音預備",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>認識十一奉獻</strong>"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "“地上所有的，無論是地上的種子是樹上的果子，十分之一是耶和華的，是歸給耶和華為聖的。” （利27:30）"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "十一奉獻就是十分之一，這是神在整本聖經中使用的字眼。在聖經里，神告訴我們要將賺到的頭十分之一獻回給神。十一奉獻的起源是亞伯拉罕把所得十分之一獻給撒冷城的麥基洗德。摩西律法將十一奉獻制度化，以色列人以此獻給耶和華神和支持利未支派的事奉工作。"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>為何神要我奉獻</strong>"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "奉獻是神所喜悅的，奉獻使我們更像神（約翰福音3:16）"
+                  },
+                  {
+                    "text": "表明我們敬畏神（馬太福音6:21）、愛神（馬太福音6:21）"
+                  },
+                  {
+                    "text": "將我們的心關注在永生上（提後6:18-19）"
+                  },
+                  {
+                    "text": "將榮耀歸於神（箴言3:5、9）"
+                  },
+                  {
+                    "text": "也是神祝福我們的方式（箴言22:9；詩篇112:5）"
+                  },
+                  {
+                    "text": "帶給我們生命的滋潤和喜樂（使徒行傳20:35；箴言11:25）<br>"
+                  },
+                  {
+                    "text": "<strong>為何要十一奉獻</strong>"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "十一奉獻是一種分別為聖的奉獻，意義包括："
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "是神的命令（利未記27:30）、"
+                  },
+                  {
+                    "text": "得耶穌的稱讚（馬可福音12:41-44、馬太福音23:23）"
+                  },
+                  {
+                    "text": "表明神在我們生命中居首位（申命記14:23）"
+                  },
+                  {
+                    "text": "提醒我們所有都是神賜給我們的（申命記8:18）"
+                  },
+                  {
+                    "text": "對神心存感激（詩篇116:12、申命記16:17）"
+                  },
+                  {
+                    "text": "表明我們對神的愛（約翰福音14:15；林後8:7-8）"
+                  },
+                  {
+                    "text": "使我們去經歷神的真實和祝福（瑪拉基書3:8-10）"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>十一奉獻的地點和數額</strong>"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": " 地點：我們敬拜、團契的地方——教會（瑪拉基書3:10）。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "神通過教會來牧養我們，我們也應當將奉獻交到教會——神的家。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "教會將十一奉獻將用於："
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "ordered",
+                "items": [
+                  {
+                    "text": "供應教會牧者、全時間同工的生活需要"
+                  },
+                  {
+                    "text": "行政開支：房租、水電、音樂器材及雜費等"
+                  },
+                  {
+                    "text": "教育與門訓事工：主日學、小組團契、培訓班等"
+                  },
+                  {
+                    "text": "佈道和宣教事工"
+                  },
+                  {
+                    "text": "慈惠和憐憫事工"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": " 數額"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "教會採用了舊約中十分之一的依據，這是“最低數額的”奉獻。基督徒應根據自己的能力奉獻，“照自己的進項”，這意味着有時的奉獻超出十分之一，有時少於十分之一；取決於基督徒的個人能力和教會的需要（林後9:7）。"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>十一奉獻的態度：甘心樂意與慷慨</strong>（林後8-9章）"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "聖經上說態度比錢的多少重要，神設立十一奉獻的原因就在此，祂在乎我們的態度，不是我們的錢（可回想神為何要我們奉獻）。奉獻的關鍵是，神若擁有我們的心，他就擁有我們的錢包。我們需要先把自己獻給主。"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>問題與討論</strong>",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "教會弟兄姊妹作十分之一奉獻，會感到猶豫或有什麼顧慮嗎？為什麼？"
+                        },
+                        {
+                          "text": "要做主的門徒，為什麼就要學習作十分之一的奉獻？"
+                        },
+                        {
+                          "text": "我們的教會是一個“施”還是“受”的教會？"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行動",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "了解你的教會如何收奉獻及管理奉獻。向教會的牧者或財務同工了解有關教會奉獻的開支與需要。"
+          },
+          {
+            "text": "在未來一週的主日崇拜，學習並開始有計劃地奉獻，參與教會的聖工。"
+          },
+          {
+            "text": "依照你今天所學到的，寫下一個“屆時我會”的宣告，並於組內分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在________________（時間/地點）將會__________________（對象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分鐘寫下你在本課的學習心得，或是你未來一週，可能有的其他行動點。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "福音禱告",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "親愛的天父，我知道你愛我，祢要我獻上最好的給祢。我承認我所有的或我將有的，都從祢而來。我願意照着祢所吩咐的開始做十一奉獻。我感謝祢為我所做的一切，也禱告祢繼續供應我的需要，我願意把所賺的十分之一回報祢，用在你的聖工上，榮耀禰的名，使更多人得益處。我願意立定心志為永生作投資，幫助我在這個委身上忠心，討祢的喜悅。奉耶穌基督的名禱告，阿們！"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply115-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply103",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Ejemplo: Salmo 66:4 \" Toda la tierra te adorará, Y cantará a ti; Cantarán a tu nombre\". Hagamos una pausa y alabemos a Dios con una canción."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar las necesidades de los demás en oración, consejo bíblico y ánimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunta: \"¿Qué pasó cuando confiaste en Dios tus metas y tu declaración: “Yo haré…”?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y Animo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Proyectar visión de quiénes pueden llegar a ser en Cristo o lo que Dios puede hacer a través de ellos.</em>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Ejemplo: Un día una mujer fue a visitar a su vecino. Mientras hablaban, ella compartió el Evangelio con su prójimo y puso su fe en Cristo. Pero entonces la mujer se puso a llorar. \"Mi esposo acaba de morir hace 2 semanas. ¿Por qué no me dijiste esto antes?\" Como ven, nunca sabemos cuándo será el último día de la gente. Es por eso por lo que debemos compartir el Evangelio cuando tenemos la oportunidad."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Ejemplo: Un día una mujer fue a visitar a su vecino. Mientras hablaban, ella compartió el Evangelio con su prójimo y puso su fe en Cristo. Pero entonces la mujer se puso a llorar. \"Mi esposo acaba de morir hace 2 semanas. ¿Por qué no me dijiste esto antes?\" Como ven, nunca sabemos cuándo será el último día de la gente. Es por eso por lo que debemos compartir el Evangelio cuando tenemos la oportunidad."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea <strong>1 Corintios 2:14-33</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1 Corintios 2:14-16",
+        "html": "<div> <p><sup>14</sup>El que no tiene el Espíritu no acepta lo que procede del Espíritu de Dios, pues para él es locura. No puede entenderlo, porque hay que discernirlo espiritualmente.<sup>15</sup>En cambio, el que es espiritual lo juzga todo, aunque él mismo no está sujeto al juicio de nadie, porque</p> <p><sup>16</sup>«¿quién ha conocido la mente del Señor<br> para que pueda instruirlo?»</p> <p>Nosotros, por nuestra parte, tenemos la mente de Cristo.</p> </div>",
+        "url": "https://biblegateway.com/passage/?search=1%20Corintios%202:14-33&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de Descubrimiento (Todos responden)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención (o qué te gustó más) y por qué?"
+          },
+          {
+            "text": "¿Qué aprendiste acerca de Jesús?"
+          },
+          {
+            "text": "¿Qué aprendiste sobre las personas?"
+          },
+          {
+            "text": "¿Cómo obedecerás a Jesús ahora que sabes esto?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Aunque todos los cristianos tienen el Espíritu viviendo en ellos, no todos los cristianos son dirigidos y controlados por el Espíritu. Cuando confiamos en nuestros propios esfuerzos o tomamos el control de nuestras vidas, la Biblia nos llama carnales y no experimentamos una vida abundante o fructífera. Lee {Gálatas 5:22-24.}",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Gálatas 5:22-24.",
+                    "label": "Gálatas 5:22-24.",
+                    "passage": "<p><sup>22</sup>En cambio, el fruto del Espíritu es amor, alegría, paz, paciencia, amabilidad, bondad, fidelidad,<sup>23</sup>humildad y dominio propio. No hay ley que condene estas cosas.<sup>24</sup>Los que son de Cristo Jesús han crucificado la naturaleza pecaminosa, con sus pasiones y deseos.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Enseñar el principio de respiración espiritual"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li>Exhala – {1 Juan 1:9} confesar nuestros pecados, aceptar cambiar nuestra actitud o acciones</li> <li>Inhala – entregar el control de nuestra vida a Cristo</li> <li>Pídales que oren para ser controlados y dirigidos por el Espíritu Santo</li> <li>Padre, te necesito. Reconozco que he estado en control de mi vida; y que he pecado contra ti. Gracias por perdonar mis pecados a través de la muerte de Cristo en la cruz. Te invito a tomar el control de mi vida y llenarme de tu Espíritu Santo. Oro por esto en el nombre de Jesús como una expresión de mi fe. Gracias por tomar el control de mi vida y llenarme de tu Espíritu Santo.</li> <li>Practica dibujar los 3 círculos y enseñar el principio de respiración espiritual</li>",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Juan 1:9",
+                    "label": "1 Juan 1:9",
+                    "passage": "<p><sup>9</sup>Si confesamos nuestros pecados, Dios, que es fiel y justo, nos los perdonará y nos limpiará de toda maldad.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunta: \"¿A quién le puedes contar lo que has aprendido acerca del Espíritu Santo?\" (use la declaración: \"Yo haré……. cuando…”)."
+          },
+          {
+            "text": "Pídales que identifiquen las acciones de fe adicionales que tomarán con los demás (use la declaración: \"Yo haré……. cuando…”)"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos al Señor. Pídele al Señor que nos ayude a ser fieles y que nos use para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Para un mayor enriquecimiento: <a href=\"https://staging.mc2.online/content/M2/spa/tc/tc03.html\" target=\"_blank\">Lee el CT #3: Cómo puede estar lleno del Espíritu Santo</a>.",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply103-i-will"
+      }
+    }
+  ]
+}

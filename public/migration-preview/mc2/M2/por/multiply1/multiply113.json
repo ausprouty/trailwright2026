@@ -1,0 +1,386 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply113",
+  "sortOrder": 14,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Adoração",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia a Bíblia para fundamentar louvor e adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">Leia {Salmos 100} e cante algumas músicas.</li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Salmos 100",
+                    "label": "Salmos 100",
+                    "passage": "<h4>Salmo de louvor.</h4><p>100 Cantem hinos a Deus, o Senhor,<br>todos os moradores da terra!<br><sup>2</sup>Adorem o Senhor com alegria<br>e venham cantando até a sua presença.</p><p><sup>3</sup>Lembrem que o Senhor é Deus.<br>Ele nos fez, e nós somos dele;<br>somos o seu povo, o seu rebanho.<br><sup>4</sup>Entrem pelos portões do Templo<br>com ações de graças,<br>entrem nos seus pátios com louvor.<br>Louvem a Deus<br>e sejam agradecidos a ele.<br><sup>5</sup>Pois o Senhor é bom;<br>o seu amor dura para sempre,<br>e a sua fidelidade não tem fim.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Sirvam uns aos outros através de oração, aconselhamento bíblico e encorajamento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça para cada pessoa compartilhar um ponto alto da semana e explicar um desafio pelo o qual passaram."
+          },
+          {
+            "text": "Pergunte, “O que você gostaria que Jesus fizesse por você esta semana?” Ore pelas necessidades uns dos outros."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pergunte, “O que aconteceu quando você confiou suas metas e suas declarações “Eu vou____” a Deus?”"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Esboce uma visão de quem eles podem se tornar em Cristo e o que Deus pode fazer através deles.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Exemplo: Leia {Efésios 2:1-10}. Não é incrível? Estávamos mortos em nossos pecados, mas Deus nos deu vida. Ele fez tudo isso para que você pudesse realizar as boas obras que Ele preparou para você. Nossas vidas são cheias de propósitos e significado! Vamos incentivar uns aos outros nos lembrando dessas verdades",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Efésios 2:1-10",
+                    "label": "Efésios 2:1-10",
+                    "passage": "<p><sup>1</sup>Antigamente, por terem desobedecido a Deus e por terem cometido pecados, vocês estavam espiritualmente mortos.<sup>2</sup>Naquele tempo vocês seguiam o mau caminho deste mundo e faziam a vontade daquele que governa os poderes espirituais do espaço, o espírito que agora controla os que desobedecem a Deus.<sup>3</sup>De fato, todos nós éramos como eles e vivíamos de acordo com a nossa natureza humana, fazendo o que o nosso corpo e a nossa mente queriam. Assim, porque somos seres humanos como os outros, nós também estávamos destinados a sofrer o castigo de Deus.</p><p><sup>4</sup>Mas a misericórdia de Deus é muito grande, e o seu amor por nós é tanto,<sup>5</sup>que, quando estávamos espiritualmente mortos por causa da nossa desobediência, ele nos trouxe para a vida que temos em união com Cristo. Pela graça de Deus vocês são salvos.<sup>6</sup>Por estarmos unidos com Cristo Jesus, Deus nos ressuscitou com ele para reinarmos com ele no mundo celestial.<sup>7</sup>Deus fez isso para mostrar, em todos os tempos do futuro, a imensa grandeza da sua graça, que é nossa por meio do amor que ele nos mostrou por meio de Cristo Jesus.</p><p><sup>8</sup>Pois pela graça de Deus vocês são salvos por meio da fé. Isso não vem de vocês, mas é um presente dado por Deus.<sup>9</sup>A salvação não é o resultado dos esforços de vocês; portanto, ninguém pode se orgulhar de tê-la.<sup>10</sup>Pois foi Deus quem nos fez o que somos agora; em nossa união com Cristo Jesus, ele nos criou para que fizéssemos as boas obras que ele já havia preparado para nós.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Durante uma festa judaica chamada Pentecostes, judeus de todos os lugares do mundo estavam em Jerusalém. Deus enviou o Espírito Santo à 120 de Seus seguidores que haviam se reunido. Através do poder do Espírito, os 120 seguidores começaram a falar na língua dos visitantes que estavam na cidade. Pedro começou a pregar à uma multidão sobre a morte e ressurreição de Jesus, provando que Ele era o Messias. Como resultado, 3.000 pessoas creram e foram batizadas. Mas o que aconteceu depois que creram?"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista Atos 2:41-47 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Atos 2:41-47",
+        "html": "<p><sup>41</sup>Muitos acreditaram na mensagem de Pedro e foram batizados. Naquele dia quase três mil se juntaram ao grupo dos seguidores de Jesus.<sup>42</sup>E todos continuavam firmes, seguindo os ensinamentos dos apóstolos, vivendo em amor cristão, partindo o pão juntos e fazendo orações.</p> <h3>A vida dos primeiros cristãos</h3> <p><sup>43</sup>Os apóstolos faziam muitos milagres e maravilhas, e por isso todas as pessoas estavam cheias de temor.<sup>44</sup>Todos os que criam estavam juntos e unidos e repartiam uns com os outros o que tinham.<sup>45</sup>Vendiam as suas propriedades e outras coisas e dividiam o dinheiro com todos, de acordo com a necessidade de cada um.<sup>46</sup>Todos os dias, unidos, se reuniam no pátio do Templo. E nas suas casas partiam o pão e participavam das refeições com alegria e humildade.<sup>47</sup>Louvavam a Deus por tudo e eram estimados por todos. E cada dia o Senhor juntava ao grupo as pessoas que iam sendo salvas.</p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%202:41-47&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Atos 2:41-47",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7306-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7306-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Todos contam o que chamou mais a atenção para cada um (ou do que mais gostaram) e porquê."
+          },
+          {
+            "text": "Por que você acha que esta história é importante?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que ouvimos esta história (passagem)?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Leia {Mateus 16:18}. O Espírito Santo guiava os primeiros cristãos a se reunirem regularmente para adoração, oração, comunhão, estudo da Palavra de Deus, amar uns aos outros e alcançar aqueles que ainda não conheciam Cristo. Em cada local do livro de Atos, pessoas se tornaram seguidoras de Cristo e assumiram esse mesmo compromisso um com o outro. Essa é uma descrição de uma igreja local!",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Mateus 16:18",
+                    "label": "Mateus 16:18",
+                    "passage": "<p><sup>18</sup>Portanto, eu lhe digo: você é Pedro, e sobre esta pedra construirei a minha Igreja, e nem a morte poderá vencê-la.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pratique o desenho do círculo de saúde da igreja como uma maneira fácil de lembrar todas as características da igreja. Isso inclui:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Adoração, comunhão, estudo da Palavra de Deus, oração, a ceia do Senhor, batismo, ministério, testemunho, líderes que se importam e que cuidam."
+                  },
+                  {
+                    "text": "Converse sobre o seguinte: “Esse grupo quer assumir o mesmo compromisso uns com os outros? Ser a igreja do Senhor neste lugar?”"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique 5 pessoas de sua Lista de Relacionamentos com quem você possa compartilhar esta história ou o evangelho esta semana."
+          },
+          {
+            "text": "Escreva suas declarações “Eu vou_____” e compartilhe-as com seu grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Entregue as metas de todos ao Senhor. Peça ao Senhor para nos ajudar a sermos fiéis e para nos usar para iniciar um movimento de discipuladores."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply113-i-will"
+      }
+    }
+  ]
+}

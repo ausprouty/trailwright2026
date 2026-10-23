@@ -1,0 +1,361 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "amh",
+  "htmlLang": "am",
+  "direction": "ltr",
+  "numberSystem": "ethi",
+  "series": "multiply1",
+  "lessonId": "multiply112",
+  "sortOrder": 12,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ወደኋላ ተመልከት",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "ምስጋና",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "ከመጽሐፍ ቅዱስ ክፍል አንብብና በዝማሬ አምልኩ፡፡"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "ምሳሌ፡- መዝ 9፡1-2 ካነበባችሁ በኋላ 1-2 ዝማሬዎቸን ዘምሩ፡፡"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "እንክብካቤ",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "በፀሎት በመፅሐፍ ቅዱሳዊ ምክርና በመበረታታት አንዳችን ሌላውን እናገልግል።"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "እያንዳንዱ ሰው በዚህ ሳምንት የገጠመውን አንድ አስደሳች እና አንድ ተግዳሮት ነገር እንዲናገሩ ጠይቅ፡፡"
+          },
+          {
+            "text": "በዚህ ሳምንት ኢየሱስ ምን እንዲያደርግላቸው እንደሚፈልጉ ጠይቅ፡፡ አንዱ ለሌላው መሻት ይጸልይ፡"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "መታዘዝን ማበረታታት",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "ኢየሱስን ለመታዘዝ በፍቅር ላይ የተመሠረተ ኃላፊነት እንዲወስዱ አበረታታ፡፡"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "“ኢየሱስን ለመከተል የወሰናችሁበትን ሁኔታ ለአንድ ሰው መንገር ትችላላችሁ?” ብለህ ጠይቃቸው፡፡"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "ማነቃቃትና ማበረታታት",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "በክርስቶስ አማካይነት ማን እንደሆኑ ወይም እግዚአብሔር በእነርሱ ምን መስራት እንደሚፈልግ አስገንዝባቸው፡፡"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>ምሳሌ: </strong>ሁላችንም ክርስቶስን ለመከተልና ሰውን ለማጥመድ እስከ ተጠራ ድረስ ማወቅ ያለብን አንድ ነገር በዓለም ላይ የጠፉና የዳኑ ሰዎች መኖሩን ነው፡፡ የዳኑ ሰዎች የጠፉትን ማጥመድ እንዲችሉ መሰልጠን አለባቸው፡፡ በዓለም ላይ ሁለት ዓይነት ሰዎች እንዳሉ ከተገነዘብክ የአንተ የዕለት ተዕለት ተግባቦትህ በጣም ቀላል ነው ማለት ነው፡፡ የጠፉ ሰዎች በገጠሙህ ጊዜ ስለ ክርስቶስ መስክርላቸው፡፡ የዳኑ ሰዎች ከገጠሙህ ደግሞ ስልጠና ስጣቸው፡፡ ይህም ከባድ የሆነ ስራ አይደለም፡፡"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ተመልከት",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "መግቢያ",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "ጴጥሮስ ቆርኔሊዎስ የሚባል አንድ ሮማዊ የመቶ አለቃ ወደሚኖርባት ቂሳሪያ ከተማ የተላከው በመንፈስ ቅዱስ ተመርቶ ነው፡፡ ቆርኔሊዎስ እግዚአብሔር ለሥራው ያዘጋጀው የሰላም ሰው ነበር፡፡ ጴጥሮስም ለቆርኔልዎስ ስለ ክርስቶስ ለመንገር መንፈስ ቅዱስን በመታዘዝ ወደ ቂሳሪያ ሄዴ፡፡ እስቲ ምን እንደተከናወነ እንመልከት፡፡"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "የጥናት ክፍል",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "ሐዋ 10:24-35 ሁሉም ሰው እየሰማ ይህንን ክፍል አንድ ሰው ሁለት ጊዜ አንብብ፡፡"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "ሐዋ 10:24-35",
+        "html": "<div><sup>24</sup>በነገውም ወደ ቂሣርያ ገቡ፤ ቆርኔሌዎስም ዘመዶቹንና የቅርብ ወዳጆቹን በአንድነት ጠርቶ ይጠባበቃቸው ነበር። <sup>25</sup>ጴጥሮስም በገባ ጊዜ ቆርኔሌዎስ ተገናኝቶ ከእግሩ በታች ወደቀና ሰገደለት። <sup>26</sup>ጴጥሮስ ግን። ተነሣ፤ እኔ ራሴ ደግሞ ሰው ነኝ ብሎ አስነሣው። <sup>27</sup>ከእርሱም ጋር እየተነጋገረ ገባ፥ ብዙዎችም ተከማችተው አግኝቶ። <sup>28</sup>አይሁዳዊ ሰው ከሌላ ወገን ጋር ይተባበር ወይም ይቃረብ ዘንድ እንዳልተፈቀደ እናንተ ታውቃላችሁ፤ ለእኔ ግን እግዚአብሔር ማንንም ሰው ርኵስና የሚያስጸይፍ ነው እንዳልል አሳየኝ፤ <sup>29</sup>ስለዚህም ደግሞ ብትጠሩኝ ሳልከራከር መጣሁ። አሁንም በምን ምክንያት አስመጣችሁኝ? ብዬ እጠይቃችኋለሁ አላቸው። <sup>30</sup>ቆርኔሌዎስም እንዲህ አለው። በዚች ሰዓት የዛሬ አራት ቀን የዘጠኝ ሰዓት ጸሎት በቤቴ እጸልይ ነበር፤ እነሆም፥ የሚያንጸባርቅ ልብስ የለበሰ ሰው በፊቴ ቆመና። <sup>31</sup>ቆርኔሌዎስ ሆይ፥ በእግዚአብሔር ፊት ጸሎትህ ተሰማ ምጽዋትህም ታሰበ። <sup>32</sup>እንግዲህ ወደ ኢዮጴ ልከህ ጴጥሮስ የተባለውን ስምዖንን አስጠራ፤ እርሱ በቍርበት ፋቂው በስምዖን ቤት በባሕር አጠገብ እንግድነት ተቀምጦአል አለኝ። <sup>33</sup>ስለዚህ ያን ጊዜ ወደ አንተ ላክሁ፥ አንተም በመምጣትህ መልካም አድርገሃል። እንግዲህ አንተ ከእግዚአብሔር ዘንድ የታዘዝኸውን ሁሉ እንድንሰማ እኛ ሁላችን አሁን በእግዚአብሔር ፊት በዚህ አለን። <sup>34</sup>- <sup>35</sup>ጴጥሮስም አፉን ከፍቶ እንዲህ አለ። እግዚአብሔር ለሰው ፊት እንዳያደላ ነገር ግን በአሕዛብ ሁሉ እርሱን የሚፈራና ጽድቅን የሚያደርግ በእርሱ የተወደደ እንደ ሆነ በእውነት አስተዋልሁ።</div>",
+        "url": "https://live.bible.is/bible/AMHEVG/Acts/10",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "",
+        "url": "https://youtu.be/Cgc8iwXPkcw",
+        "source": "youtube",
+        "refId": "",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "የምልከታ ውይይት",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "ከሰማኸው ታሪክ የወደድከው ነገር ምንድንነው? ለምን?"
+          },
+          {
+            "text": "ይህ ታሪክ ለምን ይጠቅማል ብለህ ታስባለህ?"
+          },
+          {
+            "text": "ይህን ታሪክ ከሰማህ በኋላ በህይወትህ ምን ለመለወጥ ትወስናለህ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "አንብብ፣ተናገር፤ አርም",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "ታሪኩን እንደገና አንብብ፣ አንድ ሰው ታሪኩን በቃል እንዲናገር አድርግና አስፈላጊ ከሆነ ቡድኑ እንዲያስተካክል ጠይቅ፡፡"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "ማጠቃለያ",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<hr> <p class=\"up\"> </p> <hr>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "ወደፊት መመልከት",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "ለተልዕኮ መዘጋጀት",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "ወንጌል መመስከርን ተለማመዱ"
+                  },
+                  {
+                    "text": "አንድ ሰው ወንጌልን ለመቀበል ፈቃደኛ በሚሆንበት ጊዜ ምን ማድረግ እንደሚጠበቅባቸው አስታውሳቸው፡፡"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "መላክ",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "በእነርሱ የግንኙነት መረብ ዙሪያ የሚገኙ 10 ወይም ከዚያ በላይ የሆኑ የሚያውቋቸውን ያላመኑ ሰዎች ስም ዝርዝር እንዲመዘግቡ አድርግ፡፡"
+          },
+          {
+            "text": "ከተመዘገቡት መካከል አምስቱን በመለየት በዚህ ሳምንት ዛሬ የሰሙትን ታሪክ ወይም ወንጌልን መቼ እንደሚነግሯቸው ይወስኑ"
+          },
+          {
+            "text": "“ይህን በዚህ••• ጊዜ አደርጋለሁ” ዕቅድህን ፃፍና ለቡድን አካፍል።"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ለተልዕኮ መጸለይ",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "የሁሉንም አባላት እቅድ በጸሎት ለእግዚአብሔር አሳልፈህ ስጥ፡፡ ታማኞች ሆነው እንድገኙና ደቀ መዝሙር- አድራጊ እንቅስቃሴን ለመጀመር እንዲችሉ እግዚአብሔር እንዲረዳቸው በጸሎት ጠይቅ፡፡"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply112-i-will"
+      }
+    }
+  ]
+}

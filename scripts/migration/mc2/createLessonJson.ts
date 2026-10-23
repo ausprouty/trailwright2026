@@ -4,7 +4,7 @@ export type SiteKey = 'mc2';
 
 export type TextDirection = 'ltr' | 'rtl';
 
-export type NumberSystem = 'latn' | 'arab' | 'arabext' | 'deva' | 'taml' | 'ethi'|'mymr';
+export type NumberSystem = 'latn' | 'arab' | 'arabext' | 'deva' | 'taml' | 'ethi' | 'mymr';
 
 export type LessonJson = {
   site: SiteKey;
@@ -24,7 +24,6 @@ type LanguageMeta = {
   direction: TextDirection;
   numberSystem: NumberSystem;
 };
-
 
 const languageMetaByCode: Record<string, LanguageMeta> = {
   // Amharic
@@ -93,7 +92,7 @@ const languageMetaByCode: Record<string, LanguageMeta> = {
 
 export const mc2Countries = ['M2'] as const;
 
-export type Mc2Country = (typeof mc2Countries)[number];
+export type mc2Country = (typeof mc2Countries)[number];
 
 export function getLanguageMeta(language: string): LanguageMeta {
   const meta = languageMetaByCode[language];
@@ -111,7 +110,7 @@ export function getLanguageMeta(language: string): LanguageMeta {
 
 type CreateLessonJsonOptions = {
   site?: SiteKey;
-  country: Mc2Country;
+  country: mc2Country;
   language: string;
   series: string;
   lessonId: string;

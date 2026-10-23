@@ -1,0 +1,463 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply354",
+  "sortOrder": 60,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lisez un passage biblique et exécutez un chant d’adoration.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Facultatif) Jésus-Christ est Seigneur, à la gloire de Dieu le Père ; qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité. Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus-Christ homme, qui s’est donné lui-même en rançon pour tous. ({Philippiens 2:11}; {1 Timothée 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippiens 2:11",
+                    "label": "Philippiens 2:11",
+                    "passage": "<p><sup>11</sup>et que toute langue confesse que Jésus Christ est Seigneur, à la gloire de Dieu le Père.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timothée 2:4-6",
+                    "label": "1 Timothée 2:4-6",
+                    "passage": "<p><sup>4</sup>qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité.</p><p><sup>5</sup>Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus Christ homme,</p><p><sup>6</sup>qui s'est donné lui-même en rançon pour tous. C'est là le témoignage rendu en son propre temps,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez au groupe de raconter l’histoire de la semaine passée."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation et encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Trouvez un moyen de projeter une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "un passage qui leur rappelle le cœur du Père et de la vision final."
+                  },
+                  {
+                    "text": "réfléchir sur des changements intervenus dans leur vie depuis qu’ils ont commencé à suivre Christ"
+                  },
+                  {
+                    "text": "leur rappeler ce que Dieu veut faire à travers eux"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Partagez la GRANDE vision</strong> <em>« une église pour chaque village et communauté, l’évangile pour chaque personne ».</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexte",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Expliquez que la vie de Christ est divisée en 5 périodes: Préparation, fondements du ministère, formation pour le ministère, évangélisation explosif, Multiplication du leadership"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lisez",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Actes 28:11-31 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Actes 28:11-31",
+        "html": "<p><sup>11</sup>Après un séjour de trois mois, nous nous embarquâmes sur un navire d'Alexandrie, qui avait passé l'hiver dans l'île, et qui portait pour enseigne les Dioscures.</p> <p><sup>12</sup>Ayant abordé à Syracuse, nous y restâmes trois jours.</p> <p><sup>13</sup>De là, en suivant la côte, nous atteignîmes Reggio; et, le vent du midi s'étant levé le lendemain, nous fîmes en deux jours le trajet jusqu'à Pouzzoles,</p> <p><sup>14</sup>où nous trouvâmes des frères qui nous prièrent de passer sept jours avec eux. Et c'est ainsi que nous allâmes à Rome.</p> <p><sup>15</sup>De Rome vinrent à notre rencontre, jusqu'au Forum d'Appius et aux Trois Tavernes, les frères qui avaient entendu parler de nous. Paul, en les voyant, rendit grâces à Dieu, et prit courage.</p> <p><sup>16</sup>Lorsque nous fûmes arrivés à Rome, on permit à Paul de demeurer en son particulier, avec un soldat qui le gardait.</p> <p><sup>17</sup>Au bout de trois jours, Paul convoqua les principaux des Juifs; et, quand ils furent réunis, il leur adressa ces paroles: Hommes frères, sans avoir rien fait contre le peuple ni contre les coutumes de nos pères, j'ai été mis en prison à Jérusalem et livré de là entre les mains des Romains.</p> <p><sup>18</sup>Après m'avoir interrogé, ils voulaient me relâcher, parce qu'il n'y avait en moi rien qui méritât la mort.</p> <p><sup>19</sup>Mais les Juifs s'y opposèrent, et j'ai été forcé d'en appeler à César, n'ayant du reste aucun dessein d'accuser ma nation.</p> <p><sup>20</sup>Voilà pourquoi j'ai demandé à vous voir et à vous parler; car c'est à cause de l'espérance d'Israël que je porte cette chaîne.</p> <p><sup>21</sup>Ils lui répondirent: Nous n'avons reçu de Judée aucune lettre à ton sujet, et il n'est venu aucun frère qui ait rapporté ou dit du mal de toi.</p> <p><sup>22</sup>Mais nous voudrions apprendre de toi ce que tu penses, car nous savons que cette secte rencontre partout de l'opposition.</p> <p><sup>23</sup>Ils lui fixèrent un jour, et plusieurs vinrent le trouver dans son logis. Paul leur annonça le royaume de Dieu, en rendant témoignage, et en cherchant, par la loi de Moïse et par les prophètes, à les persuader de ce qui concerne Jésus. L'entretien dura depuis le matin jusqu'au soir.</p> <p><sup>24</sup>Les uns furent persuadés par ce qu'il disait, et les autres ne crurent point.</p> <p><sup>25</sup>Comme ils se retiraient en désaccord, Paul n'ajouta que ces mots: C'est avec raison que le Saint Esprit, parlant à vos pères par le prophète Ésaïe, a dit:</p> <p><sup>26</sup>Va vers ce peuple, et dis: Vous entendrez de vos oreilles, et vous ne comprendrez point; Vous regarderez de vos yeux, et vous ne verrez point.</p> <p><sup>27</sup>Car le coeur de ce peuple est devenu insensible; Ils ont endurci leurs oreilles, et ils ont fermé leurs yeux, De peur qu'ils ne voient de leurs yeux, qu'ils n'entendent de leurs oreilles, Qu'ils ne comprennent de leur coeur, Qu'ils ne se convertissent, et que je ne les guérisse.</p> <p><sup>28</sup>Sachez donc que ce salut de Dieu a été envoyé aux païens, et qu'ils l'écouteront.</p> <p><sup>29</sup>Lorsqu'il eut dit cela, les Juifs s'en allèrent, discutant vivement entre eux.</p> <p><sup>30</sup>Paul demeura deux ans entiers dans une maison qu'il avait louée. Il recevait tous ceux qui venaient le voir,</p> <p><sup>31</sup>prêchant le royaume de Dieu et enseignant ce qui concerne le Seigneur Jésus Christ, en toute liberté et sans obstacle.</p>",
+        "url": "https://biblegateway.com/passage/?search=Actes%2028:11-31&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Actes 28:11-31",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_496-Acts7372-0-0",
+        "source": "arclight",
+        "refId": "2_496-Acts7372-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Actes 28:11-31",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_496-Acts7373-0-0",
+        "source": "arclight",
+        "refId": "2_496-Acts7373-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ? Pourquoi ?"
+          },
+          {
+            "text": "À ce niveau de l’histoire, qu’est-ce qui est nouveau ou est développé ?"
+          },
+          {
+            "text": "Quel modèle a été donné quant à la vie dépendante de l’Esprit, faire de disciples ou au leadership ?"
+          },
+          {
+            "text": "Comment pouvons-nous vivre différemment maintenant que nous connaissons cette histoire?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Des questions supplémentaires dont vous pouvez faire usage:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comment les disciples de Jésus poursuivent-ils Son œuvre de faire des disciples et d’implantation d’églises ?"
+          },
+          {
+            "text": "Comment l’évangile impacte-t-il les gens et la société ?"
+          },
+          {
+            "text": "Quels étaient les barrières et les obstacles qui ont été surmontés et comment ont-ils été surmontés ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Les croyants romains auraient reçu la lettre de Paul il y a 3 ans plus tôt. Paul a gardé le modèle qui est de commencer par les Juifs, leur donnant la preuve à partir de l'Écriture que Jésus est le Messie, puis de commencer à partager avec le peuple non juif. Le témoignage du dirigeant juif a donné un aperçu de l’expansion de l’Évangile, «nous savons que que cette secte rencontre partout de l’opposition» ({Actes 28:22}). Paul pouvait témoigner devant ses gardes romains et même des membres de la maison de César ont cru ({Philippiens 4:22}). Pendant son séjour à Rome, Paul a continué à coacher et à conseiller les croyants de Philippes, Colosse et Éphèse par la rédaction de lettres.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Actes 28:22",
+                    "label": "Actes 28:22",
+                    "passage": "<p><sup>22</sup>Mais nous voudrions apprendre de toi ce que tu penses, car nous savons que cette secte rencontre partout de l'opposition.</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Philippiens 4:22",
+                    "label": "Philippiens 4:22",
+                    "passage": "<p><sup>22</sup>Tous les saints vous saluent, et principalement ceux de la maison de César.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratiquez ici la libéralité et la sainte-cène ou dans la section Se préparer pour la mission.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se préparer pour la mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez des gens vers qui ou des endroits où vous pouvez prendre l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez des promesses « Je ferai d’ici quand » et partagez cela avec votre petit groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bénédiction (facultatif)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply354-i-will"
+      }
+    }
+  ]
+}

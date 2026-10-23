@@ -1,0 +1,464 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply250",
+  "sortOrder": 55,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louvar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia uma passagem das Escrituras e louvem com uma canção de adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">(Opcional) Jesus Cristo é o Senhor, para a gloria de Deus Pai. Ele deseja que todos os homens sejam salvos e cheguem ao pleno conhecimento da verdade. Porque há um só Deus e um único mediador entre Deus e os homens, o homem Jesus Cristo, que a si mesmo se entregou como resgate por todos. ({Filipenses 2:11}; {1 Timóteo 2:4-6}) </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>e declarem abertamente<br>que Jesus Cristo é o Senhor,<br>para a glória de Deus, o Pai.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timóteo 2:4-6",
+                    "label": "1 Timóteo 2:4-6",
+                    "passage": "<p><sup>4</sup>Ele quer que todos sejam salvos e venham a conhecer a verdade.</p><p><sup>5</sup>Pois existe um só Deus e uma só pessoa que une Deus com os seres humanos — o ser humano Cristo Jesus,<sup>6</sup>que deu a sua vida para que todos fiquem livres dos seus pecados. Esta foi a prova, dada no tempo certo, de que Deus quer que todos sejam salvos.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar sobre as necessidades dos demais em oração, conselho bíblico e ânimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça a cada pessoa que compartilhe acontecimento especial e um desafio que tenha experimentado nesta semana."
+          },
+          {
+            "text": "Pergunte: \"O que você deseja que Jesus faça por você nesta semana? Ore pelas necessidades dos demais."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<span style=\"background-color:white\"><span lang=\"PT-BR\">Pergunte: \"O que aconteceu quando você confiou em Deus sobre suas metas e suas declarações: Eu farei.... no dia......?\"</span></span>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Escolha uma maneira de dar a visão de quem eles podem chegar a ser em Cristo e o que Deus pode fazer através deles ao:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartilhar um versículo Bíblico que os faça lembrar o Coração do Pai e a visão final, ou"
+                  },
+                  {
+                    "text": "Refletir sobre as mudanças que aconteceram em suas vidas desde que começaram a seguir a Cristo, ou"
+                  },
+                  {
+                    "text": "recordar o que Deus quer fazer através deles."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Compartilhe a GRANDE visão de \"Uma igreja para cada cidade e comunidade, e o evangelho para cada pessoa”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Peça ao grupo que conte a história da semana passada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista João 19:31-42; 20:1-31 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "João 19:31-20:31",
+        "html": "<h3>Um soldado fura o lado de Jesus</h3> <p><sup>31 </sup>Então os líderes judeus pediram a Pilatos que mandasse quebrar as pernas dos que tinham sido crucificados e mandasse tirá-los das cruzes. Pediram isso porque era sexta-feira e não queriam que, no sábado, os corpos ainda estivessem nas cruzes. E aquele sábado era especialmente santo. <sup>32 </sup>Os soldados foram e quebraram as pernas do primeiro homem que tinha sido crucificado com Jesus e depois quebraram as pernas do outro. <sup>33 </sup>Mas, quando chegaram perto de Jesus, viram que ele já estava morto e não quebraram as suas pernas. <sup>34 </sup>Porém um dos soldados furou o lado de Jesus com uma lança. No mesmo instante saiu sangue e água.</p> <p><sup>35 </sup>Quem viu isso contou o que aconteceu para que vocês também creiam. O que ele disse é verdade, e ele sabe que fala a verdade. <sup>36 </sup>Isso aconteceu para que se cumprisse o que as Escrituras Sagradas dizem: “Nenhum dos seus ossos será quebrado.” <sup>37 </sup>E em outro lugar as Escrituras Sagradas dizem: “Eles olharão para aquele a quem atravessaram com a lança.”</p> <h3>O sepultamento de Jesus</h3> <p><sup>38 </sup>Depois disso, José, da cidade de Arimateia, pediu licença a Pilatos para levar o corpo de Jesus. (José era seguidor de Jesus, mas em segredo porque tinha medo dos líderes judeus.) Pilatos deu licença, e José foi e retirou o corpo de Jesus. <sup>39 </sup>Nicodemos, aquele que tinha ido falar com Jesus à noite, foi com José, levando uns trinta e cinco quilos de uma mistura de aloés e mirra. <sup>40 </sup>Os dois homens pegaram o corpo de Jesus e o enrolaram em lençóis nos quais haviam espalhado essa mistura. Era assim que os judeus preparavam os corpos dos mortos para serem sepultados.</p> <p><sup>41 </sup>No lugar onde Jesus tinha sido crucificado havia um jardim com um túmulo novo onde ninguém ainda tinha sido colocado. <sup>42 </sup>Puseram ali o corpo de Jesus porque o túmulo ficava perto e também porque o sábado dos judeus ia começar logo.</p> <h3>João 20:1-31</h3> <h3>O túmulo vazio</h3> <p><sup>1</sup> Domingo bem cedo, quando ainda estava escuro, Maria Madalena foi até o túmulo e viu que a pedra que tapava a entrada tinha sido tirada. <sup>2 </sup>Então foi correndo até o lugar onde estavam Simão Pedro e outro discípulo, aquele que Jesus amava, e disse:</p> <p>— Tiraram o Senhor Jesus do túmulo, e não sabemos onde o puseram!</p> <p><sup>3 </sup>Então Pedro e o outro discípulo foram até o túmulo. <sup>4 </sup>Os dois saíram correndo juntos, mas o outro correu mais depressa do que Pedro e chegou primeiro. <sup>5 </sup>Ele se abaixou para olhar lá dentro e viu os lençóis de linho; porém não entrou no túmulo. <sup>6 </sup>Mas Pedro, que chegou logo depois, entrou. Ele também viu os lençóis colocados ali <sup>7 </sup>e a faixa que tinham posto em volta da cabeça de Jesus. A faixa não estava junto com os lençóis, mas estava enrolada ali ao lado. <sup>8 </sup>Aí o outro discípulo, que havia chegado primeiro, também entrou no túmulo. Ele viu e creu. <sup>9 </sup>(Eles ainda não tinham entendido as Escrituras Sagradas, que dizem que era preciso que Jesus ressuscitasse.) <sup>10 </sup>E os dois voltaram para casa.</p> <h3>Jesus aparece a Maria Madalena</h3> <p><sup>11 </sup>Maria Madalena tinha ficado perto da entrada do túmulo, chorando. Enquanto chorava, ela se abaixou, olhou para dentro <sup>12 </sup>e viu dois anjos vestidos de branco, sentados onde tinha sido posto o corpo de Jesus. Um estava na cabeceira, e o outro, nos pés. <sup>13 </sup>Os anjos perguntaram:</p> <p>— Mulher, por que você está chorando?</p> <p>Ela respondeu:</p> <p>— Levaram embora o meu Senhor, e eu não sei onde o puseram!</p> <p><sup>14 </sup>Depois de dizer isso, ela virou para trás e viu Jesus ali de pé, mas não o reconheceu. <sup>15 </sup>Então Jesus perguntou:</p> <p>— Mulher, por que você está chorando? Quem é que você está procurando?</p> <p>Ela pensou que ele era o jardineiro e por isso respondeu:</p> <p>— Se o senhor o tirou daqui, diga onde o colocou, e eu irei buscá-lo.</p> <p><sup>16 </sup>— Maria! — disse Jesus.</p> <p>Ela virou e respondeu em hebraico:</p> <p>— “Rabôni!” (Esta palavra quer dizer “Mestre”.)</p> <p><sup>17 </sup>Jesus disse:</p> <p>— Não me segure, pois ainda não subi para o meu Pai. Vá se encontrar com os meus irmãos e diga a eles que eu vou subir para aquele que é o meu Pai e o Pai deles, o meu Deus e o Deus deles.</p> <p><sup>18 </sup>Então Maria Madalena foi e disse aos discípulos de Jesus:</p> <p>— Eu vi o Senhor!</p> <p>E contou o que Jesus lhe tinha dito.</p> <h3>Jesus aparece aos discípulos</h3> <p><sup>19 </sup>Naquele mesmo domingo, à tarde, os discípulos de Jesus estavam reunidos de portas trancadas, com medo dos líderes judeus. Então Jesus chegou, ficou no meio deles e disse:</p> <p>— Que a paz esteja com vocês!</p> <p><sup>20 </sup>Em seguida lhes mostrou as suas mãos e o seu lado. E eles ficaram muito alegres ao verem o Senhor. <sup>21 </sup>Então Jesus disse de novo:</p> <p>— Que a paz esteja com vocês! Assim como o Pai me enviou, eu também envio vocês.</p> <p><sup>22 </sup>Depois soprou sobre eles e disse:</p> <p>— Recebam o Espírito Santo. <sup>23 </sup>Se vocês perdoarem os pecados de alguém, esses pecados são perdoados; mas, se não perdoarem, eles não são perdoados.</p> <h3>Jesus e Tomé</h3> <p><sup>24 </sup>Acontece que Tomé, um dos discípulos, que era chamado de “o Gêmeo”, não estava com eles quando Jesus chegou. <sup>25 </sup>Então os outros discípulos disseram a Tomé:</p> <p>— Nós vimos o Senhor!</p> <p>Ele respondeu:</p> <p>— Se eu não vir o sinal dos pregos nas mãos dele, e não tocar ali com o meu dedo, e também se não puser a minha mão no lado dele, não vou crer!</p> <p><sup>26 </sup>Uma semana depois, os discípulos de Jesus estavam outra vez reunidos ali com as portas trancadas, e Tomé estava com eles. Jesus chegou, ficou no meio deles e disse:</p> <p>— Que a paz esteja com vocês!</p> <p><sup>27 </sup>Em seguida disse a Tomé:</p> <p>— Veja as minhas mãos e ponha o seu dedo nelas. Estenda a mão e ponha no meu lado. Pare de duvidar e creia!</p> <p><sup>28 </sup>Então Tomé exclamou:</p> <p>— Meu Senhor e meu Deus!</p> <p><sup>29 </sup>— Você creu porque me viu? — disse Jesus. — Felizes são os que não viram, mas assim mesmo creram!</p> <h3>A finalidade deste Evangelho</h3> <p><sup>30 </sup>Jesus fez diante dos discípulos muitos outros milagres que não estão escritos neste livro. <sup>31 </sup>Mas estes foram escritos para que vocês creiam que Jesus é o Messias, o Filho de Deus. E para que, crendo, tenham vida por meio dele.</p>",
+        "url": "https://biblegateway.com/passage/?search=John%2019:31-20:31&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "João 19:31-37",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2219",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2219",
+        "startTime": "7:39",
+        "endTime": "8:55",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "João 19:38-20:1-31",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2220",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2220",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que te chamou a atenção ou o que você mais gostou? Por quê?"
+          },
+          {
+            "text": "Existe algo novo ou algo que tenha desenvolvido até este ponto da história de Jesus?"
+          },
+          {
+            "text": "O que aprendemos sobre a humanidade ou a divindade de Jesus nessa passagem?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que conhecemos essa história?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Perguntas adicionais que você pode usar:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que estão aprendendo seus seguidores?"
+          },
+          {
+            "text": "O que Jesus está modelando sobre a vida, o ministério e a liderança piedosa?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Ele ressuscitou dos mortos! A Bíblia diz que a ressurreição de Jesus muda tudo. “Ora, se morremos com Cristo, cremos que também com ele viveremos. Pois sabemos que, tendo sido ressuscitado dos mortos, Cristo não pode morrer outra vez: a morte não tem mais domínio sobre ele. Porque morrendo, ele morreu para o pecado uma vez por todas; mas vivendo, vive para Deus. Da mesma forma, considerem-se mortos para o pecado, mas vivos para Deus em Cristo Jesus.” ({Romanos 6:8-11}). O poder de viver está no poder da vitória de Jesus sobre a morte. A ressurreição de Jesus nos dá poder para derrotar o pecado em nossas vidas quando nos entregamos ao poder transformador do Pai. O poder de Jesus e Sua ressurreição flui através de nós conforme colocamos de lado nossas vontades e permitimos que Jesus habite e viva através de nós. Liderança ressuscitada é a liderança que permite Jesus viver dentro e através de si. Liderar como Jesus é radicalmente diferente da liderança do mundo que procura promover a si mesmo e controlar outros",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Romanos 6:8-11",
+                    "label": "Romanos 6:8-11",
+                    "passage": "<p><sup>8</sup>Se já morremos com Cristo, cremos que também viveremos com ele.<sup>9</sup>Sabemos que Cristo foi ressuscitado e nunca mais morrerá, pois a morte não tem mais poder sobre ele.<sup>10</sup>A sua morte foi uma morte para o pecado e valeu de uma vez por todas. E a vida que ele vive agora é uma vida para Deus.<sup>11</sup>Assim também vocês devem se considerar mortos para o pecado; mas, por estarem unidos com Cristo Jesus, devem se considerar vivos para Deus.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Para Estudo Adicional: <a href=\"javascript:popUp('pop4')\">Lucas 23:50-24:49</a>; <a href=\"javascript:popUp('pop5')\">Mateus 27:57-28:15</a>; <a href=\"javascript:popUp('pop6')\">Marcos 15:42-16:18</a>",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratique ofertar e a comunhão aqui ou na sessão Preparar para a Missão.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pratique as habilidades necessárias ou assuntos prévios para te ajudar a preparar-se para ministrar aos demais:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar e Compartilhar"
+                  },
+                  {
+                    "text": "Compartilhar o Evangelho"
+                  },
+                  {
+                    "text": "Estudos Bíblicos Fundamentais"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique pessoas ou lugares onde tomará a iniciativa de ministrar nessa semana."
+          },
+          {
+            "text": "Escreva suas declarações de “Eu farei........ no dia ........” e compartilhe em seu pequeno grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Apresente as metas de todos ao Senhor. Peça ao Senhor que nos ajude a ser fiéis e que Ele nos use para iniciar um movimento de fazedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benção (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply250-i-will"
+      }
+    }
+  ]
+}

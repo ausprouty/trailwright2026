@@ -1,0 +1,398 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply236",
+  "sortOrder": 41,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lisez un passage biblique et exécutez un chant d’adoration."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la Fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Projection de Vision",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Jean 6:1-14 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Jean 6:1-14",
+        "html": "<p><sup>1</sup>Après cela, Jésus s'en alla de l'autre côté de la mer de Galilée, de Tibériade.</p> <p><sup>2</sup>Une grande foule le suivait, parce qu'elle voyait les miracles qu'il opérait sur les malades.</p> <p><sup>3</sup>Jésus monta sur la montagne, et là il s'assit avec ses disciples.</p> <p><sup>4</sup>Or, la Pâque était proche, la fête des Juifs.</p> <p><sup>5</sup>Ayant levé les yeux, et voyant qu'une grande foule venait à lui, Jésus dit à Philippe: Où achèterons-nous des pains, pour que ces gens aient à manger?</p> <p><sup>6</sup>Il disait cela pour l'éprouver, car il savait ce qu'il allait faire.</p> <p><sup>7</sup>Philippe lui répondit: Les pains qu'on aurait pour deux cents deniers ne suffiraient pas pour que chacun en reçût un peu.</p> <p><sup>8</sup>Un de ses disciples, André, frère de Simon Pierre, lui dit:</p> <p><sup>9</sup>Il y a ici un jeune garçon qui a cinq pains d'orge et deux poissons; mais qu'est-ce que cela pour tant de gens?</p> <p><sup>10</sup>Jésus dit: Faites-les asseoir. Il y avait dans ce lieu beaucoup d'herbe. Ils s'assirent donc, au nombre d'environ cinq mille hommes.</p> <p><sup>11</sup>Jésus prit les pains, rendit grâces, et les distribua à ceux qui étaient assis; il leur donna de même des poissons, autant qu'ils en voulurent.</p> <p><sup>12</sup>Lorsqu'ils furent rassasiés, il dit à ses disciples: Ramassez les morceaux qui restent, afin que rien ne se perde.</p> <p><sup>13</sup>Ils les ramassèrent donc, et ils remplirent douze paniers avec les morceaux qui restèrent des cinq pains d'orge, après que tous eurent mangé.</p> <p><sup>14</sup>Ces gens, ayant vu le miracle que Jésus avait fait, disaient: Celui-ci est vraiment le prophète qui doit venir dans le monde.</p>",
+        "url": "https://biblegateway.com/passage/?search=John%206:1-14&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Jean 6:1-14",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOJohn2206",
+        "source": "arclight",
+        "refId": "6_496-GOJohn2206",
+        "startTime": "start",
+        "endTime": "2:05",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de Découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Etudiez chaque passage en utilisant les questions de discussion suivantes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ?"
+          },
+          {
+            "text": "Qu’est ce qui est nouveau ou s’est développé à ce point de l’histoire de Jésus?"
+          },
+          {
+            "text": "Quelle implication du point de vue de l’humanité ou de la divinité de Jésus voyez-vous dans ce passage ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Questions supplémentaires que vous pouvez poser:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce que ses disciples apprennent?"
+          },
+          {
+            "text": "Qu’est-ce que Jésus est en train de nous montrer au sujet de sa vie et de son ministère (ou leadership) ?"
+          },
+          {
+            "text": "Qu’est ce que Jésus est en train de montrer au sujet du leadership empreint de piété ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jésus cherchait un endroit où se retirer avec ses leaders, mais le Père avait des plans différents. Alors qu'ils s'approchent du rivage, Jésus pouvait déjà voir de grandes foules se rassembler parce qu'ils ont vu les miracles que Jésus a faits. Jésus est ému de compassion pour eux parce qu'ils ressemblaient à des brebis sans berger. Jésus commence à enseigner la foule immense de 5 000 hommes, plus les femmes et les enfants. Jésus utilise la situation pour enseigner à Ses leaders la multiplication et la provision de Dieu en les mettant au défi de donner de la nourriture à la foule. Ils ont appris:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "ordered",
+                "items": [
+                  {
+                    "text": "à lever les yeux et à voir le besoin;"
+                  },
+                  {
+                    "text": "à permettre à leurs cœurs d'être émus de compassion;"
+                  },
+                  {
+                    "text": "à rassembler les ressources qu'ils avaient autour d'eux, quelqu'un devrait tout donner pour voir la multiplication se produire;"
+                  },
+                  {
+                    "text": "à s'organiser et voir le surnaturel se produire; d'offrir tout ce qu'ils ont à Dieu dans la foi avec action de grâces"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Pour une étude approfondie: {Luc 9:12-17}; {Matthieu 14:15-21}; {Marc 6:35-4}.",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Luc 9:12-17",
+                    "label": "Luc 9:12-17",
+                    "passage": "<p><sup>12</sup>Comme le jour commençait à baisser, les douze s'approchèrent, et lui dirent: Renvoie la foule, afin qu'elle aille dans les villages et dans les campagnes des environs, pour se loger et pour trouver des vivres; car nous sommes ici dans un lieu désert.</p><p><sup>13</sup>Jésus leur dit: Donnez-leur vous-mêmes à manger. Mais ils répondirent: Nous n'avons que cinq pains et deux poissons, à moins que nous n'allions nous-mêmes acheter des vivres pour tout ce peuple.</p><p><sup>14</sup>Or, il y avait environ cinq mille hommes. Jésus dit à ses disciples: Faites-les asseoir par rangées de cinquante.</p><p><sup>15</sup>Ils firent ainsi, ils les firent tous asseoir.</p><p><sup>16</sup>Jésus prit les cinq pains et les deux poissons, et, levant les yeux vers le ciel, il les bénit. Puis, il les rompit, et les donna aux disciples, afin qu'ils les distribuassent à la foule.</p><p><sup>17</sup>Tous mangèrent et furent rassasiés, et l'on emporta douze paniers pleins des morceaux qui restaient.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Matthieu 14:15-21",
+                    "label": "Matthieu 14:15-21",
+                    "passage": "<p><sup>15</sup>Le soir étant venu, les disciples s'approchèrent de lui, et dirent: Ce lieu est désert, et l'heure est déjà avancée; renvoie la foule, afin qu'elle aille dans les villages, pour s'acheter des vivres.</p><p><sup>16</sup>Jésus leur répondit: Ils n'ont pas besoin de s'en aller; donnez-leur vous-mêmes à manger.</p><p><sup>17</sup>Mais ils lui dirent: Nous n'avons ici que cinq pains et deux poissons.</p><p><sup>18</sup>Et il dit: Apportez-les-moi.</p><p><sup>19</sup>Il fit asseoir la foule sur l'herbe, prit les cinq pains et les deux poissons, et, levant les yeux vers le ciel, il rendit grâces. Puis, il rompit les pains et les donna aux disciples, qui les distribuèrent à la foule.</p><p><sup>20</sup>Tous mangèrent et furent rassasiés, et l'on emporta douze paniers pleins des morceaux qui restaient.</p><p><sup>21</sup>Ceux qui avaient mangé étaient environ cinq mille hommes, sans les femmes et les enfants.</p>"
+                  },
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Marc 6:35-4",
+                    "label": "Marc 6:35-4",
+                    "passage": "<p><sup>35</sup>Comme l'heure était déjà avancée, ses disciples s'approchèrent de lui, et dirent: Ce lieu est désert, et l'heure est déjà avancée;</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se Préparer pour la Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez 5 personnes de votre Liste de Réseau envers qui vous prendrez l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez les promesses « je le ferai d’ici quand » et parlez-en à votre groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply236-i-will"
+      }
+    }
+  ]
+}

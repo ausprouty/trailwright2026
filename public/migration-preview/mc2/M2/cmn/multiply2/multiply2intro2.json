@@ -1,0 +1,64 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply2intro2",
+  "sortOrder": 8,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"\" src=\"/sites/mc2/content/M2/cmn/multiply2/M2P2.png\"></span>"
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">这段时间始于公元</span><span lang=\"EN-US\">26</span><span lang=\"ZH-CN\">年中期，当时耶稣大约</span><span lang=\"EN-US\">30</span><span lang=\"ZH-CN\">岁，并持续了</span><span lang=\"EN-US\">18-21</span><span lang=\"ZH-CN\">个月。 耶稣从受洗，到开始公开传道、到首度接触群众（{约 1:35-44}<span lang=\"ZH-CN\">）</span> </span> <span lang=\"ZH-CN\"><span lang=\"ZH-CN\">逐渐增加，并寻找祂第一批跟随者和那些想更认识祂的群众（{约 4:1-4}）， </span></span> <span lang=\"ZH-CN\"><span lang=\"ZH-CN\">以祂在拿撒勒被家乡的人拒绝为结束（{路 4:16-31}）。 </span></span> <span><span><span lang=\"ZH-CN\">这时期的特点是奠定事工的基础。耶稣有意营造关系型的环境，以新的方式呼召人来作门徒。耶稣的事工从无到有，直至超越了施洗约翰的事工。（{约 4:1-3}； </span></span></span> <span><span><span lang=\"ZH-CN\">{太 4:12}； </span></span></span> <span><span><span lang=\"ZH-CN\">{路 3:19-20}）。 </span></span></span>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "约 1:35-44",
+            "label": "约 1:35-44",
+            "passage": "<span lang=\"ZH-CN\"><!-- begin bible --></span><h3><span lang=\"ZH-CN\">约翰的两个门徒跟从耶稣</span></h3><p><span lang=\"ZH-CN\"><sup>35</sup>再次日，<u class=\"person underline\">约翰</u>同两个门徒站在那里。<sup>36</sup>他见耶稣行走，就说：“看哪，这是神的羔羊！”<sup>37</sup>两个门徒听见他的话，就跟从了耶稣。<sup>38</sup>耶稣转过身来，看见他们跟着，就问他们说：“你们要什么？”他们说：“拉比，在哪里住？”（“拉比”翻出来就是“夫子”。）<sup>39</sup>耶稣说：“你们来看。”他们就去看他在哪里住，这一天便与他同住。那时约有申正了。<sup>40</sup>听见<u class=\"person underline\">约翰</u>的话跟从耶稣的那两个人，一个是<u class=\"person underline\">西门</u><u class=\"person underline\">彼得</u>的兄弟<u class=\"person underline\">安得烈</u>。<sup>41</sup>他先找着自己的哥哥<u class=\"person underline\">西门</u>，对他说：“我们遇见弥赛亚了！”（“弥赛亚”翻出来就是“基督”。）<sup>42</sup>于是领他去见耶稣。耶稣看着他说：“你是<u class=\"person underline\">约翰</u>的儿子<u class=\"person underline\">西门</u>，你要称为<u class=\"person underline\">矶法</u>。”（“<u class=\"person underline\">矶法</u>”翻出来就是“<u class=\"person underline\">彼得</u>”。）</span></p><span lang=\"ZH-CN\"></span><p><span lang=\"ZH-CN\"><sup>43</sup>又次日，耶稣想要往加利利去，遇见<u class=\"person underline\">腓力</u>，就对他说：“来跟从我吧！”<sup>44</sup>这<u class=\"person underline\">腓力</u>是伯赛大人，和<u class=\"person underline\">安得烈</u>、<u class=\"person underline\">彼得</u>同城。</span></p><span lang=\"ZH-CN\"><!-- end bible --></span>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "约 4:1-4",
+            "label": "约 4:1-4",
+            "passage": "<span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><!-- begin bible --></span></span><p><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><sup>1</sup>主知道法利赛人听见他收门徒施洗比<u class=\"person underline\">约翰</u>还多<sup>2</sup>（其实不是耶稣亲自施洗，乃是他的门徒施洗），<sup>3</sup>他就离了犹太，又往加利利去。<sup>4</sup>必须经过撒马利亚，</span></span></p><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><!-- end bible --></span></span>"
+          },
+          {
+            "id": "popup_pop3",
+            "marker": "路 4:16-31",
+            "label": "路 4:16-31",
+            "passage": "<span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><!-- begin bible --></span></span><h3><span lang=\"ZH-CN\"><span lang=\"ZH-CN\">耶稣在拿撒勒传道</span></span></h3><p><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><sup>16</sup>耶稣来到拿撒勒，就是他长大的地方，在安息日，照他平常的规矩进了会堂，站起来要念圣经。<sup>17</sup>有人把先知<u class=\"person underline\">以赛亚</u>的书交给他，他就打开，找到一处写着说：<sup>18</sup>“主的灵在我身上，因为他用膏膏我，叫我传福音给贫穷的人，差遣我报告被掳的得释放、瞎眼的得看见，叫那受压制的得自由，<sup>19</sup>报告神悦纳人的禧年。”<sup>20</sup>于是把书卷起来，交还执事，就坐下。会堂里的人都定睛看他。<sup>21</sup>耶稣对他们说：“今天这经应验在你们耳中了。”<sup>22</sup>众人都称赞他，并稀奇他口中所出的恩言，又说：“这不是<u class=\"person underline\">约瑟</u>的儿子吗？”<sup>23</sup>耶稣对他们说：“你们必引这俗语向我说：‘医生，你医治自己吧！我们听见你在迦百农所行的事，也当行在你自己家乡里！’”<sup>24</sup>又说：“我实在告诉你们：没有先知在自己家乡被人悦纳的。</span></span></p><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"></span></span><h3><span lang=\"ZH-CN\"><span lang=\"ZH-CN\">被撵出城</span></span></h3><p><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><sup>25</sup>“我对你们说实话，当<u class=\"person underline\">以利亚</u>的时候，天闭塞了三年零六个月，遍地有大饥荒，那时以色列中有许多寡妇，<sup>26</sup><u class=\"person underline\">以利亚</u>并没有奉差往她们一个人那里去，只奉差往西顿的撒勒法一个寡妇那里去。<sup>27</sup>先知<u class=\"person underline\">以利沙</u>的时候，以色列中有许多长大麻风的，但内中除了叙利亚国的<u class=\"person underline\">乃缦</u>，没有一个得洁净的。”<sup>28</sup>会堂里的人听见这话，都怒气满胸，<sup>29</sup>就起来撵他出城。他们的城造在山上。他们带他到山崖，要把他推下去。<sup>30</sup>他却从他们中间直行，过去了。</span></span></p><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"></span></span><p><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><sup>31</sup>耶稣下到迦百农，就是加利利的一座城，在安息日教训众人。</span></span></p><span lang=\"ZH-CN\"><span lang=\"ZH-CN\"><!-- end bible --></span></span>"
+          },
+          {
+            "id": "popup_pop4",
+            "marker": "约 4:1-3",
+            "label": "约 4:1-3",
+            "passage": "<span><span><span lang=\"ZH-CN\"><!-- begin bible --></span></span></span><p><span><span><span lang=\"ZH-CN\"><sup>1</sup>主知道法利赛人听见他收门徒施洗比<u class=\"person underline\">约翰</u>还多<sup>2</sup>（其实不是耶稣亲自施洗，乃是他的门徒施洗），<sup>3</sup>他就离了犹太，又往加利利去。</span></span></span></p><span><span><span lang=\"ZH-CN\"><!-- end bible --></span></span></span>"
+          },
+          {
+            "id": "popup_pop5",
+            "marker": "太 4:12",
+            "label": "太 4:12",
+            "passage": "<span><span><span lang=\"ZH-CN\"><!-- begin bible --></span></span></span><p><span><span><span lang=\"ZH-CN\"><sup>12</sup>耶稣听见<u class=\"person underline\">约翰</u>下了监，就退到加利利去；</span></span></span></p><span><span><span lang=\"ZH-CN\"><!-- end bible --></span></span></span>"
+          },
+          {
+            "id": "popup_pop6",
+            "marker": "路 3:19-20",
+            "label": "路 3:19-20",
+            "passage": "<span><span><span lang=\"ZH-CN\"><!-- begin bible --></span></span></span><p><span><span><span lang=\"ZH-CN\"><sup>19</sup>只是分封的王<u class=\"person underline\">希律</u>因他兄弟之妻<u class=\"person underline\">希罗底</u>的缘故，并因他所行的一切恶事，受了<u class=\"person underline\">约翰</u>的责备，<sup>20</sup>又另外添了一件，就是把<u class=\"person underline\">约翰</u>收在监里。</span></span></span></p><span><span><span lang=\"ZH-CN\"><!-- end bible --></span></span></span>"
+          }
+        ],
+        "isOpen": false
+      }
+    }
+  ]
+}

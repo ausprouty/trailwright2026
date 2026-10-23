@@ -1,0 +1,367 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "zzz",
+  "htmlLang": "zzz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply104",
+  "sortOrder": 4,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Psalm 29:2 “Give honour to the Lord and worship Him in the glory of His holiness.” Let’s pause and give honour to the Lord by praising Him."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What is one highlight from this week?"
+          },
+          {
+            "text": "What is one challenge from this past week?"
+          },
+          {
+            "text": "What do you want Jesus to do for you this week?"
+          },
+          {
+            "text": "Pray for each other’s needs."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating God's Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What happened as you trusted God with your goals and <em>I will</em> statements?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "The Lord not only loves us, He has a vision for our lives. What is that vision? It is to be like Christ. {Romans 8:29} says that His plan is that we all conform to the image of Christ, to experience and reflect the Father like Christ did. And the great news is that this work of Christlikeness is God’s work. {Philippians 1:6} promises that He who began this good work in you, will be faithful to complete it! Be encouraged that God will work in your life to become like Christ.",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Romans 8:29",
+                    "label": "Romans 8:29",
+                    "passage": "<p><sup>29</sup>For those God foreknew he also predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers and sisters.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Philippians 1:6",
+                    "label": "Philippians 1:6",
+                    "passage": "<p><sup>6</sup>being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Context",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "A follower of Jesus named Philip had been sharing the gospel with people in an area of Israel called Samaria. The Lord interrupted his ministry and told him to go south along the road leading toward Egypt. When he arrived, he found an African leader who was traveling back to his home country. This story tells us what happened."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Read or watch Acts 8:34-40<strong> </strong>two times as everyone listens"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Acts 8:34-40",
+        "html": "<p><sup>34 </sup>The eunuch asked Philip, “Tell me, please, who is the prophet talking about, himself or someone else?”<sup>35</sup>Then Philip began with that very passage of Scripture and told him the good news about Jesus.</p> <p><sup>36</sup>As they traveled along the road, they came to some water and the eunuch said, “Look, here is water. What can stand in the way of my being baptized?”<sup>[37]</sup><sup>38</sup>And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water and Philip baptized him.<sup>39</sup>When they came up out of the water, the Spirit of the Lord suddenly took Philip away, and the eunuch did not see him again, but went on his way rejoicing.<sup>40</sup>Philip, however, appeared at Azotus and traveled about, preaching the gospel in all the towns until he reached Caesarea.</p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%208:34-40&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Acts 8:34-40",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7322-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7322-0-0",
+        "startTime": "1:39",
+        "endTime": "2:41",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What caught your attention (or what did you like best) and why?"
+          },
+          {
+            "text": "What did you learn about Jesus?"
+          },
+          {
+            "text": "What did you learn about people?"
+          },
+          {
+            "text": "How will you obey Jesus now that you know this?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Read {Matthew 3:13-17}. Jesus himself was baptized and modelled it to His followers. Ever since the time of Christ, everyone who begins to follow Him has made this commitment. Our willingness to be baptized shows others that there has been a real change in our lives. It symbolizes our bold identification with the death and resurrection of Jesus ({Romans 6:4-5}).",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Matthew 3:13-17",
+                    "label": "Matthew 3:13-17",
+                    "passage": "<p><sup>13</sup>Then Jesus came from Galilee to the Jordan to be baptized by John.<sup>14</sup>But John tried to deter him, saying, “I need to be baptized by you, and do you come to me?”</p><p><sup>15</sup>Jesus replied, “Let it be so now; it is proper for us to do this to fulfill all righteousness.” Then John consented.</p><p><sup>16</sup>As soon as Jesus was baptized, he went up out of the water. At that moment heaven was opened, and he saw the Spirit of God descending like a dove and alighting on him.<sup>17</sup>And a voice from heaven said, “This is my Son, whom I love; with him I am well pleased.”</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Romans 6:4-5",
+                    "label": "Romans 6:4-5",
+                    "passage": "<p><sup>4</sup>We were therefore buried with him through baptism into death in order that, just as Christ was raised from the dead through the glory of the Father, we too may live a new life.</p><p><sup>5</sup>For if we have been united with him in a death like his, we will certainly also be united with him in a resurrection like his</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparing for Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"forward\">The Holy Spirit is working in the lives of people you know to draw them to Jesus. The Holy Spirit wants to express the love of the Father through you so they can experience Jesus and connect with Him personally. The daily act of pray, care, share is the first step in this process ({Acts 17:27}). </li> <li>Use your daisy chain over the next month to love, pray, and care daily. Write down anything you learn during this process.</li>",
+                "references": [
+                  {
+                    "id": "popup_pop5",
+                    "marker": "Acts 17:27",
+                    "label": "Acts 17:27",
+                    "passage": "<p><sup>27</sup>God did this so that they would seek him and perhaps reach out for him and find him, though he is not far from any one of us.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identify 5 people from your Network List with whom you will tell the story or share the gospel with this week."
+          },
+          {
+            "text": "If someone wants to be baptized, set a time to do this."
+          },
+          {
+            "text": "Write “I will by when” statements and tell them to your group."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying for the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply104-i-will"
+      }
+    }
+  ]
+}

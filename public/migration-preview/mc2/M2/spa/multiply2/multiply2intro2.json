@@ -1,0 +1,95 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply2intro2",
+  "sortOrder": 8,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"\" src=\"/sites/mc2/content/M2/spa/images/custom/Period2.png\" style=\"width:100%\"></span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Alrededor de la primavera 26 d.C - finales del 27 d.C."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Establecer como base una relación centrada en Dios para hacer discípulos.",
+        "level": 3
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<span lang=\"es\">Este período comienza a mediados del año 26 d.C cuando Jesús tiene aproximadamente 30 años y dura de 18 a 21 meses. El ministerio público de Jesús inicia con su bautismo y luego crece constantemente a través de los contactos iniciales que hizo ({Juan 1:35-44}), </span> encontrando a sus primeros seguidores y a la multitud que se reúne para saber más de Él ({Juan 4:1-4}).",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Juan 1:35-44",
+            "label": "Juan 1:35-44",
+            "passage": "<h3>Los primeros discípulos de Jesús</h3><p><sup>35</sup>Al día siguiente Juan estaba de nuevo allí, con dos de sus discípulos.<sup>36</sup>Al ver a Jesús que pasaba por ahí, dijo:</p><p>—¡Aquí tienen al Cordero de Dios!</p><p><sup>37</sup>Cuando los dos discípulos le oyeron decir esto, siguieron a Jesús.<sup>38</sup>Jesús se volvió y, al ver que lo seguían, les preguntó:</p><p>—¿Qué buscan?</p><p>—Rabí, ¿dónde te hospedas? (Rabí significa: Maestro).</p><p><sup>39</sup>—Vengan a ver —les contestó Jesús.</p><p>Ellos fueron, pues, y vieron dónde se hospedaba, y aquel mismo día se quedaron con él. Eran como las cuatro de la tarde.</p><p><sup>40</sup>Andrés, hermano de Simón Pedro, era uno de los dos que, al oír a Juan, habían seguido a Jesús.<sup>41</sup>Andrés encontró primero a su hermano Simón, y le dijo:</p><p>—Hemos encontrado al Mesías (es decir, el Cristo).</p><p><sup>42</sup>Luego lo llevó a Jesús, quien, mirándolo fijamente, le dijo:</p><p>—Tú eres Simón, hijo de Juan. Serás llamado Cefas (es decir, Pedro).</p><p><sup>43</sup>Al día siguiente, Jesús decidió salir hacia Galilea. Se encontró con Felipe, y lo llamó:</p><p>—Sígueme.</p><p><sup>44</sup>Felipe era del pueblo de Betsaida, lo mismo que Andrés y Pedro.</p>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "Juan 4:1-4",
+            "label": "Juan 4:1-4",
+            "passage": "<p><sup>1</sup>Jesús se enteró de que los fariseos sabían que él estaba haciendo y bautizando más discípulos que Juan<sup>2</sup>(aunque en realidad no era Jesús quien bautizaba, sino sus discípulos).<sup>3</sup>Por eso se fue de Judea y volvió otra vez a Galilea.<sup>4</sup>Como tenía que pasar por Samaria,</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "Termina con su primer rechazo en su pueblo natal de Nazaret ({Lucas 4:16-31}).",
+        "references": [
+          {
+            "id": "popup_pop3",
+            "marker": "Lucas 4:16-31",
+            "label": "Lucas 4:16-31",
+            "passage": "<div><p><sup>16</sup>Fue a Nazaret, donde se había criado, y un sábado entró en la sinagoga, como era su costumbre. Se levantó para hacer la lectura,<sup>17</sup>y le entregaron el libro del profeta Isaías. Al desenrollarlo, encontró el lugar donde está escrito:</p><p><sup>18</sup>«El Espíritu del Señor está sobre mí,<br>por cuanto me ha ungido<br>para anunciar buenas nuevas a los pobres.<br>Me ha enviado a proclamar libertad a los cautivos<br>y dar vista a los ciegos,<br>a poner en libertad a los oprimidos,<br><sup>19</sup>a pregonar el año del favor del Señor».</p></div><p><sup>20</sup>Luego enrolló el libro, se lo devolvió al ayudante y se sentó. Todos los que estaban en la sinagoga lo miraban detenidamente,<sup>21</sup>y él comenzó a hablarles: «Hoy se cumple esta Escritura en presencia de ustedes».</p><p><sup>22</sup>Todos dieron su aprobación, impresionados por las hermosas palabras que salían de su boca. «¿No es este el hijo de José?», se preguntaban.</p><p><sup>23</sup>Jesús continuó: «Seguramente ustedes me van a citar el proverbio: “¡Médico, cúrate a ti mismo! Haz aquí en tu tierra lo que hemos oído que hiciste en Capernaúm”.<sup>24</sup>Pues bien, les aseguro que a ningún profeta lo aceptan en su propia tierra.<sup>25</sup>No cabe duda de que en tiempos de Elías, cuando el cielo se cerró por tres años y medio, de manera que hubo una gran hambre en toda la tierra, muchas viudas vivían en Israel.<sup>26</sup>Sin embargo, Elías no fue enviado a ninguna de ellas, sino a una viuda de Sarepta, en los alrededores de Sidón.<sup>27</sup>Así mismo, había en Israel muchos enfermos de lepra en tiempos del profeta Eliseo, pero ninguno de ellos fue sanado, sino Naamán el sirio».</p><p><sup>28</sup>Al oír esto, todos los que estaban en la sinagoga se enfurecieron.<sup>29</sup>Se levantaron, lo expulsaron del pueblo y lo llevaron hasta la cumbre de la colina sobre la que estaba construido el pueblo, para tirarlo por el precipicio.<sup>30</sup>Pero él pasó por en medio de ellos y se fue.</p><p><sup>31</sup>Jesús pasó a Capernaúm, un pueblo de Galilea, y el día sábado enseñaba a la gente.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<span><span><span><span lang=\"es\"><span>Este período se caracteriza por el establecimiento de los fundamentos del ministerio. Jesús crea intencionalmente un entorno relacional en el que reúne a las personas como seguidores del nuevo camino. El ministerio de Jesús comienza de la nada y crece con el tiempo hasta superar el tamaño del ministerio de Juan el Bautista ({Juan 4:1-3}; </span></span></span></span></span> {Lucas 3:19-20}; {Mateo 4:12}).",
+        "references": [
+          {
+            "id": "popup_pop4",
+            "marker": "Juan 4:1-3",
+            "label": "Juan 4:1-3",
+            "passage": "<p><sup>1</sup>Jesús se enteró de que los fariseos sabían que él estaba haciendo y bautizando más discípulos que Juan<sup>2</sup>(aunque en realidad no era Jesús quien bautizaba, sino sus discípulos).<sup>3</sup>Por eso se fue de Judea y volvió otra vez a Galilea.</p>"
+          },
+          {
+            "id": "popup_pop6",
+            "marker": "Lucas 3:19-20",
+            "label": "Lucas 3:19-20",
+            "passage": "<p><sup>19</sup>Pero, cuando reprendió al tetrarca Herodes por el asunto de su cuñada Herodías, y por todas las otras maldades que había cometido,<sup>20</sup>Herodes llegó hasta el colmo de encerrar a Juan en la cárcel.</p>"
+          },
+          {
+            "id": "popup_pop5",
+            "marker": "Mateo 4:12",
+            "label": "Mateo 4:12",
+            "passage": "<p><sup>12</sup>Cuando Jesús oyó que habían encarcelado a Juan, regresó a Galilea.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    }
+  ]
+}

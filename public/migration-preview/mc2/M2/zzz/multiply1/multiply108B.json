@@ -1,0 +1,390 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "zzz",
+  "htmlLang": "zzz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply108B",
+  "sortOrder": 8,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Read <span class=\"bible-link\">Psalm 92:1-2</span> and sing 1-2 songs"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What is one highlight from this week?"
+          },
+          {
+            "text": "What is one challenge from this past week?"
+          },
+          {
+            "text": "What do you want Jesus to do for you this week?"
+          },
+          {
+            "text": "Pray for each other’s needs."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating God's Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What happened as you trusted God with your goals and <em>I will</em> statements?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "All of us face fears. Even Jesus’ best leaders found in the bible faced fears. One of the young leaders who struggled with fears was Timothy. His mentor, Paul, encouraged him by reminded him of the gift of the Holy Spirit in his life. Paul wrote to him in a letter, “God did not give us a spirit of fear, but a spirit of power, of love and of self-discipline. (2 Timothy 1:7). Because this is true, we do not have to be ashamed or afraid to talk about Jesus and what he has done for us. Let’s keep encouraging each other to live by what is true of us."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Context",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "As Jesus trained his disciples for ministry, he taught them many spiritual principles about the Kingdom of God. These teachings were given in parables. On one occasion, Jesus shared a parable that described how the Kingdom of God grows."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Read or watch Mark 4:26-29 two times as everyone listens."
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Mark 4:26-29",
+        "html": "<div> <p><sup>26</sup>He also said, “This is what the kingdom of God is like. A man scatters seed on the ground.<sup>27</sup>Night and day, whether he sleeps or gets up, the seed sprouts and grows, though he does not know how.<sup>28</sup>All by itself the soil produces grain—first the stalk, then the head, then the full kernel in the head.<sup>29</sup>As soon as the grain is ripe, he puts the sickle to it, because the harvest has come.”</p> </div>",
+        "url": "https://biblegateway.com/passage/?search=Mark%204:26-29&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Mark 4:26-29",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMark1503",
+        "source": "arclight",
+        "refId": "6_529-GOMark1503",
+        "startTime": "6:48",
+        "endTime": "7:16",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What caught your attention (or what did you like best) and why?"
+          },
+          {
+            "text": "What did you learn about Jesus?"
+          },
+          {
+            "text": "What did you learn about people?"
+          },
+          {
+            "text": "How will you obey Jesus now that you know this?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "[Use the 4 Fields diagram to explain]"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<img alt=\"4 fields kingdom growth process\" src=\"/sites/mc2/content/M2/eng/images/custom/4fields_complete.jpg\" width=\"100%\">"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "From this story we learn that there is a process of how the Kingdom Grows. It can be illustrated by 4 kinds of fields."
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Field 1 – the farmer goes to an empty field (this is called entry strategy)."
+                  },
+                  {
+                    "text": "Field 2 – the farmer sows seed (this is called evangelism)."
+                  },
+                  {
+                    "text": "Field 3 – the seed grows (this is called discipleship)."
+                  },
+                  {
+                    "text": "Field 4 – the harvest is gathered together (this is called church or group formation)."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus also shared that there is an unseen actor behind the scenes causing the growth (we know this to be the Holy Spirit). Both the farmer and Spirit work together. This parable helps us understand what the Kingdom of God is like."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparing for Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Practice telling the story and drawing the 4 fields Kingdom Growth Process."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<img alt=\"\" src=\"/sites/mc2/content/M2/eng/images/custom/4fields.png\" style=\"height:155px; width:200px\">"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Update your Network List with names of additional people if needed."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identify 5 people from your Network List with whom you can pray and care for using the Amazing Question."
+          },
+          {
+            "text": "Write “I will by when” statements and share with your small group."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying for the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply108B-i-will"
+      }
+    }
+  ]
+}

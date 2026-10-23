@@ -1,0 +1,447 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply233",
+  "sortOrder": 38,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Opcional) Jesucristo es el Señor, para la gloria de Dios Padre. Él quiere que todos los hombres sean salvos y lleguen al conocimiento de la verdad. Porque hay un solo Dios y un mediador también entre Dios y el hombre, el hombre Jesucristo, que se entregó a sí mismo como rescate por todos. ({Filipenses 2:11}; {1 Timoteo 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>y toda lengua confiese que Jesucristo es el Señor,<br>para gloria de Dios Padre.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timoteo 2:4-6",
+                    "label": "1 Timoteo 2:4-6",
+                    "passage": "<p><sup>4</sup>pues él quiere que todos sean salvos y lleguen a conocer la verdad.<sup>5</sup>Porque hay un solo Dios y un solo mediador entre Dios y los hombres, Jesucristo hombre,<sup>6</sup>quien dio su vida como rescate por todos. Este testimonio Dios lo ha dado a su debido tiempo,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar las necesidades de los demás en oración, consejo bíblico y ánimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunte: \"¿Qué pasó cuando confiaste en Dios tus metas y tus declaraciones: Yo haré… cuándo…?\""
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y estímulo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Elija una manera de proyectar visión de quiénes pueden llegar a ser en Cristo o lo que Dios puede hacer a través de ellos al:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartir un versículo Bíblico que les recuerde el Corazón del Padre y la visión final, o"
+                  },
+                  {
+                    "text": "reflexionando sobre los cambios en su vida desde que comenzaron a seguir a Cristo, o"
+                  },
+                  {
+                    "text": "recordándoles lo que Dios quiere hacer a través de ellos."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Comparta la GRAN visión de \"Una iglesia para cada ciudad y comunidad, y el Evangelio para cada persona”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídale al grupo que cuente la historia de la semana pasada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Marcos 5:1-20</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Marcos 5:1-20",
+        "html": "<h3>Liberación de un endemoniado</h3> <p><sup>1</sup>Cruzaron el lago hasta llegar a la región de los gerasenos.<sup>2</sup>Tan pronto como desembarcó Jesús, un hombre poseído por un espíritu maligno le salió al encuentro de entre los sepulcros.<sup>3</sup>Este hombre vivía en los sepulcros, y ya nadie podía sujetarlo, ni siquiera con cadenas.<sup>4</sup>Muchas veces lo habían atado con cadenas y grilletes, pero él los destrozaba, y nadie tenía fuerza para dominarlo.<sup>5</sup>Noche y día andaba por los sepulcros y por las colinas, gritando y golpeándose con piedras.</p> <p><sup>6</sup>Cuando vio a Jesús desde lejos, corrió y se postró delante de él.</p> <p><sup>7</sup>—¿Por qué te entrometes, Jesús, Hijo del Dios Altísimo? —gritó con fuerza—. ¡Te ruego por Dios que no me atormentes!</p> <p><sup>8</sup>Es que Jesús le había dicho: «¡Sal de este hombre, espíritu maligno!»</p> <p><sup>9</sup>—¿Cómo te llamas? —le preguntó Jesús.</p> <p>—Me llamo Legión —respondió—, porque somos muchos.</p> <p><sup>10</sup>Y con insistencia le suplicaba a Jesús que no los expulsara de aquella región.</p> <p><sup>11</sup>Como en una colina estaba paciendo una manada de muchos cerdos, los demonios le rogaron a Jesús:</p> <p><sup>12</sup>—Mándanos a los cerdos; déjanos entrar en ellos.</p> <p><sup>13</sup>Así que él les dio permiso. Cuando los espíritus malignos salieron del hombre, entraron en los cerdos, que eran unos dos mil, y la manada se precipitó al lago por el despeñadero y allí se ahogó.</p> <p><sup>14</sup>Los que cuidaban los cerdos salieron huyendo y dieron la noticia en el pueblo y por los campos, y la gente fue a ver lo que había pasado.<sup>15</sup>Llegaron adonde estaba Jesús y, cuando vieron al que había estado poseído por la legión de demonios, sentado, vestido y en su sano juicio, tuvieron miedo.<sup>16</sup>Los que habían presenciado estos hechos le contaron a la gente lo que había sucedido con el endemoniado y con los cerdos.<sup>17</sup>Entonces la gente comenzó a suplicarle a Jesús que se fuera de la región.</p> <p><sup>18</sup>Mientras subía Jesús a la barca, el que había estado endemoniado le rogaba que le permitiera acompañarlo.<sup>19</sup>Jesús no se lo permitió, sino que le dijo:</p> <p>—Vete a tu casa, a los de tu familia, y diles todo lo que el Señor ha hecho por ti y cómo te ha tenido compasión.</p> <p><sup>20</sup>Así que el hombre se fue y se puso a proclamar en Decápolis lo mucho que Jesús había hecho por él. Y toda la gente se quedó asombrada.</p>",
+        "url": "https://biblegateway.com/passage/?search=Marcos%205:1-20&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Marcos 5:1-20",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_21028-GOMark1504",
+        "source": "arclight",
+        "refId": "6_21028-GOMark1504",
+        "startTime": "0:01",
+        "endTime": "3:00",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discusión de descubrimiento",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención o qué es lo que más te gustó? ¿Por qué?"
+          },
+          {
+            "text": "¿Hay algo nuevo o algo que ha desarrollado hasta este punto de la historia de Jesús?"
+          },
+          {
+            "text": "¿Qué aprendemos acerca de la humanidad o divinidad de Jesús en este pasaje?"
+          },
+          {
+            "text": "¿Cómo podemos vivir de manera diferente ahora que conocemos esta historia?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Preguntas adicionales que puede utilizar:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué están aprendiendo sus seguidores?"
+          },
+          {
+            "text": "¿Qué es lo que Jesús nos está modelando acerca de la vida, el ministerio o el liderazgo piadoso?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesús lleva a sus líderes en entrenamiento fuera de su zona de confort a la región gentil de Decápolis, al otro lado del lago. Este era otro país. Esta área en particular es conocida por la oscuridad espiritual debido a un hombre salvaje y violento poseído por demonios que aterrorizó la zona. Vivió en el exilio al margen de la sociedad entre las tumbas. En este \"viaje misionero al extranjero\" Jesús modela a su equipo de liderazgo Su corazón para todas las personas, Su misión al mundo entero, y la realidad de que nadie está más allá del poder de Jesús para salvar. Este hombre poseído por el demonio parece ser la razón principal por la que el Padre llevó a Jesús a hacer este viaje. No sólo se transforma el hombre, sino que se convierte en una persona de paz muy improbable enviada a testificar de Jesús a su familia y amigos. Jesús transforma la vida de una persona que a su vez se convierte en el iniciado para compartir el Evangelio en una población completamente nueva."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Para mayor estudio {Lucas 8:26-39}.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Lucas 8:26-39",
+                    "label": "Lucas 8:26-39",
+                    "passage": "<p><sup>26</sup>Navegaron hasta la región de los gerasenos, que está al otro lado del lago, frente a Galilea.<sup>27</sup>Al desembarcar Jesús, un endemoniado que venía del pueblo le salió al encuentro. Hacía mucho tiempo que este hombre no se vestía; tampoco vivía en una casa, sino en los sepulcros.<sup>28</sup>Cuando vio a Jesús, dio un grito y se arrojó a sus pies. Entonces exclamó con fuerza:</p><p>—¿Por qué te entrometes, Jesús, Hijo del Dios Altísimo? ¡Te ruego que no me atormentes!</p><p><sup>29</sup>Es que Jesús le había ordenado al espíritu maligno que saliera del hombre. Se había apoderado de él muchas veces y, aunque le sujetaban los pies y las manos con cadenas y lo mantenían bajo custodia, rompía las cadenas y el demonio lo arrastraba a lugares solitarios.</p><p><sup>30</sup>—¿Cómo te llamas? —le preguntó Jesús.</p><p>—Legión —respondió, ya que habían entrado en él muchos demonios.</p><p><sup>31</sup>Y estos le suplicaban a Jesús que no los mandara al abismo.<sup>32</sup>Como había una manada grande de cerdos paciendo en la colina, le rogaron a Jesús que los dejara entrar en ellos. Así que él les dio permiso.<sup>33</sup>Y, cuando los demonios salieron del hombre, entraron en los cerdos, y la manada se precipitó al lago por el despeñadero y se ahogó.</p><p><sup>34</sup>Al ver lo sucedido, los que cuidaban los cerdos huyeron y dieron la noticia en el pueblo y por los campos,<sup>35</sup>y la gente salió a ver lo que había pasado. Llegaron adonde estaba Jesús y encontraron, sentado a sus pies, al hombre de quien habían salido los demonios. Cuando lo vieron vestido y en su sano juicio, tuvieron miedo.<sup>36</sup>Los que habían presenciado estas cosas le contaron a la gente cómo el endemoniado había sido sanado.<sup>37</sup>Entonces toda la gente de la región de los gerasenos le pidió a Jesús que se fuera de allí, porque les había entrado mucho miedo. Así que él subió a la barca para irse.</p><p><sup>38</sup>Ahora bien, el hombre de quien habían salido los demonios le rogaba que le permitiera acompañarlo, pero Jesús lo despidió y le dijo:</p><p><sup>39</sup>—Vuelve a tu casa y cuenta todo lo que Dios ha hecho por ti.</p><p>Así que el hombre se fue y proclamó por todo el pueblo lo mucho que Jesús había hecho por él.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practique la entrega y la comunión aquí o en la sección Preparación para la Misión</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Practique las habilidades necesarias o temas previos para ayudar a prepararse para ministrar a los demás:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar, Compartir"
+                  },
+                  {
+                    "text": "Compartir el Evangelio"
+                  },
+                  {
+                    "text": "Estudios Bíblicos Fundacionales"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica personas o lugares a los que tomarás la iniciativa de ministrar esta semana."
+          },
+          {
+            "text": "Escriba sus declaraciones de “Yo haré…para cuando…” y compártala en su pequeño grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos con el Señor. Pídele al Señor que nos ayude a ser fieles y úsanos para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bendición (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply233-i-will"
+      }
+    }
+  ]
+}

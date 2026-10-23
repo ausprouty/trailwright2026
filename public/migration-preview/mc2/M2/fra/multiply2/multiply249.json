@@ -1,0 +1,409 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply249",
+  "sortOrder": 54,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lisez un passage biblique et exécutez un chant d’adoration."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la Fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Projection de Vision",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Jean 19:13-30; Matthieu 27:45-46 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Jean 19:13-30",
+        "html": "<p><sup>13</sup>Pilate, ayant entendu ces paroles, amena Jésus dehors; et il s'assit sur le tribunal, au lieu appelé le Pavé, et en hébreu Gabbatha.</p> <p><sup>14</sup>C'était la préparation de la Pâque, et environ la sixième heure. Pilate dit aux Juifs: Voici votre roi.</p> <p><sup>15</sup>Mais ils s'écrièrent: Ote, ôte, crucifie-le! Pilate leur dit: Crucifierai-je votre roi? Les principaux sacrificateurs répondirent: Nous n'avons de roi que César.</p> <p><sup>16</sup>Alors il le leur livra pour être crucifié. Ils prirent donc Jésus, et l'emmenèrent.</p> <p><sup>17</sup>Jésus, portant sa croix, arriva au lieu du crâne, qui se nomme en hébreu Golgotha.</p> <p><sup>18</sup>C'est là qu'il fut crucifié, et deux autres avec lui, un de chaque côté, et Jésus au milieu.</p> <p><sup>19</sup>Pilate fit une inscription, qu'il plaça sur la croix, et qui était ainsi conçue: Jésus de Nazareth, roi des Juifs.</p> <p><sup>20</sup>Beaucoup de Juifs lurent cette inscription, parce que le lieu où Jésus fut crucifié était près de la ville: elle était en hébreu, en grec et en latin.</p> <p><sup>21</sup>Les principaux sacrificateurs des Juifs dirent à Pilate: N'écris pas: Roi des Juifs. Mais écris qu'il a dit: Je suis roi des Juifs.</p> <p><sup>22</sup>Pilate répondit: Ce que j'ai écrit, je l'ai écrit.</p> <p><sup>23</sup>Les soldats, après avoir crucifié Jésus, prirent ses vêtements, et ils en firent quatre parts, une part pour chaque soldat. Ils prirent aussi sa tunique, qui était sans couture, d'un seul tissu depuis le haut jusqu'en bas. Et ils dirent entre eux:</p> <p><sup>24</sup>Ne la déchirons pas, mais tirons au sort à qui elle sera. Cela arriva afin que s'accomplît cette parole de l'Écriture: Ils se sont partagé mes vêtements, Et ils ont tiré au sort ma tunique. Voilà ce que firent les soldats.</p> <p><sup>25</sup>Près de la croix de Jésus se tenaient sa mère et la soeur de sa mère, Marie, femme de Clopas, et Marie de Magdala.</p> <p><sup>26</sup>Jésus, voyant sa mère, et auprès d'elle le disciple qu'il aimait, dit à sa mère: Femme, voilà ton fils.</p> <p><sup>27</sup>Puis il dit au disciple: Voilà ta mère. Et, dès ce moment, le disciple la prit chez lui.</p> <p><sup>28</sup>Après cela, Jésus, qui savait que tout était déjà consommé, dit, afin que l'Écriture fût accomplie: J'ai soif.</p> <p><sup>29</sup>Il y avait là un vase plein de vinaigre. Les soldats en remplirent une éponge, et, l'ayant fixée à une branche d'hysope, ils l'approchèrent de sa bouche.</p> <p><sup>30</sup>Quand Jésus eut pris le vinaigre, il dit: Tout est accompli. Et, baissant la tête, il rendit l'esprit.</p>",
+        "url": "https://biblegateway.com/passage/?search=John%2019:13-30&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Jean 19:13-30",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOJohn2219",
+        "source": "arclight",
+        "refId": "6_496-GOJohn2219",
+        "startTime": "1:51",
+        "endTime": "7:05",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthieu 27:45-46",
+        "html": "<p><sup>45</sup>Depuis la sixième heure jusqu'à la neuvième, il y eut des ténèbres sur toute la terre.</p> <p><sup>46</sup>Et vers la neuvième heure, Jésus s'écria d'une voix forte: Éli, Éli, lama sabachthani? c'est-à-dire: Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné?</p>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%2027:45-46&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Matthieu 27:45-46",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOMatt2524",
+        "source": "arclight",
+        "refId": "6_496-GOMatt2524",
+        "startTime": "2:26",
+        "endTime": "2:54",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de Découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Etudiez chaque passage en utilisant les questions de discussion suivantes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ?"
+          },
+          {
+            "text": "Qu’est ce qui est nouveau ou s’est développé à ce point de l’histoire de Jésus?"
+          },
+          {
+            "text": "Quelle implication du point de vue de l’humanité ou de la divinité de Jésus voyez-vous dans ce passage ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Questions supplémentaires que vous pouvez poser:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce que ses disciples apprennent?"
+          },
+          {
+            "text": "Qu’est-ce que Jésus est en train de nous montrer au sujet de sa vie et de son ministère (ou leadership) ?"
+          },
+          {
+            "text": "Qu’est ce que Jésus est en train de montrer au sujet du leadership empreint de piété ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Jésus a été trahi, ils ont menti sur Lui, a été traité injustement, battu, fouetté et finalement cloué à une croix pour mourir entre deux criminels. Dans son humanité, Jésus a beaucoup souffert dans ces dernières heures de la vie. Dieu a placé le péché du monde sur Jésus comme un substitut innocent pour nous. Jésus a souffert la séparation du Père pour la première fois. Il a été abandonné par le Père, qui a tourné le dos à Jésus parce qu'il portait tout le poids du péché du monde. L'Agneau de la Pâque de Dieu a fait couler son sang et déchiré le voile du temple. Jésus était le dernier sacrifice. Maintenant nous avons accès au Dieu vivant. Ceux qui croient ont été adoptés dans cette nouvelle famille. Il a tracé un chemin vers le Père. Il a donné sa vie pour payer notre dette. Sur la croix, un grand échange s'est produit: « Celui qui n’a point connu le péché, Il l’a fait devenir péché pour nous, afin que nous devenions en Lui justice de Dieu. » ({2 Corinthiens 5:21})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "2 Corinthiens 5:21",
+                    "label": "2 Corinthiens 5:21",
+                    "passage": "<p><sup>21</sup>Celui qui n'a point connu le péché, il l'a fait devenir péché pour nous, afin que nous devenions en lui justice de Dieu.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Pour une étude approfondie: {Luc 23:26-49}; {Matthieu 27:27-56}; {Marc 15:16-41}.",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Luc 23:26-49",
+                    "label": "Luc 23:26-49",
+                    "passage": "<p><sup>26</sup>Comme ils l'emmenaient, ils prirent un certain Simon de Cyrène, qui revenait des champs, et ils le chargèrent de la croix, pour qu'il la porte derrière Jésus.</p><p><sup>27</sup>Il était suivi d'une grande multitude des gens du peuple, et de femmes qui se frappaient la poitrine et se lamentaient sur lui.</p><p><sup>28</sup>Jésus se tourna vers elles, et dit: Filles de Jérusalem, ne pleurez pas sur moi; mais pleurez sur vous et sur vos enfants.</p><p><sup>29</sup>Car voici, des jours viendront où l'on dira: Heureuses les stériles, heureuses les entrailles qui n'ont point enfanté, et les mamelles qui n'ont point allaité!</p><p><sup>30</sup>Alors ils se mettront à dire aux montagnes: Tombez sur nous! Et aux collines: Couvrez-nous!</p><p><sup>31</sup>Car, si l'on fait ces choses au bois vert, qu'arrivera-t-il au bois sec?</p><p><sup>32</sup>On conduisait en même temps deux malfaiteurs, qui devaient être mis à mort avec Jésus.</p><p><sup>33</sup>Lorsqu'ils furent arrivés au lieu appelé Crâne, ils le crucifièrent là, ainsi que les deux malfaiteurs, l'un à droite, l'autre à gauche.</p><p><sup>34</sup>Jésus dit: Père, pardonne-leur, car ils ne savent ce qu'ils font. Ils se partagèrent ses vêtements, en tirant au sort.</p><p><sup>35</sup>Le peuple se tenait là, et regardait. Les magistrats se moquaient de Jésus, disant: Il a sauvé les autres; qu'il se sauve lui-même, s'il est le Christ, l'élu de Dieu!</p><p><sup>36</sup>Les soldats aussi se moquaient de lui; s'approchant et lui présentant du vinaigre,</p><p><sup>37</sup>ils disaient: Si tu es le roi des Juifs, sauve-toi toi-même!</p><p><sup>38</sup>Il y avait au-dessus de lui cette inscription: Celui-ci est le roi des Juifs.</p><p><sup>39</sup>L'un des malfaiteurs crucifiés l'injuriait, disant: N'es-tu pas le Christ? Sauve-toi toi-même, et sauve-nous!</p><p><sup>40</sup>Mais l'autre le reprenait, et disait: Ne crains-tu pas Dieu, toi qui subis la même condamnation?</p><p><sup>41</sup>Pour nous, c'est justice, car nous recevons ce qu'ont mérité nos crimes; mais celui-ci n'a rien fait de mal.</p><p><sup>42</sup>Et il dit à Jésus: Souviens-toi de moi, quand tu viendras dans ton règne.</p><p><sup>43</sup>Jésus lui répondit: Je te le dis en vérité, aujourd'hui tu seras avec moi dans le paradis.</p><p><sup>44</sup>Il était déjà environ la sixième heure, et il y eut des ténèbres sur toute la terre, jusqu'à la neuvième heure.</p><p><sup>45</sup>Le soleil s'obscurcit, et le voile du temple se déchira par le milieu.</p><p><sup>46</sup>Jésus s'écria d'une voix forte: Père, je remets mon esprit entre tes mains. Et, en disant ces paroles, il expira.</p><p><sup>47</sup>Le centenier, voyant ce qui était arrivé, glorifia Dieu, et dit: Certainement, cet homme était juste.</p><p><sup>48</sup>Et tous ceux qui assistaient en foule à ce spectacle, après avoir vu ce qui était arrivé, s'en retournèrent, se frappant la poitrine.</p><p><sup>49</sup>Tous ceux de la connaissance de Jésus, et les femmes qui l'avaient accompagné depuis la Galilée, se tenaient dans l'éloignement et regardaient ce qui se passait.</p>"
+                  },
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Matthieu 27:27-56",
+                    "label": "Matthieu 27:27-56",
+                    "passage": "<p><sup>27</sup>Les soldats du gouverneur conduisirent Jésus dans le prétoire, et ils assemblèrent autour de lui toute la cohorte.</p><p><sup>28</sup>Ils lui ôtèrent ses vêtements, et le couvrirent d'un manteau écarlate.</p><p><sup>29</sup>Ils tressèrent une couronne d'épines, qu'ils posèrent sur sa tête, et ils lui mirent un roseau dans la main droite; puis, s'agenouillant devant lui, ils le raillaient, en disant: Salut, roi des Juifs!</p><p><sup>30</sup>Et ils crachaient contre lui, prenaient le roseau, et frappaient sur sa tête.</p><p><sup>31</sup>Après s'être ainsi moqués de lui, ils lui ôtèrent le manteau, lui remirent ses vêtements, et l'emmenèrent pour le crucifier.</p><p><sup>32</sup>Lorsqu'ils sortirent, ils rencontrèrent un homme de Cyrène, appelé Simon, et ils le forcèrent à porter la croix de Jésus.</p><p><sup>33</sup>Arrivés au lieu nommé Golgotha, ce qui signifie lieu du crâne,</p><p><sup>34</sup>ils lui donnèrent à boire du vin mêlé de fiel; mais, quand il l'eut goûté, il ne voulut pas boire.</p><p><sup>35</sup>Après l'avoir crucifié, ils se partagèrent ses vêtements, en tirant au sort, afin que s'accomplît ce qui avait été annoncé par le prophète: Ils se sont partagé mes vêtements, et ils ont tiré au sort ma tunique.</p><p><sup>36</sup>Puis ils s'assirent, et le gardèrent.</p><p><sup>37</sup>Pour indiquer le sujet de sa condamnation, on écrivit au-dessus de sa tête: Celui-ci est Jésus, le roi des Juifs.</p><p><sup>38</sup>Avec lui furent crucifiés deux brigands, l'un à sa droite, et l'autre à sa gauche.</p><p><sup>39</sup>Les passants l'injuriaient, et secouaient la tête,</p><p><sup>40</sup>en disant: Toi qui détruis le temple, et qui le rebâtis en trois jours, sauve-toi toi-même! Si tu es le Fils de Dieu, descends de la croix!</p><p><sup>41</sup>Les principaux sacrificateurs, avec les scribes et les anciens, se moquaient aussi de lui, et disaient:</p><p><sup>42</sup>Il a sauvé les autres, et il ne peut se sauver lui-même! S'il est roi d'Israël, qu'il descende de la croix, et nous croirons en lui.</p><p><sup>43</sup>Il s'est confié en Dieu; que Dieu le délivre maintenant, s'il l'aime. Car il a dit: Je suis Fils de Dieu.</p><p><sup>44</sup>Les brigands, crucifiés avec lui, l'insultaient de la même manière.</p><p><sup>45</sup>Depuis la sixième heure jusqu'à la neuvième, il y eut des ténèbres sur toute la terre.</p><p><sup>46</sup>Et vers la neuvième heure, Jésus s'écria d'une voix forte: Éli, Éli, lama sabachthani? c'est-à-dire: Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné?</p><p><sup>47</sup>Quelques-un de ceux qui étaient là, l'ayant entendu, dirent: Il appelle Élie.</p><p><sup>48</sup>Et aussitôt l'un d'eux courut prendre une éponge, qu'il remplit de vinaigre, et, l'ayant fixée à un roseau, il lui donna à boire.</p><p><sup>49</sup>Mais les autres disaient: Laisse, voyons si Élie viendra le sauver.</p><p><sup>50</sup>Jésus poussa de nouveau un grand cri, et rendit l'esprit.</p><p><sup>51</sup>Et voici, le voile du temple se déchira en deux, depuis le haut jusqu'en bas, la terre trembla, les rochers se fendirent,</p><p><sup>52</sup>les sépulcres s'ouvrirent, et plusieurs corps des saints qui étaient morts ressuscitèrent.</p><p><sup>53</sup>Étant sortis des sépulcres, après la résurrection de Jésus, ils entrèrent dans la ville sainte, et apparurent à un grand nombre de personnes.</p><p><sup>54</sup>Le centenier et ceux qui étaient avec lui pour garder Jésus, ayant vu le tremblement de terre et ce qui venait d'arriver, furent saisis d'une grande frayeur, et dirent: Assurément, cet homme était Fils de Dieu.</p><p><sup>55</sup>Il y avait là plusieurs femmes qui regardaient de loin; qui avaient accompagné Jésus depuis la Galilée, pour le servir.</p><p><sup>56</sup>Parmi elles étaient Marie de Magdala, Marie, mère de Jacques et de Joseph, et la mère des fils de Zébédée.</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Marc 15:16-41",
+                    "label": "Marc 15:16-41",
+                    "passage": "<p><sup>16</sup>Les soldats conduisirent Jésus dans l'intérieur de la cour, c'est-à-dire, dans le prétoire, et ils assemblèrent toute la cohorte.</p><p><sup>17</sup>Ils le revêtirent de pourpre, et posèrent sur sa tête une couronne d'épines, qu'ils avaient tressée.</p><p><sup>18</sup>Puis ils se mirent à le saluer: Salut, roi des Juifs!</p><p><sup>19</sup>Et ils lui frappaient la tête avec un roseau, crachaient sur lui, et, fléchissant les genoux, ils se prosternaient devant lui.</p><p><sup>20</sup>Après s'être ainsi moqués de lui, ils lui ôtèrent la pourpre, lui remirent ses vêtements, et l'emmenèrent pour le crucifier.</p><p><sup>21</sup>Ils forcèrent à porter la croix de Jésus un passant qui revenait des champs, Simon de Cyrène, père d'Alexandre et de Rufus;</p><p><sup>22</sup>et ils conduisirent Jésus au lieu nommé Golgotha, ce qui signifie lieu du crâne.</p><p><sup>23</sup>Ils lui donnèrent à boire du vin mêlé de myrrhe, mais il ne le prit pas.</p><p><sup>24</sup>Ils le crucifièrent, et se partagèrent ses vêtements, en tirant au sort pour savoir ce que chacun aurait.</p><p><sup>25</sup>C'était la troisième heure, quand ils le crucifièrent.</p><p><sup>26</sup>L'inscription indiquant le sujet de sa condamnation portait ces mots: Le roi des Juifs.</p><p><sup>27</sup>Ils crucifièrent avec lui deux brigands, l'un à sa droite, et l'autre à sa gauche.</p><p><sup>28</sup>Ainsi fut accompli ce que dit l'Écriture: Il a été mis au nombre des malfaiteurs.</p><p><sup>29</sup>Les passants l'injuriaient, et secouaient la tête, en disant: Hé! toi qui détruis le temple, et qui le rebâtis en trois jours,</p><p><sup>30</sup>sauve-toi toi-même, en descendant de la croix!</p><p><sup>31</sup>Les principaux sacrificateurs aussi, avec les scribes, se moquaient entre eux, et disaient: Il a sauvé les autres, et il ne peut se sauver lui-même!</p><p><sup>32</sup>Que le Christ, le roi d'Israël, descende maintenant de la croix, afin que nous voyions et que nous croyions! Ceux qui étaient crucifiés avec lui l'insultaient aussi.</p><p><sup>33</sup>La sixième heure étant venue, il y eut des ténèbres sur toute la terre, jusqu'à la neuvième heure.</p><p><sup>34</sup>Et à la neuvième heure, Jésus s'écria d'une voix forte: Éloï, Éloï, lama sabachthani? ce qui signifie: Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné?</p><p><sup>35</sup>Quelques-uns de ceux qui étaient là, l'ayant entendu, dirent: Voici, il appelle Élie.</p><p><sup>36</sup>Et l'un d'eux courut remplir une éponge de vinaigre, et, l'ayant fixée à un roseau, il lui donna à boire, en disant: Laissez, voyons si Élie viendra le descendre.</p><p><sup>37</sup>Mais Jésus, ayant poussé un grand cri, expira.</p><p><sup>38</sup>Le voile du temple se déchira en deux, depuis le haut jusqu'en bas.</p><p><sup>39</sup>Le centenier, qui était en face de Jésus, voyant qu'il avait expiré de la sorte, dit: Assurément, cet homme était Fils de Dieu.</p><p><sup>40</sup>Il y avait aussi des femmes qui regardaient de loin. Parmi elles étaient Marie de Magdala, Marie, mère de Jacques le mineur et de Joses, et Salomé,</p><p><sup>41</sup>qui le suivaient et le servaient lorsqu'il était en Galilée, et plusieurs autres qui étaient montées avec lui à Jérusalem.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se Préparer pour la Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez 5 personnes de votre Liste de Réseau envers qui vous prendrez l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez les promesses « je le ferai d’ici quand » et parlez-en à votre groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply249-i-will"
+      }
+    }
+  ]
+}

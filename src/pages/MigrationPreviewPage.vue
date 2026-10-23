@@ -11,6 +11,10 @@ const route = useRoute();
 const router = useRouter();
 
 const site = computed(() => String(route.params.site || 'myfriends'));
+const siteOptions = [
+  { label: 'MyFriends', value: 'myfriends' },
+  { label: 'MC2', value: 'mc2' },
+];
 const country = computed(() => String(route.params.country || 'AU'));
 const language = computed(() => String(route.params.language || 'eng'));
 const series = computed(() => String(route.params.series || 'life'));
@@ -25,7 +29,10 @@ const previewIndexUrl = computed(() => {
 });
 
 const liveLessonUrl = computed(() => {
-  return `https://myfriends.network/content/${country.value}/${language.value}/${series.value}/${lesson.value}.html`;
+  const domain =
+    site.value === 'mc2' ? 'app.mc2.online' : 'myfriends.network';
+
+  return `https://${domain}/content/${country.value}/${language.value}/${series.value}/${lesson.value}.html`;
 });
 const rawLessonUrl = computed(() => {
   return `/migration-raw/${site.value}/${country.value}/${language.value}/${series.value}/${lesson.value}.html`;
@@ -137,6 +144,85 @@ async function goToPreview(
       error instanceof Error ? error.message : 'Preview navigation failed';
   }
 }
+
+async function goToSite(targetSite: string): Promise<void> {
+  try {
+    errorMessage.value = '';
+
+    const response = await fetch(
+      `/migration-preview/${targetSite}/index.json`,
+      { cache: 'no-store' },
+    );
+
+    if (!response.ok) {
+      throw new Error(
+        `Could not load ${targetSite}/index.json (${response.status})`,
+      );
+    }
+
+    const tree = (await response.json()) as MigrationPreviewIndex;
+
+
+    const targetCountry =
+      targetSite === 'mc2' ? 'M2' : Object.keys(tree)[0];
+
+    if (!targetCountry) {
+      throw new Error(`No countries found for ${targetSite}`);
+    }
+
+    const languages = tree[targetCountry] ?? {};
+    const targetLanguage = Object.keys(languages)[0];
+
+    if (!targetLanguage) {
+      throw new Error(
+        `No languages found for ${targetSite}/${targetCountry}`,
+      );
+    }
+
+    const targetSeries = languages[targetLanguage]?.[0];
+
+    if (!targetSeries) {
+      throw new Error(
+        `No series found for ${targetSite}/${targetCountry}/${targetLanguage}`,
+      );
+    }
+
+    const indexUrl =
+      `/migration-preview/${targetSite}/${targetCountry}/${targetLanguage}/${targetSeries}/index.json`;
+
+    const lessonResponse = await fetch(indexUrl, {
+      cache: 'no-store',
+    });
+
+    if (!lessonResponse.ok) {
+      throw new Error(`Could not load ${indexUrl}`);
+    }
+
+    const lessons = (await lessonResponse.json()) as string[];
+    const firstLesson = lessons.find(
+      (item) => typeof item === 'string',
+    );
+
+    if (!firstLesson) {
+      throw new Error(`No lessons found in ${indexUrl}`);
+    }
+
+    await router.push({
+      path: `/migration-preview/${targetSite}/${targetCountry}/${targetLanguage}/${targetSeries}/${firstLesson}`,
+    });
+  } catch (error) {
+    console.error('Site navigation failed:', error);
+    errorMessage.value =
+      error instanceof Error ? error.message : 'Site navigation failed';
+  }
+}
+
+const selectedSite = computed({
+  get: () => site.value,
+  set: (targetSite: string) => {
+    void goToSite(targetSite);
+  },
+});
 
 const selectedCountry = computed({
   get: () => country.value,
@@ -306,38 +392,17 @@ onMounted(() => {
           {{ site }}/{{ country }}/{{ language }}/{{ series }}/{{ lesson }}
         </div>
 
-        <q-select
-          v-model="selectedCountry"
-          dense
-          outlined
-          emit-value
-          map-options
-          :options="countryOptions"
-          label="Country"
-          class="migration-preview-page__small-select"
-        />
+        <q-select v-model="selectedSite" dense outlined emit-value map-options :options="siteOptions" label="Site"
+          class="migration-preview-page__small-select" />
 
-        <q-select
-          v-model="selectedLanguage"
-          dense
-          outlined
-          emit-value
-          map-options
-          :options="languageOptions"
-          label="Language"
-          class="migration-preview-page__small-select"
-        />
+        <q-select v-model="selectedCountry" dense outlined emit-value map-options :options="countryOptions"
+          :disable="site === 'mc2'" label="Country" class="migration-preview-page__small-select" />
 
-        <q-select
-          v-model="selectedSeries"
-          dense
-          outlined
-          emit-value
-          map-options
-          :options="seriesOptions"
-          label="Series"
-          class="migration-preview-page__small-select"
-        />
+        <q-select v-model="selectedLanguage" dense outlined emit-value map-options :options="languageOptions"
+          label="Language" class="migration-preview-page__small-select" />
+
+        <q-select v-model="selectedSeries" dense outlined emit-value map-options :options="seriesOptions" label="Series"
+          class="migration-preview-page__small-select" />
 
         <div class="migration-preview-page__actions">
           <q-btn dense label="Prev" :disable="!hasPrevious" @click="goPrevious" />
@@ -355,42 +420,24 @@ onMounted(() => {
       <div v-else class="migration-preview-page__grid">
         <section v-if="content" class="migration-preview-page__panel">
           <h4>Generated JSON</h4>
-          <a
-            :href="rawLessonUrl"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="migration-preview-page__link"
-          >
+          <a :href="rawLessonUrl" target="_blank" rel="noopener noreferrer" class="migration-preview-page__link">
             See Source
           </a>
           <pre>{{ prettyJson }}</pre>
         </section>
 
-        <section
-          v-if="content"
-          :dir="content.direction"
-          :lang="content.htmlLang"
-          :data-number-system="content.numberSystem"
-          class="migration-preview-page__panel"
-        >
+        <section v-if="content" :dir="content.direction" :lang="content.htmlLang"
+          :data-number-system="content.numberSystem" class="migration-preview-page__panel">
           <h4>Rendered Preview</h4>
 
-          <EditorJsContent
-            v-if="editorJsContent"
-            :content="editorJsContent"
-            :resolve-block-component="resolveSharedBlockComponent"
-          />
+          <EditorJsContent v-if="editorJsContent" :content="editorJsContent"
+            :resolve-block-component="resolveSharedBlockComponent" />
         </section>
 
         <section class="migration-preview-page__panel">
           <h4>
             Live Website —
-            <a
-              :href="liveLessonUrl"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="migration-preview-page__link"
-            >
+            <a :href="liveLessonUrl" target="_blank" rel="noopener noreferrer" class="migration-preview-page__link">
               Open in new tab
             </a>
           </h4>
@@ -444,6 +491,7 @@ onMounted(() => {
   overflow: auto;
   min-height: 80vh;
 }
+
 .migration-preview-page__link {
   font-size: 1rem;
   margin-left: 8px;
@@ -451,6 +499,7 @@ onMounted(() => {
   text-decoration: underline;
   cursor: pointer;
 }
+
 .migration-preview-page__panel pre {
   white-space: pre-wrap;
   word-break: break-word;
@@ -486,6 +535,7 @@ onMounted(() => {
 .migration-preview-page__panel[data-number-system='taml'] :deep(ol) {
   list-style-type: tamil;
 }
+
 .migration-preview-page__panel[data-number-system='arab'] :deep(ol) {
   list-style-type: arabic-indic;
   direction: rtl;
@@ -495,9 +545,11 @@ onMounted(() => {
 .migration-preview-page__panel[data-number-system='arab'] :deep(li::marker) {
   direction: rtl;
 }
+
 .migration-preview-page__small-select {
   min-width: 110px;
 }
+
 :deep(.paragraph-block.for-enrichment) {
   margin: 1rem 0;
   padding: 0.75rem 1rem;

@@ -1,0 +1,360 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply244",
+  "sortOrder": 49,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lisez un passage biblique et exécutez un chant d’adoration."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la Fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Projection de Vision",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Luc 12:1-12 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luc 12:1-12",
+        "html": "<p><sup>1</sup>Sur ces entrefaites, les gens s'étant rassemblés par milliers, au point de se fouler les uns les autres, Jésus se mit à dire à ses disciples: Avant tout, gardez-vous du levain des pharisiens, qui est l'hypocrisie.</p> <p><sup>2</sup>Il n'y a rien de caché qui ne doive être découvert, ni de secret qui ne doive être connu.</p> <p><sup>3</sup>C'est pourquoi tout ce que vous aurez dit dans les ténèbres sera entendu dans la lumière, et ce que vous aurez dit à l'oreille dans les chambres sera prêché sur les toits.</p> <p><sup>4</sup>Je vous dis, à vous qui êtes mes amis: Ne craignez pas ceux qui tuent le corps et qui, après cela, ne peuvent rien faire de plus.</p> <p><sup>5</sup>Je vous montrerai qui vous devez craindre. Craignez celui qui, après avoir tué, a le pouvoir de jeter dans la géhenne; oui, je vous le dis, c'est lui que vous devez craindre.</p> <p><sup>6</sup>Ne vend-on pas cinq passereaux pour deux sous? Cependant, aucun d'eux n'est oublié devant Dieu.</p> <p><sup>7</sup>Et même les cheveux de votre tête sont tous comptés. Ne craignez donc point: vous valez plus que beaucoup de passereaux.</p> <p><sup>8</sup>Je vous le dis, quiconque me confessera devant les hommes, le Fils de l'homme le confessera aussi devant les anges de Dieu;</p> <p><sup>9</sup>mais celui qui me reniera devant les hommes sera renié devant les anges de Dieu.</p> <p><sup>10</sup>Et quiconque parlera contre le Fils de l'homme, il lui sera pardonné; mais à celui qui blasphémera contre le Saint Esprit il ne sera point pardonné.</p> <p><sup>11</sup>Quand on vous mènera devant les synagogues, les magistrats et les autorités, ne vous inquiétez pas de la manière dont vous vous défendrez ni de ce que vous direz;</p> <p><sup>12</sup>car le Saint Esprit vous enseignera à l'heure même ce qu'il faudra dire.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%2012:1-12&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luc 12:1-12",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOLuke2613",
+        "source": "arclight",
+        "refId": "6_496-GOLuke2613",
+        "startTime": "start",
+        "endTime": "1:57",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de Découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Etudiez chaque passage en utilisant les questions de discussion suivantes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ?"
+          },
+          {
+            "text": "Qu’est ce qui est nouveau ou s’est développé à ce point de l’histoire de Jésus?"
+          },
+          {
+            "text": "Quelle implication du point de vue de l’humanité ou de la divinité de Jésus voyez-vous dans ce passage ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Questions supplémentaires que vous pouvez poser:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce que ses disciples apprennent?"
+          },
+          {
+            "text": "Qu’est-ce que Jésus est en train de nous montrer au sujet de sa vie et de son ministère (ou leadership) ?"
+          },
+          {
+            "text": "Qu’est ce que Jésus est en train de montrer au sujet du leadership empreint de piété ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Au cours des six derniers mois, Jésus a établi une nette différence entre le type de leadership qu'Il attend et le type de leadership que ses disciples ont eu comme modèle en grandissant. Il souligne comment le leadership dont font preuve les leaders d'Israël n'est pas ce que le leadership devrait être dans le Royaume. Il utilise l'illustration du levain qui se répand à travers la pâte pour faire du pain comme un exemple de ce qu'il faut éviter. Il y a deux types, le levain des pharisiens et le levain des sadducéens. Les pharisiens enseignaient une chose mais en faisaient une autre, ils étaient hypocrites. Le levain des sadducéens se trouve dans la façon dont ils ont endurci leur cœur pour recevoir la vérité. Ils croyaient à tort que la résurrection des morts ne pouvait pas se produire et qu'il n'y avait pas d'anges ou de démons ({Actes 23: 8}). Jésus a expliqué qu'ils étaient dans l'erreur mais ils voulaient juste se disputer.",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Actes 23: 8",
+                    "label": "Actes 23: 8",
+                    "passage": "<p><sup>8</sup>Car les sadducéens disent qu'il n'y a point de résurrection, et qu'il n'existe ni ange ni esprit, tandis que les pharisiens affirment les deux choses.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se Préparer pour la Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez 5 personnes de votre Liste de Réseau envers qui vous prendrez l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez les promesses « je le ferai d’ici quand » et parlez-en à votre groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply244-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro6",
+  "sortOrder": 49,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong>Representando el Movimiento de Jesús [57- 62 d.C.]</strong>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"\" src=\"/sites/mc2/content/M2/spa/multiply3/Trip4.webp\"></span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Después de sentar las bases de 6-7 centros de movimiento en toda la parte oriental del Imperio Romano, el papel de Pablo ahora cambia a oportunidades para defender la fe. Este período está marcado por largos viajes, prisión, circunstancias peligrosas y defensas legales ante los más altos líderes del gobierno en Judea y Roma."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Cartas escritas durante este período:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Colosenses, 60-62 d.C."
+          },
+          {
+            "text": "Filemón, 60-62 d.C."
+          },
+          {
+            "text": "Efesios, 60-62 d.C."
+          },
+          {
+            "text": "Filipenses, 60-62 d.C."
+          }
+        ]
+      }
+    }
+  ]
+}

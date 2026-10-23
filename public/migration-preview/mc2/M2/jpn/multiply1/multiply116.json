@@ -1,0 +1,361 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "jpn",
+  "htmlLang": "ja",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply116",
+  "sortOrder": 16,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "振り返ろう",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "賛美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "御言葉を読んで、賛美の歌を練習する。"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"bible-link\">へブル4章14〜16節</span>を読んでから、歌をもって賛美する。"
+                  },
+                  {
+                    "text": "（任意で）<span class=\"bible-link\">ピリピ2章11節後半</span>や、<span class=\"bible-link\">第一テモテ2章4〜6節前半</span>などにある、イエスさまに関する信仰告白の言葉を用いて、主を賛美する。"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "お互いに支え合う",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "祈り、御言葉に基づいた助言、また励ましをもって、互いの必要に応え合う。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "今週あったことの中で最もうれしかったことと、困難だったことを互いに分かち合う。"
+          },
+          {
+            "text": "今週、イエスさまがどんなことをしてくださると期待しているのか分かち合い、互いの必要のために祈り合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "神さまの誠実さを喜ぶ",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "イエスさまに従っていくように、愛をもって励まし合う。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "自分の目標と、「私は、〜までに〜をする」という形式で書き出した決意を神さまに委ねた結果、どのようなことが起こったかを聞き合い分かち合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "動機づけと励まし",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "キリストにあって、私たちはどのような者に変えられることができるのか、また神さまが私たちを通してどんなことをすることができるのか、ビジョンを投げかける。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "イエスさまはある日、人々に福音を伝えるために、弟子たちを周辺の村々に送り出しました。弟子たちは戻ってくると、神さまが自分たちを通してなされたあらゆることを喜び、「主よ。あなたの御名を用いると、悪霊どもでさえ私たちに服従します」とうれしそうに報告しました。イエスさまは彼らと共に喜ばれたあと、「霊どもがあなたがたに服従することを喜ぶのではなく、あなたがたの名が天に書き記されていることを喜びなさい」（<span class=\"bible-link\">ルカ10章17〜20節</span>）と語られました。イエスさまは、私たちの喜びは何かの結果によってもたらされるものではなく、主を知っていることそのものにあると教えられたのです。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "見上げよう",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "背景",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "初代教会の信徒たちは、互いに仕え合い、助け合っていました。彼らは定期的に集まり、多くの新しい人々がキリストを信じるようになりました。迫害がやってくると、彼らは自分たちが大胆に福音を語れるようにと祈り、主は彼らが大胆に福音を語れるよう助けられました。この話は、エルサレムの信者たちが、どれほど互いに献身し合っていたかを教えてくれます。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "読む",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"https://www.seisho.or.jp/bible_3/act/#act-4\" target=\"_blank\">使徒の働き4章32〜37節</a>を、声を出して２回読む。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "[BibleBlock]"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "発見のためのディスカッション（全員が答える）",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "どのようなことが、心に留まったか。（一番気に入ったことは？）その理由は？"
+          },
+          {
+            "text": "イエスさまについて、どのようなことを学んだか。"
+          },
+          {
+            "text": "人について、どのようなことを学んだか。"
+          },
+          {
+            "text": "これらのことを知った今、これからどのようにイエスさまに従っていくか。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "読み、語り、修正する",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "聖書の箇所をもう一度読む。誰かに、自分の言葉でそのストーリーを語ってもらい、必要に応じて他のメンバーが修正する。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "まとめ",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "信徒たちは、教会の誕生当初から、与え合うことを通して互いの必要を支え合ってきました。私たちは、「使徒の働き」のこの箇所から、強いられてではなく、自ら進んで与えることの大切さを学びます。このことは、<span class=\"bible-link\">第二コリント9章7節</span>にもはっきり書かれています。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"bible-link\">使徒の働き11章27〜29節</span>を読みましょう。初代教会の信徒たちは、他の教会の信徒たちのためにも与えました。つまり、私たちのささげものは、私たちの教会以外の必要のためにも用いられることがあるのです。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"bible-link\">ルカ8章1〜3節</span>を読んでください。ここでは、信徒たちがささげることで、福音が他の場所に伝えられ、神さまのメッセージが広がっていったことが記されています。そしてパウロは、<span class=\"bible-link\">第一コリント16章2節</span>で、このような目的のために毎週ささげものすることを人々に勧めています。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "前を見よう",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "ミッションに備える",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "「ささげる」ことをどのように実践していくかについて、話し合う。"
+                  },
+                  {
+                    "text": "私たちのささげものが必要とされているところを特定する。"
+                  },
+                  {
+                    "text": "適切であるとみなされる場合は、聖餐を通して、イエスさまが十字架で成し遂げられた御業を思い起こす。"
+                  },
+                  {
+                    "text": "人々に仕えるための備えとして、これまでに学んできたスキルや内容を練習する。"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ミッションに出ていく",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "オイコスリストから、今週福音を伝え、関わり仕える相手5人を選び出す。"
+          },
+          {
+            "text": "「私は、～までに～をする」という形式で書き出し、グループのメンバーに分かち合う。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ミッションのために祈る",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "全員の目標を、主に委ねる。私たちが忠実であり続けることができるよう、また、主が私たちを用いてくださって弟子作りのムーブメントをスタートさせてくださるように祈る。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply116-i-will"
+      }
+    }
+  ]
+}

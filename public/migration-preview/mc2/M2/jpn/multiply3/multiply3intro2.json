@@ -1,0 +1,51 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "jpn",
+  "htmlLang": "ja",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro2",
+  "sortOrder": 15,
+  "blocks": [
+    {
+      "type": "header",
+      "data": {
+        "text": "第2期：すべての人々に対するイエスさまの心（文化の壁を越えていく）（西暦32年〜45年）",
+        "level": 2
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "要約",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "この期間は、約12年間にわたる教会の成長と働きの時期です。イエスさまによってエルサレムの外へと導かれた弟子たちは、新たな文化の中へと入っていきました。こうして、弟子作りと教会の働きは、エルサレムからユダヤ、サマリア、そして異邦人の世界へと広がっていきました。"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "この期間に書かれた書簡",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "ヤコブの手紙（西暦40年代半ば）"
+          }
+        ]
+      }
+    }
+  ]
+}

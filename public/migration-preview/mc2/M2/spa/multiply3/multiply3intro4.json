@@ -1,0 +1,45 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro4",
+  "sortOrder": 35,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong>Entrenamiento de Líderes para Nuevos Centros de Movimiento (2do. Viaje Misionero desde Antioquía) [49 - 51 d.C.]</strong>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"Trip 2\" src=\"/sites/mc2/content/M2/spa/multiply3/Trip2.webp\"></span> Este período cubre el viaje del segundo equipo de misión que fue enviado desde Antioquía. Está marcado por la apertura de nuevos centros provinciales al Evangelio, el aumento de los movimientos de creación de discípulos y la adición de trabajadores del Reino."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Cartas escritas durante este Período"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "1 Tesalonicenses, 50/51 d.C."
+          },
+          {
+            "text": "2 Tesalonicenses, 50/51 d.C."
+          }
+        ]
+      }
+    }
+  ]
+}

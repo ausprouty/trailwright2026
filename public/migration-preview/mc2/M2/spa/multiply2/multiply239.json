@@ -1,0 +1,466 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply239",
+  "sortOrder": 44,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Opcional) Jesucristo es el Señor, para la gloria de Dios Padre. Él quiere que todos los hombres sean salvos y lleguen al conocimiento de la verdad. Porque hay un solo Dios y un mediador también entre Dios y el hombre, el hombre Jesucristo, que se entregó a sí mismo como rescate por todos. ({Filipenses 2:11}; {1 Timoteo 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>y toda lengua confiese que Jesucristo es el Señor,<br>para gloria de Dios Padre.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timoteo 2:4-6",
+                    "label": "1 Timoteo 2:4-6",
+                    "passage": "<p><sup>4</sup>pues él quiere que todos sean salvos y lleguen a conocer la verdad.<sup>5</sup>Porque hay un solo Dios y un solo mediador entre Dios y los hombres, Jesucristo hombre,<sup>6</sup>quien dio su vida como rescate por todos. Este testimonio Dios lo ha dado a su debido tiempo,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar las necesidades de los demás en oración, consejo bíblico y ánimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunte: \"¿Qué pasó cuando confiaste en Dios tus metas y tus declaraciones: Yo haré… cuándo…?\""
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y estímulo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Elija una manera de proyectar visión de quiénes pueden llegar a ser en Cristo o lo que Dios puede hacer a través de ellos al:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartir un versículo Bíblico que les recuerde el Corazón del Padre y la visión final, o"
+                  },
+                  {
+                    "text": "reflexionando sobre los cambios en su vida desde que comenzaron a seguir a Cristo, o"
+                  },
+                  {
+                    "text": "recordándoles lo que Dios quiere hacer a través de ellos."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Comparta la GRAN visión de \"Una iglesia para cada ciudad y comunidad, y el Evangelio para cada persona”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídale al grupo que cuente la historia de la semana pasada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Mateo 16:13-28</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Mateo 16:13-28",
+        "html": "<h3>La confesión de Pedro</h3> <p><sup>13</sup>Cuando llegó a la región de Cesarea de Filipo, Jesús preguntó a sus discípulos:</p> <p>—¿Quién dice la gente que es el Hijo del hombre?</p> <p>Le respondieron:</p> <p><sup>14</sup>—Unos dicen que es Juan el Bautista, otros que Elías, y otros que Jeremías o uno de los profetas.</p> <p><sup>15</sup>—Y ustedes, ¿quién dicen que soy yo?</p> <p><sup>16</sup>—Tú eres el Cristo, el Hijo del Dios viviente —afirmó Simón Pedro.</p> <p><sup>17</sup>—Dichoso tú, Simón, hijo de Jonás —le dijo Jesús—, porque eso no te lo reveló ningún mortal, sino mi Padre que está en el cielo.<sup>18</sup>Yo te digo que tú eres Pedro, y sobre esta piedra edificaré mi iglesia, y las puertas del reino de la muerte no prevalecerán contra ella.<sup>19</sup>Te daré las llaves del reino de los cielos; todo lo que ates en la tierra quedará atado en el cielo, y todo lo que desates en la tierra quedará desatado en el cielo.</p> <p><sup>20</sup>Luego les ordenó a sus discípulos que no dijeran a nadie que él era el Cristo.</p> <h3>Jesús predice su muerte</h3> <p><sup>21</sup>Desde entonces comenzó Jesús a advertir a sus discípulos que tenía que ir a Jerusalén y sufrir muchas cosas a manos de los ancianos, de los jefes de los sacerdotes y de los maestros de la ley, y que era necesario que lo mataran y que al tercer día resucitara.<sup>22</sup>Pedro lo llevó aparte y comenzó a reprenderlo:</p> <p>—¡De ninguna manera, Señor! ¡Esto no te sucederá jamás!</p> <p><sup>23</sup>Jesús se volvió y le dijo a Pedro:</p> <p>—¡Aléjate de mí, Satanás! Quieres hacerme tropezar; no piensas en las cosas de Dios, sino en las de los hombres.</p> <p><sup>24</sup>Luego dijo Jesús a sus discípulos:</p> <p>—Si alguien quiere ser mi discípulo, tiene que negarse a sí mismo, tomar su cruz y seguirme.<sup>25</sup>Porque el que quiera salvar su vida, la perderá; pero el que pierda su vida por mi causa, la encontrará.<sup>26</sup>¿De qué sirve ganar el mundo entero si se pierde la vida? ¿O qué se puede dar a cambio de la vida?<sup>27</sup>Porque el Hijo del hombre ha de venir en la gloria de su Padre con sus ángeles, y entonces recompensará a cada persona según lo que haya hecho.<sup>28</sup>Les aseguro que algunos de los aquí presentes no sufrirán la muerte sin antes haber visto al Hijo del hombre llegar en su reino.</p>",
+        "url": "https://biblegateway.com/passage/?search=Mateo%2016:13-28&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Mateo 16:13-20",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_21028-GOMatt2512",
+        "source": "arclight",
+        "refId": "6_21028-GOMatt2512",
+        "startTime": "6:16",
+        "endTime": "7:32",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Mateo 16:21-28",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_21028-GOMatt2513",
+        "source": "arclight",
+        "refId": "6_21028-GOMatt2513",
+        "startTime": "start",
+        "endTime": "2:16",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discusión de descubrimiento",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención o qué es lo que más te gustó? ¿Por qué?"
+          },
+          {
+            "text": "¿Hay algo nuevo o algo que ha desarrollado hasta este punto de la historia de Jesús?"
+          },
+          {
+            "text": "¿Qué aprendemos acerca de la humanidad o divinidad de Jesús en este pasaje?"
+          },
+          {
+            "text": "¿Cómo podemos vivir de manera diferente ahora que conocemos esta historia?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Preguntas adicionales que puede utilizar:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué están aprendiendo sus seguidores?"
+          },
+          {
+            "text": "¿Qué es lo que Jesús nos está modelando acerca de la vida, el ministerio o el liderazgo piadoso?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesús continúa preparando a Su equipo de liderazgo para la misión. Él les está enseñando sobre el amor, la humildad, la fe y su comprensión de la autoridad. Ahora los lleva al norte a otra zona pagana no judía. Jesús comienza a evaluar el ministerio preguntando \"¿Quién dice la gente que soy?\" La pregunta es sobre el tema central del movimiento. Es la pregunta más importante que podemos hacernos a nosotros mismos y a los demás. Después de casi tres años de ministerio público y mostrando señales que lo señalaban como Mesías, la gente todavía no entendía. Jesús entonces preguntó a los Doce cómo responderían a la pregunta. Pedro respondió por el grupo: \"Tú eres el Cristo, el Hijo del Dios Viviente\". ¡Lo consiguieron! Jesús usa la oportunidad para recordarles que cualquier cosa que entendamos acerca de Jesús viene del Padre y no de nuestro propio intelecto. Esta es también la primera vez que Jesús menciona Su 'Iglesia' que Él promete construir sobre la verdad fundacional de quién es Él. Fue en ese territorio pagano que Jesús eligió declarar por primera vez este plan. ¡Imagínese lo diferente que habría sido su comprensión si hubiera hecho esa misma declaración en el Templo de Jerusalén!"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Para más estudio: {Marcos 8:27-38}; {Lucas 9:18-27}. <p> </p> <ul> </ul> <p> </p>",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Marcos 8:27-38",
+                    "label": "Marcos 8:27-38",
+                    "passage": "<h3>La confesión de Pedro</h3><p><sup>27</sup>Jesús y sus discípulos salieron hacia las aldeas de Cesarea de Filipo. En el camino les preguntó:</p><p>—¿Quién dice la gente que soy yo?</p><p><sup>28</sup>—Unos dicen que Juan el Bautista, otros que Elías, y otros que uno de los profetas —contestaron.</p><p><sup>29</sup>—Y ustedes, ¿quién dicen que soy yo?</p><p>—Tú eres el Cristo —afirmó Pedro.</p><p><sup>30</sup>Jesús les ordenó que no hablaran a nadie acerca de él.</p><p><sup>31</sup>Luego comenzó a enseñarles:</p><p>—El Hijo del hombre tiene que sufrir muchas cosas y ser rechazado por los ancianos, por los jefes de los sacerdotes y por los maestros de la ley. Es necesario que lo maten y que a los tres días resucite.</p><p><sup>32</sup>Habló de esto con toda claridad. Pedro lo llevó aparte y comenzó a reprenderlo.<sup>33</sup>Pero Jesús se dio la vuelta, miró a sus discípulos, y reprendió a Pedro.</p><p>—¡Aléjate de mí, Satanás! —le dijo—. Tú no piensas en las cosas de Dios, sino en las de los hombres.</p><p><sup>34</sup>Entonces llamó a la multitud y a sus discípulos.</p><p>—Si alguien quiere ser mi discípulo —les dijo—, que se niegue a sí mismo, lleve su cruz y me siga.<sup>35</sup>Porque el que quiera salvar su vida la perderá; pero el que pierda su vida por mi causa y por el evangelio la salvará.<sup>36</sup>¿De qué sirve ganar el mundo entero si se pierde la vida?<sup>37</sup>¿O qué se puede dar a cambio de la vida?<sup>38</sup>Si alguien se avergüenza de mí y de mis palabras en medio de esta generación adúltera y pecadora, también el Hijo del hombre se avergonzará de él cuando venga en la gloria de su Padre con los santos ángeles.</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Lucas 9:18-27",
+                    "label": "Lucas 9:18-27",
+                    "passage": "<p><sup>18</sup>Un día cuando Jesús estaba orando para sí, estando allí sus discípulos, les preguntó:</p><p>—¿Quién dice la gente que soy yo?</p><p><sup>19</sup>—Unos dicen que Juan el Bautista, otros que Elías, y otros que uno de los antiguos profetas ha resucitado —respondieron.</p><p><sup>20</sup>—Y ustedes, ¿quién dicen que soy yo?</p><p>—El Cristo de Dios —afirmó Pedro.</p><p><sup>21</sup>Jesús les ordenó terminantemente que no dijeran esto a nadie. Y les dijo:</p><p><sup>22</sup>—El Hijo del hombre tiene que sufrir muchas cosas y ser rechazado por los ancianos, los jefes de los sacerdotes y los maestros de la ley. Es necesario que lo maten y que resucite al tercer día.</p><p><sup>23</sup>Dirigiéndose a todos, declaró:</p><p>—Si alguien quiere ser mi discípulo, que se niegue a sí mismo, lleve su cruz cada día y me siga.<sup>24</sup>Porque el que quiera salvar su vida la perderá; pero el que pierda su vida por mi causa la salvará.<sup>25</sup>¿De qué le sirve a uno ganar el mundo entero si se pierde o se destruye a sí mismo?<sup>26</sup>Si alguien se avergüenza de mí y de mis palabras, el Hijo del hombre se avergonzará de él cuando venga en su gloria y en la gloria del Padre y de los santos ángeles.<sup>27</sup>Además, les aseguro que algunos de los aquí presentes no sufrirán la muerte sin antes haber visto el reino de Dios.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practique la entrega y la comunión aquí o en la sección Preparación para la Misión</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Practique las habilidades necesarias o temas previos para ayudar a prepararse para ministrar a los demás:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar, Compartir"
+                  },
+                  {
+                    "text": "Compartir el Evangelio"
+                  },
+                  {
+                    "text": "Estudios Bíblicos Fundacionales"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica personas o lugares a los que tomarás la iniciativa de ministrar esta semana."
+          },
+          {
+            "text": "Escriba sus declaraciones de “Yo haré…para cuando…” y compártala en su pequeño grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos con el Señor. Pídele al Señor que nos ayude a ser fieles y úsanos para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bendición (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply239-i-will"
+      }
+    }
+  ]
+}

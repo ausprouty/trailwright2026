@@ -1,0 +1,366 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply233",
+  "sortOrder": 38,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lisez un passage biblique et exécutez un chant d’adoration."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la Fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Projection de Vision",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Marc 5:1-20 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Marc 5:1-20",
+        "html": "<p><sup>1</sup>Ils arrivèrent à l'autre bord de la mer, dans le pays des Gadaréniens.</p> <p><sup>2</sup>Aussitôt que Jésus fut hors de la barque, il vint au-devant de lui un homme, sortant des sépulcres, et possédé d'un esprit impur.</p> <p><sup>3</sup>Cet homme avait sa demeure dans les sépulcres, et personne ne pouvait plus le lier, même avec une chaîne.</p> <p><sup>4</sup>Car souvent il avait eu les fers aux pieds et avait été lié de chaînes, mais il avait rompu les chaînes et brisé les fers, et personne n'avait la force de le dompter.</p> <p><sup>5</sup>Il était sans cesse, nuit et jour, dans les sépulcres et sur les montagnes, criant, et se meurtrissant avec des pierres.</p> <p><sup>6</sup>Ayant vu Jésus de loin, il accourut, se prosterna devant lui,</p> <p><sup>7</sup>et s'écria d'une voix forte: Qu'y a-t-il entre moi et toi, Jésus, Fils du Dieu Très Haut? Je t'en conjure au nom de Dieu, ne me tourmente pas.</p> <p><sup>8</sup>Car Jésus lui disait: Sors de cet homme, esprit impur!</p> <p><sup>9</sup>Et, il lui demanda: Quel est ton nom? Légion est mon nom, lui répondit-il, car nous sommes plusieurs.</p> <p><sup>10</sup>Et il le priait instamment de ne pas les envoyer hors du pays.</p> <p><sup>11</sup>Il y avait là, vers la montagne, un grand troupeau de pourceaux qui paissaient.</p> <p><sup>12</sup>Et les démons le prièrent, disant: Envoie-nous dans ces pourceaux, afin que nous entrions en eux.</p> <p><sup>13</sup>Il le leur permit. Et les esprits impurs sortirent, entrèrent dans les pourceaux, et le troupeau se précipita des pentes escarpées dans la mer: il y en avait environ deux mille, et ils se noyèrent dans la mer.</p> <p><sup>14</sup>Ceux qui les faisaient paître s'enfuirent, et répandirent la nouvelle dans la ville et dans les campagnes. Les gens allèrent voir ce qui était arrivé.</p> <p><sup>15</sup>Ils vinrent auprès de Jésus, et ils virent le démoniaque, celui qui avait eu la légion, assis, vêtu, et dans son bon sens; et ils furent saisis de frayeur.</p> <p><sup>16</sup>Ceux qui avaient vu ce qui s'était passé leur racontèrent ce qui était arrivé au démoniaque et aux pourceaux.</p> <p><sup>17</sup>Alors ils se mirent à supplier Jésus de quitter leur territoire.</p> <p><sup>18</sup>Comme il montait dans la barque, celui qui avait été démoniaque lui demanda la permission de rester avec lui.</p> <p><sup>19</sup>Jésus ne le lui permit pas, mais il lui dit: Va dans ta maison, vers les tiens, et raconte-leur tout ce que le Seigneur t'a fait, et comment il a eu pitié de toi.</p> <p><sup>20</sup>Il s'en alla, et se mit à publier dans la Décapole tout ce que Jésus avait fait pour lui. Et tous furent dans l'étonnement.</p>",
+        "url": "https://biblegateway.com/passage/?search=Mark%205:1-20&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Marc 5:1-20",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOMark1504",
+        "source": "arclight",
+        "refId": "6_496-GOMark1504",
+        "startTime": "start",
+        "endTime": "3:00",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de Découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Etudiez chaque passage en utilisant les questions de discussion suivantes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ?"
+          },
+          {
+            "text": "Qu’est ce qui est nouveau ou s’est développé à ce point de l’histoire de Jésus?"
+          },
+          {
+            "text": "Quelle implication du point de vue de l’humanité ou de la divinité de Jésus voyez-vous dans ce passage ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Questions supplémentaires que vous pouvez poser:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce que ses disciples apprennent?"
+          },
+          {
+            "text": "Qu’est-ce que Jésus est en train de nous montrer au sujet de sa vie et de son ministère (ou leadership) ?"
+          },
+          {
+            "text": "Qu’est ce que Jésus est en train de montrer au sujet du leadership empreint de piété ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jésus emmène ses leaders stagiaires hors de leur zone de confort dans la région des païens de la Décapole, de l'autre côté du lac. C'est un autre pays et cette région particulière est connue pour ses ténèbres spirituelles à cause d'un homme démoniaque sauvage et violent qui terrorisait la région et vivait en exil en marge de la société parmi les tombes. Sur ce « voyage missionnaire à l'étranger », Jésus modèle à son équipe de leadership Son cœur pour tous, sa mission dans le monde entier et la réalité que personne n'est au-dessus de son pouvoir pour sauver. Cet homme semble être l’objet pour lequel le Père a conduit Jésus à faire ce voyage. Non seulement il est transformé, mais il devient une personne de paix invraisemblable renvoyée à témoigner de Jésus à sa famille et à ses amis. Jésus transforme la vie d'une personne qui à son tour devient l'initié pour partager l'Evangile dans une toute nouvelle population."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li>Pour une étude approfondie {Luc 8:26-39}.</li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Luc 8:26-39",
+                    "label": "Luc 8:26-39",
+                    "passage": "<p><sup>26</sup>Ils abordèrent dans le pays des Géraséniens, qui est vis-à-vis de la Galilée.</p><p><sup>27</sup>Lorsque Jésus fut descendu à terre, il vint au-devant de lui un homme de la ville, qui était possédé de plusieurs démons. Depuis longtemps il ne portait point de vêtement, et avait sa demeure non dans une maison, mais dans les sépulcres.</p><p><sup>28</sup>Ayant vu Jésus, il poussa un cri, se jeta à ses pieds, et dit d'une voix forte: Qu'y a-t-il entre moi et toi, Jésus, Fils du Dieu Très Haut? Je t'en supplie, ne me tourmente pas.</p><p><sup>29</sup>Car Jésus commandait à l'esprit impur de sortir de cet homme, dont il s'était emparé depuis longtemps; on le gardait lié de chaînes et les fers aux pieds, mais il rompait les liens, et il était entraîné par le démon dans les déserts.</p><p><sup>30</sup>Jésus lui demanda: Quel est ton nom? Légion, répondit-il. Car plusieurs démons étaient entrés en lui.</p><p><sup>31</sup>Et ils priaient instamment Jésus de ne pas leur ordonner d'aller dans l'abîme.</p><p><sup>32</sup>Il y avait là, dans la montagne, un grand troupeau de pourceaux qui paissaient. Et les démons supplièrent Jésus de leur permettre d'entrer dans ces pourceaux. Il le leur permit.</p><p><sup>33</sup>Les démons sortirent de cet homme, entrèrent dans les pourceaux, et le troupeau se précipita des pentes escarpées dans le lac, et se noya.</p><p><sup>34</sup>Ceux qui les faisaient paître, voyant ce qui était arrivé, s'enfuirent, et répandirent la nouvelle dans la ville et dans les campagnes.</p><p><sup>35</sup>Les gens allèrent voir ce qui était arrivé. Ils vinrent auprès de Jésus, et ils trouvèrent l'homme de qui étaient sortis les démons, assis à ses pieds, vêtu, et dans son bon sens; et ils furent saisis de frayeur.</p><p><sup>36</sup>Ceux qui avaient vu ce qui s'était passé leur racontèrent comment le démoniaque avait été guéri.</p><p><sup>37</sup>Tous les habitants du pays des Géraséniens prièrent Jésus de s'éloigner d'eux, car ils étaient saisis d'une grande crainte. Jésus monta dans la barque, et s'en retourna.</p><p><sup>38</sup>L'homme de qui étaient sortis les démons lui demandait la permission de rester avec lui. Mais Jésus le renvoya, en disant:</p><p><sup>39</sup>Retourne dans ta maison, et raconte tout ce que Dieu t'a fait. Il s'en alla, et publia par toute la ville tout ce que Jésus avait fait pour lui.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se Préparer pour la Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez 5 personnes de votre Liste de Réseau envers qui vous prendrez l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez les promesses « je le ferai d’ici quand » et parlez-en à votre groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply233-i-will"
+      }
+    }
+  ]
+}

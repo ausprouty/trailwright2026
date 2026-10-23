@@ -1,0 +1,374 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply108",
+  "sortOrder": 9,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Adoração",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia a Bíblia para fundamentar louvor e adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">{Salmos 33:1-5} e 1-2 músicas</li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Salmos 33:1-5",
+                    "label": "Salmos 33:1-5",
+                    "passage": "<div><p><sup>1</sup>Todos vocês que obedecem<br>a Deus, o<span class=\"divine-name small-caps\">Senhor,<br>alegrem-se por causa daquilo<br>que ele tem feito!<br>Louvem a Deus,<br>todas as pessoas honestas.<br><sup>2</sup>Toquem lira em louvor ao<span class=\"divine-name small-caps\">Senhor,<br>cantem louvores com acompanhamento<br>de harpas de dez cordas.<br><sup>3</sup>Cantem a Deus uma nova canção,<br>toquem harpa e gritem bem alto.</span></span></p></div><p><sup>4</sup>As palavras do<span class=\"divine-name small-caps\">Senhor<br>são verdadeiras;<br>tudo o que ele faz merece confiança.<br><sup>5</sup>O<span class=\"divine-name small-caps\">Senhor Deus ama<br>tudo o que é certo e justo;<br>a terra está cheia do seu amor.</span></span></p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Sirvam uns aos outros através de oração, aconselhamento bíblico e encorajamento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça para cada pessoa compartilhar um ponto alto da semana e explicar um desafio pelo o qual passaram."
+          },
+          {
+            "text": "Pergunte, “O que você gostaria que Jesus fizesse por você esta semana?” Ore pelas necessidades uns dos outros."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pergunte, “O que aconteceu quando você confiou suas metas e suas declarações “Eu vou____” a Deus?”"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Esboce uma visão de quem eles podem se tornar em Cristo e o que Deus pode fazer através deles.</em>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "As primeiras palavras de Jesus em Marcos diziam para as pessoas “se arrependerem”. Isto significa mudar todo nosso jeito de pensar porque os caminho de Deus são tão diferentes dos nossos. Uma área é como nós vemos a nós mesmos. Precisamos de uma nova compreensão do que é vida com Deus e o que Ele pode realizar em nossas vidas. As próximas palavras de Jesus foram \"Sigam Me, e os farei pescadores de homens.\" Todo discípulo de Jesus é convocado para viver esse chamado duplo, para O seguir e para pescar homens. Nosso compromisso sacrificial com Jesus transforma o cotidiano e todas os nossos relacionamento. Vamos encorajar uns aos outros para continuamente nos arrependermos, seguir e pescar!"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Algumas antes da morte de Jesus, Ele e Seus seguidores estavam em uma cidade chamada Jericó. Quando saíram para uma jornada de 24 km montanha acima para Jerusalém, um homem cego grita por Jesus tentando chamar Sua atenção. Esta história nos conta o que aconteceu depois."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista Lucas 18:35-43 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 18:35-43",
+        "html": "<h3>Jesus cura um mendigo cego</h3> <p><sup>35</sup>Jesus já estava chegando perto da cidade de Jericó. Acontece que um cego estava sentado na beira do caminho, pedindo esmola.<sup>36</sup>Quando ouviu a multidão passando, ele perguntou o que era aquilo.</p> <p><sup>37</sup>— É Jesus de Nazaré que está passando! — responderam.</p> <p><sup>38</sup>Aí o cego começou a gritar:</p> <p>— Jesus, Filho de Davi, tenha pena de mim!</p> <p><sup>39</sup>As pessoas que iam na frente o repreenderam e mandaram que ele calasse a boca. Mas ele gritava ainda mais:</p> <p>— Filho de Davi, tenha pena de mim!</p> <p><sup>40</sup>Jesus parou e mandou que trouxessem o cego. Quando ele chegou perto, Jesus perguntou:</p> <p><sup>41</sup>— O que é que você quer que eu faça?</p> <p>— Senhor, eu quero ver de novo! — respondeu ele.</p> <p><sup>42</sup>Então Jesus disse:</p> <p>— Veja! Você está curado porque teve fé.</p> <p><sup>43</sup>No mesmo instante o homem começou a ver e, dando glória a Deus, foi seguindo Jesus. E todos os que viram isso começaram a louvar a Deus.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%2018:35-43&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lucas 18:35-43",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOLuke2618",
+        "source": "arclight",
+        "refId": "6_20615-GOLuke2618",
+        "startTime": "4:20",
+        "endTime": "5:36",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Todos contam o que chamou mais a atenção para cada um (ou do que mais gostaram) e porquê."
+          },
+          {
+            "text": "Por que você acha que esta história é importante?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que ouvimos esta história (passagem)?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Jesus tinha grande compaixão para com as pessoas! Ele fez uma pergunta incrível ao cego, “O que você quer que eu lhe faça?” Depois Ele atendeu ao pedido do homem. Em {João 14:12-13} Jesus disse, “Aquele que crê em mim fará também as obras que tenho realizado. Fará coisas ainda maiores do que estas, porque eu estou indo para o Pai. E eu farei o que vocês pedirem em meu nome, para que o Pai seja glorificado no Filho.” Como seguidores de Jesus, tomamos a iniciativa para mostrar compaixão pelas pessoas no poder do Espírito Santo ao perguntarmos a mesma Incrível Pergunta e atendendo suas necessidades de maneiras práticas .",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "João 14:12-13",
+                    "label": "João 14:12-13",
+                    "passage": "<p><sup>12</sup>Eu afirmo a vocês que isto é verdade: quem crê em mim fará as coisas que eu faço e até maiores do que estas, pois eu vou para o meu Pai.<sup>13</sup>E tudo o que vocês pedirem em meu nome eu farei, a fim de que o Filho revele a natureza gloriosa do Pai.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pratique contar a história e usar a Incrível Pergunta. Inclua praticar uma transição da conversa para a história."
+                  },
+                  {
+                    "text": "Opcional: conte a história usando o vídeo do Filme JESUS"
+                  },
+                  {
+                    "text": "Atualize sua Lista de Relacionamento com nomes adicionais se necessário."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique 5 pessoas de sua Lista de Relacionamentos com quem você possa compartilhar esta história ou o evangelho esta semana."
+          },
+          {
+            "text": "Escreva suas declarações “Eu vou_____” e compartilhe-as com seu grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Entregue as metas de todos ao Senhor. Peça ao Senhor para nos ajudar a sermos fiéis e para nos usar para iniciar um movimento de discipuladores."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply108-i-will"
+      }
+    }
+  ]
+}

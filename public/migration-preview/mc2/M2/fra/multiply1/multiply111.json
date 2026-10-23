@@ -1,0 +1,55 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply111",
+  "sortOrder": 11,
+  "blocks": [
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<div class=\"lesson\"><img class=\"lesson-icon\" src=\"/sites/mc2/images/standard/look-back.png\"> <div class=\"lesson-subtitle\">Regarder Derrière</div> </div> <div class=\"reveal\"> <hr> <h2>Louange</h2> <p>Lisez un passage biblique et exécutez un chant d’adoration.</p> <ul> <li>Exemple: Lisez {Psaumes 95:1-7} et exécutez des chants. </li> </ul> <hr></div> <ul> </ul> <h2>Soin</h2> <p>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</p> <ul> <li>Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine.</li> <li>Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels.</li> </ul> <h2>Célébrer la Fidélité</h2> <p>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour</p> <ul> <li>Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »</li> </ul> <div class=\"reveal\"> <hr> <h2>Projection de Vision</h2> <p>Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux.</p> <ul> Exemple: Dans le livre des Actes, nous voyons comment les croyants ont enseigné certains, et les ont faits formateurs des autres. Barnabas était l’un des premiers disciples de Jésus. Il a trouvé un nouveau croyant du nom de Paul, et l’aida. Celui-ci trouva Timothée et l’aida aussi. Il prit Timothée avec lui pour annoncer l’évangile à plusieurs endroits. Plus tard, Paul envoya une lettre à Timothée dans laquelle il lui demandait d’enseigner des hommes fidèles dans les églises pour que ces derniers puissent à leur tour trouver et enseigner d’autres jeunes chrétiens. Lisez {2 Timothée 2:2}. Jésus enseigna Barnabas, Barnabas enseigna Paul, Paul enseigna Timothée, Timothée enseigna des hommes fidèles qui à leur tour enseignèrent des jeunes. Tous les chrétiens sont appelés à enseigner des gens capables d’en faire autant et ainsi de suite. De cette façon, l’Évangile se répandra rapidement. </ul> <hr></div>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Psaumes 95:1-7",
+            "label": "Psaumes 95:1-7",
+            "passage": "<p><sup>1</sup>Venez, chantons avec allégresse à l'Éternel! Poussons des cris de joie vers le rocher de notre salut.</p><p><sup>2</sup>Allons au-devant de lui avec des louanges, Faisons retentir des cantiques en son honneur!</p><p><sup>3</sup>Car l'Éternel est un grand Dieu, Il est un grand roi au-dessus de tous les dieux.</p><p><sup>4</sup>Il tient dans sa main les profondeurs de la terre, Et les sommets des montagnes sont à lui.</p><p><sup>5</sup>La mer est à lui, c'est lui qui l'a faite; La terre aussi, ses mains l'ont formée.</p><p><sup>6</sup>Venez, prosternons-nous et humilions-nous, Fléchissons le genou devant l'Éternel, notre créateur!</p><p><sup>7</sup>Car il est notre Dieu, Et nous sommes le peuple de son pâturage, Le troupeau que sa main conduit... Oh! si vous pouviez écouter aujourd'hui sa voix!</p>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "2 Timothée 2:2",
+            "label": "2 Timothée 2:2",
+            "passage": "<p><sup>2</sup>Et ce que tu as entendu de moi en présence de beaucoup de témoins, confie-le à des hommes fidèles, qui soient capables de l'enseigner aussi à d'autres.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Pour en savoir davantage veuillez lire le <a href=\"/sites/mc2/content/M2/fra/tc/ct05.html\">Message transmissible N° 5 : Témoigner par l'Esprit</a> et en discuter avec un autre membre du groupe.",
+        "className": "for-enrichment"
+      }
+    }
+  ]
+}

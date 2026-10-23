@@ -1,0 +1,66 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "jpn",
+  "htmlLang": "ja",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro6",
+  "sortOrder": 48,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"\" src=\"/sites/mc2/content/M2/jpn/images/standard/Trip4.webp\"></span>"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "第6期：イエスさまのムーブメントを代弁する［西暦57年〜62年］",
+        "level": 2
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "要約",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "ローマ帝国の東部地域に６〜７か所の働きの拠点を築いた後、パウロの役割は、信仰を弁証する働きへと移っていきます。この期間の特徴として、長期にわたる旅、投獄、さまざまな危険、そしてユダヤとローマの最高権力者たちの前での申し開きなどが挙げられます。"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "この期間に書かれた書簡",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "コロサイ人への手紙（西暦60年〜62年）"
+          },
+          {
+            "text": "ピレモンへの手紙（西暦60年〜62年）"
+          },
+          {
+            "text": "エペソ人への手紙（西暦60年〜62年）"
+          },
+          {
+            "text": "ピリピ人への手紙（西暦60年〜62年）"
+          }
+        ]
+      }
+    }
+  ]
+}

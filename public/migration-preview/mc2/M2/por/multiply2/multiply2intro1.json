@@ -1,0 +1,46 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply2intro1",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"\" src=\"/sites/mc2/content/M2/por/multiply2/Period1.png\" style=\"width:100%\"></span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Se tornar a pessoa que você procura ser para se tornar um multiplicador. Preparar para uma vida santa e para o movimento de multiplicação. Este último em Seu nascimento por volta de 4 A.C. até cerca de Seus 30 anos de idade"
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li>Nos primeiros 30 anos de sua vida Jesus “cresceu e se tornou” ({Lucas 2:40}, {Lucas 2:51-52}) <strong>o Produto</strong> que procurava multiplicar em outros.</li> <li>Isso tudo antes de começar Seu ministério público. A oração, planejar e esclarecer sobre o que seria seu ministério e como lidar com tudo era evidente uma vez que Ele iniciou seu ministério.</li> <li>A <strong>Paixão</strong> de Seu coração era pura, Seu <strong>Propósito</strong> era claro, e</li> <li>O <strong>Processo pelo qual Jesus decidiu</strong> era simples: Ele se conectava com as pessoas perdidas, ganhando-as para Si mesmo, edificando-as com acompanhamento, treinando-as para pescar outros e enviando-as para Multiplicar o mesmo processo com outros.</li> <li>Jesus determinou que iria procurar, trabalhar e através de <strong>Pessoas</strong> que Seu Pai havia preparado.</li>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Lucas 2:40",
+            "label": "Lucas 2:40",
+            "passage": "<p><sup>40</sup>O menino crescia e ficava forte; tinha muita sabedoria e era abençoado por Deus.</p>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "Lucas 2:51-52",
+            "label": "Lucas 2:51-52",
+            "passage": "<p><sup>51</sup>Então Jesus voltou com os seus pais para Nazaré e continuava a ser obediente a eles. E a sua mãe guardava tudo isso no coração.</p><p><sup>52</sup>Conforme crescia, Jesus ia crescendo também em sabedoria, e tanto Deus como as pessoas gostavam cada vez mais dele.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "mutiply320",
+  "sortOrder": 22,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lisez un passage biblique et exécutez un chant d’adoration.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Facultatif) Jésus-Christ est Seigneur, à la gloire de Dieu le Père ; qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité. Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus-Christ homme, qui s’est donné lui-même en rançon pour tous. ({Philippiens 2:11}; {1 Timothée 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippiens 2:11",
+                    "label": "Philippiens 2:11",
+                    "passage": "<p><sup>11</sup>et que toute langue confesse que Jésus Christ est Seigneur, à la gloire de Dieu le Père.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timothée 2:4-6",
+                    "label": "1 Timothée 2:4-6",
+                    "passage": "<p><sup>4</sup>qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité.</p><p><sup>5</sup>Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus Christ homme,</p><p><sup>6</sup>qui s'est donné lui-même en rançon pour tous. C'est là le témoignage rendu en son propre temps,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation et encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Trouvez un moyen de projeter une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "un passage qui leur rappelle le cœur du Père et de la vision final."
+                  },
+                  {
+                    "text": "réfléchir sur des changements intervenus dans leur vie depuis qu’ils ont commencé à suivre Christ"
+                  },
+                  {
+                    "text": "leur rappeler ce que Dieu veut faire à travers eux"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Partagez la GRANDE vision</strong> <em>« une église pour chaque village et communauté, l’évangile pour chaque personne ».</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexte",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Demandez au groupe de raconter l’histoire de la semaine passée."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lisez",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Actes 10:34-48 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Actes 10:34-48",
+        "html": "<p><sup>34</sup>Alors Pierre, ouvrant la bouche, dit: En vérité, je reconnais que Dieu ne fait point acception de personnes,</p> <p><sup>35</sup>mais qu'en toute nation celui qui le craint et qui pratique la justice lui est agréable.</p> <p><sup>36</sup>Il a envoyé la parole aux fils d'Israël, en leur annonçant la paix par Jésus Christ, qui est le Seigneur de tous.</p> <p><sup>37</sup>Vous savez ce qui est arrivé dans toute la Judée, après avoir commencé en Galilée, à la suite du baptême que Jean a prêché;</p> <p><sup>38</sup>vous savez comment Dieu a oint du Saint Esprit et de force Jésus de Nazareth, qui allait de lieu en lieu faisant du bien et guérissant tous ceux qui étaient sous l'empire du diable, car Dieu était avec lui.</p> <p><sup>39</sup>Nous sommes témoins de tout ce qu'il a fait dans le pays des Juifs et à Jérusalem. Ils l'ont tué, en le pendant au bois.</p> <p><sup>40</sup>Dieu l'a ressuscité le troisième jour, et il a permis qu'il apparût,</p> <p><sup>41</sup>non à tout le peuple, mais aux témoins choisis d'avance par Dieu, à nous qui avons mangé et bu avec lui, après qu'il fut ressuscité des morts.</p> <p><sup>42</sup>Et Jésus nous a ordonné de prêcher au peuple et d'attester que c'est lui qui a été établi par Dieu juge des vivants et des morts.</p> <p><sup>43</sup>Tous les prophètes rendent de lui le témoignage que quiconque croit en lui reçoit par son nom le pardon des péchés.</p> <p><sup>44</sup>Comme Pierre prononçait encore ces mots, le Saint Esprit descendit sur tous ceux qui écoutaient la parole.</p> <p><sup>45</sup>Tous les fidèles circoncis qui étaient venus avec Pierre furent étonnés de ce que le don du Saint Esprit était aussi répandu sur les païens.</p> <p><sup>46</sup>Car ils les entendaient parler en langues et glorifier Dieu.</p> <p><sup>47</sup>Alors Pierre dit: Peut-on refuser l'eau du baptême à ceux qui ont reçu le Saint Esprit aussi bien que nous?</p> <p><sup>48</sup>Et il ordonna qu'ils fussent baptisés au nom du Seigneur. Sur quoi ils le prièrent de rester quelques jours auprès d'eux.</p>",
+        "url": "https://biblegateway.com/passage/?search=Actes%2010:34-48&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Actes 10:34-48",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_496-Acts7328-0-0",
+        "source": "arclight",
+        "refId": "2_496-Acts7328-0-0",
+        "startTime": "1:35",
+        "endTime": "3:54",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ? Pourquoi ?"
+          },
+          {
+            "text": "À ce niveau de l’histoire, qu’est-ce qui est nouveau ou est développé ?"
+          },
+          {
+            "text": "Quel modèle a été donné quant à la vie dépendante de l’Esprit, faire de disciples ou au leadership ?"
+          },
+          {
+            "text": "Comment pouvons-nous vivre différemment maintenant que nous connaissons cette histoire?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Des questions supplémentaires dont vous pouvez faire usage:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comment les disciples de Jésus poursuivent-ils Son œuvre de faire des disciples et d’implantation d’églises ?"
+          },
+          {
+            "text": "Comment l’évangile impacte-t-il les gens et la société ?"
+          },
+          {
+            "text": "Quels étaient les barrières et les obstacles qui ont été surmontés et comment ont-ils été surmontés ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Le Seigneur utilise Pierre pour apporter le salut à Corneille et à son ménage. Cette expérience a enseigné à pierre et les croyants juifs qui l’accompagne, une vérité théologique importante: le Seigneur accepte toute personne de toute nation et son offre du salut est le même pour tout le monde. En renforcement à cette vérité, les païens ont fait l’expérience du don de l’Esprit Saint de la même façon que les Juifs à la pentecôte ({Actes 2 :4}, {Actes 10:47}). Pierre reconnait l’acceptation des non-juifs par le Seigneur et ordonne qu’ils soient immédiatement baptisés, tout comme ils l’on fait avec les croyants Juifs. Pierre reste quelques jours de plus avec eux pour faire un suivi immédiat des nouveaux croyants. Pierre a maintenant participé à l’implantation d’églises au-delà de toutes les barrières culturelles dont Jésus a parlé ({Actes 1 :8}): au sein des Juifs à Jérusalem et dans toute la Judée, dans toute la Samarie ({Actes 8}), et maintenant au sein des païens ({Actes 10}). Les portes de toutes les barrières culturelles sont maintenant déverrouillées pour l’expansion du royaume.",
+                "references": [
+                  {
+                    "id": "popup_pop5",
+                    "marker": "Actes 2 :4",
+                    "label": "Actes 2 :4",
+                    "passage": "<p><sup>4</sup>Et ils furent tous remplis du Saint Esprit, et se mirent à parler en d'autres langues, selon que l'Esprit leur donnait de s'exprimer.</p>"
+                  },
+                  {
+                    "id": "popup_pop6",
+                    "marker": "Actes 10:47",
+                    "label": "Actes 10:47",
+                    "passage": "<p><sup>47</sup>Alors Pierre dit: Peut-on refuser l'eau du baptême à ceux qui ont reçu le Saint Esprit aussi bien que nous?</p>"
+                  },
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Actes 1 :8",
+                    "label": "Actes 1 :8",
+                    "passage": "<p><sup>8</sup>Mais vous recevrez une puissance, le Saint Esprit survenant sur vous, et vous serez mes témoins à Jérusalem, dans toute la Judée, dans la Samarie, et jusqu'aux extrémités de la terre.</p>"
+                  },
+                  {
+                    "id": "popup_pop7",
+                    "marker": "Actes 8",
+                    "label": "Actes 8",
+                    "passage": "<div><p><sup>1</sup>Saul avait approuvé le meurtre d'Étienne. Il y eut, ce jour-là, une grande persécution contre l'Église de Jérusalem; et tous, excepté les apôtres, se dispersèrent dans les contrées de la Judée et de la Samarie.</p><p><sup>2</sup>Des hommes pieux ensevelirent Étienne, et le pleurèrent à grand bruit.</p><p><sup>3</sup>Saul, de son côté, ravageait l'Église; pénétrant dans les maisons, il en arrachait hommes et femmes, et les faisait jeter en prison.</p><p><sup>4</sup>Ceux qui avaient été dispersés allaient de lieu en lieu, annonçant la bonne nouvelle de la parole.</p><p><sup>5</sup>Philippe, étant descendu dans la ville de Samarie, y prêcha le Christ.</p><p><sup>6</sup>Les foules tout entières étaient attentives à ce que disait Philippe, lorsqu'elles apprirent et virent les miracles qu'il faisait.</p><p><sup>7</sup>Car des esprits impurs sortirent de plusieurs démoniaques, en poussant de grands cris, et beaucoup de paralytiques et de boiteux furent guéris.</p><p><sup>8</sup>Et il y eut une grande joie dans cette ville.</p><p><sup>9</sup>Il y avait auparavant dans la ville un homme nommé Simon, qui, se donnant pour un personnage important, exerçait la magie et provoquait l'étonnement du peuple de la Samarie.</p><p><sup>10</sup>Tous, depuis le plus petit jusqu'au plus grand, l'écoutaient attentivement, et disaient: Celui-ci est la puissance de Dieu, celle qui s'appelle la grande.</p><p><sup>11</sup>Ils l'écoutaient attentivement, parce qu'il les avait longtemps étonnés par ses actes de magie.</p><p><sup>12</sup>Mais, quand ils eurent cru à Philippe, qui leur annonçait la bonne nouvelle du royaume de Dieu et du nom de Jésus Christ, hommes et femmes se firent baptiser.</p><p><sup>13</sup>Simon lui-même crut, et, après avoir été baptisé, il ne quittait plus Philippe, et il voyait avec étonnement les miracles et les grands prodiges qui s'opéraient.</p><p><sup>14</sup>Les apôtres, qui étaient à Jérusalem, ayant appris que la Samarie avait reçu la parole de Dieu, y envoyèrent Pierre et Jean.</p><p><sup>15</sup>Ceux-ci, arrivés chez les Samaritains, prièrent pour eux, afin qu'ils reçussent le Saint Esprit.</p><p><sup>16</sup>Car il n'était encore descendu sur aucun d'eux; ils avaient seulement été baptisés au nom du Seigneur Jésus.</p><p><sup>17</sup>Alors Pierre et Jean leur imposèrent les mains, et ils reçurent le Saint Esprit.</p><p><sup>18</sup>Lorsque Simon vit que le Saint Esprit était donné par l'imposition des mains des apôtres, il leur offrit de l'argent,</p><p><sup>19</sup>en disant: Accordez-moi aussi ce pouvoir, afin que celui à qui j'imposerai les mains reçoive le Saint Esprit.</p><p><sup>20</sup>Mais Pierre lui dit: Que ton argent périsse avec toi, puisque tu as cru que le don de Dieu s'acquérait à prix d'argent!</p><p><sup>21</sup>Il n'y a pour toi ni part ni lot dans cette affaire, car ton coeur n'est pas droit devant Dieu.</p><p><sup>22</sup>Repens-toi donc de ta méchanceté, et prie le Seigneur pour que la pensée de ton coeur te soit pardonnée, s'il est possible;</p><p><sup>23</sup>car je vois que tu es dans un fiel amer et dans les liens de l'iniquité.</p><p><sup>24</sup>Simon répondit: Priez vous-mêmes le Seigneur pour moi, afin qu'il ne m'arrive rien de ce que vous avez dit.</p><p><sup>25</sup>Après avoir rendu témoignage à la parole du Seigneur, et après l'avoir prêchée, Pierre et Jean retournèrent à Jérusalem, en annonçant la bonne nouvelle dans plusieurs villages des Samaritains.</p><p><sup>26</sup>Un ange du Seigneur, s'adressant à Philippe, lui dit: Lève-toi, et va du côté du midi, sur le chemin qui descend de Jérusalem à Gaza, celui qui est désert.</p><p><sup>27</sup>Il se leva, et partit. Et voici, un Éthiopien, un eunuque, ministre de Candace, reine d'Éthiopie, et surintendant de tous ses trésors, venu à Jérusalem pour adorer,</p><p><sup>28</sup>s'en retournait, assis sur son char, et lisait le prophète Ésaïe.</p><p><sup>29</sup>L'Esprit dit à Philippe: Avance, et approche-toi de ce char.</p><p><sup>30</sup>Philippe accourut, et entendit l'Éthiopien qui lisait le prophète Ésaïe. Il lui dit: Comprends-tu ce que tu lis?</p><p><sup>31</sup>Il répondit: Comment le pourrais-je, si quelqu'un ne me guide? Et il invita Philippe à monter et à s'asseoir avec lui.</p><p><sup>32</sup>Le passage de l'Écriture qu'il lisait était celui-ci: Il a été mené comme une brebis à la boucherie; Et, comme un agneau muet devant celui qui le tond, Il n'a point ouvert la bouche.</p><p><sup>33</sup>Dans son humiliation, son jugement a été levé. Et sa postérité, qui la dépeindra? Car sa vie a été retranchée de la terre.</p><p><sup>34</sup>L'eunuque dit à Philippe: Je te prie, de qui le prophète parle-t-il ainsi? Est-ce de lui-même, ou de quelque autre?</p><p><sup>35</sup>Alors Philippe, ouvrant la bouche et commençant par ce passage, lui annonça la bonne nouvelle de Jésus.</p><p><sup>36</sup>Comme ils continuaient leur chemin, ils rencontrèrent de l'eau. Et l'eunuque dit: Voici de l'eau; qu'est-ce qui empêche que je ne sois baptisé?</p><p><sup>37</sup>Philippe dit: Si tu crois de tout ton coeur, cela est possible. L'eunuque répondit: Je crois que Jésus Christ est le Fils de Dieu.</p><p><sup>38</sup>Il fit arrêter le char; Philippe et l'eunuque descendirent tous deux dans l'eau, et Philippe baptisa l'eunuque.</p><p><sup>39</sup>Quand ils furent sortis de l'eau, l'Esprit du Seigneur enleva Philippe, et l'eunuque ne le vit plus. Tandis que, joyeux, il poursuivait sa route,</p><p><sup>40</sup>Philippe se trouva dans Azot, d'où il alla jusqu'à Césarée, en évangélisant toutes les villes par lesquelles il passait.</p></div>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Actes 10",
+                    "label": "Actes 10",
+                    "passage": "<div><p><sup>1</sup>Il y avait à Césarée un homme nommé Corneille, centenier dans la cohorte dite italienne.</p><p><sup>2</sup>Cet homme était pieux et craignait Dieu, avec toute sa maison; il faisait beaucoup d'aumônes au peuple, et priait Dieu continuellement.</p><p><sup>3</sup>Vers la neuvième heure du jour, il vit clairement dans une vision un ange de Dieu qui entra chez lui, et qui lui dit: Corneille!</p><p><sup>4</sup>Les regards fixés sur lui, et saisi d'effroi, il répondit: Qu'est-ce, Seigneur? Et l'ange lui dit: Tes prières et tes aumônes sont montées devant Dieu, et il s'en est souvenu.</p><p><sup>5</sup>Envoie maintenant des hommes à Joppé, et fais venir Simon, surnommé Pierre;</p><p><sup>6</sup>il est logé chez un certain Simon, corroyeur, dont la maison est près de la mer.</p><p><sup>7</sup>Dès que l'ange qui lui avait parlé fut parti, Corneille appela deux de ses serviteurs, et un soldat pieux d'entre ceux qui étaient attachés à sa personne;</p><p><sup>8</sup>et, après leur avoir tout raconté, il les envoya à Joppé.</p><p><sup>9</sup>Le lendemain, comme ils étaient en route, et qu'ils approchaient de la ville, Pierre monta sur le toit, vers la sixième heure, pour prier.</p><p><sup>10</sup>Il eut faim, et il voulut manger. Pendant qu'on lui préparait à manger, il tomba en extase.</p><p><sup>11</sup>Il vit le ciel ouvert, et un objet semblable à une grande nappe attachée par les quatre coins, qui descendait et s'abaissait vers la terre,</p><p><sup>12</sup>et où se trouvaient tous les quadrupèdes et les reptiles de la terre et les oiseaux du ciel.</p><p><sup>13</sup>Et une voix lui dit: Lève-toi, Pierre, tue et mange.</p><p><sup>14</sup>Mais Pierre dit: Non, Seigneur, car je n'ai jamais rien mangé de souillé ni d'impur.</p><p><sup>15</sup>Et pour la seconde fois la voix se fit encore entendre à lui: Ce que Dieu a déclaré pur, ne le regarde pas comme souillé.</p><p><sup>16</sup>Cela arriva jusqu'à trois fois; et aussitôt après, l'objet fut retiré dans le ciel.</p><p><sup>17</sup>Tandis que Pierre ne savait en lui-même que penser du sens de la vision qu'il avait eue, voici, les hommes envoyés par Corneille, s'étant informés de la maison de Simon, se présentèrent à la porte,</p><p><sup>18</sup>et demandèrent à haute voix si c'était là que logeait Simon, surnommé Pierre.</p><p><sup>19</sup>Et comme Pierre était à réfléchir sur la vision, l'Esprit lui dit: Voici, trois hommes te demandent;</p><p><sup>20</sup>lève-toi, descends, et pars avec eux sans hésiter, car c'est moi qui les ai envoyés.</p><p><sup>21</sup>Pierre donc descendit, et il dit à ces hommes: Voici, je suis celui que vous cherchez; quel est le motif qui vous amène?</p><p><sup>22</sup>Ils répondirent: Corneille, centenier, homme juste et craignant Dieu, et de qui toute la nation des Juifs rend un bon témoignage, a été divinement averti par un saint ange de te faire venir dans sa maison et d'entendre tes paroles.</p><p><sup>23</sup>Pierre donc les fit entrer, et les logea. Le lendemain, il se leva, et partit avec eux. Quelques-uns des frères de Joppé l'accompagnèrent.</p><p><sup>24</sup>Ils arrivèrent à Césarée le jour suivant. Corneille les attendait, et avait invité ses parents et ses amis intimes.</p><p><sup>25</sup>Lorsque Pierre entra, Corneille, qui était allé au-devant de lui, tomba à ses pieds et se prosterna.</p><p><sup>26</sup>Mais Pierre le releva, en disant: Lève-toi; moi aussi, je suis un homme.</p><p><sup>27</sup>Et conversant avec lui, il entra, et trouva beaucoup de personnes réunies.</p><p><sup>28</sup>Vous savez, leur dit-il, qu'il est défendu à un Juif de se lier avec un étranger ou d'entrer chez lui; mais Dieu m'a appris à ne regarder aucun homme comme souillé et impur.</p><p><sup>29</sup>C'est pourquoi je n'ai pas eu d'objection à venir, puisque vous m'avez appelé; je vous demande donc pour quel motif vous m'avez envoyé chercher.</p><p><sup>30</sup>Corneille dit: Il y a quatre jours, à cette heure-ci, je priais dans ma maison à la neuvième heure; et voici, un homme vêtu d'un habit éclatant se présenta devant moi, et dit:</p><p><sup>31</sup>Corneille, ta prière a été exaucée, et Dieu s'est souvenu de tes aumônes.</p><p><sup>32</sup>Envoie donc à Joppé, et fais venir Simon, surnommé Pierre; il est logé dans la maison de Simon, corroyeur, près de la mer.</p><p><sup>33</sup>Aussitôt j'ai envoyé vers toi, et tu as bien fait de venir. Maintenant donc nous sommes tous devant Dieu, pour entendre tout ce que le Seigneur t'a ordonné de nous dire.</p><p><sup>34</sup>Alors Pierre, ouvrant la bouche, dit: En vérité, je reconnais que Dieu ne fait point acception de personnes,</p><p><sup>35</sup>mais qu'en toute nation celui qui le craint et qui pratique la justice lui est agréable.</p><p><sup>36</sup>Il a envoyé la parole aux fils d'Israël, en leur annonçant la paix par Jésus Christ, qui est le Seigneur de tous.</p><p><sup>37</sup>Vous savez ce qui est arrivé dans toute la Judée, après avoir commencé en Galilée, à la suite du baptême que Jean a prêché;</p><p><sup>38</sup>vous savez comment Dieu a oint du Saint Esprit et de force Jésus de Nazareth, qui allait de lieu en lieu faisant du bien et guérissant tous ceux qui étaient sous l'empire du diable, car Dieu était avec lui.</p><p><sup>39</sup>Nous sommes témoins de tout ce qu'il a fait dans le pays des Juifs et à Jérusalem. Ils l'ont tué, en le pendant au bois.</p><p><sup>40</sup>Dieu l'a ressuscité le troisième jour, et il a permis qu'il apparût,</p><p><sup>41</sup>non à tout le peuple, mais aux témoins choisis d'avance par Dieu, à nous qui avons mangé et bu avec lui, après qu'il fut ressuscité des morts.</p><p><sup>42</sup>Et Jésus nous a ordonné de prêcher au peuple et d'attester que c'est lui qui a été établi par Dieu juge des vivants et des morts.</p><p><sup>43</sup>Tous les prophètes rendent de lui le témoignage que quiconque croit en lui reçoit par son nom le pardon des péchés.</p><p><sup>44</sup>Comme Pierre prononçait encore ces mots, le Saint Esprit descendit sur tous ceux qui écoutaient la parole.</p><p><sup>45</sup>Tous les fidèles circoncis qui étaient venus avec Pierre furent étonnés de ce que le don du Saint Esprit était aussi répandu sur les païens.</p><p><sup>46</sup>Car ils les entendaient parler en langues et glorifier Dieu.</p><p><sup>47</sup>Alors Pierre dit: Peut-on refuser l'eau du baptême à ceux qui ont reçu le Saint Esprit aussi bien que nous?</p><p><sup>48</sup>Et il ordonna qu'ils fussent baptisés au nom du Seigneur. Sur quoi ils le prièrent de rester quelques jours auprès d'eux.</p></div>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratiquez ici la libéralité et la sainte-cène ou dans la section Se préparer pour la mission.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se préparer pour la mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez des gens vers qui ou des endroits où vous pouvez prendre l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez des promesses « Je ferai d’ici quand » et partagez cela avec votre petit groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bénédiction (facultatif)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-mutiply320-i-will"
+      }
+    }
+  ]
+}

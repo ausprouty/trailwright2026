@@ -1,0 +1,60 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply115",
+  "sortOrder": 15,
+  "blocks": [
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<div class=\"lesson\"><img class=\"lesson-icon\" src=\"/sites/mc2/images/standard/look-back.png\"> <div class=\"lesson-subtitle\">Regarder Derrière</div> </div> <div class=\"reveal\"> <hr> <h2>Louange</h2> <p>Lisez un passage biblique et exécutez un chant d’adoration.</p> <ul> <li>Exemple: {Hébreux 4:14-16} et exécutez des chants. </li> <li>(facultatif) Utilisez une déclaration de foi au sujet de Jésus comme {Philippiens 2:11b} + {1 Timothée 2:4-6a} </li> </ul> <hr></div> <ul> </ul> <h2>Soin</h2> <p>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</p> <ul> <li>Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine.</li> <li>Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels.</li> </ul> <h2>Célébrer la Fidélité</h2> <p>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour.</p> <ul> <li>Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »</li> </ul> <div class=\"reveal\"> <hr> <h2>Projection de Vision</h2> <p>Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux.</p> <p>Exemple: Un jour, Jésus envoya ses disciples pour prêcher aux habitants des villages voisins. A leur retour ils étaient si contents de ce que Dieu a fait à travers eux, « Seigneur, même les démons nous obéissent quand nous utilisons ton nom!» Après s’être réjouis avec eux, Jésus leur donna cette perspective « Cependant, ne vous réjouissez pas de ce que les esprits vous sont soumis; mais réjouissez-vous de ce que vos nom sont écrits dans les cieux. » ({Luc 10:17-20}) </p> Jésus nous rappelle que notre joie ne se trouve pas dans les résultats mais plutôt en ce que nous Le connaissons! <p> </p> <hr></div>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Hébreux 4:14-16",
+            "label": "Hébreux 4:14-16",
+            "passage": "<p><sup>14</sup>Ainsi, puisque nous avons un grand souverain sacrificateur qui a traversé les cieux, Jésus, le Fils de Dieu, demeurons fermes dans la foi que nous professons.</p><p><sup>15</sup>Car nous n'avons pas un souverain sacrificateur qui ne puisse compatir à nos faiblesses; au contraire, il a été tenté comme nous en toutes choses, sans commettre de péché.</p><p><sup>16</sup>Approchons-nous donc avec assurance du trône de la grâce afin d'obtenir miséricorde et de trouver grâce, pour être secourus dans nos besoins.</p>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "Philippiens 2:11b",
+            "label": "Philippiens 2:11b",
+            "passage": "<p><sup>11</sup>et que toute langue confesse que Jésus Christ est Seigneur, à la gloire de Dieu le Père.</p>"
+          },
+          {
+            "id": "popup_pop3",
+            "marker": "1 Timothée 2:4-6a",
+            "label": "1 Timothée 2:4-6a",
+            "passage": "<p><sup>4</sup>qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité.</p><p><sup>5</sup>Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus Christ homme,</p><p><sup>6</sup>qui s'est donné lui-même en rançon pour tous. C'est là le témoignage rendu en son propre temps,</p>"
+          },
+          {
+            "id": "popup_pop6",
+            "marker": "Luc 10:17-20",
+            "label": "Luc 10:17-20",
+            "passage": "<p><sup>17</sup>Les soixante-dix revinrent avec joie, disant: Seigneur, les démons mêmes nous sont soumis en ton nom.</p><p><sup>18</sup>Jésus leur dit: Je voyais Satan tomber du ciel comme un éclair.</p><p><sup>19</sup>Voici, je vous ai donné le pouvoir de marcher sur les serpents et les scorpions, et sur toute la puissance de l'ennemi; et rien ne pourra vous nuire.</p><p><sup>20</sup>Cependant, ne vous réjouissez pas de ce que les esprits vous sont soumis; mais réjouissez-vous de ce que vos noms sont écrits dans les cieux.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    }
+  ]
+}

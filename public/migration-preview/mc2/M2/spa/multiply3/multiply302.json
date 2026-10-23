@@ -1,0 +1,437 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply302",
+  "sortOrder": 4,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">(opcional) Use una Declaración de Fe acerca de Jesús, como {Filipenses 2:11b}; {1 Timoteo 2:4-6a} </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11b",
+                    "label": "Filipenses 2:11b",
+                    "passage": "<p><sup>11</sup>... para gloria de Dios Padre.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timoteo 2:4-6a",
+                    "label": "1 Timoteo 2:4-6a",
+                    "passage": "<p><sup>4</sup>pues él quiere que todos sean salvos y lleguen a conocer la verdad.<sup>5</sup>Porque hay un solo Dios y un solo mediador entre Dios y los hombres, Jesucristo hombre,<sup>6</sup>quien dio su vida como rescate por todos.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar a las necesidades de los demás en oración, consejo bíblico y aliento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunta: \"¿Qué pasó cuando confiaste en Dios tus metas y tu declaración: “Yo haré…”?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y Animo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Elija una manera de proyectar visión de quiénes pueden llegar a ser en Cristo o lo que Dios puede hacer a través de ellos al</em>:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartir un versículo Bíblico que les recuerde el Corazón del Padre y la visión final."
+                  },
+                  {
+                    "text": "Reflexionando sobre los cambios en su vida desde que comenzaron a seguir a Cristo"
+                  },
+                  {
+                    "text": "recordándoles lo que Dios quiere hacer a través de ellos"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Comparta la GRAN visión de \"Una iglesia para cada pueblo y comunidad, y el Evangelio para cada persona\"."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídale al grupo que cuente la historia de la semana pasada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Hechos 1:12-26</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Hechos 1:12-26",
+        "html": "<div> <div> <h3>Elección de Matías para reemplazar a Judas</h3> <p><sup>12</sup>Entonces regresaron a Jerusalén desde el monte llamado de los Olivos, situado aproximadamente a un kilómetro de la ciudad.<sup>13</sup>Cuando llegaron, subieron al lugar donde se alojaban. Estaban allí Pedro, Juan, Jacobo, Andrés, Felipe, Tomás, Bartolomé, Mateo, Jacobo hijo de Alfeo, Simón el Zelote y Judas hijo de Jacobo.<sup>14</sup>Todos, en un mismo espíritu, se dedicaban a la oración, junto con las mujeres y con los hermanos de Jesús y su madre María.</p> <p><sup>15</sup>Por aquellos días Pedro se puso de pie en medio de los creyentes, que eran un grupo como de ciento veinte personas,<sup>16</sup>y les dijo: «Hermanos, tenía que cumplirse la Escritura que, por boca de David, había predicho el Espíritu Santo en cuanto a Judas, el que sirvió de guía a los que arrestaron a Jesús.<sup>17</sup>Judas se contaba entre los nuestros y participaba en nuestro ministerio.<sup>18</sup>(Con el dinero que obtuvo por su crimen, Judas compró un terreno; allí cayó de cabeza, se reventó, y se le salieron las vísceras.<sup>19</sup>Todos en Jerusalén se enteraron de ello, así que aquel terreno fue llamado Acéldama, que en su propio idioma quiere decir “Campo de Sangre”).</p> <p><sup>20</sup>»Porque en el libro de los Salmos —continuó Pedro— está escrito:</p> <p>»“Que su lugar quede desierto,<br> y que nadie lo habite”.</p> </div> <p>También está escrito:</p> <p>»“Que otro se haga cargo de su oficio”.</p> </div> <p><sup>21-22</sup>Por tanto, es preciso que se una a nosotros un testigo de la resurrección, uno de los que nos acompañaban todo el tiempo que el Señor Jesús vivió entre nosotros, desde que Juan bautizaba hasta el día en que Jesús fue llevado de entre nosotros».</p> <p><sup>23</sup>Así que propusieron a dos: a José, llamado Barsabás, apodado el Justo, y a Matías.<sup>24</sup>Y oraron así: «Señor, tú que conoces el corazón de todos, muéstranos a cuál de estos dos has elegido<sup>25</sup>para que se haga cargo del servicio apostólico que Judas dejó para irse al lugar que le correspondía».<sup>26</sup>Luego echaron suertes y la elección recayó en Matías; así que él fue reconocido junto con los once apóstoles.</p>",
+        "url": "https://biblegateway.com/passage/?search=Hechos%201:12-26&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Hechos 1:12-26",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7303-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7303-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de Descubrimiento",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención o qué es lo que más te gustó? ¿por qué?"
+          },
+          {
+            "text": "¿Qué hay de nuevo o se ha desarrollado a estas alturas de la historia?"
+          },
+          {
+            "text": "¿Qué se está modelando acerca de una vida dependiente del Espíritu, haciendo discípulos o liderazgo?"
+          },
+          {
+            "text": "¿Cómo podemos vivir de manera diferente ahora que conocemos esta historia?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Preguntas adicionales que puede utilizar:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Cómo continúan los seguidores de Jesús Su obra de hacer discípulos y plantar iglesias?"
+          },
+          {
+            "text": "¿Cómo está impactando el Evangelio en las personas y en la sociedad?"
+          },
+          {
+            "text": "¿Qué barreras u obstáculos se superaron y cómo se superaron?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Sólo quedaban 120 discípulos juntos en Jerusalén en este momento. La madre, los hermanos y las hermanas de Jesús ahora estaban incluidos en la lista de creyentes. Esta historia muestra que, aunque sus nombres no fueron listados en los Evangelios, hubo muchos otros que siguieron a Jesús desde el momento en que fue bautizado hasta que regresó al cielo. Jesús seleccionó a los doce Apóstoles iniciales de entre muchos posibles candidatos. Los once restantes determinaron que el criterio principal para seleccionar un reemplazo era la cantidad de tiempo que habían presenciado la vida y el ministerio de Jesús. Esta es la última vez que vemos la forma del Antiguo Testamento de echar lotes que se utilizan para tomar decisiones. Jesús nunca usó el molde de lotes para discernir la voluntad del Padre porque él escuchó y obedeció al Espíritu. Después de que el Espíritu es enviado, discernir la voluntad de Dios se hace a través de someterse y mantenerse en sintonía con el Espíritu."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Practique el dar y la Santa Cena aquí o en la sección Preparación para la Misión"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Practique las habilidades necesarias o temas previos para ayudar a prepararse para ministrar a los demás:",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "Orar, Cuidar, Compartir"
+                        },
+                        {
+                          "text": "Evangelio"
+                        },
+                        {
+                          "text": "Estudios Bíblicos Fundamentales"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica personas o lugares a los que tomarás la iniciativa de ministrar esta semana."
+          },
+          {
+            "text": "Escriba declaraciones usando de \"Yo haré…. cuando…” y que lo comparan con a su grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos al Señor. Pídele al Señor que nos ayude a ser fieles y que nos use para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bendición (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply302-i-will"
+      }
+    }
+  ]
+}

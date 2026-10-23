@@ -1,0 +1,46 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply2intro1",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Devenir la personne que vous cherchez à multiplier, se préparer pour une vie pieuse et un mouvement de multiplication."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Ceci va de sa naissance autour de 4 av. J.C. jusqu’à environ 30 ans d’âge."
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li>Au cours des 30 premières années de sa vie, il «a grandi et est devenu» ({Luc 2:40}; {Luc 2:51-52}) le Produit qu’il cherchait à multiplier dans la vie d’autres personnes. Ceci est bien avant qu’Il ne commence son ministère public. La prière, la planification et la clarification de ce que son ministère allait être et comment s’y prendre étaient évidents une fois qu’il a lancé (le ministère).<br> </li> <li>La Passion de son cœur était pure, son But était clair, et<br> </li> <li>Le Processus qu’il a décidé était simple: son travail consistera à entrer en contact avec les perdus, les gagner à Lui-même, les préparer pour le suivre, les former à en pêcher d’autres et les envoyer pour Multiplier le même processus.<br> </li> <li>Il a décidé qu’il cherchera, travaillera avec et par Ceux que le Père a préparé.</li>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Luc 2:40",
+            "label": "Luc 2:40",
+            "passage": "<p><sup>40</sup>Or, l'enfant croissait et se fortifiait. Il était rempli de sagesse, et la grâce de Dieu était sur lui.</p>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "Luc 2:51-52",
+            "label": "Luc 2:51-52",
+            "passage": "<p><sup>51</sup>Puis il descendit avec eux pour aller à Nazareth, et il leur était soumis. Sa mère gardait toutes ces choses dans son coeur.</p><p><sup>52</sup>Et Jésus croissait en sagesse, en stature, et en grâce, devant Dieu et devant les hommes.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    }
+  ]
+}

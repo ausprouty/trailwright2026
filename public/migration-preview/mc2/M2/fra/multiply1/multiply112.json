@@ -1,0 +1,49 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply112",
+  "sortOrder": 12,
+  "blocks": [
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<div class=\"lesson\"><img class=\"lesson-icon\" src=\"/sites/mc2/images/standard/look-back.png\"> <div class=\"lesson-subtitle\">Regarder Derrière</div> </div> <div class=\"reveal\"> <hr> <h2>Louange</h2> <p>Lisez un passage biblique et exécutez un chant d’adoration.</p> <ul> <li>Exemple: Lisez {Psaumes 9:1-2} et exécutez des chants. </li> </ul> <hr></div> <ul> </ul> <h2>Soin</h2> <p>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</p> <ul> <li>Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine.</li> <li>Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels.</li> </ul> <h2>Célébrer la Fidélité</h2> <p>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour</p> <ul> <li>Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »</li> </ul> <div class=\"reveal\"> <hr> <h2>Projection de Vision</h2> <p>Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux.</p> <p>Exemple: Puisque tout le monde est appelé à suivre Jésus et à pêcher des hommes, nous devrions réaliser qu'il n'y a que deux types de personnes dans le monde: les perdues et les sauvées. Les personnes perdues doivent suivre Jésus. Les personnes sauvées doivent apprendre à pêcher les perdues. Lorsque vous voyez le monde comme constitué de deux types de personnes, vos interactions quotidiennes deviennent beaucoup plus simples. Si vous rencontrez une personne perdue, témoignez-lui. Si vous rencontrez une personne sauvée, proposez-lui de la former. C’est aussi simple que cela !</p> <hr></div>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Psaumes 9:1-2",
+            "label": "Psaumes 9:1-2",
+            "passage": "<p><sup>1</sup>Au chef des chantres. Sur «Meurs pour le fils». Psaume de David. Je louerai l'Éternel de tout mon coeur, Je raconterai toutes tes merveilles.</p><p><sup>2</sup>Je ferai de toi le sujet de ma joie et de mon allégresse, Je chanterai ton nom, Dieu Très Haut!</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Pour en savoir davantage veuillez lire le <a href=\"/sites/mc2/content/M2/fra/tc/ct07.html\">Message transmissible N° 7 : Comment aider à accomplir la Grande Commission</a> et en discuter avec un autre membre du groupe.",
+        "className": "for-enrichment"
+      }
+    }
+  ]
+}

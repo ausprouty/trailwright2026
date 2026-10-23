@@ -1,0 +1,381 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply320",
+  "sortOrder": 28,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向后看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "敬拜赞美",
+        "level": 2
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "祷告关怀",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感谢神和需要耶稣为你做的事，并彼此感恩代祷"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "庆贺实践",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"back\">请分享上周你因信靠神忠心地操练和实践基督使命的福音行动</li> <li class=\"back\">背诵上周经文（{徒10:17}） </li>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "徒10:17",
+            "label": "徒10:17",
+            "passage": "<p><sup>17</sup><u class=\"person underline\">彼得</u>心里正在猜疑之间，不知所看见的异象是什么意思，<u class=\"person underline\">哥尼流</u>所差来的人已经访问到<u class=\"person underline\">西门</u>的家，站在门外，</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "天父心意",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "神愿意人参与祂福音传扬的工作，用祂的大能改变人、带领人明白祂美好的心意，而且让所有的信徒愿意打破陈见、彼此接纳，可以在祂的国度的拓展中合一。我们也需要顺服神的带领，从历史中了解神的心意和作为，有热心、信心和爱心参与这样的事工。神给人的救恩就是人必须“信耶稣是基督，是神的儿子”，这样“就可以因祂的名得生命”({约20:31})。 深愿神的国降临，更多人因认识耶稣基督得享丰盛的生命，享受在基督里真正的自由和释放。",
+        "references": [
+          {
+            "id": "popup_pop5",
+            "marker": "约20:31",
+            "label": "约20:31",
+            "passage": "<p><sup>31</sup>但记这些事要叫你们信耶稣是基督，是神的儿子，并且叫你们信了他，就可以因他的名得生命。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"lesson-icon\" src=\"/sites/mc2/content/M2/cmn/images/standard/mc2up.png\">"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "奉主差遣",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>经文背景</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "彼得和约帕的几个弟兄就动身到哥尼流家去了。彼得现在清楚异象的含义了。彼得就开口见证从死里复活的耶稣是基督，凡信他的人，必因他的名，得蒙赦罪。彼得话还没完，圣灵就降下来了。这记号是给当时在场的犹太人看的。犹太人不能想象外邦人也能够得到圣灵的恩赐。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>阅读经文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "阅读或观看《徒10:34-48》两遍。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "徒10:34-48",
+        "html": "<p><sup>34</sup>彼得就开口说：“我真看出　神是不偏待人。<sup>35</sup>原来各国中，那敬畏主、行义的人都为主所悦纳。<sup>36</sup>神藉著耶稣基督（他是万有的主）传和平的福音，将这道赐给以色列人。<sup>37</sup>这话在约翰宣传洗礼以后，从加利利起，传遍了犹太。<sup>38</sup>神怎样以圣灵和能力膏拿撒勒人耶稣，这都是你们知道的。他周流四方，行善事，医好凡被魔鬼压制的人，因为　神与他同在。</p> <p><sup>39</sup>他在犹太人之地并耶路撒冷所行的一切事，有我们作见证。他们竟把他挂在木头上杀了。<sup>40</sup>第三日，　神叫他复活，显现出来；<sup>41</sup>不是显现给众人看，乃是显现给　神预先所拣选为他作见证的人看，就是我们这些在他从死里复活以后，和他同吃同喝的人。<sup>42</sup>他吩咐我们传道给众人，证明他是　神所立定的，要作审判活人死人的主。<sup>43</sup>众先知也为他作见证，说：‘凡信他的人，必因他的名得蒙赦罪。’</p> <p><sup>44</sup>彼得还说这话的时候，圣灵降在一切听道的人身上。<sup>45</sup>那些奉割礼和彼得同来的信徒，见圣灵的恩赐也浇在外邦人身上，就都希奇，<sup>46</sup>因听见他们说方言，称赞　神为大。<sup>47</sup>于是彼得说：“这些人既受了圣灵，与我们一样，谁能禁止用水给他们施洗呢？”<sup>48</sup>就吩咐奉耶稣基督的名给他们施洗。他们又请彼得住了几天。</p>",
+        "url": "https://biblegateway.com/passage/?search=徒10:34-48&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "徒10:34-48",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_20615-Acts7328-0-0",
+        "source": "arclight",
+        "refId": "2_20615-Acts7328-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索与讨论</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "让你印象深刻的经文/部分是什么？为什么？"
+                },
+                {
+                  "text": "耶稣的门徒如何延续祂在地上的工作，使万民作门徒与建立教会？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再读一遍故事。请小组一员口述这故事，其他人根据需要作补充或更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "小结",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "彼得的经历教导他一个重要的神学功课。主使用这个经历将救恩带给哥尼流及他的全家，也借机教导彼得和其他同行的犹太信徒一个重要的真理。主悦纳万民，他将同样的救恩赐给每个人。外邦人同样经历到犹太人在五旬节所经历的（{徒2:4}； {徒10:47}）， 强化了这个真理的真确性。彼得看出主对非犹太人的悦纳，就按照他们为犹太的新信徒所做的一样，命令这些人立即受洗。随后彼得在非犹太人的家中又待了几天，跟进初信的人。如今彼得帮助建立跨文化的教会，如同耶稣先前所说的（{徒1:8}）： 在耶路撒冷、犹太全地和撒玛利亚（徒八章），直到外邦人中间（徒十章）。文化籓篱的门如今大开，天国得以扩张。",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "徒2:4",
+                    "label": "徒2:4",
+                    "passage": "<p><sup>4</sup>他们就都被圣灵充满，按着圣灵所赐的口才说起别国的话来。</p>"
+                  },
+                  {
+                    "id": "popup_pop3",
+                    "marker": "徒10:47",
+                    "label": "徒10:47",
+                    "passage": "<p><sup>47</sup>于是<u class=\"person underline\">彼得</u>说：“这些人既受了圣灵，与我们一样，谁能禁止用水给他们施洗呢？”</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "徒1:8",
+                    "label": "徒1:8",
+                    "passage": "<p><sup>8</sup>但圣灵降临在你们身上，你们就必得着能力，并要在耶路撒冷、犹太全地和撒马利亚，直到地极，作我的见证。”</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "经文背诵",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "徒10:45-46"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>45</sup>那些奉割礼和彼得同来的信徒，见圣灵的恩赐也浇在外邦人身上，就都希奇，<sup>46</sup>因听见他们说方言，称赞　神为大。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音预备",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "你在彼得这篇讲词中发现有任何其它的迹象，足以表明这篇讲词是对异邦的听众而讲的吗？我们从他们对这件事的处置可以学到什么教训？"
+          },
+          {
+            "text": "试分享教会在宣教的事工上，可以摆上什么？如何动员更多教会和信徒参与跨民族的宣教？"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行动",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "在信靠耶稣的事上，你想有哪方面是耶稣会责备你信的不够的吗？在灵修时间，向主敞开你的心，并求祂用神的话语鼓励和刚强你，而你也将一切交托给祂。"
+          },
+          {
+            "text": "接下来主动关心不在身边的家人，为他们的救恩持续代祷，找机会向他们分享神的作为和奇事。求神也让你看到祂在你亲友中所行奇妙的神迹。"
+          },
+          {
+            "text": "为教会的牧者同工团队代求，求神让他们有颗合而为一的心，凡事谦卑寻求神的心意，以基督的心为心，积极推动教会的宣教事工，为主得人。"
+          },
+          {
+            "text": "持续花时间造就门徒，若他们心里还有任何疑惑，求神使用你来牧养和建立他们。他们的生命因为主而得坚立，靠主勇敢作见证。"
+          },
+          {
+            "text": "花3分钟写下你在本课的学习心得，或是你未来一周可能有的其他行动点。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音祷告",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "愿人都尊主的名为圣，愿神的国降临，愿神的旨意行在地上，如同行在天上。求主打发更多工人收割祂的庄稼，并拓展我们的疆界，在每1000人中就有1个“徒2群体”或教会。"
+          },
+          {
+            "text": "更多教会开始为普世，不同种族，跨文化和跨地域的宣教事工代祷和奉献。也求神开我们的心眼，看到广大禾场的需要，主动回应并参与祷告和宣教。"
+          },
+          {
+            "text": "为本城市教会与教会，牧者与牧者之间的配搭和连接祷告，愿众教会因着基督并祂的使命走在一起，各人看别人比自己强，并看得合乎中道；不因神学立场而争论，分门结党，乃为人人可以有一次听到福音的机会而齐心兴旺福音。"
+          },
+          {
+            "text": "分享教会或个人的代祷需要。（最后请一位做结束和祝福祷告。）"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply320-i-will"
+      }
+    }
+  ]
+}

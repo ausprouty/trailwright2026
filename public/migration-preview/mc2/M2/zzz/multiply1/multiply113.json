@@ -1,0 +1,376 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "zzz",
+  "htmlLang": "zzz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply113",
+  "sortOrder": 14,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Read {Psalm 100} and sing songs.",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Psalm 100",
+                    "label": "Psalm 100",
+                    "passage": "<div><h4>A psalm. For giving grateful praise.</h4><p><sup>1</sup>Shout for joy to the<span class=\"small-caps\">Lord, all the earth.<br><sup>2</sup>Worship the<span class=\"small-caps\">Lord with gladness;<br>come before him with joyful songs.<br><sup>3</sup>Know that the<span class=\"small-caps\">Lord is God.<br>It is he who made us, and we are his;<br>we are his people, the sheep of his pasture.</span></span></span></p></div><p><sup>4</sup>Enter his gates with thanksgiving<br>and his courts with praise;<br>give thanks to him and praise his name.<br><sup>5</sup>For the<span class=\"small-caps\">Lord is good and his love endures forever;<br>his faithfulness continues through all generations.</span></p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What is one highlight from this week?"
+          },
+          {
+            "text": "What is one challenge from this past week?"
+          },
+          {
+            "text": "What do you want Jesus to do for you this week?"
+          },
+          {
+            "text": "Pray for each other’s needs."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating God's Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What happened as you trusted God with your goals and <em>I will</em> statements?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Read {Ephesians 2:1-10}. Isn’t it amazing? We were dead in our sins, but God has made us alive. He did all of this so that you could accomplish the good works He has prepared for you. Our lives are full of purpose and meaning!",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Ephesians 2:1-10",
+                    "label": "Ephesians 2:1-10",
+                    "passage": "<p><sup>1</sup>As for you, you were dead in your transgressions and sins,<sup>2</sup>in which you used to live when you followed the ways of this world and of the ruler of the kingdom of the air, the spirit who is now at work in those who are disobedient.<sup>3</sup>All of us also lived among them at one time, gratifying the cravings of our flesh and following its desires and thoughts. Like the rest, we were by nature deserving of wrath.<sup>4</sup>But because of his great love for us, God, who is rich in mercy,<sup>5</sup>made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved.<sup>6</sup>And God raised us up with Christ and seated us with him in the heavenly realms in Christ Jesus,<sup>7</sup>in order that in the coming ages he might show the incomparable riches of his grace, expressed in his kindness to us in Christ Jesus.<sup>8</sup>For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—<sup>9</sup>not by works, so that no one can boast.<sup>10</sup>For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Let’s encourage each by reminding ourselves of these truths."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Context",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "During a Jewish feast called Pentecost, Jews from all over the world were in Jerusalem. God sent the Holy Spirit on 120 of His followers who had gathered together. Through the Spirit’s power, the 120 followers began speaking in the languages of the visitors from all over the world. Peter began preaching to a crowd about the death and resurrection of Jesus, proving He was the Messiah. As a result, 3,000 people believed and were baptized. But what came next after they believed?"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Read or watch Acts 2:41-47 two times as everyone listens"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Acts 2:41-47",
+        "html": "<p><sup>41 </sup>Those who accepted his message were baptized, and about three thousand were added to their number that day.</p> <p><sup>42</sup>They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer.<sup>43</sup>Everyone was filled with awe at the many wonders and signs performed by the apostles.<sup>44</sup>All the believers were together and had everything in common.<sup>45</sup>They sold property and possessions to give to anyone who had need.<sup>46</sup>Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts,<sup>47</sup>praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved.</p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%202:41-47&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Acts 2:42-47",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7306-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7306-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What caught your attention (or what did you like best) and why?"
+          },
+          {
+            "text": "What did you learn about Jesus?"
+          },
+          {
+            "text": "What did you learn about people?"
+          },
+          {
+            "text": "How will you obey Jesus now that you know this?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Read {Matthew 16:18}. The Holy Spirit led the early believers to meet together regularly for worship, prayer, fellowship, study of God’s word, loving one another and reaching out to those who did not yet know Christ. In every location of the book of Acts, people became followers of Christ and they made this same commitment to one another. This is a description of a local church! The gathering together of believers is also the main outcome of the Kingdom Growth process. Each new group of believers should work towards repeating the process in other new places.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Matthew 16:18",
+                    "label": "Matthew 16:18",
+                    "passage": "<p><sup>18</sup>And I tell you that you are Peter, and on this rock I will build my church, and the gates of Hades will not overcome it.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparing for Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Practice drawing the church health circle as an easy way to remember all the characteristics of church. Include: worship, fellowship, studying God’s word, prayer, Lord’s Supper, baptism, ministry, witness, giving and caring leaders."
+                  },
+                  {
+                    "text": "Discuss the following: “Does this group want to make that same commitment to one another? To be the Lord’s church in this place?”"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What is God revealing as your next steps this week with him and others?"
+          },
+          {
+            "text": "Share this step with the group and ask someone to pray for you as you take this step in the power of the Holy Spirit."
+          },
+          {
+            "text": "Commit everyone’s goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of people living the MyFriends Lifestyle."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying for the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<p>For further enrichment: Read <a href=\"https://app.mc2.online/content/M2/eng/tc/tc08.html\">Transferable Concept #8: How to Love By Faith</a> and discuss with another group member.</p>",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply113-i-will"
+      }
+    }
+  ]
+}

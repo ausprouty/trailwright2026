@@ -1,0 +1,139 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply2intro",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Jésus est notre modèle de vie et de ministère. Parce qu’il est notre modèle, il est important de connaitre son caractère, ses priorités, et son processus de construction d’un mouvement de formation de disciple. Ce mouvement se multiplie dans le but d’accomplir la Grande Commission."
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "Noël est le moment où nous célébrons le mystère de la Parole ({Jean 1:1}). La Parole est devenue pleinement humaine ({Jean 1:14}), née comme un garçon, Jésus de Nazareth. Il est venu de l’éternité et est entré dans le temps et l’espace. Il est entré dans une famille, une culture, un village, une tribu et a vécu un jour à la fois dans l'Israël du premier siècle sous la domination Romaine.",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Jean 1:1",
+            "label": "Jean 1:1",
+            "passage": "<p><sup>1</sup>Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu.</p>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "Jean 1:14",
+            "label": "Jean 1:14",
+            "passage": "<p><sup>14</sup>Et la parole a été faite chair, et elle a habité parmi nous, pleine de grâce et de vérité; et nous avons contemplé sa gloire, une gloire comme la gloire du Fils unique venu du Père.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Bien qu'il soit pleinement Dieu, il a choisi de vivre sa vie comme un homme à part entière, dans une totale obéissance à son Père céleste. Ce qu'il a accompli dans sa vie et son ministère, il l'a accompli en tant qu'homme de Nazareth, le Fils de l'Homme, par la puissance et la présence du Saint-Esprit en accomplissement de la volonté du Père. Bien qu'il ait eu le droit d'agir à partir de sa divinité, il a choisi de vivre uniquement à partir de sa parfaite humanité sans péché pour être notre exemple dans la façon de glorifier pleinement Dieu dans notre vie et dans notre ministère."
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "Jésus était et sera toujours pleinement Dieu. Même s'il avait toute l'autorité, le pouvoir et les ressources du Ciel à sa disposition, il ne s'en est jamais servi. Il a plutôt choisi de « devenir semblable à ses frères en tous points » ({Hébreux 2:17}), mais sans péché. Pour cette raison, le livre des Hébreux nous encourage : « C'est pourquoi, frères saints, qui participez à l'appel céleste, fixez vos pensées sur Jésus, l'apôtre et le grand prêtre que nous confessons ». ({Hébreux 3:1}).",
+        "references": [
+          {
+            "id": "popup_pop3",
+            "marker": "Hébreux 2:17",
+            "label": "Hébreux 2:17",
+            "passage": "<p><sup>17</sup>En conséquence, il a dû être rendu semblable en toutes choses à ses frères, afin qu'il fût un souverain sacrificateur miséricordieux et fidèle dans le service de Dieu, pour faire l'expiation des péchés du peuple;</p>"
+          },
+          {
+            "id": "popup_pop4",
+            "marker": "Hébreux 3:1",
+            "label": "Hébreux 3:1",
+            "passage": "<p><sup>1</sup>C'est pourquoi, frères saints, qui avez part à la vocation céleste, considérez l'apôtre et le souverain sacrificateur de la foi que nous professons,</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Les quatre rédacteurs de l'Évangile font un résumé de sa vie et de ses enseignements. En étudiant leur témoignage écrit, nous pouvons en apprendre davantage sur le développement de son mouvement. Dans son humanité, même Jésus était soumis au temps et à l'espace et vivait dans l'ordre des heures, des jours, des semaines et des années. Il a initié et a développé son mouvement dans le temps. Par conséquent, l'étude de cas de Jésus est très instructive pour les Leaders. Nous pouvons comprendre comment sa vie et son mouvement se sont déroulés dans le temps en reconstituant une séquence chronologique à partir des preuves fournies par les évangiles."
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "Luc nous dit qu'il a cherché à fournir un « récit ordonné » et bien documenté de la vie de Jésus ({Luc 1:1-4}). Les autres écrivains ne se sont pas préoccupés de l'ordre des événements, mais ont organisé leurs récits autour de thèmes. Par exemple, Jean, le dernier des quatre à avoir écrit son évangile, a enregistré beaucoup de nouveaux éléments pour combler certaines lacunes dans le temps, en particulier les dix-huit premiers mois (Jean 1-4) et les dernières semaines (Jean 12-21) de la vie et du ministère terrestres de Jésus. En fait, Jean 13-20 ne couvre que trois jours !",
+        "references": [
+          {
+            "id": "popup_pop5",
+            "marker": "Luc 1:1-4",
+            "label": "Luc 1:1-4",
+            "passage": "<p><sup>1</sup>Plusieurs ayant entrepris de composer un récit des événements qui se sont accomplis parmi nous,</p><p><sup>2</sup>suivant ce que nous ont transmis ceux qui ont été des témoins oculaires dès le commencement et sont devenus des ministres de la parole,</p><p><sup>3</sup>il m'a aussi semblé bon, après avoir fait des recherches exactes sur toutes ces choses depuis leur origine, de te les exposer par écrit d'une manière suivie, excellent Théophile,</p><p><sup>4</sup>afin que tu reconnaisses la certitude des enseignements que tu as reçus.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "L'évangile de Luc nous donne quelques repères de date afin que nous puissions situer Jésus dans un contexte historique."
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<em>Plusieurs ayant entrepris de composer un récit des évènements qui se sont accomplis parmi nous, suivant ce que nous ont transmis ceux qui ont été des témoins oculaires dès le commencement et sont devenus des ministres de la parole. Il m’a aussi semblé bon, après avoir fait des recherches exactes sur toutes ces choses depuis leur origine, de te les exposer par écrit d’une manie suivie, excellent Théophile, afin que tu reconnaisses la certitude des enseignements que tu as reçus.</em> – {Luc 1:1-4} LSG. Luc nous dit que Jésus est né pendant le règne du roi Hérode [le Grand] (Luc 1:5), pendant le règne de César Auguste ({Luc 2:1-7}) et pendant que Quirinius était gouverneur de Syrie ({Luc 2:2}). Il déclare également que Jésus a commencé son ministère pendant le 15ème règne de Tibère César ({Luc 3:1-2}) et que Jésus avait environ 30 ans lorsqu'il a commencé ({Luc 3:21-23}). C'est important car cela nous aide à mieux comprendre quand et pendant combien de temps Jésus a exercé son ministère. Nous pouvons commencer à voir les mesures qu'il a prises pour jeter les bases de la formation de disciples, faire de ses disciples des faiseurs de disciples et, avec le temps, équiper les faiseurs de disciples éprouvés pour qu'ils deviennent des leaders de Mouvements Multipliés.",
+        "references": [
+          {
+            "id": "popup_pop6",
+            "marker": "Luc 1:1-4",
+            "label": "Luc 1:1-4",
+            "passage": "<p><sup>1</sup>Plusieurs ayant entrepris de composer un récit des événements qui se sont accomplis parmi nous,</p><p><sup>2</sup>suivant ce que nous ont transmis ceux qui ont été des témoins oculaires dès le commencement et sont devenus des ministres de la parole,</p><p><sup>3</sup>il m'a aussi semblé bon, après avoir fait des recherches exactes sur toutes ces choses depuis leur origine, de te les exposer par écrit d'une manière suivie, excellent Théophile,</p><p><sup>4</sup>afin que tu reconnaisses la certitude des enseignements que tu as reçus.</p>"
+          },
+          {
+            "id": "popup_pop7",
+            "marker": "Luc 2:1-7",
+            "label": "Luc 2:1-7",
+            "passage": "<p><sup>1</sup>En ce temps-là parut un édit de César Auguste, ordonnant un recensement de toute la terre.</p><p><sup>2</sup>Ce premier recensement eut lieu pendant que Quirinius était gouverneur de Syrie.</p><p><sup>3</sup>Tous allaient se faire inscrire, chacun dans sa ville.</p><p><sup>4</sup>Joseph aussi monta de la Galilée, de la ville de Nazareth, pour se rendre en Judée, dans la ville de David, appelée Bethléhem, parce qu'il était de la maison et de la famille de David,</p><p><sup>5</sup>afin de se faire inscrire avec Marie, sa fiancée, qui était enceinte.</p><p><sup>6</sup>Pendant qu'ils étaient là, le temps où Marie devait accoucher arriva,</p><p><sup>7</sup>et elle enfanta son fils premier-né. Elle l'emmaillota, et le coucha dans une crèche, parce qu'il n'y avait pas de place pour eux dans l'hôtellerie.</p>"
+          },
+          {
+            "id": "popup_pop8",
+            "marker": "Luc 2:2",
+            "label": "Luc 2:2",
+            "passage": "<p><sup>2</sup>Ce premier recensement eut lieu pendant que Quirinius était gouverneur de Syrie.</p>"
+          },
+          {
+            "id": "popup_pop9",
+            "marker": "Luc 3:1-2",
+            "label": "Luc 3:1-2",
+            "passage": "<p><sup>1</sup>La quinzième année du règne de Tibère César, -lorsque Ponce Pilate était gouverneur de la Judée, Hérode tétrarque de la Galilée, son frère Philippe tétrarque de l'Iturée et du territoire de la Trachonite, Lysanias tétrarque de l'Abilène,</p><p><sup>2</sup>et du temps des souverains sacrificateurs Anne et Caïphe, -la parole de Dieu fut adressée à Jean, fils de Zacharie, dans le désert.</p>"
+          },
+          {
+            "id": "popup_pop10",
+            "marker": "Luc 3:21-23",
+            "label": "Luc 3:21-23",
+            "passage": "<p><sup>21</sup>Tout le peuple se faisant baptiser, Jésus fut aussi baptisé; et, pendant qu'il priait, le ciel s'ouvrit,</p><p><sup>22</sup>et le Saint Esprit descendit sur lui sous une forme corporelle, comme une colombe. Et une voix fit entendre du ciel ces paroles: Tu es mon Fils bien-aimé; en toi j'ai mis toute mon affection.</p><p><sup>23</sup>Jésus avait environ trente ans lorsqu'il commença son ministère, étant, comme on le croyait, fils de Joseph, fils d'Héli,</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Les séries de podcasts et de vidéos sont disponibles à l'adresse suivante : <a href=\"https://vimeo.com/channels/movementbuilding\">www.movementbuilders.com.au</a>"
+      }
+    }
+  ]
+}

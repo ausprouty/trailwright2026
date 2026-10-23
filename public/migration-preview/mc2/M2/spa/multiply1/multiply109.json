@@ -1,0 +1,427 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply109",
+  "sortOrder": 10,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">Ejemplo: Lee {Romanos 11:33-36} y canten 1- 2 alabanzas.</li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Romanos 11:33-36",
+                    "label": "Romanos 11:33-36",
+                    "passage": "<p><sup>33</sup>¡Qué profundas son las riquezas<br>de la sabiduría y del conocimiento de Dios!<br>¡Qué indescifrables sus juicios<br>e impenetrables sus caminos!<br><sup>34</sup>«¿Quién ha conocido la mente del Señor,<br>o quién ha sido su consejero?»<br><sup>35</sup>«¿Quién le ha dado primero a Dios,<br>para que luego Dios le pague?»<br><sup>36</sup>Porque todas las cosas proceden de él,<br>y existen por él y para él.<br>¡A él sea la gloria por siempre! Amén.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar las necesidades de los demás en oración, consejo bíblico y ánimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunta: \"¿Qué pasó cuando confiaste en Dios tus metas y tu declaración: “Yo haré…”?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y Animo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Proyectar visión de quiénes pueden llegar a ser en Cristo o lo que Dios puede hacer a través de ellos.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Ejemplo: Dios cambia vidas y las usa para Su gloria. Un ejemplo es la historia de un hombre de Medio Oriente llamado Adán. Fue entrenado para ser un mártir de su religión. Pero todo eso cambió una noche cuando se encontró dramáticamente con Cristo. Estaba tan entusiasmado con su nueva relación con Cristo, que comenzó a contar su testimonio a todos sus conocidos. A pesar de ser perseguido, continúa compartiendo el Evangelio y entrenando a otros. Anímelos leyendo {1 Corintios 1:24-31}.",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Corintios 1:24-31",
+                    "label": "1 Corintios 1:24-31",
+                    "passage": "<p><sup>24</sup>pero para los que Dios ha llamado, lo mismo judíos que gentiles, Cristo es el poder de Dios y la sabiduría de Dios.<sup>25</sup>Pues la locura de Dios es más sabia que la sabiduría humana, y la debilidad de Dios es más fuerte que la fuerza humana.</p><p><sup>26</sup>Hermanos, consideren su propio llamamiento: No muchos de ustedes son sabios, según criterios meramente humanos; ni son muchos los poderosos ni muchos los de noble cuna.<sup>27</sup>Pero Dios escogió lo insensato del mundo para avergonzar a los sabios, y escogió lo débil del mundo para avergonzar a los poderosos.<sup>28</sup>También escogió Dios lo más bajo y despreciado, y lo que no es nada, para anular lo que es,<sup>29</sup>a fin de que en su presencia nadie pueda jactarse.<sup>30</sup>Pero gracias a él ustedes están unidos a Cristo Jesús, a quien Dios ha hecho nuestra sabiduría —es decir, nuestra justificación, santificación y redención—<sup>31</sup>para que, como está escrito: «Si alguien ha de gloriarse, que se gloríe en el Señor».</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesús desafió a cuatro hombres a seguirlo y aprender a pescar hombres. Mientras Jesús entrenaba a sus seguidores para pescar hombres, les modeló seis situaciones diferentes para ellos. La última situación fue para un extraño funcionario del gobierno que se uniría a los cuatro hombres y se convertiría en uno de los seguidores más cercanos de Jesús."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Lucas 5:27-32</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 5:27-32",
+        "html": "<h3>Llamamiento de Leví</h3> <p><sup>27</sup>Después de esto salió Jesús y se fijó en un recaudador de impuestos llamado Leví, sentado a la mesa donde cobraba.</p> <p>—Sígueme —le dijo Jesús.</p> <p><sup>28</sup>Y Leví se levantó, lo dejó todo y lo siguió.</p> <p><sup>29</sup>Luego Leví le ofreció a Jesús un gran banquete en su casa, y había allí un grupo numeroso de recaudadores de impuestos y otras personas que estaban comiendo con ellos.<sup>30</sup>Pero los fariseos y los maestros de la ley que eran de la misma secta les reclamaban a los discípulos de Jesús:</p> <p>—¿Por qué comen y beben ustedes con recaudadores de impuestos y pecadores?</p> <p><sup>31</sup>—No son los sanos los que necesitan médico, sino los enfermos —les contestó Jesús—.<sup>32</sup>No he venido a llamar a justos, sino a pecadores para que se arrepientan.</p>",
+        "url": "https://biblegateway.com/passage/?search=Lucas%205:27-32&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lucas 5:27-32",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2605",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2605",
+        "startTime": "6:10",
+        "endTime": "7:25",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de Descubrimiento (Todos responden)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención (o qué te gustó más) y por qué?"
+          },
+          {
+            "text": "¿Qué aprendiste acerca de Jesús?"
+          },
+          {
+            "text": "¿Qué aprendiste sobre las personas?"
+          },
+          {
+            "text": "¿Cómo obedecerás a Jesús ahora que sabes esto?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Lee{Lucas 10:1-11}.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Lucas 10:1-11",
+                    "label": "Lucas 10:1-11",
+                    "passage": "<p><sup>1</sup>Después de esto, el Señor escogió a otros setenta y dos para enviarlos de dos en dos delante de él a todo pueblo y lugar adonde él pensaba ir.<sup>2</sup>«Es abundante la cosecha —les dijo—, pero son pocos los obreros. Pídanle, por tanto, al Señor de la cosecha que mande obreros a su campo.<sup>3</sup>¡Vayan ustedes! Miren que los envío como corderos en medio de lobos.<sup>4</sup>No lleven monedero ni bolsa ni sandalias; ni se detengan a saludar a nadie por el camino.</p><p><sup>5</sup>»Cuando entren en una casa, digan primero: “Paz a esta casa”.<sup>6</sup>Si hay allí alguien digno de paz, gozará de ella; y, si no, la bendición no se cumplirá.<sup>7</sup>Quédense en esa casa, y coman y beban de lo que ellos tengan, porque el trabajador tiene derecho a su sueldo. No anden de casa en casa.</p><p><sup>8</sup>»Cuando entren en un pueblo y los reciban, coman lo que les sirvan.<sup>9</sup>Sanen a los enfermos que encuentren allí y díganles: “El reino de Dios ya está cerca de ustedes”.<sup>10</sup>Pero, cuando entren en un pueblo donde no los reciban, salgan a las plazas y digan:<sup>11</sup>“Aun el polvo de este pueblo, que se nos ha pegado a los pies, nos lo sacudimos en protesta contra ustedes. Pero tengan por seguro que ya está cerca el reino de Dios”.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesús envió a sus seguidores a hacer las mismas cosas que Él había estado haciendo: orar por las personas, cuidar de sus necesidades y compartir acerca del sobre Reino. Esto se puede resumir como Orar, Cuidar y, Compartir. ÉL se multiplicó así mismo entrenando y enviando nuevos obreros. La Persona de Paz es una persona preparada por Dios que te recibirá a ti y a tu mensaje y a través de sus relaciones, abrir nuevas redes de personas para al Evangelio."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Para mayor enriquecimiento: Estudia las siguientes Personas de Paz y habla con otro miembro del grupo: {Lucas 19:1-10}, {Marcos 5:14-20}, {Juan 4:1-42}, {Hechos 16:13-15}.",
+                "references": [
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Lucas 19:1-10",
+                    "label": "Lucas 19:1-10",
+                    "passage": "<p><sup>1</sup>Jesús llegó a Jericó y comenzó a cruzar la ciudad.<sup>2</sup>Resulta que había allí un hombre llamado Zaqueo, jefe de los recaudadores de impuestos, que era muy rico.<sup>3</sup>Estaba tratando de ver quién era Jesús, pero la multitud se lo impedía, pues era de baja estatura.<sup>4</sup>Por eso se adelantó corriendo y se subió a un árbol sicómoro para poder verlo, ya que Jesús iba a pasar por allí.</p><p><sup>5</sup>Llegando al lugar, Jesús miró hacia arriba y le dijo:</p><p>—Zaqueo, baja en seguida. Tengo que quedarme hoy en tu casa.</p><p><sup>6</sup>Así que se apresuró a bajar y, muy contento, recibió a Jesús en su casa.</p><p><sup>7</sup>Al ver esto, todos empezaron a murmurar: «Ha ido a hospedarse con un pecador».</p><p><sup>8</sup>Pero Zaqueo dijo resueltamente:</p><p>—Mira, Señor: Ahora mismo voy a dar a los pobres la mitad de mis bienes y, si en algo he defraudado a alguien, le devolveré cuatro veces la cantidad que sea.</p><p><sup>9</sup>—Hoy ha llegado la salvación a esta casa —le dijo Jesús—, ya que este también es hijo de Abraham.<sup>10</sup>Porque el Hijo del hombre vino a buscar y a salvar lo que se había perdido.</p>"
+                  },
+                  {
+                    "id": "popup_pop5",
+                    "marker": "Marcos 5:14-20",
+                    "label": "Marcos 5:14-20",
+                    "passage": "<p><sup>14</sup>Los que cuidaban los cerdos salieron huyendo y dieron la noticia en el pueblo y por los campos, y la gente fue a ver lo que había pasado.<sup>15</sup>Llegaron adonde estaba Jesús y, cuando vieron al que había estado poseído por la legión de demonios, sentado, vestido y en su sano juicio, tuvieron miedo.<sup>16</sup>Los que habían presenciado estos hechos le contaron a la gente lo que había sucedido con el endemoniado y con los cerdos.<sup>17</sup>Entonces la gente comenzó a suplicarle a Jesús que se fuera de la región.</p><p><sup>18</sup>Mientras subía Jesús a la barca, el que había estado endemoniado le rogaba que le permitiera acompañarlo.<sup>19</sup>Jesús no se lo permitió, sino que le dijo:</p><p>—Vete a tu casa, a los de tu familia, y diles todo lo que el Señor ha hecho por ti y cómo te ha tenido compasión.</p><p><sup>20</sup>Así que el hombre se fue y se puso a proclamar en Decápolis lo mucho que Jesús había hecho por él. Y toda la gente se quedó asombrada.</p>"
+                  },
+                  {
+                    "id": "popup_pop6",
+                    "marker": "Juan 4:1-42",
+                    "label": "Juan 4:1-42",
+                    "passage": "<h3>Jesús y la samaritana</h3><p><sup>1</sup>Jesús se enteró de que los fariseos sabían que él estaba haciendo y bautizando más discípulos que Juan<sup>2</sup>(aunque en realidad no era Jesús quien bautizaba, sino sus discípulos).<sup>3</sup>Por eso se fue de Judea y volvió otra vez a Galilea.<sup>4</sup>Como tenía que pasar por Samaria,<sup>5</sup>llegó a un pueblo samaritano llamado Sicar, cerca del terreno que Jacob le había dado a su hijo José.<sup>6</sup>Allí estaba el pozo de Jacob. Jesús, fatigado del camino, se sentó junto al pozo. Era cerca del mediodía.<sup>7-8</sup>Sus discípulos habían ido al pueblo a comprar comida.</p><p>En eso llegó a sacar agua una mujer de Samaria, y Jesús le dijo:</p><p>—Dame un poco de agua.</p><p><sup>9</sup>Pero, como los judíos no usan nada en común con los samaritanos, la mujer le respondió:</p><p>—¿Cómo se te ocurre pedirme agua, si tú eres judío y yo soy samaritana?</p><p><sup>10</sup>—Si supieras lo que Dios puede dar, y conocieras al que te está pidiendo agua —contestó Jesús—, tú le habrías pedido a él, y él te habría dado agua que da vida.</p><p><sup>11</sup>—Señor, ni siquiera tienes con qué sacar agua, y el pozo es muy hondo; ¿de dónde, pues, vas a sacar esa agua que da vida?<sup>12</sup>¿Acaso eres tú superior a nuestro padre Jacob, que nos dejó este pozo, del cual bebieron él, sus hijos y su ganado?</p><p><sup>13</sup>—Todo el que beba de esta agua volverá a tener sed —respondió Jesús—,<sup>14</sup>pero el que beba del agua que yo le daré no volverá a tener sed jamás, sino que dentro de él esa agua se convertirá en un manantial del que brotará vida eterna.</p><p><sup>15</sup>—Señor, dame de esa agua para que no vuelva a tener sed ni siga viniendo aquí a sacarla.</p><p><sup>16</sup>—Ve a llamar a tu esposo, y vuelve acá —le dijo Jesús.</p><p><sup>17</sup>—No tengo esposo —respondió la mujer.</p><p>—Bien has dicho que no tienes esposo.<sup>18</sup>Es cierto que has tenido cinco, y el que ahora tienes no es tu esposo. En esto has dicho la verdad.</p><p><sup>19</sup>—Señor, me doy cuenta de que tú eres profeta.<sup>20</sup>Nuestros antepasados adoraron en este monte, pero ustedes los judíos dicen que el lugar donde debemos adorar está en Jerusalén.</p><p><sup>21</sup>—Créeme, mujer, que se acerca la hora en que ni en este monte ni en Jerusalén adorarán ustedes al Padre.<sup>22</sup>Ahora ustedes adoran lo que no conocen; nosotros adoramos lo que conocemos, porque la salvación proviene de los judíos.<sup>23</sup>Pero se acerca la hora, y ha llegado ya, en que los verdaderos adoradores rendirán culto al Padre en espíritu y en verdad, porque así quiere el Padre que sean los que le adoren.<sup>24</sup>Dios es espíritu, y quienes lo adoran deben hacerlo en espíritu y en verdad.</p><p><sup>25</sup>—Sé que viene el Mesías, al que llaman el Cristo —respondió la mujer—. Cuando él venga nos explicará todas las cosas.</p><p><sup>26</sup>—Ese soy yo, el que habla contigo —le dijo Jesús.</p><h3>Los discípulos vuelven a reunirse con Jesús</h3><p><sup>27</sup>En esto llegaron sus discípulos y se sorprendieron de verlo hablando con una mujer, aunque ninguno le preguntó: «¿Qué pretendes?» o «¿De qué hablas con ella?»</p><p><sup>28</sup>La mujer dejó su cántaro, volvió al pueblo y le decía a la gente:</p><p><sup>29</sup>—Vengan a ver a un hombre que me ha dicho todo lo que he hecho. ¿No será este el Cristo?</p><p><sup>30</sup>Salieron del pueblo y fueron a ver a Jesús.<sup>31</sup>Mientras tanto, sus discípulos le insistían:</p><p>—Rabí, come algo.</p><p><sup>32</sup>—Yo tengo un alimento que ustedes no conocen —replicó él.</p><p><sup>33</sup>«¿Le habrán traído algo de comer?», comentaban entre sí los discípulos.</p><p><sup>34</sup>—Mi alimento es hacer la voluntad del que me envió y terminar su obra —les dijo Jesús—.<sup>35</sup>¿No dicen ustedes: “Todavía faltan cuatro meses para la cosecha”? Yo les digo: ¡Abran los ojos y miren los campos sembrados! Ya la cosecha está madura;<sup>36</sup>ya el segador recibe su salario y recoge el fruto para vida eterna. Ahora tanto el sembrador como el segador se alegran juntos.<sup>37</sup>Porque como dice el refrán: “Uno es el que siembra y otro el que cosecha”.<sup>38</sup>Yo los he enviado a ustedes a cosechar lo que no les costó ningún trabajo. Otros se han fatigado trabajando, y ustedes han cosechado el fruto de ese trabajo.</p><p><sup>39</sup>Muchos de los samaritanos que vivían en aquel pueblo creyeron en él por el testimonio que daba la mujer: «Me dijo todo lo que he hecho».<sup>40</sup>Así que cuando los samaritanos fueron a su encuentro le insistieron en que se quedara con ellos. Jesús permaneció allí dos días,<sup>41</sup>y muchos más llegaron a creer por lo que él mismo decía.</p><p><sup>42</sup>—Ya no creemos solo por lo que tú dijiste —le decían a la mujer—; ahora lo hemos oído nosotros mismos, y sabemos que verdaderamente este es el Salvador del mundo.</p>"
+                  },
+                  {
+                    "id": "popup_pop7",
+                    "marker": "Hechos 16:13-15",
+                    "label": "Hechos 16:13-15",
+                    "passage": "<p><sup>13</sup>El sábado salimos a las afueras de la ciudad, y fuimos por la orilla del río, donde esperábamos encontrar un lugar de oración. Nos sentamos y nos pusimos a conversar con las mujeres que se habían reunido.<sup>14</sup>Una de ellas, que se llamaba Lidia, adoraba a Dios. Era de la ciudad de Tiatira y vendía telas de púrpura. Mientras escuchaba, el Señor le abrió el corazón para que respondiera al mensaje de Pablo.<sup>15</sup>Cuando fue bautizada con su familia, nos hizo la siguiente invitación: «Si ustedes me consideran creyente en el Señor, vengan a hospedarse en mi casa». Y nos persuadió.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Repasa usando la Pregunta Asombrosa y cuidando a los demás"
+                  },
+                  {
+                    "text": "Practique cualquier habilidad o tema de lecciones anteriores según sea necesario."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica a 5 personas de tu Lista Oikos con las que tomarás la iniciativa de ministrar esta semana.",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Usa lo que aprendiste esta semana con al menos 3"
+                }
+              ]
+            }
+          },
+          {
+            "text": "Escriba declaraciones usando de \"Yo haré…. cuando…” y que lo comparan con a su grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos al Señor. Pídele al Señor que nos ayude a ser fieles y que nos use para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply109-i-will"
+      }
+    }
+  ]
+}

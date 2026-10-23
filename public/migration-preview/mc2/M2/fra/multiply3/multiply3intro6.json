@@ -1,0 +1,59 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro6",
+  "sortOrder": 48,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"\" src=\"/sites/mc2/content/M2/fra/multiply3/Trip4.webp\"></span>"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Résumé de la période",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Après avoir posé les fondations de 6-7 centres de mouvement à travers la partie orientale de l’empire Romain, le rôle de Paul maintenant est de saisir les occasions pour défendre la foi. Cette période est marquée par de longs voyages, la prison, les circonstances dangereuses et les défenses légales devant les autorités gouvernementales en Judée et à Rome."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Les lettres écrites au cours de cette période :",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Colossiens, 60-62 ap. J.-C."
+          },
+          {
+            "text": "Philémon, 60-62 ap. J.-C."
+          },
+          {
+            "text": "Ephésiens, 60-62 ap. J.-C."
+          },
+          {
+            "text": "Philippiens, 60-62 ap. J.-C."
+          }
+        ]
+      }
+    }
+  ]
+}

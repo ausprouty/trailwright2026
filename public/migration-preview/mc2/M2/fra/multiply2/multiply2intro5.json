@@ -1,0 +1,61 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply2intro5",
+  "sortOrder": 30,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"Stage of Ministry\" class=\"lesson_image\" src=\"/sites/mc2/content/M2/fra/multiply2/period5.png\"></span>"
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "Couvre environ une quinzaine de mois, en commençant par la désignation des 12 apôtres comme étant effectivement des apprentis leaders au sein du groupe plus large de ceux qui œuvrent dans le ministère et un groupe encore plus important de disciples et de ceux qui Le cherchent ({Luc 6:12-19}).",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Luc 6:12-19",
+            "label": "Luc 6:12-19",
+            "passage": "<p><sup>12</sup>En ce temps-là, Jésus se rendit sur la montagne pour prier, et il passa toute la nuit à prier Dieu.</p><p><sup>13</sup>Quand le jour parut, il appela ses disciples, et il en choisit douze, auxquels il donna le nom d'apôtres:</p><p><sup>14</sup>Simon, qu'il nomma Pierre; André, son frère; Jacques; Jean; Philippe; Barthélemy;</p><p><sup>15</sup>Matthieu; Thomas; Jacques, fils d'Alphée; Simon, appelé le zélote;</p><p><sup>16</sup>Jude, fils de Jacques; et Judas Iscariot, qui devint traître.</p><p><sup>17</sup>Il descendit avec eux, et s'arrêta sur un plateau, où se trouvaient une foule de ses disciples et une multitude de peuple de toute la Judée, de Jérusalem, et de la contrée maritime de Tyr et de Sidon. Ils étaient venus pour l'entendre, et pour être guéris de leurs maladies.</p><p><sup>18</sup>Ceux qui étaient tourmentés par des esprits impurs étaient guéris.</p><p><sup>19</sup>Et toute la foule cherchait à le toucher, parce qu'une force sortait de lui et les guérissait tous.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Les 12 sont clairement des leaders et le fruit de la sélection délibérée de Jésus, de la désignation, de la formation et de Son investissement personnel en eux est attesté après la Pentecôte à travers le Livre des Actes."
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "Plus tard au cours de cette période, Jésus a envoyé 70 autres ({Luc 10 :1}) et bien qu'ils ne reçurent pas le même statut formel de leadership dans le récit de l'Evangile, ils furent également envoyés comme « apôtres » (c.-à-d. les envoyés) et aussi appelés à prier pour la prochaine génération de travailleurs à travers eux ({Luc 10: 2}). Sans doute beaucoup de ces 70 missionnaires anonymes figuraient dans l'église primitive et parmi les 120 dans la chambre haute et les 500 personnes auxquelles Jésus s’est apparu.",
+        "references": [
+          {
+            "id": "popup_pop2",
+            "marker": "Luc 10 :1",
+            "label": "Luc 10 :1",
+            "passage": "<p><sup>1</sup>Après cela, le Seigneur désigna encore soixante-dix autres disciples, et il les envoya deux à deux devant lui dans toutes les villes et dans tous les lieux où lui-même devait aller.</p>"
+          },
+          {
+            "id": "popup_pop3",
+            "marker": "Luc 10: 2",
+            "label": "Luc 10: 2",
+            "passage": "<p><sup>2</sup>Il leur dit: La moisson est grande, mais il y a peu d'ouvriers. Priez donc le maître de la moisson d'envoyer des ouvriers dans sa moisson.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    }
+  ]
+}

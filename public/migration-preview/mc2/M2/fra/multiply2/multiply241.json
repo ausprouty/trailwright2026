@@ -1,0 +1,361 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply241",
+  "sortOrder": 46,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lisez un passage biblique et exécutez un chant d’adoration."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la Fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Projection de Vision",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Jean 7:1-8:11 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Jean 7:1-8:11",
+        "html": "<div> <div> <div> <div> <div> <div> <p><sup>1</sup>Après cela, Jésus parcourait la Galilée, car il ne voulait pas séjourner en Judée, parce que les Juifs cherchaient à le faire mourir.</p> <p><sup>2</sup>Or, la fête des Juifs, la fête des Tabernacles, était proche.</p> <p><sup>3</sup>Et ses frères lui dirent: Pars d'ici, et va en Judée, afin que tes disciples voient aussi les oeuvres que tu fais.</p> <p><sup>4</sup>Personne n'agit en secret, lorsqu'il désire paraître: si tu fais ces choses, montre-toi toi-même au monde.</p> <p><sup>5</sup>Car ses frères non plus ne croyaient pas en lui.</p> <p><sup>6</sup>Jésus leur dit: Mon temps n'est pas encore venu, mais votre temps est toujours prêt.</p> <p><sup>7</sup>Le monde ne peut vous haïr; moi, il me hait, parce que je rends de lui le témoignage que ses oeuvres sont mauvaises.</p> <p><sup>8</sup>Montez, vous, à cette fête; pour moi, je n'y monte point, parce que mon temps n'est pas encore accompli.</p> <p><sup>9</sup>Après leur avoir dit cela, il resta en Galilée.</p> <p><sup>10</sup>Lorsque ses frères furent montés à la fête, il y monta aussi lui-même, non publiquement, mais comme en secret.</p> <p><sup>11</sup>Les Juifs le cherchaient pendant la fête, et disaient: Où est-il?</p> <p><sup>12</sup>Il y avait dans la foule grande rumeur à son sujet. Les uns disaient: C'est un homme de bien. D'autres disaient: Non, il égare la multitude.</p> <p><sup>13</sup>Personne, toutefois, ne parlait librement de lui, par crainte des Juifs.</p> <p><sup>14</sup>Vers le milieu de la fête, Jésus monta au temple. Et il enseignait.</p> <p><sup>15</sup>Les Juifs s'étonnaient, disant: Comment connaît-il les Écritures, lui qui n'a point étudié?</p> <p><sup>16</sup>Jésus leur répondit: Ma doctrine n'est pas de moi, mais de celui qui m'a envoyé.</p> <p><sup>17</sup>Si quelqu'un veut faire sa volonté, il connaîtra si ma doctrine est de Dieu, ou si je parle de mon chef.</p> <p><sup>18</sup>Celui qui parle de son chef cherche sa propre gloire; mais celui qui cherche la gloire de celui qui l'a envoyé, celui-là est vrai, et il n'y a point d'injustice en lui.</p> <p><sup>19</sup>Moïse ne vous a-t-il pas donné la loi? Et nul de vous n'observe la loi. Pourquoi cherchez-vous à me faire mourir?</p> <p><sup>20</sup>La foule répondit: Tu as un démon. Qui est-ce qui cherche à te faire mourir?</p> <p><sup>21</sup>Jésus leur répondit: J'ai fait une oeuvre, et vous en êtes tous étonnés.</p> <p><sup>22</sup>Moïse vous a donné la circoncision, -non qu'elle vienne de Moïse, car elle vient des patriarches, -et vous circoncisez un homme le jour du sabbat.</p> <p><sup>23</sup>Si un homme reçoit la circoncision le jour du sabbat, afin que la loi de Moïse ne soit pas violée, pourquoi vous irritez-vous contre moi de ce que j'ai guéri un homme tout entier le jour du sabbat?</p> <p><sup>24</sup>Ne jugez pas selon l'apparence, mais jugez selon la justice.</p> <p><sup>25</sup>Quelques habitants de Jérusalem disaient: N'est-ce pas là celui qu'ils cherchent à faire mourir?</p> <p><sup>26</sup>Et voici, il parle librement, et ils ne lui disent rien! Est-ce que vraiment les chefs auraient reconnu qu'il est le Christ?</p> <p><sup>27</sup>Cependant celui-ci, nous savons d'où il est; mais le Christ, quand il viendra, personne ne saura d'où il est.</p> <p><sup>28</sup>Et Jésus, enseignant dans le temple, s'écria: Vous me connaissez, et vous savez d'où je suis! Je ne suis pas venu de moi-même: mais celui qui m'a envoyé est vrai, et vous ne le connaissez pas.</p> <p><sup>29</sup>Moi, je le connais; car je viens de lui, et c'est lui qui m'a envoyé.</p> <p><sup>30</sup>Ils cherchaient donc à se saisir de lui, et personne ne mit la main sur lui, parce que son heure n'était pas encore venue.</p> <p><sup>31</sup>Plusieurs parmi la foule crurent en lui, et ils disaient: Le Christ, quand il viendra, fera-t-il plus de miracles que n'en a fait celui-ci?</p> <p><sup>32</sup>Les pharisiens entendirent la foule murmurant de lui ces choses. Alors les principaux sacrificateurs et les pharisiens envoyèrent des huissiers pour le saisir.</p> <p><sup>33</sup>Jésus dit: Je suis encore avec vous pour un peu de temps, puis je m'en vais vers celui qui m'a envoyé.</p> <p><sup>34</sup>Vous me chercherez et vous ne me trouverez pas, et vous ne pouvez venir où je serai.</p> <p><sup>35</sup>Sur quoi les Juifs dirent entre eux: Où ira-t-il, que nous ne le trouvions pas? Ira-t-il parmi ceux qui sont dispersés chez les Grecs, et enseignera-t-il les Grecs?</p> <p><sup>36</sup>Que signifie cette parole qu'il a dite: Vous me chercherez et vous ne me trouverez pas, et vous ne pouvez venir où je serai?</p> <p><sup>37</sup>Le dernier jour, le grand jour de la fête, Jésus, se tenant debout, s'écria: Si quelqu'un a soif, qu'il vienne à moi, et qu'il boive.</p> <p><sup>38</sup>Celui qui croit en moi, des fleuves d'eau vive couleront de son sein, comme dit l'Écriture.</p> <p><sup>39</sup>Il dit cela de l'Esprit que devaient recevoir ceux qui croiraient en lui; car l'Esprit n'était pas encore, parce que Jésus n'avait pas encore été glorifié.</p> <p><sup>40</sup>Des gens de la foule, ayant entendu ces paroles, disaient: Celui-ci est vraiment le prophète.</p> <p><sup>41</sup>D'autres disaient: C'est le Christ. Et d'autres disaient: Est-ce bien de la Galilée que doit venir le Christ?</p> <p><sup>42</sup>L'Écriture ne dit-elle pas que c'est de la postérité de David, et du village de Bethléhem, où était David, que le Christ doit venir?</p> <p><sup>43</sup>Il y eut donc, à cause de lui, division parmi la foule.</p> <p><sup>44</sup>Quelques-uns d'entre eux voulaient le saisir, mais personne ne mit la main sur lui.</p> <p><sup>45</sup>Ainsi les huissiers retournèrent vers les principaux sacrificateurs et les pharisiens. Et ceux-ci leur dirent: Pourquoi ne l'avez-vous pas amené?</p> <p><sup>46</sup>Les huissiers répondirent: Jamais homme n'a parlé comme cet homme.</p> <p><sup>47</sup>Les pharisiens leur répliquèrent: Est-ce que vous aussi, vous avez été séduits?</p> <p><sup>48</sup>Y a-t-il quelqu'un des chefs ou des pharisiens qui ait cru en lui?</p> <p><sup>49</sup>Mais cette foule qui ne connaît pas la loi, ce sont des maudits!</p> <p><sup>50</sup>Nicodème, qui était venu de nuit vers Jésus, et qui était l'un d'entre eux, leur dit:</p> <p><sup>51</sup>Notre loi condamne-t-elle un homme avant qu'on l'entende et qu'on sache ce qu'il a fait?</p> <p><sup>52</sup>Ils lui répondirent: Es-tu aussi Galiléen? Examine, et tu verras que de la Galilée il ne sort point de prophète.</p> <p><sup>53</sup>Et chacun s'en retourna dans sa maison.</p> <p><sup>1</sup>Jésus se rendit à la montagne des oliviers.</p> <p><sup>2</sup>Mais, dès le matin, il alla de nouveau dans le temple, et tout le peuple vint à lui. S'étant assis, il les enseignait.</p> <p><sup>3</sup>Alors les scribes et les pharisiens amenèrent une femme surprise en adultère;</p> <p><sup>4</sup>et, la plaçant au milieu du peuple, ils dirent à Jésus: Maître, cette femme a été surprise en flagrant délit d'adultère.</p> <p><sup>5</sup>Moïse, dans la loi, nous a ordonné de lapider de telles femmes: toi donc, que dis-tu?</p> <p><sup>6</sup>Ils disaient cela pour l'éprouver, afin de pouvoir l'accuser. Mais Jésus, s'étant baissé, écrivait avec le doigt sur la terre.</p> <p><sup>7</sup>Comme ils continuaient à l'interroger, il se releva et leur dit: Que celui de vous qui est sans péché jette le premier la pierre contre elle.</p> <p><sup>8</sup>Et s'étant de nouveau baissé, il écrivait sur la terre.</p> <p><sup>9</sup>Quand ils entendirent cela, accusés par leur conscience, ils se retirèrent un à un, depuis les plus âgés jusqu'aux derniers; et Jésus resta seul avec la femme qui était là au milieu.</p> <p><sup>10</sup>Alors s'étant relevé, et ne voyant plus que la femme, Jésus lui dit: Femme, où sont ceux qui t'accusaient? Personne ne t'a-t-il condamnée?</p> <p><sup>11</sup>Elle répondit: Non, Seigneur. Et Jésus lui dit: Je ne te condamne pas non plus: va, et ne pèche plus.</p> </div> </div> </div> </div> </div> </div>",
+        "url": "https://biblegateway.com/passage/?search=Jean%207:1-8:11&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Jean 7:1-44",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOJohn2207",
+        "source": "arclight",
+        "refId": "6_496-GOJohn2207",
+        "startTime": "1:37",
+        "endTime": "8:16",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Jean 7:45-8:11",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOJohn2208",
+        "source": "arclight",
+        "refId": "6_496-GOJohn2208",
+        "startTime": "start",
+        "endTime": "3:40",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de Découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Etudiez chaque passage en utilisant les questions de discussion suivantes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ?"
+          },
+          {
+            "text": "Qu’est ce qui est nouveau ou s’est développé à ce point de l’histoire de Jésus?"
+          },
+          {
+            "text": "Quelle implication du point de vue de l’humanité ou de la divinité de Jésus voyez-vous dans ce passage ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Questions supplémentaires que vous pouvez poser:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce que ses disciples apprennent?"
+          },
+          {
+            "text": "Qu’est-ce que Jésus est en train de nous montrer au sujet de sa vie et de son ministère (ou leadership) ?"
+          },
+          {
+            "text": "Qu’est ce que Jésus est en train de montrer au sujet du leadership empreint de piété ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jésus et ses disciples sont allés à Jérusalem pendant la saison d'automne pour sept jours de Fête des Tabernacles. C'était un temps où tous les hommes juifs qui pouvaient le faire devaient se présenter à Jérusalem pour se faire connaitre. Les demi-frères de Jésus, qui ne croient toujours pas en lui, s’en vont sans Lui. Plus tard, Jésus se présente vers le milieu de la fête. Il va au temple pour enseigner qui Il est, le fils de David, encore élevé à Nazareth. Une dispute éclate et il y a beaucoup de cris au sujet de Jésus, mais Il s’est simplement retiré pour la nuit pour passer plus de temps avec le Père. Les chefs religieux se disputaient au sujet de Jésus. Celui qui a récemment cru en Jésus a essayé d'influencer le groupe mais ils l'ont ridiculisé. Quand Jésus est revenu à Jérusalem, ils ont essayé de le piéger en lui présentant une femme surprise dans l'adultère. Jésus exerce le modèle de leadership avec beaucoup de sagesse, de compassion, de miséricorde et de grâce tout en mettant au défi les chefs religieux face à leur propre péché et la dureté de leur cœur."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se Préparer pour la Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez 5 personnes de votre Liste de Réseau envers qui vous prendrez l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez les promesses « je le ferai d’ici quand » et parlez-en à votre groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply241-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply231",
+  "sortOrder": 36,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向后看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "敬拜赞美",
+        "level": 2
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "祷告关怀",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感谢神和需要耶稣为你做的事，并彼此感恩代祷"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "庆贺实践",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li style=\"text-align:justify\"><span><span><span><span lang=\"ZH-CN\">请分享上周你因信靠神忠心地操练和实践基督生命的福音行动</span></span></span></span></li> <li class=\"back\">背诵上周经文（{路7:22}） </li>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "路7:22",
+            "label": "路7:22",
+            "passage": "<p><sup>22</sup>耶稣回答说：“你们去，把所看见、所听见的事告诉<u class=\"person underline\">约翰</u>，就是：瞎子看见，瘸子行走，长大麻风的洁净，聋子听见，死人复活，穷人有福音传给他们。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "天父心意",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "上帝不只爱我们，祂更要我们学像基督，效法祂的模样，像祂一样经历天父，让人从我们身上看见天父的样子（{罗8:29}）。 这都是上帝的工作，因祂应许我们：“那在你们心里动了善工的，必成全这工”（{腓1:6}）。 上帝会在你我生命中动工，使我们能像基督，愿我们因这应许大受激励，并存喜乐的心看神要在我们身上成就的大事。",
+        "references": [
+          {
+            "id": "popup_pop2",
+            "marker": "罗8:29",
+            "label": "罗8:29",
+            "passage": "<p><sup>29</sup>因为他预先所知道的人，就预先定下效法他儿子的模样，使他儿子在许多弟兄中做长子；</p>"
+          },
+          {
+            "id": "popup_pop3",
+            "marker": "腓1:6",
+            "label": "腓1:6",
+            "passage": "<p><sup>6</sup>我深信那在你们心里动了善工的必成全这工，直到耶稣基督的日子。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "学像耶稣",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"up\"><strong>经文背景</strong></li> 被分封王希律关在狱中的施洗约翰风闻这些传言，在不确定中，他吩咐自己的门徒前往求见耶稣澄清真相。耶稣间接的回答他，祂所做的正是旧约先知所预言的拯救工作（{路加福音7:18-23}）。 耶稣不但没有责备施洗约翰的疑惑，并且肯定这位先知的身份和工作（{路加福音7:24-28}）； 该受责备的是这个不信的世代，他们就像无知的孩童，存心拒绝上帝的先知和儿子（{路加福音7:29-35}）。",
+        "references": [
+          {
+            "id": "popup_pop4",
+            "marker": "路加福音7:18-23",
+            "label": "路加福音7:18-23",
+            "passage": "<p><sup>18</sup><u class=\"person underline\">约翰</u>的门徒把这些事都告诉<u class=\"person underline\">约翰</u>。<sup>19</sup>他便叫了两个门徒来，打发他们到主那里去说：“那将要来的是你吗？还是我们等候别人呢？”<sup>20</sup>那两个人来到耶稣那里，说：“施洗的<u class=\"person underline\">约翰</u>打发我们来问你：那将要来的是你吗？还是我们等候别人呢？”<sup>21</sup>正当那时候，耶稣治好了许多有疾病的、受灾患的、被恶鬼附着的，又开恩叫好些瞎子能看见。<sup>22</sup>耶稣回答说：“你们去，把所看见、所听见的事告诉<u class=\"person underline\">约翰</u>，就是：瞎子看见，瘸子行走，长大麻风的洁净，聋子听见，死人复活，穷人有福音传给他们。<sup>23</sup>凡不因我跌倒的，就有福了！”</p>"
+          },
+          {
+            "id": "popup_pop5",
+            "marker": "路加福音7:24-28",
+            "label": "路加福音7:24-28",
+            "passage": "<p><sup>24</sup><u class=\"person underline\">约翰</u>所差来的人既走了，耶稣就对众人讲论<u class=\"person underline\">约翰</u>说：“你们从前出去到旷野是要看什么呢？要看风吹动的芦苇吗？<sup>25</sup>你们出去到底是要看什么？要看穿细软衣服的人吗？那穿华丽衣服、宴乐度日的人是在王宫里。<sup>26</sup>你们出去究竟是要看什么？要看先知吗？我告诉你们，是的，他比先知大多了。<sup>27</sup>经上记着说：‘我要差遣我的使者在你前面预备道路’，所说的就是这个人。<sup>28</sup>我告诉你们：凡妇人所生的，没有一个大过<u class=\"person underline\">约翰</u>的；然而神国里最小的比他还大。”</p>"
+          },
+          {
+            "id": "popup_pop6",
+            "marker": "路加福音7:29-35",
+            "label": "路加福音7:29-35",
+            "passage": "<p><sup>29</sup>众百姓和税吏既受过<u class=\"person underline\">约翰</u>的洗，听见这话，就以神为义。<sup>30</sup>但法利赛人和律法师没有受过<u class=\"person underline\">约翰</u>的洗，竟为自己废弃了神的旨意。<sup>31</sup>主又说：“这样，我可用什么比这世代的人呢？他们好像什么呢？<sup>32</sup>好像孩童坐在街市上，彼此呼叫说：‘我们向你们吹笛，你们不跳舞！我们向你们举哀，你们不啼哭！’<sup>33</sup>施洗的<u class=\"person underline\">约翰</u>来，不吃饼不喝酒，你们说他是被鬼附着的。<sup>34</sup>人子来，也吃也喝，你们说他是贪食好酒的人，是税吏和罪人的朋友。<sup>35</sup>但智慧之子都以智慧为是。”</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "然而在这个不信的世代中仍然有少数忠信的人，在作者路加的笔下，我们看到了两幅以“信心行动”跟随耶稣的图画，画中的主角除了一位有罪的女人，还有一小群在耶稣“巡回布道团”忠心服事的妇女。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>阅读经文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "阅读或观看《路加福音7:36–8:3》两遍。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "路加福音7:36–8:3",
+        "html": "<p><sup>7</sup>:<sup>36</sup>有一个法利赛人请耶稣和他吃饭，耶稣就到法利赛人家里去坐席。<sup>37</sup>那城里有一个女人，是个罪人，知道耶稣在法利赛人家里坐席，就拿着盛香膏的玉瓶，<sup>38</sup>站在耶稣背后，挨着他的脚哭，眼泪湿了耶稣的脚，就用自己的头发擦干，又用嘴连连亲他的脚，把香膏抹上。</p> <p><sup>39</sup>请耶稣的法利赛人看见这事，心里说：“这人若是先知，必知道摸他的是谁，是个怎样的女人，乃是个罪人。”<sup>40</sup>耶稣对他说：“西门，我有句话要对你说。”西门说：“夫子，请说。”<sup>41</sup>耶稣说：“一个债主有两个人欠他的债：一个欠五十两银子，一个欠五两银子，<sup>42</sup>因为他们无力偿还，债主就开恩免了他们两个人的债。这两个人哪一个更爱他呢？”<sup>43</sup>西门回答说：“我想是那多得恩免的人。”耶稣说：“你断的不错。”</p> <p><sup>44</sup>于是转过来向着那女人，便对西门说：“你看见这女人吗？我进了你的家，你没有给我水洗脚，但这女人用眼泪湿了我的脚，用头发擦干；<sup>45</sup>你没有与我亲嘴，但这女人从我进来的时候就不住地用嘴亲我的脚；。<sup>46</sup>你没有用油抹我的头，但这女人用香膏抹我的脚。<sup>47</sup>所以我告诉你，她许多的罪都赦免了，因为她的爱多；但那赦免少的，他的爱就少。”<sup>48</sup>于是对那女人说：“你的罪赦免了！”<sup>49</sup>同席的人心里说：“这是什么人，竟赦免人的罪呢？”<sup>50</sup>耶稣对那女人说：“你的信救了你，平平安安地回去吧！” <sup>8</sup>:<sup>1</sup>过了不多日，耶稣周游各城各乡传道，宣讲　神国的福音。和他同去的有十二个门徒，<sup>2</sup>还有被恶鬼所附、被疾病所累、已经治好的几个妇女，内中有称为抹大拉的马利亚，曾有七个鬼从她身上赶出来；<sup>3</sup>又有希律的家宰苦撒的妻子约亚拿，并苏撒拿，和好些别的妇女，都是用自己的财物供给耶稣和门徒。</p>",
+        "url": "https://biblegateway.com/passage/?search=路加福音7:36–8:3&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "路加福音7:36-50",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOLuke2607",
+        "source": "arclight",
+        "refId": "6_20615-GOLuke2607",
+        "startTime": "6:27",
+        "endTime": "9:26",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "路加福音8:1-3",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOLuke2608",
+        "source": "arclight",
+        "refId": "6_20615-GOLuke2608",
+        "startTime": "start",
+        "endTime": "0:33",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索与讨论</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "让你印象深刻的经文/部分是什么？为什么？"
+                },
+                {
+                  "text": "耶稣怎样向门徒示范生活和事奉，作属神的领袖？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再读一次这段故事。请小组中一个人口头讲述这故事，并根据需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "耶稣遇见一个对祂好奇的法利赛人，名叫西门。他住在迦百农，已关注耶稣的事工一段时间。西门邀请耶稣到他家，并邀来许多法利赛人。耶稣接受了天父安排的邀请，去接触这群只注重宗教仪文且自义的人。晚上耶稣到的时候，他们并没有用给客人的礼仪来接待祂。于是，天父差了一个有罪的女人来为耶稣行这些礼仪。祂利用这机会教导西门：那些罪被赦免的人会诚实面对自己的需要并有谦卑的心。西门则是掩盖自己的罪。我们应当小心不要落入同样的光景里。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小结</strong>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "经文背诵",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "路7:47-48"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>47</sup>所以我告诉你，她许多的罪都赦免了，因为她的爱多；但那赦免少的，他的爱就少。”<sup>48</sup>于是对那女人说：“你的罪赦免了！”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音预备",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "不论跟随耶稣的人曾经是多么的奸恶，或是多么的善良，耶稣都把他们从永远的灭亡中拯救出来。你曾经历过上帝奇妙的赦罪之恩吗？你用了什么行动回应上帝的恩典和赦免？"
+          },
+          {
+            "text": "这段叙述中出现的人物说明了一件事实，就是耶稣国度中的子民没有种族、国籍和性别的分别，凡是以信心、谦卑和感谢来到祂面前的人，祂都接纳。你是否觉得还是有些人是不配神的恩典和赦免？为什么？你想耶稣会怎么做？"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行动",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "在《信徒动员表》里写下2位你在教会认识多时，但没有深谈的。这周找一个时间请他们分享信主的经历和最大的改变，同时你也分享你信主的经历，彼此鼓励和代祷。"
+          },
+          {
+            "text": "花时间为你的属灵长辈和造就者祷告（就是教会的领袖，或是那些神曾放在你生命中用圣经、生命的榜样来造就、陪伴和督责你的人）。求神加倍赐福和使用他们，成为多人的祝福，他们的家人也蒙神的眷顾与赐福。"
+          },
+          {
+            "text": "继续祷告神，求祂让你经历领人归主的喜悦，亲眼经历罪得赦免，爱心回应的真实见证。"
+          },
+          {
+            "text": "在你造就初信者生命时，更多的包容、接纳与陪伴对方成长，相信神对他生命有奇妙的计划。同时鼓励门徒和你一起在教会中主动参与服事，报答主恩。"
+          },
+          {
+            "text": "花3分钟写下你在本课的学习心得，或是你未来一周可能有的其他行动点。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音祷告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "亲爱的天父，因祢爱我们的大爱，祢差派祢的独生爱子为我们降世为人，成为挽回祭，使我们可以因信耶稣成为祢的儿女。感谢主耶稣凡事作了我们的榜样，教导我们不要单顾自己的事，也要顾别人的事。我们当以祢的眼光来看待身边的人，不是用我们的标准来论断批评人，以致得罪了祢。主啊，我们愿意效法祢，以祢的爱来爱与饶恕他们，并帮助他们来认识祢、经历祢和服事祢。感恩祷告是奉我们主耶稣的圣名，阿们！"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply231-i-will"
+      }
+    }
+  ]
+}

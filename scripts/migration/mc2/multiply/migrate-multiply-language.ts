@@ -3,13 +3,13 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { exec } from 'node:child_process';
-import { transformMyfriends } from './transformMu';
+import { transformMc2 } from './transformMc2';
 
 const PROJECT_ROOT = process.cwd();
 
-const SITE = 'myfriends' as const;
-const COUNTRY = 'AT' as const;
-const LANGUAGE = 'deu' as const;
+const SITE = 'mc2' as const;
+const COUNTRY = 'M2' as const;
+const LANGUAGE = 'fra' as const;
 const SERIES = 'multiply1' as const;
 
 const SOURCE_DIR = path.join(PROJECT_ROOT, 'data', 'raw', SITE, COUNTRY, LANGUAGE, SERIES);
@@ -130,7 +130,7 @@ async function run(): Promise<void> {
 
     const html = await fs.readFile(sourcePath, 'utf8');
 
-    const json = transformMyfriends(html, {
+    const json = transformMc2(html, {
       site: SITE,
       country: COUNTRY,
       language: LANGUAGE,

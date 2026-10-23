@@ -1,0 +1,472 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply204",
+  "sortOrder": 6,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Opcional) Jesucristo es el Señor, para la gloria de Dios Padre. Él quiere que todos los hombres sean salvos y lleguen al conocimiento de la verdad. Porque hay un solo Dios y un mediador también entre Dios y el hombre, el hombre Jesucristo, que se entregó a sí mismo como rescate por todos. ({Filipenses 2:11}; {1 Timoteo 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>y toda lengua confiese que Jesucristo es el Señor,<br>para gloria de Dios Padre.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timoteo 2:4-6",
+                    "label": "1 Timoteo 2:4-6",
+                    "passage": "<p><sup>4</sup>pues él quiere que todos sean salvos y lleguen a conocer la verdad.<sup>5</sup>Porque hay un solo Dios y un solo mediador entre Dios y los hombres, Jesucristo hombre,<sup>6</sup>quien dio su vida como rescate por todos. Este testimonio Dios lo ha dado a su debido tiempo,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar las necesidades de los demás en oración, consejo bíblico y ánimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunte: \"¿Qué pasó cuando confiaste en Dios tus metas y tus declaraciones: Yo haré… cuándo…?\""
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y estímulo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Elija una manera de proyectar visión de quiénes pueden llegar a ser en Cristo o lo que Dios puede hacer a través de ellos al:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartir un versículo Bíblico que les recuerde el Corazón del Padre y la visión final, o"
+                  },
+                  {
+                    "text": "reflexionando sobre los cambios en su vida desde que comenzaron a seguir a Cristo, o"
+                  },
+                  {
+                    "text": "recordándoles lo que Dios quiere hacer a través de ellos."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Comparta la GRAN visión de \"Una iglesia para cada ciudad y comunidad, y el Evangelio para cada persona”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídale al grupo que cuente la historia de la semana pasada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Mateo 2:19-23; Lucas 2:39-52 </strong>dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Mateo 2:19-23",
+        "html": "<h3>El regreso a Nazaret</h3> <p><sup>19</sup>Después de que murió Herodes, un ángel del Señor se le apareció en sueños a José en Egipto<sup>20</sup>y le dijo: «Levántate, toma al niño y a su madre, y vete a la tierra de Israel, que ya murieron los que amenazaban con quitarle la vida al niño».</p> <p><sup>21</sup>Así que se levantó José, tomó al niño y a su madre, y regresó a la tierra de Israel.<sup>22</sup>Pero, al oír que Arquelao reinaba en Judea en lugar de su padre Herodes, tuvo miedo de ir allá. Advertido por Dios en sueños, se retiró al distrito de Galilea,<sup>23</sup>y fue a vivir en un pueblo llamado Nazaret. Con esto se cumplió lo dicho por los profetas: «Lo llamarán nazareno».</p>",
+        "url": "https://biblegateway.com/passage/?search=Mateo%202:19-23&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 2:39-52",
+        "html": "<p><sup>39</sup>Después de haber cumplido con todo lo que exigía la ley del Señor, José y María regresaron a Galilea, a su propio pueblo de Nazaret.<sup>40</sup>El niño crecía y se fortalecía; progresaba en sabiduría, y la gracia de Dios lo acompañaba.</p> <h3>El niño Jesús en el templo</h3> <p><sup>41</sup>Los padres de Jesús subían todos los años a Jerusalén para la fiesta de la Pascua.<sup>42</sup>Cuando cumplió doce años, fueron allá según era la costumbre.<sup>43</sup>Terminada la fiesta, emprendieron el viaje de regreso, pero el niño Jesús se había quedado en Jerusalén, sin que sus padres se dieran cuenta.<sup>44</sup>Ellos, pensando que él estaba entre el grupo de viajeros, hicieron un día de camino mientras lo buscaban entre los parientes y conocidos.<sup>45</sup>Al no encontrarlo, volvieron a Jerusalén en busca de él.<sup>46</sup>Al cabo de tres días lo encontraron en el templo, sentado entre los maestros, escuchándolos y haciéndoles preguntas.<sup>47</sup>Todos los que le oían se asombraban de su inteligencia y de sus respuestas.<sup>48</sup>Cuando lo vieron sus padres, se quedaron admirados.</p> <p>—Hijo, ¿por qué te has portado así con nosotros? —le dijo su madre—. ¡Mira que tu padre y yo te hemos estado buscando angustiados!</p> <p><sup>49</sup>—¿Por qué me buscaban? ¿No sabían que tengo que estar en la casa de mi Padre?</p> <p><sup>50</sup>Pero ellos no entendieron lo que les decía.</p> <p><sup>51</sup>Así que Jesús bajó con sus padres a Nazaret y vivió sujeto a ellos. Pero su madre conservaba todas estas cosas en el corazón.<sup>52</sup>Jesús siguió creciendo en sabiduría y estatura, y cada vez más gozaba del favor de Dios y de toda la gente.</p>",
+        "url": "https://biblegateway.com/passage/?search=Lucas%202:39-52&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Mateo 2:19-23",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_21028-GOMatt2501",
+        "source": "arclight",
+        "refId": "6_21028-GOMatt2501",
+        "startTime": "8:41",
+        "endTime": "9:33",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lucas 2:39-52",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_21028-GOLuke2603",
+        "source": "arclight",
+        "refId": "6_21028-GOLuke2603",
+        "startTime": "start",
+        "endTime": "1:53",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discusión de descubrimiento",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención o qué es lo que más te gustó? ¿Por qué?"
+          },
+          {
+            "text": "¿Hay algo nuevo o algo que ha desarrollado hasta este punto de la historia de Jesús?"
+          },
+          {
+            "text": "¿Qué aprendemos acerca de la humanidad o divinidad de Jesús en este pasaje?"
+          },
+          {
+            "text": "¿Cómo podemos vivir de manera diferente ahora que conocemos esta historia?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Preguntas adicionales que puede utilizar:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué están aprendiendo sus seguidores?"
+          },
+          {
+            "text": "¿Qué es lo que Jesús nos está modelando acerca de la vida, el ministerio o el liderazgo piadoso?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Cada año, la familia de Jesús peregrinaba a Jerusalén para celebrar la Pascua con familiares y amigos. Este año fue especial porque a los 12 años, Jesús podía hacer preguntas e interactuar con los líderes religiosos de su época. {Lucas 2:40} resume la niñez de Jesús hasta los 12 años. {Lucas 2:52} resume su crecimiento hacia la adultez que cubre el tiempo aproximadamente a la edad de 18 años hasta que tenía unos 30.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Lucas 2:40",
+                    "label": "Lucas 2:40",
+                    "passage": "<p><sup>40</sup>El niño crecía y se fortalecía; progresaba en sabiduría, y la gracia de Dios lo acompañaba.</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Lucas 2:52",
+                    "label": "Lucas 2:52",
+                    "passage": "<p><sup>52</sup>Jesús siguió creciendo en sabiduría y estatura, y cada vez más gozaba del favor de Dios y de toda la gente.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practique la entrega y la comunión aquí o en la sección Preparación para la Misión</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Practique las habilidades necesarias o temas previos para ayudar a prepararse para ministrar a los demás:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar, Compartir"
+                  },
+                  {
+                    "text": "Compartir el Evangelio"
+                  },
+                  {
+                    "text": "Estudios Bíblicos Fundacionales"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica personas o lugares a los que tomarás la iniciativa de ministrar esta semana."
+          },
+          {
+            "text": "Escriba sus declaraciones de “Yo haré…para cuando…” y compártala en su pequeño grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos con el Señor. Pídele al Señor que nos ayude a ser fieles y úsanos para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bendición (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply204-i-will"
+      }
+    }
+  ]
+}

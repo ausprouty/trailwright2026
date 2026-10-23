@@ -1,0 +1,54 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro5",
+  "sortOrder": 42,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong>Envío, Multiplicación y Entrenamiento de Movimientos <span lang=\"es\">(3er. Viaje Misionero desde Antioquía) [52 -57 d.C.]</span></strong>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"\" src=\"/sites/mc2/content/M2/spa/multiply3/Trip3.webp\"></span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Este período abarca unos cinco años. Varios centros de movimiento ya han estado multiplicando discípulos e iglesias por más de 6 años. Durante este período, se establece en <span lang=\"es\">Éfeso</span> un gran centro de movimiento de envío de misiones. Mientras que el trabajo de plantación de iglesias está echando raíces en Éfeso, los líderes están siendo enviados y las iglesias existentes están siendo entrenadas. El período está marcado por el entrenamiento diario, milagros extraordinarios, escritura de cartas y expansión del Reino para que toda la parte oriental del Imperio Romano puedan ser alcanzada."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Cartas escritas durante este período:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "1 Corintios, 55 d.C."
+          },
+          {
+            "text": "2 Corintios, 56 d.C."
+          },
+          {
+            "text": "Romanos, 57 d.C"
+          }
+        ]
+      }
+    }
+  ]
+}

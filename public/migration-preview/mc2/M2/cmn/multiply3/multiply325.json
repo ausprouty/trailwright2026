@@ -1,0 +1,360 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply325",
+  "sortOrder": 35,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向后看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "敬拜赞美",
+        "level": 2
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "祷告关怀",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感谢神和需要耶稣为你做的事，并彼此感恩代祷"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "庆贺实践",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"back\">请分享上周你因信靠神忠心地操练和实践基督使命的福音行动</li> <li class=\"back\">背诵上周经文（{徒13:2-3}） </li>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "徒13:2-3",
+            "label": "徒13:2-3",
+            "passage": "<p><sup>2</sup>他们侍奉主、禁食的时候，圣灵说：“要为我分派<u class=\"person underline\">巴拿巴</u>和<u class=\"person underline\">扫罗</u>，去做我召他们所做的工。”<sup>3</sup>于是禁食、祷告，按手在他们头上，就打发他们去了。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "天父心意",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "差派工人出去是要作圣灵召他们所作的工，不是要建立个人的王国，也不是要扩展教会的地盘。这些工人是圣灵所召，就要向圣灵负责。工作的方向和策略也是由圣灵决定。因此，我们在顺服神的过程或愿意顺服神的旨意时，才能察觉圣灵的带领。我们如果不愿意事奉、不肯顺服神，就不可能体会圣灵的带领。让我们众教会在差派的事上与圣灵同工，敏锐和顺从圣灵的带领，完成天父的旨意。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"lesson-icon\" src=\"/sites/mc2/content/M2/cmn/images/standard/mc2up.png\">"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "奉主差遣",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"up\"><strong>经文背景</strong></li> 居比路是地中海东北的小岛，是巴拿巴的家乡（{徒4:36}）。 他们的宣教行踪就从居比路开始。他们到了撒拉米，就在犹太人各会堂里传讲神的道。开始时，他们主要的对象还是犹太人，就在犹太人各会堂里传讲神的道。在帕弗，方伯士求保罗请了巴拿巴和扫罗来，要听神的道。那里有一位行法术的假先知巴耶稣（或叫以吕马）敌挡使徒，要叫方伯不信真道。圣灵的工作，使假先知不能抵挡真道。圣灵的工作，使方伯信基督，能影响全岛的福音工作。",
+        "references": [
+          {
+            "id": "popup_pop2",
+            "marker": "徒4:36",
+            "label": "徒4:36",
+            "passage": "<p><sup>36</sup>有一个利未人，生在塞浦路斯，名叫<u class=\"person underline\">约瑟</u>，使徒称他为<u class=\"person underline\">巴拿巴</u>（“<u class=\"person underline\">巴拿巴</u>”翻出来就是“劝慰子”）。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "旁非利亚是罗马在小亚西亚南岸经济穷困的省份。别加城在塞浦路斯西北面，位于旁非利亚沿海地区。彼西底的安提阿离别加以北大约160公里，海拔1000米，位于弗吕家，接近彼西底边界。为了区别于弗吕家的另一个安提阿，这个地方被称为“彼西底的安提阿”。接下来，使徒来到彼西底的安提阿，在安息日进会堂坐下。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>阅读经文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "阅读或观看《徒13:13-43》两遍。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "徒13:13-43",
+        "html": "<p><sup>13</sup>保罗和他的同人从帕弗开船，来到旁非利亚的别加，约翰就离开他们，回耶路撒冷去。<sup>14</sup>他们离了别加往前行，来到彼西底的安提阿，在安息日进会堂坐下。<sup>15</sup>读完了律法和先知的书，管会堂的叫人过去，对他们说：“二位兄台，若有甚么劝勉众人的话，请说。”</p> <p><sup>16</sup>保罗就站起来，举手说：“以色列人和一切敬畏　神的人，请听。<sup>17</sup>这以色列民的　神拣选了我们的祖宗，当民寄居埃及的时候，抬举他们，用大能的手领他们出来； <sup>18</sup>又在旷野容忍他们约有四十年（注：“容忍”或作“抚养”）。<sup>19</sup>既灭了迦南地七族的人，就把那地分给他们为业。<sup>20</sup>此后，给他们设立士师，约有四百五十年，直到先知撒母耳的时候。</p> <p><sup>21</sup>后来他们求一个王，　神就将便雅悯支派中基士的儿子扫罗，给他们作王四十年。<sup>22</sup>既废了扫罗，就选立大卫作他们的王，又为他作见证说：‘我寻得耶西的儿子大卫，他是合我心意的人，凡事要遵行我的旨意。’</p> <p><sup>23</sup>从这人的后裔中，　神已经照著所应许的，为以色列人立了一位救主，就是耶稣。:<sup>24</sup>在他没有出来以先，约翰向以色列众民宣讲悔改的洗礼。<sup>25</sup>约翰将行尽他的程途说：‘你们以为我是谁？我不是基督；只是有一位在我以后来的，我解他脚上的鞋带也是不配的。’</p> <p><sup>26</sup>弟兄们，亚伯拉罕的子孙和你们中间敬畏　神的人哪，这救世的道是传给我们的。<sup>27</sup>耶路撒冷居住的人和他们的官长，因为不认识基督，也不明白每安息日所读众先知的书，就把基督定了死罪，正应了先知的预言。<sup>28</sup>虽然查不出他有当死的罪来，还是求彼拉多杀他。<sup>29</sup>既成就了经上指著他所记的一切话，就把他从木头上取下来，放在坟墓里。<sup>30</sup>神却叫他从死里复活。<sup>31</sup>那从加利利同他上耶路撒冷的人多日看见他，这些人如今在民间是他的见证。</p> <p><sup>32</sup>我们也报好信息给你们，就是那应许祖宗的话， <sup>33</sup>神已经向我们这作儿女的应验，叫耶稣复活了。正如诗篇第二篇上记著说：‘你是我的儿子，我今日生你。’<sup>34</sup>论到　神叫他从死里复活，不再归于朽坏，就这样说：‘我必将所应许大卫那圣洁可靠的恩典，赐给你们。’<sup>35</sup>又有一篇上说：‘你必不叫你的圣者见朽坏。’<sup>36</sup>大卫在世的时候，遵行了　神的旨意，就睡了（注：或作“大卫按神的旨意服事了他那一世的人，就睡了”），归到他祖宗那里，已见朽坏；<sup>37</sup>惟独　神所复活的，他并未见朽坏。</p> <p><sup>38</sup>所以弟兄们，你们当晓得：赦罪的道是由这人传给你们的。<sup>39</sup>你们靠摩西的律法，在一切不得称义的事上信靠这人，就都得称义了。<sup>40</sup>所以，你们务要小心，免得先知书上所说的临到你们。<sup>41</sup>主说：‘你们这轻慢的人要观看、要惊奇、要灭亡，因为在你们的时候，我行一件事，虽有人告诉你们，你们总是不信。’”</p> <p><sup>42</sup>他们出会堂的时候，众人请他们到下安息日再讲这话给他们听。<sup>43</sup>散会以后，犹太人和敬虔进犹太教的人多有跟从保罗、巴拿巴的。二人对他们讲道，劝他们务要恒久在　神的恩中。</p>",
+        "url": "https://biblegateway.com/passage/?search=徒13:13-43&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "徒13:13-43",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_20615-Acts7335-0-0",
+        "source": "arclight",
+        "refId": "2_20615-Acts7335-0-0",
+        "startTime": "start",
+        "endTime": "5:41",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索与讨论</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "让你印象深刻的经文/部分是什么？为什么？"
+                },
+                {
+                  "text": "主的手如何借着门徒在这城中动工和带来影响？结果如何？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再读一遍故事。请小组一员口述这故事，其他人根据需要作补充或更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "小结",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "保罗和巴拿巴离开塞浦路斯来到旁非利亚后，约翰马可决定离开他们。他们往北方内陆前行，穿过旁非利亚，到了彼西底的安提阿——多山的加拉太的首都。至于为什么要去那里，历史提供了我们重要的洞见：塞浦路斯的官员有家人住在这个城市里，表示保罗和巴拿巴继续跟随主所打开的关系网络前行。另一个原因则是这个城市位于邻近区域的主要交叉道路上。他们到会堂讲道，因为知道会有虔诚的犹太人和对属灵的事有渴慕的外邦人在那里（{徒13:26}）。 保罗分享圣经上的故事，证明上帝为了他们的罪，预备了耶稣（{徒13:38-39}）。 许多人信了，所以保罗和巴拿巴作了初步的跟进，鼓励他们与基督建立更深的关系。",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "徒13:26",
+                    "label": "徒13:26",
+                    "passage": "<p><sup>26</sup>弟兄们，<u class=\"person underline\">亚伯拉罕</u>的子孙和你们中间敬畏神的人哪，这救世的道是传给我们的。</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "徒13:38-39",
+                    "label": "徒13:38-39",
+                    "passage": "<p><sup>38</sup>“所以弟兄们，你们当晓得：赦罪的道是由这人传给你们的！<sup>39</sup>你们靠<u class=\"person underline\">摩西</u>的律法，在一切不得称义的事上信靠这人，就都得称义了。</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "经文背诵",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "徒13:43"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>43</sup>散会以后，犹太人和敬虔进犹太教的人多有跟从保罗、巴拿巴的。二人对他们讲道，劝他们务要恒久在神的恩中。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音预备",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "保罗在使徒行传中的第一个讲道词与彼得的第一个讲道词，甚至与司提反有什么相似之处吗？给我们什么启发？"
+          },
+          {
+            "text": "在你生命中靠什么称义，并如何享受神所赐的福气呢？保罗的责备对你有何提醒？"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行动",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"forward\">马可此时退出（{徒13:13}）， 可能是畏惧后面路途中的崇山峻岭。保罗也不喜悦马可此时离去（{徒15:38}）， 但圣灵却保守保罗的心里仍有安息。马可虽然在传道的事上一度离开，但是后来却大大改变，而为保罗所器重，说他“在传道的事上于我有益”（{提后4:11}）。 <ul class=\"forward\"> <li class=\"forward\">若教会或你的同工因为一些个人或外在因素，而中途离开你们，求神保守你们在祂里面有平静安稳的心，不去论断或批评，乃是成全和祝福。</li> <li class=\"forward\">持续为他/他们祷告，在未来的日子，持续坚定地信靠神，生命经历神的装备和更新，不久的将来可以更好被主重用，成为教会和同工的祝福。</li> </ul> </li> <li class=\"forward\">为教会的牧者同工团队代求，求神让他们有颗合而为一的心，凡事谦卑寻求神的心意，以基督的心为心，在教会各项事工的决策上，有神的智慧，凡事讨神的喜悦。</li> <li class=\"forward\">为宣教士在各地有神的同在和能力，在他们所服事的禾场中，讲道大有圣灵的恩膏，并劝众人务要恒久在神的恩中，并牧养和建立他们成为当地的教会领袖。</li> <li class=\"forward\">阅读附录：《宣教士：艾得理》，把感受和心得写下，下周分享。</li> <li class=\"forward\">花3分钟写下你在本课的学习心得，或是你未来一周可能有的其他行动点。</li>",
+        "references": [
+          {
+            "id": "popup_pop5",
+            "marker": "徒13:13",
+            "label": "徒13:13",
+            "passage": "<p><sup>13</sup><u class=\"person underline\">保罗</u>和他的同人从帕弗开船，来到旁非利亚的别加，<u class=\"person underline\">约翰</u>就离开他们，回耶路撒冷去。</p>"
+          },
+          {
+            "id": "popup_pop6",
+            "marker": "徒15:38",
+            "label": "徒15:38",
+            "passage": "<p><sup>38</sup>但<u class=\"person underline\">保罗</u>因为<u class=\"person underline\">马可</u>从前在旁非利亚离开他们，不和他们同去做工，就以为不可带他去。</p>"
+          },
+          {
+            "id": "popup_pop7",
+            "marker": "提后4:11",
+            "label": "提后4:11",
+            "passage": "<p><sup>11</sup>这些事你要吩咐人，也要教导人。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音祷告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "亲爱的天父，愿这地的人都尊祢的名为圣，愿祢的国降临，愿祢的旨意行在地上，如同行在天上。求主打发更多工人收割祢的庄稼，拓展我们的疆界，我们深愿在每1000人中就有1个“徒2群体”。天父阿，因为国度、荣耀、权柄全是祢的，直到永远。我们要奉祢的名，宣扬天国的福音，求祢赐我们够用的胆量、当说的话语，使我们在祢并众人的面前蒙恩宠有美名。我们也为在宣教禾场的每位宣教士的身心灵祷告，求主保守他们常在里面，救他们脱离凶恶，不叫他们遇见试探，他们日用的饮食，求天父供应他们。祷告奉主名求，阿们！"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply325-i-will"
+      }
+    }
+  ]
+}

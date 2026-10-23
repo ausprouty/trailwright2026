@@ -1,0 +1,498 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmt",
+  "htmlLang": "zh-Hant",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply102",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "本課透過路加福音第15章中的“浪子比喻”幫助我們明白天父的慈愛，同時提醒我們，罪是不會改變上帝是我們天父的事實，但是罪卻會帶來嚴重的後果，也會影響我們和天父之間的交通（團契），使我們無法享受祂的慈愛。"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向後看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "敬拜讚美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "詩篇43:3-5"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>3</sup>求你發出你的亮光和真實，好引導我，帶我到你的聖山，到你的居所。<sup>4</sup>我就走到　神的祭壇，到我最喜樂的　神那裡。神啊，我的　神！我要彈琴稱讚你！<sup>5</sup>我的心哪，你為何憂悶？為何在我裡面煩躁？應當仰望　神，因我還要稱讚他。他是我臉上的光榮，是我的　神。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "讓我們以詩歌來感謝神的慈愛和信實，因祂是我們的神，是我們隨時的幫助。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "禱告關懷",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感謝神和需要耶穌為你做的事，並彼此感恩代禱。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "慶賀實踐",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "請分享上週你因信靠神而實踐“屆時我會”的福音行動"
+          },
+          {
+            "text": "背誦上週經文（約10:29-30）"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "天父心意",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "當我們接受基督時，生命從此不再一樣。哥林多後書5:17 說：“若有人在基督裡，他就是新造的人，舊事已過，都變成新的了。” 我們現在就是新造的人，當我們決定跟隨基督時，並願意讓祂在我們生命中作改變的工作，我們就越能明白人生的目的和意義。在踏上新生命的旅程時，讓我們一起用神的話語彼此勉勵和扶持。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "被主呼召",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong><span lang=\"ZH-CN\">故事背景</span></strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">一群在社會上被瞧不起的人回應耶穌的教導。宗教領袖（法利賽人）和猶太教律法的教師們（文士）不喜歡耶穌與這群人在一起。因此，耶穌講了浪子的比喻，說明上帝對罪人的心。</span>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>閱讀經文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "讀路加福音15:11-24兩遍。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "路加福音15:11-24",
+        "html": "<p><sup>11</sup>耶穌又說：「一個人有兩個兒子。<sup>12</sup>小兒子對父親說：『父親，請你把我應得的家業分給我。』他父親就把產業分給他們。<sup>13</sup>過了不多幾日，小兒子就把他一切所有的都收拾起來，往遠方去了。在那裡任意放蕩，浪費資財。<sup>14</sup>既耗盡了一切所有的，又遇著那地方大遭饑荒，就窮苦起來。<sup>15</sup>於是去投靠那地方的一個人，那人打發他到田裡去放豬。<sup>16</sup>他恨不得拿豬所吃的豆莢充飢，也沒有人給他。<sup>17</sup>他醒悟過來，就說：『我父親有多少的雇工，口糧有餘，我倒在這裡餓死嗎？<sup>18</sup>我要起來，到我父親那裡去，向他說：「父親，我得罪了天，又得罪了你。<sup>19</sup>從今以後，我不配稱為你的兒子，把我當做一個雇工吧！」』<sup>20</sup>於是起來，往他父親那裡去。相離還遠，他父親看見，就動了慈心，跑去抱著他的頸項，連連與他親嘴。<sup>21</sup>兒子說：『父親，我得罪了天，又得罪了你。從今以後，我不配稱為你的兒子。』<sup>22</sup>父親卻吩咐僕人說：『把那上好的袍子快拿出來給他穿，把戒指戴在他指頭上，把鞋穿在他腳上，<sup>23</sup>把那肥牛犢牽來宰了，我們可以吃喝快樂！<sup>24</sup>因為我這個兒子是死而復活，失而又得的。』他們就快樂起來。</p>",
+        "url": "https://biblegateway.com/passage/?search=路加福音15:11-24&version=CUVMPT",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "路加福音15:11-24",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOLuke2616",
+        "source": "arclight",
+        "refId": "6_20615-GOLuke2616",
+        "startTime": "start",
+        "endTime": "2:22",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索與討論</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "經文中讓你印象最深刻的是什麼？為什麼？"
+                },
+                {
+                  "text": "從這段經文中你對耶穌有什麼新的認識？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再讀一次這段故事。請小組中一個人口頭講述這故事，並根據需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "天父願意赦免祂兒女的罪。罪不會改變我們是天父兒女的事實，但它會影響我們與上帝之間的交通。當我們犯罪得罪神，我們可以馬上來到天父的面前承認，感謝耶穌為我們的罪所作的赦免，並靠着耶穌活出天父為我們所預備的生命",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小結</strong>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "經文背誦",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "路加福音15:24"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "因為我這個兒子，是死而復活，失而又得的。他們就快樂起來。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "福音預備",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>體驗在神的慈愛和赦免中成長</strong>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "約翰一書1:9"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "“我們若認自己的罪，神是信實的，是公義的，必要赦免我們的罪，洗淨我們一切的不義。”"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>認罪是什麼</strong>"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "1. 同意神對我們的罪的看法。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "2. 感謝神的赦免。神是信實的，是公義的，必要赦免我們的罪。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "3. 悔改，改變對罪的看法。靠着聖靈的大能，帶來態度和行為的改變。"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>為什麼我們要認罪</strong>"
+                  },
+                  {
+                    "text": "認罪是信心的表現。"
+                  },
+                  {
+                    "text": "認罪是我們對神的愛之回應。（約翰一書4:9-10, 19）"
+                  },
+                  {
+                    "text": "認罪使我們繼續與神相交。（約翰一書1:6-7）"
+                  },
+                  {
+                    "text": "<strong>認罪的操練</strong>"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "1. 祈求聖靈向你顯明在你生命中的罪，然後寫在紙上，向神認罪之後，再把它撕毀（當你認罪之後，心中若還有犯罪感，那絕不是從神而來的，而是從撒但來的，因為羅馬書8:1 “如今，那些在基督耶穌裡的就不定罪了。” ）"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "2. 憑信心感謝神，因為在基督裡你已經完全被赦免了。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "3. 求神幫助你改變對罪的看法，態度和行為有改變。"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "問題與討論"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行動",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "在未來一週，每天都操練一次用紙寫下和撕掉的認罪。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "（用一張字，將罪寫下，認罪了之後就把紙撕掉。這個更好幫助我們省察自己得罪神的地方、體驗罪被赦免及我們得洗淨的事實（約翰一書1:9）。當我們以後在生活中意識到自己犯罪，或是熟練了以後，我們就可以不用紙，自己在禱告中認真的承認、感謝和悔改就可以了。）"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "接下來棄絕一項神所不喜悅的行為/習慣（例如：撒謊、冷漠、未婚同居、婚外情、欺詐等）。若有需要，可與組長分享，彼此督責勸勉，並靠着聖靈的大能，做神所喜悅的事。"
+          },
+          {
+            "text": "若有人問你行為/習慣改變的原因，請告訴他們你已跟隨耶穌的決定。"
+          },
+          {
+            "text": "依照你今天所學到的，寫下一個“屆時我會”的宣告，並於組內分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在_______________（時間/地點）將會________________（對象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分鐘寫下你在本課的學習心得，或是你未來一週可能有的其他行動點。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong>福音禱告</strong>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">親愛的天父，感謝祢</span><span lang=\"ZH-CN\">借着耶穌捨命的救恩，使我們可以經歷新的生命。謝謝祢對我們不離不棄的愛，祢一直用祢無條件的愛來呼喚及等待我們回到祢的懷抱中。求</span><span lang=\"ZH-CN\">天父</span><span lang=\"ZH-CN\">賜我們信心和勇氣，天天為祢</span><span lang=\"ZH-CN\">而活，我們承認在生命中還有很多不討祢</span><span lang=\"ZH-CN\">喜悅和得罪祢</span><span lang=\"ZH-CN\">的態度和生活習慣，求聖靈賜我們能力去勝過和改變，時刻經歷</span><span lang=\"ZH-CN\">天父</span><span lang=\"ZH-CN\">的慈愛和赦免，真實體驗和得着平安與喜樂，過討祢</span><span lang=\"ZH-CN\">喜悅的生活</span><span lang=\"ZH-CN\">。奉主耶穌基督的名求，阿們！</span>"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply102-i-will"
+      }
+    }
+  ]
+}

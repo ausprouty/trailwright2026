@@ -1,0 +1,435 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply242",
+  "sortOrder": 47,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louvar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia uma passagem das Escrituras e louvem com uma canção de adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">(Opcional) Jesus Cristo é o Senhor, para a gloria de Deus Pai. Ele deseja que todos os homens sejam salvos e cheguem ao pleno conhecimento da verdade. Porque há um só Deus e um único mediador entre Deus e os homens, o homem Jesus Cristo, que a si mesmo se entregou como resgate por todos. ({Filipenses 2:11}; {1 Timóteo 2:4-6}) </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>e declarem abertamente<br>que Jesus Cristo é o Senhor,<br>para a glória de Deus, o Pai.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timóteo 2:4-6",
+                    "label": "1 Timóteo 2:4-6",
+                    "passage": "<p><sup>4</sup>Ele quer que todos sejam salvos e venham a conhecer a verdade.</p><p><sup>5</sup>Pois existe um só Deus e uma só pessoa que une Deus com os seres humanos — o ser humano Cristo Jesus,<sup>6</sup>que deu a sua vida para que todos fiquem livres dos seus pecados. Esta foi a prova, dada no tempo certo, de que Deus quer que todos sejam salvos.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar sobre as necessidades dos demais em oração, conselho bíblico e ânimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça a cada pessoa que compartilhe acontecimento especial e um desafio que tenha experimentado nesta semana."
+          },
+          {
+            "text": "Pergunte: \"O que você deseja que Jesus faça por você nesta semana? Ore pelas necessidades dos demais."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<span style=\"background-color:white\"><span lang=\"PT-BR\">Pergunte: \"O que aconteceu quando você confiou em Deus sobre suas metas e suas declarações: Eu farei.... no dia......?\"</span></span>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Escolha uma maneira de dar a visão de quem eles podem chegar a ser em Cristo e o que Deus pode fazer através deles ao:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartilhar um versículo Bíblico que os faça lembrar o Coração do Pai e a visão final, ou"
+                  },
+                  {
+                    "text": "Refletir sobre as mudanças que aconteceram em suas vidas desde que começaram a seguir a Cristo, ou"
+                  },
+                  {
+                    "text": "recordar o que Deus quer fazer através deles."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Compartilhe a GRANDE visão de \"Uma igreja para cada cidade e comunidade, e o evangelho para cada pessoa”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Peça ao grupo que conte a história da semana passada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista João 9:1-41 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "João 9",
+        "html": "<h3>Jesus e um cego</h3> <p><sup>1</sup>Jesus ia caminhando quando viu um homem que tinha nascido cego.<sup>2</sup>Os seus discípulos perguntaram:</p> <p>— Mestre, por que este homem nasceu cego? Foi por causa dos pecados dele ou por causa dos pecados dos pais dele?</p> <p><sup>3</sup>Jesus respondeu:</p> <p>— Ele é cego, sim, mas não por causa dos pecados dele nem por causa dos pecados dos pais dele. É cego para que o poder de Deus se mostre nele.<sup>4</sup>Precisamos trabalhar enquanto é dia, para fazer as obras daquele que me enviou. Pois está chegando a noite, quando ninguém pode trabalhar.<sup>5</sup>Enquanto estou no mundo, eu sou a luz do mundo.</p> <p><sup>6</sup>Depois de dizer isso, Jesus cuspiu no chão, fez um pouco de lama com a saliva, passou a lama nos olhos do cego<sup>7</sup>e disse:</p> <p>— Vá lavar o rosto no tanque de Siloé. (Este nome quer dizer “Aquele que Foi Enviado”.)</p> <p>O cego foi, lavou o rosto e voltou vendo.<sup>8</sup>Os seus vizinhos e as pessoas que costumavam vê-lo pedindo esmola perguntavam:</p> <p>— Não é este o homem que ficava sentado pedindo esmola?</p> <p><sup>9</sup>— É! — diziam alguns.</p> <p>— Não, não é. Mas é parecido com ele! — afirmavam outros.</p> <p>Porém ele dizia:</p> <p>— Sou eu mesmo.</p> <p><sup>10</sup>— Como é que agora você pode ver? — perguntaram.</p> <p><sup>11</sup>Ele respondeu:</p> <p>— O homem chamado Jesus fez um pouco de lama, passou a lama nos meus olhos e disse: “Vá ao tanque de Siloé e lave o rosto.” Então eu fui, lavei o rosto e fiquei vendo.</p> <p><sup>12</sup>— Onde está esse homem? — perguntaram.</p> <p>— Não sei! — respondeu ele.</p> <h3>Os fariseus fazem perguntas</h3> <p><sup>13</sup>Então levaram aos fariseus o homem que havia sido cego.<sup>14</sup>O dia em que Jesus havia feito lama e curado o homem da cegueira era um sábado.<sup>15</sup>Aí os fariseus também perguntaram como ele tinha sido curado.</p> <p>— Ele pôs lama nos meus olhos, eu lavei o rosto e agora estou vendo — respondeu o homem.</p> <p><sup>16</sup>Alguns fariseus disseram:</p> <p>— O homem que fez isso não é de Deus porque não respeita a lei do sábado.</p> <p>E outros perguntaram:</p> <p>— Como pode um pecador fazer milagres tão grandes?</p> <p>E por causa disso houve divisão entre eles.<sup>17</sup>Então os fariseus tornaram a perguntar ao homem:</p> <p>— Você diz que ele curou você da cegueira. E o que é que você diz dele?</p> <p>— Ele é um profeta! — respondeu o homem.</p> <p><sup>18</sup>Os líderes judeus não acreditavam que ele tinha sido cego e que agora podia ver. Por isso chamaram os pais dele<sup>19</sup>e perguntaram:</p> <p>— Esse homem é filho de vocês? Vocês dizem que ele nasceu cego. E como é que agora ele está vendo?</p> <p><sup>20</sup>Os pais responderam:</p> <p>— Sabemos que ele é nosso filho e que nasceu cego.<sup>21</sup>Mas não sabemos como é que ele agora pode ver e não sabemos também quem foi que o curou. Ele é maior de idade; perguntem, e ele mesmo poderá explicar.</p> <p><sup>22</sup>Os pais disseram isso porque estavam com medo, pois os líderes judeus tinham combinado expulsar da sinagoga quem afirmasse que Jesus era o Messias.<sup>23</sup>Foi por isso que os pais disseram: “Ele é maior de idade; perguntem a ele.”</p> <p><sup>24</sup>Então os líderes judeus chamaram pela segunda vez o homem que tinha sido cego e disseram:</p> <p>— Jure por Deus que você vai dizer a verdade. Nós sabemos que esse homem é pecador.</p> <p><sup>25</sup>Ele respondeu:</p> <p>— Se ele é pecador, eu não sei. De uma coisa eu sei: eu era cego e agora vejo!</p> <p><sup>26</sup>— O que foi que ele fez a você? Como curou você da cegueira? — tornaram a perguntar.</p> <p><sup>27</sup>O homem respondeu:</p> <p>— Eu já disse, e vocês não acreditaram. Por que querem ouvir isso outra vez? Por acaso vocês também querem ser seguidores dele?</p> <p><sup>28</sup>Então eles o xingaram e disseram:</p> <p>— Você é que é seguidor dele! Nós somos seguidores de Moisés.<sup>29</sup>Sabemos que Deus falou com Moisés; mas este homem, nós nem mesmo sabemos de onde ele é.</p> <p><sup>30</sup>Ele respondeu:</p> <p>— Que coisa esquisita! Vocês não sabem de onde ele é, mas ele me curou.<sup>31</sup>Sabemos que Deus não atende pecadores, mas ele atende os que o respeitam e fazem a sua vontade.<sup>32</sup>Desde que o mundo existe, nunca se ouviu dizer que alguém tivesse curado um cego de nascença.<sup>33</sup>Se esse homem não fosse enviado por Deus, não teria podido fazer nada.</p> <p><sup>34</sup>Eles disseram:</p> <p>— Você nasceu cheio de pecado e é você que quer nos ensinar?</p> <p>E o expulsaram da sinagoga.</p> <h3>A cegueira espiritual</h3> <p><sup>35</sup>Jesus ficou sabendo que tinham expulsado o homem da sinagoga. Foi procurá-lo e, quando o encontrou, perguntou:</p> <p>— Você crê no Filho do Homem?</p> <p><sup>36</sup>Ele respondeu:</p> <p>— Senhor, quem é o Filho do Homem para que eu creia nele?</p> <p><sup>37</sup>Jesus disse:</p> <p>— Você já o viu! É ele que está falando com você!</p> <p><sup>38</sup>— Eu creio, Senhor! — disse o homem. E se ajoelhou diante dele.</p> <p><sup>39</sup>Então Jesus afirmou:</p> <p>— Eu vim a este mundo para julgar as pessoas, a fim de que os cegos vejam e que fiquem cegos os que veem.</p> <p><sup>40</sup>Alguns fariseus que estavam com ele ouviram isso e perguntaram:</p> <p>— Será que isso quer dizer que nós também somos cegos?</p> <p><sup>41</sup>— Se vocês fossem cegos, não teriam culpa! — respondeu Jesus. — Mas, como dizem que podem ver, então continuam tendo culpa.</p>",
+        "url": "https://biblegateway.com/passage/?search=John%209:1-41&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "João 9:1-41",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2210",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2210",
+        "startTime": "start",
+        "endTime": "7:03",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que te chamou a atenção ou o que você mais gostou? Por quê?"
+          },
+          {
+            "text": "Existe algo novo ou algo que tenha desenvolvido até este ponto da história de Jesus?"
+          },
+          {
+            "text": "O que aprendemos sobre a humanidade ou a divindade de Jesus nessa passagem?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que conhecemos essa história?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Perguntas adicionais que você pode usar:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que estão aprendendo seus seguidores?"
+          },
+          {
+            "text": "O que Jesus está modelando sobre a vida, o ministério e a liderança piedosa?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus comparece a outra festa, a Festa da Dedicação, ou Festa das Luzes. Essa festa tinha o propósito de lembrar quando Deus realizou o milagre de provisão de luz nas lamparinas quando não havia óleo suficiente para continuar queimando. Na festa, Jesus conhece um homem cego desde o nascimento. A maioria das pessoas acreditava que se você estava sofrendo era porque você ou alguém próximo havia pecado. Jesus choca os que estão a Sua volta quando diz que esse homem nasceu cego para que a glória de Deus fosse revelada em Sua vida. Jesus ensinou um princípio maravilhoso, Deus pode permitir o sofrimento para que Ele possa ser glorificado. É importante lembrar que Deus é o centro da vida. Ele recebe glória quando clamamos por Ele. Uma lição para termo cuidado sobre julgar o sofrimento de alguém, pode não ser devido a nada que tenham feito mas porque Deus ainda irá fazer algo em suas vidas."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratique ofertar e a comunhão aqui ou na sessão Preparar para a Missão.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pratique as habilidades necessárias ou assuntos prévios para te ajudar a preparar-se para ministrar aos demais:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar e Compartilhar"
+                  },
+                  {
+                    "text": "Compartilhar o Evangelho"
+                  },
+                  {
+                    "text": "Estudos Bíblicos Fundamentais"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique pessoas ou lugares onde tomará a iniciativa de ministrar nessa semana."
+          },
+          {
+            "text": "Escreva suas declarações de “Eu farei........ no dia ........” e compartilhe em seu pequeno grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Apresente as metas de todos ao Senhor. Peça ao Senhor que nos ajude a ser fiéis e que Ele nos use para iniciar um movimento de fazedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benção (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply242-i-will"
+      }
+    }
+  ]
+}

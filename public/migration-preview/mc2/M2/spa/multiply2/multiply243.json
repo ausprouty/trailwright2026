@@ -1,0 +1,432 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply243",
+  "sortOrder": 48,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Opcional) Jesucristo es el Señor, para la gloria de Dios Padre. Él quiere que todos los hombres sean salvos y lleguen al conocimiento de la verdad. Porque hay un solo Dios y un mediador también entre Dios y el hombre, el hombre Jesucristo, que se entregó a sí mismo como rescate por todos. ({Filipenses 2:11}; {1 Timoteo 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>y toda lengua confiese que Jesucristo es el Señor,<br>para gloria de Dios Padre.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timoteo 2:4-6",
+                    "label": "1 Timoteo 2:4-6",
+                    "passage": "<p><sup>4</sup>pues él quiere que todos sean salvos y lleguen a conocer la verdad.<sup>5</sup>Porque hay un solo Dios y un solo mediador entre Dios y los hombres, Jesucristo hombre,<sup>6</sup>quien dio su vida como rescate por todos. Este testimonio Dios lo ha dado a su debido tiempo,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar las necesidades de los demás en oración, consejo bíblico y ánimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunte: \"¿Qué pasó cuando confiaste en Dios tus metas y tus declaraciones: Yo haré… cuándo…?\""
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y estímulo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Elija una manera de proyectar visión de quiénes pueden llegar a ser en Cristo o lo que Dios puede hacer a través de ellos al:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartir un versículo Bíblico que les recuerde el Corazón del Padre y la visión final, o"
+                  },
+                  {
+                    "text": "reflexionando sobre los cambios en su vida desde que comenzaron a seguir a Cristo, o"
+                  },
+                  {
+                    "text": "recordándoles lo que Dios quiere hacer a través de ellos."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Comparta la GRAN visión de \"Una iglesia para cada ciudad y comunidad, y el Evangelio para cada persona”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídale al grupo que cuente la historia de la semana pasada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Lucas 10</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 10",
+        "html": "<h3>Jesús envía a los setenta y dos</h3> <p><sup>1</sup>Después de esto, el Señor escogió a otros setenta y dos para enviarlos de dos en dos delante de él a todo pueblo y lugar adonde él pensaba ir.<sup>2</sup>«Es abundante la cosecha —les dijo—, pero son pocos los obreros. Pídanle, por tanto, al Señor de la cosecha que mande obreros a su campo.<sup>3</sup>¡Vayan ustedes! Miren que los envío como corderos en medio de lobos.<sup>4</sup>No lleven monedero ni bolsa ni sandalias; ni se detengan a saludar a nadie por el camino.</p> <p><sup>5</sup>»Cuando entren en una casa, digan primero: “Paz a esta casa”.<sup>6</sup>Si hay allí alguien digno de paz, gozará de ella; y, si no, la bendición no se cumplirá.<sup>7</sup>Quédense en esa casa, y coman y beban de lo que ellos tengan, porque el trabajador tiene derecho a su sueldo. No anden de casa en casa.</p> <p><sup>8</sup>»Cuando entren en un pueblo y los reciban, coman lo que les sirvan.<sup>9</sup>Sanen a los enfermos que encuentren allí y díganles: “El reino de Dios ya está cerca de ustedes”.<sup>10</sup>Pero, cuando entren en un pueblo donde no los reciban, salgan a las plazas y digan:<sup>11</sup>“Aun el polvo de este pueblo, que se nos ha pegado a los pies, nos lo sacudimos en protesta contra ustedes. Pero tengan por seguro que ya está cerca el reino de Dios”.<sup>12</sup>Les digo que en aquel día será más tolerable el castigo para Sodoma que para ese pueblo.</p> <p><sup>13</sup>»¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! Si se hubieran hecho en Tiro y en Sidón los milagros que se hicieron en medio de ustedes, ya hace tiempo que se habrían arrepentido con grandes lamentos.<sup>14</sup>Pero en el juicio será más tolerable el castigo para Tiro y Sidón que para ustedes.<sup>15</sup>Y tú, Capernaúm, ¿acaso serás levantada hasta el cielo? No, sino que descenderás hasta el abismo.</p> <p><sup>16</sup>»El que los escucha a ustedes, me escucha a mí; el que los rechaza a ustedes, me rechaza a mí; y el que me rechaza a mí, rechaza al que me envió».</p> <p><sup>17</sup>Cuando los setenta y dos regresaron, dijeron contentos:</p> <p>—Señor, hasta los demonios se nos someten en tu nombre.</p> <p><sup>18</sup>—Yo veía a Satanás caer del cielo como un rayo —respondió él—.<sup>19</sup>Sí, les he dado autoridad a ustedes para pisotear serpientes y escorpiones y vencer todo el poder del enemigo; nada les podrá hacer daño.<sup>20</sup>Sin embargo, no se alegren de que puedan someter a los espíritus, sino alégrense de que sus nombres están escritos en el cielo.</p> <p><sup>21</sup>En aquel momento Jesús, lleno de alegría por el Espíritu Santo, dijo: «Te alabo, Padre, Señor del cielo y de la tierra, porque habiendo escondido estas cosas de los sabios e instruidos, se las has revelado a los que son como niños. Sí, Padre, porque esa fue tu buena voluntad.</p> <p><sup>22</sup>»Mi Padre me ha entregado todas las cosas. Nadie sabe quién es el Hijo, sino el Padre, y nadie sabe quién es el Padre, sino el Hijo y aquel a quien el Hijo quiera revelárselo».</p> <p><sup>23</sup>Volviéndose a sus discípulos, les dijo aparte: «Dichosos los ojos que ven lo que ustedes ven.<sup>24</sup>Les digo que muchos profetas y reyes quisieron ver lo que ustedes ven, pero no lo vieron; y oír lo que ustedes oyen, pero no lo oyeron».</p> <h3>Parábola del buen samaritano</h3> <p><sup>25</sup>En esto se presentó un experto en la ley y, para poner a prueba a Jesús, le hizo esta pregunta:</p> <p>—Maestro, ¿qué tengo que hacer para heredar la vida eterna?</p> <p><sup>26</sup>Jesús replicó:</p> <p>—¿Qué está escrito en la ley? ¿Cómo la interpretas tú?</p> <p><sup>27</sup>Como respuesta el hombre citó:</p> <p>—“Ama al Señor tu Dios con todo tu corazón, con todo tu ser, con todas tus fuerzas y con toda tu mente”, y: “Ama a tu prójimo como a ti mismo”.</p> <p><sup>28</sup>—Bien contestado —le dijo Jesús—. Haz eso y vivirás.</p> <p><sup>29</sup>Pero él quería justificarse, así que le preguntó a Jesús:</p> <p>—¿Y quién es mi prójimo?</p> <p><sup>30</sup>Jesús respondió:</p> <p>—Bajaba un hombre de Jerusalén a Jericó, y cayó en manos de unos ladrones. Le quitaron la ropa, lo golpearon y se fueron, dejándolo medio muerto.<sup>31</sup>Resulta que viajaba por el mismo camino un sacerdote quien, al verlo, se desvió y siguió de largo.<sup>32</sup>Así también llegó a aquel lugar un levita y, al verlo, se desvió y siguió de largo.<sup>33</sup>Pero un samaritano que iba de viaje llegó adonde estaba el hombre y, viéndolo, se compadeció de él.<sup>34</sup>Se acercó, le curó las heridas con vino y aceite, y se las vendó. Luego lo montó sobre su propia cabalgadura, lo llevó a un alojamiento y lo cuidó.<sup>35</sup>Al día siguiente, sacó dos monedas de plata y se las dio al dueño del alojamiento. “Cuídemelo —le dijo—, y lo que gaste usted de más, se lo pagaré cuando yo vuelva”.<sup>36</sup>¿Cuál de estos tres piensas que demostró ser el prójimo del que cayó en manos de los ladrones?</p> <p><sup>37</sup>—El que se compadeció de él —contestó el experto en la ley.</p> <p>—Anda entonces y haz tú lo mismo —concluyó Jesús.</p> <h3>En casa de Marta y María</h3> <p><sup>38</sup>Mientras iba de camino con sus discípulos, Jesús entró en una aldea, y una mujer llamada Marta lo recibió en su casa.<sup>39</sup>Tenía ella una hermana llamada María que, sentada a los pies del Señor, escuchaba lo que él decía.<sup>40</sup>Marta, por su parte, se sentía abrumada porque tenía mucho que hacer. Así que se acercó a él y le dijo:</p> <p>—Señor, ¿no te importa que mi hermana me haya dejado sirviendo sola? ¡Dile que me ayude!</p> <p><sup>41</sup>—Marta, Marta —le contestó Jesús—, estás inquieta y preocupada por muchas cosas,<sup>42</sup>pero solo una es necesaria. María ha escogido la mejor, y nadie se la quitará.</p>",
+        "url": "https://biblegateway.com/passage/?search=Lucas%2010:1-42&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lucas 10",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_21028-GOLuke2611",
+        "source": "arclight",
+        "refId": "6_21028-GOLuke2611",
+        "startTime": "start",
+        "endTime": "7:51",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discusión de descubrimiento",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención o qué es lo que más te gustó? ¿Por qué?"
+          },
+          {
+            "text": "¿Hay algo nuevo o algo que ha desarrollado hasta este punto de la historia de Jesús?"
+          },
+          {
+            "text": "¿Qué aprendemos acerca de la humanidad o divinidad de Jesús en este pasaje?"
+          },
+          {
+            "text": "¿Cómo podemos vivir de manera diferente ahora que conocemos esta historia?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Preguntas adicionales que puede utilizar:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué están aprendiendo sus seguidores?"
+          },
+          {
+            "text": "¿Qué es lo que Jesús nos está modelando acerca de la vida, el ministerio o el liderazgo piadoso?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Después de la Fiesta de la Dedicación, Jesús viaja al otro lado del río Jordán, donde Juan lo bautizó tres años antes. Jesús usa esto como base para los próximos meses. Levanta a otros 70 líderes y los nombra como lo hizo con los primeros 12. Les da las mismas instrucciones y los envía de dos en dos por todo el distrito de Perea. Esta es otra reestructuración del ministerio. Ahora hay 35 nuevos equipos además de Jesús y los 12, totales de 36 equipos itinerantes. Al igual que los primeros 12, son enviados sin nada, haciendo que dependan del Padre. Él quiere proporcionar todo lo que necesitarán. Los equipos se extienden para visitar cada pueblo. Encuentran casas de paz orando por la gente, cuidando sus necesidades y compartiendo sobre el Reino. Cuando regresan, están tan entusiasmados con que Dios los use. Jesús pone los resultados del ministerio en la perspectiva adecuada al recordarles que su emoción debe ser acerca de que sus nombres estén escritos en el Libro de la Vida. Jesús estalla en alabanza gozosa por ver el plan funcionando. La voluntad del Padre era que Jesús moriría en la cruz, pero la obra del Padre era que Jesús haría discípulos, que haría discípulos que harían discípulos."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practique la entrega y la comunión aquí o en la sección Preparación para la Misión</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Practique las habilidades necesarias o temas previos para ayudar a prepararse para ministrar a los demás:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar, Compartir"
+                  },
+                  {
+                    "text": "Compartir el Evangelio"
+                  },
+                  {
+                    "text": "Estudios Bíblicos Fundacionales"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica personas o lugares a los que tomarás la iniciativa de ministrar esta semana."
+          },
+          {
+            "text": "Escriba sus declaraciones de “Yo haré…para cuando…” y compártala en su pequeño grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos con el Señor. Pídele al Señor que nos ayude a ser fieles y úsanos para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bendición (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply243-i-will"
+      }
+    }
+  ]
+}

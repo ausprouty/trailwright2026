@@ -1,0 +1,372 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply223",
+  "sortOrder": 27,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lisez un passage biblique et exécutez un chant d’adoration."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la Fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Projection de Vision",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Luc 5:27-39 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luc 5:27-39",
+        "html": "<p><sup>27</sup>Après cela, Jésus sortit, et il vit un publicain, nommé Lévi, assis au lieu des péages. Il lui dit: Suis-moi.</p> <p><sup>28</sup>Et, laissant tout, il se leva, et le suivit.</p> <p><sup>29</sup>Lévi lui donna un grand festin dans sa maison, et beaucoup de publicains et d'autres personnes étaient à table avec eux.</p> <p><sup>30</sup>Les pharisiens et les scribes murmurèrent, et dirent à ses disciples: Pourquoi mangez-vous et buvez-vous avec les publicains et les gens de mauvaise vie?</p> <p><sup>31</sup>Jésus, prenant la parole, leur dit: Ce ne sont pas ceux qui se portent bien qui ont besoin de médecin, mais les malades.</p> <p><sup>32</sup>Je ne suis pas venu appeler à la repentance des justes, mais des pécheurs.</p> <p><sup>33</sup>Ils lui dirent: Les disciples de Jean, comme ceux des pharisiens, jeûnent fréquemment et font des prières, tandis que les tiens mangent et boivent.</p> <p><sup>34</sup>Il leur répondit: Pouvez-vous faire jeûner les amis de l'époux pendant que l'époux est avec eux?</p> <p><sup>35</sup>Les jours viendront où l'époux leur sera enlevé, alors ils jeûneront en ces jours-là.</p> <p><sup>36</sup>Il leur dit aussi une parabole: Personne ne déchire d'un habit neuf un morceau pour le mettre à un vieil habit; car, il déchire l'habit neuf, et le morceau qu'il en a pris n'est pas assorti au vieux.</p> <p><sup>37</sup>Et personne ne met du vin nouveau dans de vieilles outres; autrement, le vin nouveau fait rompre les outres, il se répand, et les outres sont perdues;</p> <p><sup>38</sup>mais il faut mettre le vin nouveau dans des outres neuves.</p> <p><sup>39</sup>Et personne, après avoir bu du vin vieux, ne veut du nouveau, car il dit: Le vieux est bon.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%205:27-39&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luc 5:27-39",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOLuke2605",
+        "source": "arclight",
+        "refId": "6_496-GOLuke2605",
+        "startTime": "6:17",
+        "endTime": "8:23",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de Découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Etudiez chaque passage en utilisant les questions de discussion suivantes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ?"
+          },
+          {
+            "text": "Qu’est ce qui est nouveau ou s’est développé à ce point de l’histoire de Jésus?"
+          },
+          {
+            "text": "Quelle implication du point de vue de l’humanité ou de la divinité de Jésus voyez-vous dans ce passage ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Questions supplémentaires que vous pouvez poser:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce que ses disciples apprennent?"
+          },
+          {
+            "text": "Qu’est-ce que Jésus est en train de nous montrer au sujet de sa vie et de son ministère (ou leadership) ?"
+          },
+          {
+            "text": "Qu’est ce que Jésus est en train de montrer au sujet du leadership empreint de piété ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Matthieu était aussi connu sous le nom de Lévi, fils d'Alphée. Il était puissant, mandaté, digne de confiance, riche et protégé par Rome pour collecter des impôts auprès du peuple d'Israël. Mais en tant que collecteur d'impôts, il était détesté par son propre peuple. Vivant à Capernaüm, il avait observé Jésus et avait entendu parler de tout ce qu'il faisait. Peut-être qu'Il avait déjà l’intention de tout abandonner pour suivre Jésus. Il est clair que le Père avait préparé son cœur parce qu'il avait répondu à l'appel de Jésus à le suivre. Immédiatement, il a présenté Jésus à ses amis collecteurs d'impôts. Jésus a risqué sa réputation en tendant la main et en passant du temps à ce groupe. Mais quel acte d'amour Jésus a fait preuve en leur accordant la grâce. Jésus aimait être connu comme ami des pécheurs."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Etude approfondie: {Matthieu 9:9-17}; {Marc 2:14-22}.",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Matthieu 9:9-17",
+                    "label": "Matthieu 9:9-17",
+                    "passage": "<p><sup>9</sup>De là étant allé plus loin, Jésus vit un homme assis au lieu des péages, et qui s'appelait Matthieu. Il lui dit: Suis-moi. Cet homme se leva, et le suivit.</p><p><sup>10</sup>Comme Jésus était à table dans la maison, voici, beaucoup de publicains et de gens de mauvaise vie vinrent se mettre à table avec lui et avec ses disciples.</p><p><sup>11</sup>Les pharisiens virent cela, et ils dirent à ses disciples: Pourquoi votre maître mange-t-il avec les publicains et les gens de mauvaise vie?</p><p><sup>12</sup>Ce que Jésus ayant entendu, il dit: Ce ne sont pas ceux qui se portent bien qui ont besoin de médecin, mais les malades.</p><p><sup>13</sup>Allez, et apprenez ce que signifie: Je prends plaisir à la miséricorde, et non aux sacrifices. Car je ne suis pas venu appeler des justes, mais des pécheurs.</p><p><sup>14</sup>Alors les disciples de Jean vinrent auprès de Jésus, et dirent: Pourquoi nous et les pharisiens jeûnons-nous, tandis que tes disciples ne jeûnent point?</p><p><sup>15</sup>Jésus leur répondit: Les amis de l'époux peuvent-ils s'affliger pendant que l'époux est avec eux? Les jours viendront où l'époux leur sera enlevé, et alors ils jeûneront.</p><p><sup>16</sup>Personne ne met une pièce de drap neuf à un vieil habit; car elle emporterait une partie de l'habit, et la déchirure serait pire.</p><p><sup>17</sup>On ne met pas non plus du vin nouveau dans de vieilles outres; autrement, les outres se rompent, le vin se répand, et les outres sont perdues; mais on met le vin nouveau dans des outres neuves, et le vin et les outres se conservent.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Marc 2:14-22",
+                    "label": "Marc 2:14-22",
+                    "passage": "<p><sup>14</sup>En passant, il vit Lévi, fils d'Alphée, assis au bureau des péages. Il lui dit: Suis-moi. Lévi se leva, et le suivit.</p><p><sup>15</sup>Comme Jésus était à table dans la maison de Lévi, beaucoup de publicains et de gens de mauvaise vie se mirent aussi à table avec lui et avec ses disciples; car ils étaient nombreux, et l'avaient suivi.</p><p><sup>16</sup>Les scribes et les pharisiens, le voyant manger avec les publicains et les gens de mauvaise vie, dirent à ses disciples: Pourquoi mange-t-il et boit-il avec les publicains et les gens de mauvaise vie?</p><p><sup>17</sup>Ce que Jésus ayant entendu, il leur dit: Ce ne sont pas ceux qui se portent bien qui ont besoin de médecin, mais les malades. Je ne suis pas venu appeler des justes, mais des pécheurs.</p><p><sup>18</sup>Les disciples de Jean et les pharisiens jeûnaient. Ils vinrent dire à Jésus: Pourquoi les disciples de Jean et ceux des pharisiens jeûnent-ils, tandis que tes disciples ne jeûnent point?</p><p><sup>19</sup>Jésus leur répondit: Les amis de l'époux peuvent-ils jeûner pendant que l'époux est avec eux? Aussi longtemps qu'ils ont avec eux l'époux, ils ne peuvent jeûner.</p><p><sup>20</sup>Les jours viendront où l'époux leur sera enlevé, et alors ils jeûneront en ce jour-là.</p><p><sup>21</sup>Personne ne coud une pièce de drap neuf à un vieil habit; autrement, la pièce de drap neuf emporterait une partie du vieux, et la déchirure serait pire.</p><p><sup>22</sup>Et personne ne met du vin nouveau dans de vieilles outres; autrement, le vin fait rompre les outres, et le vin et les outres sont perdus; mais il faut mettre le vin nouveau dans des outres neuves.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se Préparer pour la Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez 5 personnes de votre Liste de Réseau envers qui vous prendrez l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez les promesses « je le ferai d’ici quand » et parlez-en à votre groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply223-i-will"
+      }
+    }
+  ]
+}

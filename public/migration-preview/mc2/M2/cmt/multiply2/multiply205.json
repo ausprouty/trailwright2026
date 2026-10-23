@@ -1,0 +1,378 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmt",
+  "htmlLang": "zh-Hant",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply205",
+  "sortOrder": 7,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向後看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "敬拜讚美",
+        "level": 2
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "禱告關懷",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感謝神和需要耶穌為你做的事，並彼此感恩代禱"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "慶賀實踐",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<span lang=\"ZH-CN\">請分享上周你因信靠神忠心地操練和實踐基督生命的福音行動</span>"
+          },
+          {
+            "text": "背誦上周經文（路2:52）"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "天父心意",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "上帝在基督里賜給我們各樣的屬靈的福氣（弗1:1-14），使我們得以進入祂的家中，稱為祂的兒女。雖然生活不盡都順利並充滿未知數，但神是我們的力量，是我們的避難所，是我們隨時的幫助。主耶穌祂已應許我們：祂勝過了世界，在祂裡面我們有十分的平安和勇氣，使我們可以面對各樣的挑戰和困境，並能靠祂站立得住！（約14:27）"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "學像耶穌",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>經文背景</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">耶穌返回拿撒勒城，這是耶穌長大的家鄉；祂首先到會堂去教訓人，但是得來的反應卻是嘲笑和鄙視，而不是希奇祂的力量。“他們處處與祂為難”，他們譏諷耶穌，以他的出身背景為話柄，不滿祂的言行舉止。</span>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>閱讀經文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "閱讀馬太福音13:55-56；詩篇69:7-12；馬可福音6:3兩遍"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "馬太福音13:55-56",
+        "html": "<p><sup>55</sup>這不是木匠的兒子嗎？他母親不是叫<u class=\"person underline\">馬利亞</u>嗎？他弟兄們不是叫<u class=\"person underline\">雅各</u>、<u class=\"person underline\">約西</u>、<u class=\"person underline\">西門</u>、<u class=\"person underline\">猶大</u>嗎？<sup>56</sup>他妹妹們不是都在我們這裡嗎？這人從哪裡有這一切的事呢？」</p>",
+        "url": "https://biblegateway.com/passage/?search=馬太福音13:55-56&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "馬太福音13:55-56",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOMatt2510",
+        "source": "arclight",
+        "refId": "6_20615-GOMatt2510",
+        "startTime": "5:33",
+        "endTime": "5:49",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "詩篇69:7-12",
+        "html": "<div> <p><sup>7</sup>因我為你的緣故受了辱罵，滿面羞愧。<br> <sup>8</sup>我的弟兄看我為外路人，我的同胞看我為外邦人。<br> <sup>9</sup>因我為你的殿心裡焦急，如同火燒，並且辱罵你人的辱罵都落在我身上。<br> <sup>10</sup>我哭泣，以禁食刻苦我心，這倒算為我的羞辱。<br> <sup>11</sup>我拿麻布當衣裳，就成了他們的笑談。<br> <sup>12</sup>坐在城門口的談論我，酒徒也以我為歌曲。</p> </div>",
+        "url": "https://biblegateway.com/passage/?search=詩篇69:7-12&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "馬可福音6:3",
+        "html": "<p><sup>3</sup>這不是那木匠嗎？不是<u class=\"person underline\">馬利亞</u>的兒子<u class=\"person underline\">雅各</u>、<u class=\"person underline\">約西</u>、<u class=\"person underline\">猶大</u>、<u class=\"person underline\">西門</u>的長兄嗎？他妹妹們不也是在我們這裡嗎？」他們就厭棄他。</p>",
+        "url": "https://biblegateway.com/passage/?search=馬可福音6:3&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索與討論</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "讓你印象深刻的經文/部分是什麼？為什麼？"
+                },
+                {
+                  "text": "在這段經文中，你對耶穌的神性或人性有何認識？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再讀一次這段故事。請小組中一個人口頭講述這故事，並根據需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "關於耶穌青少年時期的生活，聖經並沒有提到很多，但是我們可以推測祂在平常的猶太人大家庭中長大，是家中的長子（可6:3），承繼約瑟的家業，從事木匠的工作。聖經上說：像我們一樣“他學了順從”（來5:8）。換句話說，祂接受指正並且應對合宜；遭受兄弟們的侮辱和忽視。約瑟死後，祂變成家庭的經濟支柱，直到出來公開事奉之前（可6:3）。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小結</strong>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "經文背誦",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "可6:3"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "這不是那木匠嗎？不是馬利亞的兒子雅各、約西、猶大、西門的長兄嗎？他妹妹們不也是在我們這裡嗎？”他們就厭棄他。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音預備",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "你覺得這些人為什麼要列舉耶穌家人的名字呢？耶穌如何回應他們的態度？我們從耶穌家鄉的人的表現中可以學到什麼教訓？"
+          },
+          {
+            "text": "向家人傳福音是特別困難的一件事，你是否有這樣的經驗？耶穌也曾經受到家人和同鄉的拒絕，然而耶穌的家人後來都成為了上帝家中的人，這件事能給你安慰和鼓勵嗎？請分享你的見證、困難和代禱。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行動",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "在《信徒動員表》和《福音行動表》中寫下2-3位需要關心的人。另外為你還沒認識神的家人或親友救恩禱告，求神開福音的門，剛強你的心，開口傳揚福音。"
+          },
+          {
+            "text": "在《福音行動表》列下那些目前反對、取笑和攻擊你信仰的人。為他們禱告，求主憐憫和赦免他們，因為他們所做的他們不知道。求主得着他們，甚至有一天他們可以成為被主耶穌大大使用的人。"
+          },
+          {
+            "text": "依照你今天所學到的，寫下一個“屆時我會”的宣告，並於組內分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在________________（時間/地點）將會__________________（對象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分鐘寫下你在本課的學習心得，或是你未來一周可能有的其他行動點。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音禱告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">創造宇宙萬有的天父，感恩禰賜我生命氣息，感謝禰讓我在這原生家庭，這個城市，這個國家長大。相信禰不誤事並對我生命有最大的美意。愛我的天父啊，我為我的父母和家人感恩，謝謝他們的養育之恩，求禰加倍賜福和保守他們。我也為他們祈求，已經相信禰的，求禰堅定他們的信心並有見證和美名；還沒相信禰的，求聖靈開他們的心眼，看見主耶穌是真神，是唯一的救主，並速速迴轉歸向禰。奉主耶穌的名感恩和禱告，阿們！</span>"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply205-i-will"
+      }
+    }
+  ]
+}

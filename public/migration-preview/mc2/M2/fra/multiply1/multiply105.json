@@ -1,0 +1,48 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply105",
+  "sortOrder": 5,
+  "blocks": [
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<div class=\"lesson\"><img class=\"lesson-icon\" src=\"/sites/mc2/images/standard/look-back.png\"> <div class=\"lesson-subtitle\">Regarder Derrière</div> </div> <div class=\"reveal\"> <hr> <h2>Louange</h2> <p>Lisez un passage biblique, et exécutez un chant pour commencer à poser les fondements de l’adoration et de la louange.</p> <ul> <li>Exemple: Lisez {Apocalypse 7:12} « en disant: Amen! La louange, la gloire, la sagesse, l’action de grâces, l’honneur, la puissance, et la force, soient à notre Dieu, aux siècles des siècles, Amen! »</li> </ul> <hr></div> <ul> </ul> <h2>Soin</h2> <p>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</p> <ul> <li>Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine.</li> <li>Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels.</li> </ul> <h2>Célébrer la Fidélité</h2> <p>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour</p> <ul> <li>Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »</li> </ul> <div class=\"reveal\"> <hr> <h2>Projection de Vision</h2> <p>Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux.</p> <ul> Exemple: Dieu nous a fait don de toute bénédiction spirituelle à travers Jésus. Il nous a adoptés dans sa famille et nous a appelés Ses Enfants. « En Lui, vous aussi, après avoir entendu la parole de la vérité, l’Evangile de votre salut, en lui vous avez cru et vous avez été scellés du Saint Esprit qui avait été promis, lequel est un gage de notre héritage » {Éphésiens 1:13-14}. </ul> Quel don merveilleux! C’est la promesse de Dieu pour vous. <hr></div>",
+        "references": [
+          {
+            "id": "popup_pop6",
+            "marker": "Apocalypse 7:12",
+            "label": "Apocalypse 7:12",
+            "passage": "<p><sup>12</sup>en disant: Amen! La louange, la gloire, la sagesse, l'action de grâces, l'honneur, la puissance, et la force, soient à notre Dieu, aux siècles des siècles! Amen!</p>"
+          },
+          {
+            "id": "popup_pop7",
+            "marker": "Éphésiens 1:13-14",
+            "label": "Éphésiens 1:13-14",
+            "passage": "<p><sup>13</sup>En lui vous aussi, après avoir entendu la parole de la vérité, l'Évangile de votre salut, en lui vous avez cru et vous avez été scellés du Saint Esprit qui avait été promis,</p><p><sup>14</sup>lequel est un gage de notre héritage, pour la rédemption de ceux que Dieu s'est acquis, à la louange de sa gloire.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro5",
+  "sortOrder": 41,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"Trip3\" src=\"/sites/mc2/content/M2/fra/multiply3/Trip3.webp\"></span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "(3e voyage missionnaire à partir d’Antioche) [52 -57 ap.J.-C.]"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Résumé",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Cette période couvre environs cinq années. Plusieurs centres de mouvement ont déjà commencé à multiplier des disciples et des églises depuis plus de 6 ans. Pendant cette période, un grand centre de mouvement d’envoi en mission est fondé en Éphèse. Pendant que l’implantation d’église s’enracinait, les leaders ont été envoyés et les églises existantes se faisaient coacher. La période est marquée par une formation quotidienne, des miracles spectaculaires, de rédaction de lettres et l’expansion du royaume au point où toute la partie orientale de l’Empire Romain est finalement atteinte."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Les lettres écrites pendant cette période :",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "1 Corinthiens, 55 ap.J.-C."
+          },
+          {
+            "text": "2 Corinthiens, 56 ap.J.-C."
+          },
+          {
+            "text": "Romains, 57 ap.J.-C."
+          }
+        ]
+      }
+    }
+  ]
+}

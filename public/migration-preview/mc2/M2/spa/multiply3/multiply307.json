@@ -1,0 +1,459 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply307",
+  "sortOrder": 9,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Opcional) Jesucristo es el Señor, para la gloria de Dios Padre. Él quiere que todos los hombres sean salvos y lleguen al conocimiento de la verdad. Porque hay un solo Dios y un mediador también entre Dios y el hombre, el hombre Jesucristo, que se entregó a sí mismo como rescate por todos. ({Filipenses 2:11b}; {1 Timoteo 2:4-6a)}",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11b",
+                    "label": "Filipenses 2:11b",
+                    "passage": "<p><sup>11</sup>... para gloria de Dios Padre.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timoteo 2:4-6a)",
+                    "label": "1 Timoteo 2:4-6a)",
+                    "passage": "<p><sup>4</sup>pues él quiere que todos sean salvos y lleguen a conocer la verdad.<sup>5</sup>Porque hay un solo Dios y un solo mediador entre Dios y los hombres, Jesucristo hombre,<sup>6</sup>quien dio su vida como rescate por todos. Este testimonio Dios lo ha dado a su debido tiempo,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar a las necesidades de los demás en oración, consejo bíblico y aliento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunta: \"¿Qué pasó cuando confiaste en Dios tus metas y tu declaración: “Yo haré…”?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y Animo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Elija una manera de proyectar visión de quiénes pueden llegar a ser en Cristo o lo que Dios puede hacer a través de ellos al</em>:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartir un versículo Bíblico que les recuerde el Corazón del Padre y la visión final."
+                  },
+                  {
+                    "text": "Reflexionando sobre los cambios en su vida desde que comenzaron a seguir a Cristo"
+                  },
+                  {
+                    "text": "recordándoles lo que Dios quiere hacer a través de ellos"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Comparta la GRAN visión de \"Una iglesia para cada pueblo y comunidad, y el Evangelio para cada persona\"."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídale al grupo que cuente la historia de la semana pasada"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Hechos 4:1-31</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Hechos 4:1-31",
+        "html": "<div> <div> <h3>Pedro y Juan ante el Consejo</h3> <p><sup>1</sup>Mientras Pedro y Juan le hablaban a la gente, se les presentaron los sacerdotes, el capitán de la guardia del templo y los saduceos.<sup>2</sup>Estaban muy disgustados porque los apóstoles enseñaban a la gente y proclamaban la resurrección, que se había hecho evidente en el caso de Jesús.<sup>3</sup>Prendieron a Pedro y a Juan y, como ya anochecía, los metieron en la cárcel hasta el día siguiente.<sup>4</sup>Pero muchos de los que oyeron el mensaje creyeron, y el número de estos, contando solo a los hombres, llegaba a unos cinco mil.</p> <p><sup>5</sup>Al día siguiente se reunieron en Jerusalén los gobernantes, los ancianos y los maestros de la ley.<sup>6</sup>Allí estaban el sumo sacerdote Anás, Caifás, Juan, Alejandro y los otros miembros de la familia del sumo sacerdote.<sup>7</sup>Hicieron que Pedro y Juan comparecieran ante ellos y comenzaron a interrogarlos:</p> <p>—¿Con qué poder, o en nombre de quién, hicieron ustedes esto?</p> <p><sup>8</sup>Pedro, lleno del Espíritu Santo, les respondió:</p> <p>—Gobernantes del pueblo y ancianos:<sup>9</sup>Hoy se nos procesa por haber favorecido a un inválido, ¡y se nos pregunta cómo fue sanado!<sup>10</sup>Sepan, pues, todos ustedes y todo el pueblo de Israel que este hombre está aquí delante de ustedes, sano gracias al nombre de Jesucristo de Nazaret, crucificado por ustedes, pero resucitado por Dios.<sup>11</sup>Jesucristo es</p> <p>»“la piedra que desecharon ustedes los constructores,<br> y que ha llegado a ser la piedra angular”.</p> </div> <p><sup>12</sup>De hecho, en ningún otro hay salvación, porque no hay bajo el cielo otro nombre dado a los hombres mediante el cual podamos ser salvos».</p> <p><sup>13</sup>Los gobernantes, al ver la osadía con que hablaban Pedro y Juan, y al darse cuenta de que eran gente sin estudios ni preparación, quedaron asombrados y reconocieron que habían estado con Jesús.<sup>14</sup>Además, como vieron que los acompañaba el hombre que había sido sanado, no tenían nada que alegar.<sup>15</sup>Así que les mandaron que se retiraran del Consejo, y se pusieron a deliberar entre sí:<sup>16</sup>«¿Qué vamos a hacer con estos sujetos? Es un hecho que por medio de ellos ha ocurrido un milagro evidente; todos los que viven en Jerusalén lo saben, y no podemos negarlo.<sup>17</sup>Pero, para evitar que este asunto siga divulgándose entre la gente, vamos a amenazarlos para que no vuelvan a hablar de ese nombre a nadie».</p> <p><sup>18</sup>Los llamaron y les ordenaron terminantemente que dejaran de hablar y enseñar acerca del nombre de Jesús.<sup>19</sup>Pero Pedro y Juan replicaron:</p> <p>—¿Es justo delante de Dios obedecerlos a ustedes en vez de obedecerlo a él? ¡Júzguenlo ustedes mismos!<sup>20</sup>Nosotros no podemos dejar de hablar de lo que hemos visto y oído.</p> <p><sup>21</sup>Después de nuevas amenazas, los dejaron irse. Por causa de la gente, no hallaban manera de castigarlos: todos alababan a Dios por lo que había sucedido,<sup>22</sup>pues el hombre que había sido milagrosamente sanado tenía más de cuarenta años.</p> <h3>La oración de los creyentes</h3> <p><sup>23</sup>Al quedar libres, Pedro y Juan volvieron a los suyos y les relataron todo lo que les habían dicho los jefes de los sacerdotes y los ancianos.<sup>24</sup>Cuando lo oyeron, alzaron unánimes la voz en oración a Dios: «Soberano Señor, creador del cielo y de la tierra, del mar y de todo lo que hay en ellos,<sup>25</sup>tú, por medio del Espíritu Santo, dijiste en labios de nuestro padre David, tu siervo:</p> <p>»“¿Por qué se sublevan las naciones<br> y en vano conspiran los pueblos?<br> <sup>26</sup>Los reyes de la tierra se rebelan<br> y los gobernantes se confabulan<br> contra el Señor<br> y contra su ungido”.</p> </div> <p><sup>27</sup>En efecto, en esta ciudad se reunieron Herodes y Poncio Pilato, con los gentiles y con el pueblo de Israel, contra tu santo siervo Jesús, a quien ungiste<sup>28</sup>para hacer lo que de antemano tu poder y tu voluntad habían determinado que sucediera.<sup>29</sup>Ahora, Señor, toma en cuenta sus amenazas y concede a tus siervos el proclamar tu palabra sin temor alguno.<sup>30</sup>Por eso, extiende tu mano para sanar y hacer señales y prodigios mediante el nombre de tu santo siervo Jesús».</p> <p><sup>31</sup>Después de haber orado, tembló el lugar en que estaban reunidos; todos fueron llenos del Espíritu Santo, y proclamaban la palabra de Dios sin temor alguno.</p>",
+        "url": "https://biblegateway.com/passage/?search=Hechos%204:1-31&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Hechos 4:1-22",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7309-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7309-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Hechos 4:23-31",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7310-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7310-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de Descubrimiento",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención o qué es lo que más te gustó? ¿por qué?"
+          },
+          {
+            "text": "¿Qué hay de nuevo o se ha desarrollado a estas alturas de la historia?"
+          },
+          {
+            "text": "¿Qué se está modelando acerca de una vida dependiente del Espíritu, haciendo discípulos o liderazgo?"
+          },
+          {
+            "text": "¿Cómo podemos vivir de manera diferente ahora que conocemos esta historia?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Preguntas adicionales que puede utilizar:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Cómo continúan los seguidores de Jesús Su obra de hacer discípulos y plantar iglesias?"
+          },
+          {
+            "text": "¿Cómo está impactando el Evangelio en las personas y en la sociedad?"
+          },
+          {
+            "text": "¿Qué barreras u obstáculos se superaron y cómo se superaron?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li>Los líderes religiosos estaban molestos porque Pedro estaba enseñando a la gente acerca de la resurrección de los muertos a través de Jesús, por lo que arrestaron a Pedro y Juan. Cuando las multitudes presenciaron la curación del hombre cojo y escucharon el testimonio de Pedro, otros 2.000 hombres, más mujeres y niños, se convirtieron en creyentes. Jesús había enseñado a los apóstoles a no preocuparse por lo que debían decir cuando eran arrastrados delante de las autoridades. Él prometió que el Espíritu los guiaría en qué decir ({Mateo 10:17-20}). A pesar de que Pedro y Juan no tenían una educación formal, tenían un ministerio muy eficaz, habiendo aprendido de Jesús y siendo empoderados por Su Espíritu. En este temoso conflicto con las autoridades, la valiente respuesta de los creyentes fue orar por audacia frente a la persecución para que pudieran seguir obedeciendo a Jesús en la misión.</li>",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Mateo 10:17-20",
+                    "label": "Mateo 10:17-20",
+                    "passage": "<p><sup>17</sup>»Tengan cuidado con la gente; los entregarán a los tribunales y los azotarán en las sinagogas.<sup>18</sup>Por mi causa los llevarán ante gobernadores y reyes para dar testimonio a ellos y a los gentiles.<sup>19</sup>Pero, cuando los arresten, no se preocupen por lo que van a decir o cómo van a decirlo. En ese momento se les dará lo que han de decir,<sup>20</sup>porque no serán ustedes los que hablen, sino que el Espíritu de su Padre hablará por medio de ustedes.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practique el dar y la Santa Cena aquí o en la sección Preparación para la Misión</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Practique las habilidades necesarias o temas previos para ayudar a prepararse para ministrar a los demás:",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "Orar, Cuidar, Compartir"
+                        },
+                        {
+                          "text": "Evangelio"
+                        },
+                        {
+                          "text": "Estudios Bíblicos Fundamentales"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica personas o lugares a los que tomarás la iniciativa de ministrar esta semana."
+          },
+          {
+            "text": "Escriba declaraciones usando de \"Yo haré…. cuando…” y que lo comparan con a su grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos al Señor. Pídele al Señor que nos ayude a ser fieles y que nos use para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bendición (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply307-i-will"
+      }
+    }
+  ]
+}

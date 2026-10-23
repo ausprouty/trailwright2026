@@ -1,0 +1,60 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply114",
+  "sortOrder": 14,
+  "blocks": [
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<div class=\"lesson\"><img class=\"lesson-icon\" src=\"/sites/mc2/images/standard/look-back.png\"> <div class=\"lesson-subtitle\">Regarder Derrière</div> </div> <div class=\"reveal\"> <hr> <h2>Louange</h2> <p>Lisez un passage biblique et exécutez un chant d’adoration.</p> <ul> <li>Lisez {Matthieu 10:28-30} et exécutez des chants. </li> <li>(facultative) Utilisez une déclaration de foi au sujet de Jésus, comme {Philippiens 2:11}: {1 Timothée 2:4-6} </li> </ul> <hr></div> <ul> </ul> <h2>Soin</h2> <p>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</p> <ul> <li>Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine.</li> <li>Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels.</li> </ul> <h2>Célébrer la Fidélité</h2> <p>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour.</p> <ul> <li>Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »</li> </ul> <div class=\"reveal\"> <hr> <h2>Projection de Vision</h2> <p>Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux.</p> <p>Exemple: Lisez {Hébreux 10:19-25}</p> Le Seigneur ne nous a pas appelés à être seuls. Il nous a appelés à être ensemble. Nous rencontrons plusieurs défis et nous avons besoin d’encouragement et de responsabilité pour obéir au Seigneur. Il est mieux de suivre Jésus en communauté. Nous avons besoin les uns des autres, alors ne cessons pas de nous rencontrer! <p> </p> <hr></div>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Matthieu 10:28-30",
+            "label": "Matthieu 10:28-30",
+            "passage": "<p><sup>28</sup>Ne craignez pas ceux qui tuent le corps et qui ne peuvent tuer l'âme; craignez plutôt celui qui peut faire périr l'âme et le corps dans la géhenne.</p><p><sup>29</sup>Ne vend-on pas deux passereaux pour un sou? Cependant, il n'en tombe pas un à terre sans la volonté de votre Père.</p><p><sup>30</sup>Et même les cheveux de votre tête sont tous comptés.</p>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "Philippiens 2:11",
+            "label": "Philippiens 2:11",
+            "passage": "<p><sup>11</sup>et que toute langue confesse que Jésus Christ est Seigneur, à la gloire de Dieu le Père.</p>"
+          },
+          {
+            "id": "popup_pop3",
+            "marker": "1 Timothée 2:4-6",
+            "label": "1 Timothée 2:4-6",
+            "passage": "<p><sup>4</sup>qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité.</p><p><sup>5</sup>Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus Christ homme,</p><p><sup>6</sup>qui s'est donné lui-même en rançon pour tous. C'est là le témoignage rendu en son propre temps,</p>"
+          },
+          {
+            "id": "popup_pop4",
+            "marker": "Hébreux 10:19-25",
+            "label": "Hébreux 10:19-25",
+            "passage": "<p><sup>19</sup>Ainsi donc, frères, puisque nous avons, au moyen du sang de Jésus, une libre entrée dans le sanctuaire</p><p><sup>20</sup>par la route nouvelle et vivante qu'il a inaugurée pour nous au travers du voile, c'est-à-dire, de sa chair,</p><p><sup>21</sup>et puisque nous avons un souverain sacrificateur établi sur la maison de Dieu,</p><p><sup>22</sup>approchons-nous avec un coeur sincère, dans la plénitude de la foi, les coeurs purifiés d'une mauvaise conscience, et le corps lavé d'une eau pure.</p><p><sup>23</sup>Retenons fermement la profession de notre espérance, car celui qui a fait la promesse est fidèle.</p><p><sup>24</sup>Veillons les uns sur les autres, pour nous exciter à la charité et aux bonnes oeuvres.</p><p><sup>25</sup>N'abandonnons pas notre assemblée, comme c'est la coutume de quelques-uns; mais exhortons-nous réciproquement, et cela d'autant plus que vous voyez s'approcher le jour.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    }
+  ]
+}

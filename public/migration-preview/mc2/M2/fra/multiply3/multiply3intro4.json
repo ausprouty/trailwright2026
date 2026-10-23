@@ -1,0 +1,59 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro4",
+  "sortOrder": 34,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"Trip2\" src=\"/sites/mc2/content/M2/fra/multiply3/Trip2.webp\"></span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "(2e voyage missionnaire à partir d’Antioche) [49 - 51 ap. J.-C.]"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Résumé",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Cette période couvre le voyage de la deuxième équipe de mission envoyée d'Antioche. Cette période est marquée par l'ouverture de nouveaux centres provinciaux pour l'Évangile, des mouvements croissants de formation de disciples et la mobilisation des ouvriers supplémentaires pour le Royaume."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Les lettres écrites au cours de cette période",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "1 Thessaloniciens, 50/51 ap. J.-C."
+          },
+          {
+            "text": "2 Thessaloniciens, 50/51 ap. J.-C.<br>"
+          }
+        ]
+      }
+    }
+  ]
+}

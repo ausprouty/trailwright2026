@@ -1,0 +1,458 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply225",
+  "sortOrder": 29,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louvar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia uma passagem das Escrituras e louvem com uma canção de adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">(Opcional) Jesus Cristo é o Senhor, para a gloria de Deus Pai. Ele deseja que todos os homens sejam salvos e cheguem ao pleno conhecimento da verdade. Porque há um só Deus e um único mediador entre Deus e os homens, o homem Jesus Cristo, que a si mesmo se entregou como resgate por todos. ({Filipenses 2:11}; {1 Timóteo 2:4-6}) </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>e declarem abertamente<br>que Jesus Cristo é o Senhor,<br>para a glória de Deus, o Pai.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timóteo 2:4-6",
+                    "label": "1 Timóteo 2:4-6",
+                    "passage": "<p><sup>4</sup>Ele quer que todos sejam salvos e venham a conhecer a verdade.</p><p><sup>5</sup>Pois existe um só Deus e uma só pessoa que une Deus com os seres humanos — o ser humano Cristo Jesus,<sup>6</sup>que deu a sua vida para que todos fiquem livres dos seus pecados. Esta foi a prova, dada no tempo certo, de que Deus quer que todos sejam salvos.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar sobre as necessidades dos demais em oração, conselho bíblico e ânimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça a cada pessoa que compartilhe acontecimento especial e um desafio que tenha experimentado nesta semana."
+          },
+          {
+            "text": "Pergunte: \"O que você deseja que Jesus faça por você nesta semana? Ore pelas necessidades dos demais."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<span style=\"background-color:white\"><span lang=\"PT-BR\">Pergunte: \"O que aconteceu quando você confiou em Deus sobre suas metas e suas declarações: Eu farei.... no dia......?\"</span></span>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Escolha uma maneira de dar a visão de quem eles podem chegar a ser em Cristo e o que Deus pode fazer através deles ao:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartilhar um versículo Bíblico que os faça lembrar o Coração do Pai e a visão final, ou"
+                  },
+                  {
+                    "text": "Refletir sobre as mudanças que aconteceram em suas vidas desde que começaram a seguir a Cristo, ou"
+                  },
+                  {
+                    "text": "recordar o que Deus quer fazer através deles."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Compartilhe a GRANDE visão de \"Uma igreja para cada cidade e comunidade, e o evangelho para cada pessoa”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Peça ao grupo que conte a história da semana passada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista João 5:16-47 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "João 5:16-47",
+        "html": "<p><sup>16</sup>Então eles começaram a perseguir Jesus porque ele havia feito essa cura no sábado.</p> <p><sup>17</sup>Então Jesus disse a eles:</p> <p>— O meu Pai trabalha até agora, e eu também trabalho.</p> <p><sup>18</sup>E, porque ele disse isso, os líderes judeus ficaram ainda com mais vontade de matá-lo. Pois, além de não obedecer à lei do sábado, ele afirmava que Deus era o seu próprio Pai, fazendo-se assim igual a Deus.</p> <h3>A autoridade do Filho de Deus</h3> <p><sup>19</sup>Então Jesus disse a eles:</p> <p>— Eu afirmo a vocês que isto é verdade: o Filho não pode fazer nada por sua própria conta, pois ele só faz o que vê o Pai fazer. Tudo o que o Pai faz o Filho faz também,<sup>20</sup>pois o Pai ama o Filho e lhe mostra tudo o que está fazendo. E vai mostrar a ele coisas ainda maiores do que essas, e vocês vão ficar admirados.<sup>21</sup>Porque, assim como o Pai ressuscita os mortos e lhes dá vida, assim também o Filho dá vida aos que ele quer.<sup>22</sup>O Pai não julga ninguém, mas deu ao Filho todo o poder para julgar<sup>23</sup>a fim de que todos respeitem o Filho, assim como respeitam o Pai. Quem não respeita o Filho também não respeita o Pai, que o enviou.</p> <p><sup>24</sup>— Eu afirmo a vocês que isto é verdade: quem ouve as minhas palavras e crê naquele que me enviou tem a vida eterna e não será julgado, mas já passou da morte para a vida.<sup>25</sup>Eu afirmo a vocês que isto é verdade: vem a hora, e ela já chegou, em que os mortos vão ouvir a voz do Filho de Deus, e os que a ouvirem viverão.<sup>26</sup>Assim como o Pai é a fonte da vida, assim também fez o Filho ser a fonte da vida.<sup>27</sup>E ele deu ao Filho autoridade para julgar, pois ele é o Filho do Homem.</p> <p><sup>28</sup>— Não fiquem admirados por causa disso, pois está chegando a hora em que todos os mortos ouvirão a voz do Filho do Homem<sup>29</sup>e sairão das suas sepulturas. Aqueles que fizeram o bem vão ressuscitar e viver, e aqueles que fizeram o mal vão ressuscitar e ser condenados.</p> <h3>Testemunhos a favor de Jesus</h3> <p><sup>30</sup>Jesus continuou a falar a eles. Ele disse:</p> <p>— Eu não posso fazer nada por minha própria conta, mas julgo de acordo com o que o Pai me diz. O meu julgamento é justo porque não procuro fazer a minha própria vontade, mas a vontade daquele que me enviou.</p> <p><sup>31</sup>— Se eu dou testemunho a favor de mim mesmo, então o que digo não tem valor.<sup>32</sup>Mas existe outro que testemunha a meu favor, e eu sei que o que ele diz a respeito de mim é verdade.<sup>33</sup>Vocês mandaram fazer perguntas a João, e o testemunho que ele deu é verdadeiro.<sup>34</sup>Eu não preciso que ninguém dê testemunho a meu favor, mas digo essas coisas para que vocês sejam salvos.</p> <p><sup>35</sup>— João era como uma lamparina que estava acesa e brilhava, e por algum tempo vocês se alegraram com a luz dele.<sup>36</sup>Mas eu tenho um testemunho a meu favor ainda mais forte do que o que João deu: são as coisas que eu faço, as quais o meu Pai me mandou fazer. Elas dão testemunho a favor de mim e provam que o Pai me enviou.<sup>37</sup>Também o Pai, que me enviou, testemunha a meu favor. Vocês nunca ouviram a voz dele, nem viram o seu rosto.<sup>38</sup>As palavras dele não estão no coração de vocês porque vocês não creem naquele que ele enviou.<sup>39</sup>Vocês estudam as Escrituras Sagradas porque pensam que vão encontrar nelas a vida eterna. E são elas mesmas que dão testemunho a meu favor.<sup>40</sup>Mas vocês não querem vir para mim a fim de ter vida.</p> <p><sup>41</sup>— Eu não procuro ser elogiado pelas pessoas.<sup>42</sup>Quanto a vocês, eu os conheço e sei que não amam a Deus com sinceridade.<sup>43</sup>Eu vim com a autoridade do meu Pai, e vocês não me recebem. Quando alguém vem com a sua própria autoridade, esse vocês recebem.<sup>44</sup>Como é que vocês podem crer, se aceitam ser elogiados pelos outros e não tentam conseguir os elogios que somente o único Deus pode dar?<sup>45</sup>Não pensem que sou eu que vou acusá-los diante do Pai; quem vai acusá-los é Moisés, que é aquele em quem vocês confiam.<sup>46</sup>Se vocês acreditassem em Moisés, acreditariam também em mim, pois ele escreveu a meu respeito.<sup>47</sup>Mas, se vocês não acreditam no que ele escreveu, como vão acreditar no que eu digo?</p>",
+        "url": "https://biblegateway.com/passage/?search=John%205:16-47&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "João 5:16-47",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2205",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2205",
+        "startTime": "3:14",
+        "endTime": "8:24",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que te chamou a atenção ou o que você mais gostou? Por quê?"
+          },
+          {
+            "text": "Existe algo novo ou algo que tenha desenvolvido até este ponto da história de Jesus?"
+          },
+          {
+            "text": "O que aprendemos sobre a humanidade ou a divindade de Jesus nessa passagem?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que conhecemos essa história?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Perguntas adicionais que você pode usar:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que estão aprendendo seus seguidores?"
+          },
+          {
+            "text": "O que Jesus está modelando sobre a vida, o ministério e a liderança piedosa?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus declarava que Deus era Seu Pai verdadeiro e que Ele e Deus eram iguais. Jesus se refere à cinco testemunhas para sustentar Sua reivindicação:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "ordered",
+                "items": [
+                  {
+                    "text": "a declaração do próprio Jesus (v 19-31)."
+                  },
+                  {
+                    "text": "testemunha João Batista (v 33-35)."
+                  },
+                  {
+                    "text": "as Obras de Jesus (v36)."
+                  },
+                  {
+                    "text": "a voz do Pai (v 37-38) em Seu batismo."
+                  },
+                  {
+                    "text": "As Escrituras do Velho Testamento (v 39-47)."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratique ofertar e a comunhão aqui ou na sessão Preparar para a Missão.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pratique as habilidades necessárias ou assuntos prévios para te ajudar a preparar-se para ministrar aos demais:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar e Compartilhar"
+                  },
+                  {
+                    "text": "Compartilhar o Evangelho"
+                  },
+                  {
+                    "text": "Estudos Bíblicos Fundamentais"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique pessoas ou lugares onde tomará a iniciativa de ministrar nessa semana."
+          },
+          {
+            "text": "Escreva suas declarações de “Eu farei........ no dia ........” e compartilhe em seu pequeno grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Apresente as metas de todos ao Senhor. Peça ao Senhor que nos ajude a ser fiéis e que Ele nos use para iniciar um movimento de fazedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benção (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply225-i-will"
+      }
+    }
+  ]
+}

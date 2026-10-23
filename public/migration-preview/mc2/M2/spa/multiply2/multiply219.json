@@ -1,0 +1,455 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply219",
+  "sortOrder": 23,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Opcional) Jesucristo es el Señor, para la gloria de Dios Padre. Él quiere que todos los hombres sean salvos y lleguen al conocimiento de la verdad. Porque hay un solo Dios y un mediador también entre Dios y el hombre, el hombre Jesucristo, que se entregó a sí mismo como rescate por todos. ({Filipenses 2:11}; {1 Timoteo 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>y toda lengua confiese que Jesucristo es el Señor,<br>para gloria de Dios Padre.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timoteo 2:4-6",
+                    "label": "1 Timoteo 2:4-6",
+                    "passage": "<p><sup>4</sup>pues él quiere que todos sean salvos y lleguen a conocer la verdad.<sup>5</sup>Porque hay un solo Dios y un solo mediador entre Dios y los hombres, Jesucristo hombre,<sup>6</sup>quien dio su vida como rescate por todos. Este testimonio Dios lo ha dado a su debido tiempo,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidar",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar las necesidades de los demás en oración, consejo bíblico y ánimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrar la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunte: \"¿Qué pasó cuando confiaste en Dios tus metas y tus declaraciones: Yo haré… cuándo…?\""
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivar y animar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Elija una manera de proyectar la visión de quiénes pueden llegar a ser en Cristo o de lo que Dios puede hacer a través de ellos, mediante :</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "un versículo bíblico que les recuerde el corazón del Padre y la visión,"
+                  },
+                  {
+                    "text": "una reflexión sobre los cambios en sus vidas desde que comenzaron a seguir a Cristo,"
+                  },
+                  {
+                    "text": "un recordatorio de lo que Dios quiere hacer a través de ellos."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Nuestra visión es : \"<em>Una iglesia para cada ciudad y comunidad, y el Evangelio para cada persona</em>”"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-4"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando hacia arriba",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídale al grupo que cuente la historia de la semana pasada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Marcos 1:29-39</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Marcos 1:29-39",
+        "html": "<h3>Jesús sana a muchos enfermos</h3> <p><sup>29</sup>Tan pronto como salieron de la sinagoga, Jesús fue con Jacobo y Juan a casa de Simón y Andrés.<sup>30</sup>La suegra de Simón estaba en cama con fiebre, y en seguida se lo dijeron a Jesús.<sup>31</sup>Él se le acercó, la tomó de la mano y la ayudó a levantarse. Entonces se le quitó la fiebre y se puso a servirles.</p> <p><sup>32</sup>Al atardecer, cuando ya se ponía el sol, la gente le llevó a Jesús todos los enfermos y endemoniados,<sup>33</sup>de manera que la población entera se estaba congregando a la puerta.<sup>34</sup>Jesús sanó a muchos que padecían de diversas enfermedades. También expulsó a muchos demonios, pero no los dejaba hablar porque sabían quién era él.</p> <h3>Jesús ora en un lugar solitario</h3> <p><sup>35</sup>Muy de madrugada, cuando todavía estaba oscuro, Jesús se levantó, salió de la casa y se fue a un lugar solitario, donde se puso a orar.<sup>36</sup>Simón y sus compañeros salieron a buscarlo.</p> <p><sup>37</sup>Por fin lo encontraron y le dijeron:</p> <p>—Todo el mundo te busca.</p> <p><sup>38</sup>Jesús respondió:</p> <p>—Vámonos de aquí a otras aldeas cercanas donde también pueda predicar; para esto he venido.</p> <p><sup>39</sup>Así que recorrió toda Galilea, predicando en las sinagogas y expulsando demonios.</p>",
+        "url": "https://biblegateway.com/passage/?search=Marcos%201:29-39&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Marcos 1:29-39",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_21028-GOMark1501",
+        "source": "arclight",
+        "refId": "6_21028-GOMark1501",
+        "startTime": "5:55",
+        "endTime": "7:55",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de descubrimiento (todos responden)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué llamó tu atención o qué fue lo que más te gustó? ¿Por qué?"
+          },
+          {
+            "text": "¿Hay algo nuevo o qué se ha desarrollado hasta este punto en la historia de Jesús?"
+          },
+          {
+            "text": "¿Qué aprendemos sobre la humanidad o divinidad de Jesús en este pasaje?"
+          },
+          {
+            "text": "¿Cómo podemos vivir de manera diferente ahora que conocemos esta historia?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Preguntas adicionales :</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué están aprendiendo sus seguidores?"
+          },
+          {
+            "text": "¿Qué nos está modelando Jesús sobre la vida y el ministerio, o sobre el liderazgo piadoso?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia nuevamente. Pida que alguien cuente la historia y que el grupo corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "El segundo alcance de Jesús es en la casa de Pedro. Este es un alcance en el hogar que comenzó en la noche después de la puesta del sol. Gente de toda la región vino a ver al hombre que había echado fuera a un demonio en la sinagoga. Este fue un evento espontáneo que duró varias horas en la noche. Después de una larga noche de ministerio, Jesús se levanta temprano y se escapa de la casa para estar a solas con el Padre. Él modeló la prioridad de estar a solas con el Padre, escuchar Su voz, averiguar los próximos pasos en la vida y el ministerio, y tener comunión con Él. A pesar de que todos querían que Jesús se quedara y tuviera un ministerio más exitoso, Él fue tras la obediencia al Padre y el alcance Su misión."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Estudio adicional: {Lucas 4:38-44}; {Mateo 8:14-17}.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Lucas 4:38-44",
+                    "label": "Lucas 4:38-44",
+                    "passage": "<p><sup>38</sup>Cuando Jesús salió de la sinagoga, se fue a casa de Simón, cuya suegra estaba enferma con una fiebre muy alta. Le pidieron a Jesús que la ayudara,<sup>39</sup>así que se inclinó sobre ella y reprendió a la fiebre, la cual se le quitó. Ella se levantó en seguida y se puso a servirles.</p><p><sup>40</sup>Al ponerse el sol, la gente le llevó a Jesús todos los que padecían de diversas enfermedades; él puso las manos sobre cada uno de ellos y los sanó.<sup>41</sup>Además, de muchas personas salían demonios que gritaban: «¡Tú eres el Hijo de Dios!» Pero él los reprendía y no los dejaba hablar porque sabían que él era el Cristo.</p><p><sup>42</sup>Cuando amaneció, Jesús salió y se fue a un lugar solitario. La gente andaba buscándolo y, cuando llegaron adonde él estaba, procuraban detenerlo para que no se fuera.<sup>43</sup>Pero él les dijo: «Es preciso que anuncie también a los demás pueblos las buenas nuevas del reino de Dios, porque para esto fui enviado».</p><p><sup>44</sup>Y siguió predicando en las sinagogas de los judíos.</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Mateo 8:14-17",
+                    "label": "Mateo 8:14-17",
+                    "passage": "<p><sup>14</sup>Cuando Jesús entró en casa de Pedro, vio a la suegra de este en cama, con fiebre.<sup>15</sup>Le tocó la mano y la fiebre se le quitó; luego ella se levantó y comenzó a servirle.</p><p><sup>16</sup>Al atardecer, le llevaron muchos endemoniados, y con una sola palabra expulsó a los espíritus, y sanó a todos los enfermos.<sup>17</sup>Esto sucedió para que se cumpliera lo dicho por el profeta Isaías:</p><p>«Él cargó con nuestras enfermedades<br>y soportó nuestros dolores».</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Si su grupo tiene la práctica de hacerlo, este es un buen momento para practicar el dar y celebrar la Santa Cena, o hacerlo en la sección de Preparación para la Misión; de lo contrario, anímeles a participar de ellas en la congregación local.</em>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"lesson-icon\" src=\"/sites/mc2/images/standard/look-forward.png\">"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Practique las habilidades necesarias o temas previos para ayudar a prepararse para ministrar a los demás:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar, Compartir"
+                  },
+                  {
+                    "text": "Compartir el Evangelio"
+                  },
+                  {
+                    "text": "Estudios Bíblicos Fundacionales"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica personas o lugares a los que tomarás la iniciativa de ministrar esta semana."
+          },
+          {
+            "text": "Escriba sus declaraciones de “Yo haré…para cuando…” y compártala en su pequeño grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orar por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos con el Señor. Pídele al Señor que nos ayude a ser fieles y úsanos para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bendición (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    }
+  ]
+}

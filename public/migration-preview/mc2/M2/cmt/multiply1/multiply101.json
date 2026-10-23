@@ -1,0 +1,725 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmt",
+  "htmlLang": "zh-Hant",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply101",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "本課的目的是在基督裡一起學習和生命成長。同時對救恩有確據和信心，相信耶穌的信實和祂的保守，使我們靠主耶穌能活出救恩的真實。"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "歡迎介紹",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "歡迎你加入小組"
+          },
+          {
+            "text": "彼此介紹和認識"
+          },
+          {
+            "text": "參加課程的期待"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "課程介紹",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "學習目的：每週培育初信徒建立與耶穌的關係，並在關係網中見證福音"
+          },
+          {
+            "text": "課程內容：翻看目錄"
+          },
+          {
+            "text": "造就過程：三分法"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "小組角色與期望",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "以小組方式來進行"
+          },
+          {
+            "text": "鼓勵組員參與討論"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向後看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "禱告關懷——以禱告、勉勵，合乎聖經的教導彼此服事",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感謝神和需要耶穌為你做的事，並彼此感恩代禱。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "慶賀實踐——鼓勵小組在愛中互相督促，一同順服耶穌",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享你是怎樣信主的？自從相信並接受主耶穌以後，你發現你的生命有什麼改變？為什麼？"
+          },
+          {
+            "text": "分享你為什麼會參與《倍增門徒》之天國基礎小組？有什麼期待嗎？"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "天父心意——體恤神的心意，成為我們行事的動機與激勵",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "聖經告訴我們，上帝愛世人，並願意所有的人都能接受福音，而且能夠明白真理（提摩太前書2:3）。上帝愛你，也愛你身邊的人，而且要使用你將關乎耶穌的故事告訴他們，使他們也可以跟隨耶穌。當我們一起踏上這個旅程，你將會看到上帝借着我們影響和改變身邊的人，這是多麼令人興奮的事。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "被主呼召——學習帶來應用，應用帶來生命改變",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事背景</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "耶穌教導眾人“我是好牧人；好牧人為羊捨命”（約翰福音10:11），祂又對他們說：“我認識我的羊，我的羊也認識我”，並且“我來了，是要叫羊得生命，並且得的更豐盛。”然而，許多猶太人不相信祂，懷疑祂所宣稱的話。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong><strong>閱讀經文</strong></strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "約翰福音10:22-30",
+        "html": "<p><sup>22</sup>在耶路撒冷有修殿節，是冬天的時候。<sup>23</sup>耶穌在殿裡<u class=\"person underline\">所羅門</u>的廊下行走。<sup>24</sup>猶太人圍著他，說：「你叫我們猶疑不定到幾時呢？你若是基督，就明明地告訴我們。」<sup>25</sup>耶穌回答說：「我已經告訴你們，你們不信。我奉我父之名所行的事可以為我作見證，<sup>26</sup>只是你們不信，因為你們不是我的羊。<sup>27</sup>我的羊聽我的聲音，我也認識他們，他們也跟著我。<sup>28</sup>我又賜給他們永生，他們永不滅亡，誰也不能從我手裡把他們奪去。<sup>29</sup>我父把羊賜給我，他比萬有都大，誰也不能從我父手裡把他們奪去。</p> <p><sup>30</sup>「我與父原為一。」</p>",
+        "url": "https://biblegateway.com/passage/?search=約翰福音10:22-30&version=CUVMPT",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "約翰福音10:22-30",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOJohn2211",
+        "source": "arclight",
+        "refId": "6_20615-GOJohn2211",
+        "startTime": "2:50",
+        "endTime": "3:49",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索與討論</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "經文中讓你印象最深刻的是什麼？為什麼？"
+                },
+                {
+                  "text": "從這段經文中你對耶穌有什麼新的認識？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再讀一遍故事。請小組一位口述這故事，其他人根據需要作補充或更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "耶穌是好牧人，在十字架上為你的罪犧牲，捨去生命。身為主耶穌的羊，祂要你明白你有永生，必永不滅亡。在祂手中你是安全的，沒有人能夠把你從祂手中奪去，就連撒旦也不能。因此在基督里我們有十分的保障和平安！",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小結</strong>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "經文背誦——將神話語藏在心裡，成為我們行事的準則",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "約翰福音10:29-30"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>29</sup>我父把羊賜給我，他比萬有都大，誰也不能從我父手裡把他們奪去。<sup>30</sup>我與父原為一。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音預備——操練有信心並忠心地實踐和訓練他人",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "得救確據的確信：翻到《四個屬靈定律》，“你是否已經接受基督進入了你的生命？”並一起閱讀直到最後一頁。",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "回答相關問題並寫下答案。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "1) “怎樣知道基督已在你的生命中”",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "a) 第一個問題：“你有沒有請基督進入你的生命？”"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-2"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "b) 第二個問題：“根據啟示錄3:20的應許，現在基督是否在你心裡？”"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-4"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "（啟示錄3:20 ：“看哪！我站在門外叩門，若有聽見我聲音就開門的，我要進到他那裡去，我與他，他與我一同坐席。”）"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "c) 接下來的兩個問題："
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "“基督應許進入你的生命，他會失信嗎？”為什麼？"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-8"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "“你有什麼根據知道神答應了你的禱告？”"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-10"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "2) “聖經應許凡接受基督的人都有永生”",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "請讀出約翰一書5:11-13"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>11</sup>這見證就是神賜給我們永生，這永生也是在他兒子裡面。<sup>12</sup>人有了神的兒子就有生命；沒有神的兒子就沒有生命。<sup>13</sup>我將這些話寫給你們信奉神兒子之名的人，要叫你們知道自己有永生。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "試回答以下的問題。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "1) 神給了我們什麼？"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-5"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "2) 在哪裡可以得到永生？"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-7"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "3) 你有沒有神的兒子？"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-9"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "4) 如果你有了神的兒子，你就有了什麼？"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-11"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "5) 你怎麼知道自己有永生？"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-13"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "3) 要常常感謝神，因為基督已進入你的生命。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "希伯來書13:5b 說：“因為主曾說：“我總不撇下你，也不丟棄你。”"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "試回答以下的問題："
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "1) 當你親自接受基督之後，他會離開你嗎？為什麼？"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-4"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "2) 既然他永不離開你，那你需要幾次邀請基督進入你的生命？"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-6"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "（其他有關得救確據的經文有：約翰福音10:27-29，羅馬書8:31-39）"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "4) 不要依靠感覺",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "讀出“不要依靠感覺”這一段，試用自己的話說明你對圖表的理解。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<img alt=\"Train\" src=\"/sites/mc2/content/M2/cmn/multiply1/M1L2.png\">"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "5) 屬靈生命長進的建議",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "感謝耶穌基督在我們生命所成就的事",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "耶穌基督為世人的罪被釘死在十字架上，但祂第三天從死裡復活了。祂已經勝過罪惡和死亡。如今我們可以因信耶穌基督，我們罪已經完全得到赦免，已經白白得着神為我們所預備的救恩。"
+                        },
+                        {
+                          "text": "你已經是神的兒女，並開始神為你所預備的新生命，因為在基督裡你是新造的人，舊事已過，都變成新的了（哥林多後書 5:17）。"
+                        },
+                        {
+                          "text": "讓我們現在花一些時間來感恩和禱告："
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "text": "為耶穌在你生命已經成就的事情來感謝祂，"
+                  },
+                  {
+                    "text": "並為你在耶穌基督裡生命的繼續成長向神禱告。"
+                  },
+                  {
+                    "text": "接下來，鼓勵你持續參加這個倍增門徒小組，我們一起在基督裡成長。"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行動——設定行動點，彼此督責，勉勵行道",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "從今天開始，每天閱讀《路加福音》一段或一章，幫助你更加認識主耶穌。"
+          },
+          {
+            "text": "每天寫下一件你要感謝耶穌的事，以及你要耶穌為你做的事。"
+          },
+          {
+            "text": "在最後一頁的《福音行動表》裡寫下2位你的親朋好友名單，本週與他們分享你為什麼信耶穌，以及你跟隨耶穌的決定。"
+          },
+          {
+            "text": "依照你今天所學到的，寫下一個“屆時我會”的宣告，並於組內分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在________________（時間/地點）將會__________________（對象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分鐘寫下你在本課的學習心得，或是你未來一周可能有的其他行動點。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音禱告——將所行的交託給神，求主按祂旨意成就",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "親愛的主耶穌，感謝祢為我捨命，賜給我救恩，成為我的大牧者。<span lang=\"ZH-TW\">在祢手中我是</span>平安穩妥<span lang=\"ZH-TW\">的，沒有</span>任何<span lang=\"ZH-TW\">人</span>或事<span lang=\"ZH-TW\">能</span>夠<span lang=\"ZH-TW\">將我</span>從祢的手中<span lang=\"ZH-TW\">奪去，就連撒旦也不能。</span>我願輕輕聽祢的聲音，緊緊跟隨祢，效法祢，每天被祢更新，並經驗祢所賜豐盛的生命。奉主耶穌的名禱告，阿們！"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply101-i-will"
+      }
+    }
+  ]
+}

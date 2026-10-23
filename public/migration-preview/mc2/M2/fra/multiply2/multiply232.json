@@ -1,0 +1,372 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply232",
+  "sortOrder": 37,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lisez un passage biblique et exécutez un chant d’adoration."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la Fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Projection de Vision",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Marc 4:35-41 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Marc 4:35-41",
+        "html": "<p><sup>35</sup>Ce même jour, sur le soir, Jésus leur dit: Passons à l'autre bord.</p> <p><sup>36</sup>Après avoir renvoyé la foule, ils l'emmenèrent dans la barque où il se trouvait; il y avait aussi d'autres barques avec lui.</p> <p><sup>37</sup>Il s'éleva un grand tourbillon, et les flots se jetaient dans la barque, au point qu'elle se remplissait déjà.</p> <p><sup>38</sup>Et lui, il dormait à la poupe sur le coussin. Ils le réveillèrent, et lui dirent: Maître, ne t'inquiètes-tu pas de ce que nous périssons?</p> <p><sup>39</sup>S'étant réveillé, il menaça le vent, et dit à la mer: Silence! tais-toi! Et le vent cessa, et il y eut un grand calme.</p> <p><sup>40</sup>Puis il leur dit: Pourquoi avez-vous ainsi peur? Comment n'avez-vous point de foi?</p> <p><sup>41</sup>Ils furent saisis d'une grande frayeur, et ils se dirent les uns aux autres: Quel est donc celui-ci, à qui obéissent même le vent et la mer?</p>",
+        "url": "https://biblegateway.com/passage/?search=Mark%204:35-41&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Marc 4:35-41",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOMark1503",
+        "source": "arclight",
+        "refId": "6_496-GOMark1503",
+        "startTime": "7:58",
+        "endTime": "9:33",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de Découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Etudiez chaque passage en utilisant les questions de discussion suivantes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ?"
+          },
+          {
+            "text": "Qu’est ce qui est nouveau ou s’est développé à ce point de l’histoire de Jésus?"
+          },
+          {
+            "text": "Quelle implication du point de vue de l’humanité ou de la divinité de Jésus voyez-vous dans ce passage ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Questions supplémentaires que vous pouvez poser:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce que ses disciples apprennent?"
+          },
+          {
+            "text": "Qu’est-ce que Jésus est en train de nous montrer au sujet de sa vie et de son ministère (ou leadership) ?"
+          },
+          {
+            "text": "Qu’est ce que Jésus est en train de montrer au sujet du leadership empreint de piété ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Comme le mouvement a grandi, Jésus a eu du mal à trouver un endroit pour se reposer sans être dérangé. Il était si fatigué qu'il a dormi à sous une tempête sur le lac! Oui Jésus est fatigué comme nous, Il était pleinement humain et est devenu comme une de Ses propres créations (Hébreux 2:17). Jésus a commencé à utiliser le lac de Galilée comme un lieu d'évasion et de repos avec Ses leaders. Un vent fort et une tempête furieuse ont commencé à faire entrer de l'eau dans le bateau. Les nouveaux leaders ont été frappés de peur et ont demandé de l'aide à Jésus. Il les a réprimandés pour ne pas avoir la foi. Il ne s'attendait pas à ce qu'ils calment la tempête eux-mêmes, mais Il s'attendait à ce qu'ils fassent confiance sachant qu’Il ne permettrait pas qu’il leur arrive un mal."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Pour une étude approfondie: {Luc 8:22-25}; {Matthieu 8:18-27}",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Luc 8:22-25",
+                    "label": "Luc 8:22-25",
+                    "passage": "<p><sup>22</sup>Un jour, Jésus monta dans une barque avec ses disciples. Il leur dit: Passons de l'autre côté du lac. Et ils partirent.</p><p><sup>23</sup>Pendant qu'ils naviguaient, Jésus s'endormit. Un tourbillon fondit sur le lac, la barque se remplissait d'eau, et ils étaient en péril.</p><p><sup>24</sup>Ils s'approchèrent et le réveillèrent, en disant: Maître, maître, nous périssons! S'étant réveillé, il menaça le vent et les flots, qui s'apaisèrent, et le calme revint.</p><p><sup>25</sup>Puis il leur dit: Où est votre foi? Saisis de frayeur et d'étonnement, ils se dirent les uns aux autres: Quel est donc celui-ci, qui commande même au vent et à l'eau, et à qui ils obéissent?</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Matthieu 8:18-27",
+                    "label": "Matthieu 8:18-27",
+                    "passage": "<p><sup>18</sup>Jésus, voyant une grande foule autour de lui, donna l'ordre de passer à l'autre bord.</p><p><sup>19</sup>Un scribe s'approcha, et lui dit: Maître, je te suivrai partout où tu iras.</p><p><sup>20</sup>Jésus lui répondit: Les renards ont des tanières, et les oiseaux du ciel ont des nids; mais le Fils de l'homme n'a pas où reposer sa tête.</p><p><sup>21</sup>Un autre, d'entre les disciples, lui dit: Seigneur, permets-moi d'aller d'abord ensevelir mon père.</p><p><sup>22</sup>Mais Jésus lui répondit: Suis-moi, et laisse les morts ensevelir leurs morts.</p><p><sup>23</sup>Il monta dans la barque, et ses disciples le suivirent.</p><p><sup>24</sup>Et voici, il s'éleva sur la mer une si grande tempête que la barque était couverte par les flots. Et lui, il dormait.</p><p><sup>25</sup>Les disciples s'étant approchés le réveillèrent, et dirent: Seigneur, sauve-nous, nous périssons!</p><p><sup>26</sup>Il leur dit: Pourquoi avez-vous peur, gens de peu de foi? Alors il se leva, menaça les vents et la mer, et il y eut un grand calme.</p><p><sup>27</sup>Ces hommes furent saisis d'étonnement: Quel est celui-ci, disaient-ils, à qui obéissent même les vents et la mer?</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se Préparer pour la Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez 5 personnes de votre Liste de Réseau envers qui vous prendrez l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez les promesses « je le ferai d’ici quand » et parlez-en à votre groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply232-i-will"
+      }
+    }
+  ]
+}

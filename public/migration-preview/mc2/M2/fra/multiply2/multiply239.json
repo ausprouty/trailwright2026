@@ -1,0 +1,385 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply239",
+  "sortOrder": 44,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lisez un passage biblique et exécutez un chant d’adoration."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la Fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Projection de Vision",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Matthieu 16:13-28 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Matthieu 16:13-28",
+        "html": "<p><sup>13</sup>Jésus, étant arrivé dans le territoire de Césarée de Philippe, demanda à ses disciples: Qui dit-on que je suis, moi, le Fils de l'homme?</p> <p><sup>14</sup>Ils répondirent: Les uns disent que tu es Jean Baptiste; les autres, Élie; les autres, Jérémie, ou l'un des prophètes.</p> <p><sup>15</sup>Et vous, leur dit-il, qui dites-vous que je suis?</p> <p><sup>16</sup>Simon Pierre répondit: Tu es le Christ, le Fils du Dieu vivant.</p> <p><sup>17</sup>Jésus, reprenant la parole, lui dit: Tu es heureux, Simon, fils de Jonas; car ce ne sont pas la chair et le sang qui t'ont révélé cela, mais c'est mon Père qui est dans les cieux.</p> <p><sup>18</sup>Et moi, je te dis que tu es Pierre, et que sur cette pierre je bâtirai mon Église, et que les portes du séjour des morts ne prévaudront point contre elle.</p> <p><sup>19</sup>Je te donnerai les clefs du royaume des cieux: ce que tu lieras sur la terre sera lié dans les cieux, et ce que tu délieras sur la terre sera délié dans les cieux.</p> <p><sup>20</sup>Alors il recommanda aux disciples de ne dire à personne qu'il était le Christ.</p> <p><sup>21</sup>Dès lors Jésus commença à faire connaître à ses disciples qu'il fallait qu'il allât à Jérusalem, qu'il souffrît beaucoup de la part des anciens, des principaux sacrificateurs et des scribes, qu'il fût mis à mort, et qu'il ressuscitât le troisième jour.</p> <p><sup>22</sup>Pierre, l'ayant pris à part, se mit à le reprendre, et dit: A Dieu ne plaise, Seigneur! Cela ne t'arrivera pas.</p> <p><sup>23</sup>Mais Jésus, se retournant, dit à Pierre: Arrière de moi, Satan! tu m'es en scandale; car tes pensées ne sont pas les pensées de Dieu, mais celles des hommes.</p> <p><sup>24</sup>Alors Jésus dit à ses disciples: Si quelqu'un veut venir après moi, qu'il renonce à lui-même, qu'il se charge de sa croix, et qu'il me suive.</p> <p><sup>25</sup>Car celui qui voudra sauver sa vie la perdra, mais celui qui la perdra à cause de moi la trouvera.</p> <p><sup>26</sup>Et que servirait-il à un homme de gagner tout le monde, s'il perdait son âme? ou, que donnerait un homme en échange de son âme?</p> <p><sup>27</sup>Car le Fils de l'homme doit venir dans la gloire de son Père, avec ses anges; et alors il rendra à chacun selon ses oeuvres.</p> <p><sup>28</sup>Je vous le dis en vérité, quelques-uns de ceux qui sont ici ne mourront point, qu'ils n'aient vu le Fils de l'homme venir dans son règne.</p>",
+        "url": "https://biblegateway.com/passage/?search=Matthew%2016:13-28&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Matthieu 16:13-20",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOMatt2512",
+        "source": "arclight",
+        "refId": "6_496-GOMatt2512",
+        "startTime": "6:16",
+        "endTime": "7:32",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Matthieu 16:21-28",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOMatt2513",
+        "source": "arclight",
+        "refId": "6_496-GOMatt2513",
+        "startTime": "start",
+        "endTime": "2:13",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de Découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Etudiez chaque passage en utilisant les questions de discussion suivantes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ?"
+          },
+          {
+            "text": "Qu’est ce qui est nouveau ou s’est développé à ce point de l’histoire de Jésus?"
+          },
+          {
+            "text": "Quelle implication du point de vue de l’humanité ou de la divinité de Jésus voyez-vous dans ce passage ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Questions supplémentaires que vous pouvez poser:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce que ses disciples apprennent?"
+          },
+          {
+            "text": "Qu’est-ce que Jésus est en train de nous montrer au sujet de sa vie et de son ministère (ou leadership) ?"
+          },
+          {
+            "text": "Qu’est ce que Jésus est en train de montrer au sujet du leadership empreint de piété ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jésus continue par préparer Son équipe de leadership pour la mission. Il les enseigne au sujet de l’amour, l’humilité, la foi et leur compréhension de l’autorité. Il les emmène maintenant au nord dans un autre endroit païen non juif. Jésus commence par évaluer le ministère en demandant « Qui dit-on que Je suis ». La question n’est pas au sujet des nombres, il s'agit de la question centrale du mouvement. C’est la plus importante question que nous pouvons nous poser et poser à d’autres. Après près de trois années de ministère public, en disant aux gens qu’Il était le Messie, et opérant des prodiges qui montraient qu’Il était le Messie, les gens continuaient de penser qu’Il était Jean, Elie, Jérémie ou un prophète. Jésus demanda alors aux 12 quelle réponse donneraient-ils à la question. Pierre répondit au nom du groupe, « Tue s le Christ, le Fils du Dieu vivant ». Ils ont bien répondu! Mais Jésus saisit l’occasion pour leur rappeler que cette compréhension venait du Père. Tout ce que nous comprenons au sujet de Jésus vient du Dieu le Père qui ouvre notre compréhension, et non par notre propre intellect. C’est aussi pour la première fois que Jésus mentionne Son « Eglise » en disant qu’Il la bâtira sur cette pierre de la fondation de la vérité qu’Il est. Jésus révèle que Son Eglise est un mouvement de mission pour toutes les nations. C’était sur ce territoire païen qu’Il a choisi déclarer premièrement Son plan. Combien différente aurait été leur compréhension s’Il avait fait cette déclaration dans le temple de Jérusalem !"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Pour une étude approfondie: {Marc 8:27-38}; {Luc 9:18-27}.",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Marc 8:27-38",
+                    "label": "Marc 8:27-38",
+                    "passage": "<p><sup>27</sup>Jésus s'en alla, avec ses disciples, dans les villages de Césarée de Philippe, et il leur posa en chemin cette question: Qui dit-on que je suis?</p><p><sup>28</sup>Ils répondirent: Jean Baptiste; les autres, Élie, les autres, l'un des prophètes.</p><p><sup>29</sup>Et vous, leur demanda-t-il, qui dites-vous que je suis? Pierre lui répondit: Tu es le Christ.</p><p><sup>30</sup>Jésus leur recommanda sévèrement de ne dire cela de lui à personne.</p><p><sup>31</sup>Alors il commença à leur apprendre qu'il fallait que le Fils de l'homme souffrît beaucoup, qu'il fût rejeté par les anciens, par les principaux sacrificateurs et par les scribes, qu'il fût mis à mort, et qu'il ressuscitât trois jours après.</p><p><sup>32</sup>Il leur disait ces choses ouvertement. Et Pierre, l'ayant pris à part, se mit à le reprendre.</p><p><sup>33</sup>Mais Jésus, se retournant et regardant ses disciples, réprimanda Pierre, et dit: Arrière de moi, Satan! car tu ne conçois pas les choses de Dieu, tu n'as que des pensées humaines.</p><p><sup>34</sup>Puis, ayant appelé la foule avec ses disciples, il leur dit: Si quelqu'un veut venir après moi, qu'il renonce à lui-même, qu'il se charge de sa croix, et qu'il me suive.</p><p><sup>35</sup>Car celui qui voudra sauver sa vie la perdra, mais celui qui perdra sa vie à cause de moi et de la bonne nouvelle la sauvera.</p><p><sup>36</sup>Et que sert-il à un homme de gagner tout le monde, s'il perd son âme?</p><p><sup>37</sup>Que donnerait un homme en échange de son âme?</p><p><sup>38</sup>Car quiconque aura honte de moi et de mes paroles au milieu de cette génération adultère et pécheresse, le Fils de l'homme aura aussi honte de lui, quand il viendra dans la gloire de son Père, avec les saints anges.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Luc 9:18-27",
+                    "label": "Luc 9:18-27",
+                    "passage": "<p><sup>18</sup>Un jour que Jésus priait à l'écart, ayant avec lui ses disciples, il leur posa cette question: Qui dit-on que je suis?</p><p><sup>19</sup>Ils répondirent: Jean Baptiste; les autres, Élie; les autres, qu'un des anciens prophètes est ressuscité.</p><p><sup>20</sup>Et vous, leur demanda-t-il, qui dites-vous que je suis? Pierre répondit: Le Christ de Dieu.</p><p><sup>21</sup>Jésus leur recommanda sévèrement de ne le dire à personne.</p><p><sup>22</sup>Il ajouta qu'il fallait que le Fils de l'homme souffrît beaucoup, qu'il fût rejeté par les anciens, par les principaux sacrificateurs et par les scribes, qu'il fût mis à mort, et qu'il ressuscitât le troisième jour.</p><p><sup>23</sup>Puis il dit à tous: Si quelqu'un veut venir après moi, qu'il renonce à lui-même, qu'il se charge chaque jour de sa croix, et qu'il me suive.</p><p><sup>24</sup>Car celui qui voudra sauver sa vie la perdra, mais celui qui la perdra à cause de moi la sauvera.</p><p><sup>25</sup>Et que servirait-il à un homme de gagner tout le monde, s'il se détruisait ou se perdait lui-même?</p><p><sup>26</sup>Car quiconque aura honte de moi et de mes paroles, le Fils de l'homme aura honte de lui, quand il viendra dans sa gloire, et dans celle du Père et des saints anges.</p><p><sup>27</sup>Je vous le dis en vérité, quelques-uns de ceux qui sont ici ne mourront point qu'ils n'aient vu le royaume de Dieu.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se Préparer pour la Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez 5 personnes de votre Liste de Réseau envers qui vous prendrez l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez les promesses « je le ferai d’ici quand » et parlez-en à votre groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply239-i-will"
+      }
+    }
+  ]
+}

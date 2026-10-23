@@ -1,0 +1,435 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply343",
+  "sortOrder": 50,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "(Opcional) Jesucristo es el Señor, para la gloria de Dios Padre. Él quiere que todos los hombres sean salvos y lleguen al conocimiento de la verdad. Porque hay un solo Dios y un mediador también entre Dios y el hombre, el hombre Jesucristo, que se entregó a sí mismo como rescate por todos. (Filipenses 2:11b; 1 Timoteo 2:4-6a)"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar a las necesidades de los demás en oración, consejo bíblico y aliento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunta: \"¿Qué pasó cuando confiaste en Dios tus metas y tu declaración: “Yo haré…”?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y Animo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Elija una manera de proyectar visión de quiénes pueden llegar a ser en Cristo o lo que Dios puede hacer a través de ellos al</em>:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartir un versículo Bíblico que les recuerde el Corazón del Padre y la visión final."
+                  },
+                  {
+                    "text": "Reflexionando sobre los cambios en su vida desde que comenzaron a seguir a Cristo"
+                  },
+                  {
+                    "text": "recordándoles lo que Dios quiere hacer a través de ellos"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Comparta la GRAN visión de \"Una iglesia para cada pueblo y comunidad, y el Evangelio para cada persona\"."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídale al grupo que cuente la historia de la semana pasada"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Hechos 21:1-26</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Hechos 21:1-26",
+        "html": "<h3>Rumbo a Jerusalén</h3> <p><sup>1</sup>Después de separarnos de ellos, zarpamos y navegamos directamente a Cos. Al día siguiente fuimos a Rodas, y de allí a Pátara.<sup>2</sup>Como encontramos un barco que iba para Fenicia, subimos a bordo y zarpamos.<sup>3</sup>Después de avistar Chipre y de pasar al sur de la isla, navegamos hacia Siria y llegamos a Tiro, donde el barco tenía que descargar.<sup>4</sup>Allí encontramos a los discípulos y nos quedamos con ellos siete días. Ellos, por medio del Espíritu, exhortaron a Pablo a que no subiera a Jerusalén.<sup>5</sup>Pero, al cabo de algunos días, partimos y continuamos nuestro viaje. Todos los discípulos, incluso las mujeres y los niños, nos acompañaron hasta las afueras de la ciudad, y allí en la playa nos arrodillamos y oramos.<sup>6</sup>Luego de despedirnos, subimos a bordo y ellos regresaron a sus hogares.</p> <p><sup>7</sup>Nosotros continuamos nuestro viaje en barco desde Tiro y arribamos a Tolemaida, donde saludamos a los hermanos y nos quedamos con ellos un día.<sup>8</sup>Al día siguiente salimos y llegamos a Cesarea, y nos hospedamos en casa de Felipe el evangelista, que era uno de los siete;<sup>9</sup>este tenía cuatro hijas solteras que profetizaban.</p> <p><sup>10</sup>Llevábamos allí varios días cuando bajó de Judea un profeta llamado Ágabo.<sup>11</sup>Este vino a vernos y, tomando el cinturón de Pablo, se ató con él de pies y manos, y dijo:</p> <p>—Así dice el Espíritu Santo: “De esta manera atarán los judíos de Jerusalén al dueño de este cinturón, y lo entregarán en manos de los gentiles”.</p> <p><sup>12</sup>Al oír esto, nosotros y los de aquel lugar le rogamos a Pablo que no subiera a Jerusalén.</p> <p><sup>13</sup>—¿Por qué lloran? ¡Me parten el alma! —respondió Pablo—. Por el nombre del Señor Jesús estoy dispuesto no solo a ser atado, sino también a morir en Jerusalén.</p> <p><sup>14</sup>Como no se dejaba convencer, desistimos, exclamando:</p> <p>—¡Que se haga la voluntad del Señor!</p> <p><sup>15</sup>Después de esto, acabamos los preparativos y subimos a Jerusalén.<sup>16</sup>Algunos de los discípulos de Cesarea nos acompañaron y nos llevaron a la casa de Mnasón, donde íbamos a alojarnos. Este era de Chipre, y uno de los primeros discípulos.</p> <h3>Llegada de Pablo a Jerusalén</h3> <p><sup>17</sup>Cuando llegamos a Jerusalén, los creyentes nos recibieron calurosamente.<sup>18</sup>Al día siguiente Pablo fue con nosotros a ver a Jacobo, y todos los ancianos estaban presentes.<sup>19</sup>Después de saludarlos, Pablo les relató detalladamente lo que Dios había hecho entre los gentiles por medio de su ministerio.</p> <p><sup>20</sup>Al oírlo, alabaron a Dios. Luego le dijeron a Pablo: «Ya ves, hermano, cuántos miles de judíos han creído, y todos ellos siguen aferrados a la ley.<sup>21</sup>Ahora bien, han oído decir que tú enseñas que se aparten de Moisés todos los judíos que viven entre los gentiles. Les recomiendas que no circunciden a sus hijos ni vivan según nuestras costumbres.<sup>22</sup>¿Qué vamos a hacer? Sin duda se van a enterar de que has llegado.<sup>23</sup>Por eso, será mejor que sigas nuestro consejo. Hay aquí entre nosotros cuatro hombres que tienen que cumplir un voto.<sup>24</sup>Llévatelos, toma parte en sus ritos de purificación y paga los gastos que corresponden al voto de rasurarse la cabeza. Así todos sabrán que no son ciertos esos informes acerca de ti, sino que tú también vives en obediencia a la ley.<sup>25</sup>En cuanto a los creyentes gentiles, ya les hemos comunicado por escrito nuestra decisión de que se abstengan de lo sacrificado a los ídolos, de sangre, de la carne de animales estrangulados y de la inmoralidad sexual».</p> <p><sup>26</sup>Al día siguiente Pablo se llevó a los hombres y se purificó con ellos. Luego entró en el templo para dar aviso de la fecha en que vencería el plazo de la purificación y se haría la ofrenda por cada uno de ellos.</p>",
+        "url": "https://biblegateway.com/passage/?search=Hechos%2021:1-26&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Hechos 21:1-16",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7356-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7356-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Hechos 21:17-26",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7357-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7357-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de Descubrimiento",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención o qué es lo que más te gustó? ¿por qué?"
+          },
+          {
+            "text": "¿Qué hay de nuevo o se ha desarrollado a estas alturas de la historia?"
+          },
+          {
+            "text": "¿Qué se está modelando acerca de una vida dependiente del Espíritu, haciendo discípulos o liderazgo?"
+          },
+          {
+            "text": "¿Cómo podemos vivir de manera diferente ahora que conocemos esta historia?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Preguntas adicionales que puede utilizar:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Cómo continúan los seguidores de Jesús Su obra de hacer discípulos y plantar iglesias?"
+          },
+          {
+            "text": "¿Cómo está impactando el Evangelio en las personas y en la sociedad?"
+          },
+          {
+            "text": "¿Qué barreras u obstáculos se superaron y cómo se superaron?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pablo no fue el único que inició iglesias. Aprendemos de esta historia acerca de otras comunidades de creyentes que se habían formado aparte de la obra de Pablo. En Cesarea, se quedaron con Felipe, quien testimonio a los samaritanos y al eunuco etíope (Hechos 8:40). A través de las hijas de Felipe, aprendemos que las mujeres también recibieron dones del Espíritu Santo como profecía. En dos ocasiones, se dieron profecías a través del Espíritu Santo sobre el peligro que Pablo enfrentaría en Jerusalén, pero esto no era nuevo para Pablo. Pablo estaba siendo obligado por el Espíritu a ir a Jerusalén (Hechos 19:21), y se le había dicho que la persecución le esperaba (Hechos 20:22-23). Pablo había aceptado que la voluntad del Señor para él incluía el sufrimiento. Los problemas de ocho años antes acerca de la práctica de la Ley todavía molestaban a los creyentes judíos en Jerusalén (Hechos 11 y 15). Pablo se sometió a las peticiones de los líderes de Jerusalén de cumplir la ley para que los creyentes locales no tropezaran. Lee Romanos 14:13-19."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Practique el dar y la Santa Cena aquí o en la sección Preparación para la Misión</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Practique las habilidades necesarias o temas previos para ayudar a prepararse para ministrar a los demás:",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "Orar, Cuidar, Compartir"
+                        },
+                        {
+                          "text": "Evangelio"
+                        },
+                        {
+                          "text": "Estudios Bíblicos Fundamentales"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica personas o lugares a los que tomarás la iniciativa de ministrar esta semana."
+          },
+          {
+            "text": "Escriba declaraciones usando de \"Yo haré…. cuando…” y que lo comparan con a su grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos al Señor. Pídele al Señor que nos ayude a ser fieles y que nos use para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bendición (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply343-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "amh",
+  "htmlLang": "am",
+  "direction": "ltr",
+  "numberSystem": "ethi",
+  "series": "multiply1",
+  "lessonId": "multiply103",
+  "sortOrder": 3,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "ወደኋላ ተመልከት",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "ምስጋና",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>ምስጋናና አምልኮ ለማቅረብ የሚረዱ መሠረታዊ የቅዱሳት መጽሐፍት ክፍሎችን አንብብ</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "መዝ 118፡28ን አንብብ፡፡ “አንተ አምላኬ ነህ አመሰግንህማለሁ። አንተ አምላኬ ነህ፥<br> ከፍ ከፍ አደርግሃለሁ፤ ሰምተኸኛልና፥ መድኃኒትም ሆነኸኛልና አመሰግንሃለሁ” ።"
+                  },
+                  {
+                    "text": "ለዛሬ እግዚአብሔርን የምናመሰግንበት ጉዳይ ምን አለን?"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "እንክብካቤ",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>የሌሎች መሻት የተሟላ ይሆን ዘንድ አንዱ ለሌላው ይጸልይ፣ መጽሐፍ ቅዱሳዊ ምክር<br> እንለግስ፣ እናበረታታ።</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "እያንዳንዱ ሰው በዚህ ሳምንት የገጠመውን አንድ አስደሳች እና አንድ ተግዳሮት ነገር እንዲናገሩ ጠይቅ፡፡"
+          },
+          {
+            "text": "በዚህ ሳምንት ኢየሱስ ምን እንዲያደርግላቸው እንደሚፈልጉ ጠይቅ፡፡ አንዱ ለሌላው መሻት ይጸልይ፡"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "መታዘዝን ማበረታታት",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "ኢየሱስን ለመታዘዝ በፍቅር ላይ የተመሠረተ ኃላፊነት እንዲወስዱ አበረታታ፡፡"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "“ኢየሱስን ለመከተል የወሰናችሁበትን ሁኔታ ለአንድ ሰው መንገር ትችላላችሁ?” ብለህ ጠይቃቸው፡፡"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "ማነቃቃትና ማበረታታት",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "በክርስቶስ አማካይነት ማን እንደሆኑ ወይም እግዚአብሔር በእነርሱ ምን መስራት እንደሚፈልግ አስገንዝባቸው፡፡"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "ለምሳሌ፡- እግዚአብሔር ሰዎችን ይወዳል! የእግዚአብሔር መሻት ሰዎች ሁሉ እንዲድኑና እውነትን ወደ መረዳት እንዲደርሱ እንደሆነ መጽሐፍ ቅዱስ ይነግረናል (1ጢሞ 2፡4)፡፡ ወንጌል ለአንተ ብቻ ሳይሆን ቤተሰቦችህና ለጓደኞችም ጭምር ነው፡፡ እግዚአብሔር እነርሱንም ይወዳቸዋል፤ እነርሱም የኢየሱስ ተከታዮች ይሆኑ ዘንድ ስለ ኢየሱስ እንድትመሰክርላቸው አንተን ይጠቀማል፡፡ አብረንም በተጓዝን መጠን እግዚአብሔር በዙሪያችን ባሉ ሰዎች ህይወት ምን ዓይነት አስደናቂ ነገር እንደሚሰራ እናያለን፡፡"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "ተመልከት",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "መግቢያ",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<hr> <p> </p> <hr>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "የጥናት ክፍል",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "1 ቆሮ 2:14-3፡3 ሁሉም ሰው እየሰማ ይህንን ክፍል አንድ ሰው ሁለት ጊዜ አንብብ፡፡"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "1 ቆሮ 2:14-3፡3",
+        "html": "<div><sup>14</sup>ለፍጥረታዊ ሰው የእግዚአብሔር መንፈስ ነገር ሞኝነት ነውና አይቀበለውም፤ በመንፈስም የሚመረመር ስለ ሆነ ሊያውቀው አይችልም። <sup>15</sup>መንፈሳዊ ሰው ግን ሁሉን ይመረምራል ራሱ ግን በማንም አይመረመርም። <sup>16</sup>እንዲያስተምረው የጌታን ልብ ማን አውቆት ነው? እኛ ግን የክርስቶስ ልብ አለን።</div> <div><sup class=\"chapternum\">3:</sup><sup>1</sup>እኔም፥ ወንድሞች ሆይ፥ የሥጋ እንደ መሆናችሁ፥ በክርስቶስም ሕፃናት እንደ መሆናችሁ እንጂ መንፈሳውያን እንደ መሆናችሁ ልናገራችሁ አልቻልሁም። <sup>2</sup>ገና ጽኑ መብል ለመብላት አትችሉም ነበርና ወተት ጋትኋችሁ፤ <sup>3</sup>ገና ሥጋውያን ናችሁና እስከ አሁን ድረስ ገና አትችሉም። ቅናትና ክርክር ስለሚገኝባችሁ ሥጋውያን መሆናችሁ አይደላችሁምን? እንደ ሰው ልማድስ አትመላለሱምን?</div>",
+        "url": "https://live.bible.is/bible/AMHEVG/1Cor/2",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "የምልከታ ውይይት",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "ከሰማኸው ታሪክ የወደድከው ነገር ምንድንነው? ለምን?"
+          },
+          {
+            "text": "ይህ ታሪክ ለምን ይጠቅማል ብለህ ታስባለህ?"
+          },
+          {
+            "text": "ይህን ታሪክ ከሰማህ በኋላ በህይወትህ ምን ለመለወጥ ትወስናለህ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "አንብብ፣ተናገር፤ አርም",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "ታሪኩን እንደገና አንብብ፣ አንድ ሰው ታሪኩን በቃል እንዲናገር አድርግና አስፈላጊ ከሆነ ቡድኑ እንዲያስተካክል ጠይቅ፡፡"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "ማጠቃለያ",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<hr> <p class=\"up\"> </p> <hr>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "ወደፊት መመልከት",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "ለተልዕኮ መዘጋጀት",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "ወንጌል መመስከርን ተለማመዱ"
+                  },
+                  {
+                    "text": "አንድ ሰው ወንጌልን ለመቀበል ፈቃደኛ በሚሆንበት ጊዜ ምን ማድረግ እንደሚጠበቅባቸው አስታውሳቸው፡፡"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "መላክ",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "በእነርሱ የግንኙነት መረብ ዙሪያ የሚገኙ 10 ወይም ከዚያ በላይ የሆኑ የሚያውቋቸውን ያላመኑ ሰዎች ስም ዝርዝር እንዲመዘግቡ አድርግ፡፡"
+          },
+          {
+            "text": "ከተመዘገቡት መካከል አምስቱን በመለየት በዚህ ሳምንት ዛሬ የሰሙትን ታሪክ ወይም ወንጌልን መቼ እንደሚነግሯቸው ይወስኑ"
+          },
+          {
+            "text": "“ይህን በዚህ••• ጊዜ አደርጋለሁ” ዕቅድህን ፃፍና ለቡድን አካፍል።"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "ለተልዕኮ መጸለይ",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "የሁሉንም አባላት እቅድ በጸሎት ለእግዚአብሔር አሳልፈህ ስጥ፡፡ ታማኞች ሆነው እንድገኙና ደቀ መዝሙር- አድራጊ እንቅስቃሴን ለመጀመር እንዲችሉ እግዚአብሔር እንዲረዳቸው በጸሎት ጠይቅ፡፡"
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply103-i-will"
+      }
+    }
+  ]
+}

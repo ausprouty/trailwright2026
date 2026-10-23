@@ -1,16 +1,16 @@
-// npx tsx scripts/migration/multiply/migrate-multiply-series.ts multiply1
-// npx tsx scripts/migration/multiply/migrate-multiply-series.ts multiply2
-// npx tsx scripts/migration/multiply/migrate-multiply-series.ts multiply3
+// npx tsx scripts/migration/mc2/multiply/migrate-multiply-series.ts multiply1
+// npx tsx scripts/migration/mc2/multiply/migrate-multiply-series.ts multiply2
+// npx tsx scripts/migration/mc2/multiply/migrate-multiply-series.ts multiply3
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { exec } from 'node:child_process';
-import { transformMyfriends } from './transformMu';
-import type { MyFriendsCountry } from '../createLessonJson';
+import { transformMc2 } from './transformMc2';
+import type { mc2Country } from '../createLessonJson';
 
 const PROJECT_ROOT = process.cwd();
 
-const SITE = 'myfriends' as const;
+const SITE = 'mc2' as const;
 
 // Usage:
 // npx tsx scripts/migration/multiply/migrate-multiply-series.ts multiply1
@@ -25,7 +25,7 @@ const MASTER_INDEX_PATH = path.join(
 );
 
 type ChapterIndexItem = {
-  id: number | null;
+  id: number | string | null;
   filename?: string;
 };
 
@@ -36,7 +36,7 @@ type SeriesIndexJson = {
 type MigrationIndex = Record<string, Record<string, string[]>>;
 
 type MigrationTarget = {
-  country: MyFriendsCountry;
+  country: mc2Country;
   language: string;
 };
 
@@ -77,12 +77,13 @@ function findSeriesTargets(migrationIndex: MigrationIndex, series: string): Migr
 
   for (const [country, languages] of Object.entries(migrationIndex)) {
     for (const [language, seriesList] of Object.entries(languages)) {
+
       if (!seriesList.includes(series)) {
         continue;
       }
 
       targets.push({
-        country: country as MyFriendsCountry,
+        country: country as mc2Country,
         language,
       });
     }
@@ -104,21 +105,19 @@ async function readSeriesIndex(processedDir: string): Promise<SeriesIndexJson> {
   return json;
 }
 
-function getSortOrder(seriesIndex: SeriesIndexJson, lessonName: string): number {
-  const chapter = seriesIndex.chapters.find((item) => item.filename === lessonName);
+function getSortOrder(seriesIndex: SeriesIndexJson, lessonName: string): number | null {
+  const index = seriesIndex.chapters.findIndex((item) => item.filename === lessonName);
 
-  if (!chapter) {
-    throw new Error(`Could not find lesson in index.json: ${lessonName}`);
+  if (index === -1) {
+    console.warn(`Skipping lesson: Not found in index.json: "${lessonName}"`);
+
+    return null;
   }
 
-  if (typeof chapter.id !== 'number') {
-    throw new Error(`Lesson has no numeric id in index.json: ${lessonName}`);
-  }
-
-  return chapter.id;
+  return index + 1;
 }
 
-async function migrateTarget(country: MyFriendsCountry, language: string): Promise<string[]> {
+async function migrateTarget(country: mc2Country, language: string): Promise<string[]> {
   const sourceDir = path.join(PROJECT_ROOT, 'data', 'raw', SITE, country, language, SERIES);
 
   const processedDir = path.join(
@@ -141,10 +140,10 @@ async function migrateTarget(country: MyFriendsCountry, language: string): Promi
     SERIES,
   );
 
-  console.log('');
-  console.log('='.repeat(70));
-  console.log(`Migrating ${country}/${language}/${SERIES}`);
-  console.log('='.repeat(70));
+  //console.log('');
+  //console.log('='.repeat(70));
+  // console.log(`Migrating ${country}/${language}/${SERIES}`);
+  //console.log('='.repeat(70));
 
   let entries;
 
@@ -170,10 +169,11 @@ async function migrateTarget(country: MyFriendsCountry, language: string): Promi
     console.warn(`No HTML files found in ${sourceDir}`);
     return [];
   }
+  console.log (`Checking in ${sourceDir}`);
 
   const seriesIndex = await readSeriesIndex(processedDir);
 
-  console.log(`Found ${htmlFiles.length} files.`);
+  //console.log(`Found ${htmlFiles.length} files.`);
 
   await ensureDir(processedDir);
   await ensureDir(previewDir);
@@ -188,13 +188,17 @@ async function migrateTarget(country: MyFriendsCountry, language: string): Promi
 
     const sortOrder = getSortOrder(seriesIndex, lessonName);
 
+    if (sortOrder === null) {
+      continue;
+    }
+
     const processedPath = path.join(processedDir, jsonFileName);
 
     const previewPath = path.join(previewDir, jsonFileName);
 
     const html = await fs.readFile(sourcePath, 'utf8');
 
-    const json = transformMyfriends(html, {
+    const json = transformMc2(html, {
       site: SITE,
       country,
       language,
@@ -212,14 +216,14 @@ async function migrateTarget(country: MyFriendsCountry, language: string): Promi
 
     lessons.push(lessonName);
 
-    console.log(`  ${fileName} -> sortOrder ${sortOrder}`);
+    //console.log(`  ${fileName} -> sortOrder ${sortOrder}`);
   }
 
   const previewIndexPath = path.join(previewDir, 'index.json');
 
   await fs.writeFile(previewIndexPath, `${JSON.stringify(lessons, null, 2)}\n`, 'utf8');
 
-  console.log(`Wrote ${previewIndexPath}`);
+  //console.log(`Wrote ${previewIndexPath}`);
 
   return lessons;
 }

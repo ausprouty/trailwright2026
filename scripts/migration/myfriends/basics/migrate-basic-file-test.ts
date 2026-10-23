@@ -8,7 +8,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { exec } from 'node:child_process';
-import { transformBasics } from './transformMyfriends';
+import { transformMyfriends } from './transformMyfriends';
 
 const PROJECT_ROOT = process.cwd();
 const SITE = 'myfriends' as const;
@@ -99,7 +99,7 @@ async function run(): Promise<void> {
   const lessonId = sourceFile.replace(/\.html$/i, '');
   const sortOrder = 0;
 
-  const json = transformBasics(html, {
+  const json = transformMyfriends(html, {
     site: SITE,
     country: COUNTRY,
     language: LANGUAGE,

@@ -1,0 +1,70 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmt",
+  "htmlLang": "zh-Hant",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply110a",
+  "sortOrder": 12,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "（一）信主前的生命境況為何？"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "（信耶穌之前，你對屬靈的事情，如對神、對永恆、對未來、對罪、對審判、對基督教…等等的看法如何？你對你的人生覺得如何？你的生命態度為何？…）"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "（二）信主的過程如何？"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "（什麼事引起你渴慕追求屬靈的真理？你怎樣接觸福音？什麼信息/內容使你相信耶穌基督能拯救你？那段經文深深打動你的心？你怎麼做出信主的決定?...）"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "（三）信主後屬靈生命有何改變？"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "（ 信了耶穌後，你的價值觀有何改變？你與耶穌的關係如何？你對屬靈事物有何新的看法？你的屬靈生命如何成長？你對親朋鄰舍的救恩有何新的看法？…）"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    }
+  ]
+}

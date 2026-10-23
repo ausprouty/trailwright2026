@@ -1,0 +1,170 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "mutiply3intro",
+  "sortOrder": 1,
+  "blocks": [
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "《使徒行传》为路加所撰写，是《路加福音》记载耶稣故事的续篇。“这些事我既从起头都详细考察了，就定意要按着次序写给你”（{路1:3}）。 “提阿非罗啊，我已经作了前书，论到耶稣开头一切所行所教训的”（{徒1:1}）。 本卷书记载了初代教会三十年的历史",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "路1:3",
+            "label": "路1:3",
+            "passage": "<p><sup>3</sup>这些事我既从起头都详细考察了，就定意要按着次序写给你，</p>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "徒1:1",
+            "label": "徒1:1",
+            "passage": "<p><sup>1</sup><u class=\"person underline\">提阿非罗</u>啊，我已经作了前书，论到耶稣开头一切所行所教训的，</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "（公元30年至公元62年）。"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "简介",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "耶稣被差到世上，是为了在世界各地扩展上帝的国度。祂刚开始传道时，只有几个从施洗约翰转过去的门徒。他开始事奉的范围遍及以色列的各城各乡（{可1:38}）， 但他预备他的跟从者更大的范围。他不只是教导他们关于天国的真理，并在他的人性，展示一个以天国为中心、依靠圣灵的生命。耶稣透过得着门徒，从中拣选领袖，又给予训练之后，差遣他们将福音传到全世界，以扩展他的事工到更远更广的地方。在他死在十字架上之前，已经告诉门徒整个使命的范围：“这天国的福音要传遍天下，对万民作见证，然后末期才来到。”（{太24:14}） 祂的异象是要在世界各地的万民中建立上帝的国度，使上帝的名被尊为圣并他的旨意行在地上（{太6:9-10}）。 耶稣示范了如何与失丧的人连结，如何造就门徒去造就门徒，还有如何找出领袖并给予训练，使他们也能去到万民中重复同样的步骤。耶稣应许祂在世上开始的工作，祂会在天上继续作工：“我所做的事，信我的人也要做，并且要做比这更大的事，因为我往父那里去。”（{约14:12}）； “我去是与你们有益的……我若去，就差（保惠师）来。”（{约16:7}）； “但圣灵降临在你们身上，你们就必得着能力；并要在耶路撒冷、犹太全地和撒玛利亚，直到地极，作我的见证。”（{徒1:8}）",
+        "references": [
+          {
+            "id": "popup_pop3",
+            "marker": "可1:38",
+            "label": "可1:38",
+            "passage": "<p><sup>38</sup>耶稣对他们说：“我们可以往别处去，到邻近的乡村，我也好在那里传道，因为我是为这事出来的。”</p>"
+          },
+          {
+            "id": "popup_pop4",
+            "marker": "太24:14",
+            "label": "太24:14",
+            "passage": "<p><sup>14</sup>这天国的福音要传遍天下，对万民作见证，然后末期才来到。</p>"
+          },
+          {
+            "id": "popup_pop5",
+            "marker": "太6:9-10",
+            "label": "太6:9-10",
+            "passage": "<p><sup>9</sup>“所以，你们祷告要这样说：‘我们在天上的父，愿人都尊你的名为圣，<sup>10</sup>愿你的国降临，愿你的旨意行在地上，如同行在天上。</p>"
+          },
+          {
+            "id": "popup_pop6",
+            "marker": "约14:12",
+            "label": "约14:12",
+            "passage": "<p><sup>12</sup>我实实在在地告诉你们：我所做的事，信我的人也要做，并且要做比这更大的事，因为我往父那里去。</p>"
+          },
+          {
+            "id": "popup_pop7",
+            "marker": "约16:7",
+            "label": "约16:7",
+            "passage": "<p><sup>7</sup>然而我将真情告诉你们，我去是于你们有益的。我若不去，保惠师就不到你们这里来；我若去，就差他来。</p>"
+          },
+          {
+            "id": "popup_pop8",
+            "marker": "徒1:8",
+            "label": "徒1:8",
+            "passage": "<p><sup>8</sup>但圣灵降临在你们身上，你们就必得着能力，并要在耶路撒冷、犹太全地和撒马利亚，直到地极，作我的见证。”</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "这就是《使徒行传》的故事。它告诉我们，当门徒开始活出主耶稣所教导的靠圣灵行事，圣灵就工作——建立与扩展上帝的国度到万民之中。它也提供了背景故事，帮助我们将新约中其他的书信运用在耶稣的事工中。《使徒行传》记载在短短的三十年间，神的国度影响了整个社会，以及在各地建立了新的门徒和新的教会，我们就得知天国扩展的根基从此立下。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong><span lang=\"ZH-CN\">使用下列的问题讨论，帮助大家学习各段经文：</span></strong>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<span lang=\"ZH-CN\">分享最有感动或最喜欢的部分</span>"
+          },
+          {
+            "text": "<span lang=\"ZH-CN\">目前为止，故事中有哪些是新发生或刚发展的事？</span>"
+          },
+          {
+            "text": "<span lang=\"ZH-CN\">这段经文教导我们怎样倚靠圣灵生活，怎样去使万民作门徒，或带人？</span>"
+          },
+          {
+            "text": "<span lang=\"ZH-CN\">明白这段故事后，我们该如何过得不一样？</span>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">另外可以使用的问题：</span>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<span lang=\"ZH-CN\">耶稣的门徒如何延续祂在地上的工作，使万民作门徒与建立教会？</span>"
+          },
+          {
+            "text": "<span lang=\"ZH-CN\">如何影响世人和社会？</span>"
+          },
+          {
+            "text": "<span lang=\"ZH-CN\">故事中克服了什么障碍或难题？又是如何克服的呢？</span>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">内容参考：</span>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<span lang=\"ZH-CN\">橄榄社区，分卷查经（</span><a href=\"https://ocochome.info/聚会资料/分卷查经/使徒行传/\">http://ocochome.info/<span lang=\"ZH-CN\">聚会资料</span>/<span lang=\"ZH-CN\">分卷查经</span>/<span lang=\"ZH-CN\">使徒行传</span>/</a><span lang=\"ZH-CN\">）</span>"
+          },
+          {
+            "text": "<span lang=\"ZH-CN\">圣经综合解读 </span><span lang=\"EN-US\">https://cmcbiblereading.com/wp-content/</span>"
+          },
+          {
+            "text": "<span lang=\"ZH-CN\">提摩太课程</span><span lang=\"EN-US\">:</span> <span lang=\"ZH-CN\">《活出神的大能》</span>"
+          }
+        ]
+      }
+    }
+  ]
+}

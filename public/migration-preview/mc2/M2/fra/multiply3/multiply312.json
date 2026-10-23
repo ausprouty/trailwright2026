@@ -1,0 +1,444 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply312",
+  "sortOrder": 13,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lisez un passage biblique et exécutez un chant d’adoration.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Facultatif) Jésus-Christ est Seigneur, à la gloire de Dieu le Père ; qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité. Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus-Christ homme, qui s’est donné lui-même en rançon pour tous. ({Philippiens 2:11}; {1 Timothée 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippiens 2:11",
+                    "label": "Philippiens 2:11",
+                    "passage": "<p><sup>11</sup>et que toute langue confesse que Jésus Christ est Seigneur, à la gloire de Dieu le Père.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timothée 2:4-6",
+                    "label": "1 Timothée 2:4-6",
+                    "passage": "<p><sup>4</sup>qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité.</p><p><sup>5</sup>Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus Christ homme,</p><p><sup>6</sup>qui s'est donné lui-même en rançon pour tous. C'est là le témoignage rendu en son propre temps,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation et encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Trouvez un moyen de projeter une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "un passage qui leur rappelle le cœur du Père et de la vision final."
+                  },
+                  {
+                    "text": "réfléchir sur des changements intervenus dans leur vie depuis qu’ils ont commencé à suivre Christ"
+                  },
+                  {
+                    "text": "leur rappeler ce que Dieu veut faire à travers eux"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Partagez la GRANDE vision</strong> <em>« une église pour chaque village et communauté, l’évangile pour chaque personne ».</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexte",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Demandez au groupe de raconter l’histoire de la semaine passée."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lisez",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Actes 7:1-53 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Actes 7:1-53",
+        "html": "<p><sup>1</sup>Le souverain sacrificateur dit: Les choses sont-elles ainsi?</p> <p><sup>2</sup>Étienne répondit: Hommes frères et pères, écoutez! Le Dieu de gloire apparut à notre père Abraham, lorsqu'il était en Mésopotamie, avant qu'il s'établît à Charran; et il lui dit:</p> <p><sup>3</sup>Quitte ton pays et ta famille, et va dans le pays que je te montrerai.</p> <p><sup>4</sup>Il sortit alors du pays des Chaldéens, et s'établit à Charran. De là, après la mort de son père, Dieu le fit passer dans ce pays que vous habitez maintenant;</p> <p><sup>5</sup>il ne lui donna aucune propriété en ce pays, pas même de quoi poser le pied, mais il promit de lui en donner la possession, et à sa postérité après lui, quoiqu'il n'eût point d'enfant.</p> <p><sup>6</sup>Dieu parla ainsi: Sa postérité séjournera dans un pays étranger; on la réduira en servitude et on la maltraitera pendant quatre cents ans.</p> <p><sup>7</sup>Mais la nation à laquelle ils auront été asservis, c'est moi qui la jugerai, dit Dieu. Après cela, ils sortiront, et ils me serviront dans ce lieu-ci.</p> <p><sup>8</sup>Puis Dieu donna à Abraham l'alliance de la circoncision; et ainsi, Abraham, ayant engendré Isaac, le circoncit le huitième jour; Isaac engendra et circoncit Jacob, et Jacob les douze patriarches.</p> <p><sup>9</sup>Les patriarches, jaloux de Joseph, le vendirent pour être emmené en Égypte.</p> <p><sup>10</sup>Mais Dieu fut avec lui, et le délivra de toutes ses tribulations; il lui donna de la sagesse et lui fit trouver grâce devant Pharaon, roi d'Égypte, qui l'établit gouverneur d'Égypte et de toute sa maison.</p> <p><sup>11</sup>Il survint une famine dans tout le pays d'Égypte, et dans celui de Canaan. La détresse était grande, et nos pères ne trouvaient pas de quoi se nourrir.</p> <p><sup>12</sup>Jacob apprit qu'il y avait du blé en Égypte, et il y envoya nos pères une première fois.</p> <p><sup>13</sup>Et la seconde fois, Joseph fut reconnu par ses frères, et Pharaon sut de quelle famille il était.</p> <p><sup>14</sup>Puis Joseph envoya chercher son père Jacob, et toute sa famille, composée de soixante-quinze personnes.</p> <p><sup>15</sup>Jacob descendit en Égypte, où il mourut, ainsi que nos pères;</p> <p><sup>16</sup>et ils furent transportés à Sichem, et déposés dans le sépulcre qu'Abraham avait acheté, à prix d'argent, des fils d'Hémor, père de Sichem.</p> <p><sup>17</sup>Le temps approchait où devait s'accomplir la promesse que Dieu avait faite à Abraham, et le peuple s'accrut et se multiplia en Égypte,</p> <p><sup>18</sup>jusqu'à ce que parut un autre roi, qui n'avait pas connu Joseph.</p> <p><sup>19</sup>Ce roi, usant d'artifice contre notre race, maltraita nos pères, au point de leur faire exposer leurs enfants, pour qu'ils ne vécussent pas.</p> <p><sup>20</sup>A cette époque, naquit Moïse, qui était beau aux yeux de Dieu. Il fut nourri trois mois dans la maison de son père;</p> <p><sup>21</sup>et, quand il eut été exposé, la fille de Pharaon le recueillit, et l'éleva comme son fils.</p> <p><sup>22</sup>Moïse fut instruit dans toute la sagesse des Égyptiens, et il était puissant en paroles et en oeuvres.</p> <p><sup>23</sup>Il avait quarante ans, lorsqu'il lui vint dans le coeur de visiter ses frères, les fils d'Israël.</p> <p><sup>24</sup>Il en vit un qu'on outrageait, et, prenant sa défense, il vengea celui qui était maltraité, et frappa l'Égyptien.</p> <p><sup>25</sup>Il pensait que ses frères comprendraient que Dieu leur accordait la délivrance par sa main; mais ils ne comprirent pas.</p> <p><sup>26</sup>Le jour suivant, il parut au milieu d'eux comme ils se battaient, et il les exhorta à la paix: Hommes, dit-il, vous êtes frères; pourquoi vous maltraitez-vous l'un l'autre?</p> <p><sup>27</sup>Mais celui qui maltraitait son prochain le repoussa, en disant: Qui t'a établi chef et juge sur nous?</p> <p><sup>28</sup>Veux-tu me tuer, comme tu as tué hier l'Égyptien?</p> <p><sup>29</sup>A cette parole, Moïse prit la fuite, et il alla séjourner dans le pays de Madian, où il engendra deux fils.</p> <p><sup>30</sup>Quarante ans plus tard, un ange lui apparut, au désert de la montagne de Sinaï, dans la flamme d'un buisson en feu.</p> <p><sup>31</sup>Moïse, voyant cela, fut étonné de cette apparition; et, comme il s'approchait pour examiner, la voix du Seigneur se fit entendre:</p> <p><sup>32</sup>Je suis le Dieu de tes pères, le Dieu d'Abraham, d'Isaac et de Jacob. Et Moïse, tout tremblant, n'osait regarder.</p> <p><sup>33</sup>Le Seigneur lui dit: Ote tes souliers de tes pieds, car le lieu sur lequel tu te tiens est une terre sainte.</p> <p><sup>34</sup>J'ai vu la souffrance de mon peuple qui est en Égypte, j'ai entendu ses gémissements, et je suis descendu pour le délivrer. Maintenant, va, je t'enverrai en Égypte.</p> <p><sup>35</sup>Ce Moïse, qu'ils avaient renié, en disant: Qui t'a établi chef et juge? c'est lui que Dieu envoya comme chef et comme libérateur avec l'aide de l'ange qui lui était apparu dans le buisson.</p> <p><sup>36</sup>C'est lui qui les fit sortir d'Égypte, en opérant des prodiges et des miracles au pays d'Égypte, au sein de la mer Rouge, et au désert, pendant quarante ans.</p> <p><sup>37</sup>C'est ce Moïse qui dit aux fils d'Israël: Dieu vous suscitera d'entre vos frères un prophète comme moi.</p> <p><sup>38</sup>C'est lui qui, lors de l'assemblée au désert, étant avec l'ange qui lui parlait sur la montagne de Sinaï et avec nos pères, reçut des oracles vivants, pour nous les donner.</p> <p><sup>39</sup>Nos pères ne voulurent pas lui obéir, ils le repoussèrent, et ils tournèrent leur coeur vers l'Égypte,</p> <p><sup>40</sup>en disant à Aaron: Fais-nous des dieux qui marchent devant nous; car ce Moïse qui nous a fait sortir du pays d'Égypte, nous ne savons ce qu'il est devenu.</p> <p><sup>41</sup>Et, en ces jours-là, ils firent un veau, ils offrirent un sacrifice à l'idole, et se réjouirent de l'oeuvre de leurs mains.</p> <p><sup>42</sup>Alors Dieu se détourna, et les livra au culte de l'armée du ciel, selon qu'il est écrit dans le livre des prophètes: M'avez-vous offert des victimes et des sacrifices Pendant quarante ans au désert, maison d'Israël?...</p> <p><sup>43</sup>Vous avez porté la tente de Moloch Et l'étoile du dieu Remphan, Ces images que vous avez faites pour les adorer! Aussi vous transporterai-je au delà de Babylone.</p> <p><sup>44</sup>Nos pères avaient au désert le tabernacle du témoignage, comme l'avait ordonné celui qui dit à Moïse de le faire d'après le modèle qu'il avait vu.</p> <p><sup>45</sup>Et nos pères, l'ayant reçu, l'introduisirent, sous la conduite de Josué, dans le pays qui était possédé par les nations que Dieu chassa devant eux, et il y resta jusqu'aux jours de David.</p> <p><sup>46</sup>David trouva grâce devant Dieu, et demanda d'élever une demeure pour le Dieu de Jacob;</p> <p><sup>47</sup>et ce fut Salomon qui lui bâtit une maison.</p> <p><sup>48</sup>Mais le Très Haut n'habite pas dans ce qui est fait de main d'homme, comme dit le prophète:</p> <p><sup>49</sup>Le ciel est mon trône, Et la terre mon marchepied. Quelle maison me bâtirez-vous, dit le Seigneur, Ou quel sera le lieu de mon repos?</p> <p><sup>50</sup>N'est-ce pas ma main qui a fait toutes ces choses?...</p> <p><sup>51</sup>Hommes au cou raide, incirconcis de coeur et d'oreilles! vous vous opposez toujours au Saint Esprit. Ce que vos pères ont été, vous l'êtes aussi.</p> <p><sup>52</sup>Lequel des prophètes vos pères n'ont-ils pas persécuté? Ils ont tué ceux qui annonçaient d'avance la venue du Juste, que vous avez livré maintenant, et dont vous avez été les meurtriers,</p> <p><sup>53</sup>vous qui avez reçu la loi d'après des commandements d'anges, et qui ne l'avez point gardée!...</p>",
+        "url": "https://biblegateway.com/passage/?search=Actes%207:1-53&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Actes 7:1-53",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_496-Acts7317-0-0",
+        "source": "arclight",
+        "refId": "2_496-Acts7317-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ? Pourquoi ?"
+          },
+          {
+            "text": "À ce niveau de l’histoire, qu’est-ce qui est nouveau ou est développé ?"
+          },
+          {
+            "text": "Quel modèle a été donné quant à la vie dépendante de l’Esprit, faire de disciples ou au leadership ?"
+          },
+          {
+            "text": "Comment pouvons-nous vivre différemment maintenant que nous connaissons cette histoire?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Des questions supplémentaires dont vous pouvez faire usage:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comment les disciples de Jésus poursuivent-ils Son œuvre de faire des disciples et d’implantation d’églises ?"
+          },
+          {
+            "text": "Comment l’évangile impacte-t-il les gens et la société ?"
+          },
+          {
+            "text": "Quels étaient les barrières et les obstacles qui ont été surmontés et comment ont-ils été surmontés ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Nous apprenons au sujet d’un des sept hommes désignés, appelé Étienne. Le ministère d’Étienne était de prendre soin des veuves et de gérer les ressources de l’église. En plus de cela, il annonçait l’évangile avec d’autres Juifs qui parlent grec en visitant les synagogues. L’Esprit a donné le pouvoir à Étienne d’effectuer des miracles et de parler avec sagesse. Il s’agit de la première mention d’un non-apôtre qui faisait le même travail que seuls les Apôtres faisaient. Les Apôtres faisaient des disciples de la génération suivante en suivant ce qu’ils avaient appris de Jésus. Il s’agit d’une réponse à une prière de Jésus pour les Apôtres et pour ceux qui croiraient suite à leur témoignage. ({Jean 17:20}). Le trouble a commencé comme un désaccord théologique, puis est passé à la calomnie (des mensonges à son sujet), à la conspiration et puis à la violence. Les fausses accusations au sujet d’Étienne étaient vraiment sérieuses. En fait, elles étaient les mêmes qui avaient été utilisées contre Jésus. Il s’agissait d’une situation dangereuse, encore que le visage d’Étienne reflétait la paix qui vient de la présence de Jésus.Les Juifs qui parlent grec ont accusé Étienne de parler contre le temple et contre les lois de Moïse. En réponse à ces accusations, Étienne a raconté les histoires de l’Ancien Testament que les leaders religieux connaissaient. Il a souligné que la présence de Dieu n’est pas liée à un seul lieu physique. Même dans l’histoire d’Israël, Dieu les a apparus de Mésopotamie jusqu’en l’Égypte. Il a même souligné que Dieu a appelé une terre qui était en dehors d’Israël la terre sainte! Le témoignage d’Étienne a montré que Dieu a pris l’initiative avec Son peuple tout au long de leur histoire: Il a parlé, Il a envoyé, Il a promis, Il a puni et Il a sauvé. Bien que Dieu avait agi, le peuple a toujours résisté et a même tué les prophètes envoyés par Dieu. Maintenant, Dieu a encore agi en envoyant Jésus. Étienne a terminé son témoignage en soulignant que les leaders religieux ont été coupables de désobéir à Dieu par la trahison et le meurtre de Jésus le Messie.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Jean 17:20",
+                    "label": "Jean 17:20",
+                    "passage": "<p><sup>20</sup>Ce n'est pas pour eux seulement que je prie, mais encore pour ceux qui croiront en moi par leur parole,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratiquez ici la libéralité et la sainte-cène ou dans la section Se préparer pour la mission.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se préparer pour la mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez des gens vers qui ou des endroits où vous pouvez prendre l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez des promesses « Je ferai d’ici quand » et partagez cela avec votre petit groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bénédiction (facultatif)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply312-i-will"
+      }
+    }
+  ]
+}

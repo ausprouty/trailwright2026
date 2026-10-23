@@ -1,0 +1,625 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply112",
+  "sortOrder": 17,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "本课强调福音的大能是出于上帝。上帝自己打开福音的大门，预备和平之子，借着开放家庭，将福音传开；而我们只要配合上帝的工作，相信祂必在人心中动善工。"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向后看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "敬拜赞美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "诗篇9：7-11"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>7</sup>惟耶和华坐著为王，直到永远！他已经为审判设摆他的宝座。<sup>8</sup>他要按公义审判世界，按正直判断万民。<sup>9</sup>耶和华又要给受欺压的人作高台，在患难的时候作高台。<sup>10</sup>耶和华啊，认识你名的人要倚靠你，因你没有离弃寻求你的人。<sup>11</sup>应当歌颂居锡安的耶和华，将他所行的传扬在众民中。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "让我们用诗歌或一起开声赞美神公义的判断，也为我们国家现在的情况祷告在神的面前，相信依靠神的人，神没有离弃他们。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "祷告关怀",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感谢神和需要耶稣为你做的事，并彼此感恩代祷。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "庆贺实践",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"back\">请分享上周你因信靠神而实践“届时我会”的福音行动</li> <li class=\"back\">背诵上周经文（{徒1:8}） </li>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "徒1:8",
+            "label": "徒1:8",
+            "passage": "<p><sup>8</sup>但圣灵降临在你们身上，你们就必得着能力，并要在耶路撒冷、犹太全地和撒马利亚，直到地极，作我的见证。”</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "天父心意",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "耶稣呼召每个人来跟随祂，并且得人如得鱼。由此可见，世界上只有两种人：失丧的人和得救的人。失丧的人需要来跟随耶稣，得救的人需要学习得着那些失丧的人。当你把世人看成两种人，你每天与人的互动就简单多了。遇见失丧的人，你就向他们作见证；遇见得救的人，为他们提供培训，训练他们成为倍增门徒。没有什么比这更简单的了！"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "被主呼召",
+        "level": 2
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "故事背景",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "使{徒行传1:1-8}， 彼得受圣灵引导，去到海边一个名叫凯撒利亚的小镇，那里住着一位罗马军长，名叫哥尼流。他是上帝预备的一位“和平之子”。彼得顺从引导，就前往凯撒利亚去告诉哥尼流关于耶稣的事。 现在一起看看接下来发生的事。",
+                "references": [
+                  {
+                    "id": "popup_pop7",
+                    "marker": "徒行传1:1-8",
+                    "label": "徒行传1:1-8",
+                    "passage": "<h3>应许得圣灵的能力</h3><p><sup>1</sup><u class=\"person underline\">提阿非罗</u>啊，我已经作了前书，论到耶稣开头一切所行所教训的，<sup>2</sup>直到他借着圣灵吩咐所拣选的使徒以后，被接上升的日子为止。<sup>3</sup>他受害之后，用许多的凭据将自己活活地显给使徒看，四十天之久向他们显现，讲说神国的事。<sup>4</sup>耶稣和他们聚集的时候，嘱咐他们说：“不要离开耶路撒冷，要等候父所应许的，就是你们听见我说过的。<sup>5</sup><u class=\"person underline\">约翰</u>是用水施洗，但不多几日，你们要受圣灵的洗。”</p><p><sup>6</sup>他们聚集的时候，问耶稣说：“主啊，你复兴以色列国就在这时候吗？”<sup>7</sup>耶稣对他们说：“父凭着自己的权柄所定的时候、日期，不是你们可以知道的。<sup>8</sup>但圣灵降临在你们身上，你们就必得着能力，并要在耶路撒冷、犹太全地和撒马利亚，直到地极，作我的见证。”</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>阅读经文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "阅读或观看《使徒行传10:24-48》两遍。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "使徒行传10:24-48",
+        "html": "<p><sup>24</sup>又次日，他们进入恺撒利亚。<u class=\"person underline\">哥尼流</u>已经请了他的亲属密友等候他们。<sup>25</sup><u class=\"person underline\">彼得</u>一进去，<u class=\"person underline\">哥尼流</u>就迎接他，俯伏在他脚前拜他。<sup>26</sup><u class=\"person underline\">彼得</u>却拉他，说：“你起来，我也是人。”<sup>27</sup><u class=\"person underline\">彼得</u>和他说着话进去，见有好些人在那里聚集，<sup>28</sup>就对他们说：“你们知道，犹太人和别国的人亲近来往本是不合例的，但神已经指示我，无论什么人都不可看做俗而不洁净的。<sup>29</sup>所以我被请的时候，就不推辞而来。现在请问：你们叫我来有什么意思呢？”<sup>30</sup><u class=\"person underline\">哥尼流</u>说：“前四天这个时候，我在家中守着申初的祷告，忽然有一个人穿着光明的衣裳，站在我面前，<sup>31</sup>说：‘<u class=\"person underline\">哥尼流</u>，你的祷告已蒙垂听，你的周济达到神面前已蒙记念了。<sup>32</sup>你当打发人往约帕去，请那称呼<u class=\"person underline\">彼得</u>的<u class=\"person underline\">西门</u>来，他住在海边一个硝皮匠<u class=\"person underline\">西门</u>的家里。’<sup>33</sup>所以我立时打发人去请你。你来了很好！现今我们都在神面前，要听主所吩咐你的一切话。”</p> <p><sup>34</sup><u class=\"person underline\">彼得</u>就开口说：“我真看出神是不偏待人，<sup>35</sup>原来各国中那敬畏主、行义的人都为主所悦纳。<sup>36</sup>神借着耶稣基督——他是万有的主——传和平的福音，将这道赐给以色列人。<sup>37</sup>这话在<u class=\"person underline\">约翰</u>宣传洗礼以后，从加利利起，传遍了犹太。<sup>38</sup>神怎样以圣灵和能力膏拿撒勒人耶稣，这都是你们知道的。他周流四方，行善事，医好凡被魔鬼压制的人，因为神与他同在。<sup>39</sup>他在犹太人之地并耶路撒冷所行的一切事，有我们作见证。他们竟把他挂在木头上杀了！<sup>40</sup>第三日，神叫他复活，显现出来，<sup>41</sup>不是显现给众人看，乃是显现给神预先所拣选为他作见证的人看，就是我们这些在他从死里复活以后和他同吃同喝的人。<sup>42</sup>他吩咐我们传道给众人，证明他是神所立定的，要做审判活人、死人的主。<sup>43</sup>众先知也为他作见证说：‘凡信他的人，必因他的名得蒙赦罪。’”</p> <p><sup>44</sup><u class=\"person underline\">彼得</u>还说这话的时候，圣灵降在一切听道的人身上。<sup>45</sup>那些奉割礼、和<u class=\"person underline\">彼得</u>同来的信徒，见圣灵的恩赐也浇在外邦人身上，就都稀奇，<sup>46</sup>因听见他们说方言，称赞神为大。<sup>47</sup>于是<u class=\"person underline\">彼得</u>说：“这些人既受了圣灵，与我们一样，谁能禁止用水给他们施洗呢？”<sup>48</sup>就吩咐奉耶稣基督的名给他们施洗。他们又请<u class=\"person underline\">彼得</u>住了几天。</p>",
+        "url": "https://biblegateway.com/passage/?search=使徒行传10:24-48&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "使徒行传10:24-48",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_20615-Acts7328-0-0",
+        "source": "arclight",
+        "refId": "2_20615-Acts7328-0-0",
+        "startTime": "start",
+        "endTime": "3:50",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索与讨论</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "经文中让你印象最深刻的是什么？为什么？"
+                },
+                {
+                  "text": "从这段经文中你对耶稣并祂爱世人的心有什么新的认识？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再读一次这段故事。请小组中一个人口头讲述这故事，并根据需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "小结",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "“和平之子”是与人有好关系的人。我们可以向个人传福音，但我们也把握机会邀请“和平之子”开放他们的家庭，向他们的家人朋友传福音。藉着关系把福音传开的例子，圣经还记载其他类似的例证，如:吕底亚和她一家（{徒16:14-15}）； 腓立比的禁卒和他一家（{徒16:30-33}）； 税吏马太并他的朋友们（{太9:9-10}）。",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "徒16:14-15",
+                    "label": "徒16:14-15",
+                    "passage": "<p><sup>14</sup>有一个卖紫色布匹的妇人，名叫<u class=\"person underline\">吕底亚</u>，是推雅推喇城的人，素来敬拜神。她听见了，主就开导她的心，叫她留心听<u class=\"person underline\">保罗</u>所讲的话。<sup>15</sup>她和她一家既领了洗，便求我们说：“你们若以为我是真信主的，请到我家里来住。”于是强留我们。</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "徒16:30-33",
+                    "label": "徒16:30-33",
+                    "passage": "<p><sup>30</sup>又领他们出来，说：“二位先生，我当怎样行才可以得救？”</p><p><sup>31</sup>他们说：“当信主耶稣，你和你一家都必得救。”<sup>32</sup>他们就把主的道讲给他和他全家的人听。<sup>33</sup>当夜，就在那时候，禁卒把他们带去，洗他们的伤，他和属乎他的人立时都受了洗。</p>"
+                  },
+                  {
+                    "id": "popup_pop5",
+                    "marker": "太9:9-10",
+                    "label": "太9:9-10",
+                    "passage": "<p><sup>9</sup>耶稣从那里往前走，看见一个人，名叫<u class=\"person underline\">马太</u>，坐在税关上，就对他说：“你跟从我来！”他就起来跟从了耶稣。</p><p><sup>10</sup>耶稣在屋里坐席的时候，有好些税吏和罪人来，与耶稣和他的门徒一同坐席。</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "经文背诵",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "马太福音5:9"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "使人和睦的人有福了！因为他们必称为 神的儿子。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "福音预备",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>对群体传福音</strong>"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "我们学习如何在“和平之子”的家中，向一小群人传福音。首先我们需要为“福音性聚会”设定一个主题，并围绕这个“主题”来设计内容。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "“福音性聚会”的四个主要的部分："
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "1) 选择有属灵含义的影片播放"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "2) 播放《耶稣生平》的片段。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "3) 分享个人的见证（我的故事）"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "4) 分享福音，并给人一个祷告接受耶稣的机会"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>组长示范：福音性聚会</strong>"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "接下来，我们以“盼望”作为主题，并按照下面步骤来示范“福音性聚会”的四个部分："
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "1) 播放视频《自由》（Laliberte）"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "2) 播放《耶稣生平》视频（路7:35-50）或《我的最后一天》"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "3) 分享认识基督的个人故事"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "4) 分享福音，给人机会祷告接受基督。（使用四件事流沙或《耶稣生平》的结尾）"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "这个福音性聚会让你印象最深刻的是什么，为什么？"
+                  },
+                  {
+                    "text": "你是否愿意成为“和平之子”举办福音性聚会，让更多亲朋邻舍认识耶稣？为什么？"
+                  },
+                  {
+                    "text": "<strong>小结</strong>"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "“福音性聚会”对那些参加者的生命会有非常大的影响力。除了“盼望”这个主题，其他主题也很有帮助，值得我们使用，例如：爱、饶恕、羞愧感、罪疚、孤单、医治等。因此可以根据福音对象实际的需要，筹划福音活动。"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>如何筹办福音性聚会</strong>"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "我们可以借一些特别的节日（例如：圣诞节、受难节、复活节、感恩节、生日、家庭聚餐、校友聚餐、结婚周年等）来举办“福音性聚会”。在此提供举办“福音性聚会”的三项资源："
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "附录12.1《举办一场福音性聚会》"
+                  },
+                  {
+                    "text": "附录12.2：《如何挑战人举办一场聚会》"
+                  },
+                  {
+                    "text": "附录12.3《筹备清单及聚会主持模板》"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "header",
+              "data": {
+                "text": "小结",
+                "level": 2
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "成功的见证是“靠着圣灵的大能，采取主动，单单传讲基督，并将结果交托给神。”"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "若有人在聚会中决志信主，我们该做什么呢？若想看到倍增，接下来的步骤非常重要。当他们决志信主，就必须在接下来的一两天跟进他们。"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "与这些初信者见面时，可做下列几件事情："
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "1) 与他们一起复习《四件事》或其他福音工具，确认他们接受基督的决定。如果他们不清楚或不确定，就再给他们一次机会接受基督。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "2) 问他们：“还有谁需要听到福音？”请他们写下五位亲友的名字，开始为他们祷告，求神预备传福音的机会"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "3) 让他们知道，你想帮助他们在基督里成长，并邀请他们开始和那些同样在聚会中决志的人，一起读圣经。"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "4) 结束以前，为他们与基督的新关系祷告。"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "祷告并预备你的心，并开放你的家庭/宿舍/办公场所，作为福音性聚会的场所。"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行动",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "计划何时开放你的家庭举办福音性聚会（请阅读附录12.1，附录12.2和附录12.3）。"
+          },
+          {
+            "text": "在《福音行动表》中列下5位你将邀请参加福音性聚会的亲朋邻舍的名单，为他们祷告，求神打开他们的心眼，心被圣灵恩感，愿意来到聚会中。"
+          },
+          {
+            "text": "依照你今天所学到的，写下一个“届时我会”的宣告，并于组内分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在________________（时间/地点）将会__________________（对象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分钟写下你在本课的学习心得，或是你未来一周可能有的其他行动点。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "福音祷告",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "亲爱的天父，感谢祢，我们愿意成为那被祢差遣的人。祈求天父给我们力量和信心，按着祢的心意去行，找到祢为我们所预备的和平之子，将我们所学到的知识、方法付诸于行动，来祝福我们的亲朋邻舍。愿祢祝福这些我们将要举办的福音聚会，让他们也来就近祢、接受祢并经历祢。奉主耶稣的名祷告，阿们。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply112-i-will"
+      }
+    }
+  ]
+}

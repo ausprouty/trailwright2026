@@ -1,0 +1,56 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "jpn",
+  "htmlLang": "ja",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro３",
+  "sortOrder": 26,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"\" src=\"/sites/mc2/content/M2/jpn/multiply3/Trip1.webp\"></span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "第3期：新しい地域への拡大（アンティオキアからの第一回宣教旅行）［西暦46年〜48年］"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "要約",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "この期間は、聖霊に導かれてアンティオキアの教会から送り出された最初の宣教チームの旅を扱っています。この時期の特徴として、奇跡、会堂での教え、迫害、そして新たな共同体における教会の誕生が挙げられます。また、さまざまな背景や状況の中で、どのように弟子づくりが展開していったかの具体例を見ることができます。"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "この期間に書かれた書簡",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "ガラテヤ人への手紙（西暦48年）"
+          }
+        ]
+      }
+    }
+  ]
+}

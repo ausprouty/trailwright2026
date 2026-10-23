@@ -1,0 +1,410 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply112",
+  "sortOrder": 13,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Adoração",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia a Bíblia para fundamentar louvor e adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">Exemplo: Leia {Salmos 9:1-2} e cante 1-2 músicas.</li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Salmos 9:1-2",
+                    "label": "Salmos 9:1-2",
+                    "passage": "<h4 class=\"psalm-title\">Salmo de Davi. Ao regente do coro — com a melodia de “A Morte do Filho”.</h4><p><sup>1</sup>Ó<span class=\"divine-name small-caps\">Senhor Deus, eu te louvarei<br>com todo o coração<br>e contarei todas as coisas<br>maravilhosas que tens feito.<br><sup>2</sup>Por causa de ti eu me alegrarei<br>e ficarei feliz.<br>Cantarei louvores a ti,<br>ó Deus Altíssimo.</span></p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Sirvam uns aos outros através de oração, aconselhamento bíblico e encorajamento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça para cada pessoa compartilhar um ponto alto da semana e explicar um desafio pelo o qual passaram."
+          },
+          {
+            "text": "Pergunte, “O que você gostaria que Jesus fizesse por você esta semana?” Ore pelas necessidades uns dos outros."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pergunte, “O que aconteceu quando você confiou suas metas e suas declarações “Eu vou____” a Deus?”"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Esboce uma visão de quem eles podem se tornar em Cristo e o que Deus pode fazer através deles.</em>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Exemplo: Já que todos são chamados para seguir a Jesus e serem pescadores de homens, devemos perceber que há apenas dois tipos de pessoas no mundo -- perdidos e salvos. Pessoas perdidas precisam seguir a Jesus. Pessoas salvas precisam aprender a pescar os perdidos. Quando você enxerga o mundo como dois tipos de pessoas, suas interações diárias ficam muito mais simples. Se você conhece uma pessoa perdida, seja uma testemunha. Se você conhece uma pessoa salva, ofereça-se para treiná-lo(a). É fácil assim!"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Leia {Atos 10:1-8}. Pedro foi guiado pelo Espírito Santo para ir ao litoral, a uma cidade chamada Cesaréia onde um líder militar Romano chamado Cornélio vivia. Ele era uma Pessoa de Paz preparada por Deus. Pedro obedeceu e viajou até Cesaréia para falar sobre Jesus a Cornélio. Vamos ver o que acontece.",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Atos 10:1-8",
+                    "label": "Atos 10:1-8",
+                    "passage": "<p><sup>1</sup>Na cidade de Cesareia havia um homem chamado Cornélio, que era comandante de um batalhão romano chamado “Batalhão Italiano”.<sup>2</sup>Ele era um homem religioso; ele e todas as pessoas da sua casa adoravam a Deus. Cornélio ajudava muito os judeus pobres e orava sempre a Deus.<sup>3</sup>Um dia, ali pelas três horas da tarde, Cornélio teve uma visão. Ele viu claramente um anjo de Deus, que chegou perto dele e disse:</p><p>— Cornélio!</p><p><sup>4</sup>Ele ficou olhando para o anjo e, com muito medo, perguntou:</p><p>— O que é, senhor?</p><p>O anjo respondeu:</p><p>— Deus aceitou as suas orações e a ajuda que você tem dado aos pobres e ele não esqueceu você.<sup>5</sup>Agora mande alguns homens até a cidade de Jope para buscarem o homem chamado Simão Pedro.<sup>6</sup>Ele está hospedado na casa de outro Simão, um curtidor de couros que mora na beira do mar.</p><p><sup>7</sup>Quando o anjo foi embora, Cornélio imediatamente chamou dois empregados e um soldado que estava a seu serviço e que era um homem religioso.<sup>8</sup>Cornélio contou a eles tudo o que havia acontecido e mandou que fossem a Jope.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista Atos 10:24-35 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Atos 10:24-35",
+        "html": "<p><sup>24</sup>No outro dia chegaram à cidade de Cesareia. Cornélio e os parentes e amigos mais íntimos que ele tinha convidado já estavam esperando Pedro.<sup>25</sup>Quando Pedro ia entrando, Cornélio veio ao seu encontro, ajoelhou-se e curvou a cabeça diante dele.<sup>26</sup>Mas Pedro fez com que ele se levantasse e disse:</p> <p>— Fique de pé, pois eu sou apenas um homem como você.</p> <p><sup>27</sup>Enquanto conversava com Cornélio, Pedro entrou na casa e encontrou muita gente reunida ali.<sup>28</sup>Então disse a todos:</p> <p>— Vocês sabem muito bem que a religião dos judeus não permite que eles façam amizade com não judeus ou entrem nas casas deles. Mas Deus me mostrou que eu não devo chamar ninguém de impuro ou de sujo.<sup>29</sup>Por isso, quando vocês me chamaram, eu vim de boa vontade. Agora quero saber por que foi que vocês mandaram me chamar.</p> <p><sup>30</sup>Cornélio respondeu:</p> <p>— Três dias atrás, às três horas da tarde, eu estava orando aqui em casa. De repente, um homem vestido com roupas brancas apareceu na minha frente<sup>31</sup>e disse: “Cornélio, Deus ouviu as suas orações e lembrou do que você tem feito para ajudar os pobres.<sup>32</sup>Mande alguém até Jope a fim de buscar Simão, que também é chamado de Pedro. Ele está hospedado na casa de Simão, o curtidor, que mora na beira do mar.”<sup>33</sup>Então eu mandei chamar você logo, e você fez muito bem em vir. Agora estamos todos reunidos aqui na presença de Deus, prontos para ouvir o que o Senhor mandou você dizer.</p> <h3>A explicação de Pedro</h3> <p><sup>34</sup>Então Pedro começou a falar. Ele disse:</p> <p>— Agora eu sei que, de fato, Deus trata a todos de modo igual,<sup>35</sup>pois ele aceita todos os que o temem e fazem o que é direito, seja qual for a sua raça.</p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%2010:24-35&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Atos 10:24-35",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7328-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7328-0-0",
+        "startTime": "start",
+        "endTime": "1:46",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Todos contam o que chamou mais a atenção para cada um (ou do que mais gostaram) e porquê."
+          },
+          {
+            "text": "Por que você acha que esta história é importante?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que ouvimos esta história (passagem)?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Pessoas de Paz são pessoas de relacionamentos. Podemos compartilhar o evangelho de forma individual, mas precisamos também procurar por oportunidades de portas abertas para compartilhar com amigos ou familiares de Pessoas de Paz. Outros exemplos do evangelho sendo espalhado através de relacionamentos são o de Lídia e seu lar ({Atos 16:14-15}), o carcereiro e seu lar ({Atos 16:30-33}) e Mateus o coletor de impostos e seus amigos ({Mateus 9:9-10}).",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Atos 16:14-15",
+                    "label": "Atos 16:14-15",
+                    "passage": "<p><sup>14</sup>Uma daquelas mulheres que estavam nos ouvindo era Lídia, uma vendedora de púrpura, da cidade de Tiatira. Ela adorava a Deus, e o Senhor abriu a mente dela para que compreendesse o que Paulo dizia.<sup>15</sup>Ela e as pessoas da sua casa foram batizadas. Depois Lídia nos convidou, dizendo:</p><p>— Venham ficar na minha casa, se é que vocês acham que, de fato, eu creio no Senhor.</p><p>Assim ela nos convenceu a ficar na casa dela.</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Atos 16:30-33",
+                    "label": "Atos 16:30-33",
+                    "passage": "<p><sup>30</sup>Depois levou os dois para fora e perguntou:</p><p>— Senhores, o que devo fazer para ser salvo?</p><p><sup>31</sup>Eles responderam:</p><p>— Creia no Senhor Jesus e você será salvo — você e as pessoas da sua casa.</p><p><sup>32</sup>Então eles anunciaram a palavra do Senhor ao carcereiro e a todas as pessoas da casa dele.<sup>33</sup>Naquela mesma hora da noite, o carcereiro começou a cuidar deles, lavando os ferimentos da surra que haviam levado. Logo depois ele e todas as pessoas da sua casa foram batizados.</p>"
+                  },
+                  {
+                    "id": "popup_pop5",
+                    "marker": "Mateus 9:9-10",
+                    "label": "Mateus 9:9-10",
+                    "passage": "<p><sup>9</sup>Jesus saiu dali e, no caminho, viu um cobrador de impostos, chamado Mateus, sentado no lugar onde os impostos eram pagos. Jesus lhe disse:</p><p>— Venha comigo.</p><p>Mateus se levantou e foi com ele.<sup>10</sup>Mais tarde, enquanto Jesus estava jantando na casa de Mateus, muitos cobradores de impostos e outras pessoas de má fama chegaram e sentaram-se à mesa com Jesus e os seus discípulos.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pratique realizar um evento missional na casa de uma Pessoa de Paz."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Discuta como eles perguntariam a uma Pessoa de Paz para receber o evento em sua casa."
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Discuta como usar vídeos e clipes do Filme JESUS para ter conversas espirituais usando as 2 perguntas padrão."
+                  },
+                  {
+                    "text": "Discuta como dar uma oportunidade para orar."
+                  },
+                  {
+                    "text": "Discuta como acompanhar aqueles que depositaram sua fé em Cristo"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique pelos menos uma Pessoa de Paz que você poderia perguntar para receber um evento missional."
+          },
+          {
+            "text": "Identifique 5 pessoas de sua Lista de Relacionamentos com quem você tomará a iniciativa esta semana e tentará ministrar na vida delas."
+          },
+          {
+            "text": "Escreva suas declarações ‘Eu vou____” e compartilhe-as com seu pequeno grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Entregue as metas de todos ao Senhor. Peça ao Senhor para nos ajudar a sermos fiéis e para nos usar para iniciar um movimento de discipuladores."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply112-i-will"
+      }
+    }
+  ]
+}

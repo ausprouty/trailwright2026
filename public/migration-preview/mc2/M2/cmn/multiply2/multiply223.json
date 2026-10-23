@@ -1,0 +1,400 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply223",
+  "sortOrder": 27,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向后看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "敬拜赞美",
+        "level": 2
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "祷告关怀",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感谢神和需要耶稣为你做的事，并彼此感恩代祷"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "庆贺实践",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li style=\"text-align:justify\"><span><span><span><span lang=\"ZH-CN\">请分享上周你因信靠神忠心地操练和实践基督生命的福音行动</span></span></span></span></li> <li class=\"back\">背诵上周经文（{路5:20}） </li>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "路5:20",
+            "label": "路5:20",
+            "passage": "<p><sup>20</sup>耶稣见他们的信心，就对瘫子说：“你的罪赦了！”</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "天父心意",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "赦罪是耶稣来到世上的使命。人寻求耶稣为要“病得医治”，但主的答应是“罪得赦免”，附带“病得医治”({可5:25})。 因为寻求病得医治，必须先对付自己的罪(参{雅5:16})。 人的肉身舒服了，灵却还不苏醒，不能恢复与神属灵的交通，这仍然没有解决根本问题。因为罪的代价是死，就是灵与神隔绝。神为人所预备的唯一救法，就是借着主耶稣基督，使人恢复与神的关系，得以认识神，因信耶稣而成为神的儿女。",
+        "references": [
+          {
+            "id": "popup_pop2",
+            "marker": "可5:25",
+            "label": "可5:25",
+            "passage": "<p><sup>25</sup>有一个女人患了十二年的血漏，</p>"
+          },
+          {
+            "id": "popup_pop6",
+            "marker": "雅5:16",
+            "label": "雅5:16",
+            "passage": "<p><sup>16</sup>所以你们要彼此认罪，互相代求，使你们可以得医治。义人祈祷所发的力量是大有功效的。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "学像耶稣",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>经文背景</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "税吏，就是征收税项的官员。这职业在当时的犹太社会中是极其遭人鄙夷的。因为罗马帝国幅员广大、人口众多，又没有现在社会那种精确的税制和征税渠道；于是就用了最简单的方法，就是用承包的形式将某地方的征税权判给当地的某人，委任他为税吏，专门负责征收当地的税款。因此，犹太人由衷地讨厌税吏，他们是与敌人（罗马政府）勾结者或者敲诈勒索者，这一类人被视为是不诚实的；一些犹太人的古文献将他们与强盗归在同一类别里。很可能利未（马太）就是当时罗马分封王希律手下的仆役。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>阅读经文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "阅读或观看《路加福音5:27-39》两遍。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "路加福音5:27-39",
+        "html": "<p><sup>27</sup>这事以后，耶稣出去，看见一个税吏，名叫利未，坐在税关上，就对他说：“你跟从我来！”<sup>28</sup>他就撇下所有的，起来，跟从了耶稣。<sup>29</sup>利未在自己家里为耶稣大摆筵席，有许多税吏和别人与他们一同坐席。<sup>30</sup>法利赛人和文士就向耶稣的门徒发怨言说：“你们为什么和税吏并罪人一同吃喝呢？”<sup>31</sup>耶稣对他们说：“无病的人用不着医生，有病的人才用得着；<sup>32</sup>我来本不是召义人悔改，乃是召罪人悔改。”<sup>33</sup>他们说：“约翰的门徒屡次禁食祈祷，法利赛人的门徒也是这样；惟独你的门徒又吃又喝。”<sup>34</sup>耶稣对他们说：“新郎和陪伴之人同在的时候，岂能叫陪伴之人禁食呢？<sup>35</sup>但日子将到，新郎要离开他们，那日他们就要禁食了。”<sup>36</sup>耶稣又设一个比喻，对他们说：“没有人把新衣服撕下一块来补在旧衣服上；若是这样，就把新的撕破了，并且所撕下来的那块新的和旧的也不相称。<sup>37</sup>也没有人把新酒装在旧皮袋里；若是这样，新酒必将皮袋裂开，酒便漏出来，皮袋也就坏了。<sup>38</sup>但新酒必须装在新皮袋里。<sup>39</sup>没有人喝了陈酒又想喝新的，他总说陈的好。</p>",
+        "url": "https://biblegateway.com/passage/?search=路加福音5:27-39&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "路加福音5:27-39",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOLuke2605",
+        "source": "arclight",
+        "refId": "6_20615-GOLuke2605",
+        "startTime": "6:17",
+        "endTime": "8:23",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索与讨论</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "让你印象深刻的经文/部分是什么？为什么？"
+                },
+                {
+                  "text": "在这段经文中，你对耶稣的神性或人性有何认识？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再读一次这段故事。请小组中一个人口头讲述这故事，并根据需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "马太也就是利未，是亚勒腓的儿子。他有钱有势，被罗马政府信任和保护，他的工作是向以色列人收税金。但是身为税吏的他，因此被自己的人民所痛恨。他住在迦百农， 看见也听见耶稣所做的一切。或许他一直在考虑要放弃一切跟随耶稣。我们清楚看见天父不断预备他的心，因为他回应耶稣的呼召，来跟随祂。很快地，他将耶稣介绍给那些税吏朋友认识。耶稣冒着声誉受损的风险，花时间与这群人在一起为要得着他们。祂向这群人彰显特别的恩典，表现出祂的爱。耶稣喜欢人知道祂是罪人的朋友。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小结</strong>"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "（进深学习：{马太福音9:9-17}； {马太福音2:14-22}）",
+                "references": [
+                  {
+                    "id": "popup_pop4",
+                    "marker": "马太福音9:9-17",
+                    "label": "马太福音9:9-17",
+                    "passage": "<h3>马太被召</h3><p><sup>9</sup>耶稣从那里往前走，看见一个人，名叫<u class=\"person underline\">马太</u>，坐在税关上，就对他说：“你跟从我来！”他就起来跟从了耶稣。</p><p><sup>10</sup>耶稣在屋里坐席的时候，有好些税吏和罪人来，与耶稣和他的门徒一同坐席。<sup>11</sup>法利赛人看见，就对耶稣的门徒说：“你们的先生为什么和税吏并罪人一同吃饭呢？”<sup>12</sup>耶稣听见就说：“康健的人用不着医生，有病的人才用得着。<sup>13</sup>经上说：‘我喜爱怜恤，不喜爱祭祀’，这句话的意思你们且去揣摩；我来本不是召义人，乃是召罪人。”</p><p><sup>14</sup>那时，<u class=\"person underline\">约翰</u>的门徒来见耶稣，说：“我们和法利赛人常常禁食，你的门徒倒不禁食，这是为什么呢？”<sup>15</sup>耶稣对他们说：“新郎和陪伴之人同在的时候，陪伴之人岂能哀恸呢？但日子将到，新郎要离开他们，那时候他们就要禁食。<sup>16</sup>没有人把新布补在旧衣服上，因为所补上的反带坏了那衣服，破的就更大了。<sup>17</sup>也没有人把新酒装在旧皮袋里，若是这样，皮袋就裂开，酒漏出来，连皮袋也坏了。唯独把新酒装在新皮袋里，两样就都保全了。”</p>"
+                  },
+                  {
+                    "id": "popup_pop5",
+                    "marker": "马太福音2:14-22",
+                    "label": "马太福音2:14-22",
+                    "passage": "<p><sup>14</sup><u class=\"person underline\">约瑟</u>就起来，夜间带着小孩子和他母亲往埃及去，<sup>15</sup>住在那里，直到<u class=\"person underline\">希律</u>死了。这是要应验主借先知所说的话说：“我从埃及召出我的儿子来。”</p><h3>屠杀男孩</h3><p><sup>16</sup><u class=\"person underline\">希律</u>见自己被博士愚弄，就大大发怒，差人将伯利恒城里并四境所有的男孩，照着他向博士仔细查问的时候，凡两岁以里的都杀尽了。<sup>17</sup>这就应了先知<u class=\"person underline\">耶利米</u>的话说：<sup>18</sup>“在拉玛听见号啕大哭的声音，是<u class=\"person underline\">拉结</u>哭她儿女，不肯受安慰，因为他们都不在了。”</p><p><sup>19</sup><u class=\"person underline\">希律</u>死了以后，有主的使者在埃及向<u class=\"person underline\">约瑟</u>梦中显现，说：<sup>20</sup>“起来！带着小孩子和他母亲往以色列地去，因为要害小孩子性命的人已经死了。”<sup>21</sup><u class=\"person underline\">约瑟</u>就起来，把小孩子和他母亲带到以色列地去。<sup>22</sup>只因听见<u class=\"person underline\">亚基老</u>接着他父亲<u class=\"person underline\">希律</u>做了犹太王，就怕往那里去。又在梦中被主指示，便往加利利境内去了，</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "经文背诵",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "路5:31"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "耶稣对他们说：“无病的人用不着医生，有病的人才用得着；<sup>32</sup>我来本不是召义人悔改，乃是召罪人悔改。”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音预备",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "我们对身边的那些“罪人”持什么心态？你想耶稣会怎么看待他们？我们又该如何与他们相处？"
+          },
+          {
+            "text": "利未跟从耶稣，是决定性的委身。一个富有的税吏（类似今天的国家公务员）跟随了耶稣，他的生活品质可会有巨大的差异！但为了主，他义无反顾。<span lang=\"ZH-CN\">今天耶稣也呼召你来服事祂，你如何看待和衡量你在生活、教会或小组里为耶稣所摆上的一切？是损失还是得着？是喜乐还是埋怨？是感恩还是比较？</span>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行动",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "在人生每个阶段（如：考入大学、留学海外、进入婚姻、工作环境的改变、家庭孩子、照顾年老双亲等），求主耶稣帮助你都以得着和感恩的心态来面对，而不是总回头看自己失去了什么，甚至为自己失去的在他人身上寻找责任。"
+          },
+          {
+            "text": "利未的故事，激励我们与身边的人相处，学习不对任何人抱持成见、不对任何 人绝望、不断定对方是否得救，因为我们相信主若愿意搭救他，圣灵若在他的生命里动工，在信的人，凡事都能。<span lang=\"ZH-CN\">花时间为那些还没信主的亲友祷告，求神施恩怜悯和拯救他们。</span>"
+          },
+          {
+            "text": "为你身边的人祷告，若你心里对他们有任何埋怨、苦毒、不满、怀恨、比较、嫉妒、生气等情绪，将它们交托给主，向主倾心吐意。也求主赦免你，让你经历祂真实的爱与接纳，使你能以基督的心为心，竭力寻求与神与人和好。"
+          },
+          {
+            "text": "依照你今天所学到的，写下一个“届时我会”的宣告，并于组内分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在________________（时间/地点）将会__________________（对象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分钟写下你在本课的学习心得，或是你未来一周可能有的其他行动点。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音祷告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "施恩怜悯我们的主，我们感谢赞美祢！祢说：无病的人用不着医生，有病的人才用得着；祢来本不是召义人悔改，乃是召罪人悔改的。主耶稣啊，祢是监察人心的主，税吏利未听到祢呼召，就甘愿并马上放下一切跟随祢。求主帮助我们的跟随、爱心和服事都是甘心乐意摆上的。当我们以身边的人相处或共事时，有颗谦卑软和的心，因为我们一样都是罪人，都是需要祢拯救并经历救恩丰盛的人。奉主耶稣的圣名祷告，阿们。"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply223-i-will"
+      }
+    }
+  ]
+}

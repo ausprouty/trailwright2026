@@ -1,0 +1,50 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro3",
+  "sortOrder": 26,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"Trip1\" src=\"/sites/mc2/content/M2/fra/multiply3/Trip1.webp\"></span> (1er voyage missionnaire à partir d’Antioche) [46-48 ap. J.-C.]"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Résumé",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Cette période couvre le voyage de la première équipe missionnaire que l'Esprit a envoyée de l'église d'Antioche. Cette période est marquée par les miracles, l'enseignement dans les synagogues, la persécution et l'implantation d'églises au milieu de nouveaux peuples. Nous trouvons dans cette période, des exemples de formation de disciples dans différents contextes et situations."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Les lettres écrites au cours de cette période.",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Galates, 48 ap. J.-C."
+          }
+        ]
+      }
+    }
+  ]
+}

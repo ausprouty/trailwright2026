@@ -1,5 +1,4 @@
-#! npx tsx scripts/migration/json/write-json-export.ts data/sql_exports/myfriends/json_content.json
-
+#! npx tsx scripts/migration/json/write-json-export.ts data/sql_exports/mc2/json_content.json
 
 /**
  * WRITE JSON EXPORT
@@ -15,7 +14,7 @@
  *
  * The script selects the latest version of each logical file,
  * validates its JSON content, and writes it to the appropriate
- * directory under data/processed_json/myfriends/.
+ * directory under data/processed_json/mc2/.
  *
  * USAGE
  * -----
@@ -27,13 +26,13 @@
  *
  * Specifying an input file:
  *
- *   npx tsx scripts/migration/json/write-json-export.ts data/sql_exports/myfriends/json_content.json
+ *   npx tsx scripts/migration/json/write-json-export.ts data/sql_exports/mc2/json_content.json
  *
  * INPUT FILE
  * ----------
  * Default:
  *
- *   data/sql_exports/myfriends/json_content.json
+ *   data/sql_exports/mc2/json_content.json
  *
  * Accepts either:
  *
@@ -67,12 +66,12 @@
  *
  * OUTPUT DIRECTORY
  * ----------------
- *   data/processed_json/myfriends/
+ *   data/processed_json/mc2/
  *
  * Expected structure:
  *
  *   data/processed_json/
- *     myfriends/
+ *     mc2/
  *       AU/
  *         eng/
  *           basics/
@@ -96,7 +95,7 @@
  *
  * Output:
  *
- *   data/processed_json/myfriends/AU/eng/basics/lesson1.json
+ *   data/processed_json/mc2/M2/eng/basics/lesson1.json
  *
  * If the filename does not end in .json, the extension is added.
  * Country, language and folder components are omitted when blank.
@@ -145,8 +144,8 @@
  *
  * LIMITATIONS
  * -----------
- * - Hard-coded to the MyFriends output directory.
- * - Does not support MC2.
+ * - Hard-coded to the output directory.
+ *
  * - Does not provide a --dry-run option.
  * - Does not create backups before overwriting files.
  * - Does not verify the structure of individual lesson JSON.
@@ -207,10 +206,9 @@ type SqlJsonRecord = {
 const PROJECT_ROOT = process.cwd();
 
 const INPUT_FILE =
-  process.argv[2] ||
-  path.join(PROJECT_ROOT, 'data', 'sql_exports', 'myfriends', 'json_content.json');
+  process.argv[2] || path.join(PROJECT_ROOT, 'data', 'sql_exports', 'mc2', 'json_content.json');
 
-const OUTPUT_ROOT = path.join(PROJECT_ROOT, 'data', 'processed_json', 'myfriends');
+const OUTPUT_ROOT = path.join(PROJECT_ROOT, 'data', 'processed_json', 'mc2');
 
 function clean(value: string | null | undefined): string {
   return String(value || '').trim();

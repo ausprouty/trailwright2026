@@ -1,0 +1,407 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply109",
+  "sortOrder": 10,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Adoração",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia a Bíblia para fundamentar louvor e adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">Leia {Romanos 11:33-36} e cante 1-2 músicas.</li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Romanos 11:33-36",
+                    "label": "Romanos 11:33-36",
+                    "passage": "<div><p><sup>33</sup>Como são grandes as riquezas de Deus! Como são profundos o seu conhecimento e a sua sabedoria! Quem pode explicar as suas decisões? Quem pode entender os seus planos?<sup>34</sup>Como dizem as Escrituras Sagradas:</p><p>“Quem pode conhecer a mente do Senhor?<br>Quem é capaz de lhe dar conselhos?<br><sup>35</sup>Quem já deu alguma coisa a Deus<br>para receber dele algum pagamento?”</p></div><p><sup>36</sup>Pois todas as coisas foram criadas por ele, e tudo existe por meio dele e para ele. Glória a Deus para sempre! Amém!</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Sirvam uns aos outros através de oração, aconselhamento bíblico e encorajamento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça para cada pessoa compartilhar um ponto alto da semana e explicar um desafio pelo o qual passaram."
+          },
+          {
+            "text": "Pergunte, “O que você gostaria que Jesus fizesse por você esta semana?” Ore pelas necessidades uns dos outros."
+          },
+          {
+            "text": "Pergunte, “Você conseguiu contar a alguém sobre sua decisão de seguir a Cristo?”"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pergunte, “O que aconteceu quando você confiou suas metas e suas declarações “Eu vou____” a Deus?”"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Esboce uma visão de quem eles podem se tornar em Cristo e o que Deus pode fazer através deles.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Exemplo: Deus transforma vidas e as usa para Sua glória. Um exemplo é a história do homem do oriente médio chamado Adam. Ele foi treinado para ser um mártir por sua religião. Mas tudo isso mudou quando ele dramaticamente conheceu a Cristo. Ele estava tão animado com seu novo relacionamento com Cristo, ele começou a testemunhar para todos que ele conhecia. Apesar de ser perseguido, ele continua a compartilhar o evangelho e continua a treinar outras pessoas. Incentive o grupo com a leitura de {1 Coríntios 1:24-31}.",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Coríntios 1:24-31",
+                    "label": "1 Coríntios 1:24-31",
+                    "passage": "<p><sup>24</sup>Mas para aqueles que Deus tem chamado, tanto judeus como não judeus, Cristo é o poder de Deus e a sabedoria de Deus.<sup>25</sup>Pois aquilo que parece ser a loucura de Deus é mais sábio do que a sabedoria humana, e aquilo que parece ser a fraqueza de Deus é mais forte do que a força humana.</p><p><sup>26</sup>Agora, meus irmãos, lembrem do que vocês eram quando Deus os chamou. Do ponto de vista humano poucos de vocês eram sábios ou poderosos ou de famílias importantes.<sup>27</sup>Para envergonhar os sábios, Deus escolheu aquilo que o mundo acha que é loucura; e, para envergonhar os poderosos, ele escolheu o que o mundo acha fraco.<sup>28</sup>Para destruir o que o mundo pensa que é importante, Deus escolheu aquilo que o mundo despreza, acha humilde e diz que não tem valor.<sup>29</sup>Isso quer dizer que ninguém pode ficar orgulhoso, pois sabe que está sendo visto por Deus.<sup>30</sup>Porém Deus uniu vocês com Cristo Jesus e fez com que Cristo seja a nossa sabedoria. E é por meio de Cristo que somos aceitos por Deus, nos tornamos o povo de Deus e somos salvos.<sup>31</sup>Portanto, como as Escrituras Sagradas dizem: “Quem quiser se orgulhar, que se orgulhe daquilo que o Senhor faz.”</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus desafiou quatro homens a segui-Lo e aprender como ser pescadores de homens. Enquanto Jesus treinava seus seguidores para serem pescadores de homens, ele moldou seis diferentes situações para eles. A última situação era de que um improvável oficial do governo iria se juntar aos quatro homens e se tornar um dos seguidores mais próximos de Jesus."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista Lucas 5:27-32 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 5:27-32",
+        "html": "<h3>Jesus e Levi</h3> <p><sup>27</sup>Depois disso Jesus saiu e viu um cobrador de impostos, chamado Levi, sentado no lugar onde os impostos eram pagos. Jesus lhe disse:</p> <p>— Venha comigo.</p> <p><sup>28</sup>Levi se levantou, deixou tudo e seguiu Jesus.<sup>29</sup>Então Levi fez para Jesus uma grande festa na sua casa. Havia ali muitos cobradores de impostos, e outras pessoas estavam sentadas com eles.<sup>30</sup>Os fariseus e os mestres da Lei, que eram do partido dos fariseus, ficaram zangados com os discípulos de Jesus e perguntaram:</p> <p>— Por que vocês comem e bebem com os cobradores de impostos e com outras pessoas de má fama?</p> <p><sup>31</sup>Jesus respondeu:</p> <p>— Os que têm saúde não precisam de médico, mas sim os doentes.<sup>32</sup>Eu não vim para chamar os bons, mas para chamar os pecadores, a fim de que se arrependam dos seus pecados.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%205:27-32&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lucas 5:27-32",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2605",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2605",
+        "startTime": "6:10",
+        "endTime": "7:25",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Todos contam o que chamou mais a atenção para cada um (ou do que mais gostaram) e porquê."
+          },
+          {
+            "text": "Por que você acha que esta história é importante?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que ouvimos esta história (passagem)?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Leia {Lucas 10:1-11}. Jesus enviou seus seguidores para fazer as mesmas coisas que Ele havia feito: orar pelas pessoas, cuidar de suas necessidades e compartilhando sobre o Reino. Isso pode ser resumido como Orar, Cuidar, Compartilhar. Jesus multiplicou a Si mesmo ao treinar e enviar novos trabalhadores. A Pessoa de Paz é uma Pessoa preparada por Deus que irá receber a você a sua mensagem. Através dessa pessoa, novas portas de relacionamentos se abrirão para que pessoas conheçam o evangelho. Para mais crescimento: Estude o recurso Pessoas de Paz e converse com outro membro do grupo:{Lucas 19:1-10}, {Marcos 5:14-20}, {João 4:1-42}, {Atos 16:13-15}.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Lucas 10:1-11",
+                    "label": "Lucas 10:1-11",
+                    "passage": "<p><sup>1</sup>Depois disso o Senhor escolheu mais setenta e dois dos seus seguidores e os enviou de dois em dois a fim de que fossem adiante dele para cada cidade e lugar aonde ele tinha de ir.<sup>2</sup>Antes de os enviar, ele disse:</p><p>— A colheita é grande, mas os trabalhadores são poucos. Por isso, peçam ao dono da plantação que mande trabalhadores para fazerem a colheita.<sup>3</sup>Vão! Eu estou mandando vocês como ovelhas para o meio de lobos.<sup>4</sup>Não levem bolsa, nem sacola, nem sandálias. E não parem no caminho para cumprimentar ninguém.<sup>5</sup>Quando entrarem numa casa, façam primeiro esta saudação: “Que a paz esteja nesta casa!”<sup>6</sup>Se um homem de paz morar ali, deixem a saudação com ele; mas, se o homem não for de paz, retirem a saudação.<sup>7</sup>Fiquem na mesma casa e comam e bebam o que lhes oferecerem, pois o trabalhador merece o seu salário. Não fiquem mudando de uma casa para outra.</p><p><sup>8</sup>— Quando entrarem numa cidade e forem bem-recebidos, comam a comida que derem a vocês.<sup>9</sup>Curem os doentes daquela cidade e digam ao povo dali: “O Reino de Deus chegou até vocês.”<sup>10</sup>Porém, quando entrarem numa cidade e não forem bem-recebidos, vão pelas ruas, dizendo:<sup>11</sup>“Até a poeira desta cidade que grudou nos nossos pés nós sacudimos contra vocês! Mas lembrem disto: o Reino de Deus chegou até vocês.”</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Lucas 19:1-10",
+                    "label": "Lucas 19:1-10",
+                    "passage": "<p><sup>1</sup>Jesus entrou em Jericó e estava atravessando a cidade.<sup>2</sup>Morava ali um homem rico, chamado Zaqueu, que era chefe dos cobradores de impostos.<sup>3</sup>Ele estava tentando ver quem era Jesus, mas não podia, por causa da multidão, pois Zaqueu era muito baixo.<sup>4</sup>Então correu adiante da multidão e subiu numa figueira brava para ver Jesus, que devia passar por ali.<sup>5</sup>Quando Jesus chegou àquele lugar, olhou para cima e disse a Zaqueu:</p><p>— Zaqueu, desça depressa, pois hoje preciso ficar na sua casa.</p><p><sup>6</sup>Zaqueu desceu depressa e o recebeu na sua casa, com muita alegria.<sup>7</sup>Todos os que viram isso começaram a resmungar:</p><p>— Este homem foi se hospedar na casa de um pecador!</p><p><sup>8</sup>Zaqueu se levantou e disse ao Senhor:</p><p>— Escute, Senhor, eu vou dar a metade dos meus bens aos pobres. E, se roubei alguém, vou devolver quatro vezes mais.</p><p><sup>9</sup>Então Jesus disse:</p><p>— Hoje a salvação entrou nesta casa, pois este homem também é descendente de Abraão.<sup>10</sup>Porque o Filho do Homem veio buscar e salvar quem está perdido.</p>"
+                  },
+                  {
+                    "id": "popup_pop5",
+                    "marker": "Marcos 5:14-20",
+                    "label": "Marcos 5:14-20",
+                    "passage": "<p><sup>14</sup>Os homens que estavam tomando conta dos porcos fugiram e espalharam a notícia na cidade e nos campos. Muita gente foi ver o que havia acontecido.<sup>15</sup>Quando chegaram perto de Jesus, viram o homem que antes estava dominado por demônios; e ficaram espantados porque ele estava sentado, vestido e no seu perfeito juízo.<sup>16</sup>Os que tinham visto tudo aquilo lhes contaram o que havia acontecido com o homem e com os porcos.<sup>17</sup>Então começaram a pedir com insistência a Jesus que saísse da terra deles.<sup>18</sup>Quando ele estava entrando no barco, o homem curado pediu com insistência:</p><p>— Me deixe ir com o senhor!</p><p><sup>19</sup>Mas Jesus não deixou e disse:</p><p>— Volte para casa e conte aos seus parentes o que o Senhor lhe fez e como ele foi bom para você.</p><p><sup>20</sup>Então ele foi embora e contava, na região das Dez Cidades, o que Jesus tinha feito por ele. E todos ficavam admirados.</p>"
+                  },
+                  {
+                    "id": "popup_pop6",
+                    "marker": "João 4:1-42",
+                    "label": "João 4:1-42",
+                    "passage": "<p><sup>1</sup>Os fariseus ouviram dizer que Jesus estava ganhando mais discípulos e batizava mais pessoas do que João.<sup>2</sup>(De fato, não era Jesus quem batizava, e sim os seus discípulos.)<sup>3</sup>Quando Jesus ficou sabendo disso, saiu da Judeia e voltou para a Galileia.<sup>4</sup>No caminho, ele tinha de passar pela região da Samaria.</p><p><sup>5</sup>Ele chegou a uma cidade da Samaria, chamada Sicar, que ficava perto das terras que Jacó tinha dado ao seu filho José.<sup>6</sup>Ali ficava o poço de Jacó. Era mais ou menos meio-dia quando Jesus, cansado da viagem, sentou-se perto do poço.</p><p><sup>7</sup>Uma mulher samaritana veio tirar água, e Jesus lhe disse:</p><p>— Por favor, me dê um pouco de água.</p><p><sup>8</sup>(Os discípulos de Jesus tinham ido até a cidade comprar comida.)</p><p><sup>9</sup>A mulher respondeu:</p><p>— O senhor é judeu, e eu sou samaritana. Então como é que o senhor me pede água? (Ela disse isso porque os judeus não se dão com os samaritanos.)</p><p><sup>10</sup>Então Jesus disse:</p><p>— Se você soubesse o que Deus pode dar e quem é que está lhe pedindo água, você pediria, e ele lhe daria a água da vida.</p><p><sup>11</sup>Ela respondeu:</p><p>— O senhor não tem balde para tirar água, e o poço é fundo. Como é que vai conseguir essa água da vida?<sup>12</sup>Nosso antepassado Jacó nos deu este poço. Ele, os seus filhos e os seus animais beberam água daqui. Será que o senhor é mais importante do que Jacó?</p><p><sup>13</sup>Então Jesus disse:</p><p>— Quem beber desta água terá sede de novo,<sup>14</sup>mas a pessoa que beber da água que eu lhe der nunca mais terá sede. Porque a água que eu lhe der se tornará nela uma fonte de água que dará vida eterna.</p><p><sup>15</sup>Então a mulher pediu:</p><p>— Por favor, me dê dessa água! Assim eu nunca mais terei sede e não precisarei mais vir aqui buscar água.</p><p><sup>16</sup>— Vá chamar o seu marido e volte aqui! — ordenou Jesus.</p><p><sup>17</sup>— Eu não tenho marido! — respondeu a mulher.</p><p>Então Jesus disse:</p><p>— Você está certa ao dizer que não tem marido,<sup>18</sup>pois já teve cinco, e este que você tem agora não é, de fato, seu marido. Sim, você falou a verdade.</p><p><sup>19</sup>A mulher respondeu:</p><p>— Agora eu sei que o senhor é um profeta!<sup>20</sup>Os nossos antepassados adoravam a Deus neste monte, mas vocês, judeus, dizem que Jerusalém é o lugar onde devemos adorá-lo.</p><p><sup>21</sup>Jesus disse:</p><p>— Mulher, creia no que eu digo: chegará o tempo em que ninguém vai adorar a Deus nem neste monte nem em Jerusalém.<sup>22</sup>Vocês, samaritanos, não sabem o que adoram, mas nós sabemos o que adoramos porque a salvação vem dos judeus.<sup>23</sup>Mas virá o tempo, e, de fato, já chegou, em que os verdadeiros adoradores vão adorar o Pai em espírito e em verdade. Pois são esses que o Pai quer que o adorem.<sup>24</sup>Deus é Espírito, e por isso os que o adoram devem adorá-lo em espírito e em verdade.</p><p><sup>25</sup>A mulher respondeu:</p><p>— Eu sei que o Messias, chamado Cristo, tem de vir. E, quando ele vier, vai explicar tudo para nós.</p><p><sup>26</sup>Então Jesus afirmou:</p><p>— Pois eu, que estou falando com você, sou o Messias.</p><p><sup>27</sup>Naquele momento chegaram os seus discípulos e ficaram admirados, pois ele estava conversando com uma mulher. Mas nenhum deles perguntou à mulher o que ela queria. E também não perguntaram a Jesus por que motivo ele estava falando com ela.</p><p><sup>28</sup>Em seguida, a mulher deixou ali o seu pote, voltou até a cidade e disse a todas as pessoas:</p><p><sup>29</sup>— Venham ver o homem que disse tudo o que eu tenho feito. Será que ele é o Messias?</p><p><sup>30</sup>Muitas pessoas saíram da cidade e foram para o lugar onde Jesus estava.</p><p><sup>31</sup>Enquanto isso, os discípulos pediam a Jesus:</p><p>— Mestre, coma alguma coisa!</p><p><sup>32</sup>Jesus respondeu:</p><p>— Eu tenho para comer uma comida que vocês não conhecem.</p><p><sup>33</sup>Então os discípulos começaram a perguntar uns aos outros:</p><p>— Será que alguém já trouxe comida para ele?</p><p><sup>34</sup>— A minha comida — disse Jesus — é fazer a vontade daquele que me enviou e terminar o trabalho que ele me deu para fazer.<sup>35</sup>Vocês costumam dizer: “Daqui a quatro meses teremos a colheita.” Mas olhem e vejam bem os campos: o que foi plantado já está maduro e pronto para a colheita.<sup>36</sup>Quem colhe recebe o seu salário, e o resultado do seu trabalho é a vida eterna para as pessoas. E assim tanto o que semeia como o que colhe se alegrarão juntos.<sup>37</sup>Porque é verdade o que dizem: “Um semeia, e outro colhe.”<sup>38</sup>Eu mandei vocês colherem onde não trabalharam; outros trabalharam ali, e vocês aproveitaram o trabalho deles.</p><p><sup>39</sup>Muitos samaritanos daquela cidade creram em Jesus porque a mulher tinha dito: “Ele me disse tudo o que eu tenho feito.”<sup>40</sup>Quando os samaritanos chegaram ao lugar onde Jesus estava, pediram a ele que ficasse com eles, e Jesus ficou ali dois dias.</p><p><sup>41</sup>E muitos outros creram por causa da mensagem dele.<sup>42</sup>Eles diziam à mulher:</p><p>— Agora não é mais por causa do que você disse que nós cremos, mas porque nós mesmos o ouvimos falar. E sabemos que ele é, de fato, o Salvador do mundo.</p>"
+                  },
+                  {
+                    "id": "popup_pop7",
+                    "marker": "Atos 16:13-15",
+                    "label": "Atos 16:13-15",
+                    "passage": "<p><sup>13</sup>No sábado saímos da cidade e fomos para a beira do rio, pois pensávamos que ali devia haver um lugar de oração para os judeus. Sentamos e começamos a conversar com as mulheres que estavam reunidas lá.<sup>14</sup>Uma daquelas mulheres que estavam nos ouvindo era Lídia, uma vendedora de púrpura, da cidade de Tiatira. Ela adorava a Deus, e o Senhor abriu a mente dela para que compreendesse o que Paulo dizia.<sup>15</sup>Ela e as pessoas da sua casa foram batizadas. Depois Lídia nos convidou, dizendo:</p><p>— Venham ficar na minha casa, se é que vocês acham que, de fato, eu creio no Senhor.</p><p>Assim ela nos convenceu a ficar na casa dela.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Praticar compartilhar o evangelho"
+                  },
+                  {
+                    "text": "Lembre-os do que fazer quando alguém diz SIM ao evangelho."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique 5 pessoas de sua Lista de Relacionamentos com quem você possa compartilhar esta história ou o evangelho esta semana."
+          },
+          {
+            "text": "Escreva suas declarações “Eu vou_____” e compartilhe-as com seu grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Entregue as metas de todos ao Senhor. Peça ao Senhor para nos ajudar a sermos fiéis e para nos usar para iniciar um movimento de discipuladores."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply109-i-will"
+      }
+    }
+  ]
+}

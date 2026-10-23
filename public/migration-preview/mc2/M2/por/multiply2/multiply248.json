@@ -1,0 +1,464 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply248",
+  "sortOrder": 53,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louvar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia uma passagem das Escrituras e louvem com uma canção de adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">(Opcional) Jesus Cristo é o Senhor, para a gloria de Deus Pai. Ele deseja que todos os homens sejam salvos e cheguem ao pleno conhecimento da verdade. Porque há um só Deus e um único mediador entre Deus e os homens, o homem Jesus Cristo, que a si mesmo se entregou como resgate por todos. ({Filipenses 2:11}; {1 Timóteo 2:4-6}) </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>e declarem abertamente<br>que Jesus Cristo é o Senhor,<br>para a glória de Deus, o Pai.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timóteo 2:4-6",
+                    "label": "1 Timóteo 2:4-6",
+                    "passage": "<p><sup>4</sup>Ele quer que todos sejam salvos e venham a conhecer a verdade.</p><p><sup>5</sup>Pois existe um só Deus e uma só pessoa que une Deus com os seres humanos — o ser humano Cristo Jesus,<sup>6</sup>que deu a sua vida para que todos fiquem livres dos seus pecados. Esta foi a prova, dada no tempo certo, de que Deus quer que todos sejam salvos.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar sobre as necessidades dos demais em oração, conselho bíblico e ânimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça a cada pessoa que compartilhe acontecimento especial e um desafio que tenha experimentado nesta semana."
+          },
+          {
+            "text": "Pergunte: \"O que você deseja que Jesus faça por você nesta semana? Ore pelas necessidades dos demais."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<span style=\"background-color:white\"><span lang=\"PT-BR\">Pergunte: \"O que aconteceu quando você confiou em Deus sobre suas metas e suas declarações: Eu farei.... no dia......?\"</span></span>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Escolha uma maneira de dar a visão de quem eles podem chegar a ser em Cristo e o que Deus pode fazer através deles ao:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartilhar um versículo Bíblico que os faça lembrar o Coração do Pai e a visão final, ou"
+                  },
+                  {
+                    "text": "Refletir sobre as mudanças que aconteceram em suas vidas desde que começaram a seguir a Cristo, ou"
+                  },
+                  {
+                    "text": "recordar o que Deus quer fazer através deles."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Compartilhe a GRANDE visão de \"Uma igreja para cada cidade e comunidade, e o evangelho para cada pessoa”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Peça ao grupo que conte a história da semana passada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista João 14:1-31; Mateus 26:36-46 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "João 14",
+        "html": "<h3>Jesus, o caminho para o Pai</h3> <p><sup>1</sup>Jesus disse:</p> <p>— Não fiquem aflitos. Creiam em Deus e creiam também em mim.<sup>2</sup>Na casa do meu Pai há muitos quartos, e eu vou preparar um lugar para vocês. Se não fosse assim, eu já lhes teria dito.<sup>3</sup>E, depois que eu for e preparar um lugar para vocês, voltarei e os levarei comigo para que onde eu estiver vocês estejam também.<sup>4</sup>E vocês conhecem o caminho para o lugar aonde eu vou.</p> <p><sup>5</sup>Então Tomé perguntou:</p> <p>— Senhor, nós não sabemos aonde é que o senhor vai. Como podemos saber o caminho?</p> <p><sup>6</sup>Jesus respondeu:</p> <p>— Eu sou o caminho, a verdade e a vida; ninguém pode chegar até o Pai a não ser por mim.<sup>7</sup>Agora que vocês me conhecem, conhecerão também o meu Pai. E desde agora vocês o conhecem e o têm visto.</p> <p><sup>8</sup>Filipe disse a Jesus:</p> <p>— Senhor, mostre-nos o Pai, e assim não precisaremos de mais nada.</p> <p><sup>9</sup>Jesus respondeu:</p> <p>— Faz tanto tempo que estou com vocês, Filipe, e você ainda não me conhece? Quem me vê vê também o Pai. Por que é que você diz: “Mostre-nos o Pai”?<sup>10</sup>Será que você não crê que eu estou no Pai e que o Pai está em mim?</p> <p>Então Jesus disse aos discípulos:</p> <p>— O que eu digo a vocês não digo em meu próprio nome; o Pai, que está em mim, é quem faz o seu trabalho.<sup>11</sup>Creiam no que lhes digo: eu estou no Pai e o Pai está em mim. Se vocês não creem por causa das minhas palavras, creiam pelo menos por causa das coisas que eu faço.<sup>12</sup>Eu afirmo a vocês que isto é verdade: quem crê em mim fará as coisas que eu faço e até maiores do que estas, pois eu vou para o meu Pai.<sup>13</sup>E tudo o que vocês pedirem em meu nome eu farei, a fim de que o Filho revele a natureza gloriosa do Pai.<sup>14</sup>Eu farei qualquer coisa que vocês me pedirem em meu nome.</p> <h3>Jesus promete o Espírito Santo</h3> <p><sup>15</sup>Jesus continuou:</p> <p>— Se vocês me amam, obedeçam aos meus mandamentos.<sup>16</sup>Eu pedirei ao Pai, e ele lhes dará outro Auxiliador, o Espírito da verdade, para ficar com vocês para sempre.<sup>17</sup>O mundo não pode receber esse Espírito porque não o pode ver, nem conhecer. Mas vocês o conhecem porque ele está com vocês e viverá em vocês.</p> <p><sup>18</sup>— Não vou deixá-los abandonados, mas voltarei para ficar com vocês.<sup>19</sup>Daqui a pouco o mundo não me verá mais, mas vocês me verão. E, porque eu vivo, vocês também viverão.<sup>20</sup>Quando chegar aquele dia, vocês ficarão sabendo que eu estou no meu Pai e que vocês estão em mim, assim como eu estou em vocês.</p> <p><sup>21</sup>— A pessoa que aceita e obedece aos meus mandamentos prova que me ama. E a pessoa que me ama será amada pelo meu Pai, e eu também a amarei e lhe mostrarei quem sou.</p> <p><sup>22</sup>Então Judas, não o Judas Iscariotes, perguntou:</p> <p>— Senhor, como será possível que o senhor mostre somente a nós e não ao mundo quem o senhor é?</p> <p><sup>23</sup>Jesus respondeu:</p> <p>— A pessoa que me ama obedecerá à minha mensagem, e o meu Pai a amará. E o meu Pai e eu viremos viver com ela.<sup>24</sup>A pessoa que não me ama não obedece à minha mensagem. E a mensagem que vocês estão escutando não é minha, mas do Pai, que me enviou.</p> <p><sup>25</sup>— Tenho dito isso enquanto estou com vocês.<sup>26</sup>Mas o Auxiliador, o Espírito Santo, que o Pai vai enviar em meu nome, ensinará a vocês todas as coisas e fará com que lembrem de tudo o que eu disse a vocês.</p> <p><sup>27</sup>— Deixo com vocês a paz. É a minha paz que eu lhes dou; não lhes dou a paz como o mundo a dá. Não fiquem aflitos, nem tenham medo.<sup>28</sup>Vocês ouviram o que eu disse: “Eu vou, mas voltarei para ficar com vocês.” Se vocês me amassem, ficariam alegres, sabendo que vou para o Pai, pois o Pai é mais poderoso do que eu.<sup>29</sup>Digo isso agora, antes que essas coisas aconteçam, para que, quando acontecerem, vocês creiam.<sup>30</sup>Não posso continuar a falar com vocês por muito tempo, pois está chegando aquele que manda neste mundo. Ele não tem poder sobre mim;<sup>31</sup>mas o mundo precisa saber que eu amo o Pai e que, por isso, faço tudo o que ele manda.</p> <p>— Levantem-se, vamos sair daqui!</p>",
+        "url": "https://biblegateway.com/passage/?search=John%2014:1-31&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "João 14",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2215",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2215",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Mateus 26:36-46",
+        "html": "<h3>Jesus no jardim do Getsêmani</h3> <p><sup>36</sup>Jesus foi com os discípulos para um lugar chamado Getsêmani e lhes disse:</p> <p>— Sentem-se aqui, enquanto eu vou ali orar.</p> <p><sup>37</sup>Então Jesus foi, levando consigo Pedro e os dois filhos de Zebedeu. Aí ele começou a sentir uma grande tristeza e aflição<sup>38</sup>e disse a eles:</p> <p>— A tristeza que estou sentindo é tão grande, que é capaz de me matar. Fiquem aqui vigiando comigo.</p> <p><sup>39</sup>Ele foi um pouco mais adiante, ajoelhou-se, encostou o rosto no chão e orou:</p> <p>— Meu Pai, se é possível, afasta de mim este cálice de sofrimento! Porém que não seja feito o que eu quero, mas o que tu queres.</p> <p><sup>40</sup>Depois voltou e encontrou os três discípulos dormindo. Então disse a Pedro:</p> <p>— Será que vocês não podem vigiar comigo nem uma hora?<sup>41</sup>Vigiem e orem para que não sejam tentados. É fácil querer resistir à tentação; o difícil mesmo é conseguir.</p> <p><sup>42</sup>Pela segunda vez Jesus foi e orou, dizendo:</p> <p>— Meu Pai, se este cálice de sofrimento não pode ser afastado de mim sem que eu o beba, então que seja feita a tua vontade.</p> <p><sup>43</sup>Ele voltou de novo e encontrou os discípulos dormindo. Eles estavam com sono e não conseguiam ficar com os olhos abertos.</p> <p><sup>44</sup>Jesus tornou a sair de perto deles e orou pela terceira vez, dizendo as mesmas palavras.<sup>45</sup>Então voltou até onde os discípulos estavam e perguntou:</p> <p>— Vocês ainda estão dormindo e descansando? Olhem! Chegou a hora, e o Filho do Homem está sendo entregue nas mãos dos maus.<sup>46</sup>Levantem-se, e vamos embora. Vejam! Aí vem chegando o homem que está me traindo!</p>",
+        "url": "https://biblegateway.com/passage/?search=Matt%2026:36-46&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Mateus 26:36-46",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOMatt2522",
+        "source": "arclight",
+        "refId": "6_529-GOMatt2522",
+        "startTime": "start",
+        "endTime": "1:55",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que te chamou a atenção ou o que você mais gostou? Por quê?"
+          },
+          {
+            "text": "Existe algo novo ou algo que tenha desenvolvido até este ponto da história de Jesus?"
+          },
+          {
+            "text": "O que aprendemos sobre a humanidade ou a divindade de Jesus nessa passagem?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que conhecemos essa história?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Perguntas adicionais que você pode usar:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que estão aprendendo seus seguidores?"
+          },
+          {
+            "text": "O que Jesus está modelando sobre a vida, o ministério e a liderança piedosa?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus passou os últimos anos ensinando sobre a vida no Reino de Deus e como o Reino de Deus se parece. Durante essa última noite juntos, Ele oferece um ensinamento adicional sobre Sua partida e o presente do Espírito que virá auxiliá-los no caminho do Reino. Ainda há uma confusão sobre o que está para acontecer nas próximas horas mas Jesus esclarece que Ele é Deus em forma humana. Jesus é nosso modelo perfeito para vida e ministério. Entendemos Deus porque Ele é revelado através da vida de Jesus. Jesus realizou Sua obras através do Pai e iremos realizar o mesmo trabalho de criador de discípulos como Ele fez pelo poder de Seu Espírito. Jesus também modela a liderança que se submete ao Pai e faz Sua vontade através de Seu poder. Jesus os lembra das fundações da dependência do Espírito Santo, Oração e Obediência aos planos do Reino de Deus, a prioridade da Palavra de Deus incluindo as palavras do próprio Jesus. Exaltando o Pai e relacionamento de amor e sacrifício intencionais."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Para Estudo Adicional: <a href=\"javascript:popUp('pop3')\">Lucas 22:39-46</a>; <a href=\"javascript:popUp('pop4')\">Marcos 14:32-42</a>",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratique ofertar e a comunhão aqui ou na sessão Preparar para a Missão.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pratique as habilidades necessárias ou assuntos prévios para te ajudar a preparar-se para ministrar aos demais:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar e Compartilhar"
+                  },
+                  {
+                    "text": "Compartilhar o Evangelho"
+                  },
+                  {
+                    "text": "Estudos Bíblicos Fundamentais"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique pessoas ou lugares onde tomará a iniciativa de ministrar nessa semana."
+          },
+          {
+            "text": "Escreva suas declarações de “Eu farei........ no dia ........” e compartilhe em seu pequeno grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Apresente as metas de todos ao Senhor. Peça ao Senhor que nos ajude a ser fiéis e que Ele nos use para iniciar um movimento de fazedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benção (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply248-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply350",
+  "sortOrder": 56,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lisez un passage biblique et exécutez un chant d’adoration.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Facultatif) Jésus-Christ est Seigneur, à la gloire de Dieu le Père ; qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité. Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus-Christ homme, qui s’est donné lui-même en rançon pour tous. ({Philippiens 2:11}; {1 Timothée 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippiens 2:11",
+                    "label": "Philippiens 2:11",
+                    "passage": "<p><sup>11</sup>et que toute langue confesse que Jésus Christ est Seigneur, à la gloire de Dieu le Père.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timothée 2:4-6",
+                    "label": "1 Timothée 2:4-6",
+                    "passage": "<p><sup>4</sup>qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité.</p><p><sup>5</sup>Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus Christ homme,</p><p><sup>6</sup>qui s'est donné lui-même en rançon pour tous. C'est là le témoignage rendu en son propre temps,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation et encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Trouvez un moyen de projeter une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "un passage qui leur rappelle le cœur du Père et de la vision final."
+                  },
+                  {
+                    "text": "réfléchir sur des changements intervenus dans leur vie depuis qu’ils ont commencé à suivre Christ"
+                  },
+                  {
+                    "text": "leur rappeler ce que Dieu veut faire à travers eux"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Partagez la GRANDE vision</strong> <em>« une église pour chaque village et communauté, l’évangile pour chaque personne ».</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexte",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Demandez au groupe de raconter l’histoire de la semaine passée."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lisez",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Actes 25:23-26:32 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Actes 25:23-26:32",
+        "html": "<div> <div> <div> <div> <div> <div> <p><sup>23</sup>Le lendemain donc, Agrippa et Bérénice vinrent en grande pompe, et entrèrent dans le lieu de l'audience avec les tribuns et les principaux de la ville. Sur l'ordre de Festus, Paul fut amené.</p> <p><sup>24</sup>Alors Festus dit: Roi Agrippa, et vous tous qui êtes présents avec nous, vous voyez cet homme au sujet duquel toute la multitude des Juifs s'est adressée à moi, soit à Jérusalem, soit ici, en s'écriant qu'il ne devait plus vivre.</p> <p><sup>25</sup>Pour moi, ayant reconnu qu'il n'a rien fait qui mérite la mort, et lui-même en ayant appelé à l'empereur, j'ai résolu de le faire partir.</p> <p><sup>26</sup>Je n'ai rien de certain à écrire à l'empereur sur son compte; c'est pourquoi je l'ai fait paraître devant vous, et surtout devant toi, roi Agrippa, afin de savoir qu'écrire, après qu'il aura été examiné.</p> <p><sup>27</sup>Car il me semble absurde d'envoyer un prisonnier sans indiquer de quoi on l'accuse.</p> <p><sup>1</sup>Agrippa dit à Paul: Il t'est permis de parler pour ta défense. Et Paul, ayant étendu la main, se justifia en ces termes:</p> <p><sup>2</sup>Je m'estime heureux, roi Agrippa, d'avoir aujourd'hui à me justifier devant toi de toutes les choses dont je suis accusé par les Juifs,</p> <p><sup>3</sup>car tu connais parfaitement leurs coutumes et leurs discussions. Je te prie donc de m'écouter avec patience.</p> <p><sup>4</sup>Ma vie, dès les premiers temps de ma jeunesse, est connue de tous les Juifs, puisqu'elle s'est passée à Jérusalem, au milieu de ma nation.</p> <p><sup>5</sup>Ils savent depuis longtemps, s'ils veulent le déclarer, que j'ai vécu pharisien, selon la secte la plus rigide de notre religion.</p> <p><sup>6</sup>Et maintenant, je suis mis en jugement parce que j'espère l'accomplissement de la promesse que Dieu a faite à nos pères,</p> <p><sup>7</sup>et à laquelle aspirent nos douze tribus, qui servent Dieu continuellement nuit et jour. C'est pour cette espérance, ô roi, que je suis accusé par des Juifs!</p> <p><sup>8</sup>Quoi! vous semble-t-il incroyable que Dieu ressuscite les morts?</p> <p><sup>9</sup>Pour moi, j'avais cru devoir agir vigoureusement contre le nom de Jésus de Nazareth.</p> <p><sup>10</sup>C'est ce que j'ai fait à Jérusalem. J'ai jeté en prison plusieurs des saints, ayant reçu ce pouvoir des principaux sacrificateurs, et, quand on les mettait à mort, je joignais mon suffrage à celui des autres.</p> <p><sup>11</sup>je les ai souvent châtiés dans toutes les synagogues, et je les forçais à blasphémer. Dans mes excès de fureur contre eux, je les persécutais même jusque dans les villes étrangères.</p> <p><sup>12</sup>C'est dans ce but que je me rendis à Damas, avec l'autorisation et la permission des principaux sacrificateurs.</p> <p><sup>13</sup>Vers le milieu du jour, ô roi, je vis en chemin resplendir autour de moi et de mes compagnons une lumière venant du ciel, et dont l'éclat surpassait celui du soleil.</p> <p><sup>14</sup>Nous tombâmes tous par terre, et j'entendis une voix qui me disait en langue hébraïque: Saul, Saul, pourquoi me persécutes-tu? Il te serait dur de regimber contre les aiguillons.</p> <p><sup>15</sup>Je répondis: Qui es-tu, Seigneur? Et le Seigneur dit: Je suis Jésus que tu persécutes.</p> <p><sup>16</sup>Mais lève-toi, et tiens-toi sur tes pieds; car je te suis apparu pour t'établir ministre et témoin des choses que tu as vues et de celles pour lesquelles je t'apparaîtrai.</p> <p><sup>17</sup>Je t'ai choisi du milieu de ce peuple et du milieu des païens, vers qui je t'envoie,</p> <p><sup>18</sup>afin que tu leur ouvres les yeux, pour qu'ils passent des ténèbres à la lumière et de la puissance de Satan à Dieu, pour qu'ils reçoivent, par la foi en moi, le pardon des péchés et l'héritage avec les sanctifiés.</p> <p><sup>19</sup>En conséquence, roi Agrippa, je n'ai point résisté à la vision céleste:</p> <p><sup>20</sup>à ceux de Damas d'abord, puis à Jérusalem, dans toute la Judée, et chez les païens, j'ai prêché la repentance et la conversion à Dieu, avec la pratique d'oeuvres dignes de la repentance.</p> <p><sup>21</sup>Voilà pourquoi les Juifs se sont saisis de moi dans le temple, et ont tâché de me faire périr.</p> <p><sup>22</sup>Mais, grâce au secours de Dieu, j'ai subsisté jusqu'à ce jour, rendant témoignage devant les petits et les grands, sans m'écarter en rien de ce que les prophètes et Moïse ont déclaré devoir arriver,</p> <p><sup>23</sup>savoir que le Christ souffrirait, et que, ressuscité le premier d'entre les morts, il annoncerait la lumière au peuple et aux nations.</p> <p><sup>24</sup>Comme il parlait ainsi pour sa justification, Festus dit à haute voix: Tu es fou, Paul! Ton grand savoir te fait déraisonner.</p> <p><sup>25</sup>Je ne suis point fou, très excellent Festus, répliqua Paul; ce sont, au contraire, des paroles de vérité et de bon sens que je prononce.</p> <p><sup>26</sup>Le roi est instruit de ces choses, et je lui en parle librement; car je suis persuadé qu'il n'en ignore aucune, puisque ce n'est pas en cachette qu'elles se sont passées.</p> <p><sup>27</sup>Crois-tu aux prophètes, roi Agrippa?... Je sais que tu y crois.</p> <p><sup>28</sup>Et Agrippa dit à Paul: Tu vas bientôt me persuader de devenir chrétien!</p> <p><sup>29</sup>Paul répondit: Que ce soit bientôt ou que ce soit tard, plaise à Dieu que non seulement toi, mais encore tous ceux qui m'écoutent aujourd'hui, vous deveniez tels que je suis, à l'exception de ces liens!</p> <p><sup>30</sup>Le roi, le gouverneur, Bérénice, et tous ceux qui étaient assis avec eux se levèrent,</p> <p><sup>31</sup>et, en se retirant, ils se disaient les uns aux autres: Cet homme n'a rien fait qui mérite la mort ou la prison.</p> <p><sup>32</sup>Et Agrippa dit à Festus: Cet homme pouvait être relâché, s'il n'en eût pas appelé à César.</p> </div> </div> </div> </div> </div> </div>",
+        "url": "https://biblegateway.com/passage/?search=Actes%2025:23-26:32&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Actes 25:23-26:32",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_496-Acts7367-0-0",
+        "source": "arclight",
+        "refId": "2_496-Acts7367-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ? Pourquoi ?"
+          },
+          {
+            "text": "À ce niveau de l’histoire, qu’est-ce qui est nouveau ou est développé ?"
+          },
+          {
+            "text": "Quel modèle a été donné quant à la vie dépendante de l’Esprit, faire de disciples ou au leadership ?"
+          },
+          {
+            "text": "Comment pouvons-nous vivre différemment maintenant que nous connaissons cette histoire?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Des questions supplémentaires dont vous pouvez faire usage:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comment les disciples de Jésus poursuivent-ils Son œuvre de faire des disciples et d’implantation d’églises ?"
+          },
+          {
+            "text": "Comment l’évangile impacte-t-il les gens et la société ?"
+          },
+          {
+            "text": "Quels étaient les barrières et les obstacles qui ont été surmontés et comment ont-ils été surmontés ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Une fois de plus, Paul présente sa défense. C’est la version la plus longue enregistrée. Paul parle devant le roi provincial juif Agrippa et le gouverneur Festus. Paul est déjà considéré comme non coupable par le gouverneur qui cherchait à savoir avec clarté quoi dire à César. Lisez {1 Timothée 1: 12-16}. Paul a admis qu'il était exactement comme ses accusateurs avant de rencontrer Jésus. Il croyait fermement que c'était la volonté de Dieu et qu'il était de son devoir d'arrêter avec violence le message de Jésus. Apparemment, Paul avait résisté aux incitations à accepter l'Évangile pendant cette période de sa vie ({Actes 26:14}). Jésus a engagé ce meurtrier de Saül et en a fait Son serviteur afin que le monde non juif ait accès à l'Évangile. On nous rappelle à quel point Jésus s'identifiait étroitement à ses disciples: les persécuter, revenait à le persécuter. Une fois de plus, Paul a fidèlement obéi à son appel et a hardiment mis au défi les dirigeants politiques de croire en Jésus, mais ils ont rejeté l'offre.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "1 Timothée 1: 12-16",
+                    "label": "1 Timothée 1: 12-16",
+                    "passage": "<p><sup>12</sup>Je rends grâces à celui qui m'a fortifié, à Jésus Christ notre Seigneur, de ce qu'il m'a jugé fidèle,</p><p><sup>13</sup>en m'établissant dans le ministère, moi qui étais auparavant un blasphémateur, un persécuteur, un homme violent. Mais j'ai obtenu miséricorde, parce que j'agissais par ignorance, dans l'incrédulité;</p><p><sup>14</sup>et la grâce de notre Seigneur a surabondé, avec la foi et la charité qui est en Jésus Christ.</p><p><sup>15</sup>C'est une parole certaine et entièrement digne d'être reçue, que Jésus Christ est venu dans le monde pour sauver les pécheurs, dont je suis le premier.</p><p><sup>16</sup>Mais j'ai obtenu miséricorde, afin que Jésus Christ fît voir en moi le premier toute sa longanimité, pour que je servisse d'exemple à ceux qui croiraient en lui pour la vie éternelle.</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Actes 26:14",
+                    "label": "Actes 26:14",
+                    "passage": "<p><sup>14</sup>Nous tombâmes tous par terre, et j'entendis une voix qui me disait en langue hébraïque: Saul, Saul, pourquoi me persécutes-tu? Il te serait dur de regimber contre les aiguillons.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratiquez ici la libéralité et la sainte-cène ou dans la section Se préparer pour la mission.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se préparer pour la mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez des gens vers qui ou des endroits où vous pouvez prendre l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez des promesses « Je ferai d’ici quand » et partagez cela avec votre petit groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bénédiction (facultatif)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply350-i-will"
+      }
+    }
+  ]
+}

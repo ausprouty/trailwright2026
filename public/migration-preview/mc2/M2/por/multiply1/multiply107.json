@@ -1,0 +1,377 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply107",
+  "sortOrder": 7,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Adoração",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia a Bíblia para fundamentar louvor e adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">Leia {Salmos 16:7-11} e ensine uma nova música</li>",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Salmos 16:7-11",
+                    "label": "Salmos 16:7-11",
+                    "passage": "<p><sup>7</sup>Eu louvo a Deus, o<span class=\"divine-name small-caps\">Senhor,<br>pois ele é o meu conselheiro,<br>e durante a noite<br>a minha consciência me avisa.<br><sup>8</sup>Estou certo de que o<span class=\"divine-name small-caps\">Senhor<br>está sempre comigo;<br>ele está ao meu lado direito,<br>e nada pode me abalar.<br><sup>9</sup>Por isso o meu coração está feliz<br>e alegre,<br>e eu, um ser mortal, me sinto bem seguro,<br><sup>10</sup>porque tu, ó Deus, me proteges<br>do poder da morte.<br>Eu tenho te servido fielmente,<br>e por isso não deixarás que eu desça<br>ao mundo dos mortos.<br><sup>11</sup>Tu me mostras o caminho<br>que leva à vida.<br>A tua presença me enche de alegria<br>e me traz felicidade para sempre.</span></span></p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Sirvam uns aos outros através de oração, aconselhamento bíblico e encorajamento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça para cada pessoa compartilhar um ponto alto da semana e explicar um desafio pelo o qual passaram."
+          },
+          {
+            "text": "Pergunte, “O que você gostaria que Jesus fizesse por você esta semana?” Ore pelas necessidades uns dos outros."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pergunte, “O que aconteceu quando você confiou suas metas e suas declarações “Eu vou____” a Deus?”"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Esboce uma visão de quem eles podem se tornar em Cristo e o que Deus pode fazer através deles.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Exemplo: {João 16} nos ensina que o Espírito Santo está trabalhando ativamente nos corações daqueles em nossa volta. Ele está mostrando os pecados em suas vidas. O Espírito Santo está criando um desejo de se acertar com Deus. Ele está criando um desejo para evitar o medo da morte, que é o julgamento eterno. O Espírito Santo derruba os argumentos de objeção em suas mentes e corações. Nosso trabalho é pescar essas pessoas através de testemunho, encontrando aqueles cujos corações estão prontos. Vamos encorajar uns aos outros lembrando um ao outro que o Espírito já está trabalhando mesmo antes de agirmos.",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "João 16",
+                    "label": "João 16",
+                    "passage": "Nova TraduÒ«ão na Linguagem de Hoje 2000<p>E Jesus disse ainda:</p><p>— Eu digo isso para que vocês não abandonem a sua fé.<sup>2</sup>Vocês serão expulsos das sinagogas, e chegará o tempo em que qualquer um que os matar pensará que está fazendo a vontade de Deus.<sup>3</sup>Eles vão fazer essas coisas porque não conhecem nem o Pai nem a mim.<sup>4</sup>Mas eu digo isso para que, quando essas coisas acontecerem, vocês lembrem que eu já os tinha avisado.</p><h3>O trabalho do Espírito Santo</h3><p>E Jesus continuou:</p><p>— Eu não disse isso antes, porque ainda estava com vocês.<sup>5</sup>Porém agora eu vou para junto daquele que me enviou. E nenhum de vocês me pergunta: “Aonde é que o senhor vai?”<sup>6</sup>Mas, porque eu disse isso, o coração de vocês ficou cheio de tristeza.<sup>7</sup>Eu falo a verdade quando digo que é melhor para vocês que eu vá. Pois, se não for, o Auxiliador não virá; mas, se eu for, eu o enviarei a vocês.<sup>8</sup>Quando o Auxiliador vier, ele convencerá as pessoas do mundo de que elas têm uma ideia errada a respeito do pecado e do que é direito e justo e também do julgamento de Deus.<sup>9</sup>As pessoas do mundo estão erradas a respeito do pecado porque não creem em mim;<sup>10</sup>estão erradas a respeito do que é direito e justo porque eu vou para o Pai, e vocês não vão me ver mais.<sup>11</sup>E também estão erradas a respeito do julgamento porque aquele que manda neste mundo já está julgado.</p><p><sup>12</sup>— Ainda tenho muitas coisas para lhes dizer, mas vocês não poderiam suportar isso agora.<sup>13</sup>Porém, quando o Espírito da verdade vier, ele ensinará toda a verdade a vocês. O Espírito não falará por si mesmo, mas dirá tudo o que ouviu e anunciará a vocês as coisas que estão para acontecer.<sup>14</sup>Ele vai ficar sabendo o que tenho para dizer, e dirá a vocês, e assim ele trará glória para mim.<sup>15</sup>Tudo o que o Pai tem é meu. Por isso eu disse que o Espírito vai ficar sabendo o que eu lhe disser e vai anunciar a vocês.</p><h3>Tristeza e alegria</h3><p><sup>16</sup>E Jesus disse:</p><p>— Daqui a pouco vocês não vão me ver mais; porém, pouco depois, vão me ver novamente.</p><p><sup>17</sup>Alguns dos seus discípulos comentaram:</p><p>— O que será que ele quer dizer? Ele afirma: “Daqui a pouco vocês não vão me ver mais; porém, pouco depois, vão me ver novamente”. E diz também: “É porque vou para o meu Pai”.<sup>18</sup>O que quer dizer “pouco depois”? Não entendemos o que isso quer dizer.</p><p><sup>19</sup>Jesus, sabendo que eles queriam lhe fazer perguntas, disse:</p><p>— Eu afirmei que daqui a pouco vocês não vão me ver mais e que pouco depois vão me ver novamente. Por acaso não é a respeito disso que vocês estão fazendo perguntas uns aos outros?<sup>20</sup>Pois eu afirmo a vocês que isto é verdade: vocês vão chorar e ficar tristes, mas as pessoas do mundo ficarão alegres. Vocês ficarão tristes, mas essa tristeza virará alegria.<sup>21</sup>Quando uma mulher está para dar à luz, ela fica triste porque chegou a sua hora de sofrer. Mas, depois que a criança nasce, a mulher fica tão alegre, que nem lembra mais do seu sofrimento.<sup>22</sup>Assim acontece também com vocês: agora estão tristes, mas eu os verei novamente. Aí vocês ficarão cheios de alegria, e ninguém poderá tirar essa alegria de vocês.</p><p><sup>23</sup>— Quando chegar aquele dia, vocês não me pedirão nada. E eu afirmo a vocês que isto é verdade: se vocês pedirem ao Pai alguma coisa em meu nome, ele lhes dará.<sup>24</sup>Até agora vocês não pediram nada em meu nome; peçam e receberão para que a alegria de vocês seja completa.</p><h3>Vencendo o mundo</h3><p><sup>25</sup>E Jesus terminou, dizendo:</p><p>— Eu digo essas coisas a vocês por meio de comparações. Mas chegará o tempo em que não falarei mais por meio de comparações, pois falarei claramente a vocês a respeito do Pai.<sup>26</sup>Naquele dia vocês pedirão coisas em meu nome. E eu digo que não precisarei pedir ao Pai em favor de vocês,<sup>27</sup>pois o próprio Pai os ama. Ele os ama porque vocês, de fato, me amam e creem que vim de Deus.<sup>28</sup>Eu vim do Pai e entrei no mundo. E agora deixo o mundo e vou para o Pai.</p><p><sup>29</sup>Então os seus discípulos disseram:</p><p>— Agora, sim, o senhor está falando claramente e não por meio de comparações.<sup>30</sup>Sabemos agora que o senhor conhece tudo e não precisa que ninguém lhe faça perguntas. Por isso nós cremos que o senhor veio de Deus.</p><p><sup>31</sup>E Jesus respondeu:</p><p>— Então agora vocês creem?<sup>32</sup>Pois chegou a hora de vocês todos serem espalhados, cada um para a sua casa; e assim vão me deixar sozinho. Mas eu não estou só, pois o Pai está comigo.<sup>33</sup>Eu digo isso para que, por estarem unidos comigo, vocês tenham paz. No mundo vocês vão sofrer; mas tenham coragem. Eu venci o mundo.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "A noite anterior à crucificação de Jesus, ele comeu com seus 12 discípulos mais próximos. Jesus disse a eles que estava indo embora mas que Ele enviaria o Conselheiro, o Espírito Santo, para estar com eles para sempre. Jesus os ensina que através da presença do Espírito Santo vivendo com eles, o próprio Jesus estará com eles. Esta história usa a imagem de uma videira e seus ramos para descrever como nosso relacionamento com Jesus deve ser."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista João 15:1-11 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "João 15:1-11",
+        "html": "<h3>Jesus, a videira</h3> <p><sup>1</sup>Jesus disse:</p> <p>— Eu sou a videira verdadeira, e o meu Pai é o lavrador.<sup>2</sup>Todos os ramos que não dão uvas ele corta, embora eles estejam em mim. Mas os ramos que dão uvas ele poda a fim de que fiquem limpos e deem mais uvas ainda.<sup>3</sup>Vocês já estão limpos por meio dos ensinamentos que eu lhes tenho dado.<sup>4</sup>Continuem unidos comigo, e eu continuarei unido com vocês. Pois, assim como o ramo só dá uvas quando está unido com a planta, assim também vocês só podem dar fruto se ficarem unidos comigo.</p> <p><sup>5</sup>— Eu sou a videira, e vocês são os ramos. Quem está unido comigo e eu com ele, esse dá muito fruto porque sem mim vocês não podem fazer nada.<sup>6</sup>Quem não ficar unido comigo será jogado fora e secará; será como os ramos secos que são juntados e jogados no fogo, onde são queimados.<sup>7</sup>Se vocês ficarem unidos comigo, e as minhas palavras continuarem em vocês, vocês receberão tudo o que pedirem.<sup>8</sup>E a natureza gloriosa do meu Pai se revela quando vocês produzem muitos frutos e assim mostram que são meus discípulos.<sup>9</sup>Assim como o meu Pai me ama, eu amo vocês; portanto, continuem unidos comigo por meio do meu amor por vocês.<sup>10</sup>Se obedecerem aos meus mandamentos, eu continuarei amando vocês, assim como eu obedeço aos mandamentos do meu Pai e ele continua a me amar.</p> <p><sup>11</sup>— Eu estou dizendo isso para que a minha alegria esteja em vocês, e a alegria de vocês seja completa.</p>",
+        "url": "https://biblegateway.com/passage/?search=John%2015:1-11&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "João 15:1-11",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2216",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2216",
+        "startTime": "start",
+        "endTime": "2:02",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Todos contam o que chamou mais a atenção para cada um (ou do que mais gostaram) e porquê."
+          },
+          {
+            "text": "Por que você acha que esta história é importante?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que ouvimos esta história (passagem)?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Sem Jesus, não podemos fazer nada. Só podemos ter uma vida frutífera quando dependemos e permanecemos Nele. Isso acontece quando nos submetemos em obediência à Sua vontade, permitindo que Sua vida flua em e através de nós para que possamos dar frutos para a glória de Deus. Em outras palavras, precisamos deixar o Espírito de Cristo, o Espírito Santo, dirigir e capacitar nossas vidas pela fé."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Para mais crescimento: Leia o Conceito Transferível#4: Como Andar no Espírito e converse com um membro do grupo"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Reveja os princípios de Respirar Espiritual da lição 3, “Permanecendo no Espírito”."
+                  },
+                  {
+                    "text": "Pratique qualquer habilidade ou tópico das lições anteriores conforme necessário"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique 5 pessoas de sua Lista de Relacionamentos com quem você possa compartilhar esta história ou o evangelho esta semana."
+          },
+          {
+            "text": "Escreva suas declarações “Eu vou_____” e compartilhe-as com seu grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Entregue as metas de todos ao Senhor. Peça ao Senhor para nos ajudar a sermos fiéis e para nos usar para iniciar um movimento de discipuladores."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply107-i-will"
+      }
+    }
+  ]
+}

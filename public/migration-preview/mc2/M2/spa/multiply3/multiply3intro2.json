@@ -1,0 +1,42 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro2",
+  "sortOrder": 16,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong><span lang=\"es\">El corazón de Jesús para todas las personas (Cruzando fronteras culturales) [32-45 d.C.]</span></strong>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Este período cubre alrededor de 12 años de crecimiento y ministerio. Está marcado por el cruce de nuevas fronteras culturales a medida que Jesús guía a los creyentes a salir de Jerusalén para hacer discípulos. La creación de discípulos y la plantación de iglesias se extendieron desde Jerusalén, a Judea, a Samaria y al mundo gentil."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Cartas escritas durante este período"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Santiago, mediados de los años 40"
+          }
+        ]
+      }
+    }
+  ]
+}

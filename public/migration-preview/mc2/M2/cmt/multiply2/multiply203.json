@@ -1,0 +1,360 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmt",
+  "htmlLang": "zh-Hant",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply203",
+  "sortOrder": 5,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向後看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "敬拜讚美",
+        "level": 2
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "禱告關懷",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感謝神和需要耶穌為你做的事，並彼此感恩代禱"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "慶賀實踐",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<span lang=\"ZH-CN\">請分享上周你因信靠神忠心地操練和實踐基督生命的福音行動</span>"
+          },
+          {
+            "text": "背誦上周經文（約1:14）"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "天父心意",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "《馬太福音》指出耶穌正是以色列眾人期待已久的君王彌賽亞，以及耶穌帶來的國度，實現了神的救贖計劃，激勵基督徒要滿懷感恩地忠心服侍，努力拓展神的國度。作者馬太最初寫作對象是猶太人，所以《馬太福音》有較強的猶太背景，全書引用舊約共計129 次。耶穌就是舊約應驗的彌賽亞，祂降世為人，為要拯救罪人。有耳可聽的，都應當聽，並就近這位賜人生命的耶穌。"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "學像耶穌",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>經文背景</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">耶穌肉身的父母原是住在加利利的拿撒勒，但在羅馬皇帝<u>凱撒</u>的時候下了一個以前沒有，以後也沒下過的命令。他要所有的人都回到自己的本地本鄉去報名上冊。所以，屬於猶大支派的約瑟帶着身孕已重的馬利亞前往伯利恆，耶穌因此降生在伯利恆。耶穌降生時有天使報喜信，並牧羊人來拜祂。滿八天給耶穌行割禮，並上聖殿行潔淨禮</span><span lang=\"EN-US\"> (</span><span lang=\"ZH-CN\">參路加福音第二章</span><span lang=\"EN-US\">)</span><span lang=\"ZH-CN\">。馬太福音記載東方博士來拜耶穌應是在他們要回加利利時所發生的事，那時主耶穌大概是一歲左右，所以，<u>希律</u>王才會下令要殺兩歲以內的孩童</span><span lang=\"EN-US\">(</span><span lang=\"ZH-CN\">太</span><span lang=\"EN-US\">2:16)</span><span lang=\"ZH-CN\">。</span>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>閱讀經文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "阅读或观看《马太福音2:1-18》两遍。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "馬太福音2:1-18",
+        "html": "<p><sup>1</sup>當<u class=\"person underline\">希律</u>王的時候，耶穌生在猶太的伯利恆。有幾個博士從東方來到耶路撒冷，說：<sup>2</sup>「那生下來做猶太人之王的在哪裡？我們在東方看見他的星，特來拜他。」<sup>3</sup><u class=\"person underline\">希律</u>王聽見了，就心裡不安，耶路撒冷合城的人也都不安。<sup>4</sup>他就召齊了祭司長和民間的文士，問他們說：「基督當生在何處？」<sup>5</sup>他們回答說：「在猶太的伯利恆。因為有先知記著說：<sup>6</sup>『猶大地的伯利恆啊，你在猶大諸城中並不是最小的，因為將來有一位君王要從你那裡出來，牧養我以色列民。』」<sup>7</sup>當下，<u class=\"person underline\">希律</u>暗暗地召了博士來，細問那星是什麼時候出現的，<sup>8</sup>就差他們往伯利恆去，說：「你們去仔細尋訪那小孩子，尋到了就來報信，我也好去拜他。」<sup>9</sup>他們聽見王的話就去了。在東方所看見的那星忽然在他們前頭行，直行到小孩子的地方，就在上頭停住了。<sup>10</sup>他們看見那星，就大大地歡喜。<sup>11</sup>進了房子，看見小孩子和他母親<u class=\"person underline\">馬利亞</u>，就俯伏拜那小孩子，揭開寶盒，拿黃金、乳香、沒藥為禮物獻給他。<sup>12</sup>博士因為在夢中被主指示不要回去見<u class=\"person underline\">希律</u>，就從別的路回本地去了。</p> <p><sup>13</sup>他們去後，有主的使者向<u class=\"person underline\">約瑟</u>夢中顯現，說：「起來！帶著小孩子同他母親逃往埃及，住在那裡，等我吩咐你，因為<u class=\"person underline\">希律</u>必尋找小孩子，要除滅他。」<sup>14</sup><u class=\"person underline\">約瑟</u>就起來，夜間帶著小孩子和他母親往埃及去，<sup>15</sup>住在那裡，直到<u class=\"person underline\">希律</u>死了。這是要應驗主藉先知所說的話說：「我從埃及召出我的兒子來。」</p> <p><sup>16</sup><u class=\"person underline\">希律</u>見自己被博士愚弄，就大大發怒，差人將伯利恆城裡並四境所有的男孩，照著他向博士仔細查問的時候，凡兩歲以裡的都殺盡了。<sup>17</sup>這就應了先知<u class=\"person underline\">耶利米</u>的話說：<sup>18</sup>「在拉瑪聽見號啕大哭的聲音，是<u class=\"person underline\">拉結</u>哭她兒女，不肯受安慰，因為他們都不在了。」</p>",
+        "url": "https://biblegateway.com/passage/?search=馬太福音2:1-18&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "馬太福音2:1-18",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOMatt2501",
+        "source": "arclight",
+        "refId": "6_20615-GOMatt2501",
+        "startTime": "5:33",
+        "endTime": "8:43",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索與討論</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "讓你印象深刻的經文/部分是什麼？為什麼？"
+                },
+                {
+                  "text": "在這段經文中，你對耶穌的神性或人性有何認識？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再讀一次這段故事。請小組中一個人口頭講述這故事，並根據需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "耶穌降生後，上帝透過外邦（非猶太人) 的星象學家供應這個家庭的需要。他們獻的禮物可能用來幫助耶穌的家前往埃及。天父供應兒子耶穌一切的需要；也供應祂兒女一切的需要。有時候供應出現在需要的前一晚，或是前幾天；有時候在你憑信心跟着上帝往前行時。另外，強權君王希律與貧弱嬰孩耶穌的對峙如何結尾，提醒我們這個世界之上統管萬有的真正的王是上帝。舊約先知的多處預言告訴我們上帝的永恆救贖計劃早在歷史中開始。耶穌一家在神旨意中的行動，特別是約瑟對上帝的啟示的態度，讓我們反思自己如何行在神旨意中。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小結</strong>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "經文背誦",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "太2:10-11"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>10</sup>他們（博士們）看見那星，就大大地歡喜。<sup>11</sup>進了房子，看見小孩子和他母親馬利亞，就俯伏拜那小孩子，揭開寶盒，拿黃金、乳香、沒藥為禮物獻給他。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音預備",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "當政治領袖希律對君王耶穌趕盡殺絕，神保護孩兒的耶穌脫離危險。當我們教會面對當下逼迫時，我們是否相信神在掌權，祂是掌管歷史的主？教會當如何面對現在的環境，能夠屹立不倒？"
+          },
+          {
+            "text": "我們要如何學習東方博士和約瑟的謙卑順服，隨時察驗神的心意？如何讓基督耶穌在我們的生命中作王或在我們教會中居首位？"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行動",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "主動關心並堅定2-3位弟兄姊妹的信心，動員他們繼續參與教會的禱告會和小組，一同尋求神的旨意，在神話語上成長，並為國家和執政的守望，以察驗神在地上的作為。"
+          },
+          {
+            "text": "向牧者同工了解教會事工的需要，並以禱告和金錢奉獻支持。同時留意觀察身邊有需要的人，主動為他們禱告並實際滿足他們的需要。"
+          },
+          {
+            "text": "依照你今天所學到的，寫下一個“屆時我會”的宣告，並於組內分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在________________（時間/地點）將會__________________（對象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分鐘寫下你在本課的學習心得，或是你未來一周可能有的其他行動點。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音禱告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "親愛的天父，我們感謝讚美禰。謝謝禰借着主耶穌的降生，讓我們看到東方博士和約瑟的謙卑順服；我們也看到有些人是對主有知識卻一點也不渴慕；我們更看到那敵擋神的詭詐與逼迫。但我們依然相信神掌管着一切，帶領我們前行。求主幫助我們，讓我們有顆謙卑順服的心，時刻讓君王耶穌在我們生命的寶座上作主，好讓我們越來越像主自己。謝謝主垂聽我們的禱告，奉主耶穌寶貴的聖名求。阿們！"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply203-i-will"
+      }
+    }
+  ]
+}

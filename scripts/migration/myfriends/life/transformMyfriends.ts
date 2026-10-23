@@ -8,7 +8,7 @@ export type TransformContext = {
   sourceFile: string;
 };
 
-export function transformMyFriends(html: string, context: TransformContext) {
+export function transformMyfriends(html: string, context: TransformContext) {
   // Step 1: convert HTML → EditorJS structure
   const json = migrateOldLessonHtmlToEditorJs(html, {
     includeTime: true,

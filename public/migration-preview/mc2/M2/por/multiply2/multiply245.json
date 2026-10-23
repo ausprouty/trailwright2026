@@ -1,0 +1,435 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply245",
+  "sortOrder": 50,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louvar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia uma passagem das Escrituras e louvem com uma canção de adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">(Opcional) Jesus Cristo é o Senhor, para a gloria de Deus Pai. Ele deseja que todos os homens sejam salvos e cheguem ao pleno conhecimento da verdade. Porque há um só Deus e um único mediador entre Deus e os homens, o homem Jesus Cristo, que a si mesmo se entregou como resgate por todos. ({Filipenses 2:11}; {1 Timóteo 2:4-6}) </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>e declarem abertamente<br>que Jesus Cristo é o Senhor,<br>para a glória de Deus, o Pai.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timóteo 2:4-6",
+                    "label": "1 Timóteo 2:4-6",
+                    "passage": "<p><sup>4</sup>Ele quer que todos sejam salvos e venham a conhecer a verdade.</p><p><sup>5</sup>Pois existe um só Deus e uma só pessoa que une Deus com os seres humanos — o ser humano Cristo Jesus,<sup>6</sup>que deu a sua vida para que todos fiquem livres dos seus pecados. Esta foi a prova, dada no tempo certo, de que Deus quer que todos sejam salvos.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar sobre as necessidades dos demais em oração, conselho bíblico e ânimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça a cada pessoa que compartilhe acontecimento especial e um desafio que tenha experimentado nesta semana."
+          },
+          {
+            "text": "Pergunte: \"O que você deseja que Jesus faça por você nesta semana? Ore pelas necessidades dos demais."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<span style=\"background-color:white\"><span lang=\"PT-BR\">Pergunte: \"O que aconteceu quando você confiou em Deus sobre suas metas e suas declarações: Eu farei.... no dia......?\"</span></span>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Escolha uma maneira de dar a visão de quem eles podem chegar a ser em Cristo e o que Deus pode fazer através deles ao:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartilhar um versículo Bíblico que os faça lembrar o Coração do Pai e a visão final, ou"
+                  },
+                  {
+                    "text": "Refletir sobre as mudanças que aconteceram em suas vidas desde que começaram a seguir a Cristo, ou"
+                  },
+                  {
+                    "text": "recordar o que Deus quer fazer através deles."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Compartilhe a GRANDE visão de \"Uma igreja para cada cidade e comunidade, e o evangelho para cada pessoa”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Peça ao grupo que conte a história da semana passada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista Lucas 19:1-27 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 19:1-27",
+        "html": "<h3>Jesus e Zaqueu</h3> <p><sup>1</sup>Jesus entrou em Jericó e estava atravessando a cidade.<sup>2</sup>Morava ali um homem rico, chamado Zaqueu, que era chefe dos cobradores de impostos.<sup>3</sup>Ele estava tentando ver quem era Jesus, mas não podia, por causa da multidão, pois Zaqueu era muito baixo.<sup>4</sup>Então correu adiante da multidão e subiu numa figueira brava para ver Jesus, que devia passar por ali.<sup>5</sup>Quando Jesus chegou àquele lugar, olhou para cima e disse a Zaqueu:</p> <p>— Zaqueu, desça depressa, pois hoje preciso ficar na sua casa.</p> <p><sup>6</sup>Zaqueu desceu depressa e o recebeu na sua casa, com muita alegria.<sup>7</sup>Todos os que viram isso começaram a resmungar:</p> <p>— Este homem foi se hospedar na casa de um pecador!</p> <p><sup>8</sup>Zaqueu se levantou e disse ao Senhor:</p> <p>— Escute, Senhor, eu vou dar a metade dos meus bens aos pobres. E, se roubei alguém, vou devolver quatro vezes mais.</p> <p><sup>9</sup>Então Jesus disse:</p> <p>— Hoje a salvação entrou nesta casa, pois este homem também é descendente de Abraão.<sup>10</sup>Porque o Filho do Homem veio buscar e salvar quem está perdido.</p> <h3>As dez moedas de ouro</h3> <p><sup>11</sup>Jesus contou uma parábola para os que ouviram o que ele tinha dito. Agora ele estava perto de Jerusalém, e por isso eles estavam pensando que o Reino de Deus ia aparecer logo.<sup>12</sup>Então Jesus disse:</p> <p>— Certo homem de uma família importante foi para um país que ficava bem longe, para lá ser feito rei e depois voltar.<sup>13</sup>Antes de viajar, chamou dez dos seus empregados, deu a cada um uma moeda de ouro e disse: “Vejam o que vocês conseguem ganhar com este dinheiro, até a minha volta.”</p> <p><sup>14</sup>— Acontece que o povo do seu país o odiava e por isso mandou atrás dele uma comissão para dizer que não queriam que aquele homem fosse feito rei deles.</p> <p><sup>15</sup>— O homem foi feito rei e voltou para casa. Aí mandou chamar os empregados a quem tinha dado o dinheiro, para saber quanto haviam conseguido ganhar.<sup>16</sup>O primeiro chegou e disse: “Patrão, com aquela moeda de ouro que o senhor me deu, eu ganhei dez.”</p> <p><sup>17</sup>— “Muito bem!” — respondeu ele. — “Você é um bom empregado! E, porque foi fiel em coisas pequenas, você vai ser o governador de dez cidades.”</p> <p><sup>18</sup>— O segundo empregado veio e disse: “Patrão, com aquela moeda de ouro que o senhor me deu, eu ganhei cinco.”</p> <p><sup>19</sup>— “Você vai ser o governador de cinco cidades!” — disse o patrão.</p> <p><sup>20</sup>— O outro empregado chegou e disse: “Patrão, aqui está a sua moeda. Eu a embrulhei num lenço e a escondi.<sup>21</sup>Tive medo do senhor, porque sei que é um homem duro, que tira dos outros o que não é seu e colhe o que não plantou.”</p> <p><sup>22</sup>— Ele respondeu: “Você é um mau empregado! Vou usar as suas próprias palavras para julgá-lo. Você sabia que sou um homem duro, que tiro dos outros o que não é meu e colho o que não plantei.<sup>23</sup>Então por que você não pôs o meu dinheiro no banco? Assim, quando eu voltasse da viagem, receberia o dinheiro com juros.”</p> <p><sup>24</sup>— E disse para os que estavam ali: “Tirem dele a moeda e deem ao que tem dez.”</p> <p><sup>25</sup>Eles responderam:</p> <p>— “Mas ele já tem dez moedas, patrão!”</p> <p><sup>26</sup>— E o patrão disse:</p> <p>— “Eu afirmo a vocês que aquele que tem muito receberá ainda mais; mas quem não tem, até o pouco que tem será tirado dele.<sup>27</sup>E agora tragam aqui os meus inimigos, que não queriam que eu fosse o rei deles, e os matem na minha frente.”</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%2019:1-27&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lucas 19:1-27",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2619",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2619",
+        "startTime": "start",
+        "endTime": "3:44",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que te chamou a atenção ou o que você mais gostou? Por quê?"
+          },
+          {
+            "text": "Existe algo novo ou algo que tenha desenvolvido até este ponto da história de Jesus?"
+          },
+          {
+            "text": "O que aprendemos sobre a humanidade ou a divindade de Jesus nessa passagem?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que conhecemos essa história?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Perguntas adicionais que você pode usar:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que estão aprendendo seus seguidores?"
+          },
+          {
+            "text": "O que Jesus está modelando sobre a vida, o ministério e a liderança piedosa?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus vivia o que ensinava. Em Jericó, Jesus conhece outro homem muito rico mas extremamente impopular chefe dos coletores de impostos para Roma na região. Jesus revela que o Pai quer que Ele vá a casa de Zaqueu. O povo ficou chocado mas Zaqueu se alegra e o tempo com Jesus transforma seu coração. Ele recebe perdão e começa a mudar seu comportamento. Ele pede perdão e conserta erros cometidos. Enquanto eles celebram a transformação na vida de Zaqueu, Jesus ensina uma parábola sobre ser um servo com o que Deus nos deu. Um dia iremos prestar contas de como usamos as coisas de Deus. Somos servos de coisas materiais e também de coisas profundamente espirituais. Como verdadeiros discípulos percebemos que não temos nada mas que Deus é o dono de tudo e somos chamados para servir sobre aquilo que Ele nos der em confiança. Isso inclui nosso tempo, nossos pensamentos e nossas ações."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratique ofertar e a comunhão aqui ou na sessão Preparar para a Missão.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pratique as habilidades necessárias ou assuntos prévios para te ajudar a preparar-se para ministrar aos demais:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar e Compartilhar"
+                  },
+                  {
+                    "text": "Compartilhar o Evangelho"
+                  },
+                  {
+                    "text": "Estudos Bíblicos Fundamentais"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique pessoas ou lugares onde tomará a iniciativa de ministrar nessa semana."
+          },
+          {
+            "text": "Escreva suas declarações de “Eu farei........ no dia ........” e compartilhe em seu pequeno grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Apresente as metas de todos ao Senhor. Peça ao Senhor que nos ajude a ser fiéis e que Ele nos use para iniciar um movimento de fazedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benção (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply245-i-will"
+      }
+    }
+  ]
+}

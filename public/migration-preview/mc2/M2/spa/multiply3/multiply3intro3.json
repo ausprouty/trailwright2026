@@ -1,0 +1,42 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro3",
+  "sortOrder": 27,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<strong>Expansión a nuevos territorios (1er. Viaje Misionero desde Antioquía) [46-48 d.C.]</strong>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"Trip1\" src=\"/sites/mc2/content/M2/spa/multiply3/Trip1.webp\"></span>Este período cubre el viaje del primer equipo misionero que el Espíritu envió desde la iglesia en Antioquía. Está marcado por milagros, enseñanza en sinagogas, persecución y plantación de iglesias entre los nuevos pueblos. Ejemplos de hacer discípulos en diferentes contextos y situaciones se encuentran en este período."
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Cartas escritas durante este Período"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Gálatas, 48 d.C."
+          }
+        ]
+      }
+    }
+  ]
+}

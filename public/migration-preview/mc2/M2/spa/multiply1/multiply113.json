@@ -1,0 +1,394 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply113",
+  "sortOrder": 14,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">Ejemplo: Lea el {Salmo 100} y canten alabanzas.</li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Salmo 100",
+                    "label": "Salmo 100",
+                    "passage": "<div><h4 class=\"psalm-title\">Salmo de acción de gracias.</h4><p><sup>1</sup>Aclamen alegres al<span class=\"divine-name small-caps\">Señor, habitantes de toda la tierra;<br><sup>2</sup>adoren al<span class=\"divine-name small-caps\">Señor con regocijo.<br>Preséntense ante él<br>con cánticos de júbilo.<br><sup>3</sup>Reconozcan que el<span class=\"divine-name small-caps\">Señor es Dios;<br>él nos hizo, y somos suyos.<br>Somos su pueblo, ovejas de su prado.</span></span></span></p></div><p><sup>4</sup>Entren por sus puertas con acción de gracias;<br>vengan a sus atrios con himnos de alabanza;<br>denle gracias, alaben su nombre.<br><sup>5</sup>Porque el<span class=\"divine-name small-caps\">Señor es bueno y su gran amor es eterno;<br>su fidelidad permanece para siempre.</span></p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar las necesidades de los demás en oración, consejo bíblico y ánimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunta: \"¿Qué pasó cuando confiaste en Dios tus metas y tu declaración: “Yo haré…”?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y Animo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Proyectar visión de quiénes pueden llegar a ser en Cristo o lo que Dios puede hacer a través de ellos.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Ejemplo: Lea {Efesios 2:1-10}.",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Efesios 2:1-10",
+                    "label": "Efesios 2:1-10",
+                    "passage": "<p><sup>1</sup>En otro tiempo ustedes estaban muertos en sus transgresiones y pecados,<sup>2</sup>en los cuales andaban conforme a los poderes de este mundo. Se conducían según el que gobierna las tinieblas, según el espíritu que ahora ejerce su poder en los que viven en la desobediencia.<sup>3</sup>En ese tiempo también todos nosotros vivíamos como ellos, impulsados por nuestros deseos pecaminosos, siguiendo nuestra propia voluntad y nuestros propósitos. Como los demás, éramos por naturaleza objeto de la ira de Dios.<sup>4</sup>Pero Dios, que es rico en misericordia, por su gran amor por nosotros,<sup>5</sup>nos dio vida con Cristo, aun cuando estábamos muertos en pecados. ¡Por gracia ustedes han sido salvados!<sup>6</sup>Y en unión con Cristo Jesús, Dios nos resucitó y nos hizo sentar con él en las regiones celestiales,<sup>7</sup>para mostrar en los tiempos venideros la incomparable riqueza de su gracia, que por su bondad derramó sobre nosotros en Cristo Jesús.<sup>8</sup>Porque por gracia ustedes han sido salvados mediante la fe; esto no procede de ustedes, sino que es el regalo de Dios,<sup>9</sup>no por obras, para que nadie se jacte.<sup>10</sup>Porque somos hechura de Dios, creados en Cristo Jesús para buenas obras, las cuales Dios dispuso de antemano a fin de que las pongamos en práctica.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "¿No es increíble? Estábamos muertos en nuestros pecados, pero Dios nos ha dado vida. Él hizo todo esto para que pudieras llevar a cabo las buenas obras que Él ha preparado para ti. ¡Nuestras vidas están llenas de propósito y significado! Animemos a cada uno recordándonos a nosotros mismos estas verdades."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Durante una fiesta judía llamada Pentecostés, judíos de todas partes del mundo estaban en Jerusalén. Dios envió el Espíritu Santo sobre 120 de Sus seguidores que se habían reunido. A través del poder del Espíritu, los 120 seguidores comenzaron a hablar en los idiomas de los visitantes de todo el mundo. Pedro comenzó a predicar a una multitud sobre la muerte y resurrección de Jesús, demostrando que Él era el Mesías. Como resultado, 3.000 personas creyeron y fueron bautizadas. Pero ¿qué vino después de que creyeron?"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Hechos 2:41-47</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Hechos 2:41-47",
+        "html": "<h3>La comunidad de los creyentes</h3> <p><sup>41</sup>Así, pues, los que recibieron su mensaje fueron bautizados, y aquel día se unieron a la iglesia unas tres mil personas.<sup>42</sup>Se mantenían firmes en la enseñanza de los apóstoles, en la comunión, en el partimiento del pan y en la oración.<sup>43</sup>Todos estaban asombrados por los muchos prodigios y señales que realizaban los apóstoles.<sup>44</sup>Todos los creyentes estaban juntos y tenían todo en común:<sup>45</sup>vendían sus propiedades y posesiones, y compartían sus bienes entre sí según la necesidad de cada uno.<sup>46</sup>No dejaban de reunirse en el templo ni un solo día. De casa en casa partían el pan y compartían la comida con alegría y generosidad,<sup>47</sup>alabando a Dios y disfrutando de la estimación general del pueblo. Y cada día el Señor añadía al grupo los que iban siendo salvos.</p>",
+        "url": "https://biblegateway.com/passage/?search=Hechos%202:41-47&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Hechos 2:41-47",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7306-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7306-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de Descubrimiento (Todos responden)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención (o qué te gustó más) y por qué?"
+          },
+          {
+            "text": "¿Qué aprendiste acerca de Jesús?"
+          },
+          {
+            "text": "¿Qué aprendiste sobre las personas?"
+          },
+          {
+            "text": "¿Cómo obedecerás a Jesús ahora que sabes esto?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Lee {Mateo 16:18}.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Mateo 16:18",
+                    "label": "Mateo 16:18",
+                    "passage": "<p><sup>18</sup>Yo te digo que tú eres Pedro, y sobre esta piedra edificaré mi iglesia, y las puertas del reino de la muerte no prevalecerán contra ella.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Practique dibujar el círculo de salud de la iglesia como una manera fácil de recordar todas las características de la iglesia. Incluya: adoración, el compañerismo, el estudio de la Palabra de Dios, la oración, la Cena del Señor, el bautismo, ministerio de servicio, testifican, dar y cuidado de los líderes."
+                  },
+                  {
+                    "text": "Discuta lo siguiente:",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "\"¿Este grupo quiere hacer ese mismo compromiso el uno con el otro? ¿Para ser la iglesia del Señor en este lugar?\""
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica a 5 personas de tu Lista Oikos con las que tomarás la iniciativa de ministrar esta semana."
+          },
+          {
+            "text": "Escriba declaraciones usando de \"Yo haré…. cuando…” y que lo compartan con su grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos al Señor. Pídele al Señor que nos ayude a ser fieles y que nos use para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply113-i-will"
+      }
+    }
+  ]
+}

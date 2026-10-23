@@ -1,0 +1,466 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply319",
+  "sortOrder": 22,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Opcional) Jesucristo es el Señor, para la gloria de Dios Padre. Él quiere que todos los hombres sean salvos y lleguen al conocimiento de la verdad. Porque hay un solo Dios y un mediador también entre Dios y el hombre, el hombre Jesucristo, que se entregó a sí mismo como rescate por todos. ({Filipenses 2:11b}; {1 Timoteo 2:4-6a)}",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11b",
+                    "label": "Filipenses 2:11b",
+                    "passage": "<p><sup>11</sup>... para gloria de Dios Padre.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timoteo 2:4-6a)",
+                    "label": "1 Timoteo 2:4-6a)",
+                    "passage": "<p><sup>4</sup>pues él quiere que todos sean salvos y lleguen a conocer la verdad.<sup>5</sup>Porque hay un solo Dios y un solo mediador entre Dios y los hombres, Jesucristo hombre,<sup>6</sup>quien dio su vida como rescate por todos. Este testimonio Dios lo ha dado a su debido tiempo,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar a las necesidades de los demás en oración, consejo bíblico y aliento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunta: \"¿Qué pasó cuando confiaste en Dios tus metas y tu declaración: “Yo haré…”?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y Animo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Elija una manera de proyectar visión de quiénes pueden llegar a ser en Cristo o lo que Dios puede hacer a través de ellos al</em>:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartir un versículo Bíblico que les recuerde el Corazón del Padre y la visión final."
+                  },
+                  {
+                    "text": "Reflexionando sobre los cambios en su vida desde que comenzaron a seguir a Cristo"
+                  },
+                  {
+                    "text": "recordándoles lo que Dios quiere hacer a través de ellos"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Comparta la GRAN visión de \"Una iglesia para cada pueblo y comunidad, y el Evangelio para cada persona\"."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídale al grupo que cuente la historia de la semana pasada"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Hechos 10:1-33</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Hechos 10:1-33",
+        "html": "<h3>Cornelio manda llamar a Pedro</h3> <p><sup>1</sup>Vivía en Cesarea un centurión llamado Cornelio, del regimiento conocido como el Italiano.<sup>2</sup>Él y toda su familia eran devotos y temerosos de Dios. Realizaba muchas obras de beneficencia para el pueblo de Israel y oraba a Dios constantemente.<sup>3</sup>Un día, como a las tres de la tarde, tuvo una visión. Vio claramente a un ángel de Dios que se le acercaba y le decía:</p> <p>—¡Cornelio!</p> <p><sup>4</sup>—¿Qué quieres, Señor? —le preguntó Cornelio, mirándolo fijamente y con mucho miedo.</p> <p>—Dios ha recibido tus oraciones y tus obras de beneficencia como una ofrenda —le contestó el ángel—.<sup>5</sup>Envía de inmediato a algunos hombres a Jope para que hagan venir a un tal Simón, apodado Pedro.<sup>6</sup>Él se hospeda con Simón el curtidor, que tiene su casa junto al mar.</p> <p><sup>7</sup>Después de que se fue el ángel que le había hablado, Cornelio llamó a dos de sus siervos y a un soldado devoto de los que le servían regularmente.<sup>8</sup>Les explicó todo lo que había sucedido y los envió a Jope.</p> <h3>La visión de Pedro</h3> <p><sup>9</sup>Al día siguiente, mientras ellos iban de camino y se acercaban a la ciudad, Pedro subió a la azotea a orar. Era casi el mediodía.<sup>10</sup>Tuvo hambre y quiso algo de comer. Mientras se lo preparaban, le sobrevino un éxtasis.<sup>11</sup>Vio el cielo abierto y algo parecido a una gran sábana que, suspendida por las cuatro puntas, descendía hacia la tierra.<sup>12</sup>En ella había toda clase de cuadrúpedos, como también reptiles y aves.</p> <p><sup>13</sup>—Levántate, Pedro; mata y come —le dijo una voz.</p> <p><sup>14</sup>—¡De ninguna manera, Señor! —replicó Pedro—. Jamás he comido nada impuro o inmundo.</p> <p><sup>15</sup>Por segunda vez le insistió la voz:</p> <p>—Lo que Dios ha purificado, tú no lo llames impuro.</p> <p><sup>16</sup>Esto sucedió tres veces, y en seguida la sábana fue recogida al cielo.</p> <p><sup>17</sup>Pedro no atinaba a explicarse cuál podría ser el significado de la visión. Mientras tanto, los hombres enviados por Cornelio, que estaban preguntando por la casa de Simón, se presentaron a la puerta.<sup>18</sup>Llamando, averiguaron si allí se hospedaba Simón, apodado Pedro.</p> <p><sup>19</sup>Mientras Pedro seguía reflexionando sobre el significado de la visión, el Espíritu le dijo: «Mira, Simón, tres hombres te buscan.<sup>20</sup>Date prisa, baja y no dudes en ir con ellos, porque yo los he enviado».</p> <p><sup>21</sup>Pedro bajó y les dijo a los hombres:</p> <p>—Aquí estoy; yo soy el que ustedes buscan. ¿Qué asunto los ha traído por acá?</p> <p><sup>22</sup>Ellos le contestaron:</p> <p>—Venimos de parte del centurión Cornelio, un hombre justo y temeroso de Dios, respetado por todo el pueblo judío. Un ángel de Dios le dio instrucciones de invitarlo a usted a su casa para escuchar lo que usted tiene que decirle.</p> <p><sup>23</sup>Entonces Pedro los invitó a pasar y los hospedó.</p> <h3>Pedro en casa de Cornelio</h3> <p>Al día siguiente, Pedro se fue con ellos acompañado de algunos creyentes de Jope.<sup>24</sup>Un día después llegó a Cesarea. Cornelio estaba esperándolo con los parientes y amigos íntimos que había reunido.<sup>25</sup>Al llegar Pedro a la casa, Cornelio salió a recibirlo y, postrándose delante de él, le rindió homenaje.<sup>26</sup>Pero Pedro hizo que se levantara, y le dijo:</p> <p>—Ponte de pie, que solo soy un hombre como tú.</p> <p><sup>27</sup>Pedro entró en la casa conversando con él, y encontró a muchos reunidos.</p> <p><sup>28</sup>Entonces les habló así:</p> <p>—Ustedes saben muy bien que nuestra ley prohíbe que un judío se junte con un extranjero o lo visite. Pero Dios me ha hecho ver que a nadie debo llamar impuro o inmundo.<sup>29</sup>Por eso, cuando mandaron por mí, vine sin poner ninguna objeción. Ahora permítanme preguntarles: ¿para qué me hicieron venir?</p> <p><sup>30</sup>Cornelio contestó:</p> <p>—Hace cuatro días a esta misma hora, las tres de la tarde, estaba yo en casa orando. De repente apareció delante de mí un hombre vestido con ropa brillante,<sup>31</sup>y me dijo: “Cornelio, Dios ha oído tu oración y se ha acordado de tus obras de beneficencia.<sup>32</sup>Por lo tanto, envía a alguien a Jope para hacer venir a Simón, apodado Pedro, que se hospeda en casa de Simón el curtidor, junto al mar”.<sup>33</sup>Así que inmediatamente mandé a llamarte, y tú has tenido la bondad de venir. Ahora estamos todos aquí, en la presencia de Dios, para escuchar todo lo que el Señor te ha encomendado que nos digas.</p>",
+        "url": "https://biblegateway.com/passage/?search=Hechos%2010:1-33&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Hechos 10:1-8",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7326-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7326-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Hechos 10:9-23",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7327-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7327-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Hechos 10:24-33",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7328-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7328-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de Descubrimiento",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención o qué es lo que más te gustó? ¿por qué?"
+          },
+          {
+            "text": "¿Qué hay de nuevo o se ha desarrollado a estas alturas de la historia?"
+          },
+          {
+            "text": "¿Qué se está modelando acerca de una vida dependiente del Espíritu, haciendo discípulos o liderazgo?"
+          },
+          {
+            "text": "¿Cómo podemos vivir de manera diferente ahora que conocemos esta historia?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Preguntas adicionales que puede utilizar:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Cómo continúan los seguidores de Jesús Su obra de hacer discípulos y plantar iglesias?"
+          },
+          {
+            "text": "¿Cómo está impactando el Evangelio en las personas y en la sociedad?"
+          },
+          {
+            "text": "¿Qué barreras u obstáculos se superaron y cómo se superaron?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Fue un viaje de 2 días desde Jope a Cesarea. A través de una serie de visiones, Jesús ayuda a Pedro y a los creyentes judíos con él a cruzar una importante barrera cultural en la iglesia judía. A un buen judío practicante se le prohibió entrar en la casa de un gentil. Sin embargo, Jesús envía a Pedro a la casa de Cornelio. Cornelio no sólo era un gentil, sino un poderoso centurión romano - un comandante militar a cargo de unos 80-100 soldados italianos. Cornelio es un gran ejemplo de una persona de paz. Él es alguien inesperado, cuyo corazón es preparado por Jesús, y que reúne a otros en su red de relaciones para escuchar acerca de Jesús con él. Esta historia muestra cómo el Señor prepara el corazón tanto del mensajero como de la persona de paz."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Practique el dar y la Santa Cena aquí o en la sección Preparación para la Misión</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Practique las habilidades necesarias o temas previos para ayudar a prepararse para ministrar a los demás:",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "Orar, Cuidar, Compartir"
+                        },
+                        {
+                          "text": "Evangelio"
+                        },
+                        {
+                          "text": "Estudios Bíblicos Fundamentales"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica personas o lugares a los que tomarás la iniciativa de ministrar esta semana."
+          },
+          {
+            "text": "Escriba declaraciones usando de \"Yo haré…. cuando…” y que lo comparan con a su grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos al Señor. Pídele al Señor que nos ayude a ser fieles y que nos use para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bendición (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply319-i-will"
+      }
+    }
+  ]
+}

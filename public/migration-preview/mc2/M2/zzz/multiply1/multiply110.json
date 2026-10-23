@@ -1,0 +1,394 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "zzz",
+  "htmlLang": "zzz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply110",
+  "sortOrder": 11,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Read {Romans 11:33-36} and sing 1-2 songs.",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Romans 11:33-36",
+                    "label": "Romans 11:33-36",
+                    "passage": "<p><sup>33</sup>Oh, the depth of the riches of the wisdom and knowledge of God!<br>How unsearchable his judgments,<br>and his paths beyond tracing out!<br><sup>34</sup>“Who has known the mind of the Lord?<br>Or who has been his counselor?”<br><sup>35</sup>“Who has ever given to God,<br>that God should repay them?”<br><sup>36</sup>For from him and through him and for him are all things.<br>To him be the glory forever! Amen.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What is one highlight from this week?"
+          },
+          {
+            "text": "What is one challenge from this past week?"
+          },
+          {
+            "text": "What do you want Jesus to do for you this week?"
+          },
+          {
+            "text": "Pray for each other’s needs."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating God's Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What happened as you trusted God with your goals and <em>I will</em> statements?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "In{John 3:8}, the Spirit of God is described as a wind. We cannot control Him or make Him move; He blows where He wills. We cannot create movements, only the Spirit of God can. But we can position ourselves so that when He does move, we are ready to move with Him. The simple skills you’ve been learning help do just that. The good news is this: the Spirit of God is at work everywhere! Let’s keep preparing ourselves and praying for the Spirit to move.",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "John 3:8",
+                    "label": "John 3:8",
+                    "passage": "<p><sup>8</sup>The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going. So it is with everyone born of the Spirit.”</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Context",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Paul had been arrested because he was falsely accused by the Jewish leaders of breaking a temple law. During his defence before the Governor, Paul shared the story of how he came to know Christ."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Read or watch Acts 22:1-21 two times as everyone listens"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Acts 22:1-21",
+        "html": "<p><sup>1 </sup>“Brothers and fathers, listen now to my defense.”</p> <p><sup>2 </sup>When they heard him speak to them in Aramaic, they became very quiet.</p> <p>Then Paul said:<sup>3</sup>“I am a Jew, born in Tarsus of Cilicia, but brought up in this city. I studied under Gamaliel and was thoroughly trained in the law of our ancestors. I was just as zealous for God as any of you are today.<sup>4</sup>I persecuted the followers of this Way to their death, arresting both men and women and throwing them into prison,<sup>5</sup>as the high priest and all the Council can themselves testify. I even obtained letters from them to their associates in Damascus, and went there to bring these people as prisoners to Jerusalem to be punished.</p> <p><sup>6</sup>“About noon as I came near Damascus, suddenly a bright light from heaven flashed around me.<sup>7</sup>I fell to the ground and heard a voice say to me, ‘Saul! Saul! Why do you persecute me?’</p> <p><sup>8</sup>“‘Who are you, Lord?’ I asked.</p> <p>“ ‘I am Jesus of Nazareth, whom you are persecuting,’ he replied.<sup>9</sup>My companions saw the light, but they did not understand the voice of him who was speaking to me.</p> <p><sup>10</sup>“‘What shall I do, Lord?’ I asked.</p> <p>“ ‘Get up,’ the Lord said, ‘and go into Damascus. There you will be told all that you have been assigned to do.’<sup>11</sup>My companions led me by the hand into Damascus, because the brilliance of the light had blinded me.</p> <p><sup>12</sup>“A man named Ananias came to see me. He was a devout observer of the law and highly respected by all the Jews living there.<sup>13</sup>He stood beside me and said, ‘Brother Saul, receive your sight!’ And at that very moment I was able to see him.</p> <p><sup>14</sup>“Then he said: ‘The God of our ancestors has chosen you to know his will and to see the Righteous One and to hear words from his mouth.<sup>15</sup>You will be his witness to all people of what you have seen and heard.<sup>16</sup>And now what are you waiting for? Get up, be baptized and wash your sins away, calling on his name.’</p> <p><sup>17</sup>“When I returned to Jerusalem and was praying at the temple, I fell into a trance<sup>18</sup>and saw the Lord speaking to me. ‘Quick!’ he said. ‘Leave Jerusalem immediately, because the people here will not accept your testimony about me.’</p> <p><sup>19</sup>“‘Lord,’ I replied, ‘these people know that I went from one synagogue to another to imprison and beat those who believe in you.<sup>20</sup>And when the blood of your martyr Stephen was shed, I stood there giving my approval and guarding the clothes of those who were killing him.’</p> <p><sup>21</sup>“Then the Lord said to me, ‘Go; I will send you far away to the Gentiles.’ ”</p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%2022:1-21&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Acts 22:1-21",
+        "url": "https://vimeo.com/162982206",
+        "source": "vimeo",
+        "refId": "",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What caught your attention (or what did you like best) and why?"
+          },
+          {
+            "text": "What did you learn about Jesus?"
+          },
+          {
+            "text": "What did you learn about people?"
+          },
+          {
+            "text": "How will you obey Jesus now that you know this?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Paul’s story (testimony) can be summarized in 3 parts:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "his life before meeting Christ,"
+                  },
+                  {
+                    "text": "how he met Christ, and"
+                  },
+                  {
+                    "text": "his life after meeting Christ."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "This pattern is still an effective way to tell others what Jesus has done in our lives. Our stories are a powerful witness of the benefits of knowing the Lord. This is the first skill in Field 2 of the Kingdom Growth process."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparing for Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Give a modern example by telling your own story and highlighting the 3 parts"
+                  },
+                  {
+                    "text": "Practice sharing their story with a partner"
+                  },
+                  {
+                    "text": "Have them choose 1 word that describes the 3 parts of their story"
+                  },
+                  {
+                    "text": "Have them expand it by writing down 2-3 sentences for each of the 3 parts"
+                  },
+                  {
+                    "text": "Let them practice telling their story with a partner. After 3 minutes, have them give feedback and then switch."
+                  },
+                  {
+                    "text": "If time allows, have them switch partners and repeat the same process"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identify 5 people from your Network List with whom you will take the initiative to minister to this week.",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Use what you learned this week with at least 3 of these people."
+                }
+              ]
+            }
+          },
+          {
+            "text": "Write “I will by when” statements and tell them to your small group."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Praying for the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Commit everyone's goals to the Lord. Ask the Lord to help us be faithful and use us to start a movement of disciple-makers."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply110-i-will"
+      }
+    }
+  ]
+}

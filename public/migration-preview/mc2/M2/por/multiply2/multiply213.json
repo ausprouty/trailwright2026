@@ -1,0 +1,435 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply213",
+  "sortOrder": 16,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louvar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia uma passagem das Escrituras e louvem com uma canção de adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">(Opcional) Jesus Cristo é o Senhor, para a gloria de Deus Pai. Ele deseja que todos os homens sejam salvos e cheguem ao pleno conhecimento da verdade. Porque há um só Deus e um único mediador entre Deus e os homens, o homem Jesus Cristo, que a si mesmo se entregou como resgate por todos. ({Filipenses 2:11}; {1 Timóteo 2:4-6}) </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>e declarem abertamente<br>que Jesus Cristo é o Senhor,<br>para a glória de Deus, o Pai.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timóteo 2:4-6",
+                    "label": "1 Timóteo 2:4-6",
+                    "passage": "<p><sup>4</sup>Ele quer que todos sejam salvos e venham a conhecer a verdade.</p><p><sup>5</sup>Pois existe um só Deus e uma só pessoa que une Deus com os seres humanos — o ser humano Cristo Jesus,<sup>6</sup>que deu a sua vida para que todos fiquem livres dos seus pecados. Esta foi a prova, dada no tempo certo, de que Deus quer que todos sejam salvos.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar sobre as necessidades dos demais em oração, conselho bíblico e ânimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça a cada pessoa que compartilhe acontecimento especial e um desafio que tenha experimentado nesta semana."
+          },
+          {
+            "text": "Pergunte: \"O que você deseja que Jesus faça por você nesta semana? Ore pelas necessidades dos demais."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<span style=\"background-color:white\"><span lang=\"PT-BR\">Pergunte: \"O que aconteceu quando você confiou em Deus sobre suas metas e suas declarações: Eu farei.... no dia......?\"</span></span>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Escolha uma maneira de dar a visão de quem eles podem chegar a ser em Cristo e o que Deus pode fazer através deles ao:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartilhar um versículo Bíblico que os faça lembrar o Coração do Pai e a visão final, ou"
+                  },
+                  {
+                    "text": "Refletir sobre as mudanças que aconteceram em suas vidas desde que começaram a seguir a Cristo, ou"
+                  },
+                  {
+                    "text": "recordar o que Deus quer fazer através deles."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Compartilhe a GRANDE visão de \"Uma igreja para cada cidade e comunidade, e o evangelho para cada pessoa”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Peça ao grupo que conte a história da semana passada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista John 4:1-42 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "João 4:1-42",
+        "html": "<h3>Jesus e a mulher samaritana</h3> <p><sup>7</sup>Uma mulher samaritana veio tirar água, e Jesus lhe disse:</p> <p>— Por favor, me dê um pouco de água.</p> <p><sup>8</sup>(Os discípulos de Jesus tinham ido até a cidade comprar comida.)</p> <p><sup>9</sup>A mulher respondeu:</p> <p>— O senhor é judeu, e eu sou samaritana. Então como é que o senhor me pede água? (Ela disse isso porque os judeus não se dão com os samaritanos.)</p> <p><sup>10</sup>Então Jesus disse:</p> <p>— Se você soubesse o que Deus pode dar e quem é que está lhe pedindo água, você pediria, e ele lhe daria a água da vida.</p> <p><sup>11</sup>Ela respondeu:</p> <p>— O senhor não tem balde para tirar água, e o poço é fundo. Como é que vai conseguir essa água da vida?<sup>12</sup>Nosso antepassado Jacó nos deu este poço. Ele, os seus filhos e os seus animais beberam água daqui. Será que o senhor é mais importante do que Jacó?</p> <p><sup>13</sup>Então Jesus disse:</p> <p>— Quem beber desta água terá sede de novo,<sup>14</sup>mas a pessoa que beber da água que eu lhe der nunca mais terá sede. Porque a água que eu lhe der se tornará nela uma fonte de água que dará vida eterna.</p> <p><sup>15</sup>Então a mulher pediu:</p> <p>— Por favor, me dê dessa água! Assim eu nunca mais terei sede e não precisarei mais vir aqui buscar água.</p> <p><sup>16</sup>— Vá chamar o seu marido e volte aqui! — ordenou Jesus.</p> <p><sup>17</sup>— Eu não tenho marido! — respondeu a mulher.</p> <p>Então Jesus disse:</p> <p>— Você está certa ao dizer que não tem marido,<sup>18</sup>pois já teve cinco, e este que você tem agora não é, de fato, seu marido. Sim, você falou a verdade.</p> <p><sup>19</sup>A mulher respondeu:</p> <p>— Agora eu sei que o senhor é um profeta!<sup>20</sup>Os nossos antepassados adoravam a Deus neste monte, mas vocês, judeus, dizem que Jerusalém é o lugar onde devemos adorá-lo.</p> <p><sup>21</sup>Jesus disse:</p> <p>— Mulher, creia no que eu digo: chegará o tempo em que ninguém vai adorar a Deus nem neste monte nem em Jerusalém.<sup>22</sup>Vocês, samaritanos, não sabem o que adoram, mas nós sabemos o que adoramos porque a salvação vem dos judeus.<sup>23</sup>Mas virá o tempo, e, de fato, já chegou, em que os verdadeiros adoradores vão adorar o Pai em espírito e em verdade. Pois são esses que o Pai quer que o adorem.<sup>24</sup>Deus é Espírito, e por isso os que o adoram devem adorá-lo em espírito e em verdade.</p> <p><sup>25</sup>A mulher respondeu:</p> <p>— Eu sei que o Messias, chamado Cristo, tem de vir. E, quando ele vier, vai explicar tudo para nós.</p> <p><sup>26</sup>Então Jesus afirmou:</p> <p>— Pois eu, que estou falando com você, sou o Messias.</p> <p><sup>27</sup>Naquele momento chegaram os seus discípulos e ficaram admirados, pois ele estava conversando com uma mulher. Mas nenhum deles perguntou à mulher o que ela queria. E também não perguntaram a Jesus por que motivo ele estava falando com ela.</p> <p><sup>28</sup>Em seguida, a mulher deixou ali o seu pote, voltou até a cidade e disse a todas as pessoas:</p> <p><sup>29</sup>— Venham ver o homem que disse tudo o que eu tenho feito. Será que ele é o Messias?</p> <p><sup>30</sup>Muitas pessoas saíram da cidade e foram para o lugar onde Jesus estava.</p> <p><sup>31</sup>Enquanto isso, os discípulos pediam a Jesus:</p> <p>— Mestre, coma alguma coisa!</p> <p><sup>32</sup>Jesus respondeu:</p> <p>— Eu tenho para comer uma comida que vocês não conhecem.</p> <p><sup>33</sup>Então os discípulos começaram a perguntar uns aos outros:</p> <p>— Será que alguém já trouxe comida para ele?</p> <p><sup>34</sup>— A minha comida — disse Jesus — é fazer a vontade daquele que me enviou e terminar o trabalho que ele me deu para fazer.<sup>35</sup>Vocês costumam dizer: “Daqui a quatro meses teremos a colheita.” Mas olhem e vejam bem os campos: o que foi plantado já está maduro e pronto para a colheita.<sup>36</sup>Quem colhe recebe o seu salário, e o resultado do seu trabalho é a vida eterna para as pessoas. E assim tanto o que semeia como o que colhe se alegrarão juntos.<sup>37</sup>Porque é verdade o que dizem: “Um semeia, e outro colhe.”<sup>38</sup>Eu mandei vocês colherem onde não trabalharam; outros trabalharam ali, e vocês aproveitaram o trabalho deles.</p> <p><sup>39</sup>Muitos samaritanos daquela cidade creram em Jesus porque a mulher tinha dito: “Ele me disse tudo o que eu tenho feito.”<sup>40</sup>Quando os samaritanos chegaram ao lugar onde Jesus estava, pediram a ele que ficasse com eles, e Jesus ficou ali dois dias.</p> <p><sup>41</sup>E muitos outros creram por causa da mensagem dele.<sup>42</sup>Eles diziam à mulher:</p> <p>— Agora não é mais por causa do que você disse que nós cremos, mas porque nós mesmos o ouvimos falar. E sabemos que ele é, de fato, o Salvador do mundo.</p>",
+        "url": "https://biblegateway.com/passage/?search=John%204:1-42&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "John 4:1-42",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2204",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2204",
+        "startTime": "start",
+        "endTime": "5:59",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que te chamou a atenção ou o que você mais gostou? Por quê?"
+          },
+          {
+            "text": "Existe algo novo ou algo que tenha desenvolvido até este ponto da história de Jesus?"
+          },
+          {
+            "text": "O que aprendemos sobre a humanidade ou a divindade de Jesus nessa passagem?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que conhecemos essa história?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Perguntas adicionais que você pode usar:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que estão aprendendo seus seguidores?"
+          },
+          {
+            "text": "O que Jesus está modelando sobre a vida, o ministério e a liderança piedosa?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus desde o começo envolveu Seus discípulos em testemunhar sobre Ele e batizar pessoas em Seu nome no movimento em crescimento. Foram suas primeiras tarefas ministeriais. Quando Jesus entendeu que Seu movimento em crescimento chamou a atenção dos líderes religiosos em Jerusalém Ele retirou-Se com Seus discípulos, levando-os pela região não judia de Samaria. Os judeus tinham grande ódio e preconceito contra o povo Samaritano. Jesus quebrou duas regras culturais: ele conversou com um Samaritano e com uma mulher! Tanto os discípulos como a mulher samaritana ficaram surpresos com o evento. Jesus remodelava o modo de pensar de Seus discípulos sendo exemplo. Eles não conseguiam ver a pessoa preparada por Deus ou a colheita ao redor."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratique ofertar e a comunhão aqui ou na sessão Preparar para a Missão.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pratique as habilidades necessárias ou assuntos prévios para te ajudar a preparar-se para ministrar aos demais:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar e Compartilhar"
+                  },
+                  {
+                    "text": "Compartilhar o Evangelho"
+                  },
+                  {
+                    "text": "Estudos Bíblicos Fundamentais"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique pessoas ou lugares onde tomará a iniciativa de ministrar nessa semana."
+          },
+          {
+            "text": "Escreva suas declarações de “Eu farei........ no dia ........” e compartilhe em seu pequeno grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Apresente as metas de todos ao Senhor. Peça ao Senhor que nos ajude a ser fiéis e que Ele nos use para iniciar um movimento de fazedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benção (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply213-i-will"
+      }
+    }
+  ]
+}

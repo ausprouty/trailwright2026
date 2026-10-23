@@ -21,3 +21,5 @@ AND t.folder_name <=> latest.folder_name
 AND t.filename = latest.filename
 AND t.recnum = latest.max_recnum
 WHERE t.filetype = 'json';
+
+export as

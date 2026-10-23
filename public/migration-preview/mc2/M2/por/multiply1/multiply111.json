@@ -1,0 +1,383 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply111",
+  "sortOrder": 12,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Adoração",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia a Bíblia para fundamentar louvor e adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">Leia {Salmos 95:1-7} e cante uma música 1-2 músicas.</li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Salmos 95:1-7",
+                    "label": "Salmos 95:1-7",
+                    "passage": "<div><div><p><sup>1</sup>Venham todos, e louvemos<br>a Deus, o<span class=\"divine-name small-caps\">Senhor!<br>Cantemos com alegria<br>à rocha que nos salva.<br><sup>2</sup>Vamos comparecer diante dele<br>com ações de graças,<br>cantando alegres hinos de louvor.<br><sup>3</sup>Pois o<span class=\"divine-name small-caps\">Senhor é Deus poderoso;<br>é Rei poderoso<br>acima de todos os deuses.<br><sup>4</sup>Ele reina sobre o mundo inteiro,<br>desde as cavernas mais profundas<br>até os montes mais altos.<br><sup>5</sup>O<span class=\"divine-name small-caps\">Senhor reina sobre o mar,<br>que ele fez,<br>e também sobre a terra,<br>que ele mesmo formou.</span></span></span></p></div><p><sup>6</sup>Venham, fiquemos de joelhos<br>e adoremos o<span class=\"divine-name small-caps\">Senhor.<br>Vamos nos ajoelhar<br>diante do nosso Criador.<br><sup>7</sup>Ele é o nosso Deus;<br>nós somos o povo que ele guia,<br>somos o rebanho do qual ele cuida.</span></p></div><p>Escutem hoje o que ele nos diz:</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Sirvam uns aos outros através de oração, aconselhamento bíblico e encorajamento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça para cada pessoa compartilhar um ponto alto da semana e explicar um desafio pelo o qual passaram."
+          },
+          {
+            "text": "Pergunte, “O que você gostaria que Jesus fizesse por você esta semana?” Ore pelas necessidades uns dos outros."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pergunte, “O que aconteceu quando você confiou suas metas e suas declarações “Eu vou____” a Deus?”"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Esboce uma visão de quem eles podem se tornar em Cristo e o que Deus pode fazer através deles.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Exemplo: No livro de Atos, vemos como cristãos treinaram outros para serem treinadores de outros. Um dos primeiros seguidores de Jesus foi um homem chamado Barnabás. Ele conheceu um novo convertido chamado Paulo e o ajudou. Paulo conheceu um jovem cristão chamado Timóteo e levou o jovem junto com ele para compartilhar o evangelho em muitos lugares . Mais tarde, Paulo escreveu a Timóteo dizendo que este deveria treinar homens fiíeis nas igrejas para que estes possam encontrar novas pessoas para treinar. Leia {2 Timóteo 2:2}. Jesus para Barnabá para Paulo para Timóteo para homens fieis para novos convertidos. Todo cristão é chamado para treinar treinadores que irão treinar treinadores. É como o evangelho foi espalhado rapidamente!",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "2 Timóteo 2:2",
+                    "label": "2 Timóteo 2:2",
+                    "passage": "<p><sup>2</sup>Tome os ensinamentos que você me ouviu dar na presença de muitas testemunhas e entregue-os aos cuidados de homens de confiança, que sejam capazes de ensinar outros.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Após a ressurreição de Jesus, Ele continuou ensinando seus discípulos sobre o Reino de Deus. Durante Seu último encontro com eles, Ele reforçou a missão para a qual haviam sido chamados e sobre o auxílio que seria fornecido."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista Atos 1:1-8 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Atos 1:1-8",
+        "html": "<p><sup>1</sup>Prezado Teófilo,</p> <p>No primeiro livro que escrevi, contei tudo o que Jesus fez e ensinou, desde o começo do seu trabalho<sup>2</sup>até o dia em que ele foi levado para o céu. Antes de ir para o céu, ele deu ordens, pelo poder do Espírito Santo, aos homens que ele havia escolhido como apóstolos.<sup>3</sup>Depois da sua morte, Jesus apareceu a eles de muitas maneiras, durante quarenta dias, provando, sem deixar dúvida nenhuma, que estava vivo. Os apóstolos viram Jesus, e ele conversava com eles a respeito do Reino de Deus.<sup>4</sup>Um dia, quando estava com os apóstolos, Jesus deu esta ordem:</p> <p>— Fiquem em Jerusalém e esperem até que o Pai lhes dê o que prometeu, conforme eu disse a vocês.<sup>5</sup>Pois, de fato, João batizou com água, mas daqui a poucos dias vocês serão batizados com o Espírito Santo.</p> <h3>Jesus é levado para o céu</h3> <p><sup>6</sup>Certa vez, os apóstolos estavam reunidos com Jesus. Então lhe perguntaram:</p> <p>— É agora que o senhor vai devolver o Reino para o povo de Israel?</p> <p><sup>7</sup>Jesus respondeu:</p> <p>— Não cabe a vocês saber a ocasião ou o dia que o Pai marcou com a sua própria autoridade.<sup>8</sup>Porém, quando o Espírito Santo descer sobre vocês, vocês receberão poder e serão minhas testemunhas em Jerusalém, em toda a Judeia e Samaria e até nos lugares mais distantes da terra.</p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%201:1-8&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Atos 1:1-8",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7302-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7302-0-0",
+        "startTime": "start",
+        "endTime": "1:43",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Todos contam o que chamou mais a atenção para cada um (ou do que mais gostaram) e porquê."
+          },
+          {
+            "text": "Por que você acha que esta história é importante?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que ouvimos esta história (passagem)?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Seguir a Jesus significa que iremos obedecer Suas ordens e seremos Suas testemunhas. Mas somente com a ajuda do Espírito Santo em nossas vidas podemos fazer o que é necessário. Somente quando Ele nos capacita, podemos ser testemunhas eficazes. O desejo de Deus é de sejamos testemunhas para todos - para pessoas como nós e para pessoas diferentes de nós; aqueles próximos de nós e aqueles que vivem no mundo todo."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Para mais crescimento: Leia o Conceito Transferível #5: Testemunhando no Espírito e converse com um membro do grupo."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Lembre-os: Sucesso em testemunhar é simplesmente tomar a iniciativa de compartilhar Cristo no poder do Espírito Santo e deixar os resultados com Deus."
+                  },
+                  {
+                    "text": "Reveja o princípio de Respirar Espiritual e dê uma oportunidade pessoas para Exalar e Inalar"
+                  },
+                  {
+                    "text": "Ore por controle e capacitação do Espírito Santo"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique 5 pessoas de sua Lista de Relacionamentos com quem você tomará a iniciativa esta semana e tentará ministrar na vida delas."
+          },
+          {
+            "text": "Use o que você aprendeu esta semana com pelo menos 3 dessas pessoas."
+          },
+          {
+            "text": "Escreva suas declarações ‘Eu vou____” e compartilhe-as com seu pequeno grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Entregue as metas de todos ao Senhor. Peça ao Senhor para nos ajudar a sermos fiéis e para nos usar para iniciar um movimento de discipuladores."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply111-i-will"
+      }
+    }
+  ]
+}

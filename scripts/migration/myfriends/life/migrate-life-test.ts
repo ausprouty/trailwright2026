@@ -6,7 +6,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { exec } from 'node:child_process';
-import { transformLife } from './transformMyfriends';
+import { transformMyfriends } from './transformMyfriends';
 import { normalizeLessonBlocks } from './normalizeLessonBlocks';
 
 const PROJECT_ROOT = process.cwd();
@@ -86,7 +86,7 @@ async function run(): Promise<void> {
 
     const html = await fs.readFile(sourcePath, 'utf8');
 
-    const json = transformLife(html, {
+    const json = transformMyfriends(html, {
       country: COUNTRY,
       language: LANGUAGE,
       series: SERIES,

@@ -1,0 +1,399 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply114",
+  "sortOrder": 15,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Adoração",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia a Bíblia e cante uma música de louvor ao Senhor.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">Leia {Mateus 10:28-30} e cante algumas músicas. (opcional) Use uma Declaração de Fé sobre Jesus, como {Filipenses 2:11}b; {1 Timóteo 2:4-6}a. </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Mateus 10:28-30",
+                    "label": "Mateus 10:28-30",
+                    "passage": "<p><sup>28</sup>Não tenham medo daqueles que matam o corpo, mas não podem matar a alma. Porém tenham medo de Deus, que pode destruir no inferno tanto a alma como o corpo.<sup>29</sup>Por acaso não é verdade que dois passarinhos são vendidos por algumas moedinhas? Porém nenhum deles cai no chão se o Pai de vocês não deixar que isso aconteça.<sup>30</sup>Quanto a vocês, até os fios dos seus cabelos estão todos contados.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>e declarem abertamente<br>que Jesus Cristo é o Senhor,<br>para a glória de Deus, o Pai.</p>"
+                  },
+                  {
+                    "id": "popup_pop7",
+                    "marker": "1 Timóteo 2:4-6",
+                    "label": "1 Timóteo 2:4-6",
+                    "passage": "<p><sup>4</sup>Ele quer que todos sejam salvos e venham a conhecer a verdade.</p><p><sup>5</sup>Pois existe um só Deus e uma só pessoa que une Deus com os seres humanos — o ser humano Cristo Jesus,<sup>6</sup>que deu a sua vida para que todos fiquem livres dos seus pecados. Esta foi a prova, dada no tempo certo, de que Deus quer que todos sejam salvos.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Sirvam uns aos outros através de oração, aconselhamento bíblico e encorajamento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça para cada pessoa compartilhar um ponto alto da semana e explicar um desafio pelo o qual passaram."
+          },
+          {
+            "text": "Pergunte, “O que você gostaria que Jesus fizesse por você esta semana?” Ore pelas necessidades uns dos outros."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pergunte, “O que aconteceu quando você confiou suas metas e suas declarações “Eu vou____” a Deus?”"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Esboce uma visão de quem eles podem se tornar em Cristo e o que Deus pode fazer através deles.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Exemplo: Leia {Hebreus 10:19-25}. O Senhor não nos chamou para estarmos sozinhos. Ele nos chamou para estarmos juntos. Enfrentamos muitos desafios e precisamos de encorajamento e responsabilidade para obedecer o Senhor. Seguir Jesus é melhor em comunidade. Precisamos um do outro, então não podemos desistir de nos reunirmos!",
+                "references": [
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Hebreus 10:19-25",
+                    "label": "Hebreus 10:19-25",
+                    "passage": "<p><sup>19</sup>Por isso, irmãos, por causa da morte de Jesus na cruz nós temos completa liberdade de entrar no Lugar Santíssimo.</p><p><sup>20</sup>Por meio da cortina, isto é, por meio do seu próprio corpo, ele nos abriu um caminho novo e vivo.<sup>21</sup>Nós temos um Grande Sacerdote para dirigir a casa de Deus.<sup>22</sup>Portanto, cheguemos perto de Deus com um coração sincero e uma fé firme, com a consciência limpa das nossas culpas e com o corpo lavado com água pura.<sup>23</sup>Guardemos firmemente a esperança da fé que professamos, pois podemos confiar que Deus cumprirá as suas promessas.<sup>24</sup>Pensemos uns nos outros a fim de ajudarmos todos a terem mais amor e a fazerem o bem.<sup>25</sup>Não abandonemos, como alguns estão fazendo, o costume de assistir às nossas reuniões. Pelo contrário, animemos uns aos outros e ainda mais agora que vocês veem que o dia está chegando.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Deus deu aos judeus uma celebração especial chamada Páscoa, para lembrar como Ele os livrou da escravidão no Egito. Na noite anterior a morte de Jesus na cruz, Ele celebrou a Páscoa com Seus discípulos e explicou como a Páscoa se referia ao próprio Jesus"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista Lucas 22:14-20 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 22:14-20",
+        "html": "<h3>A Ceia do Senhor</h3> <p><sup>14</sup>Quando chegou a hora, Jesus sentou-se à mesa com os apóstolos<sup>15</sup>e lhes disse:</p> <p>— Como tenho desejado comer este jantar da Páscoa com vocês, antes do meu sofrimento!<sup>16</sup>Pois eu digo a vocês que nunca comerei este jantar até que eu coma o verdadeiro jantar que haverá no Reino de Deus.</p> <p><sup>17</sup>Então Jesus pegou o cálice de vinho, deu graças a Deus e disse:</p> <p>— Peguem isto e repartam entre vocês.<sup>18</sup>Pois eu afirmo a vocês que nunca mais beberei deste vinho até que chegue o Reino de Deus.</p> <p><sup>19</sup>Depois pegou o pão e deu graças a Deus. Em seguida partiu o pão e o deu aos apóstolos, dizendo:</p> <p>— Isto é o meu corpo que é entregue em favor de vocês. Façam isto em memória de mim.</p> <p><sup>20</sup>Depois do jantar, do mesmo modo deu a eles o cálice de vinho, dizendo:</p> <p>— Este cálice é a nova aliança feita por Deus com o seu povo, aliança que é garantida pelo meu sangue, derramado em favor de vocês.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%2022:14-20&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lucas 22:14-20",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2622",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2622",
+        "startTime": "1:49",
+        "endTime": "3:17",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Todos contam o que chamou mais a atenção para cada um (ou do que mais gostaram) e porquê."
+          },
+          {
+            "text": "Por que você acha que esta história é importante?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que ouvimos esta história (passagem)?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus moldou para Seus seguidores um meio de lembrar de Sua morte sacrificial na cruz. [Tome um pedaço de pão] O pão representa Seu corpo que foi quebrado em nosso favor. [Mostre o vinho ou suco] A bebida representa Seu sangue que foi derramado por nós e criou um novo caminho para um relacionamento com Deus. Jesus também odenou os discípulos que continuassem a realizar esse momento."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Em {1 Coríntios 11:23-30}, vemos que conforme Paulo iniciava novas igrejas, ele ensinava os novos cristãos como obedecer essa ordem de Jesus",
+                "references": [
+                  {
+                    "id": "popup_pop5",
+                    "marker": "1 Coríntios 11:23-30",
+                    "label": "1 Coríntios 11:23-30",
+                    "passage": "<p><sup>23</sup>Porque eu recebi do Senhor este ensinamento que passei para vocês: que o Senhor Jesus, na noite em que foi traído, pegou o pão<sup>24</sup>e deu graças a Deus. Depois partiu o pão e disse: “Isto é o meu corpo, que é entregue em favor de vocês. Façam isto em memória de mim.”<sup>25</sup>Assim também, depois do jantar, ele pegou o cálice e disse: “Este cálice é a nova aliança feita por Deus com o seu povo, aliança que é garantida pelo meu sangue. Cada vez que vocês beberem deste cálice, façam isso em memória de mim.”<sup>26</sup>De maneira que, cada vez que vocês comem deste pão e bebem deste cálice, estão anunciando a morte do Senhor, até que ele venha.</p><p><sup>27</sup>Por isso aquele que comer do pão do Senhor ou beber do seu cálice de modo que ofenda a honra do Senhor estará pecando contra o corpo e o sangue do Senhor.<sup>28</sup>Portanto, que cada um examine a sua consciência e então coma do pão e beba do cálice.<sup>29</sup>Pois, a pessoa que comer do pão ou beber do cálice sem reconhecer que se trata do corpo do Senhor, estará sendo julgada ao comer e beber para o seu próprio castigo.<sup>30</sup>É por isso que muitos de vocês estão doentes e fracos, e alguns já morreram.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li>Realize a Ceia do Senhor. Utilize o que líderes da igreja local ofereceram ou use a prática sugerida abaixo.</li> <li>Leia {1 Coríntios 11:23-30} .</li> <li>Pause e dê tempo aos participantes para confessar seus pecados e falar com o Senhor.</li> <li>Distribua o pão, conte o que o pão representa o corpo de Cristo que foi quebrado em nosso favor. Comam junto.</li> <li>Distribua a bebida. Conte que representa o sangue do Senhor derramado por nós. Bebam juntos.</li> <li>Ore e agradeça ao Senhor pelo o que Ele fez por nós.</li>",
+                "references": [
+                  {
+                    "id": "popup_pop6",
+                    "marker": "1 Coríntios 11:23-30",
+                    "label": "1 Coríntios 11:23-30",
+                    "passage": "<p><sup>23</sup>Porque eu recebi do Senhor este ensinamento que passei para vocês: que o Senhor Jesus, na noite em que foi traído, pegou o pão<sup>24</sup>e deu graças a Deus. Depois partiu o pão e disse: “Isto é o meu corpo, que é entregue em favor de vocês. Façam isto em memória de mim.”<sup>25</sup>Assim também, depois do jantar, ele pegou o cálice e disse: “Este cálice é a nova aliança feita por Deus com o seu povo, aliança que é garantida pelo meu sangue. Cada vez que vocês beberem deste cálice, façam isso em memória de mim.”<sup>26</sup>De maneira que, cada vez que vocês comem deste pão e bebem deste cálice, estão anunciando a morte do Senhor, até que ele venha.</p><p><sup>27</sup>Por isso aquele que comer do pão do Senhor ou beber do seu cálice de modo que ofenda a honra do Senhor estará pecando contra o corpo e o sangue do Senhor.<sup>28</sup>Portanto, que cada um examine a sua consciência e então coma do pão e beba do cálice.<sup>29</sup>Pois, a pessoa que comer do pão ou beber do cálice sem reconhecer que se trata do corpo do Senhor, estará sendo julgada ao comer e beber para o seu próprio castigo.<sup>30</sup>É por isso que muitos de vocês estão doentes e fracos, e alguns já morreram.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique 5 pessoas de sua Lista de Relacionamentos com quem você possa compartilhar esta história ou o evangelho esta semana."
+          },
+          {
+            "text": "Escreva suas declarações “Eu vou_____” e compartilhe-as com seu grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Entregue as metas de todos ao Senhor. Peça ao Senhor para nos ajudar a sermos fiéis e para nos usar para iniciar um movimento de discipuladores."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply114-i-will"
+      }
+    }
+  ]
+}

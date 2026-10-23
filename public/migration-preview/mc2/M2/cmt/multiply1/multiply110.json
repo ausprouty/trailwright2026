@@ -1,0 +1,459 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmt",
+  "htmlLang": "zh-Hant",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply110",
+  "sortOrder": 11,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "本課將學習如何與人分享你認識耶穌基督的故事，以此鼓勵人，耶穌也能改變他們的生命。本課使用保羅的見證作為引導，使我們可以體驗把自己的故事告訴其他人，並把故事寫在紙上。"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向後看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "敬拜讚美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "詩篇66:1-4"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>1</sup>全地都當向神歡呼！<sup>2</sup>歌頌他名的榮耀，用讚美的言語將他的榮耀發明。<sup>3</sup>當對神說：“你的作為何等可畏！因你的大能，仇敵要投降你。<sup>4</sup>全地要敬拜你，歌頌你，要歌頌你的名。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "現在讓我們誦讀經文兩遍，學唱一首詩歌，並按經文來輪流開聲稱謝神！"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "禱告關懷",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感謝神和需要耶穌為你做的事，並彼此感恩代禱。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "慶賀實踐",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "請分享上週你因信靠神而實踐“屆時我會”的福音行動"
+          },
+          {
+            "text": "背誦上週經文（路10:2）"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "天父心意",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "約翰福音3:8描述聖靈就像風一樣。我們既不能控制聖靈，也不能使喚祂，因祂隨自己的意思運行。我們無法產生運動，只有聖靈自己能做成這事。然而，我們能做的是預備自己，以致當聖靈動工時，我們就能與祂同工。 之前課程所學的技巧，正是預備我們與聖靈同工。感恩的是，聖靈在各處運行！讓我們預備好自己，並禱告與聖靈同工。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "被主呼召",
+        "level": 2
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "猶太人的領袖誣告保羅違反聖殿律法，使他遭逮捕。保羅在官員面前為自己辯護，分享他認識基督的經過。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>故事背景</strong>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>閱讀經文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "閱讀使徒行傳 22:1-21兩遍，或觀看使徒行傳視頻《保羅對群眾的講話》。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "使徒行傳 22:1-21",
+        "html": "<p><sup>1</sup>「諸位父兄，請聽我現在對你們分訴！」<sup>2</sup>眾人聽他說的是希伯來話，就更加安靜了。</p> <p><sup>3</sup><u class=\"person underline\">保羅</u>說：「我原是猶太人，生在基利家的大數，長在這城裡；在<u class=\"person underline\">迦瑪列</u>門下，按著我們祖宗嚴緊的律法受教；熱心侍奉神，像你們眾人今日一樣。<sup>4</sup>我也曾逼迫奉這道的人，直到死地，無論男女都鎖拿下監。<sup>5</sup>這是大祭司和眾長老都可以給我作見證的。我又領了他們達於弟兄的書信，往大馬士革去，要把在那裡奉這道的人鎖拿，帶到耶路撒冷受刑。<sup>6</sup>我將到大馬士革，正走的時候，約在晌午，忽然從天上發大光，四面照著我。<sup>7</sup>我就仆倒在地，聽見有聲音對我說：『<u class=\"person underline\">掃羅</u>，<u class=\"person underline\">掃羅</u>，你為什麼逼迫我？』<sup>8</sup>我回答說：『主啊，你是誰？』他說：『我就是你所逼迫的拿撒勒人耶穌。』<sup>9</sup>與我同行的人看見了那光，卻沒有聽明那位對我說話的聲音。<sup>10</sup>我說：『主啊，我當做什麼？』主說：『起來！進大馬士革去，在那裡要將所派你做的一切事告訴你。』<sup>11</sup>我因那光的榮耀不能看見，同行的人就拉著我手進了大馬士革。<sup>12</sup>那裡有一個人名叫<u class=\"person underline\">亞拿尼亞</u>，按著律法是虔誠人，為一切住在那裡的猶太人所稱讚。<sup>13</sup>他來見我，站在旁邊對我說：『兄弟<u class=\"person underline\">掃羅</u>，你可以看見！』我當時往上一看，就看見了他。<sup>14</sup>他又說：『我們祖宗的神揀選了你，叫你明白他的旨意，又得見那義者，聽他口中所出的聲音。<sup>15</sup>因為你要將所看見的、所聽見的，對著萬人為他作見證。<sup>16</sup>現在你為什麼耽延呢？起來，求告他的名受洗，洗去你的罪！』</p> <p><sup>17</sup>「後來我回到耶路撒冷，在殿裡禱告的時候魂遊象外，<sup>18</sup>看見主向我說：『你趕緊地離開耶路撒冷，不可遲延。因你為我作的見證，這裡的人必不領受。』<sup>19</sup>我就說：『主啊，他們知道我從前把信你的人收在監裡，又在各會堂裡鞭打他們。<sup>20</sup>並且你的見證人<u class=\"person underline\">司提反</u>被害流血的時候，我也站在旁邊歡喜，又看守害死他之人的衣裳。』<sup>21</sup>主向我說：『你去吧！我要差你遠遠地往外邦人那裡去。』」</p>",
+        "url": "https://biblegateway.com/passage/?search=使徒行傳%2022:1-21&version=CUVMPT",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "使徒行傳 22:1-21",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_20615-Acts7359-0-0",
+        "source": "arclight",
+        "refId": "2_20615-Acts7359-0-0",
+        "startTime": "0:44",
+        "endTime": "4:55",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索與討論</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "經文中讓你印象最深刻的是什麼？為什麼？"
+                },
+                {
+                  "text": "從這段經文中你對耶穌有什麼新的認識？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再讀一次這段故事。請小組中一個人口頭講述這故事，並根據需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "保羅的故事（見證）可以歸納成三個部分：1)遇見基督前的生命；2)遇見基督的經過；3)遇見基督後的生命。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小結</strong>"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "若我們用這樣的方式分享見證，將能有效告訴別人耶穌在我們身上的作為。我們的故事就是最有力的見證 ，並告訴人認識上帝的好處。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "經文背誦",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "彼得前書3:15"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "只要心裡尊主基督為聖。有人問你們心中盼望的緣由，就要常作準備，以溫柔、敬畏的心回答各人。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "福音預備",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "練習與反饋",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "兩人一組，彼此分享自己的故事。"
+                        },
+                        {
+                          "text": "聆聽者記下從對方故事中聽到的重點，並根據所聽到的給予反饋。"
+                        },
+                        {
+                          "text": "5分鐘後，互換角色練習。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "text": "花10分鐘簡略寫下你的個人故事，每部分用三個形容詞和句子記下。",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "你認識基督前的生命景況如何？"
+                        },
+                        {
+                          "text": "你是怎麼遇見基督的？"
+                        },
+                        {
+                          "text": "在你接受基督之後，你的生命景況如何？"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "text": "練習與反饋（第二次）",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "另找一位同伴，重複講一次自己的故事"
+                        },
+                        {
+                          "text": "以自己聽到的給予對方反饋"
+                        },
+                        {
+                          "text": "3分鐘後，互換角色練習"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行動",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "本週花時間把你的個人故事寫下（參考並使用下一頁的格式），下週交給組長。"
+          },
+          {
+            "text": "本週找一位親朋鄰舍分享你的個人信主故事。"
+          },
+          {
+            "text": "依照你今天所學習到的，寫下一個“屆時我會”的宣告，並於組內分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在______________（時間/地點）將會__________________(對象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分鐘寫下你在本課的學習心得，或是你未來一週，可能有的其他行動點。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "福音禱告",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "親愛的天父，感謝祢是那位又真又活的神，祢使我可以經歷與祢真實敞開的關係，使我可以脫去舊人，煥發新的生命。求祢幫助我時刻思想祢的所是，記念祢的作為，並常存感恩的心。求祢幫助我珍惜禰所賜的生命，警醒度日，主動向身邊的人分享祢在我生命的作為和故事。奉主耶穌基督的名求，阿們！"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply110-i-will"
+      }
+    }
+  ]
+}

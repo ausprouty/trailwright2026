@@ -1,0 +1,391 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply104",
+  "sortOrder": 4,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Adoração",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia a Bíblia para fundamentar louvor e adoração.</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Salmos 29:2 “Atribuam ao Senhor a glória que o seu nome merece; adorem o Senhor no esplendor do seu santuário.” Vamos dar honras ao Senhor adorando-O."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Sirvam uns aos outros através de oração, aconselhamento bíblico e encorajamento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça para cada pessoa compartilhar um ponto alto da semana e explicar um desafio pelo o qual passaram."
+          },
+          {
+            "text": "Pergunte, “O que você gostaria que Jesus fizesse por você esta semana?” Ore pelas necessidades uns dos outros."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pergunte, “O que aconteceu quando você confiou suas metas e suas declarações “Eu vou____” a Deus?”"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Esboce uma visão de quem eles podem se tornar em Cristo e o que Deus pode fazer através deles.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Exemplo: O Senhor não apenas nos ama, Ele tem uma visão para nossas vidas. E que visão é essa? É ser como Cristo. Em {Romanos 8:29} lemos que Seu plano é que todos sejamos parecidos com Cristo, de experimentar e refletir o Pai como Cristo o fez. E a boa notícia é que esse trabalho de se parecer com Cristo é feito por Deus. Em {Filipenses 1:6} lemos a promessa de que “aquele que começou boa obra em vocês, vai completá-la.” Que isto seja um grande incentivo para você, de que Deus trabalhará em sua vida para que você seja como Cristo.",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Romanos 8:29",
+                    "label": "Romanos 8:29",
+                    "passage": "<p><sup>29</sup>Porque aqueles que já tinham sido escolhidos por Deus ele também separou a fim de se tornarem parecidos com o seu Filho. Ele fez isso para que o Filho fosse o primeiro entre muitos irmãos.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Filipenses 1:6",
+                    "label": "Filipenses 1:6",
+                    "passage": "<p><sup>6</sup>Pois eu estou certo de que Deus, que começou esse bom trabalho na vida de vocês, vai continuá-lo até que ele esteja completo no Dia de Cristo Jesus.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Um seguidor de Jesus chamado Felipe tem compartilhado o evangelho com pessoas em sua área de Israel chamada Samaria. O Senhor interrompeu seu ministério e disse-lhe para ir em direção ao sul pela estrada que levava ao Egito. Quando ele chegou, encontrou um líder africano que estava voltando para seu país de origem. Esta história nos conta o que aconteceu."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista Atos 8:34-40 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Atos 8:34-40",
+        "html": "<p><sup>34</sup>O funcionário perguntou a Filipe:</p> <p>— Por favor, me explique uma coisa! De quem é que o profeta está falando isso? É dele mesmo ou de outro?</p> <p><sup>35</sup>Então, começando com aquela parte das Escrituras, Filipe anunciou ao funcionário a boa notícia a respeito de Jesus.</p> <p><sup>36</sup>Enquanto estavam viajando, chegaram a um lugar onde havia água. Então o funcionário disse:</p> <p>— Veja! Aqui tem água. Será que eu não posso ser batizado?</p> <p><sup>37</sup>[Filipe respondeu:</p> <p>— Se o senhor crê de todo o coração, é claro que pode.</p> <p>E o funcionário disse:</p> <p>— Sim, eu creio que Jesus Cristo é o Filho de Deus.]</p> <p><sup>38</sup>Ele mandou parar a carruagem, os dois entraram na água, e Filipe o batizou ali.</p> <p><sup>39</sup>Quando eles estavam saindo da água, o Espírito do Senhor levou Filipe embora. O funcionário não viu mais Filipe, porém continuou a sua viagem, cheio de alegria.<sup>40</sup>De repente, Filipe se encontrou na cidade de Azoto e seguiu viagem, anunciando o evangelho por todas as cidades até chegar a Cesareia.</p>",
+        "url": "https://biblegateway.com/passage/?search=Acts%208:34-40&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Atos 8:34-40",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7322-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7322-0-0",
+        "startTime": "1:39",
+        "endTime": "2:41",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Todos contam o que chamou mais a atenção para cada um (ou do que mais gostaram) e porquê."
+          },
+          {
+            "text": "Por que você acha que esta história é importante?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que ouvimos esta história (passagem)?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Leia {Mateus 3:13-17}. O próprio Jesus foi batizado e se fez de exemplo para Seus seguidores. Desde a época de Cristo, todos que começam a Segui-Lo fizeram esse compromisso. O desejo de ser batizado mostra a outros que uma transformação realmente ocorreu em nossas vidas. Simboliza nossa corajosa identificação com a morte e ressurreição de Jesus ({Romanos 6:4-5}).",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Mateus 3:13-17",
+                    "label": "Mateus 3:13-17",
+                    "passage": "<p><sup>13</sup>Naqueles dias, Jesus foi da Galileia até o rio Jordão a fim de ser batizado por João Batista.<sup>14</sup>Mas João tentou convencê-lo a mudar de ideia, dizendo assim:</p><p>— Eu é que preciso ser batizado por você, e você está querendo que eu o batize?</p><p><sup>15</sup>Mas Jesus respondeu:</p><p>— Deixe que seja assim agora, pois é dessa maneira que faremos tudo o que Deus quer.</p><p>E João concordou.</p><p><sup>16</sup>Logo que foi batizado, Jesus saiu da água. O céu se abriu, e Jesus viu o Espírito de Deus descer como uma pomba e pousar sobre ele.<sup>17</sup>E do céu veio uma voz, que disse:</p><p>— Este é o meu Filho querido, que me dá muita alegria!</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Romanos 6:4-5",
+                    "label": "Romanos 6:4-5",
+                    "passage": "<p><sup>4</sup>Assim, quando fomos batizados, fomos sepultados com ele por termos morrido junto com ele. E isso para que, assim como Cristo foi ressuscitado pelo poder glorioso do Pai, assim também nós vivamos uma vida nova.</p><p><sup>5</sup>Pois, se fomos unidos com ele por uma morte igual à dele, assim também seremos unidos com ele por uma ressurreição igual à dele.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Praticar compartilhar o evangelho"
+                  },
+                  {
+                    "text": "Lembre-os do que fazer quando alguém diz SIM ao evangelho."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique 5 pessoas da sua Lista de Relacionamentos para quem você contará esta história ou com quem você compartilhará o evangelho esta semana"
+          },
+          {
+            "text": "Se alguém quiser batizado, marque uma data para que isso aconteça."
+          },
+          {
+            "text": "Escreva suas declarações “Eu vou ___” e compartilhe-as com seu grup"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Entregue as metas de todos ao Senhor. Peça ao Senhor para nos ajudar a sermos fiéis e para nos usar para iniciar um movimento de discipuladores."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply104-i-will"
+      }
+    }
+  ]
+}

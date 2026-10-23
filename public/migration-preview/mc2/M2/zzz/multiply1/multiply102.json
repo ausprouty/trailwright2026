@@ -1,0 +1,353 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "zzz",
+  "htmlLang": "zzz",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply102",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "LOOKING BACK",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Praise",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Psalm 48:9 “O Lord, we meditate on your unfailing love as we worship you.”"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Let's pause and tell Jesus how thankful we are for His love for us."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Caring for each other",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What is one highlight from this week?"
+          },
+          {
+            "text": "What is one challenge from this past week?"
+          },
+          {
+            "text": "What do you want Jesus to do for you this week?"
+          },
+          {
+            "text": "Pray for each other’s needs."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrating God's Faithfulness",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What happened as you trusted God with your goals and <em>I will</em> statements?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation and Encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "When we accept Christ, our lives are changed forever. {2 Corinthians 5:17} says, anyone who belongs to Christ is a new creation, the old life has gone, and a new life has begun! That’s us! We are new creations and as we follow Christ, our lives will continue to change to be full of purpose and meaning. Let's encourage each other with this truth as we journey together in this new life.",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "2 Corinthians 5:17",
+                    "label": "2 Corinthians 5:17",
+                    "passage": "<p><sup>17</sup>Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "LOOKING UP",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Context",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Those who are looked down on in society had been responding to Jesus’ teaching. The religious leaders (Pharisees) and the teachers of the religious law didn’t like Jesus associating with these people. So Jesus told a story about a lost son to explain God’s heart towards sinners."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Read or watch Luke 15:11-24 two times as everyone listens"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luke 15:11-24",
+        "html": "<p><sup>11 </sup>Jesus continued: “There was a man who had two sons.<sup>12</sup>The younger one said to his father, ‘Father, give me my share of the estate.’ So he divided his property between them.</p> <p><sup>13</sup>“Not long after that, the younger son got together all he had, set off for a distant country and there squandered his wealth in wild living.<sup>14</sup>After he had spent everything, there was a severe famine in that whole country, and he began to be in need.<sup>15</sup>So he went and hired himself out to a citizen of that country, who sent him to his fields to feed pigs.<sup>16</sup>He longed to fill his stomach with the pods that the pigs were eating, but no one gave him anything.</p> <p><sup>17</sup>“When he came to his senses, he said, ‘How many of my father’s hired servants have food to spare, and here I am starving to death!<sup>18</sup>I will set out and go back to my father and say to him: Father, I have sinned against heaven and against you.<sup>19</sup>I am no longer worthy to be called your son; make me like one of your hired servants.’<sup>20</sup>So he got up and went to his father.</p> <p>“But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.</p> <p><sup>21</sup>“The son said to him, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’</p> <p><sup>22</sup>“But the father said to his servants, ‘Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet.<sup>23</sup>Bring the fattened calf and kill it. Let’s have a feast and celebrate.<sup>24</sup>For this son of mine was dead and is alive again; he was lost and is found.’ So they began to celebrate.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%2015:11-24&version=NIV",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luke 15:11-24",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2616",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2616",
+        "startTime": "start",
+        "endTime": "2:22",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discovery Discussion (Everyone answers)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "What caught your attention (or what did you like best) and why?"
+          },
+          {
+            "text": "What did you learn about Jesus?"
+          },
+          {
+            "text": "What did you learn about people?"
+          },
+          {
+            "text": "How will you obey Jesus now that you know this?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Read, Tell and Correct",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Read the story again. Have someone tell the story and ask the group to correct if necessary."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Summary",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Our heavenly Father is willing to forgive the sins of His children. Our sin does not change the fact that God is our Father. But sin does have consequences and it does affect our fellowship with God. We do not enjoy our Father. 1 John 1:9 assures us, \"If we confess our sins, He is faithful and just and will forgive us our sins and purify us from all wickedness.\""
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "LOOKING FORWARD",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparing for Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "God has called us to respond to His love by praying for people and caring for their needs."
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Review your Oikos List and add additional people if needed"
+                  },
+                  {
+                    "text": "Practice sharing the gospel and leading someone to pray to receive Christ"
+                  },
+                  {
+                    "text": "Remember what to do when someone says YES to the gospel."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Going on the Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identify 5 people from your Oikos List with whom you will tell the story or share the gospel with this week. (use \"I will __ by __\")"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<p>For further enrichment: Read <a href=\"/sites/mc2/content/M2/eng/tc/tc02.html\">Transferable Concept #2: </a> and discuss with another group member.</p>",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply102-i-will"
+      }
+    }
+  ]
+}

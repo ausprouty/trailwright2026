@@ -1,0 +1,463 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply222",
+  "sortOrder": 26,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Opcional) Jesucristo es el Señor, para la gloria de Dios Padre. Él quiere que todos los hombres sean salvos y lleguen al conocimiento de la verdad. Porque hay un solo Dios y un mediador también entre Dios y el hombre, el hombre Jesucristo, que se entregó a sí mismo como rescate por todos. ({Filipenses 2:11}; {1 Timoteo 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>y toda lengua confiese que Jesucristo es el Señor,<br>para gloria de Dios Padre.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timoteo 2:4-6",
+                    "label": "1 Timoteo 2:4-6",
+                    "passage": "<p><sup>4</sup>pues él quiere que todos sean salvos y lleguen a conocer la verdad.<sup>5</sup>Porque hay un solo Dios y un solo mediador entre Dios y los hombres, Jesucristo hombre,<sup>6</sup>quien dio su vida como rescate por todos. Este testimonio Dios lo ha dado a su debido tiempo,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidar",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar las necesidades de los demás en oración, consejo bíblico y ánimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" . Oren por las necesidades de los demás."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunte: ¿Qué pasó cuando confiaste en Dios tus metas y tus declaraciones: Yo haré… cuándo…\" ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivar y animar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Elija una manera de proyectar la visión de quiénes pueden llegar a ser en Cristo o de lo que Dios puede hacer a través de ellos, mediante :</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "un versículo bíblico que les recuerde el corazón del Padre y la visión,"
+                  },
+                  {
+                    "text": "una reflexión sobre los cambios en sus vidas desde que comenzaron a seguir a Cristo,"
+                  },
+                  {
+                    "text": "un recordatorio de lo que Dios quiere hacer a través de ellos."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Nuestra visión es : \"<em>Una iglesia para cada ciudad y comunidad, y el Evangelio para cada persona </em>”"
+              }
+            },
+            {
+              "type": "notesArea",
+              "data": {
+                "notes": "",
+                "storageKey": "note-4"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando hacia arriba",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídale al grupo que cuente la historia de la semana pasada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Lucas 5:17-26</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 5:17-26",
+        "html": "<h3>Jesús sana a un paralítico</h3> <p><sup>17</sup>Un día, mientras enseñaba, estaban sentados allí algunos fariseos y maestros de la ley que habían venido de todas las aldeas de Galilea y Judea, y también de Jerusalén. Y el poder del Señor estaba con él para sanar a los enfermos.<sup>18</sup>Entonces llegaron unos hombres que llevaban en una camilla a un paralítico. Procuraron entrar para ponerlo delante de Jesús,<sup>19</sup>pero no pudieron a causa de la multitud. Así que subieron a la azotea y, separando las tejas, lo bajaron en la camilla hasta ponerlo en medio de la gente, frente a Jesús.</p> <p><sup>20</sup>Al ver la fe de ellos, Jesús dijo:</p> <p>—Amigo, tus pecados quedan perdonados.</p> <p><sup>21</sup>Los fariseos y los maestros de la ley comenzaron a pensar: «¿Quién es este que dice blasfemias? ¿Quién puede perdonar pecados sino solo Dios?»</p> <p><sup>22</sup>Pero Jesús supo lo que estaban pensando y les dijo:</p> <p>—¿Por qué razonan así?<sup>23</sup>¿Qué es más fácil decir: “Tus pecados quedan perdonados”, o “Levántate y anda”?<sup>24</sup>Pues para que sepan que el Hijo del hombre tiene autoridad en la tierra para perdonar pecados —se dirigió entonces al paralítico—: A ti te digo, levántate, toma tu camilla y vete a tu casa.</p> <p><sup>25</sup>Al instante se levantó a la vista de todos, tomó la camilla en que había estado acostado, y se fue a su casa alabando a Dios.<sup>26</sup>Todos quedaron asombrados y ellos también alababan a Dios. Estaban llenos de temor y decían: «Hoy hemos visto maravillas».</p>",
+        "url": "https://biblegateway.com/passage/?search=Lucas%205:17-26&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lucas 5:17-26",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_21028-GOLuke2605",
+        "source": "arclight",
+        "refId": "6_21028-GOLuke2605",
+        "startTime": "3:12",
+        "endTime": "6:03",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de descubrimiento (todos responden)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué llamó tu atención o qué fue lo que más te gustó? ¿Por qué?"
+          },
+          {
+            "text": "¿Hay algo nuevo o qué se ha desarrollado hasta este punto en la historia de Jesús?"
+          },
+          {
+            "text": "¿Qué aprendemos sobre la humanidad o divinidad de Jesús en este pasaje?"
+          },
+          {
+            "text": "¿Cómo podemos vivir de manera diferente ahora que conocemos esta historia?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Preguntas adicionales :</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué están aprendiendo sus seguidores?"
+          },
+          {
+            "text": "¿Qué nos está modelando Jesús sobre la vida y el ministerio, o sobre el liderazgo piadoso?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia nuevamente. Pida que alguien cuente la historia y que el grupo corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "El movimiento está creciendo. Multitudes de todas partes vinieron a escuchar a Jesús y ser sanados. La curación del hombre con lepra había traído fariseos y maestros de la Ley de todas las aldeas de Galilea y Judea y Jerusalén. Los líderes se habían reunido para saber más sobre este hombre que había curado a un leproso. En esta ocasión, Jesús estaba sanando a muchos a través del poder del Espíritu. Cuatro amigos audazmente forzaron su camino al frente de la multitud para llevar a su amigo paralizado a Jesús. Él usó la situación como su quinto alcance, para testificar a los líderes religiosos acerca de quién es realmente. Los líderes entendieron las implicaciones de lo que Jesús dijo e hizo. Al perdonar los pecados del hombre, Jesús se muestra igual a Dios. Todos los que vieron la curación dieron gloria al Padre."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Estudio adicional: {Mateo 9:1-8}; {Marcos 2:1-13}.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Mateo 9:1-8",
+                    "label": "Mateo 9:1-8",
+                    "passage": "<p><sup>1</sup>Subió Jesús a una barca, cruzó al otro lado y llegó a su propio pueblo.<sup>2</sup>Unos hombres le llevaron un paralítico, acostado en una camilla. Al ver Jesús la fe de ellos, le dijo al paralítico:</p><p>—¡Ánimo, hijo; tus pecados quedan perdonados!</p><p><sup>3</sup>Algunos de los maestros de la ley murmuraron entre ellos: «¡Este hombre blasfema!»</p><p><sup>4</sup>Como Jesús conocía sus pensamientos, les dijo:</p><p>—¿Por qué dan lugar a tan malos pensamientos?<sup>5</sup>¿Qué es más fácil, decir: “Tus pecados quedan perdonados”, o decir: “Levántate y anda”?<sup>6</sup>Pues para que sepan que el Hijo del hombre tiene autoridad en la tierra para perdonar pecados —se dirigió entonces al paralítico—: Levántate, toma tu camilla y vete a tu casa.</p><p><sup>7</sup>Y el hombre se levantó y se fue a su casa.<sup>8</sup>Al ver esto, la multitud se llenó de temor y glorificó a Dios por haber dado tal autoridad a los mortales.</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Marcos 2:1-13",
+                    "label": "Marcos 2:1-13",
+                    "passage": "<h3>Jesús sana a un paralítico</h3><p><sup>1</sup>Unos días después, cuando Jesús entró de nuevo en Capernaúm, corrió la voz de que estaba en casa.<sup>2</sup>Se aglomeraron tantos que ya no quedaba sitio ni siquiera frente a la puerta mientras él les predicaba la palabra.<sup>3</sup>Entonces llegaron cuatro hombres que le llevaban un paralítico.<sup>4</sup>Como no podían acercarlo a Jesús por causa de la multitud, quitaron parte del techo encima de donde estaba Jesús y, luego de hacer una abertura, bajaron la camilla en la que estaba acostado el paralítico.<sup>5</sup>Al ver Jesús la fe de ellos, le dijo al paralítico:</p><p>—Hijo, tus pecados quedan perdonados.</p><p><sup>6</sup>Estaban sentados allí algunos maestros de la ley, que pensaban:<sup>7</sup>«¿Por qué habla este así? ¡Está blasfemando! ¿Quién puede perdonar pecados sino solo Dios?»</p><p><sup>8</sup>En ese mismo instante supo Jesús en su espíritu que esto era lo que estaban pensando.</p><p>—¿Por qué razonan así? —les dijo—.<sup>9</sup>¿Qué es más fácil, decirle al paralítico: “Tus pecados son perdonados”, o decirle: “Levántate, toma tu camilla y anda”?<sup>10</sup>Pues para que sepan que el Hijo del hombre tiene autoridad en la tierra para perdonar pecados —se dirigió entonces al paralítico—:<sup>11</sup>A ti te digo, levántate, toma tu camilla y vete a tu casa.</p><p><sup>12</sup>Él se levantó, tomó su camilla en seguida y salió caminando a la vista de todos. Ellos se quedaron asombrados y comenzaron a alabar a Dios.</p><p>—Jamás habíamos visto cosa igual —decían.</p><p><sup>13</sup>De nuevo salió Jesús a la orilla del lago. Toda la gente acudía a él, y él les enseñaba.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Si su grupo tiene la práctica de hacerlo, este es un buen momento para practicar el dar y celebrar la Santa Cena, o hacerlo en la sección de Preparación para la Misión; de lo contrario, anímeles a participar de ellas en la congregación local.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Practique las habilidades necesarias o temas previos para ayudar a prepararse para ministrar a los demás:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar, Compartir"
+                  },
+                  {
+                    "text": "Compartir el Evangelio"
+                  },
+                  {
+                    "text": "Estudios Bíblicos Fundacionales"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica personas o lugares a los que tomarás la iniciativa de ministrar esta semana."
+          },
+          {
+            "text": "Escriba sus declaraciones de “Yo haré…para cuando…” y compártala en su pequeño grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orar por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos con el Señor. Pídele al Señor que nos ayude a ser fieles y úsanos para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bendición (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply222-i-will"
+      }
+    }
+  ]
+}

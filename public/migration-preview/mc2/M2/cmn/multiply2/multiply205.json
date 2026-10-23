@@ -1,0 +1,398 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply205",
+  "sortOrder": 7,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向后看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "敬拜赞美",
+        "level": 2
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "祷告关怀",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感谢神和需要耶稣为你做的事，并彼此感恩代祷"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "庆贺实践",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li style=\"text-align:justify\"><span><span><span><span lang=\"ZH-CN\">请分享上周你因信靠神忠心地操练和实践基督生命的福音行动</span></span></span></span></li> <li class=\"back\">背诵上周经文（{路2:52}） </li>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "路2:52",
+            "label": "路2:52",
+            "passage": "<p><sup>52</sup>耶稣的智慧和身量，并神和人喜爱他的心，都一齐增长。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "天父心意",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "上帝在基督里赐给我们各样的属灵的福气（{弗1:1-14}）， 使我们得以进入祂的家中，称为祂的儿女。虽然生活不尽都顺利并充满未知数，但神是我们的力量，是我们的避难所，是我们随时的帮助。主耶稣祂已应许我们：祂胜过了世界，在祂里面我们有十分的平安和勇气，使我们可以面对各样的挑战和困境，并能靠祂站立得住！（{约14:27}）",
+        "references": [
+          {
+            "id": "popup_pop8",
+            "marker": "弗1:1-14",
+            "label": "弗1:1-14",
+            "passage": "<p><sup>1</sup>奉神旨意做基督耶稣使徒的<u class=\"person underline\">保罗</u>，写信给在以弗所的圣徒，就是在基督耶稣里有忠心的人。<sup>2</sup>愿恩惠、平安从神我们的父和主耶稣基督归于你们！</p><p><sup>3</sup>愿颂赞归于我们主耶稣基督的父神！他在基督里曾赐给我们天上各样属灵的福气，<sup>4</sup>就如神从创立世界以前在基督里拣选了我们，使我们在他面前成为圣洁，无有瑕疵；<sup>5</sup>又因爱我们，就按着自己意旨所喜悦的，预定我们借着耶稣基督得儿子的名分，<sup>6</sup>使他荣耀的恩典得着称赞。这恩典是他在爱子里所赐给我们的。<sup>7</sup>我们借这爱子的血得蒙救赎，过犯得以赦免，乃是照他丰富的恩典。<sup>8</sup>这恩典是神用诸般智慧聪明，充充足足赏给我们的，<sup>9</sup>都是照他自己所预定的美意，叫我们知道他旨意的奥秘，<sup>10</sup>要照所安排的，在日期满足的时候，使天上、地上一切所有的，都在基督里面同归于一。<sup>11</sup>我们也在他里面得了基业，这原是那位随己意行做万事的，照着他旨意所预定的，<sup>12</sup>叫他的荣耀从我们这首先在基督里有盼望的人，可以得着称赞。<sup>13</sup>你们既听见真理的道，就是那叫你们得救的福音，也信了基督，既然信他，就受了所应许的圣灵为印记。<sup>14</sup>这圣灵是我们得基业的凭据，直等到神之民被赎，使他的荣耀得着称赞。</p>"
+          },
+          {
+            "id": "popup_pop3",
+            "marker": "约14:27",
+            "label": "约14:27",
+            "passage": "<p><sup>27</sup>我留下平安给你们，我将我的平安赐给你们。我所赐的不像世人所赐的，你们心里不要忧愁，也不要胆怯。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "学像耶稣",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>经文背景</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">耶稣返回拿撒勒城，这是耶稣长大的家乡；祂首先到会堂去教训人，但是得来的反应却是嘲笑和鄙视，而不是希奇祂的力量。“他们处处与祂为难”，他们讥讽耶稣，以他的出身背景为话柄，不满祂的言行举止。</span>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>阅读经文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "阅读或观看《马太福音13:55-56; 诗篇69:7-12;马可福音6:3》两遍。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "马太福音13:55-56",
+        "html": "<p><sup>55</sup> 这不是木匠的儿子吗？他母亲不是叫马利亚吗？他弟兄们不是叫雅各、约西（注：有古卷作“约瑟”）、西门、犹大吗？<sup>56</sup>他妹妹们不是都在我们这里吗？这人从哪里有这一切的事呢？”</p>",
+        "url": "https://biblegateway.com/passage/?search=马太福音13:55-56&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "马太福音13:55-56",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_20615-GOMatt2510",
+        "source": "arclight",
+        "refId": "6_20615-GOMatt2510",
+        "startTime": "5:33",
+        "endTime": "5:49",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "诗篇69:7-12",
+        "html": "<p><sup>7</sup>因我为你的缘故受了辱骂，满面羞愧。<sup>8</sup>我的弟兄看我为外路人，我的同胞看我为外邦人。<sup>9</sup>因我为你的殿心里焦急，如同火烧，并且辱骂你人的辱骂都落在我身上。<sup>10</sup>我哭泣，以禁食刻苦我心，这倒算为我的羞辱。<sup>11</sup>我拿麻布当衣裳，就成了他们的笑谈。<sup>12</sup>坐在城门口的谈论我，酒徒也以我为歌曲。</p>",
+        "url": "https://biblegateway.com/passage/?search=诗篇69:7-12&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "马可福音6:3",
+        "html": "<p><sup>3</sup>这不是那木匠吗？不是马利亚的儿子雅各、约西、犹大、西门的长兄吗？他妹妹们不也是在我们这里吗？”他们就厌弃他。（注：“厌弃他”原文作“因他跌倒”）</p>",
+        "url": "https://biblegateway.com/passage/?search=马可福音6:3&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索与讨论</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "让你印象深刻的经文/部分是什么？为什么？"
+                },
+                {
+                  "text": "在这段经文中，你对耶稣的神性或人性有何认识？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再读一次这段故事。请小组中一个人口头讲述这故事，并根据需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<hr> <ul> <li class=\"up\"><strong>小结</strong></li> </ul> <p class=\"up\"> </p> <ul> 关于耶稣青少年时期的生活，圣经并没有提到很多，但是我们可以推测祂在平常的犹太人大家庭中长大，是家中的长子（{可6:3}）， 承继约瑟的家业，从事木匠的工作。圣经上说：像我们一样“他学了顺从”（{来5:8}）。 换句话说，祂接受指正并且应对合宜；遭受兄弟们的侮辱和忽视。约瑟死后，祂变成家庭的经济支柱，直到出来公开事奉之前（{可6:3}）。 </ul> <hr>",
+        "references": [
+          {
+            "id": "popup_pop5",
+            "marker": "可6:3",
+            "label": "可6:3",
+            "passage": "<p><sup>3</sup>这不是那木匠吗？不是<u class=\"person underline\">马利亚</u>的儿子<u class=\"person underline\">雅各</u>、<u class=\"person underline\">约西</u>、<u class=\"person underline\">犹大</u>、<u class=\"person underline\">西门</u>的长兄吗？他妹妹们不也是在我们这里吗？”他们就厌弃他。</p>"
+          },
+          {
+            "id": "popup_pop6",
+            "marker": "来5:8",
+            "label": "来5:8",
+            "passage": "<p><sup>8</sup>他虽然为儿子，还是因所受的苦难学了顺从。</p>"
+          },
+          {
+            "id": "popup_pop7",
+            "marker": "可6:3",
+            "label": "可6:3",
+            "passage": "<p><sup>3</sup>这不是那木匠吗？不是<u class=\"person underline\">马利亚</u>的儿子<u class=\"person underline\">雅各</u>、<u class=\"person underline\">约西</u>、<u class=\"person underline\">犹大</u>、<u class=\"person underline\">西门</u>的长兄吗？他妹妹们不也是在我们这里吗？”他们就厌弃他。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "经文背诵",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "可6:3"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "这不是那木匠吗？不是马利亚的儿子雅各、约西、犹大、西门的长兄吗？他妹妹们不也是在我们这里吗？”他们就厌弃他。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音预备",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "你觉得这些人为什么要列举耶稣家人的名字呢？耶稣如何回应他们的态度？我们从耶稣家乡的人的表现中可以学到什么教训？"
+          },
+          {
+            "text": "向家人传福音是特别困难的一件事，你是否有这样的经验？耶稣也曾经受到家人和同乡的拒绝，然而耶稣的家人后来都成为了上帝家中的人，这件事能给你安慰和鼓励吗？请分享你的见证、困难和代祷。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行动",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "在《信徒动员表》和《福音行动表》中写下2-3位需要关心的人。另外为你还没认识神的家人或亲友救恩祷告，求神开福音的门，刚强你的心，开口传扬福音。"
+          },
+          {
+            "text": "在《福音行动表》列下那些目前反对、取笑和攻击你信仰的人。为他们祷告，求主怜悯和赦免他们，因为他们所做的他们不知道。求主得着他们，甚至有一天他们可以成为被主耶稣大大使用的人。"
+          },
+          {
+            "text": "依照你今天所学到的，写下一个“届时我会”的宣告，并于组内分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在________________（时间/地点）将会__________________（对象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分钟写下你在本课的学习心得，或是你未来一周可能有的其他行动点。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音祷告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">创造宇宙万有的天父，感恩祢赐我生命气息，感谢祢让我在这原生家庭，这个城市，这个国家长大。相信祢不误事并对我生命有最大的美意。爱我的天父啊，我为我的父母和家人感恩，谢谢他们的养育之恩，求祢加倍赐福和保守他们。我也为他们祈求，已经相信祢的，求祢坚定他们的信心并有见证和美名；还没相信祢的，求圣灵开他们的心眼，看见主耶稣是真神，是唯一的救主，并速速回转归向祢。奉主耶稣的名感恩和祷告，阿们！</span>"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply205-i-will"
+      }
+    }
+  ]
+}

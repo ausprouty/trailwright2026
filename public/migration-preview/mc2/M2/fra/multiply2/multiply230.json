@@ -1,0 +1,366 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply230",
+  "sortOrder": 35,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lisez un passage biblique et exécutez un chant d’adoration."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la Fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Projection de Vision",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Luc 7:18-35 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Luc 7:18-35",
+        "html": "<p><sup>18</sup>Jean fut informé de toutes ces choses par ses disciples.</p> <p><sup>19</sup>Il en appela deux, et les envoya vers Jésus, pour lui dire: Es-tu celui qui doit venir, ou devons-nous en attendre un autre?</p> <p><sup>20</sup>Arrivés auprès de Jésus, ils dirent: Jean Baptiste nous a envoyés vers toi, pour dire: Es-tu celui qui doit venir, ou devons-nous en attendre un autre?</p> <p><sup>21</sup>A l'heure même, Jésus guérit plusieurs personnes de maladies, d'infirmités, et d'esprits malins, et il rendit la vue à plusieurs aveugles.</p> <p><sup>22</sup>Et il leur répondit: Allez rapporter à Jean ce que vous avez vu et entendu: les aveugles voient, les boiteux marchent, les lépreux sont purifiés, les sourds entendent, les morts ressuscitent, la bonne nouvelle est annoncée aux pauvres.</p> <p><sup>23</sup>Heureux celui pour qui je ne serai pas une occasion de chute!</p> <p><sup>24</sup>Lorsque les envoyés de Jean furent partis, Jésus se mit à dire à la foule, au sujet de Jean: Qu'êtes-vous allés voir au désert? un roseau agité par le vent?</p> <p><sup>25</sup>Mais, qu'êtes-vous allés voir? un homme vêtu d'habits précieux? Voici, ceux qui portent des habits magnifiques, et qui vivent dans les délices, sont dans les maisons des rois.</p> <p><sup>26</sup>Qu'êtes-vous donc allés voir? un prophète? Oui, vous dis-je, et plus qu'un prophète.</p> <p><sup>27</sup>C'est celui dont il est écrit: Voici, j'envoie mon messager devant ta face, Pour préparer ton chemin devant toi.</p> <p><sup>28</sup>Je vous le dis, parmi ceux qui sont nés de femmes, il n'y en a point de plus grand que Jean. Cependant, le plus petit dans le royaume de Dieu est plus grand que lui.</p> <p><sup>29</sup>Et tout le peuple qui l'a entendu et même les publicains ont justifié Dieu, en se faisant baptiser du baptême de Jean;</p> <p><sup>30</sup>mais les pharisiens et les docteurs de la loi, en ne se faisant pas baptiser par lui, ont rendu nul à leur égard le dessein de Dieu.</p> <p><sup>31</sup>A qui donc comparerai-je les hommes de cette génération, et à qui ressemblent-ils?</p> <p><sup>32</sup>Ils ressemblent aux enfants assis dans la place publique, et qui, se parlant les uns aux autres, disent: Nous vous avons joué de la flûte, et vous n'avez pas dansé; nous vous avons chanté des complaintes, et vous n'avez pas pleuré.</p> <p><sup>33</sup>Car Jean Baptiste est venu, ne mangeant pas de pain et ne buvant pas de vin, et vous dites: Il a un démon.</p> <p><sup>34</sup>Le Fils de l'homme est venu, mangeant et buvant, et vous dites: C'est un mangeur et un buveur, un ami des publicains et des gens de mauvaise vie.</p> <p><sup>35</sup>Mais la sagesse a été justifiée par tous ses enfants.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%207:18-35&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Luc 7:18-35",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOLuke2607",
+        "source": "arclight",
+        "refId": "6_496-GOLuke2607",
+        "startTime": "3:10",
+        "endTime": "6:18",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de Découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Etudiez chaque passage en utilisant les questions de discussion suivantes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ?"
+          },
+          {
+            "text": "Qu’est ce qui est nouveau ou s’est développé à ce point de l’histoire de Jésus?"
+          },
+          {
+            "text": "Quelle implication du point de vue de l’humanité ou de la divinité de Jésus voyez-vous dans ce passage ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Questions supplémentaires que vous pouvez poser:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce que ses disciples apprennent?"
+          },
+          {
+            "text": "Qu’est-ce que Jésus est en train de nous montrer au sujet de sa vie et de son ministère (ou leadership) ?"
+          },
+          {
+            "text": "Qu’est ce que Jésus est en train de montrer au sujet du leadership empreint de piété ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jésus a souvent été mal compris en tant que leader. Au cours de cette histoire, il approuve son ami Jean en tant que leader. Jean-Baptiste était assis en prison et avait des doutes au sujet de Jésus à faire venir le Royaume de Dieu. Alors il envoya quelques-uns de ses disciples restants pour aller demander cela à Jésus. Jésus renvoie les hommes avec une citation de l’Ancien Testament tirée d'Isaïe (qui est le même qu'Il a utilisé à Nazareth) pour faire savoir à Jean qu'Il faisait les œuvres du Messie. Jésus a ensuite fait l’éloge de Jean à ses disciples comme étant le plus grand qui soit né. Il a contrasté ceci avec les choses mauvaises que les gens avaient dites au sujet de John. Même après avoir observé Jésus pendant plus de deux ans, ils l'ont accusé d'être possédé par un démon, un glouton et un ivrogne. Être mal compris fait partie du leadership."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Pour une étude approfondie {Matthieu 11:2-19}.",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Matthieu 11:2-19",
+                    "label": "Matthieu 11:2-19",
+                    "passage": "<p><sup>2</sup>Jean, ayant entendu parler dans sa prison des oeuvres du Christ, lui fit dire par ses disciples:</p><p><sup>3</sup>Es-tu celui qui doit venir, ou devons-nous en attendre un autre?</p><p><sup>4</sup>Jésus leur répondit: Allez rapporter à Jean ce que vous entendez et ce que vous voyez:</p><p><sup>5</sup>les aveugles voient, les boiteux marchent, les lépreux sont purifiés, les sourds entendent, les morts ressuscitent, et la bonne nouvelle est annoncée aux pauvres.</p><p><sup>6</sup>Heureux celui pour qui je ne serai pas une occasion de chute!</p><p><sup>7</sup>Comme ils s'en allaient, Jésus se mit à dire à la foule, au sujet de Jean: Qu'êtes-vous allés voir au désert? un roseau agité par le vent?</p><p><sup>8</sup>Mais, qu'êtes-vous allés voir? un homme vêtu d'habits précieux? Voici, ceux qui portent des habits précieux sont dans les maisons des rois.</p><p><sup>9</sup>Qu'êtes-vous donc allés voir? un prophète? Oui, vous dis-je, et plus qu'un prophète.</p><p><sup>10</sup>Car c'est celui dont il est écrit: Voici, j'envoie mon messager devant ta face, Pour préparer ton chemin devant toi.</p><p><sup>11</sup>Je vous le dis en vérité, parmi ceux qui sont nés de femmes, il n'en a point paru de plus grand que Jean Baptiste. Cependant, le plus petit dans le royaume des cieux est plus grand que lui.</p><p><sup>12</sup>Depuis le temps de Jean Baptiste jusqu'à présent, le royaume des cieux est forcé, et ce sont les violents qui s'en s'emparent.</p><p><sup>13</sup>Car tous les prophètes et la loi ont prophétisé jusqu'à Jean;</p><p><sup>14</sup>et, si vous voulez le comprendre, c'est lui qui est l'Élie qui devait venir.</p><p><sup>15</sup>Que celui qui a des oreilles pour entendre entende.</p><p><sup>16</sup>A qui comparerai-je cette génération? Elle ressemble à des enfants assis dans des places publiques, et qui, s'adressant à d'autres enfants,</p><p><sup>17</sup>disent: Nous vous avons joué de la flûte, et vous n'avez pas dansé; nous avons chanté des complaintes, et vous ne vous êtes pas lamentés.</p><p><sup>18</sup>Car Jean est venu, ne mangeant ni ne buvant, et ils disent: Il a un démon.</p><p><sup>19</sup>Le Fils de l'homme est venu, mangeant et buvant, et ils disent: C'est un mangeur et un buveur, un ami des publicains et des gens de mauvaise vie. Mais la sagesse a été justifiée par ses oeuvres.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se Préparer pour la Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez 5 personnes de votre Liste de Réseau envers qui vous prendrez l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez les promesses « je le ferai d’ici quand » et parlez-en à votre groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply230-i-will"
+      }
+    }
+  ]
+}

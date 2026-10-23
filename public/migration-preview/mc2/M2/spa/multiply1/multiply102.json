@@ -1,0 +1,371 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply102",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Salmo 48:9 \"Oh Dios, meditamos en tu amor inagotable mientras adoramos en tu templo\""
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Hagamos una pausa y digámosle a Jesús lo agradecidos que estamos por su amor hacia nosotros.."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidándonos los unos a los otro",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué ha sido lo más destacado de esta semana?"
+          },
+          {
+            "text": "¿Qué desafío has afrontado la semana pasada?"
+          },
+          {
+            "text": "¿Qué te gustaría que Jesús hiciera por ti esta semana?"
+          },
+          {
+            "text": "Oremos por las necesidades de los demás."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebremos la fidelidad de Dios",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "\"¿Qué pasó cuando confiaste en Dios, al hacer tus metas o tu declaración: “Yo haré”?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y Animo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<em>P</em>Cuando aceptamos a Cristo, nuestras vidas cambian para siempre. {2 Corintios 5:17}",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "2 Corintios 5:17",
+                    "label": "2 Corintios 5:17",
+                    "passage": "<p><sup>17</sup>Por lo tanto, si alguno está en Cristo, es una nueva creación. ¡Lo viejo ha pasado, ha llegado ya lo nuevo!</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "dice que todo aquel que es de Cristo es una nueva creación, la vida viejaha pasado y una nueva vida ha comenzado. Eso somos nosotros. Nosotros somos nuevas criaturas y mientras seguimos a Cristo, nuestras vidas continuarán cambiando para estar llenas de propósito y significado. Animémonos unos a otros con esta verdad mientras caminamos juntos en esta nueva vida."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Aquellos que eran despreciados por la sociedad estaban respondiendo a la enseñanza de Jesús. Los líderes religiosos (fariseos) y a los maestros de la ley religiosa no les gustaba que Jesús se asociara con estas personas. Así que Jesús le conto una historia acerca de un hijo perdido para explicar el corazón de Dios hacia los pecadores."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Lucas 15:11-24</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 15:11-24",
+        "html": "<h3>Parábola del hijo perdido</h3> <p><sup>11</sup>»Un hombre tenía dos hijos —continuó Jesús—.<sup>12</sup>El menor de ellos le dijo a su padre: “Papá, dame lo que me toca de la herencia”. Así que el padre repartió sus bienes entre los dos.<sup>13</sup>Poco después el hijo menor juntó todo lo que tenía y se fue a un país lejano; allí vivió desenfrenadamente y derrochó su herencia.</p> <p><sup>14</sup>»Cuando ya lo había gastado todo, sobrevino una gran escasez en la región, y él comenzó a pasar necesidad.<sup>15</sup>Así que fue y consiguió empleo con un ciudadano de aquel país, quien lo mandó a sus campos a cuidar cerdos.<sup>16</sup>Tanta hambre tenía que hubiera querido llenarse el estómago con la comida que daban a los cerdos, pero aun así nadie le daba nada.<sup>17</sup>Por fin recapacitó y se dijo: “¡Cuántos jornaleros de mi padre tienen comida de sobra, y yo aquí me muero de hambre!<sup>18</sup>Tengo que volver a mi padre y decirle: Papá, he pecado contra el cielo y contra ti.<sup>19</sup>Ya no merezco que se me llame tu hijo; trátame como si fuera uno de tus jornaleros”.<sup>20</sup>Así que emprendió el viaje y se fue a su padre.</p> <p>»Todavía estaba lejos cuando su padre lo vio y se compadeció de él; salió corriendo a su encuentro, lo abrazó y lo besó.<sup>21</sup>El joven le dijo: “Papá, he pecado contra el cielo y contra ti. Ya no merezco que se me llame tu hijo”.<sup>22</sup>Pero el padre ordenó a sus siervos: “¡Pronto! Traigan la mejor ropa para vestirlo. Pónganle también un anillo en el dedo y sandalias en los pies.<sup>23</sup>Traigan el ternero más gordo y mátenlo para celebrar un banquete.<sup>24</sup>Porque este hijo mío estaba muerto, pero ahora ha vuelto a la vida; se había perdido, pero ya lo hemos encontrado”. Así que empezaron a hacer fiesta.</p>",
+        "url": "https://biblegateway.com/passage/?search=Lucas%2015:11-24&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lucas 15:11-24",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2616",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2616",
+        "startTime": "start",
+        "endTime": "2:24",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de Descubrimiento (Todos responden)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención (o qué te gustó más) y por qué?"
+          },
+          {
+            "text": "¿Qué aprendiste acerca de Jesús?"
+          },
+          {
+            "text": "¿Qué aprendiste sobre las personas?"
+          },
+          {
+            "text": "¿Cómo obedecerás a Jesús ahora que sabes esto?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Nuestro Padre celestial está dispuesto a perdonar los pecados de Sus hijos. Nuestro pecado no cambia el hecho de que Dios es nuestro Padre. Pero el pecado tiene consecuencias y afecta nuestra comunión con Dios. No disfrutamos de nuestro Padre.1 Juan 1:9 nos asegura, \"Si confesamos nuestros pecados, él es fiel y justo para perdonar nuestros pecados, y limpiarnos de toda maldad”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídeles que revisen su lista Oikos y agreguen personas si es necesario"
+                  },
+                  {
+                    "text": "Pídales que practiquen compartir el Evangelio y guiar a alguien a orar para recibir a Cristo"
+                  },
+                  {
+                    "text": "Recuérdeles qué hacer cuando alguien dice SÍ al Evangelio."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pídales que identifiquen a 5 personas de tu Lista Oikos a las que les contarás la historia o con las que compartirás el Evangelio esta semana. (use la declaración: \"Yo haré……. cuando…”)."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos al Señor. Pídele al Señor que nos ayude a ser fieles y que nos use para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Para un mayor enriquecimiento: <a href=\"https://staging.mc2.online/content/M2/spa/tc/tc02.html\" target=\"_blank\">Lea el concepto transferible #2: Cómo puede usted experimentar el amor y perdón de Dios?</a>, comparta lo aprendido con otro miembro del grupo.",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply102-i-will"
+      }
+    }
+  ]
+}

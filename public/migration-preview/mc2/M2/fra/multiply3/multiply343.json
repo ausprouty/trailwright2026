@@ -1,0 +1,487 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply343",
+  "sortOrder": 49,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lisez un passage biblique et exécutez un chant d’adoration.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Facultatif) Jésus-Christ est Seigneur, à la gloire de Dieu le Père ; qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité. Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus-Christ homme, qui s’est donné lui-même en rançon pour tous. ({Philippiens 2:11}; {1 Timothée 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippiens 2:11",
+                    "label": "Philippiens 2:11",
+                    "passage": "<p><sup>11</sup>et que toute langue confesse que Jésus Christ est Seigneur, à la gloire de Dieu le Père.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timothée 2:4-6",
+                    "label": "1 Timothée 2:4-6",
+                    "passage": "<p><sup>4</sup>qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité.</p><p><sup>5</sup>Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus Christ homme,</p><p><sup>6</sup>qui s'est donné lui-même en rançon pour tous. C'est là le témoignage rendu en son propre temps,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation et encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Trouvez un moyen de projeter une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "un passage qui leur rappelle le cœur du Père et de la vision final."
+                  },
+                  {
+                    "text": "réfléchir sur des changements intervenus dans leur vie depuis qu’ils ont commencé à suivre Christ"
+                  },
+                  {
+                    "text": "leur rappeler ce que Dieu veut faire à travers eux"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Partagez la GRANDE vision</strong> <em>« une église pour chaque village et communauté, l’évangile pour chaque personne ».</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexte",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Demandez au groupe de raconter l’histoire de la semaine passée."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lisez",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Actes 21:1-26 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Actes 21:1-26",
+        "html": "<p><sup>1</sup>Nous nous embarquâmes, après nous être séparés d'eux, et nous allâmes directement à Cos, le lendemain à Rhodes, et de là à Patara.</p> <p><sup>2</sup>Et ayant trouvé un navire qui faisait la traversée vers la Phénicie, nous montâmes et partîmes.</p> <p><sup>3</sup>Quand nous fûmes en vue de l'île de Chypre, nous la laissâmes à gauche, poursuivant notre route du côté de la Syrie, et nous abordâmes à Tyr, où le bâtiment devait décharger sa cargaison.</p> <p><sup>4</sup>Nous trouvâmes les disciples, et nous restâmes là sept jours. Les disciples, poussés par l'Esprit, disaient à Paul de ne pas monter à Jérusalem.</p> <p><sup>5</sup>Mais, lorsque nous fûmes au terme des sept jours, nous nous acheminâmes pour partir, et tous nous accompagnèrent avec leur femme et leurs enfants jusque hors de la ville. Nous nous mîmes à genoux sur le rivage, et nous priâmes.</p> <p><sup>6</sup>Puis, ayant pris congé les uns des autres, nous montâmes sur le navire, et ils retournèrent chez eux.</p> <p><sup>7</sup>Achevant notre navigation, nous allâmes de Tyr à Ptolémaïs, où nous saluâmes les frères, et passâmes un jour avec eux.</p> <p><sup>8</sup>Nous partîmes le lendemain, et nous arrivâmes à Césarée. Étant entrés dans la maison de Philippe l'évangéliste, qui était l'un des sept, nous logeâmes chez lui.</p> <p><sup>9</sup>Il avait quatre filles vierges qui prophétisaient.</p> <p><sup>10</sup>Comme nous étions là depuis plusieurs jours, un prophète, nommé Agabus, descendit de Judée,</p> <p><sup>11</sup>et vint nous trouver. Il prit la ceinture de Paul, se lia les pieds et les mains, et dit: Voici ce que déclare le Saint Esprit: L'homme à qui appartient cette ceinture, les Juifs le lieront de la même manière à Jérusalem, et le livreront entre les mains des païens.</p> <p><sup>12</sup>Quand nous entendîmes cela, nous et ceux de l'endroit, nous priâmes Paul de ne pas monter à Jérusalem.</p> <p><sup>13</sup>Alors il répondit: Que faites-vous, en pleurant et en me brisant le coeur? Je suis prêt, non seulement à être lié, mais encore à mourir à Jérusalem pour le nom du Seigneur Jésus.</p> <p><sup>14</sup>Comme il ne se laissait pas persuader, nous n'insistâmes pas, et nous dîmes: Que la volonté du Seigneur se fasse!</p> <p><sup>15</sup>Après ces jours-là, nous fîmes nos préparatifs, et nous montâmes à Jérusalem.</p> <p><sup>16</sup>Quelques disciples de Césarée vinrent aussi avec nous, et nous conduisirent chez un nommé Mnason, de l'île de Chypre, ancien disciple, chez qui nous devions loger.</p> <p><sup>17</sup>Lorsque nous arrivâmes à Jérusalem, les frères nous reçurent avec joie.</p> <p><sup>18</sup>Le lendemain, Paul se rendit avec nous chez Jacques, et tous les anciens s'y réunirent.</p> <p><sup>19</sup>Après les avoir salués, il raconta en détail ce que Dieu avait fait au milieu des païens par son ministère.</p> <p><sup>20</sup>Quand ils l'eurent entendu, ils glorifièrent Dieu. Puis ils lui dirent: Tu vois, frère, combien de milliers de Juifs ont cru, et tous sont zélés pour la loi.</p> <p><sup>21</sup>Or, ils ont appris que tu enseignes à tous les Juifs qui sont parmi les païens à renoncer à Moïse, leur disant de ne pas circoncire les enfants et de ne pas se conformer aux coutumes.</p> <p><sup>22</sup>Que faire donc? Sans aucun doute la multitude se rassemblera, car on saura que tu es venu.</p> <p><sup>23</sup>C'est pourquoi fais ce que nous allons te dire. Il y a parmi nous quatre hommes qui ont fait un voeu;</p> <p><sup>24</sup>prends-les avec toi, purifie-toi avec eux, et pourvois à leur dépense, afin qu'ils se rasent la tête. Et ainsi tous sauront que ce qu'ils ont entendu dire sur ton compte est faux, mais que toi aussi tu te conduis en observateur de la loi.</p> <p><sup>25</sup>A l'égard des païens qui ont cru, nous avons décidé et nous leur avons écrit qu'ils eussent à s'abstenir des viandes sacrifiées aux idoles, du sang, des animaux étouffés, et de l'impudicité.</p> <p><sup>26</sup>Alors Paul prit ces hommes, se purifia, et entra le lendemain dans le temple avec eux, pour annoncer à quel jour la purification serait accomplie et l'offrande présentée pour chacun d'eux.</p>",
+        "url": "https://biblegateway.com/passage/?search=Actes%2021:1-26&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Actes 21:1-16",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_496-Acts7356-0-0",
+        "source": "arclight",
+        "refId": "2_496-Acts7356-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Actes 21:17-26",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_496-Acts7357-0-0",
+        "source": "arclight",
+        "refId": "2_496-Acts7357-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ? Pourquoi ?"
+          },
+          {
+            "text": "À ce niveau de l’histoire, qu’est-ce qui est nouveau ou est développé ?"
+          },
+          {
+            "text": "Quel modèle a été donné quant à la vie dépendante de l’Esprit, faire de disciples ou au leadership ?"
+          },
+          {
+            "text": "Comment pouvons-nous vivre différemment maintenant que nous connaissons cette histoire?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Des questions supplémentaires dont vous pouvez faire usage:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comment les disciples de Jésus poursuivent-ils Son œuvre de faire des disciples et d’implantation d’églises ?"
+          },
+          {
+            "text": "Comment l’évangile impacte-t-il les gens et la société ?"
+          },
+          {
+            "text": "Quels étaient les barrières et les obstacles qui ont été surmontés et comment ont-ils été surmontés ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Paul n'était pas le seul à implanter des églises. Nous apprenons de cette histoire qu’il y a d’autres communautés de croyants qui se sont formées en dehors de l’œuvre de Paul. À Césarée, ils sont restés avec Philippe qui a témoigné auprès des Samaritains et de l'eunuque éthiopien ({Actes 8:40}). Grâce aux filles de Philippe, nous apprenons que les femmes ont également reçu des dons du Saint-Esprit comme la prophétie. À deux reprises, des prophéties ont été données par le Saint-Esprit sur le danger auquel Paul serait confronté à Jérusalem, mais ce n'était pas nouveau pour Paul. Paul était contraint par l'Esprit d'aller à Jérusalem ({Actes 19:21}), et il était averti que la persécution l'attendait ({Actes 20: 22-23}). Paul avait accepté le fait que la souffrance faisait partie de la volonté du Seigneur pour lui. Les problèmes d’il y a huit ans plus tôt concernant la pratique de la loi dérangeaient toujours les croyants juifs de Jérusalem ({Actes 11} et {Actes 15}). Paul s'est soumis aux demandes des dirigeants de Jérusalem de respecter la loi afin que les croyants locaux ne trébuchent pas. Lisez {Romains 14:13-19}.",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Actes 8:40",
+                    "label": "Actes 8:40",
+                    "passage": "<p><sup>40</sup>Philippe se trouva dans Azot, d'où il alla jusqu'à Césarée, en évangélisant toutes les villes par lesquelles il passait.</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Actes 19:21",
+                    "label": "Actes 19:21",
+                    "passage": "<p><sup>21</sup>Après que ces choses se furent passées, Paul forma le projet d'aller à Jérusalem, en traversant la Macédoine et l'Achaïe. Quand j'aurai été là, se disait-il, il faut aussi que je voie Rome.</p>"
+                  },
+                  {
+                    "id": "popup_pop5",
+                    "marker": "Actes 20: 22-23",
+                    "label": "Actes 20: 22-23",
+                    "passage": "<p><sup>22</sup>Et maintenant voici, lié par l'Esprit, je vais à Jérusalem, ne sachant pas ce qui m'y arrivera;</p><p><sup>23</sup>seulement, de ville en ville, l'Esprit Saint m'avertit que des liens et des tribulations m'attendent.</p>"
+                  },
+                  {
+                    "id": "popup_pop6",
+                    "marker": "Actes 11",
+                    "label": "Actes 11",
+                    "passage": "<div><p><sup>1</sup>Les apôtres et les frères qui étaient dans la Judée apprirent que les païens avaient aussi reçu la parole de Dieu.</p><p><sup>2</sup>Et lorsque Pierre fut monté à Jérusalem, les fidèles circoncis lui adressèrent des reproches,</p><p><sup>3</sup>en disant: Tu es entré chez des incirconcis, et tu as mangé avec eux.</p><p><sup>4</sup>Pierre se mit à leur exposer d'une manière suivie ce qui s'était passé.</p><p><sup>5</sup>Il dit: J'étais dans la ville de Joppé, et, pendant que je priais, je tombai en extase et j'eus une vision: un objet, semblable à une grande nappe attachée par les quatre coins, descendait du ciel et vint jusqu'à moi.</p><p><sup>6</sup>Les regards fixés sur cette nappe, j'examinai, et je vis les quadrupèdes de la terre, les bêtes sauvages, les reptiles, et les oiseaux du ciel.</p><p><sup>7</sup>Et j'entendis une voix qui me disait: Lève-toi, Pierre, tue et mange.</p><p><sup>8</sup>Mais je dis: Non, Seigneur, car jamais rien de souillé ni d'impur n'est entré dans ma bouche.</p><p><sup>9</sup>Et pour la seconde fois la voix se fit entendre du ciel: Ce que Dieu a déclaré pur, ne le regarde pas comme souillé.</p><p><sup>10</sup>Cela arriva jusqu'à trois fois; puis tout fut retiré dans le ciel.</p><p><sup>11</sup>Et voici, aussitôt trois hommes envoyés de Césarée vers moi se présentèrent devant la porte de la maison où j'étais.</p><p><sup>12</sup>L'Esprit me dit de partir avec eux sans hésiter. Les six hommes que voici m'accompagnèrent, et nous entrâmes dans la maison de Corneille.</p><p><sup>13</sup>Cet homme nous raconta comment il avait vu dans sa maison l'ange se présentant à lui et disant: Envoie à Joppé, et fais venir Simon, surnommé Pierre,</p><p><sup>14</sup>qui te dira des choses par lesquelles tu seras sauvé, toi et toute ta maison.</p><p><sup>15</sup>Lorsque je me fus mis à parler, le Saint Esprit descendit sur eux, comme sur nous au commencement.</p><p><sup>16</sup>Et je me souvins de cette parole du Seigneur: Jean a baptisé d'eau, mais vous, vous serez baptisés du Saint Esprit.</p><p><sup>17</sup>Or, puisque Dieu leur a accordé le même don qu'à nous qui avons cru au Seigneur Jésus Christ, pouvais-je, moi, m'opposer à Dieu?</p><p><sup>18</sup>Après avoir entendu cela, ils se calmèrent, et ils glorifièrent Dieu, en disant: Dieu a donc accordé la repentance aussi aux païens, afin qu'ils aient la vie.</p><p><sup>19</sup>Ceux qui avaient été dispersés par la persécution survenue à l'occasion d'Étienne allèrent jusqu'en Phénicie, dans l'île de Chypre, et à Antioche, annonçant la parole seulement aux Juifs.</p><p><sup>20</sup>Il y eut cependant parmi eux quelques hommes de Chypre et de Cyrène, qui, étant venus à Antioche, s'adressèrent aussi aux Grecs, et leur annoncèrent la bonne nouvelle du Seigneur Jésus.</p><p><sup>21</sup>La main du Seigneur était avec eux, et un grand nombre de personnes crurent et se convertirent au Seigneur.</p><p><sup>22</sup>Le bruit en parvint aux oreilles des membres de l'Église de Jérusalem, et ils envoyèrent Barnabas jusqu'à Antioche.</p><p><sup>23</sup>Lorsqu'il fut arrivé, et qu'il eut vu la grâce de Dieu, il s'en réjouit, et il les exhorta tous à rester d'un coeur ferme attachés au Seigneur.</p><p><sup>24</sup>Car c'était un homme de bien, plein d'Esprit Saint et de foi. Et une foule assez nombreuse se joignit au Seigneur.</p><p><sup>25</sup>Barnabas se rendit ensuite à Tarse, pour chercher Saul;</p><p><sup>26</sup>et, l'ayant trouvé, il l'amena à Antioche. Pendant toute une année, ils se réunirent aux assemblées de l'Église, et ils enseignèrent beaucoup de personnes. Ce fut à Antioche que, pour la première fois, les disciples furent appelés chrétiens.</p><p><sup>27</sup>En ce temps-là, des prophètes descendirent de Jérusalem à Antioche.</p><p><sup>28</sup>L'un deux, nommé Agabus, se leva, et annonça par l'Esprit qu'il y aurait une grande famine sur toute la terre. Elle arriva, en effet, sous Claude.</p><p><sup>29</sup>Les disciples résolurent d'envoyer, chacun selon ses moyens, un secours aux frères qui habitaient la Judée.</p><p><sup>30</sup>Ils le firent parvenir aux anciens par les mains de Barnabas et de Saul.</p></div>"
+                  },
+                  {
+                    "id": "popup_pop7",
+                    "marker": "Actes 15",
+                    "label": "Actes 15",
+                    "passage": "<div><p><sup>1</sup>Quelques hommes, venus de la Judée, enseignaient les frères, en disant: Si vous n'êtes circoncis selon le rite de Moïse, vous ne pouvez être sauvés.</p><p><sup>2</sup>Paul et Barnabas eurent avec eux un débat et une vive discussion; et les frères décidèrent que Paul et Barnabas, et quelques-uns des leurs, monteraient à Jérusalem vers les apôtres et les anciens, pour traiter cette question.</p><p><sup>3</sup>Après avoir été accompagnés par l'Église, ils poursuivirent leur route à travers la Phénicie et la Samarie, racontant la conversion des païens, et ils causèrent une grande joie à tous les frères.</p><p><sup>4</sup>Arrivés à Jérusalem, ils furent reçus par l'Église, les apôtres et les anciens, et ils racontèrent tout ce que Dieu avait fait avec eux.</p><p><sup>5</sup>Alors quelques-uns du parti des pharisiens, qui avaient cru, se levèrent, en disant qu'il fallait circoncire les païens et exiger l'observation de la loi de Moïse.</p><p><sup>6</sup>Les apôtres et les anciens se réunirent pour examiner cette affaire.</p><p><sup>7</sup>Une grande discussion s'étant engagée, Pierre se leva, et leur dit: Hommes frères, vous savez que dès longtemps Dieu a fait un choix parmi vous, afin que, par ma bouche, les païens entendissent la parole de l'Évangile et qu'ils crussent.</p><p><sup>8</sup>Et Dieu, qui connaît les coeurs, leur a rendu témoignage, en leur donnant le Saint Esprit comme à nous;</p><p><sup>9</sup>il n'a fait aucune différence entre nous et eux, ayant purifié leurs coeurs par la foi.</p><p><sup>10</sup>Maintenant donc, pourquoi tentez-vous Dieu, en mettant sur le cou des disciples un joug que ni nos pères ni nous n'avons pu porter?</p><p><sup>11</sup>Mais c'est par la grâce du Seigneur Jésus que nous croyons être sauvés, de la même manière qu'eux.</p><p><sup>12</sup>Toute l'assemblée garda le silence, et l'on écouta Barnabas et Paul, qui racontèrent tous les miracles et les prodiges que Dieu avait faits par eux au milieu des païens.</p><p><sup>13</sup>Lorsqu'ils eurent cessé de parler, Jacques prit la parole, et dit: Hommes frères, écoutez-moi!</p><p><sup>14</sup>Simon a raconté comment Dieu a d'abord jeté les regards sur les nations pour choisir du milieu d'elles un peuple qui portât son nom.</p><p><sup>15</sup>Et avec cela s'accordent les paroles des prophètes, selon qu'il est écrit:</p><p><sup>16</sup>Après cela, je reviendrai, et je relèverai de sa chute la tente de David, J'en réparerai les ruines, et je la redresserai,</p><p><sup>17</sup>Afin que le reste des hommes cherche le Seigneur, Ainsi que toutes les nations sur lesquelles mon nom est invoqué, Dit le Seigneur, qui fait ces choses,</p><p><sup>18</sup>Et à qui elles sont connues de toute éternité.</p><p><sup>19</sup>C'est pourquoi je suis d'avis qu'on ne crée pas des difficultés à ceux des païens qui se convertissent à Dieu,</p><p><sup>20</sup>mais qu'on leur écrive de s'abstenir des souillures des idoles, de l'impudicité, des animaux étouffés et du sang.</p><p><sup>21</sup>Car, depuis bien des générations, Moïse a dans chaque ville des gens qui le prêchent, puisqu'on le lit tous les jours de sabbat dans les synagogues.</p><p><sup>22</sup>Alors il parut bon aux apôtres et aux anciens, et à toute l'Église, de choisir parmi eux et d'envoyer à Antioche, avec Paul et Barsabas, Jude appelé Barnabas et Silas, hommes considérés entre les frères.</p><p><sup>23</sup>Ils les chargèrent d'une lettre ainsi conçue: Les apôtres, les anciens, et les frères, aux frères d'entre les païens, qui sont à Antioche, en Syrie, et en Cilicie, salut!</p><p><sup>24</sup>Ayant appris que quelques hommes partis de chez nous, et auxquels nous n'avions donné aucun ordre, vous ont troublés par leurs discours et ont ébranlé vos âmes,</p><p><sup>25</sup>nous avons jugé à propos, après nous être réunis tous ensemble, de choisir des délégués et de vous les envoyer avec nos bien-aimés Barnabas et Paul,</p><p><sup>26</sup>ces hommes qui ont exposé leur vie pour le nom de notre Seigneur Jésus Christ.</p><p><sup>27</sup>Nous avons donc envoyé Jude et Silas, qui vous annonceront de leur bouche les mêmes choses.</p><p><sup>28</sup>Car il a paru bon au Saint Esprit et à nous de ne vous imposer d'autre charge que ce qui est nécessaire,</p><p><sup>29</sup>savoir, de vous abstenir des viandes sacrifiées aux idoles, du sang, des animaux étouffés, et de l'impudicité, choses contre lesquelles vous vous trouverez bien de vous tenir en garde. Adieu.</p><p><sup>30</sup>Eux donc, ayant pris congé de l'Église, allèrent à Antioche, où ils remirent la lettre à la multitude assemblée.</p><p><sup>31</sup>Après l'avoir lue, les frères furent réjouis de l'encouragement qu'elle leur apportait.</p><p><sup>32</sup>Jude et Silas, qui étaient eux-mêmes prophètes, les exhortèrent et les fortifièrent par plusieurs discours.</p><p><sup>33</sup>Au bout de quelque temps, les frères les laissèrent en paix retourner vers ceux qui les avaient envoyés.</p><p><sup>34</sup>Toutefois Silas trouva bon de rester.</p><p><sup>35</sup>Paul et Barnabas demeurèrent à Antioche, enseignant et annonçant, avec plusieurs autres, la bonne nouvelle de la parole du Seigneur.</p><p><sup>36</sup>Quelques jours s'écoulèrent, après lesquels Paul dit à Barnabas: Retournons visiter les frères dans toutes les villes où nous avons annoncé la parole du Seigneur, pour voir en quel état ils sont.</p><p><sup>37</sup>Barnabas voulait emmener aussi Jean, surnommé Marc;</p><p><sup>38</sup>mais Paul jugea plus convenable de ne pas prendre avec eux celui qui les avait quittés depuis la Pamphylie, et qui ne les avait point accompagnés dans leur oeuvre.</p><p><sup>39</sup>Ce dissentiment fut assez vif pour être cause qu'ils se séparèrent l'un de l'autre. Et Barnabas, prenant Marc avec lui, s'embarqua pour l'île de Chypre.</p><p><sup>40</sup>Paul fit choix de Silas, et partit, recommandé par les frères à la grâce du Seigneur.</p><p><sup>41</sup>Il parcourut la Syrie et la Cilicie, fortifiant les Églises.</p></div>"
+                  },
+                  {
+                    "id": "popup_pop8",
+                    "marker": "Romains 14:13-19",
+                    "label": "Romains 14:13-19",
+                    "passage": "<p><sup>13</sup>Ne nous jugeons donc plus les uns les autres; mais pensez plutôt à ne rien faire qui soit pour votre frère une pierre d'achoppement ou une occasion de chute.</p><p><sup>14</sup>Je sais et je suis persuadé par le Seigneur Jésus que rien n'est impur en soi, et qu'une chose n'est impure que pour celui qui la croit impure.</p><p><sup>15</sup>Mais si, pour un aliment, ton frère est attristé, tu ne marches plus selon l'amour: ne cause pas, par ton aliment, la perte de celui pour lequel Christ est mort.</p><p><sup>16</sup>Que votre privilège ne soit pas un sujet de calomnie.</p><p><sup>17</sup>Car le royaume de Dieu, ce n'est pas le manger et le boire, mais la justice, la paix et la joie, par le Saint Esprit.</p><p><sup>18</sup>Celui qui sert Christ de cette manière est agréable à Dieu et approuvé des hommes.</p><p><sup>19</sup>Ainsi donc, recherchons ce qui contribue à la paix et à l'édification mutuelle.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratiquez ici la libéralité et la sainte-cène ou dans la section Se préparer pour la mission.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se préparer pour la mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez des gens vers qui ou des endroits où vous pouvez prendre l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez des promesses « Je ferai d’ici quand » et partagez cela avec votre petit groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bénédiction (facultatif)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply343-i-will"
+      }
+    }
+  ]
+}

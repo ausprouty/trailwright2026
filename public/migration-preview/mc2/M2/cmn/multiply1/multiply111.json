@@ -1,0 +1,571 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply111",
+  "sortOrder": 14,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "本课叫我们知道，跟随耶稣的意思是遵从祂的命令去作见证，就是作耶稣的见证人。但是唯有依靠圣灵的大能，我们才能完成生命中需要做的事，并且作有效的见证。"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向后看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "敬拜赞美",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "诗篇95:1-7"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>1</sup>来啊，我们要向耶和华歌唱；向拯救我们的磐石欢呼！<sup>2</sup>我们要来感谢他，用诗歌向他欢呼！<sup>3</sup>因耶和华为大　神，为大王，超乎万神之上。<sup>4</sup>地的深处在他手中，山的高峰也属他。<sup>5</sup>海洋属他，是他造的；旱地也是他手造成的。<sup>6</sup>来啊，我们要屈身敬拜，在造我们的耶和华面前跪下。<sup>7</sup>因为他是我们的　神，我们是他草场的羊，是他手下的民。惟愿你们今天听他的话。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "现在让我们按着经文或用一首诗歌来称颂赞美这位创造宇宙万有的主宰！"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "祷告关怀",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感谢神和需要耶稣为你做的事，并彼此感恩代祷。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "庆贺实践",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"back\">请分享上周你因信靠神而实践“届时我会”的福音行动</li> <li class=\"back\">背诵上周经文（{彼前3:15}）</li> <li class=\"back\"> <div class=\"reveal\"> </div> </li>",
+        "references": [
+          {
+            "id": "popup_pop3",
+            "marker": "彼前3:15",
+            "label": "彼前3:15",
+            "passage": "<p><sup>15</sup>只要心里尊主基督为圣。有人问你们心中盼望的缘由，就要常做准备，以温柔、敬畏的心回答各人，</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "天父心意",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "在使徒行传中，我们看见信徒训练人成为能训练别人的人。耶稣首批门徒中有一个名叫巴拿巴的，他找到一个新信徒，名叫保罗，并帮助他。保罗又找到一个年轻信徒名叫提摩太，并带着他到各处传福音。之后保罗写信给提摩太，告诉他要在教会中训练忠心的人，使他们也去寻找其他年轻的信徒来训练。在{提摩太后书2:2}， 我们看到从耶稣到巴拿巴、到保罗、到提摩太、到忠心的门徒，及至其他年轻的信徒，所有的基督徒都被呼召去训练能训练其他人的人。如此，福音就能快速广传。",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "提摩太后书2:2",
+                    "label": "提摩太后书2:2",
+                    "passage": "<p><sup>2</sup>你在许多见证人面前听见我所教训的，也要交托那忠心能教导别人的人。</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "向上看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "被主呼召",
+        "level": 2
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "耶稣从死里复活后，继续向门徒讲说上帝国度的事。最后一次聚集的时候，祂向门徒再次提醒他们被呼召的使命，以及为他们所预备的帮助。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>故事背景</strong>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>阅读经文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "阅读或观看《使徒行传1:1-8》两遍。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "使徒行传1:1-8",
+        "html": "<p><sup>1</sup><u class=\"person underline\">提阿非罗</u>啊，我已经作了前书，论到耶稣开头一切所行所教训的，<sup>2</sup>直到他借着圣灵吩咐所拣选的使徒以后，被接上升的日子为止。<sup>3</sup>他受害之后，用许多的凭据将自己活活地显给使徒看，四十天之久向他们显现，讲说神国的事。<sup>4</sup>耶稣和他们聚集的时候，嘱咐他们说：“不要离开耶路撒冷，要等候父所应许的，就是你们听见我说过的。<sup>5</sup><u class=\"person underline\">约翰</u>是用水施洗，但不多几日，你们要受圣灵的洗。”</p> <p><sup>6</sup>他们聚集的时候，问耶稣说：“主啊，你复兴以色列国就在这时候吗？”<sup>7</sup>耶稣对他们说：“父凭着自己的权柄所定的时候、日期，不是你们可以知道的。<sup>8</sup>但圣灵降临在你们身上，你们就必得着能力，并要在耶路撒冷、犹太全地和撒马利亚，直到地极，作我的见证。”</p>",
+        "url": "https://biblegateway.com/passage/?search=使徒行传1:1-8&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "使徒行传1:1-8",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_20615-Acts7302-0-0",
+        "source": "arclight",
+        "refId": "2_20615-Acts7302-0-0",
+        "startTime": "start",
+        "endTime": "1:43",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索与讨论</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "经文中让你印象最深刻的是什么？为什么？"
+                },
+                {
+                  "text": "从这段经文中你对耶稣有什么新的认识？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再读一次这段故事。请小组中一个人口头讲述这故事，并根据需要作更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "跟随耶稣的意思是遵从祂的命令，成为祂的见证。但是唯有依靠圣灵的大能，我们才能完成所托付的使命。圣灵必加能力给我们，使我们作有效的见证。神的心意是：我们向那些和我们一样或是不一样、在周围的还是住在世界各地的人来作见证。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小结</strong>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "经文背诵",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "使徒行传1:8"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "但圣灵降临在你们身上，你们就必得着能力；并要在耶路撒冷、犹太全地和撒玛利亚，直到地极，作我的见证。”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "福音预备",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "组长示范如何使用传福音工具《四件事》"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "（每人手上有这本小册子，并跟着组长一起看）"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "使用开场白打开话题"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "“你好，请问你听过人生的好消息吗？我想与你分享这本小子，并听听你的想法。”"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "然后就开始与对方分享小册子的内容。"
+                  },
+                  {
+                    "text": "读到两个圆圈“自我管理的生命”与“基督管理的生命”时，先暂停，解释及归纳两个问题可能有的三种回答。（可翻阅附录#11.2：处理在分享《四件事》时不同的反应）"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"zoom\"><img alt=\"\" src=\"/sites/mc2/content/M2/cmn/multiply1/M1L11.png\"></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "哪一个圆圈代表你现在的生命？"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "左边、右边、不知道/不确定/中间"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "如果让你选择，你愿意哪一个圆圈代表你的生命？"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "左边、右边、不知道/不确定/中间"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "从两个圆圈的问题，按照对方所做的选择回应，并继续示范。"
+                  },
+                  {
+                    "text": "对方若表示愿意跟着祷告接受耶稣，带领对方祷告，然后读完整本小册子/内容。"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "观察发现和讨论",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "让你印象最深刻的是什么？为什么？"
+                        },
+                        {
+                          "text": "请分享你对接下来这两个问题的答案。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "text": "接下来，你找一位同伴对讲练习《四件事》",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "使用开场白打开话题，“你好，请问你听过改变生命的《四件事》吗？我想与你分享这本小子，并听听你对它的看法。” 然后开始与他分享"
+                        },
+                        {
+                          "text": "读到两种生命的圆圈图表时，按同伴所作的选择来回应"
+                        },
+                        {
+                          "text": "继续把内容读完。同伴给予反馈"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "text": "10分钟之后，互换角色练习"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "一个人能信主是神的作为，我们只是神手中的器皿。求主使用我们来帮助初信者，认识在基督里的新关系、新生命和新生活，并经历在基督里生命的改变，在生活中为主作见证，荣耀基督。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小结</strong>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行动",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "回顾你的《信徒动员表》和《福音行动表》并加入最近认识的新人。"
+          },
+          {
+            "text": "选出至少2位本周与他们分享《四件事》并继续操练前几课所学的技巧。"
+          },
+          {
+            "text": "依照你今天所学习到的，写下一个“届时我会”的宣告，并于组内分享。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "我在________________（时间/地点）将会__________________（对象/事情）。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分钟写下你在本课的学习心得，或是你未来一周可能有的其他行动点。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "福音祷告",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "亲爱的天父，祢是信实的主，在万世以前应许拯救我们。我们要感谢祢，耶稣基督为世人的罪受死，被埋葬，第三天从死里复活了。祢也应许凡信靠耶稣基督的人都有永生，求祢刚强我们，使我们抓紧时机，依靠圣灵的能力传扬福音，让更多的人可以认识并接受主耶稣作他们个人的救主和生命的主。奉主耶稣的圣名，阿们！"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply111-i-will"
+      }
+    }
+  ]
+}

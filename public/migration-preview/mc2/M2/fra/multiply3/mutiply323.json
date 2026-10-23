@@ -1,0 +1,481 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "mutiply323",
+  "sortOrder": 25,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lisez un passage biblique et exécutez un chant d’adoration.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "(Facultatif) Jésus-Christ est Seigneur, à la gloire de Dieu le Père ; qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité. Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus-Christ homme, qui s’est donné lui-même en rançon pour tous. ({Philippiens 2:11}; {1 Timothée 2:4-6})",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Philippiens 2:11",
+                    "label": "Philippiens 2:11",
+                    "passage": "<p><sup>11</sup>et que toute langue confesse que Jésus Christ est Seigneur, à la gloire de Dieu le Père.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timothée 2:4-6",
+                    "label": "1 Timothée 2:4-6",
+                    "passage": "<p><sup>4</sup>qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité.</p><p><sup>5</sup>Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus Christ homme,</p><p><sup>6</sup>qui s'est donné lui-même en rançon pour tous. C'est là le témoignage rendu en son propre temps,</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivation et encouragement",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Trouvez un moyen de projeter une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "un passage qui leur rappelle le cœur du Père et de la vision final."
+                  },
+                  {
+                    "text": "réfléchir sur des changements intervenus dans leur vie depuis qu’ils ont commencé à suivre Christ"
+                  },
+                  {
+                    "text": "leur rappeler ce que Dieu veut faire à travers eux"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<strong>Partagez la GRANDE vision</strong> <em>« une église pour chaque village et communauté, l’évangile pour chaque personne ».</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexte",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Demandez au groupe de raconter l’histoire de la semaine passée."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lisez",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Actes 12:1-25 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Actes 12",
+        "html": "<p><sup>1</sup>Vers le même temps, le roi Hérode se mit à maltraiter quelques membres de l'Église,</p> <p><sup>2</sup>et il fit mourir par l'épée Jacques, frère de Jean.</p> <p><sup>3</sup>Voyant que cela était agréable aux Juifs, il fit encore arrêter Pierre. -C'était pendant les jours des pains sans levain. -</p> <p><sup>4</sup>Après l'avoir saisi et jeté en prison, il le mit sous la garde de quatre escouades de quatre soldats chacune, avec l'intention de le faire comparaître devant le peuple après la Pâque.</p> <p><sup>5</sup>Pierre donc était gardé dans la prison; et l'Église ne cessait d'adresser pour lui des prières à Dieu.</p> <p><sup>6</sup>La nuit qui précéda le jour où Hérode allait le faire comparaître, Pierre, lié de deux chaînes, dormait entre deux soldats; et des sentinelles devant la porte gardaient la prison.</p> <p><sup>7</sup>Et voici, un ange du Seigneur survint, et une lumière brilla dans la prison. L'ange réveilla Pierre, en le frappant au côté, et en disant: Lève-toi promptement! Les chaînes tombèrent de ses mains.</p> <p><sup>8</sup>Et l'ange lui dit: Mets ta ceinture et tes sandales. Et il fit ainsi. L'ange lui dit encore: Enveloppe-toi de ton manteau, et suis-moi.</p> <p><sup>9</sup>Pierre sortit, et le suivit, ne sachant pas que ce qui se faisait par l'ange fût réel, et s'imaginant avoir une vision.</p> <p><sup>10</sup>Lorsqu'ils eurent passé la première garde, puis la seconde, ils arrivèrent à la porte de fer qui mène à la ville, et qui s'ouvrit d'elle-même devant eux; ils sortirent, et s'avancèrent dans une rue. Aussitôt l'ange quitta Pierre.</p> <p><sup>11</sup>Revenu à lui-même, Pierre dit: Je vois maintenant d'une manière certaine que le Seigneur a envoyé son ange, et qu'il m'a délivré de la main d'Hérode et de tout ce que le peuple juif attendait.</p> <p><sup>12</sup>Après avoir réfléchi, il se dirigea vers la maison de Marie, mère de Jean, surnommé Marc, où beaucoup de personnes étaient réunies et priaient.</p> <p><sup>13</sup>Il frappa à la porte du vestibule, et une servante, nommée Rhode, s'approcha pour écouter.</p> <p><sup>14</sup>Elle reconnut la voix de Pierre; et, dans sa joie, au lieu d'ouvrir, elle courut annoncer que Pierre était devant la porte.</p> <p><sup>15</sup>Ils lui dirent: Tu es folle. Mais elle affirma que la chose était ainsi.</p> <p><sup>16</sup>Et ils dirent: C'est son ange. Cependant Pierre continuait à frapper. Ils ouvrirent, et furent étonnés de le voir.</p> <p><sup>17</sup>Pierre, leur ayant de la main fait signe de se taire, leur raconta comment le Seigneur l'avait tiré de la prison, et il dit: Annoncez-le à Jacques et aux frères. Puis il sortit, et s'en alla dans un autre lieu.</p> <p><sup>18</sup>Quand il fit jour, les soldats furent dans une grande agitation, pour savoir ce que Pierre était devenu.</p> <p><sup>19</sup>Hérode, s'étant mis à sa recherche et ne l'ayant pas trouvé, interrogea les gardes, et donna l'ordre de les mener au supplice. Ensuite il descendit de la Judée à Césarée, pour y séjourner.</p> <p><sup>20</sup>Hérode avait des dispositions hostiles à l'égard des Tyriens et des Sidoniens. Mais ils vinrent le trouver d'un commun accord; et, après avoir gagné Blaste, son chambellan, ils sollicitèrent la paix, parce que leur pays tirait sa subsistance de celui du roi.</p> <p><sup>21</sup>A un jour fixé, Hérode, revêtu de ses habits royaux, et assis sur son trône, les harangua publiquement.</p> <p><sup>22</sup>Le peuple s'écria: Voix d'un dieu, et non d'un homme!</p> <p><sup>23</sup>Au même instant, un ange du Seigneur le frappa, parce qu'il n'avait pas donné gloire à Dieu. Et il expira, rongé des vers.</p> <p><sup>24</sup>Cependant la parole de Dieu se répandait de plus en plus, et le nombre des disciples augmentait.</p> <p><sup>25</sup>Barnabas et Saul, après s'être acquittés de leur message, s'en retournèrent de Jérusalem, emmenant avec eux Jean, surnommé Marc.</p>",
+        "url": "https://biblegateway.com/passage/?search=Actes%2012:1-25&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Actes 12:1-19",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_496-Acts7331-0-0",
+        "source": "arclight",
+        "refId": "2_496-Acts7331-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Actes 12:19-24",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_496-Acts7332-0-0",
+        "source": "arclight",
+        "refId": "2_496-Acts7332-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ? Pourquoi ?"
+          },
+          {
+            "text": "À ce niveau de l’histoire, qu’est-ce qui est nouveau ou est développé ?"
+          },
+          {
+            "text": "Quel modèle a été donné quant à la vie dépendante de l’Esprit, faire de disciples ou au leadership ?"
+          },
+          {
+            "text": "Comment pouvons-nous vivre différemment maintenant que nous connaissons cette histoire?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Des questions supplémentaires dont vous pouvez faire usage:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comment les disciples de Jésus poursuivent-ils Son œuvre de faire des disciples et d’implantation d’églises ?"
+          },
+          {
+            "text": "Comment l’évangile impacte-t-il les gens et la société ?"
+          },
+          {
+            "text": "Quels étaient les barrières et les obstacles qui ont été surmontés et comment ont-ils été surmontés ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Jésus a déclaré au Apôtres que « S’ils m’ont persécuté, ils vous persécuteront aussi » ({Jean 15:20}). En ce moment la persécution éclate contre les apôtres et d’autres leaders d‘église. Le Seigneur a permet à ce que l’apôtre Jacques tué ; mais il permet à Pierre de s’échapper miraculeusement des mains d’Hérode. Bien que les croyants fussent entrain de prier pour que Dieu sauve Pierre, certains d’entre eux doutaient que cela puisse arriver ({Jean 12 :13}). La persécution n’aboutit pas à un résultat: parfois les croyants échappent ; d’autre fois ils sont tués ; parfois Dieu fait un miracle et d’autre fois il ne le fait pas. Le Seigneur enseigna « Aimez vos ennemis, et priez pour ceux qui vous maltraitent et qui vous persécutent » et « A moi la vengeance, à moi la rétribution » ({Matthieu 5 :43-48}; {Romains 12 :17-21}). Pendant ce temps Dieu réagit à l’arrogance et à l’attaque d’Hérode en le supprimant tout en continuant à répandre sa propre Parole. Cette histoire comprend la troisième déclaration sommaire trouvée dans le livre des Actes : la parole de Dieu se répandait et se multipliait. ({Actes 12: 24}).",
+                "references": [
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Jean 15:20",
+                    "label": "Jean 15:20",
+                    "passage": "<p><sup>20</sup>Souvenez-vous de la parole que je vous ai dite: Le serviteur n'est pas plus grand que son maître. S'ils m'ont persécuté, ils vous persécuteront aussi; s'ils ont gardé ma parole, ils garderont aussi la vôtre.</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Jean 12 :13",
+                    "label": "Jean 12 :13",
+                    "passage": ""
+                  },
+                  {
+                    "id": "popup_pop5",
+                    "marker": "Matthieu 5 :43-48",
+                    "label": "Matthieu 5 :43-48",
+                    "passage": "<p><sup>43</sup>Vous avez appris qu'il a été dit: Tu aimeras ton prochain, et tu haïras ton ennemi.</p><p><sup>44</sup>Mais moi, je vous dis: Aimez vos ennemis, bénissez ceux qui vous maudissent, faites du bien à ceux qui vous haïssent, et priez pour ceux qui vous maltraitent et qui vous persécutent,</p><p><sup>45</sup>afin que vous soyez fils de votre Père qui est dans les cieux; car il fait lever son soleil sur les méchants et sur les bons, et il fait pleuvoir sur les justes et sur les injustes.</p><p><sup>46</sup>Si vous aimez ceux qui vous aiment, quelle récompense méritez-vous? Les publicains aussi n'agissent-ils pas de même?</p><p><sup>47</sup>Et si vous saluez seulement vos frères, que faites-vous d'extraordinaire? Les païens aussi n'agissent-ils pas de même?</p><p><sup>48</sup>Soyez donc parfaits, comme votre Père céleste est parfait.</p>"
+                  },
+                  {
+                    "id": "popup_pop6",
+                    "marker": "Romains 12 :17-21",
+                    "label": "Romains 12 :17-21",
+                    "passage": "<p><sup>17</sup>Ne rendez à personne le mal pour le mal. Recherchez ce qui est bien devant tous les hommes.</p><p><sup>18</sup>S'il est possible, autant que cela dépend de vous, soyez en paix avec tous les hommes.</p><p><sup>19</sup>Ne vous vengez point vous-mêmes, bien-aimés, mais laissez agir la colère; car il est écrit: A moi la vengeance, à moi la rétribution, dit le Seigneur.</p><p><sup>20</sup>Mais si ton ennemi a faim, donne-lui à manger; s'il a soif, donne-lui à boire; car en agissant ainsi, ce sont des charbons ardents que tu amasseras sur sa tête.</p><p><sup>21</sup>Ne te laisse pas vaincre par le mal, mais surmonte le mal par le bien.</p>"
+                  },
+                  {
+                    "id": "popup_pop7",
+                    "marker": "Actes 12: 24",
+                    "label": "Actes 12: 24",
+                    "passage": "<p><sup>24</sup>Cependant la parole de Dieu se répandait de plus en plus, et le nombre des disciples augmentait.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratiquez ici la libéralité et la sainte-cène ou dans la section Se préparer pour la mission.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se préparer pour la mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez des gens vers qui ou des endroits où vous pouvez prendre l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez des promesses « Je ferai d’ici quand » et partagez cela avec votre petit groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-5"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bénédiction (facultatif)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-mutiply323-i-will"
+      }
+    }
+  ]
+}

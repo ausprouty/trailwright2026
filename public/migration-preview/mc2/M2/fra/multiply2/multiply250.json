@@ -1,0 +1,391 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply250",
+  "sortOrder": 55,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Regarder Derrière",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louange",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lisez un passage biblique et exécutez un chant d’adoration."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Soin",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine."
+          },
+          {
+            "text": "Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Célébrer la Fidélité",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour."
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Projection de Vision",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Regarder en Haut",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lisez ou observez Jean 19:31-20:31 deux fois pendant que les autres écoutent."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Jean 19:31-20",
+        "html": "<div> <div> <div> <div> <div> <div> <p><sup>31</sup>Dans la crainte que les corps ne restassent sur la croix pendant le sabbat, -car c'était la préparation, et ce jour de sabbat était un grand jour, -les Juifs demandèrent à Pilate qu'on rompît les jambes aux crucifiés, et qu'on les enlevât.</p> <p><sup>32</sup>Les soldats vinrent donc, et ils rompirent les jambes au premier, puis à l'autre qui avait été crucifié avec lui.</p> <p><sup>33</sup>S'étant approchés de Jésus, et le voyant déjà mort, ils ne lui rompirent pas les jambes;</p> <p><sup>34</sup>mais un des soldats lui perça le côté avec une lance, et aussitôt il sortit du sang et de l'eau.</p> <p><sup>35</sup>Celui qui l'a vu en a rendu témoignage, et son témoignage est vrai; et il sait qu'il dit vrai, afin que vous croyiez aussi.</p> <p><sup>36</sup>Ces choses sont arrivées, afin que l'Écriture fût accomplie: Aucun de ses os ne sera brisé.</p> <p><sup>37</sup>Et ailleurs l'Écriture dit encore: Ils verront celui qu'ils ont percé.</p> <p><sup>38</sup>Après cela, Joseph d'Arimathée, qui était disciple de Jésus, mais en secret par crainte des Juifs, demanda à Pilate la permission de prendre le corps de Jésus. Et Pilate le permit. Il vint donc, et prit le corps de Jésus.</p> <p><sup>39</sup>Nicodème, qui auparavant était allé de nuit vers Jésus, vint aussi, apportant un mélange d'environ cent livres de myrrhe et d'aloès.</p> <p><sup>40</sup>Ils prirent donc le corps de Jésus, et l'enveloppèrent de bandes, avec les aromates, comme c'est la coutume d'ensevelir chez les Juifs.</p> <p><sup>41</sup>Or, il y avait un jardin dans le lieu où Jésus avait été crucifié, et dans le jardin un sépulcre neuf, où personne encore n'avait été mis.</p> <p><sup>42</sup>Ce fut là qu'ils déposèrent Jésus, à cause de la préparation des Juifs, parce que le sépulcre était proche.</p> <p><sup>1</sup>Le premier jour de la semaine, Marie de Magdala se rendit au sépulcre dès le matin, comme il faisait encore obscur; et elle vit que la pierre était ôtée du sépulcre.</p> <p><sup>2</sup>Elle courut vers Simon Pierre et vers l'autre disciple que Jésus aimait, et leur dit: Ils ont enlevé du sépulcre le Seigneur, et nous ne savons où ils l'ont mis.</p> <p><sup>3</sup>Pierre et l'autre disciple sortirent, et allèrent au sépulcre.</p> <p><sup>4</sup>Ils couraient tous deux ensemble. Mais l'autre disciple courut plus vite que Pierre, et arriva le premier au sépulcre;</p> <p><sup>5</sup>s'étant baissé, il vit les bandes qui étaient à terre, cependant il n'entra pas.</p> <p><sup>6</sup>Simon Pierre, qui le suivait, arriva et entra dans le sépulcre; il vit les bandes qui étaient à terre,</p> <p><sup>7</sup>et le linge qu'on avait mis sur la tête de Jésus, non pas avec les bandes, mais plié dans un lieu à part.</p> <p><sup>8</sup>Alors l'autre disciple, qui était arrivé le premier au sépulcre, entra aussi; et il vit, et il crut.</p> <p><sup>9</sup>Car ils ne comprenaient pas encore que, selon l'Écriture, Jésus devait ressusciter des morts.</p> <p><sup>10</sup>Et les disciples s'en retournèrent chez eux.</p> <p><sup>11</sup>Cependant Marie se tenait dehors près du sépulcre, et pleurait. Comme elle pleurait, elle se baissa pour regarder dans le sépulcre;</p> <p><sup>12</sup>et elle vit deux anges vêtus de blanc, assis à la place où avait été couché le corps de Jésus, l'un à la tête, l'autre aux pieds.</p> <p><sup>13</sup>Ils lui dirent: Femme, pourquoi pleures-tu? Elle leur répondit: Parce qu'ils ont enlevé mon Seigneur, et je ne sais où ils l'ont mis.</p> <p><sup>14</sup>En disant cela, elle se retourna, et elle vit Jésus debout; mais elle ne savait pas que c'était Jésus.</p> <p><sup>15</sup>Jésus lui dit: Femme, pourquoi pleures-tu? Qui cherches-tu? Elle, pensant que c'était le jardinier, lui dit: Seigneur, si c'est toi qui l'as emporté, dis-moi où tu l'as mis, et je le prendrai.</p> <p><sup>16</sup>Jésus lui dit: Marie! Elle se retourna, et lui dit en hébreu: Rabbouni! c'est-à-dire, Maître!</p> <p><sup>17</sup>Jésus lui dit: Ne me touche pas; car je ne suis pas encore monté vers mon Père. Mais va trouver mes frères, et dis-leur que je monte vers mon Père et votre Père, vers mon Dieu et votre Dieu.</p> <p><sup>18</sup>Marie de Magdala alla annoncer aux disciples qu'elle avait vu le Seigneur, et qu'il lui avait dit ces choses.</p> <p><sup>19</sup>Le soir de ce jour, qui était le premier de la semaine, les portes du lieu où se trouvaient les disciples étant fermées, à cause de la crainte qu'ils avaient des Juifs, Jésus vint, se présenta au milieu d'eux, et leur dit: La paix soit avec vous!</p> <p><sup>20</sup>Et quand il eut dit cela, il leur montra ses mains et son côté. Les disciples furent dans la joie en voyant le Seigneur.</p> <p><sup>21</sup>Jésus leur dit de nouveau: La paix soit avec vous! Comme le Père m'a envoyé, moi aussi je vous envoie.</p> <p><sup>22</sup>Après ces paroles, il souffla sur eux, et leur dit: Recevez le Saint Esprit.</p> <p><sup>23</sup>Ceux à qui vous pardonnerez les péchés, ils leur seront pardonnés; et ceux à qui vous les retiendrez, ils leur seront retenus.</p> <p><sup>24</sup>Thomas, appelé Didyme, l'un des douze, n'était pas avec eux lorsque Jésus vint.</p> <p><sup>25</sup>Les autres disciples lui dirent donc: Nous avons vu le Seigneur. Mais il leur dit: Si je ne vois dans ses mains la marque des clous, et si je ne mets mon doigt dans la marque des clous, et si je ne mets ma main dans son côté, je ne croirai point.</p> <p><sup>26</sup>Huit jours après, les disciples de Jésus étaient de nouveau dans la maison, et Thomas se trouvait avec eux. Jésus vint, les portes étant fermées, se présenta au milieu d'eux, et dit: La paix soit avec vous!</p> <p><sup>27</sup>Puis il dit à Thomas: Avance ici ton doigt, et regarde mes mains; avance aussi ta main, et mets-la dans mon côté; et ne sois pas incrédule, mais crois.</p> <p><sup>28</sup>Thomas lui répondit: Mon Seigneur et mon Dieu! Jésus lui dit:</p> <p><sup>29</sup>Parce que tu m'as vu, tu as cru. Heureux ceux qui n'ont pas vu, et qui ont cru!</p> <p><sup>30</sup>Jésus a fait encore, en présence de ses disciples, beaucoup d'autres miracles, qui ne sont pas écrits dans ce livre.</p> <p><sup>31</sup>Mais ces choses ont été écrites afin que vous croyiez que Jésus est le Christ, le Fils de Dieu, et qu'en croyant vous ayez la vie en son nom.</p> </div> </div> </div> </div> </div> </div>",
+        "url": "https://biblegateway.com/passage/?search=Jean%2019:31-20:31&version=LSG",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Jean 19:31-37",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOJohn2219",
+        "source": "arclight",
+        "refId": "6_496-GOJohn2219",
+        "startTime": "7:39",
+        "endTime": "8:55",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Jean 19:38-20:31",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_496-GOJohn2220",
+        "source": "arclight",
+        "refId": "6_496-GOJohn2220",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussion de Découverte",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Etudiez chaque passage en utilisant les questions de discussion suivantes:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce qui a retenu votre attention ou qu’avez-vous aimé le plus ?"
+          },
+          {
+            "text": "Qu’est ce qui est nouveau ou s’est développé à ce point de l’histoire de Jésus?"
+          },
+          {
+            "text": "Quelle implication du point de vue de l’humanité ou de la divinité de Jésus voyez-vous dans ce passage ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Questions supplémentaires que vous pouvez poser:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Qu’est-ce que ses disciples apprennent?"
+          },
+          {
+            "text": "Qu’est-ce que Jésus est en train de nous montrer au sujet de sa vie et de son ministère (ou leadership) ?"
+          },
+          {
+            "text": "Qu’est ce que Jésus est en train de montrer au sujet du leadership empreint de piété ?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Lire, raconter et corriger",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Relisez l’histoire. Demandez à quelqu’un de raconter l’histoire et demandez au groupe de corriger si nécessaire."
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Résumé",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "IL est ressuscité des morts! La Bible dit que la résurrection de Jésus a changé toutes choses. « Or, si nous sommes morts avec Christ, nous croyons que nous vivrons aussi avec lui, sachant que Christ ressuscité des morts ne meurt plus ; la mort n’a plus de pouvoir sur lui. Car il est mort, et c’est pour le péché qu’il est mort une fois pour toutes ; il est revenu à la vie, et c’est pour Dieu qu’il vit. » (Romains 6:8-11). Le pouvoir de vivre réside dans le pouvoir de la victoire de Jésus sur la mort. La résurrection de Jésus nous donne le pouvoir de vaincre le péché dans nos vies pendant que nous nous abandonnons à l'œuvre transformatrice du Père. La puissance de Jésus et sa résurrection circulent à travers nous pendant que nous mettons de côté notre volonté et permettons à Jésus de vivre en nous et à travers nous. Le leadership de la résurrection est un leadership qui permet à Jésus de vivre en et à travers soi. Conduire comme Jésus est radicalement différent du leadership mondain qui cherche à se promouvoir et à contrôler les autres."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Pour une étude approfondie: {Luc 23:50-24:49}; {Matthieu 27:57-28:15}; {Marc 15:42- 16:18}. .",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Luc 23:50-24:49",
+                    "label": "Luc 23:50-24:49",
+                    "passage": "<div><p><sup>50</sup>Il y avait un conseiller, nommé Joseph, homme bon et juste,</p><p><sup>51</sup>qui n'avait point participé à la décision et aux actes des autres; il était d'Arimathée, ville des Juifs, et il attendait le royaume de Dieu.</p><p><sup>52</sup>Cet homme se rendit vers Pilate, et demanda le corps de Jésus.</p><p><sup>53</sup>Il le descendit de la croix, l'enveloppa d'un linceul, et le déposa dans un sépulcre taillé dans le roc, où personne n'avait encore été mis.</p><p><sup>54</sup>C'était le jour de la préparation, et le sabbat allait commencer.</p><p><sup>55</sup>Les femmes qui étaient venues de la Galilée avec Jésus accompagnèrent Joseph, virent le sépulcre et la manière dont le corps de Jésus y fut déposé,</p><p><sup>56</sup>et, s'en étant retournées, elles préparèrent des aromates et des parfums. Puis elles se reposèrent le jour du sabbat, selon la loi.</p><p><sup>1</sup>Le premier jour de la semaine, elles se rendirent au sépulcre de grand matin, portant les aromates qu'elles avaient préparés.</p><p><sup>2</sup>Elles trouvèrent que la pierre avait été roulée de devant le sépulcre;</p><p><sup>3</sup>et, étant entrées, elles ne trouvèrent pas le corps du Seigneur Jésus.</p><p><sup>4</sup>Comme elles ne savaient que penser de cela, voici, deux hommes leur apparurent, en habits resplendissants.</p><p><sup>5</sup>Saisies de frayeur, elles baissèrent le visage contre terre; mais ils leur dirent: Pourquoi cherchez-vous parmi les morts celui qui est vivant?</p><p><sup>6</sup>Il n'est point ici, mais il est ressuscité. Souvenez-vous de quelle manière il vous a parlé, lorsqu'il était encore en Galilée,</p><p><sup>7</sup>et qu'il disait: Il faut que le Fils de l'homme soit livré entre les mains des pécheurs, qu'il soit crucifié, et qu'il ressuscite le troisième jour.</p><p><sup>8</sup>Et elles se ressouvinrent des paroles de Jésus.</p><p><sup>9</sup>A leur retour du sépulcre, elles annoncèrent toutes ces choses aux onze, et à tous les autres.</p><p><sup>10</sup>Celles qui dirent ces choses aux apôtres étaient Marie de Magdala, Jeanne, Marie, mère de Jacques, et les autres qui étaient avec elles.</p><p><sup>11</sup>Ils tinrent ces discours pour des rêveries, et ils ne crurent pas ces femmes.</p><p><sup>12</sup>Mais Pierre se leva, et courut au sépulcre. S'étant baissé, il ne vit que les linges qui étaient à terre; puis il s'en alla chez lui, dans l'étonnement de ce qui était arrivé.</p><p><sup>13</sup>Et voici, ce même jour, deux disciples allaient à un village nommé Emmaüs, éloigné de Jérusalem de soixante stades;</p><p><sup>14</sup>et ils s'entretenaient de tout ce qui s'était passé.</p><p><sup>15</sup>Pendant qu'ils parlaient et discutaient, Jésus s'approcha, et fit route avec eux.</p><p><sup>16</sup>Mais leurs yeux étaient empêchés de le reconnaître.</p><p><sup>17</sup>Il leur dit: De quoi vous entretenez-vous en marchant, pour que vous soyez tout tristes?</p><p><sup>18</sup>L'un d'eux, nommé Cléopas, lui répondit: Es-tu le seul qui, séjournant à Jérusalem ne sache pas ce qui y est arrivé ces jours-ci? -</p><p><sup>19</sup>Quoi? leur dit-il. -Et ils lui répondirent: Ce qui est arrivé au sujet de Jésus de Nazareth, qui était un prophète puissant en oeuvres et en paroles devant Dieu et devant tout le peuple,</p><p><sup>20</sup>et comment les principaux sacrificateurs et nos magistrats l'on livré pour le faire condamner à mort et l'ont crucifié.</p><p><sup>21</sup>Nous espérions que ce serait lui qui délivrerait Israël; mais avec tout cela, voici le troisième jour que ces choses se sont passées.</p><p><sup>22</sup>Il est vrai que quelques femmes d'entre nous nous ont fort étonnés; s'étant rendues de grand matin au sépulcre</p><p><sup>23</sup>et n'ayant pas trouvé son corps, elles sont venues dire que des anges leurs sont apparus et ont annoncé qu'il est vivant.</p><p><sup>24</sup>Quelques-uns de ceux qui étaient avec nous sont allés au sépulcre, et ils ont trouvé les choses comme les femmes l'avaient dit; mais lui, ils ne l'ont point vu.</p><p><sup>25</sup>Alors Jésus leur dit: O hommes sans intelligence, et dont le coeur est lent à croire tout ce qu'ont dit les prophètes!</p><p><sup>26</sup>Ne fallait-il pas que le Christ souffrît ces choses, et qu'il entrât dans sa gloire?</p><p><sup>27</sup>Et, commençant par Moïse et par tous les prophètes, il leur expliqua dans toutes les Écritures ce qui le concernait.</p><p><sup>28</sup>Lorsqu'ils furent près du village où ils allaient, il parut vouloir aller plus loin.</p><p><sup>29</sup>Mais ils le pressèrent, en disant: Reste avec nous, car le soir approche, le jour est sur son déclin. Et il entra, pour rester avec eux.</p><p><sup>30</sup>Pendant qu'il était à table avec eux, il prit le pain; et, après avoir rendu grâces, il le rompit, et le leur donna.</p><p><sup>31</sup>Alors leurs yeux s'ouvrirent, et ils le reconnurent; mais il disparut de devant eux.</p><p><sup>32</sup>Et ils se dirent l'un à l'autre: Notre coeur ne brûlait-il pas au dedans de nous, lorsqu'il nous parlait en chemin et nous expliquait les Écritures?</p><p><sup>33</sup>Se levant à l'heure même, ils retournèrent à Jérusalem, et ils trouvèrent les onze, et ceux qui étaient avec eux, assemblés</p><p><sup>34</sup>et disant: Le Seigneur est réellement ressuscité, et il est apparu à Simon.</p><p><sup>35</sup>Et ils racontèrent ce qui leur était arrivé en chemin, et comment ils l'avaient reconnu au moment où il rompit le pain.</p><p><sup>36</sup>Tandis qu'ils parlaient de la sorte, lui-même se présenta au milieu d'eux, et leur dit: La paix soit avec vous!</p><p><sup>37</sup>Saisis de frayeur et d'épouvante, ils croyaient voir un esprit.</p><p><sup>38</sup>Mais il leur dit: Pourquoi êtes-vous troublés, et pourquoi pareilles pensées s'élèvent-elles dans vos coeurs?</p><p><sup>39</sup>Voyez mes mains et mes pieds, c'est bien moi; touchez-moi et voyez: un esprit n'a ni chair ni os, comme vous voyez que j'ai.</p><p><sup>40</sup>Et en disant cela, il leur montra ses mains et ses pieds.</p><p><sup>41</sup>Comme, dans leur joie, ils ne croyaient point encore, et qu'ils étaient dans l'étonnement, il leur dit: Avez-vous ici quelque chose à manger?</p><p><sup>42</sup>Ils lui présentèrent du poisson rôti et un rayon de miel.</p><p><sup>43</sup>Il en prit, et il mangea devant eux.</p><p><sup>44</sup>Puis il leur dit: C'est là ce que je vous disais lorsque j'étais encore avec vous, qu'il fallait que s'accomplît tout ce qui est écrit de moi dans la loi de Moïse, dans les prophètes, et dans les psaumes.</p><p><sup>45</sup>Alors il leur ouvrit l'esprit, afin qu'ils comprissent les Écritures.</p><p><sup>46</sup>Et il leur dit: Ainsi il est écrit que le Christ souffrirait, et qu'il ressusciterait des morts le troisième jour,</p><p><sup>47</sup>et que la repentance et le pardon des péchés seraient prêchés en son nom à toutes les nations, à commencer par Jérusalem.</p><p><sup>48</sup>Vous êtes témoins de ces choses.</p><p><sup>49</sup>Et voici, j'enverrai sur vous ce que mon Père a promis; mais vous, restez dans la ville jusqu'à ce que vous soyez revêtus de la puissance d'en haut.</p></div>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Matthieu 27:57-28:15",
+                    "label": "Matthieu 27:57-28:15",
+                    "passage": "<div><p><sup>57</sup>Le soir étant venu, arriva un homme riche d'Arimathée, nommé Joseph, lequel était aussi disciple de Jésus.</p><p><sup>58</sup>Il se rendit vers Pilate, et demanda le corps de Jésus. Et Pilate ordonna de le remettre.</p><p><sup>59</sup>Joseph prit le corps, l'enveloppa d'un linceul blanc,</p><p><sup>60</sup>et le déposa dans un sépulcre neuf, qu'il s'était fait tailler dans le roc. Puis il roula une grande pierre à l'entrée du sépulcre, et il s'en alla.</p><p><sup>61</sup>Marie de Magdala et l'autre Marie étaient là, assises vis-à-vis du sépulcre.</p><p><sup>62</sup>Le lendemain, qui était le jour après la préparation, les principaux sacrificateurs et les pharisiens allèrent ensemble auprès de Pilate,</p><p><sup>63</sup>et dirent: Seigneur, nous nous souvenons que cet imposteur a dit, quand il vivait encore: Après trois jours je ressusciterai.</p><p><sup>64</sup>Ordonne donc que le sépulcre soit gardé jusqu'au troisième jour, afin que ses disciples ne viennent pas dérober le corps, et dire au peuple: Il est ressuscité des morts. Cette dernière imposture serait pire que la première.</p><p><sup>65</sup>Pilate leur dit: Vous avez une garde; allez, gardez-le comme vous l'entendrez.</p><p><sup>66</sup>Ils s'en allèrent, et s'assurèrent du sépulcre au moyen de la garde, après avoir scellé la pierre.</p><p><sup>1</sup>Après le sabbat, à l'aube du premier jour de la semaine, Marie de Magdala et l'autre Marie allèrent voir le sépulcre.</p><p><sup>2</sup>Et voici, il y eut un grand tremblement de terre; car un ange du Seigneur descendit du ciel, vint rouler la pierre, et s'assit dessus.</p><p><sup>3</sup>Son aspect était comme l'éclair, et son vêtement blanc comme la neige.</p><p><sup>4</sup>Les gardes tremblèrent de peur, et devinrent comme morts.</p><p><sup>5</sup>Mais l'ange prit la parole, et dit aux femmes: Pour vous, ne craignez pas; car je sais que vous cherchez Jésus qui a été crucifié.</p><p><sup>6</sup>Il n'est point ici; il est ressuscité, comme il l'avait dit. Venez, voyez le lieu où il était couché,</p><p><sup>7</sup>et allez promptement dire à ses disciples qu'il est ressuscité des morts. Et voici, il vous précède en Galilée: c'est là que vous le verrez. Voici, je vous l'ai dit.</p><p><sup>8</sup>Elles s'éloignèrent promptement du sépulcre, avec crainte et avec une grande joie, et elles coururent porter la nouvelle aux disciples.</p><p><sup>9</sup>Et voici, Jésus vint à leur rencontre, et dit: Je vous salue. Elles s'approchèrent pour saisir ses pieds, et elles se prosternèrent devant lui.</p><p><sup>10</sup>Alors Jésus leur dit: Ne craignez pas; allez dire à mes frères de se rendre en Galilée: c'est là qu'ils me verront.</p><p><sup>11</sup>Pendant qu'elles étaient en chemin, quelques hommes de la garde entrèrent dans la ville, et annoncèrent aux principaux sacrificateurs tout ce qui était arrivé.</p><p><sup>12</sup>Ceux-ci, après s'être assemblés avec les anciens et avoir tenu conseil, donnèrent aux soldats une forte somme d'argent,</p><p><sup>13</sup>en disant: Dites: Ses disciples sont venus de nuit le dérober, pendant que nous dormions.</p><p><sup>14</sup>Et si le gouverneur l'apprend, nous l'apaiserons, et nous vous tirerons de peine.</p><p><sup>15</sup>Les soldats prirent l'argent, et suivirent les instructions qui leur furent données. Et ce bruit s'est répandu parmi les Juifs, jusqu'à ce jour.</p></div>"
+                  },
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Marc 15:42- 16:18",
+                    "label": "Marc 15:42- 16:18",
+                    "passage": "<div><p><sup>42</sup>Le soir étant venu, comme c'était la préparation, c'est-à-dire, la veille du sabbat, -</p><p><sup>43</sup>arriva Joseph d'Arimathée, conseiller de distinction, qui lui-même attendait aussi le royaume de Dieu. Il osa se rendre vers Pilate, pour demander le corps de Jésus.</p><p><sup>44</sup>Pilate s'étonna qu'il fût mort si tôt; fit venir le centenier et lui demanda s'il était mort depuis longtemps.</p><p><sup>45</sup>S'en étant assuré par le centenier, il donna le corps à Joseph.</p><p><sup>46</sup>Et Joseph, ayant acheté un linceul, descendit Jésus de la croix, l'enveloppa du linceul, et le déposa dans un sépulcre taillé dans le roc. Puis il roula une pierre à l'entrée du sépulcre.</p><p><sup>47</sup>Marie de Magdala, et Marie, mère de Joses, regardaient où on le mettait.</p><p><sup>1</sup>Lorsque le sabbat fut passé, Marie de Magdala, Marie, mère de Jacques, et Salomé, achetèrent des aromates, afin d'aller embaumer Jésus.</p><p><sup>2</sup>Le premier jour de la semaine, elles se rendirent au sépulcre, de grand matin, comme le soleil venait de se lever.</p><p><sup>3</sup>Elles disaient entre elles: Qui nous roulera la pierre loin de l'entrée du sépulcre?</p><p><sup>4</sup>Et, levant les yeux, elles aperçurent que la pierre, qui était très grande, avait été roulée.</p><p><sup>5</sup>Elles entrèrent dans le sépulcre, virent un jeune homme assis à droite vêtu d'une robe blanche, et elles furent épouvantées.</p><p><sup>6</sup>Il leur dit: Ne vous épouvantez pas; vous cherchez Jésus de Nazareth, qui a été crucifié; il est ressuscité, il n'est point ici; voici le lieu où on l'avait mis.</p><p><sup>7</sup>Mais allez dire à ses disciples et à Pierre qu'il vous précède en Galilée: c'est là que vous le verrez, comme il vous l'a dit.</p><p><sup>8</sup>Elles sortirent du sépulcre et s'enfuirent. La peur et le trouble les avaient saisies; et elles ne dirent rien à personne, à cause de leur effroi.</p><p><sup>9</sup>Jésus, étant ressuscité le matin du premier jour de la semaine, apparut d'abord à Marie de Magdala, de laquelle il avait chassé sept démons.</p><p><sup>10</sup>Elle alla en porter la nouvelle à ceux qui avaient été avec lui, et qui s'affligeaient et pleuraient.</p><p><sup>11</sup>Quand ils entendirent qu'il vivait, et qu'elle l'avait vu, ils ne le crurent point.</p><p><sup>12</sup>Après cela, il apparut, sous une autre forme, à deux d'entre eux qui étaient en chemin pour aller à la campagne.</p><p><sup>13</sup>Ils revinrent l'annoncer aux autres, qui ne les crurent pas non plus.</p><p><sup>14</sup>Enfin, il apparut aux onze, pendant qu'ils étaient à table; et il leur reprocha leur incrédulité et la dureté de leur coeur, parce qu'ils n'avaient pas cru ceux qui l'avaient vu ressuscité.</p><p><sup>15</sup>Puis il leur dit: Allez par tout le monde, et prêchez la bonne nouvelle à toute la création.</p><p><sup>16</sup>Celui qui croira et qui sera baptisé sera sauvé, mais celui qui ne croira pas sera condamné.</p><p><sup>17</sup>Voici les miracles qui accompagneront ceux qui auront cru: en mon nom, ils chasseront les démons; ils parleront de nouvelles langues;</p><p><sup>18</sup>ils saisiront des serpents; s'ils boivent quelque breuvage mortel, il ne leur feront point de mal; ils imposeront les mains aux malades, et les malades, seront guéris.</p></div>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Regarder Devant",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Se Préparer pour la Mission",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Pratiquez les compétences nécessaires ou les sujets précédents pour vous préparer à servir les autres:</span></span>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Prière, soins, partage</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Gospel</span></span>"
+                  },
+                  {
+                    "text": "<span class=\"tlid-translation translation\" lang=\"fr\"><span title=\"\">Études bibliques fondamentales.</span></span>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Aller en Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifiez 5 personnes de votre Liste de Réseau envers qui vous prendrez l’initiative de faire le ministère cette semaine."
+          },
+          {
+            "text": "Écrivez les promesses « je le ferai d’ici quand » et parlez-en à votre groupe."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Prier pour la Mission",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Confiez les objectifs de chacun au Seigneur. Demandez au Seigneur de nous aider à être fidèles et de nous utiliser à initier un mouvement de faiseurs de disciples."
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply250-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply351",
+  "sortOrder": 58,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "(Opcional) Jesucristo es el Señor, para la gloria de Dios Padre. Él quiere que todos los hombres sean salvos y lleguen al conocimiento de la verdad. Porque hay un solo Dios y un mediador también entre Dios y el hombre, el hombre Jesucristo, que se entregó a sí mismo como rescate por todos. (Filipenses 2:11b; 1 Timoteo 2:4-6a)"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar a las necesidades de los demás en oración, consejo bíblico y aliento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunta: \"¿Qué pasó cuando confiaste en Dios tus metas y tu declaración: “Yo haré…”?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y Animo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Elija una manera de proyectar visión de quiénes pueden llegar a ser en Cristo o lo que Dios puede hacer a través de ellos al</em>:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartir un versículo Bíblico que les recuerde el Corazón del Padre y la visión final."
+                  },
+                  {
+                    "text": "Reflexionando sobre los cambios en su vida desde que comenzaron a seguir a Cristo"
+                  },
+                  {
+                    "text": "recordándoles lo que Dios quiere hacer a través de ellos"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Comparta la GRAN visión de \"Una iglesia para cada pueblo y comunidad, y el Evangelio para cada persona\"."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Pídale al grupo que cuente la historia de la semana pasada"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Hechos 27:1-26</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Hechos 27:1-26",
+        "html": "<h3>Pablo viaja a Roma</h3> <p><sup>1</sup>Cuando se decidió que navegáramos rumbo a Italia, entregaron a Pablo y a algunos otros presos a un centurión llamado Julio, que pertenecía al batallón imperial.<sup>2</sup>Subimos a bordo de un barco, con matrícula de Adramitio, que estaba a punto de zarpar hacia los puertos de la provincia de Asia, y nos hicimos a la mar. Nos acompañaba Aristarco, un macedonio de Tesalónica.</p> <p><sup>3</sup>Al día siguiente hicimos escala en Sidón; y Julio, con mucha amabilidad, le permitió a Pablo visitar a sus amigos para que lo atendieran.<sup>4</sup>Desde Sidón zarpamos y navegamos al abrigo de Chipre, porque los vientos nos eran contrarios.<sup>5</sup>Después de atravesar el mar frente a las costas de Cilicia y Panfilia, arribamos a Mira de Licia.<sup>6</sup>Allí el centurión encontró un barco de Alejandría que iba para Italia, y nos hizo subir a bordo.<sup>7</sup>Durante muchos días la navegación fue lenta, y a duras penas llegamos frente a Gnido. Como el viento nos era desfavorable para seguir el rumbo trazado, navegamos al amparo de Creta, frente a Salmona.<sup>8</sup>Seguimos con dificultad a lo largo de la costa y llegamos a un lugar llamado Buenos Puertos, cerca de la ciudad de Lasea.</p> <p><sup>9</sup>Se había perdido mucho tiempo, y era peligrosa la navegación por haber pasado ya la fiesta del ayuno. Así que Pablo les advirtió:<sup>10</sup>«Señores, veo que nuestro viaje va a ser desastroso y que va a causar mucho perjuicio tanto para el barco y su carga como para nuestras propias vidas».<sup>11</sup>Pero el centurión, en vez de hacerle caso, siguió el consejo del timonel y del dueño del barco.<sup>12</sup>Como el puerto no era adecuado para invernar, la mayoría decidió que debíamos seguir adelante, con la esperanza de llegar a Fenice, puerto de Creta que da al suroeste y al noroeste, y pasar allí el invierno.</p> <h3>La tempestad</h3> <p><sup>13</sup>Cuando comenzó a soplar un viento suave del sur, creyeron que podían conseguir lo que querían, así que levaron anclas y navegaron junto a la costa de Creta.<sup>14</sup>Poco después se nos vino encima un viento huracanado, llamado Nordeste, que venía desde la isla.<sup>15</sup>El barco quedó atrapado por la tempestad y no podía hacerle frente al viento, así que nos dejamos llevar a la deriva.<sup>16</sup>Mientras pasábamos al abrigo de un islote llamado Cauda, a duras penas pudimos sujetar el bote salvavidas.<sup>17</sup>Después de subirlo a bordo, amarraron con sogas todo el casco del barco para reforzarlo. Temiendo que fueran a encallar en los bancos de arena de la Sirte, echaron el ancla flotante y dejaron el barco a la deriva.<sup>18</sup>Al día siguiente, dado que la tempestad seguía arremetiendo con mucha fuerza contra nosotros, comenzaron a arrojar la carga por la borda.<sup>19</sup>Al tercer día, con sus propias manos arrojaron al mar los aparejos del barco.<sup>20</sup>Como pasaron muchos días sin que aparecieran ni el sol ni las estrellas, y la tempestad seguía arreciando, perdimos al fin toda esperanza de salvarnos.</p> <p><sup>21</sup>Llevábamos ya mucho tiempo sin comer, así que Pablo se puso en medio de todos y dijo: «Señores, debían haber seguido mi consejo y no haber zarpado de Creta; así se habrían ahorrado este perjuicio y esta pérdida.<sup>22</sup>Pero ahora los exhorto a cobrar ánimo, porque ninguno de ustedes perderá la vida; solo se perderá el barco.<sup>23</sup>Anoche se me apareció un ángel del Dios a quien pertenezco y a quien sirvo,<sup>24</sup>y me dijo: “No tengas miedo, Pablo. Tienes que comparecer ante el emperador; y Dios te ha concedido la vida de todos los que navegan contigo”.<sup>25</sup>Así que ¡ánimo, señores! Confío en Dios que sucederá tal y como se me dijo.<sup>26</sup>Sin embargo, tenemos que encallar en alguna isla».</p>",
+        "url": "https://biblegateway.com/passage/?search=Hechos%2027:1-26&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Hechos 27:1-12",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7368-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7368-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Hechos 27:13-26",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_529-Acts7369-0-0",
+        "source": "arclight",
+        "refId": "2_529-Acts7369-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de Descubrimiento",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención o qué es lo que más te gustó? ¿por qué?"
+          },
+          {
+            "text": "¿Qué hay de nuevo o se ha desarrollado a estas alturas de la historia?"
+          },
+          {
+            "text": "¿Qué se está modelando acerca de una vida dependiente del Espíritu, haciendo discípulos o liderazgo?"
+          },
+          {
+            "text": "¿Cómo podemos vivir de manera diferente ahora que conocemos esta historia?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Preguntas adicionales que puede utilizar:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Cómo continúan los seguidores de Jesús Su obra de hacer discípulos y plantar iglesias?"
+          },
+          {
+            "text": "¿Cómo está impactando el Evangelio en las personas y en la sociedad?"
+          },
+          {
+            "text": "¿Qué barreras u obstáculos se superaron y cómo se superaron?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Lucas y Aristarco, uno de los líderes tesalonicenses que llegó a Jerusalén con Pablo dos años antes, se unieron al traslado de prisioneros a Roma (v2). Los marineros tomaron un gran riesgo al tratar de navegar demasiado tarde en la temporada de viajes, poniendo a todos en circunstancias muy peligrosas. Por lo que sabemos Pablo, Lucas y Aristarco eran los únicos cristianos a bordo con unos 273 no cristianos (Hechos 27:37). Vemos el corazón de compasión que Jesús tiene por las personas cuando prometió rescatar a Pablo y a todos los que están en el barco. Pablo vivió su confianza en Jesús delante de todos, pero también fue muy práctico en la forma en que satisfizo las necesidades de la gente. La confianza y la piedad no descartaban el sentido común de lo que la gente necesitaba. A pesar de que estaba en la humilde posición de un prisionero, el carácter de liderazgo y la competencia de Pablo se ve claramente aquí. Los demás comenzaron a escucharlo. Aprendemos que la influencia no depende de nuestra posición en la vida."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Practique el dar y la Santa Cena aquí o en la sección Preparación para la Misión</em>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Practique las habilidades necesarias o temas previos para ayudar a prepararse para ministrar a los demás:",
+                    "children": {
+                      "style": "unordered",
+                      "items": [
+                        {
+                          "text": "Orar, Cuidar, Compartir"
+                        },
+                        {
+                          "text": "Evangelio"
+                        },
+                        {
+                          "text": "Estudios Bíblicos Fundamentales"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica personas o lugares a los que tomarás la iniciativa de ministrar esta semana."
+          },
+          {
+            "text": "Escriba declaraciones usando de \"Yo haré…. cuando…” y que lo comparan con a su grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos al Señor. Pídele al Señor que nos ayude a ser fieles y que nos use para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Bendición (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply351-i-will"
+      }
+    }
+  ]
+}

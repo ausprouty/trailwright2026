@@ -1,0 +1,394 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmn",
+  "htmlLang": "zh-Hans",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply335",
+  "sortOrder": 48,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "向后看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "敬拜赞美",
+        "level": 2
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "祷告关怀",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "分享一件你要感谢神和需要耶稣为你做的事，并彼此感恩代祷"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "庆贺实践",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<li class=\"back\">请分享上周你因信靠神忠心地操练和实践基督使命的福音行动</li> <li class=\"back\">背诵上周经文（{徒17:11}） </li>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "徒17:11",
+            "label": "徒17:11",
+            "passage": "<p><sup>11</sup>这地方的人贤于帖撒罗尼迦的人，甘心领受这道，天天考查圣经，要晓得这道是与不是。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "天父心意",
+        "level": 2
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "吕底亚是保罗在全欧洲所结的第一个果子，福音顺利地在腓立比生了根，而且也长得很好，印证了圣灵的带领（{腓1:3}）。 人之所以能信主，完全是神的工作，“主就开导她的心，叫她留心听保罗所讲的话。”传福音的人只是神手中的器皿，因“我们作基督的使者，就好像神借我们劝你们一般”（{林后5:20}）， 所以一定要站稳与神同工的地位（{林后6:1}）， 让神借着我们来做工，而不是我们替神来做工。愿我们成为神手中合用的器皿，为主所用，经历与神同工的喜乐，成就主的美意并荣耀主的圣名。",
+        "references": [
+          {
+            "id": "popup_pop2",
+            "marker": "腓1:3",
+            "label": "腓1:3",
+            "passage": "<p><sup>3</sup>我每逢想念你们，就感谢我的神；</p>"
+          },
+          {
+            "id": "popup_pop3",
+            "marker": "林后5:20",
+            "label": "林后5:20",
+            "passage": "<p><sup>20</sup>所以，我们做基督的使者，就好像神借我们劝你们一般，我们替基督求你们与神和好。</p>"
+          },
+          {
+            "id": "popup_pop4",
+            "marker": "林后6:1",
+            "label": "林后6:1",
+            "passage": "<p><sup>1</sup>我们与神同工的，也劝你们不可徒受他的恩典。</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img class=\"lesson-icon\" src=\"/sites/mc2/content/M2/cmn/images/standard/mc2up.png\">"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "奉主差遣",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>经文背景</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "保罗一行人去到的下一个城市是马其顿的首府帖撒罗尼迦，保罗按照惯例先往犹太人的会堂，向犹太人传讲耶稣就是弥赛亚，虽然有不少人信了，但不信的犹太人煽动群众，引发暴乱，保罗和西拉因此急促离开帖城，来到了庇哩亚。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "庇哩亚人对福音的反应较帖城的人更热诚开放，然而发生在帖城的历史又重演了一遍，迫使保罗不得不离开。当保罗被迫离开庇哩亚的时候，他来到了原先不在宣教计划中的雅典。"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>阅读经文</strong>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "阅读或观看《徒17:16-34》两遍。"
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "徒17:16-34",
+        "html": "<p><sup>16</sup>保罗在雅典 等候他们的时候，看见满城都是偶像，就心里着急，<sup>17</sup>于是在会堂里与犹太人和虔敬的人，并每日在市上所遇见的人辩论。<sup>18</sup>还有伊壁鸠鲁 和斯多亚 两门的学士与他争论。有的说：“这胡言乱语的要说甚么？”有的说：“他似乎是传说外邦鬼神的。”这话是因保罗传讲耶稣与复活的道。<sup>19</sup>他们就把他带到亚略巴古 ，说：“你所讲的这新道，我们也可以知道吗？<sup>20</sup>因为你有些奇怪的事传到我们耳中，我们愿意知道这些事是甚么意思。”<sup>21</sup>（雅典人和住在那里的客人都不顾别的事，只将新闻说说听听。）</p> <p><sup>22</sup>保罗站在亚略巴古当中，说： “众位雅典人哪，我看你们凡事很敬畏鬼神。<sup>23</sup>我游行的时候，观看你们所敬拜的，遇见一座坛，上面写着‘未识之神’；你们所不认识而敬拜的，我现在告诉你们。<sup>24</sup>创造宇宙和其中万物的　神，既是天地的主，就不住人手所造的殿， <sup>25</sup>也不用人手服事，好像缺少甚么；自己倒将生命、气息、万物赐给万人。<sup>26</sup>他从一本造出万族的人（注：“本”有古卷作“血脉”），住在全地上，并且预先定准他们的年限和所住的疆界；<sup>27</sup>要叫他们寻求　神，或者可以揣摩而得。其实他离我们各人不远，<sup>28</sup>我们生活、动作、存留，都在乎他。就如你们作诗的，有人说：‘我们也是他所生的。’<sup>29</sup>我们既是　神所生的，就不当以为　神的神性像人用手艺、心思所雕刻的金、银、石。<sup>30</sup>世人蒙昧无知的时候，　神并不监察，如今却吩咐各处的人都要悔改。<sup>31</sup>因为他已经定了日子，要借着他所设立的人按公义审判天下，并且叫他从死里复活，给万人作可信的凭据。”</p> <p><sup>32</sup>众人听见从死里复活的话，就有讥诮他的；又有人说：“我们再听你讲这个吧！”<sup>33</sup>于是保罗从他们当中出去了。<sup>34</sup>但有几个人贴近他，信了主，其中有亚略巴古的官丢尼修，并一个妇人，名叫大马哩，还有别人一同信从。</p>",
+        "url": "https://biblegateway.com/passage/?search=徒17:16-34&version=CUVMPS",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "徒17:16-34",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=2_20615-Acts7348-0-0",
+        "source": "arclight",
+        "refId": "2_20615-Acts7348-0-0",
+        "startTime": "start",
+        "endTime": "end",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>探索与讨论</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "让你印象深刻的经文/部分是什么？为什么？"
+                },
+                {
+                  "text": "主的手如何借着门徒在这城中动工和带来影响？结果如何？"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<strong>故事重述</strong>",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "再读一遍故事。请小组一员口述这故事，其他人根据需要作补充或更正。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "保罗有颗怜悯的心，当他在希腊的雅典城看见人努力要取悦这么多假神，心里非常难过。在等候西拉和提摩太从马其顿赶来的同时，他就在城里继续传福音给不同的人，包括：会堂里的犹太人、市场里遇见的异教徒、不同派的哲学家（如现今的大学教授）。结果这些人对所传的道都感到好奇，就安排他到官长的议会上。我们看到保罗为雅典的官长调整了信息内容，他从这群听众知道的“未识之神”开始讲起，并引用了一首希腊诗。我们学到传讲福音的方式可以依据不同文化有所变化，然而不能改变需要悔改和信耶稣的福音之道。不同于其他城市，雅典只有少数几个人响应。",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "<strong>小结</strong>"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "经文背诵",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "徒17:30-31"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<sup>30</sup>世人蒙昧无知的时候，　神并不监察，如今却吩咐各处的人都要悔改。<sup>31</sup>因为他已经定了日子，要借着他所设立的人按公义审判天下，并且叫他从死里复活，给万人作可信的凭据。"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "向前看"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音预备",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "保罗这篇讲道最重要的信息和特色是什么？这对你在个人传福音或是讲道中，有什么启发和提醒？为什么？"
+          },
+          {
+            "text": "当你到一个新的城市或进入一个福音对象的家里时，一般你会观察什么？为什么？若你看到不同的偶像/宗教，你对这些的反应是什么？"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音行动",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "保罗在雅典留下了一篇伟大的讲章，这篇亚略巴古的讲道成为向异教徒宣教的最佳范本，保罗再次运用他传福音的原则：向什么样的人就做什么样的人。",
+            "children": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "保罗的听众是喜爱哲学的雅典人，保罗就以他们所能理解的风格和内容切入福音，这篇“处境化”的讲章向我们示范，福音是不变的，讲述福音的方式却是多变的。在向不同的人群分享福音时，求主给我们有颗怜悯他人的心，圣灵赐给我们智慧，晓得如何切入福音，把人带到神面前。"
+                },
+                {
+                  "text": "求神让每位基督徒都有颗谦卑受教的心，把握和熟练至少一种传福音的工具和方法，同时也学习其他传福音的技能，在生活中为主赢得更多的人。"
+                },
+                {
+                  "text": "也为那些主动走进或是被邀请前来教会的慕道朋友祷告，求神借着福音信息，切中他们的需要。也祷告神开他们的心窍，看到神是创造宇宙万有的主宰，如今世人可以借着信耶稣得以认识神，归向祂和经历祂。"
+                }
+              ]
+            }
+          },
+          {
+            "text": "求神使用你和其他倍增小组的组长，在教会或给其他所配搭的教会提供《启动信徒》课程培训，训练弟兄姐妹成为福音的使者，为主得人、造就人。"
+          },
+          {
+            "text": "本周把《帖撒罗尼迦前书》阅读一遍，将心得写下，下周小组分享。下图书卷图表仅供参考。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"\" src=\"/sites/mc2/content/M2/cmn/multiply3/M3L35.png\"></span>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "花3分钟写下你在本课的学习心得，或是你未来一周可能有的其他行动点。"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "福音祷告",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "万军之耶和华我们的神啊，祢是创造天地万物的主宰! 祢是真神活神、大而可畏的主，从亘古到永远，祢是永不改变的。我们甚愿至高荣耀归于我们在天上的父，地上平安归于祢所喜悦的人。天父啊，天使天军都要赞美祢，万国万民都要称颂祢，我们这群蒙恩的人更要称谢祢。求祢开世人的心眼，得知祢是昔在、今在、以后永在的神，真知道除了耶稣以外，别无拯救，因为天下人间没有赐下别的名，我们可以靠着得救。愿人都来就近祢，得享祢在创世以前所预备的救恩。感恩祷告奉主耶稣的名，阿们！"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply3-multiply335-i-will"
+      }
+    }
+  ]
+}

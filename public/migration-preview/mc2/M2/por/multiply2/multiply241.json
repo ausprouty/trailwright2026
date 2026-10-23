@@ -1,0 +1,448 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply241",
+  "sortOrder": 46,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louvar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia uma passagem das Escrituras e louvem com uma canção de adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">(Opcional) Jesus Cristo é o Senhor, para a gloria de Deus Pai. Ele deseja que todos os homens sejam salvos e cheguem ao pleno conhecimento da verdade. Porque há um só Deus e um único mediador entre Deus e os homens, o homem Jesus Cristo, que a si mesmo se entregou como resgate por todos. ({Filipenses 2:11}; {1 Timóteo 2:4-6}) </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>e declarem abertamente<br>que Jesus Cristo é o Senhor,<br>para a glória de Deus, o Pai.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timóteo 2:4-6",
+                    "label": "1 Timóteo 2:4-6",
+                    "passage": "<p><sup>4</sup>Ele quer que todos sejam salvos e venham a conhecer a verdade.</p><p><sup>5</sup>Pois existe um só Deus e uma só pessoa que une Deus com os seres humanos — o ser humano Cristo Jesus,<sup>6</sup>que deu a sua vida para que todos fiquem livres dos seus pecados. Esta foi a prova, dada no tempo certo, de que Deus quer que todos sejam salvos.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar sobre as necessidades dos demais em oração, conselho bíblico e ânimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça a cada pessoa que compartilhe acontecimento especial e um desafio que tenha experimentado nesta semana."
+          },
+          {
+            "text": "Pergunte: \"O que você deseja que Jesus faça por você nesta semana? Ore pelas necessidades dos demais."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<span style=\"background-color:white\"><span lang=\"PT-BR\">Pergunte: \"O que aconteceu quando você confiou em Deus sobre suas metas e suas declarações: Eu farei.... no dia......?\"</span></span>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Escolha uma maneira de dar a visão de quem eles podem chegar a ser em Cristo e o que Deus pode fazer através deles ao:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartilhar um versículo Bíblico que os faça lembrar o Coração do Pai e a visão final, ou"
+                  },
+                  {
+                    "text": "Refletir sobre as mudanças que aconteceram em suas vidas desde que começaram a seguir a Cristo, ou"
+                  },
+                  {
+                    "text": "recordar o que Deus quer fazer através deles."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Compartilhe a GRANDE visão de \"Uma igreja para cada cidade e comunidade, e o evangelho para cada pessoa”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Peça ao grupo que conte a história da semana passada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista João 7:1-8:11 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "João 7:1-52 e 8:1-11",
+        "html": "<h1>JOÃO 7</h1> <p>Jesus e os seus irmãos</p> <p>1Depois disso, Jesus começou a andar pela Galileia; ele não queria andar pela Judeia, pois os líderes judeus dali estavam querendo matá-lo. 2Aconteceu que a festa dos judeus chamada Festa das Barracas estava perto. 3Então os irmãos de Jesus disseram a ele:</p> <p>— Saia daqui e vá para a Judeia a fim de que os seus seguidores vejam o que você está fazendo. 4Pois quem quer ser bem-conhecido não deve esconder o que está fazendo. Já que você faz essas coisas, deixe que todos o conheçam.</p> <p>5Até os irmãos de Jesus não criam nele.</p> <p>6Ele respondeu:</p> <p>— A minha hora ainda não chegou, mas para vocês qualquer hora serve. 7O mundo não pode ter ódio de vocês, mas tem ódio de mim porque eu afirmo que o que o mundo faz é mau. 8Vão vocês à festa, mas eu não vou porque a minha hora ainda não chegou.</p> <p>9Jesus disse isso e ficou na Galileia.</p> <p>Jesus na Festa das Barracas</p> <p>10Depois que os seus irmãos foram à festa, Jesus também foi, mas fez isso em segredo e não publicamente. 11Os líderes judeus o procuravam na festa e perguntavam:</p> <p>— Onde é que está aquele homem?</p> <p>12Na multidão havia muita gente comentando sobre ele. Alguns diziam:</p> <p>— Ele é bom.</p> <p>— Não é não; ele engana o povo! — afirmavam outros.</p> <p>13Mas ninguém falava abertamente sobre ele porque todos tinham medo dos líderes judeus.</p> <p>14Quando a festa já estava no meio, Jesus foi ao Templo e começou a ensinar. 15Os líderes judeus ficaram muito admirados e diziam:</p> <p>— Como é que ele sabe tanto sem ter estudado?</p> <p>16Jesus disse:</p> <p>— O que eu ensino não vem de mim, mas vem de Deus, que me enviou. 17Quem quiser fazer a vontade de Deus saberá se o meu ensino vem de Deus ou se falo em meu próprio nome. 18Quem fala em seu próprio nome está procurando ser elogiado. Mas quem quer conseguir louvores para aquele que o enviou, esse é honesto, e não há falsidade nele. 19Foi Moisés quem deu a Lei a vocês, não foi? No entanto nenhum de vocês obedece à Lei. Por que é que vocês estão querendo me matar?</p> <p>20A multidão respondeu:</p> <p>— Você está dominado por um demônio! Quem é que está querendo matá-lo?</p> <p>21Então Jesus disse:</p> <p>— Eu fiz um milagre, e todos vocês estão admirados por causa disso. 22Vocês circuncidam um menino até no sábado porque Moisés mandou fazer isso. Mas a verdade é que a circuncisão não começou com Moisés, mas com os patriarcas. 23Para não deixarem de cumprir a Lei de Moisés, vocês circuncidam um menino, mesmo no sábado. Então por que ficam com raiva de mim quando eu curo completamente uma pessoa no sábado? 24Parem de julgar pelas aparências e julguem com justiça.</p> <p>É Jesus o Messias?</p> <p>25Algumas pessoas que moravam em Jerusalém perguntavam:</p> <p>— Não é este o homem que estão querendo matar? 26Vejam! Ele está falando em público, e ninguém diz nada contra ele! Será que as autoridades sabem mesmo que ele é o Messias? 27No entanto, quando o Messias vier, ninguém saberá de onde ele é; e nós sabemos de onde este homem vem.</p> <p>28Quando estava ensinando no pátio do Templo, Jesus disse bem alto:</p> <p>— Será que vocês me conhecem mesmo e sabem de onde eu sou? Eu não vim por minha própria conta. Aquele que me enviou é verdadeiro, porém vocês não o conhecem. 29Mas eu o conheço porque venho dele e fui mandado por ele.</p> <p>30Então quiseram prender Jesus, mas ninguém fez isso porque a sua hora ainda não tinha chegado. 31Porém muitas pessoas que estavam na multidão creram nele e perguntavam:</p> <p>— Quando o Messias vier, será que vai fazer milagres maiores do que este homem tem feito?</p> <p>Guardas mandados para prender Jesus</p> <p>32Os fariseus ouviram a multidão comentando essas coisas sobre Jesus, e por isso eles e os chefes dos sacerdotes mandaram guardas para o prenderem.</p> <p>33Jesus disse:</p> <p>— Eu vou ficar com vocês só mais um pouco e depois irei para aquele que me enviou. 34Vocês vão me procurar e não vão me achar, pois não podem ir para onde eu vou.</p> <p>35Então os líderes judeus começaram a comentar:</p> <p>— Para onde será que ele vai que não o poderemos achar? Será que ele vai morar com os judeus que moram no estrangeiro? Será que vai ensinar os não judeus? 36O que será que ele quis dizer quando afirmou: “Vocês vão me procurar e não vão me achar, pois não podem ir para onde eu vou”?</p> <p>A fonte de água viva</p> <p>37O último dia da festa era o mais importante. Naquele dia Jesus se pôs de pé e disse bem alto:</p> <p>— Se alguém tem sede, venha a mim e beba. 38Como dizem as Escrituras Sagradas: “Rios de água viva vão jorrar do coração de quem crê em mim”.</p> <p>39Jesus estava falando a respeito do Espírito Santo, que aqueles que criam nele iriam receber. Essas pessoas não tinham recebido o Espírito porque Jesus ainda não havia voltado para a presença gloriosa de Deus.</p> <p>O povo se divide</p> <p>40Muitas pessoas que ouviram essas palavras afirmavam:</p> <p>— De fato, este homem é o Profeta!</p> <p>41Outros diziam:</p> <p>— Ele é o Messias!</p> <p>E ainda outras pessoas perguntavam:</p> <p>— Mas será que o Messias virá da Galileia? 42As Escrituras Sagradas dizem que o Messias será descendente de Davi e vai nascer em Belém, onde Davi morou.</p> <p>43Então o povo se dividiu por causa dele. 44Alguns queriam prender Jesus, mas ninguém fez isso.</p> <p>Os líderes judeus não creem</p> <p>45Os guardas voltaram para o lugar onde estavam os chefes dos sacerdotes e os fariseus, e eles perguntaram:</p> <p>— Por que vocês não trouxeram aquele homem?</p> <p>46Eles responderam:</p> <p>— Nunca ninguém falou como ele!</p> <p>47Então os fariseus disseram aos guardas:</p> <p>— Será que vocês também foram enganados? 48Por acaso alguma autoridade ou algum fariseu creu nele? 49Essa gente que não conhece a Lei está amaldiçoada por Deus.</p> <p>50Mas Nicodemos, que era um deles e que certa ocasião havia falado com Jesus, disse:</p> <p>51— De acordo com a nossa Lei não podemos condenar um homem sem ouvi-lo primeiro e descobrir o que ele fez.</p> <p>52— Por acaso você também é da Galileia? — perguntaram eles. — Estude as Escrituras Sagradas e verá que da Galileia nunca surgiu nenhum profeta.</p> <p><strong>JOÃO 8:1-11</strong></p> <p>Jesus perdoa uma mulher apanhada em adultério</p> <p>1[Depois todos foram para casa, mas Jesus foi para o monte das Oliveiras. 2De madrugada ele voltou ao pátio do Templo, e o povo se reuniu em volta dele. Jesus estava sentado, ensinando a todos. 3Aí alguns mestres da Lei e fariseus levaram a Jesus uma mulher que tinha sido apanhada em adultério e a obrigaram a ficar de pé no meio de todos. 4Eles disseram:</p> <p>— Mestre, esta mulher foi apanhada no ato de adultério. 5De acordo com a Lei que Moisés nos deu, as mulheres adúlteras devem ser mortas a pedradas. Mas o senhor, o que é que diz sobre isso?</p> <p>6Eles fizeram essa pergunta para conseguir uma prova contra Jesus, pois queriam acusá-lo. Mas ele se abaixou e começou a escrever no chão com o dedo. 7Como eles continuaram a fazer a mesma pergunta, Jesus endireitou o corpo e disse a eles:</p> <p>— Quem de vocês estiver sem pecado, que seja o primeiro a atirar uma pedra nesta mulher!</p> <p>8Depois abaixou-se outra vez e continuou a escrever no chão. 9Quando ouviram isso, todos foram embora, um por um, começando pelos mais velhos. Ficaram só Jesus e a mulher, e ela continuou ali, de pé. 10Então Jesus endireitou o corpo e disse:</p> <p>— Mulher, onde estão eles? Não ficou ninguém para condenar você?</p> <p>11— Ninguém, senhor! — respondeu ela.</p> <p>Jesus disse:</p> <p>— Pois eu também não condeno você. Vá e não peque mais!]</p> Nova TraduÒ«ão na Linguagem de Hoje 2000",
+        "url": "https://biblegateway.com/passage/?search=John%207:1-8:11&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "João 7:1-44",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2207",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2207",
+        "startTime": "1:37",
+        "endTime": "8:16",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "João 7:45-8:11",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2208",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2208",
+        "startTime": "start",
+        "endTime": "3:40",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que te chamou a atenção ou o que você mais gostou? Por quê?"
+          },
+          {
+            "text": "Existe algo novo ou algo que tenha desenvolvido até este ponto da história de Jesus?"
+          },
+          {
+            "text": "O que aprendemos sobre a humanidade ou a divindade de Jesus nessa passagem?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que conhecemos essa história?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Perguntas adicionais que você pode usar:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que estão aprendendo seus seguidores?"
+          },
+          {
+            "text": "O que Jesus está modelando sobre a vida, o ministério e a liderança piedosa?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<hr> <p class=\"up\"> </p> <hr>"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratique ofertar e a comunhão aqui ou na sessão Preparar para a Missão.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pratique as habilidades necessárias ou assuntos prévios para te ajudar a preparar-se para ministrar aos demais:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar e Compartilhar"
+                  },
+                  {
+                    "text": "Compartilhar o Evangelho"
+                  },
+                  {
+                    "text": "Estudos Bíblicos Fundamentais"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique pessoas ou lugares onde tomará a iniciativa de ministrar nessa semana."
+          },
+          {
+            "text": "Escreva suas declarações de “Eu farei........ no dia ........” e compartilhe em seu pequeno grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Apresente as metas de todos ao Senhor. Peça ao Senhor que nos ajude a ser fiéis e que Ele nos use para iniciar um movimento de fazedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benção (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply241-i-will"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "fra",
+  "htmlLang": "fr",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply116",
+  "sortOrder": 16,
+  "blocks": [
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<div class=\"lesson\"><img class=\"lesson-icon\" src=\"/sites/mc2/images/standard/look-back.png\"> <div class=\"lesson-subtitle\">Regarder Derrière</div> </div> <div class=\"reveal\"> <hr> <h2>Louange</h2> <p>Lisez un passage biblique et exécutez un chant d’adoration.</p> <ul> <li>Lisez {Hébreux 13:14-15} et exécutez des cantiques. </li> <li>(facultatif) Utilisez une déclaration de foi au sujet de Jésus comme {Philippiens 2:11b} + {1 Timothée 2:4-6a} </li> </ul> <hr></div> <ul> </ul> <h2>Soin</h2> <p>Prenez soin les uns des autres dans la prière, la relation d’aide et l’encouragement.</p> <ul> <li>Demandez à chaque personne de raconter un moment fort et d’expliquer un défi qu’elle a eu cette semaine.</li> <li>Demandez, « Que voulez-vous que Jésus fasse pour vous cette semaine? » Priez pour vos besoins mutuels.</li> </ul> <h2>Célébrer la Fidélité</h2> <p>Encouragez l’obéissance à Jésus à travers une responsabilité empreinte d’amour.</p> <ul> <li>Demandez, « Que s’est-il passé pendant que vous avez fait confiance à Dieu pour vos objectifs et vos promesses je le ferai? »</li> </ul> <div class=\"reveal\"> <hr> <h2>Projection de Vision</h2> <p>Projetez une vision de qui ils peuvent devenir en Christ ou de ce que Dieu peut faire à travers eux.</p> <p>Exemple: Le cœur de Dieu est pour tous les perdus. Pourtant, tant d'endroits autour de nous sont sans disciples de Jésus qui puissent être une lumière pour la communauté et témoigner de l'amour de Dieu aux gens en ces lieux. En tant que disciples de Jésus, nous sommes appelés par Dieu à aligner nos cœurs à Son cœur pour TOUS les perdus. Nous devons poursuivre une grande vision qui atteindra toutes les communautés perdues autour de nous. Nous faisons confiance à Dieu pour nous utiliser pour apporter « une église à chaque village et communauté et l'évangile à chaque personne! »</p> <hr></div>",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Hébreux 13:14-15",
+            "label": "Hébreux 13:14-15",
+            "passage": "<p><sup>14</sup>Car nous n'avons point ici-bas de cité permanente, mais nous cherchons celle qui est à venir.</p><p><sup>15</sup>Par lui, offrons sans cesse à Dieu un sacrifice de louange, c'est-a-dire le fruit de lèvres qui confessent son nom.</p>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "Philippiens 2:11b",
+            "label": "Philippiens 2:11b",
+            "passage": "<p><sup>11</sup>et que toute langue confesse que Jésus Christ est Seigneur, à la gloire de Dieu le Père.</p>"
+          },
+          {
+            "id": "popup_pop3",
+            "marker": "1 Timothée 2:4-6a",
+            "label": "1 Timothée 2:4-6a",
+            "passage": "<p><sup>4</sup>qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité.</p><p><sup>5</sup>Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus Christ homme,</p><p><sup>6</sup>qui s'est donné lui-même en rançon pour tous. C'est là le témoignage rendu en son propre temps,</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    }
+  ]
+}

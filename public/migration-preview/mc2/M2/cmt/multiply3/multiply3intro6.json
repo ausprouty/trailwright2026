@@ -1,0 +1,178 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmt",
+  "htmlLang": "zh-Hant",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro6",
+  "sortOrder": 58,
+  "blocks": [
+    {
+      "type": "header",
+      "data": {
+        "text": "（保羅被捕受審）〔公元 57-62 年〕",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "為六、七個宣教據點立下根基後，保羅接下來的角色轉成為自己的工作和信仰辯護。此階段發生的重要事跡有：長途旅程、危險的處境、在地方政府的高官面前發言。"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">43.預言會被抓——去耶城路上（</span><span lang=\"ZH-CN\">徒</span><span lang=\"EN-US\">21:1-26</span><span lang=\"ZH-CN\">）</span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "44.聖殿中被抓——耶路撒冷（徒21:27-36）"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">45.聖殿中辯解——耶路撒冷（</span><span lang=\"ZH-CN\">徒</span><span lang=\"EN-US\">21:37-22:21</span><span lang=\"ZH-CN\">）</span>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<div class=\"lesson-icon\"><span lang=\"ZH-CN\">附錄</span>45.1：《<span lang=\"ZH-CN\">宣教士：楊格非</span><span lang=\"ZH-CN\">》</span> </div>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">46.公會中辯解——耶路撒冷</span><span lang=\"ZH-CN\">（</span><span lang=\"ZH-CN\">徒</span><span lang=\"EN-US\">22:22-23:11</span><span lang=\"ZH-CN\">）</span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">47.謀殺得保護——耶路撒冷</span><span lang=\"ZH-CN\">（</span><span lang=\"ZH-CN\">徒</span><span lang=\"EN-US\">23:12-35</span><span lang=\"ZH-CN\">）</span><u> </u>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">48.巡撫前辯解——凱撒利亞，兩年</span><span lang=\"ZH-CN\">（</span><span lang=\"ZH-CN\">徒</span><span lang=\"EN-US\">24:1-27</span><span lang=\"ZH-CN\">）</span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">49.新官前辯解——凱撒利亞</span><span lang=\"ZH-CN\">（</span><span lang=\"ZH-CN\">徒</span><span lang=\"EN-US\">25:1-22</span><span lang=\"ZH-CN\">）</span>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<div class=\"lesson-icon\"><span lang=\"ZH-CN\">附錄</span>49.1《<span lang=\"ZH-CN\">主僕：宋尚節</span><span lang=\"ZH-CN\">》</span></div>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">50.王上前辯解——凱撒利亞</span><span lang=\"ZH-CN\">（</span><span lang=\"ZH-CN\">徒</span><span lang=\"EN-US\">25:23-26:32</span><span lang=\"ZH-CN\">）</span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">51.海難中應許——去羅馬船上</span><span lang=\"ZH-CN\">（</span><span lang=\"ZH-CN\">徒</span><span lang=\"EN-US\">27:1-26</span><span lang=\"ZH-CN\">）</span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">52.海難中得救——船登島岸</span><span lang=\"ZH-CN\">（</span><span lang=\"ZH-CN\">徒</span><span lang=\"EN-US\">27:27-44</span><span lang=\"ZH-CN\">）</span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">53.島上蒙保守——馬耳他島</span><span lang=\"ZH-CN\">（</span><span lang=\"ZH-CN\">徒</span><span lang=\"EN-US\">28:1-11</span><span lang=\"ZH-CN\">）</span>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<div class=\"lesson-icon\"><span lang=\"ZH-CN\">附錄</span>53.1《<span lang=\"ZH-CN\">主僕：史祈生</span><span lang=\"ZH-CN\">》</span></div>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">54.軟禁中辯解——羅馬</span><span lang=\"ZH-CN\">（</span><span lang=\"ZH-CN\">徒</span><span lang=\"EN-US\">28:12-31</span><span lang=\"ZH-CN\">）</span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "行動計劃表"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img src=\"/content/M2/cmn/images/custom/image(10).png\">"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">上圖：保羅被押往羅馬受審旅程：</span>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          {
+            "text": "<span lang=\"ZH-CN\">保羅在耶路撒冷被捉，送到凱撒利亞（徒</span><span lang=\"EN-US\">21:27-23:30</span><span lang=\"ZH-CN\">）</span>"
+          },
+          {
+            "text": "<span lang=\"ZH-CN\">在凱撒利亞被囚兩年，受審後送往羅馬（徒</span><span lang=\"EN-US\">23:31-26:32</span><span lang=\"ZH-CN\">）</span>"
+          },
+          {
+            "text": "<span lang=\"ZH-CN\">保羅被押乘船經西頓、每拉到了佳澳（徒</span><span lang=\"EN-US\">27:1-8</span><span lang=\"ZH-CN\">）</span>"
+          },
+          {
+            "text": "<span lang=\"ZH-CN\">保羅等在海上歷經風浪的危險到了米利大（徒</span><span lang=\"EN-US\">27:9-44</span><span lang=\"ZH-CN\">）</span>"
+          },
+          {
+            "text": "<span lang=\"ZH-CN\">從米利大經敘拉古、利基翁、部丟利，到了羅馬，在羅馬等待受審兩年期間繼續傳道（徒</span><span lang=\"EN-US\">28:1-17</span><span lang=\"ZH-CN\">）</span>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "（圖片與以下內容取自：<span lang=\"EN-US\"><a href=\"https://cmcbiblereading.com/wp-content/uploads/2016/10/118.gif\" style=\"color:#0563c1; text-decoration:underline\">https://cmcbiblereading.com/wp-content/uploads/2016/10/118.gif</a></span><span class=\"MsoHyperlink\" style=\"color:#0563c1\"><u>）</u></span>"
+      }
+    }
+  ]
+}

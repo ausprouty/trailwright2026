@@ -1,0 +1,399 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply114",
+  "sortOrder": 15,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">Lee {Mateo 10:28-30} y canten alabanzas.</li> <li class=\"back\">(opcional) Use una Declaración de Fe acerca de Jesús, como {Filipenses 2:11b}; {1 Timoteo 2:4-6a} </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Mateo 10:28-30",
+                    "label": "Mateo 10:28-30",
+                    "passage": "<p><sup>28</sup>No teman a los que matan el cuerpo, pero no pueden matar el alma. Teman más bien al que puede destruir alma y cuerpo en el infierno.<sup>29</sup>¿No se venden dos gorriones por una monedita? Sin embargo, ni uno de ellos caerá a tierra sin que lo permita el Padre;<sup>30</sup>y él les tiene contados a ustedes aun los cabellos de la cabeza.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "Filipenses 2:11b",
+                    "label": "Filipenses 2:11b",
+                    "passage": "<p><sup>11</sup>... para gloria de Dios Padre.</p>"
+                  },
+                  {
+                    "id": "popup_pop3",
+                    "marker": "1 Timoteo 2:4-6a",
+                    "label": "1 Timoteo 2:4-6a",
+                    "passage": "<p><sup>4</sup>pues él quiere que todos sean salvos y lleguen a conocer la verdad.<sup>5</sup>Porque hay un solo Dios y un solo mediador entre Dios y los hombres, Jesucristo hombre,<sup>6</sup>quien dio su vida como rescate por todos.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar las necesidades de los demás en oración, consejo bíblico y ánimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunta: \"¿Qué pasó cuando confiaste en Dios tus metas y tu declaración: “Yo haré…”?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y Animo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Proyectar visión de quiénes pueden llegar a ser en Cristo o lo que Dios puede hacer a través de ellos.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Ejemplo: Lee {Hebreos 10:19-25}.",
+                "references": [
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Hebreos 10:19-25",
+                    "label": "Hebreos 10:19-25",
+                    "passage": "<p><sup>19</sup>Así que, hermanos, mediante la sangre de Jesús, tenemos plena libertad para entrar en el Lugar Santísimo,<sup>20</sup>por el camino nuevo y vivo que él nos ha abierto a través de la cortina, es decir, a través de su cuerpo;<sup>21</sup>y tenemos además un gran sacerdote al frente de la familia de Dios.<sup>22</sup>Acerquémonos, pues, a Dios con corazón sincero y con la plena seguridad que da la fe, interiormente purificados de una conciencia culpable y exteriormente lavados con agua pura.<sup>23</sup>Mantengamos firme la esperanza que profesamos, porque fiel es el que hizo la promesa.<sup>24</sup>Preocupémonos los unos por los otros, a fin de estimularnos al amor y a las buenas obras.<sup>25</sup>No dejemos de congregarnos, como acostumbran hacerlo algunos, sino animémonos unos a otros, y con mayor razón ahora que vemos que aquel día se acerca.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Dios les dio a los judíos una celebración especial llamada la Pascua para recordar cómo los liberó de la esclavitud en Egipto. La noche antes de que Jesús muriera en la cruz, celebró la Pascua con Sus discípulos y explicó cómo la Pascua se refería a Él."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Lucas 22:14-20</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 22:14-20",
+        "html": "<p><sup>14</sup>Cuando llegó la hora, Jesús y sus apóstoles se sentaron a la mesa.<sup>15</sup>Entonces les dijo:</p> <p>—He tenido muchísimos deseos de comer esta Pascua con ustedes antes de padecer,<sup>16</sup>pues les digo que no volveré a comerla hasta que tenga su pleno cumplimiento en el reino de Dios.</p> <p><sup>17</sup>Luego tomó la copa, dio gracias y dijo:</p> <p>—Tomen esto y repártanlo entre ustedes.<sup>18</sup>Les digo que no volveré a beber del fruto de la vid hasta que venga el reino de Dios.</p> <p><sup>19</sup>También tomó pan y, después de dar gracias, lo partió, se lo dio a ellos y dijo:</p> <p>—Este pan es mi cuerpo, entregado por ustedes; hagan esto en memoria de mí.</p> <p><sup>20</sup>De la misma manera tomó la copa después de la cena, y dijo:</p> <p>—Esta copa es el nuevo pacto en mi sangre, que es derramada por ustedes.</p>",
+        "url": "https://biblegateway.com/passage/?search=Lucas%2022:14-20&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lucas 22:14-20",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2622",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2622",
+        "startTime": "1:49",
+        "endTime": "3:16",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de Descubrimiento (Todos responden)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención (o qué te gustó más) y por qué?"
+          },
+          {
+            "text": "¿Qué aprendiste acerca de Jesús?"
+          },
+          {
+            "text": "¿Qué aprendiste sobre las personas?"
+          },
+          {
+            "text": "¿Cómo obedecerás a Jesús ahora que sabes esto?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesús modeló a Sus seguidores una manera de recordar Su muerte sacrificial en la cruz. [Toma un pedazo de pan] El pan representa Su cuerpo que fue roto por nosotros. [Muéstreles vino o jugo] La bebida representa Su sangre que fue derramada por nosotros y abrió un nuevo camino para relacionarse con Dios. También les ordenó que siguieran practicándolo."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "En {1 Corintios 11:23-30}, vemos que cuando Pablo comenzó nuevas iglesias, enseñó a todos los nuevos creyentes cómo obedecer el mandato de Jesús.",
+                "references": [
+                  {
+                    "id": "popup_pop5",
+                    "marker": "1 Corintios 11:23-30",
+                    "label": "1 Corintios 11:23-30",
+                    "passage": "<p><sup>23</sup>Yo recibí del Señor lo mismo que les transmití a ustedes: Que el Señor Jesús, la noche en que fue traicionado, tomó pan,<sup>24</sup>y, después de dar gracias, lo partió y dijo: «Este pan es mi cuerpo, que por ustedes entrego; hagan esto en memoria de mí».<sup>25</sup>De la misma manera, después de cenar, tomó la copa y dijo: «Esta copa es el nuevo pacto en mi sangre; hagan esto, cada vez que beban de ella, en memoria de mí».<sup>26</sup>Porque cada vez que comen este pan y beben de esta copa, proclaman la muerte del Señor hasta que él venga.</p><p><sup>27</sup>Por lo tanto, cualquiera que coma el pan o beba de la copa del Señor de manera indigna será culpable de pecar contra el cuerpo y la sangre del Señor.<sup>28</sup>Así que cada uno debe examinarse a sí mismo antes de comer el pan y beber de la copa.<sup>29</sup>Porque el que come y bebe sin discernir el cuerpo come y bebe su propia condena.<sup>30</sup>Por eso hay entre ustedes muchos débiles y enfermos, e incluso varios han muerto.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li>Practique la cena del Señor. Use lo que los líderes de la iglesia local han dado o use la práctica sugerida a continuación: <ul> <li>Lee {1 Corintios 11:23-30}. o Haga una pausa y deles tiempo para confesar sus pecados y hablar con el Señor.</li> <li>Dale el pan, diles que esto representa Su cuerpo que fue roto por nosotros. Coman juntos.</li> <li>Dale la bebida. Dígales que esto representa Su sangre que fue derramada por nosotros. Beban juntos.</li> <li>Oren y agradezcan al Señor por lo que Él ha hecho por nosotros.</li> </ul> </li>",
+                "references": [
+                  {
+                    "id": "popup_pop6",
+                    "marker": "1 Corintios 11:23-30",
+                    "label": "1 Corintios 11:23-30",
+                    "passage": "<p><sup>23</sup>Yo recibí del Señor lo mismo que les transmití a ustedes: Que el Señor Jesús, la noche en que fue traicionado, tomó pan,<sup>24</sup>y, después de dar gracias, lo partió y dijo: «Este pan es mi cuerpo, que por ustedes entrego; hagan esto en memoria de mí».<sup>25</sup>De la misma manera, después de cenar, tomó la copa y dijo: «Esta copa es el nuevo pacto en mi sangre; hagan esto, cada vez que beban de ella, en memoria de mí».<sup>26</sup>Porque cada vez que comen este pan y beben de esta copa, proclaman la muerte del Señor hasta que él venga.</p><p><sup>27</sup>Por lo tanto, cualquiera que coma el pan o beba de la copa del Señor de manera indigna será culpable de pecar contra el cuerpo y la sangre del Señor.<sup>28</sup>Así que cada uno debe examinarse a sí mismo antes de comer el pan y beber de la copa.<sup>29</sup>Porque el que come y bebe sin discernir el cuerpo come y bebe su propia condena.<sup>30</sup>Por eso hay entre ustedes muchos débiles y enfermos, e incluso varios han muerto.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica a 5 personas de tu Lista Oikos con las que tomarás la iniciativa de ministrar esta semana"
+          },
+          {
+            "text": "Escriba declaraciones usando de \"Yo haré…. cuando…” y que lo compartan con su grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos al Señor. Pídele al Señor que nos ayude a ser fieles y que nos use para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply114-i-will"
+      }
+    }
+  ]
+}

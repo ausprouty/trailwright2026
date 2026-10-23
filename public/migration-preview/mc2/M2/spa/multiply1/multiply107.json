@@ -1,0 +1,369 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply107",
+  "sortOrder": 7,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Mirando hacia atrás"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Alabar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Lee un pasaje de las Escrituras y practiquen un canto de adoración.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Ejemplo: Lea el {Salmos 16:7-11} y enseñe una nueva alabanza.",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Salmos 16:7-11",
+                    "label": "Salmos 16:7-11",
+                    "passage": "<div><p><sup>7</sup>Bendeciré al<span class=\"divine-name small-caps\">Señor, que me aconseja;<br>aun de noche me reprende mi conciencia.<br><sup>8</sup>Siempre tengo presente al<span class=\"divine-name small-caps\">Señor;<br>con él a mi derecha, nada me hará caer.</span></span></p></div><p><sup>9</sup>Por eso mi corazón se alegra,<br>y se regocijan mis entrañas;<br>todo mi ser se llena de confianza.<br><sup>10</sup>No dejarás que mi vida termine en el sepulcro;<br>no permitirás que sufra corrupción tu siervo fiel.<br><sup>11</sup>Me has dado a conocer la senda de la vida;<br>me llenarás de alegría en tu presencia,<br>y de dicha eterna a tu derecha.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar las necesidades de los demás en oración, consejo bíblico y ánimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pida a cada persona que comparta un hecho destacado y un desafío que haya experimentado esta semana."
+          },
+          {
+            "text": "Pregunta: \"¿Qué quieres que Jesús haga por ti esta semana?\" Oren por las necesidades de los demás"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebra la fidelidad",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Alentar la responsabilidad amorosa de obedecer a Jesús</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pregunta: \"¿Qué pasó cuando confiaste en Dios tus metas y tu declaración: “Yo haré…”?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivación y Animo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Proyectar visión de quiénes pueden llegar a ser en Cristo o lo que Dios puede hacer a través de ellos.</em>"
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Ejemplo: Juan 16 nos enseña que el Espíritu Santo está obrando activamente en los corazones de los que nos rodean. Él les está mostrando su pecado. Él está creando un deseo de estar de acuerdo con Dios. Él está creando un anhelo de evitar el miedo a la muerte, que es el juicio eterno. Está derribando las objeciones de sus mentes y corazones. Nuestro trabajo es pesca esas personas a través del testimonio, encontrando a aquellos cuyos corazones están listos. Animémonos los unos a otros recordándonos que el Espíritu ya está obrando antes de que vayamos."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Mirando para arriba"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "La noche antes de que Jesús fuera crucificado, cenó con sus 12 discípulos más cercanos. Él les dijo que se iba, pero que iba a enviar al Consejero, el Espíritu Santo, para estar con ellos para siempre. Él les enseña que a través de la presencia del Espíritu Santo viviendo en ellos, Él mismo estará con ellos. Esta historia utiliza la imagen de una vid y sus ramas para describir cómo debería ser nuestra relación con Jesús."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea o vea <strong>Juan 15:1-11</strong> dos veces mientras todos escuchan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Juan 15:1-11",
+        "html": "<h3>Jesús, la vid verdadera</h3> <p><sup>1</sup>»Yo soy la vid verdadera, y mi Padre es el labrador.<sup>2</sup>Toda rama que en mí no da fruto, la corta; pero toda rama que da fruto la poda para que dé más fruto todavía.<sup>3</sup>Ustedes ya están limpios por la palabra que les he comunicado.<sup>4</sup>Permanezcan en mí, y yo permaneceré en ustedes. Así como ninguna rama puede dar fruto por sí misma, sino que tiene que permanecer en la vid, así tampoco ustedes pueden dar fruto si no permanecen en mí.</p> <p><sup>5</sup>»Yo soy la vid y ustedes son las ramas. El que permanece en mí, como yo en él, dará mucho fruto; separados de mí no pueden ustedes hacer nada.<sup>6</sup>El que no permanece en mí es desechado y se seca, como las ramas que se recogen, se arrojan al fuego y se queman.<sup>7</sup>Si permanecen en mí y mis palabras permanecen en ustedes, pidan lo que quieran, y se les concederá.<sup>8</sup>Mi Padre es glorificado cuando ustedes dan mucho fruto y muestran así que son mis discípulos.</p> <p><sup>9</sup>»Así como el Padre me ha amado a mí, también yo los he amado a ustedes. Permanezcan en mi amor.<sup>10</sup>Si obedecen mis mandamientos, permanecerán en mi amor, así como yo he obedecido los mandamientos de mi Padre y permanezco en su amor.<sup>11</sup>Les he dicho esto para que tengan mi alegría y así su alegría sea completa.</p>",
+        "url": "https://biblegateway.com/passage/?search=Juan%2015:1-11&version=NVI",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Juan 15:1-11",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2216",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2216",
+        "startTime": "start",
+        "endTime": "2:02",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preguntas de Descubrimiento (Todos responden)",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "¿Qué te llamó la atención (o qué te gustó más) y por qué?"
+          },
+          {
+            "text": "¿Qué aprendiste acerca de Jesús?"
+          },
+          {
+            "text": "¿Qué aprendiste sobre las personas?"
+          },
+          {
+            "text": "¿Cómo obedecerás a Jesús ahora que sabes esto?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leer, contar y corregir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Lea la historia de nuevo. Pídale a alguien que cuente la historia y pídale al grupo que corrija si es necesario."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumen",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Sin Jesús, no podemos hacer nada. Sólo podemos tener una vida fructífera cuando dependemos de Él y permanecemos en Él. Esto sucede cuando nos sometemos en obediencia a Sus caminos, permitiendo que su vida fluya dentro y a través de nosotros para que podamos dar fruto para la gloria de Dios. En otras palabras, necesitamos dejar que el Espíritu de Cristo, el Espíritu Santo, dirija y empodere nuestras vidas por fe."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Mirando hacia adelante"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparación para la Misión",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Revise los principios de la respiración espiritual del <a href=\"https://staging.mc2.online/content/M2/spa/multiply1/multiply103.html\">EBF #3 “Caminando en el Espíritu\".</a>"
+                  },
+                  {
+                    "text": "Practique cualquier habilidad o tema de lecciones anteriores según sea necesario."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ir a la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifica a 5 personas de tu Lista Oikos a las que les que contarás la historia o compartirás el Evangelio esta semana."
+          },
+          {
+            "text": "Escriba declaraciones usando de \"Yo haré…. cuando…” y que lo compartan con su grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando por la Misión",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Comprometa las metas de todos al Señor. Pídele al Señor que nos ayude a ser fieles y que nos use para iniciar un movimiento de hacedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "Para un mayor enriquecimiento: <a href=\"https://staging.mc2.online/content/M2/spa/tc/tc04.html\" target=\"_blank\">Lea el concepto transferible #4: Cómo caminar en el Espíritu Santo?</a>, comparta lo aprendido con otro miembro del grupo.",
+        "className": "for-enrichment"
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply107-i-will"
+      }
+    }
+  ]
+}

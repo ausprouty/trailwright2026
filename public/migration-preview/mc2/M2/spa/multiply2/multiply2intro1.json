@@ -1,0 +1,78 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "spa",
+  "htmlLang": "es",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply2intro1",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"\" src=\"/sites/mc2/content/M2/spa/images/custom/Period1.png\" style=\"width:100%\"></span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"es\">Este período dura desde el nacimiento de Jesús alrededor del 4 a.C hasta aproximadamente los 30 años. </span><span lang=\"es\">Preparación para una vida y un movimiento de multiplicación.</span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"es\">Este período se caracteriza por lo siguiente:</span>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<span lang=\"es\">Llegar a ser la persona que Él buscaba para multiplicar en otros</span>"
+          },
+          {
+            "text": "<span lang=\"es\">Prepararse para una vida piadosa y un movimiento de multiplicación</span>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "<span><span><span lang=\"es\"><span>Durante los primeros 30 años de Su vida, Jesús \"crecía y se convertía\" ({Lucas 2:40}, </span></span></span></span> {Lucas 2:51-52}) en la persona que se iba a multiplicar en otros. Todo esto ocurrió antes de que comenzara su ministerio público. Era evidente, desde el principio de su ministerio, Jesús había estado orando, planeando y aclarando cuál sería Su ministerio y cómo lo haría.",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Lucas 2:40",
+            "label": "Lucas 2:40",
+            "passage": "<p><sup>40</sup>El niño crecía y se fortalecía; progresaba en sabiduría, y la gracia de Dios lo acompañaba.</p>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "Lucas 2:51-52",
+            "label": "Lucas 2:51-52",
+            "passage": "<p><sup>51</sup>Así que Jesús bajó con sus padres a Nazaret y vivió sujeto a ellos. Pero su madre conservaba todas estas cosas en el corazón.<sup>52</sup>Jesús siguió creciendo en sabiduría y estatura, y cada vez más gozaba del favor de Dios y de toda la gente.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"es\">La pasión de su corazón era pura. Su propósito era claro. El proceso ministerial que decidió fue sencillo. Se conectaba con los perdidos, los ganaría para Él, los edificaría en lo que significa ser un seguidor, los entrenaría en la pesca de otros y los enviaba a multiplicar el mismo proceso con otros.</span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"es\">Jesús determinó que Él buscaría y obraría a través de las personas que su Padre había preparado.</span>"
+      }
+    }
+  ]
+}

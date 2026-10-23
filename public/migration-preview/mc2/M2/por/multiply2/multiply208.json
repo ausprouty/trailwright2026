@@ -1,0 +1,448 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply208",
+  "sortOrder": 11,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Louvar",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia uma passagem das Escrituras e louvem com uma canção de adoração.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "<li class=\"back\">(Opcional) Jesus Cristo é o Senhor, para a gloria de Deus Pai. Ele deseja que todos os homens sejam salvos e cheguem ao pleno conhecimento da verdade. Porque há um só Deus e um único mediador entre Deus e os homens, o homem Jesus Cristo, que a si mesmo se entregou como resgate por todos. ({Filipenses 2:11}; {1 Timóteo 2:4-6}) </li>",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Filipenses 2:11",
+                    "label": "Filipenses 2:11",
+                    "passage": "<p><sup>11</sup>e declarem abertamente<br>que Jesus Cristo é o Senhor,<br>para a glória de Deus, o Pai.</p>"
+                  },
+                  {
+                    "id": "popup_pop2",
+                    "marker": "1 Timóteo 2:4-6",
+                    "label": "1 Timóteo 2:4-6",
+                    "passage": "<p><sup>4</sup>Ele quer que todos sejam salvos e venham a conhecer a verdade.</p><p><sup>5</sup>Pois existe um só Deus e uma só pessoa que une Deus com os seres humanos — o ser humano Cristo Jesus,<sup>6</sup>que deu a sua vida para que todos fiquem livres dos seus pecados. Esta foi a prova, dada no tempo certo, de que Deus quer que todos sejam salvos.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Ministrar sobre as necessidades dos demais em oração, conselho bíblico e ânimo.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça a cada pessoa que compartilhe acontecimento especial e um desafio que tenha experimentado nesta semana."
+          },
+          {
+            "text": "Pergunte: \"O que você deseja que Jesus faça por você nesta semana? Ore pelas necessidades dos demais."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "<span style=\"background-color:white\"><span lang=\"PT-BR\">Pergunte: \"O que aconteceu quando você confiou em Deus sobre suas metas e suas declarações: Eu farei.... no dia......?\"</span></span>"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Escolha uma maneira de dar a visão de quem eles podem chegar a ser em Cristo e o que Deus pode fazer através deles ao:</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Compartilhar um versículo Bíblico que os faça lembrar o Coração do Pai e a visão final, ou"
+                  },
+                  {
+                    "text": "Refletir sobre as mudanças que aconteceram em suas vidas desde que começaram a seguir a Cristo, ou"
+                  },
+                  {
+                    "text": "recordar o que Deus quer fazer através deles."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Compartilhe a GRANDE visão de \"Uma igreja para cada cidade e comunidade, e o evangelho para cada pessoa”"
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Peça ao grupo que conte a história da semana passada."
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista João 1:19-51 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "João 1:19-51",
+        "html": "<h3>A mensagem de João Batista</h3> <p><sup>19</sup>Os líderes judeus enviaram de Jerusalém alguns sacerdotes e levitas para perguntarem a João quem ele era.<sup>20</sup>João afirmou claramente:</p> <p>— Eu não sou o Messias.</p> <p><sup>21</sup>Eles tornaram a perguntar:</p> <p>— Então, quem é você? Você é Elias?</p> <p>— Não, eu não sou! — respondeu João.</p> <p>— Você é o Profeta que estamos esperando?</p> <p>— Não! — respondeu ele.</p> <p><sup>22</sup>Aí eles disseram a João:</p> <p>— Diga quem é você para podermos levar uma resposta aos que nos enviaram. O que é que você diz a respeito de você mesmo?</p> <p><sup>23</sup>João respondeu, citando o profeta Isaías:</p> <p>— “Eu sou aquele que grita assim no deserto: preparem o caminho para o Senhor passar.”</p> <p><sup>24</sup>Os que foram enviados eram do grupo dos fariseus;<sup>25</sup>eles perguntaram a João:</p> <p>— Se você não é o Messias, nem Elias, nem o Profeta que estamos esperando, por que é que você batiza?</p> <p><sup>26</sup>João respondeu:</p> <p>— Eu batizo com água, mas no meio de vocês está alguém que vocês não conhecem.<sup>27</sup>Ele vem depois de mim, mas eu não mereço a honra de desamarrar as correias das sandálias dele.</p> <p><sup>28</sup>Isso aconteceu no povoado de Betânia, no lado leste do rio Jordão, onde João estava batizando.</p> <h3>O Cordeiro de Deus</h3> <p><sup>29</sup>No dia seguinte, João viu Jesus vindo na direção dele e disse:</p> <p>— Aí está o Cordeiro de Deus, que tira o pecado do mundo!<sup>30</sup>Eu estava falando a respeito dele quando disse: “Depois de mim vem um homem que é mais importante do que eu, pois antes de eu nascer ele já existia.”<sup>31</sup>Eu mesmo não sabia quem ele era, mas vim, batizando com água para que o povo de Israel saiba quem ele é.</p> <p><sup>32</sup>João continuou:</p> <p>— Eu vi o Espírito descer do céu como uma pomba e parar sobre ele.<sup>33</sup>Eu não sabia quem ele era, mas Deus, que me mandou batizar com água, me disse: “Você vai ver o Espírito descer e parar sobre um homem. Esse é quem batiza com o Espírito Santo.”<sup>34</sup>E eu vi isso e por esse motivo tenho declarado que ele é o Filho de Deus.</p> <h3>Os primeiros discípulos de Jesus</h3> <p><sup>35</sup>No dia seguinte, João estava outra vez ali com dois dos seus discípulos.<sup>36</sup>Quando viu Jesus passar, disse:</p> <p>— Aí está o Cordeiro de Deus!</p> <p><sup>37</sup>Quando os dois discípulos de João ouviram isso, saíram seguindo Jesus.<sup>38</sup>Então Jesus olhou para trás, viu que eles o seguiam e perguntou:</p> <p>— O que é que vocês estão procurando?</p> <p>Eles perguntaram:</p> <p>— Rabi, onde é que o senhor mora? (“Rabi” quer dizer “mestre”.)</p> <p><sup>39</sup>— Venham ver! — disse Jesus.</p> <p>Então eles foram, viram onde Jesus estava morando e ficaram com ele o resto daquele dia. Isso aconteceu mais ou menos às quatro horas da tarde.</p> <p><sup>40</sup>André, irmão de Simão Pedro, era um dos dois homens que tinham ouvido João falar a respeito de Jesus e por isso o haviam seguido.<sup>41</sup>A primeira coisa que André fez foi procurar o seu irmão Simão e dizer a ele:</p> <p>— Achamos o Messias. (“Messias” quer dizer “Cristo”.)</p> <p><sup>42</sup>Então André levou o seu irmão a Jesus. Jesus olhou para Simão e disse:</p> <p>— Você é Simão, filho de João, mas de agora em diante o seu nome será Cefas. (“Cefas” é o mesmo que “Pedro” e quer dizer “pedra”.)</p> <h3>Jesus chama Filipe e Natanael</h3> <p><sup>43</sup>No dia seguinte, Jesus resolveu ir para a região da Galileia. Antes de ir, foi procurar Filipe e disse:</p> <p>— Venha comigo!</p> <p><sup>44</sup>Filipe era de Betsaida, de onde eram também André e Pedro.<sup>45</sup>Filipe foi procurar Natanael e disse:</p> <p>— Achamos aquele a respeito de quem Moisés escreveu no Livro da Lei e sobre quem os profetas também escreveram. É Jesus, filho de José, da cidade de Nazaré.</p> <p><sup>46</sup>Natanael perguntou:</p> <p>— E será que pode sair alguma coisa boa de Nazaré?</p> <p>— Venha ver! — respondeu Filipe.</p> <p><sup>47</sup>Quando Jesus viu Natanael chegando, disse a respeito dele:</p> <p>— Aí está um verdadeiro israelita, um homem realmente sincero.</p> <p><sup>48</sup>Então Natanael perguntou a Jesus:</p> <p>— De onde o senhor me conhece?</p> <p>Jesus respondeu:</p> <p>— Antes que Filipe chamasse você, eu já tinha visto você sentado debaixo daquela figueira.</p> <p><sup>49</sup>Então Natanael exclamou:</p> <p>— Mestre, o senhor é o Filho de Deus! O senhor é o Rei de Israel!</p> <p><sup>50</sup>Jesus respondeu:</p> <p>— Você crê em mim só porque eu disse que tinha visto você debaixo da figueira? Pois você verá coisas maiores do que esta.<sup>51</sup>Eu afirmo a vocês que isto é verdade: vocês verão o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do Homem.</p>",
+        "url": "https://biblegateway.com/passage/?search=John%201:19-51&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "João 1:19-34",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2201",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2201",
+        "startTime": "3:33",
+        "endTime": "6:24",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "João 1:35-51",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOJohn2202",
+        "source": "arclight",
+        "refId": "6_529-GOJohn2202",
+        "startTime": "start",
+        "endTime": "2:40",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que te chamou a atenção ou o que você mais gostou? Por quê?"
+          },
+          {
+            "text": "Existe algo novo ou algo que tenha desenvolvido até este ponto da história de Jesus?"
+          },
+          {
+            "text": "O que aprendemos sobre a humanidade ou a divindade de Jesus nessa passagem?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que conhecemos essa história?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Perguntas adicionais que você pode usar:</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "O que estão aprendendo seus seguidores?"
+          },
+          {
+            "text": "O que Jesus está modelando sobre a vida, o ministério e a liderança piedosa?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Após 40 dias no deserto, Jesus começa Sua missão de fazer discípulos. Ele começa a ser modelos para nós de um estilo de vida de buscar relacionamentos aceitos. André, Pedro, João, Felipe e Natanael se conheciam. Jesus começa chamando pessoas para “vir e ver” (venha e investigue os fatos) quem Ele é. Ele então abre seus olhos para a verdade de que Ele é o Messias prometido. Conforme as pessoas acreditam, Jesus muda Sua mensagem para “Siga-Me”. Duas chamadas, uma para aqueles que ainda não creram e uma para aqueles que creem."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Pratique ofertar e a comunhão aqui ou na sessão Preparar para a Missão.</em>"
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Pratique as habilidades necessárias ou assuntos prévios para te ajudar a preparar-se para ministrar aos demais:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Orar, Cuidar e Compartilhar"
+                  },
+                  {
+                    "text": "Compartilhar o Evangelho"
+                  },
+                  {
+                    "text": "Estudos Bíblicos Fundamentais"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique pessoas ou lugares onde tomará a iniciativa de ministrar nessa semana."
+          },
+          {
+            "text": "Escreva suas declarações de “Eu farei........ no dia ........” e compartilhe em seu pequeno grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Apresente as metas de todos ao Senhor. Peça ao Senhor que nos ajude a ser fiéis e que Ele nos use para iniciar um movimento de fazedores de discípulos."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Benção (opcional)",
+        "level": 2
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply2-multiply208-i-will"
+      }
+    }
+  ]
+}

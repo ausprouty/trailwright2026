@@ -1,0 +1,64 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply2intro2",
+  "sortOrder": 8,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"\" src=\"/sites/mc2/content/M2/por/multiply2/Period2.png\" style=\"width:100%\"></span>"
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "Estabelecendo uma fundação relacional, centrada em Deus para fazer discípulos. Começando em meados de 26 D.C., com cerca de 30 anos, este período durou por volta de 18-21 meses, do Batismo, Começo do ministério público, contatos iniciais ({João 1:35-44}) e primeiros seguidores e crescente multidão ({João 4:1-4}), através da primeira rejeição em Sua cidade natal, Nazaré ({Lucas 4:16-31}). Este período observa fundações ministeriais estabelecidas e um ambiente relacional edificado reunindo pessoas como seguidores do novo caminho. Durante esta fase o ministério de Jesus começa com nada, cresce com o tempo e cresce mais do que o ministério de João Batista antes de seu aprisionamento. ({João 4:1-3}; {Mateus 4:12}; {Lucas 3:19-20})",
+        "references": [
+          {
+            "id": "popup_pop7",
+            "marker": "João 1:35-44",
+            "label": "João 1:35-44",
+            "passage": "<h3>Os primeiros discípulos de Jesus</h3><p><sup>35</sup>No dia seguinte, João estava outra vez ali com dois dos seus discípulos.<sup>36</sup>Quando viu Jesus passar, disse:</p><p>— Aí está o Cordeiro de Deus!</p><p><sup>37</sup>Quando os dois discípulos de João ouviram isso, saíram seguindo Jesus.<sup>38</sup>Então Jesus olhou para trás, viu que eles o seguiam e perguntou:</p><p>— O que é que vocês estão procurando?</p><p>Eles perguntaram:</p><p>— Rabi, onde é que o senhor mora? (“Rabi” quer dizer “mestre”.)</p><p><sup>39</sup>— Venham ver! — disse Jesus.</p><p>Então eles foram, viram onde Jesus estava morando e ficaram com ele o resto daquele dia. Isso aconteceu mais ou menos às quatro horas da tarde.</p><p><sup>40</sup>André, irmão de Simão Pedro, era um dos dois homens que tinham ouvido João falar a respeito de Jesus e por isso o haviam seguido.<sup>41</sup>A primeira coisa que André fez foi procurar o seu irmão Simão e dizer a ele:</p><p>— Achamos o Messias. (“Messias” quer dizer “Cristo”.)</p><p><sup>42</sup>Então André levou o seu irmão a Jesus. Jesus olhou para Simão e disse:</p><p>— Você é Simão, filho de João, mas de agora em diante o seu nome será Cefas. (“Cefas” é o mesmo que “Pedro” e quer dizer “pedra”.)</p><p><sup>43</sup>No dia seguinte, Jesus resolveu ir para a região da Galileia. Antes de ir, foi procurar Filipe e disse:</p><p>— Venha comigo!</p><p><sup>44</sup>Filipe era de Betsaida, de onde eram também André e Pedro.</p>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "João 4:1-4",
+            "label": "João 4:1-4",
+            "passage": "<p><sup>1</sup>Os fariseus ouviram dizer que Jesus estava ganhando mais discípulos e batizava mais pessoas do que João.<sup>2</sup>(De fato, não era Jesus quem batizava, e sim os seus discípulos.)<sup>3</sup>Quando Jesus ficou sabendo disso, saiu da Judeia e voltou para a Galileia.<sup>4</sup>No caminho, ele tinha de passar pela região da Samaria.</p>"
+          },
+          {
+            "id": "popup_pop3",
+            "marker": "Lucas 4:16-31",
+            "label": "Lucas 4:16-31",
+            "passage": "<div><h3>Jesus em Nazaré</h3><p><sup>16</sup>Jesus foi para a cidade de Nazaré, onde havia crescido. No sábado, conforme o seu costume, foi até a sinagoga. Ali ele se levantou para ler as Escrituras Sagradas,<sup>17</sup>e lhe deram o livro do profeta Isaías. Ele abriu o livro e encontrou o lugar onde está escrito assim:</p><p><sup>18</sup>“O Senhor me deu o seu Espírito.<br>Ele me escolheu para levar boas notícias<br>aos pobres<br>e me enviou para anunciar a liberdade<br>aos presos,<br>dar vista aos cegos,<br>libertar os que estão sendo oprimidos<br><sup>19</sup>e anunciar que chegou o tempo<br>em que o Senhor salvará o seu povo.”</p></div><p><sup>20</sup>Jesus fechou o livro, entregou-o para o ajudante da sinagoga e sentou-se. Todas as pessoas ali presentes olhavam para Jesus sem desviar os olhos.<sup>21</sup>Então ele começou a falar. Ele disse:</p><p>— Hoje se cumpriu o trecho das Escrituras Sagradas que vocês acabam de ouvir.</p><p><sup>22</sup>Todos começaram a elogiar Jesus, admirados com a sua maneira agradável e simpática de falar, e diziam:</p><p>— Ele não é o filho de José?</p><p><sup>23</sup>Então Jesus disse:</p><p>— Sem dúvida vocês vão repetir para mim o ditado: “Médico, cure-se a você mesmo.” E também vão dizer: “Nós sabemos de tudo o que você fez em Cafarnaum; faça as mesmas coisas aqui, na sua própria cidade.”</p><p><sup>24</sup>E continuou:</p><p>— Eu afirmo a vocês que isto é verdade: nenhum profeta é bem-recebido na sua própria terra.<sup>25</sup>Eu digo a vocês que, de fato, havia muitas viúvas em Israel no tempo do profeta Elias, quando não choveu durante três anos e meio, e houve uma grande fome em toda aquela terra.<sup>26</sup>Porém Deus não enviou Elias a nenhuma das viúvas que viviam em Israel, mas somente a uma viúva que morava em Sarepta, perto de Sidom.<sup>27</sup>Havia também muitos leprosos em Israel no tempo do profeta Eliseu, mas nenhum deles foi curado. Só Naamã, o sírio, foi curado.</p><p><sup>28</sup>Quando ouviram isso, todos os que estavam na sinagoga ficaram com muita raiva.<sup>29</sup>Então se levantaram, arrastaram Jesus para fora da cidade e o levaram até o alto do monte onde a cidade estava construída, para o jogar dali abaixo.<sup>30</sup>Mas ele passou pelo meio da multidão e foi embora.</p><p><sup>31</sup>Então Jesus foi para Cafarnaum, uma cidade da região da Galileia. Ali ele ensinava o povo nos sábados.</p>"
+          },
+          {
+            "id": "popup_pop4",
+            "marker": "João 4:1-3",
+            "label": "João 4:1-3",
+            "passage": "<p><sup>1</sup>Os fariseus ouviram dizer que Jesus estava ganhando mais discípulos e batizava mais pessoas do que João.<sup>2</sup>(De fato, não era Jesus quem batizava, e sim os seus discípulos.)<sup>3</sup>Quando Jesus ficou sabendo disso, saiu da Judeia e voltou para a Galileia.</p>"
+          },
+          {
+            "id": "popup_pop5",
+            "marker": "Mateus 4:12",
+            "label": "Mateus 4:12",
+            "passage": "<p><sup>12</sup>Quando Jesus soube que João tinha sido preso, foi para a região da Galileia.</p>"
+          },
+          {
+            "id": "popup_pop6",
+            "marker": "Lucas 3:19-20",
+            "label": "Lucas 3:19-20",
+            "passage": "<p><sup>19</sup>Mas falou contra o governador Herodes porque ele havia casado com Herodias, a esposa do irmão do próprio Herodes. E também porque ele tinha feito muitas outras coisas más.<sup>20</sup>Então Herodes fez uma coisa ainda pior: mandou pôr João na cadeia.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "jpn",
+  "htmlLang": "ja",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply3",
+  "lessonId": "multiply3intro４",
+  "sortOrder": 34,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"\" src=\"/sites/mc2/content/M2/jpn/multiply3/Trip2.webp\"></span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "第4期：新たなムーブメントの拠点におけるリーダーの訓練（アンティオキアからの第二回宣教旅行）［西暦49年〜51年］"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "要約",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "この時期は、アンティオキアから送り出された第二の宣教チームの旅を扱っています。この期間の特徴として、地域の中心都市に福音が広がり、弟子づくりのムーブメントが拡大し、御国のための働き人がさらに育てられていったことが挙げられます。"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "この期間に書かれた書簡",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "テサロニケ人への手紙第一（西暦50年・51年）"
+          },
+          {
+            "text": "テサロニケ人への手紙第二（西暦50年・51年）"
+          }
+        ]
+      }
+    }
+  ]
+}

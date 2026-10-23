@@ -1,0 +1,73 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "eng",
+  "htmlLang": "en",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply2intro1",
+  "sortOrder": 2,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span class=\"zoom\"><img alt=\"Stage of Ministry\" class=\"lesson_image\" src=\"/sites/mc2/content/M2/eng/multiply2/Period1.png\"></span><br> Period 1: Preparation: around 4 B.C. – 26 AD"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Preparing for a life and movement of multiplication",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "This period lasts from Jesus’ birth around 4 BC to about 30 years of age. This period is characterized by the following:"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Becoming the person He sought to multiply in others"
+          },
+          {
+            "text": "Preparing for a godly life and a movement of multiplication"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bibleReference",
+      "data": {
+        "text": "Over the first 30 years of His life, Jesus “grew and became” ({Luke 2:40}, {Luke 2:51-52}) the Person He was going to multiply in others. All of this took place before His public ministry started. It was evident, from the beginning of His ministry, that Jesus had been praying, planning and clarifying what His ministry would be and how He would do it.",
+        "references": [
+          {
+            "id": "popup_pop1",
+            "marker": "Luke 2:40",
+            "label": "Luke 2:40",
+            "passage": "<p><sup>40</sup>And the child grew and became strong; he was filled with wisdom, and the grace of God was on him.</p>"
+          },
+          {
+            "id": "popup_pop2",
+            "marker": "Luke 2:51-52",
+            "label": "Luke 2:51-52",
+            "passage": "<p><sup>51</sup>Then he went down to Nazareth with them and was obedient to them. But his mother treasured all these things in her heart.<sup>52</sup>And Jesus grew in wisdom and stature, and in favor with God and man.</p>"
+          }
+        ],
+        "isOpen": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "The passion of His heart was pure. His purpose was clear. The ministry process He decided on was simple. He would connect with the lost, win them to Himself, build them in what it means to be a follower, train them in fishing for others and send them to multiply the same process with others.<br> Jesus determined that He would seek out and work through the people His Father had prepared."
+      }
+    }
+  ]
+}

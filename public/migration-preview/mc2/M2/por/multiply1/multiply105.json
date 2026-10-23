@@ -1,0 +1,427 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "por",
+  "htmlLang": "pt",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply1",
+  "lessonId": "multiply105",
+  "sortOrder": 5,
+  "blocks": [
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "back",
+        "title": "Olhando para trás",
+        "icon": "arrow-left"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Adoração",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Leia a Bíblia para fundamentar louvor e adoração.</em>"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Leia Apocalipse 7:12 “Louvor e glória, sabedoria, ação de graças, honra, poder e força sejam ao nosso Deus para todo o sempre.”"
+                  }
+                ]
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Cuidado",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Sirvam uns aos outros através de oração, aconselhamento bíblico e encorajamento.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Peça para cada pessoa compartilhar um ponto alto da semana e explicar um desafio pelo o qual passaram."
+          },
+          {
+            "text": "Pergunte, “O que você gostaria que Jesus fizesse por você esta semana?” Ore pelas necessidades uns dos outros."
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Celebrando Fidelidade",
+        "level": 2
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<em>Incentive a responsabilidade amorosa em obedecer a Jesus.</em>"
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Pergunte, “O que aconteceu quando você confiou suas metas e suas declarações “Eu vou____” a Deus?”"
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Motivação e Encorajamento",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "<em>Esboce uma visão de quem eles podem se tornar em Cristo e o que Deus pode fazer através deles.</em>"
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Exemplo: Deus nos deu todas as bênçãos espirituais através de Jesus. Ele nos adotou em Sua família e nos chama de filhos. “quando vocês ouviram e creram na palavra da verdade, o evangelho que os salvou, vocês foram selados com o Espírito Santo da promessa, que é a garantia da nossa herança.” ({Efésios 1:13-14}a) Que presente incrível! Esta é a promessa de Deus para você.",
+                "references": [
+                  {
+                    "id": "popup_pop1",
+                    "marker": "Efésios 1:13-14",
+                    "label": "Efésios 1:13-14",
+                    "passage": "<p><sup>13</sup>A mesma coisa aconteceu também com vocês. Quando ouviram a verdadeira mensagem, a boa notícia que trouxe para vocês a salvação, vocês creram em Cristo. E Deus pôs em vocês a sua marca de proprietário quando lhes deu o Espírito Santo, que ele havia prometido.<sup>14</sup>O Espírito Santo é a garantia de que receberemos o que Deus prometeu ao seu povo, e isso nos dá a certeza de que Deus dará liberdade completa aos que são seus. Portanto, louvemos a sua glória.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-1"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "up",
+        "title": "Olhando para cima",
+        "icon": "arrow-up"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Contexto",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Após a ressurreição de Jesus, Ele apareceu aos Seus discípulos muitas vezes durante um período de 40 dias. Uma vez Ele apareceu enquanto eles se reuniram em uma grande sala e Jesus explicou a importância de Sua Palavra."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Leitura",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia ou assista Lucas 24:36-49 duas vezes enquanto todos escutam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "biblePassage",
+      "data": {
+        "reference": "Lucas 24:36-49",
+        "html": "<h3>Jesus aparece aos discípulos</h3> <p><sup>36</sup>Enquanto estavam contando isso, Jesus apareceu de repente no meio deles e disse:</p> <p>— Que a paz esteja com vocês!</p> <p><sup>37</sup>Eles ficaram assustados e com muito medo e pensaram que estavam vendo um fantasma.<sup>38</sup>Mas ele disse:</p> <p>— Por que vocês estão assustados? Por que há tantas dúvidas na cabeça de vocês?<sup>39</sup>Olhem para as minhas mãos e para os meus pés e vejam que sou eu mesmo. Toquem em mim e vocês vão crer, pois um fantasma não tem carne nem ossos, como vocês estão vendo que eu tenho.</p> <p><sup>40</sup>Jesus disse isso e mostrou as suas mãos e os seus pés.<sup>41</sup>Eles ainda não acreditavam, pois estavam muito alegres e admirados. Então ele perguntou:</p> <p>— Vocês têm aqui alguma coisa para comer?</p> <p><sup>42</sup>Eles lhe deram um pedaço de peixe assado,<sup>43</sup>que ele pegou e comeu diante deles.<sup>44</sup>Depois disse:</p> <p>— Enquanto ainda estava com vocês, eu disse que tinha de acontecer tudo o que estava escrito a meu respeito na Lei de Moisés, nos livros dos Profetas e nos Salmos.</p> <p><sup>45</sup>Então Jesus abriu a mente deles para que eles entendessem as Escrituras Sagradas<sup>46</sup>e disse:</p> <p>— O que está escrito é que o Messias tinha de sofrer e no terceiro dia ressuscitar.<sup>47</sup>E que, em nome dele, a mensagem sobre o arrependimento e o perdão dos pecados seria anunciada a todas as nações, começando em Jerusalém.<sup>48</sup>Vocês são testemunhas dessas coisas.<sup>49</sup>E eu lhes mandarei o que o meu Pai prometeu. Mas esperem aqui em Jerusalém, até que o poder de cima venha sobre vocês.</p>",
+        "url": "https://biblegateway.com/passage/?search=Luke%2024:36-49&version=NTLH",
+        "isOpen": false
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "title": "Lucas 24:36-49",
+        "url": "https://api.arclight.org/videoPlayerUrl?refId=6_529-GOLuke2625",
+        "source": "arclight",
+        "refId": "6_529-GOLuke2625",
+        "startTime": "5:39",
+        "endTime": "7:55",
+        "isOpen": false,
+        "isEditing": false
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Discussão de Descoberta",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Todos contam o que chamou mais a atenção para cada um (ou do que mais gostaram) e porquê."
+          },
+          {
+            "text": "Por que você acha que esta história é importante?"
+          },
+          {
+            "text": "Como podemos viver de maneira diferente agora que ouvimos esta história (passagem)?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-2"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Ler, Contar e Corrigir",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Leia a história novamente. Peça para alguém contar a história e peça ao grupo corrigir se necessário."
+          }
+        ]
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Resumo",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Jesus quer que entendamos a Palavra de Deus e o que a Bíblia tem para nos ensinar sobre Ele. A vida de Jesus cumpriu as promessas na Palavra de Deus. Ele quer que contemos a outros sobre o que aprendemos."
+              }
+            },
+            {
+              "type": "bibleReference",
+              "data": {
+                "text": "Leia {2 Timóteo 3:16-17},{} {Romanos 10:17} e {Hebreus 4:12} para ver mais verdades sobre a Palavra de Deus.",
+                "references": [
+                  {
+                    "id": "popup_pop2",
+                    "marker": "2 Timóteo 3:16-17",
+                    "label": "2 Timóteo 3:16-17",
+                    "passage": "<p><sup>16</sup>Pois toda a Escritura Sagrada é inspirada por Deus e é útil para ensinar a verdade, condenar o erro, corrigir as faltas e ensinar a maneira certa de viver.<sup>17</sup>E isso para que o servo de Deus esteja completamente preparado e pronto para fazer todo tipo de boas ações.</p>"
+                  },
+                  {
+                    "id": "popup_pop3",
+                    "marker": "",
+                    "label": "",
+                    "passage": "<p><sup>17</sup>Portanto, a fé vem por ouvir a mensagem, e a mensagem vem por meio da pregação a respeito de Cristo.</p>"
+                  },
+                  {
+                    "id": "popup_pop3",
+                    "marker": "Romanos 10:17",
+                    "label": "Romanos 10:17",
+                    "passage": "<p><sup>17</sup>Portanto, a fé vem por ouvir a mensagem, e a mensagem vem por meio da pregação a respeito de Cristo.</p>"
+                  },
+                  {
+                    "id": "popup_pop4",
+                    "marker": "Hebreus 4:12",
+                    "label": "Hebreus 4:12",
+                    "passage": "<p><sup>12</sup>Pois a palavra de Deus é viva e poderosa e corta mais do que qualquer espada afiada dos dois lados. Ela vai até o lugar mais fundo da alma e do espírito, vai até o íntimo das pessoas e julga os desejos e pensamentos do coração delas.</p>"
+                  }
+                ],
+                "isOpen": false
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Ler a Bíblia todos os dias é uma parte importante em conhecer Jesus."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-3"
+      }
+    },
+    {
+      "type": "sectionMarker",
+      "data": {
+        "theme": "forward",
+        "title": "Olhando para a frente",
+        "icon": "arrow-right"
+      }
+    },
+    {
+      "type": "collapsibleGroup",
+      "data": {
+        "title": "Preparar para a Missão",
+        "isOpen": false,
+        "content": {
+          "blocks": [
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Faça um compromisso de ler pelo menos um capítulo da Palavra de Deus todos os dias, começando pelo Evangelho de João."
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Ore para que o Espírito Santo te ensine através de Sua Palavra, leia o capítulo, e depois responda três perguntas:"
+              }
+            },
+            {
+              "type": "list",
+              "data": {
+                "style": "unordered",
+                "items": [
+                  {
+                    "text": "Sobre o que é essa passagem?"
+                  },
+                  {
+                    "text": "Como posso aplicar em minha vida?"
+                  },
+                  {
+                    "text": "Quem eu posso ajudar usando essa passagem?"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "data": {
+                "text": "Medite no que o Espírito Santo ensinou sobre o significado dessa passagem."
+              }
+            }
+          ],
+          "version": "2.31.5"
+        }
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Partir para a Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Identifique 5 pessoas da sua Lista de Relacionamentos para quem você contará esta história ou com quem você compartilhará o evangelho esta semana ."
+          },
+          {
+            "text": "Escreva suas declarações “Eu vou ___” e compartilhe-as com seu grupo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "notesArea",
+      "data": {
+        "notes": "",
+        "storageKey": "note-4"
+      }
+    },
+    {
+      "type": "header",
+      "data": {
+        "text": "Orando pela Missão",
+        "level": 2
+      }
+    },
+    {
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "text": "Entregue as metas de todos ao Senhor. Peça ao Senhor para nos ajudar a sermos fiéis e para nos usar para iniciar um movimento de discipuladores."
+          }
+        ]
+      }
+    },
+    {
+      "type": "iWill",
+      "data": {
+        "storageKey": "multiply1-multiply105-i-will"
+      }
+    }
+  ]
+}

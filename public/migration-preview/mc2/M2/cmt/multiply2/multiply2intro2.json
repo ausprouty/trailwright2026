@@ -1,0 +1,31 @@
+{
+  "site": "mc2",
+  "country": "M2",
+  "language": "cmt",
+  "htmlLang": "zh-Hant",
+  "direction": "ltr",
+  "numberSystem": "latn",
+  "series": "multiply2",
+  "lessonId": "multiply2intro2",
+  "sortOrder": 8,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<img alt=\"\" src=\"/content/M2/cmn/multiply2/M2P2.png\">"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">這段時間始於公元</span><span lang=\"EN-US\">26</span><span lang=\"ZH-CN\">年中期，當時耶穌大約</span><span lang=\"EN-US\">30</span><span lang=\"ZH-CN\">歲，並持續了</span><span lang=\"EN-US\">18-21</span><span lang=\"ZH-CN\">個月。 耶穌從受洗，到開始公開傳道、到首度接觸群眾（約</span><span lang=\"EN-US\">1:35-44</span><span lang=\"ZH-CN\">）逐漸增加，並尋找祂第一批跟隨者和那些想更認識祂的群眾（約</span><span lang=\"EN-US\">4:1-4</span><span lang=\"ZH-CN\">），以祂在拿撒勒被家鄉的人拒絕為結束（路</span><span lang=\"EN-US\">4:16-31</span><span lang=\"ZH-CN\">）。</span>"
+      }
+    },
+    {
+      "type": "paragraph",
+      "data": {
+        "text": "<span lang=\"ZH-CN\">這時期的特點是奠定事工的基礎。耶穌有意營造關係型的環境，以新的方式呼召人來作門徒。耶穌的事工從無到有，直至超越了施洗約翰的事工。（約</span><span lang=\"EN-US\">4:1-3</span><span lang=\"ZH-CN\">；太</span><span lang=\"EN-US\">4:12</span><span lang=\"ZH-CN\">；路</span><span lang=\"EN-US\">3:19-20</span><span lang=\"ZH-CN\">）。</span>"
+      }
+    }
+  ]
+}
